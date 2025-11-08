@@ -1,0 +1,2 @@
+# cci
+Computer chess index
