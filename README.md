@@ -1,80 +1,75 @@
 # The Computer Chess Index (CCI)
 
-A curated, structured and evolving catalog of computer chess engines, benchmarks, and configurations.
+A growing reference list and documentation project for computer chess engines.
 
 ---
 
 ## 🧩 About
 
-The **Computer Chess Index (CCI)** aims to create a comprehensive, transparent, and historically aware registry of chess engines and their technical characteristics.
+The **Computer Chess Index (CCI)** is an open and continuously evolving attempt  
+to document, organize, and preserve information about computer chess engines —  
+their origins, versions, and development over time.
 
-The project provides:
-- A relational dataset of chess engines, versions, authors, and benchmarks.
-- Metadata about architectures, evaluation techniques, and supported platforms.
-- Automated routines for dataset import, transformation, and validation.
-- Periodic reports and analyses of engine evolution.
+The goal is not to rank or evaluate engines,  
+but to provide a *reliable reference structure* for anyone interested in  
+the technical and historical landscape of computer chess.
 
-The purpose is **documentation, reproducibility, and preservation** – not competition or ranking.
-
----
-
-## 🧱 Project Goals
-
-1. **Cataloging**  
-   Gather and maintain structured metadata for as many chess engines as possible (past and present).
-
-2. **Standardization**  
-   Define a stable schema for technical and historical attributes.
-
-3. **Transparency**  
-   Make information reproducible and verifiable.
-
-4. **Accessibility**  
-   Provide open formats (CSV, SQL, JSON) for research and archival purposes.
+This repository begins as a **personal initiative**,  
+built around data collection, normalization routines, and transparent reporting.
 
 ---
 
-## ⚙️ Technical Structure
+## 🧱 Current Focus
 
-| Component | Description |
-|------------|-------------|
-| `/data/` | Raw and normalized datasets (e.g. engine list, benchmarks) |
-| `/schema/` | Database structure definitions |
+- Collecting and verifying public information on known chess engines  
+- Building a clean, consistent data model for long-term use  
+- Publishing regular update reports and basic metadata exports  
+- Exploring automated data imports and validation workflows  
+
+---
+
+## ⚙️ Structure (planned)
+
+| Folder | Purpose |
+|---------|----------|
+| `/data/` | Collected datasets (CSV, JSON) |
+| `/schema/` | Database structure and relations |
 | `/scripts/` | Import and transformation routines |
-| `/reports/` | Aggregated summaries and analyses |
-| `/docs/` | Reference documentation and changelogs |
+| `/reports/` | Summaries and update logs |
+| `/docs/` | General documentation and background notes |
 
 ---
 
 ## 🕰️ Status
 
-Currently in early data curation phase.  
-The focus is on establishing reliable identifiers, metadata validation routines, and version control of the dataset.
+Early stage – initial data gathering and format definition.  
+Expect frequent revisions and structural changes.
+
+If you’d like to contribute by sharing verified information,  
+suggesting structure improvements, or testing data workflows,  
+contributions and feedback are welcome.
 
 ---
 
-## 🌍 Community & Support
+## 🌍 Support
 
-This project is maintained as a **community resource**.  
-If you wish to support ongoing maintenance and research, you can do so via:
-
-- **GitHub Sponsors**: [computer-chess-index](https://github.com/sponsors/computer-chess-index)  
-- Or by sharing information about legacy or hard-to-find engines.
+This project is maintained voluntarily.  
+If you wish to support its continuation and documentation efforts,  
+you can do so via **GitHub Sponsors**:  
+👉 [computer-chess-index](https://github.com/sponsors/computer-chess-index)
 
 ---
 
 ## 📜 License
 
-All metadata and documentation are published under the **CC BY-SA 4.0** license.  
-All referenced binaries, source codes or materials remain property of their respective authors.
+Metadata and documentation are released under **CC BY-SA 4.0**.  
+All referenced binaries or original works remain property of their respective authors.
 
 ---
 
-## 🧠 Inspiration
+## 🧭 Notes
 
-> “A machine that plays chess is not just a tool — it is a mirror of our reasoning.”
+This is not an official archive or institution — just a careful,  
+structured, and long-term effort to make sense of the evolving field of computer chess.
 
-The **Computer Chess Index** preserves this evolving dialogue between human thought and algorithmic design.
-
----
-
+> “Every engine is a reflection of its time.”
