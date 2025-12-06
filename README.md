@@ -10,8 +10,7 @@ The **Computer Chess Index (CCI)** is an open and continuously evolving attempt
 to document, organize, and preserve information about computer chess engines —  
 their origins, versions, and development over time.
 
-The goal is not to rank or evaluate engines,  
-but to provide a *reliable reference structure* for anyone interested in  
+The goal is to provide a *reliable reference structure* for anyone interested in  
 the technical and historical landscape of computer chess.
 
 This repository begins as a **personal initiative**,  
