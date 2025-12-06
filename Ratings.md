@@ -2,7 +2,7 @@
 
 Generated: 2025-12-06 19:28:44
 
-Engine | Version | Published | STC | LTC | VLTC | Author | Home 
+Engine | Version | Published at | STC | LTC | VLTC | Author | Home 
 --- | --- | --- | --- | --- | --- | --- | ---
 | Stockfish | 17.1 | 2025-03-30 | 3587 | 3666 | 3684 | https://github.com/official-stockfish/Stockfish/blob/master/AUTHORS | https://github.com/official-stockfish/Stockfish |
 | Obsidian | 16.0 | 2025-05-21 | 3560 | 3643 | 3660 | Gabriele Lombardo | https://github.com/gab8192/Obsidian |
