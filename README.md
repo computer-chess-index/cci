@@ -31,10 +31,10 @@ built around data collection, normalization routines, and transparent reporting.
 
 | Folder | Purpose |
 |---------|----------|
-| `/data/` | Collected datasets (CSV, JSON) |
-| `/schema/` | Database structure and relations |
-| `/scripts/` | Import and transformation routines |
-| `/reports/` | Summaries and update logs |
+| `/Prerelease/` | New releases |
+| `/Releases/` | YYYY.MM Overview of that months releases |
+| `/lists/` | complete lists of engines and evaluations |
+| `/engines/` | Engine overviews |
 | `/docs/` | General documentation and background notes |
 
 ---
@@ -52,10 +52,10 @@ contributions and feedback are welcome.
 
 ## 🌍 Support
 
-This project is maintained voluntarily.  
+This project is maintained voluntarily.
+Support channels like **GitHub Sponsors** are not set up yet.
 If you wish to support its continuation and documentation efforts,  
-you can do so via **GitHub Sponsors**:  
-👉 [computer-chess-index](https://github.com/sponsors/computer-chess-index)
+contact me, so we can set up this important part of any further development together.
 
 ---
 
