@@ -72,3 +72,7 @@ This is not an official archive or institution — just a careful,
 structured, and long-term effort to make sense of the evolving field of computer chess.
 
 > “Every engine is a reflection of its time.”
+
+## Contact
+
+computer-chess-index (at) proton.me
