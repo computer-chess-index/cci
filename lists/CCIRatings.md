@@ -1,0 +1,77 @@
+# CCI Ratings (ELO VLTC Ranking)
+
+Generated: 2025-12-22 16:43:01
+
+| Engine | Version | Published | STC | LTC | VLTC | Author | Home |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stockfish | 17.1 | 2025-03-30 | 3592 | 3670 | 3687 | https://github.com/official-stockfish/Stockfish/blob/master/AUTHORS | https://github.com/official-stockfish/Stockfish |
+| Obsidian | 16.0 | 2025-05-21 | 3563 | 3648 | 3664 | Gabriele Lombardo | https://github.com/gab8192/Obsidian |
+| Alexandria | 8.1.12 | 2025-11-09 | 3562 | 3652 | 3662 | PGG106 | https://github.com/PGG106/Alexandria |
+| Stormphrax | 7.0.0 | 2025-06-24 | 3499 | 3618 | 3648 | Ciekce | https://github.com/Ciekce/Stormphrax |
+| Berserk | 13 | 2024-03-31 | 2194 | 3626 | 3646 | Jay Honnold | https://github.com/jhonnold/berserk |
+| Clover | 9.1 | 2025-09-14 | 3512 | 3633 | 3646 | Luca Metehau | https://github.com/lucametehau/CloverEngine |
+| PlentyChess | 7.0.0 | 2025-09-25 | 3655 |  | 3645 | Patrick Leonhardt | https://github.com/Yoshie2000/PlentyChess |
+| Motor | 0.9.0 | 2025-06-02 | 3483 | 3606 | 3639 | Martin Novák | https://github.com/martinnovaak/motor |
+| Caissa | 1.24 | 2025-12-03 | 3528 | 3629 | 3638 | Michał Witanowski | https://github.com/Witek902/Caissa |
+| Quanticade | 3.0 | 2025-12-15 | 3488 | 3620 | 3638 | Martin Botka | https://github.com/Quanticade/Quanticade |
+| Viridithas | 18.0.0 | 2025-08-25 | 3526 | 3619 | 3632 | Cosmo Bobak | https://github.com/cosmobobak/viridithas |
+| Horsie | 1.1 | 2025-05-13 | 3500 | 3605 | 3629 | Liam McGuire | https://github.com/liamt19/Horsie |
+| Lizard | 11.2 | 2025-01-08 | 3462 | 3595 | 3621 | Liam McGuire | https://github.com/liamt19/Lizard |
+| Cinder | 0.4.1 | 2025-12-05 | 3499 | 3588 | 3613 | Bruno Dutra | https://github.com/brunocodutra/cinder |
+| Titan | 1.1 | 2024-06-09 | 3420 | 3560 | 3586 | Jeff Powell | https://github.com/jeff-pow/Titan |
+| Velvet | 8.1.1 | 2024-11-06 | 3451 | 3567 | 3585 | Mhonert | https://github.com/mhonert/velvet-chess |
+| Clarity | 8.0.0 | 2025-07-09 | 3444 | 3551 | 3584 | Joseph Pasfield | https://github.com/Vast342/Clarity |
+| Igel | 3.6.0 | 2024-12-28 | 3379 | 3539 | 3579 | Volodymyr Shcherbyna | https://github.com/vshcherbyna/igel |
+| Koivisto | 9.0 | 2023-01-15 | 3444 | 3550 | 3577 | Finn Eggers | https://github.com/Luecx/Koivisto |
+| Fire | 10.0 | 2025-08-09 | 3348 | 3523 | 3556 | Norman Schmidt | https://github.com/Firefather/fire |
+| Blackmarlin | 9.0 | 2024-02-28 | 3381 | 3521 | 3548 | Doruk Sekercioglu | https://github.com/jnlt3/blackmarlin |
+| Yukari | 2025.11.1 | 2025-10-31 | 3336 | 3466 | 3514 | Yukari Chess | https://github.com/yukarichess/yukari |
+| Ynode | 0219 | 2025-11-16 | 3348 | 3477 | 3505 | oozturk777 | https://github.com/oozturk777/ynode |
+| Carp | 3.0.1 | 2023-09-25 | 3249 | 3443 | 3489 | Andrea Sgobbi | https://github.com/dede1751/carp |
+| Eleanor | 3.0 | 2025-12-05 | 3274 | 3417 | 3475 | Mark Kasa | https://github.com/rektdie/Eleanor |
+| Prelude | 2.1 | 2025-12-10 | 3272 | 3436 | 3466 |  | https://github.com/Quinniboi10/Prelude |
+| PZChessBot | 5.0 | 2025-10-19 | 3285 | 3418 | 3441 | Kevin Lu | https://github.com/kevlu8/PZChessBot |
+| Tcheran | 9.0 | 2025-12-08 | 3271 | 3385 | 3426 | Jonathan Gilchrist | https://github.com/tcheran-chess/tcheran |
+| Arcanum | 2.7 | 2025-10-18 | 3190 | 3400 | 3425 | Lars Aurud | https://github.com/LarsAur/Arcanum |
+| Lynx | 1.11.0 | 2025-10-01 | 3162 | 3359 | 3417 | Eduardo Caceres | https://github.com/lynx-chess/Lynx |
+| Minke | 3.0.0 | 2025-10-20 | 3234 | 3398 | 3416 | Eduardo Marinho | https://github.com/enfmarinho/Minke |
+| Quirky | 2.1 | 2025-11-25 | 3209 | 3385 | 3409 | Anton Kernozhitsky | https://github.com/Wind-Eagle/Quirky |
+| Lc0 | 0.32.1 | 2025-11-23 | 2834 | 3275 | 3397 | https://lczero.org/ | https://github.com/LeelaChessZero/lc0 |
+| Petrel | 3.2 | 2025-12-21 | 3189 | 3297 | 3383 | Aleks Peshkov | https://github.com/AleksPeshkov/petrel |
+| bitbit | 1.6 | 2025-10-18 | 3186 | 3350 | 3375 | Isak Ellmer | https://github.com/Spinojara/bitbit |
+| Publius | 1.0 | 2025-10-19 | 3126 | 3332 | 3348 | Koziol Pawel | https://github.com/nescitus/publius |
+| Cwtch | 4 | 2025-12-05 | 3117 | 3308 | 3347 | Colin Jenkins | https://github.com/op12no2/cwtch |
+| Laser | 1.7 | 2019-02-07 | 3087 | 3290 | 3336 | Jeffrey An | https://github.com/jeffreyan11/laser-chess-engine |
+| Princhess | 0.21.0 | 2025-10-13 | 3125 | 3304 | 3323 | Lana Samson | https://github.com/princesslana/princhess |
+| Sturddle2 | 2.4.0 | 2025-12-06 | 2980 | 3246 | 3315 | Cristian Vlasceanu | https://github.com/cristivlas/sturddle-2 |
+| Vajolet2 | 3.0 | 2025-12-21 | 3028 | 3226 | 3305 | Marco Belli | https://github.com/elcabesa/vajolet |
+| Myrddin | 0.94 | 2025-12-11 | 2958 | 3175 | 3299 | John Merlino | https://github.com/JVMerlino/Myrddin |
+| Pounce | 3.0.0 | 2025-10-13 | 3046 | 3206 | 3283 | Alex Flick | https://github.com/0xflick/pounce |
+| Chessnix | 1.2 | 2025-12-12 | 2937 | 2980 | 3283 | Langedijk Eric | https://github.com/ericlangedijk/chessnix/ |
+| Anubis | 3.0.6 | 2025-10-02 | 2860 | 3214 | 3281 | Jose Carlos Martinez Galan | https://github.com/Lacovipo/Anubis-chess-engine |
+| ice4 | 6.1 | 2025-10-27 | 2922 | 3199 | 3265 | Carlson Mark | https://github.com/MinusKelvin/ice4 |
+| Prune | 3.0.0 | 2025-12-06 | 2985 | 3171 | 3256 | Thomas Girolami | https://github.com/tgirolami09/Prune |
+| Yakka | 1.4 | 2025-11-11 | 2980 | 3161 | 3219 | Christopher Crone | https://github.com/CJDalrymple/Yakka |
+| Thrawn | 2.2 | 2025-10-08 | 2884 | 3126 | 3196 | Feiyu Lin | https://github.com/feftywacky/Thrawn |
+| Meltdown | 1.11 | 2025-11-15 | 3022 | 3133 | 3177 | Hans Binderup, Clara Shepherd | https://github.com/hansbinderup/meltdown-chess-engine |
+| 4kc | 5.0 | 2025-10-30 | 2882 | 3112 | 3143 | Masaitis Gediminas | https://github.com/GediminasMasaitis/4k-dot-c |
+| JackyChess | 25.12 | 2025-12-03 | 2696 | 2972 | 3060 | Matthias Lang | https://github.com/matthiaslang/jackychess |
+| Grail | 1.0.2 | 2025-12-16 | 2688 | 2942 | 3005 | Jorgen Hanssen | https://github.com/jorgenhanssen/grail |
+| Reyna | 1.0 | 2025-10-20 | 2746 | 2906 | 2961 | Renz Targa | https://github.com/renztarga/Reyna |
+| Eubos | 4.2 | 2025-10-16 | 2636 | 2823 | 2928 | Chris Bolt | https://github.com/cjbolt/EubosChess |
+| Challenger | 0.6.0 | 2025-10-02 | 2598 | 2789 | 2886 | Simjanovski Nikola | https://github.com/SimjanovskiNikola/FRI_Challenger |
+| CeeChess | 2.2 | 2025-11-05 | 2630 | 2834 | 2874 | Tom Reinitz | https://github.com/bctboi23/CeeChess |
+| Amira | 1.71 | 2025-10-30 | 2642 | 2828 | 2859 | Fauzi Dabat Akram | https://github.com/FauziAkram/amira |
+| Rexigon | 1.0 | 2025-11-30 | 2543 | 2760 | 2848 |  | https://github.com/silentshark-uk/rexigon |
+| Aconcagua | 4.1.0 | 2025-12-14 | 2503 | 2711 | 2795 | Tarifa Gabriel | https://github.com/gabtar/aconcagua |
+| Lolbot | 0.2.3 | 2025-12-08 | 2547 | 2699 | 2771 | Vedeler Lorentz | https://github.com/loldot/lolbot |
+| Soomi | 1.1.8 | 2025-12-16 | 2394 | 2632 | 2666 | Laukkanen Otto | https://github.com/Koma1867/Soomi-V1-Chess-engine-in-golang |
+| Echekinator | 1.0 | 2025-11-25 | 2389 | 2537 | 2625 |  | https://github.com/Tym972/Echekinator |
+| PurplePanda | 20 | 2025-12-15 | 2268 | 2440 | 2511 | Jakob Steininger | https://github.com/Jakob256/PurplePanda |
+| Kreveta | 2.0.0 | 2025-12-01 | 2227 | 2432 | 2501 | Michna Daniel | https://github.com/ZlomenyMesic/Kreveta |
+| Chess-rs | 0.6.0 | 2025-11-11 | 2282 | 2421 | 2475 | Cant Tom | https://github.com/tomcant/chess-rs |
+| Plisco | 1.0.1 | 2025-12-21 | 2119 | 2464 | 2422 | Flohr Guido | https://github.com/gflohr/Chess-Plisco |
+| Zeppelin | 0.2.0 | 2025-11-16 | 1902 | 2053 | 2142 | Szczerbinski Jakub | https://github.com/jszczerbinsky/zeppelin |
+| MihanSolo | 9.0.0 | 2025-10-01 | 1918 | 1985 | 2078 | Benaragama Mihan | https://github.com/montypylons/mihansolo_bot |
+| Oops!Mate | 0.0.4 | 2025-11-23 | 1843 | 2031 | 2071 |  | https://github.com/PS-Wizard/OopsMate |
+| Algae | 1.0 | 2025-11-09 | 1974 | 1723 | 1616 | Paul Jerome Filio | https://github.com/PaulJeFi/algae |
