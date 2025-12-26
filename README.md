@@ -54,8 +54,7 @@ contributions and feedback are welcome.
 
 This project is maintained voluntarily.
 Support channels like **GitHub Sponsors** are not set up yet.
-If you wish to support its continuation and documentation efforts,  
-contact me, so we can set up this important part of any further development together.
+If you wish to support, I'll happily activate support channels.
 
 ---
 
@@ -73,6 +72,8 @@ structured, and long-term effort to make sense of the evolving field of computer
 
 > “Every engine is a reflection of its time.”
 
-## Contact
+---
+
+## ✉️ Contact
 
 computer-chess-index (at) proton.me
