@@ -76,4 +76,4 @@ structured, and long-term effort to make sense of the evolving field of computer
 
 ## ✉️ Contact
 
-computer-chess-index (at) tutamail.com
+computer-chess-index (at) proton.me
