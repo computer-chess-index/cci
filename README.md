@@ -48,6 +48,8 @@ If you’d like to contribute by sharing verified information,
 suggesting structure improvements, or testing data workflows,  
 contributions and feedback are welcome.
 
+> "With cautious skill, tap by tap — a small chip of rock, and no more, perhaps, in a whole anxious day — so could we work, and as the years went by we should open up new ways, and display far chambers that are still dark, glimpsed only as a void beyond fissures in the rock."
+
 ---
 
 ## 🌍 Support
