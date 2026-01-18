@@ -6,7 +6,7 @@ Home: https://github.com/paulsonkoly/chess-3
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0 | 2026-01-17 | 2489 | 2788 | 2846 |  |
+| 3.0 | 2026-01-17 | 2492 | 2788 | 2850 |  |
 | 2.0 | 2025-08-14 |  |  |  |  |
 | 1.0 | 2025-05-15 |  |  |  |  |
 
@@ -25,4 +25,4 @@ Opening book: 8_moves_v3
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-18 19:58:41
+Generated: 2026-01-18 22:25:29
