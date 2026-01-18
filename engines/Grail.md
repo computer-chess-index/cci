@@ -1,11 +1,11 @@
 # CCI Ratings (ELO VLTC Ranking)
 
-Generated: 2026-01-18 10:58:01
+Generated: 2026-01-18 11:00:15
 
 | Engine | Version | Published | STC | LTC | VLTC | Author | Home |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Grail | 1.0.4 | 2026-01-16 | 2439 | 2755 | 2915 | Jorgen Hanssen | https://github.com/jorgenhanssen/grail |
-| Grail | 1.0.0 | 2025-12-05 | 2284 | 2606 | 2824 | Jorgen Hanssen | https://github.com/jorgenhanssen/grail |
 | Grail | 1.0.3 | 2026-01-04 | 2376 | 2720 | 2793 | Jorgen Hanssen | https://github.com/jorgenhanssen/grail |
-| Grail | 1.0.1 | 2025-12-10 | 2317 | 2591 | 2773 | Jorgen Hanssen | https://github.com/jorgenhanssen/grail |
 | Grail | 1.0.2 | 2025-12-16 | 2346 | 2612 | 2720 | Jorgen Hanssen | https://github.com/jorgenhanssen/grail |
+| Grail | 1.0.1 | 2025-12-10 | 2317 | 2591 | 2773 | Jorgen Hanssen | https://github.com/jorgenhanssen/grail |
+| Grail | 1.0.0 | 2025-12-05 | 2284 | 2606 | 2824 | Jorgen Hanssen | https://github.com/jorgenhanssen/grail |
