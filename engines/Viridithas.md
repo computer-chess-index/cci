@@ -4,7 +4,7 @@ Author: Cosmo Bobak
 
 Home: https://github.com/cosmobobak/viridithas
 
-| Version | Published | STC | LTC | VLTC | Comment |
+| Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 19.0.1 | 2026-01-06 | 3432 | 3561 | 3583 |  |
 | 19.0.0 | 2026-01-04 | 3434 | 3561 | 3596 |  |
@@ -40,4 +40,19 @@ Home: https://github.com/cosmobobak/viridithas
 | 2.1.0 | 2022-07-04 |  |  |  |  |
 | 2.0.0 | 2022-05-13 |  |  |  |  |
 
-Generated: 2026-01-18 15:53:09
+ Test Conditions:
+
+GUI/CLI: <a href=https://github.com/cutechess/cutechess target="_blank">Cute-Chess</a>
+
+Elo Calculation: <a href=https://www.remi-coulom.fr/Bayesian-Elo/ target="_blank">Bayesian-Elo</a>
+
+CPU: Intel(R) Core(TM) i5-7500T 2.70GHz
+
+Opening book: 8_moves_v3
+
+\* STC: 8.0+0.08s, LTC: 60.0+0.60s, VLTC: 2m24s+1.12s
+
+ Lists:
+Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
+
+Generated: 2026-01-18 15:57:23
