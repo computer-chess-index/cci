@@ -1,10 +1,13 @@
 # CCI Ratings (ELO VLTC Ranking)
 
-Generated: 2026-01-18 12:34:10
+Generated: 2026-01-18 12:34:43
 
 Engine: Grail
+
 Author: Jorgen Hanssen
+
 Home: https://github.com/jorgenhanssen/grail
+
 | Version | Published | STC | LTC | VLTC |
 | --- | --- | --- | --- | --- |
 | 1.0.4 | 2026-01-16 | 2439 | 2755 | 2915 |
