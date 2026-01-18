@@ -6,7 +6,7 @@ Home: https://github.com/ppipelin/radiance
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.2 | 2026-01-17 | 1616 | 1868 | 1979 |  |
+| 4.2 | 2026-01-17 | 1648 | 1881 | 1989 |  |
 | 4.1 | 2025-08-16 |  |  |  |  |
 | 4.0.1 | 2025-04-17 |  |  |  |  |
 | 4.0 | 2025-04-16 |  |  |  |  |
@@ -26,4 +26,4 @@ Opening book: 8_moves_v3
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-18 19:58:47
+Generated: 2026-01-18 22:25:36
