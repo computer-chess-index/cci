@@ -1,8 +1,6 @@
-# CCI Ratings (ELO VLTC Ranking)
+# Engine: Grail
 
-Generated: 2026-01-18 12:34:43
-
-Engine: Grail
+Generated: 2026-01-18 12:36:23
 
 Author: Jorgen Hanssen
 
