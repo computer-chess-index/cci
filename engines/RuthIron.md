@@ -6,8 +6,8 @@ Home: https://github.com/themreKalkan/RuthIron
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 18.9 | 2026-01-16 |  |  |  |  |
-| 14.1 | 2025-12-28 |  |  |  |  |
+| 18.9 | 2026-01-16 |  |  |  | Loses on time |
+| 14.1 | 2025-12-28 |  |  |  | loses on time |
 | 18.8 |  |  |  |  |  |
 
  Test Conditions:
@@ -25,4 +25,4 @@ Opening book: 8_moves_v3
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-18 18:26:21
+Generated: 2026-01-18 19:58:48
