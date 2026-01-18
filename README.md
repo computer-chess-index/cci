@@ -31,7 +31,6 @@ built around data collection, normalization routines, and transparent reporting.
 
 | Folder | Purpose |
 |---------|----------|
-| `/Prerelease/` | New releases |
 | `/Releases/` | YYYY.MM Overview of that months releases |
 | `/lists/` | complete lists of engines and evaluations |
 | `/engines/` | Engine overviews |
