@@ -1,0 +1,38 @@
+# Engine: Zangdar
+
+Author: Carbecq
+
+Home: https://github.com/Carbecq/Zangdar
+
+| Version | Published | STC* | LTC* | VLTC* | Comment |
+| --- | --- | --- | --- | --- | --- |
+| 5.00.02 | 2025-09-24 | 3171 | 3375 | 3421 |  |
+| 5.00.01 | 2025-09-23 |  |  |  |  |
+| 5 | 2025-09-22 |  |  |  |  |
+| 4.04.01 | 2025-08-31 |  |  |  |  |
+| 4.04 | 2025-06-16 |  |  |  |  |
+| 4.01 | 2025-05-17 |  |  |  |  |
+| 3.04 | 2024-12-27 |  |  |  |  |
+| 2.31.04 | 2024-12-08 |  |  |  |  |
+| 2.31 | 2024-11-15 |  |  |  |  |
+| 2.30 | 2024-08-25 |  |  |  |  |
+| 2.29.01 | 2024-05-11 |  |  |  |  |
+| 2.29 | 2024-05-07 |  |  |  |  |
+| 2.27.08 | 2024-03-10 |  |  |  |  |
+
+ Test Conditions:
+
+GUI/CLI: <a href=https://github.com/cutechess/cutechess target="_blank">Cute-Chess</a>
+
+Elo Calculation: <a href=https://www.remi-coulom.fr/Bayesian-Elo/ target="_blank">Bayesian-Elo</a>
+
+CPU: Intel(R) Core(TM) i5-7500T 2.70GHz
+
+Opening book: 8_moves_v3
+
+\* STC: 8.0+0.08s, LTC: 60.0+0.60s, VLTC: 2m24s+1.12s
+
+ Lists:
+Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
+
+Generated: 2026-01-19 22:41:32
