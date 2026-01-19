@@ -6,7 +6,7 @@ Home: https://github.com/FauziAkram/amira
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.82 | 2026-01-02 | 2352 | 2577 | 2678 |  |
+| 1.82 | 2026-01-02 | 2352 | 2574 | 2674 |  |
 | 1.71 | 2025-10-30 | 2241 | 2479 | 2518 |  |
 | 1.61 | 2025-09-08 |  |  |  |  |
 | 1.4 | 2025-07-24 |  |  |  |  |
@@ -27,4 +27,4 @@ Opening book: 8_moves_v3
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-18 22:43:23
+Generated: 2026-01-19 06:42:08
