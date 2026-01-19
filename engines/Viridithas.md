@@ -7,9 +7,9 @@ Home: https://github.com/cosmobobak/viridithas
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 19.0.1 | 2026-01-06 | 3432 | 3561 | 3583 |  |
-| 19.0.0 | 2026-01-04 | 3434 | 3561 | 3598 |  |
+| 19.0.0 | 2026-01-04 | 3434 | 3561 | 3596 |  |
 | 18.0.0 | 2025-08-25 | 3417 | 3540 | 3560 |  |
-| 17.0.0 | 2025-04-10 | 3360 | 3509 | 3545 |  |
+| 17.0.0 | 2025-04-10 | 3360 | 3509 | 3544 |  |
 | 16.0.0 | 2025-01-27 | 3357 | 3517 | 3541 |  |
 | 15.0.0 | 2024-10-13 | 3321 | 3507 | 3540 |  |
 | 14.0.1 | 2024-08-15 | 3290 | 3480 | 3522 |  |
@@ -55,4 +55,4 @@ Opening book: 8_moves_v3
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-18 22:44:10
+Generated: 2026-01-19 06:42:53
