@@ -1,0 +1,38 @@
+# Engine: Obsidian
+
+Author: Gabriele Lombardo
+
+Home: https://github.com/gab8192/Obsidian
+
+| Version | Published | STC* | LTC* | VLTC* | Comment |
+| --- | --- | --- | --- | --- | --- |
+| 16.0 | 2025-05-21 | 3467 | 3582 | 3603 |  |
+| 15.0 | 2025-01-31 |  |  |  |  |
+| 14.0 | 2024-10-22 |  |  |  |  |
+| 13.0 | 2024-07-01 |  |  |  |  |
+| 12.0 | 2024-04-11 |  |  |  |  |
+| 11.0 | 2024-03-02 |  |  |  |  |
+| 10.0 | 2024-01-16 |  |  |  |  |
+| 9.0 | 2023-12-17 |  |  |  |  |
+| 8.0 | 2023-11-30 |  |  |  |  |
+| 7.0 | 2023-11-07 |  |  |  |  |
+| 6.0 | 2023-10-21 |  |  |  |  |
+| 5.0 | 2023-10-01 |  |  |  |  |
+| 4.0 | 2023-09-23 |  |  |  |  |
+
+ Test Conditions:
+
+GUI/CLI: <a href=https://github.com/cutechess/cutechess target="_blank">Cute-Chess</a>
+
+Elo Calculation: <a href=https://www.remi-coulom.fr/Bayesian-Elo/ target="_blank">Bayesian-Elo</a>
+
+CPU: Intel(R) Core(TM) i5-7500T 2.70GHz
+
+Opening book: 8_moves_v3
+
+\* STC: 8.0+0.08s, LTC: 60.0+0.60s, VLTC: 2m24s+1.12s
+
+ Lists:
+Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
+
+Generated: 2026-01-19 22:39:33
