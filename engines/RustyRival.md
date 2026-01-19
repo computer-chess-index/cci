@@ -1,0 +1,45 @@
+# Engine: RustyRival
+
+Author: Chris Moreton
+
+Home: https://github.com/chris-moreton/rusty-rival
+
+| Version | Published | STC* | LTC* | VLTC* | Comment |
+| --- | --- | --- | --- | --- | --- |
+| 1.0.23 | 2026-01-19 |  |  |  |  |
+| 1.0.21 | 2026-01-19 |  |  |  |  |
+| 1.0.13 | 2026-01-10 | 1837 | 2091 | 2279 |  |
+| 1.0.7 | 2025-12-30 |  |  |  | thread 'main' (10808) panicked at src\main.rs:17:36: |
+| 1.0.4 | 2022-05-29 |  |  |  |  |
+| 1.0.3 | 2022-05-03 |  |  |  |  |
+| 1.0.2 | 2022-04-13 |  |  |  |  |
+| 1.0.1 | 2022-04-05 |  |  |  |  |
+| 1.0.0 | 2022-04-03 |  |  |  |  |
+| 1.0.6 |  |  |  |  | thread 'main' (10808) panicked at src\main.rs:17:36: |
+| 1.0.9 |  |  |  |  |  |
+| 1.0.10 |  |  |  |  |  |
+| 1.0.11 |  |  |  |  |  |
+| 1.0.12 |  |  |  |  |  |
+| 1.0.15 |  |  | 2145 | 2318 |  |
+| 1.0.17 |  | 1924 |  | 2384 |  |
+| 1.0.18 |  |  |  |  |  |
+| 1.0.19 |  |  | 2124 | 2223 |  |
+| 1.0.8 |  |  |  |  |  |
+| 1.0.20 |  |  |  |  |  |
+
+ Test Conditions:
+
+GUI/CLI: <a href=https://github.com/cutechess/cutechess target="_blank">Cute-Chess</a>
+
+Elo Calculation: <a href=https://www.remi-coulom.fr/Bayesian-Elo/ target="_blank">Bayesian-Elo</a>
+
+CPU: Intel(R) Core(TM) i5-7500T 2.70GHz
+
+Opening book: 8_moves_v3
+
+\* STC: 8.0+0.08s, LTC: 60.0+0.60s, VLTC: 2m24s+1.12s
+
+ Lists:
+Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
+
+Generated: 2026-01-19 22:40:17
