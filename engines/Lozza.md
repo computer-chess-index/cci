@@ -6,9 +6,9 @@ Home: https://github.com/op12no2/lozza
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 10 | 2026-01-17 | 2905 | 3106 | 3155 |  |
-| 9 | 2026-01-10 | 2657 | 2938 | 3036 |  |
-| 8 | 2025-09-25 | 2641 | 2954 | 3067 |  |
+| 10 | 2026-01-17 | 2908 | 3101 | 3156 |  |
+| 9 | 2026-01-10 | 2655 | 2938 | 3036 |  |
+| 8 | 2025-09-25 | 2639 | 2954 | 3067 |  |
 | 7 | 2025-07-12 |  |  |  |  |
 | 5.1 | 2025-06-02 |  |  |  |  |
 | 5 | 2025-02-25 |  |  |  |  |
@@ -27,4 +27,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-19 22:54:15
+Generated: 2026-01-20 06:43:15
