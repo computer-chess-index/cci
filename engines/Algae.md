@@ -6,7 +6,7 @@ Home: https://github.com/PaulJeFi/algae
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2025-11-09 | 1318 | 969 | 826 |  |
+| 1.0 | 2025-11-09 | 1312 | 969 | 826 |  |
 
  Test Conditions:
 
@@ -19,4 +19,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-19 22:53:03
+Generated: 2026-01-20 06:42:07
