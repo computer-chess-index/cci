@@ -6,7 +6,7 @@ Home: https://github.com/tomitank/tomitankChess
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 5.3 | 2025-09-26 | 2468 | 2718 | 2838 |  |
+| 5.3 | 2025-09-26 | 2466 | 2727 | 2838 |  |
 | 5.1 | 2024-03-24 |  |  |  |  |
 | 5.0 | 2021-04-07 |  |  |  |  |
 | 4.2 | 2020-09-23 |  |  |  |  |
@@ -27,4 +27,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-19 22:55:18
+Generated: 2026-01-20 06:44:15
