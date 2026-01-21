@@ -6,11 +6,11 @@ Home: https://github.com/jorgenhanssen/grail
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.4 | 2026-01-16 | 2442 | 2765 | 2916 |  |
-| 1.0.3 | 2026-01-04 | 2375 | 2720 | 2793 |  |
-| 1.0.2 | 2025-12-16 | 2346 | 2612 | 2720 |  |
-| 1.0.1 | 2025-12-10 | 2317 | 2589 | 2773 |  |
-| 1.0.0 | 2025-12-05 | 2283 | 2604 | 2824 |  |
+| 1.0.4 | 2026-01-16 | 2460 | 2759 | 2907 |  |
+| 1.0.3 | 2026-01-04 | 2371 | 2715 | 2789 |  |
+| 1.0.2 | 2025-12-16 | 2341 | 2607 | 2715 |  |
+| 1.0.1 | 2025-12-10 | 2311 | 2585 | 2769 |  |
+| 1.0.0 | 2025-12-05 | 2279 | 2600 | 2819 |  |
 
  Test Conditions:
 
@@ -23,4 +23,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-20 06:42:53
+Generated: 2026-01-21 06:42:52
