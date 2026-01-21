@@ -6,7 +6,7 @@ Home: https://github.com/vshcherbyna/igel
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.6.0 | 2024-12-28 | 3213 | 3433 | 3486 |  |
+| 3.6.0 | 2024-12-28 | 3209 | 3429 | 3482 |  |
 | 3.5.0 | 2023-06-22 |  |  |  |  |
 | 3.4.0 | 2023-01-30 |  |  |  |  |
 | 3.3.0 | 2023-01-15 |  |  |  |  |
@@ -56,4 +56,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-20 06:43:02
+Generated: 2026-01-21 06:43:01
