@@ -6,9 +6,9 @@ Home: https://github.com/Orbital-Web/Raphael
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.2.0 | 2026-01-08 | 2570 | 2819 | 2916 |  |
-| 2.1.0 | 2026-01-01 | 2354 | 2539 | 2651 |  |
-| 2.0.0 | 2025-12-23 | 2168 | 2410 | 2381 |  |
+| 2.2.0 | 2026-01-08 | 2564 | 2815 | 2911 |  |
+| 2.1.0 | 2026-01-01 | 2349 | 2535 | 2647 |  |
+| 2.0.0 | 2025-12-23 | 2163 | 2404 | 2376 |  |
 | 1.8.0 | 2024-12-27 |  |  |  |  |
 | 1.7.6 | 2024-12-16 |  |  |  |  |
 | 1.7.0 | 2023-08-27 |  |  |  |  |
@@ -33,4 +33,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-20 06:43:46
+Generated: 2026-01-21 06:43:42
