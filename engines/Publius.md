@@ -6,8 +6,8 @@ Home: https://github.com/nescitus/publius
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1 | 2025-12-31 | 2502 | 2817 | 2867 |  |
-| 1.0 | 2025-10-19 | 2874 | 3141 | 3166 |  |
+| 1.1 | 2025-12-31 | 2502 | 2817 | 2862 |  |
+| 1.0 | 2025-10-19 | 2870 | 3136 | 3162 |  |
 
  Test Conditions:
 
@@ -20,4 +20,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-20 06:43:40
+Generated: 2026-01-21 06:43:36
