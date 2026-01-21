@@ -6,9 +6,9 @@ Home: https://github.com/Nonlinear2/Bread-Engine
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1.1 | 2025-12-22 | 3039 | 3236 | 3289 |  |
+| 2.1.1 | 2025-12-22 | 3035 | 3227 | 3285 |  |
 | 2.1.0 | 2025-12-21 |  |  |  | always disconnects |
-| 2.0.0 | 2025-10-18 | 2900 | 3150 | 3185 |  |
+| 2.0.0 | 2025-10-18 | 2894 | 3146 | 3181 |  |
 | 1.6.0 | 2025-08-26 |  |  |  |  |
 | 1.5.0 | 2025-07-13 |  |  |  |  |
 | 1.4.0 | 2025-05-05 |  |  |  |  |
@@ -38,4 +38,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-20 06:42:22
+Generated: 2026-01-21 06:42:20
