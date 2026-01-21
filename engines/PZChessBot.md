@@ -6,8 +6,8 @@ Home: https://github.com/kevlu8/PZChessBot
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.0 | 2026-01-01 | 3197 | 3387 | 3447 |  |
-| 5.0 | 2025-10-19 | 3082 | 3267 | 3297 |  |
+| 6.0 | 2026-01-01 | 3193 | 3384 | 3445 |  |
+| 5.0 | 2025-10-19 | 3078 | 3262 | 3293 |  |
 | 4.0 | 2025-10-03 |  |  |  |  |
 | 3.0 | 2025-07-02 |  |  |  |  |
 | 2.0 | 2025-06-17 |  |  |  |  |
@@ -29,4 +29,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-20 06:43:42
+Generated: 2026-01-21 06:43:38
