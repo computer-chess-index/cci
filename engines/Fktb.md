@@ -6,8 +6,8 @@ Home: https://github.com/lunbun/fktb
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.0.77 | 2026-01-18 | 1953 | 2210 | 2265 |  |
-| 0.0.76 | 2026-01-05 | 1953 | 2184 | 2260 |  |
+| 0.0.77 | 2026-01-18 | 1932 | 2207 | 2261 |  |
+| 0.0.76 | 2026-01-05 | 1951 | 2179 | 2255 |  |
 
  Test Conditions:
 
@@ -20,4 +20,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-20 06:42:48
+Generated: 2026-01-21 06:42:48
