@@ -6,7 +6,7 @@ Home: https://github.com/nocturn9x/heimdall
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.4.2 | 2025-09-25 | 3137 | 3386 | 3451 |  |
+| 1.4.2 | 2025-09-25 | 3131 | 3382 | 3448 |  |
 
  Test Conditions:
 
@@ -19,4 +19,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-20 06:42:56
+Generated: 2026-01-21 06:42:55
