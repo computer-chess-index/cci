@@ -6,7 +6,7 @@ Home: https://github.com/gab8192/Obsidian
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 16.0 | 2025-05-21 | 3467 | 3582 | 3603 |  |
+| 16.0 | 2025-05-21 | 3464 | 3578 | 3599 |  |
 | 15.0 | 2025-01-31 |  |  |  |  |
 | 14.0 | 2024-10-22 |  |  |  |  |
 | 13.0 | 2024-07-01 |  |  |  |  |
@@ -31,4 +31,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-20 06:43:28
+Generated: 2026-01-21 06:43:25
