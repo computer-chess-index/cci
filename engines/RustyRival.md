@@ -7,7 +7,7 @@ Home: https://github.com/chris-moreton/rusty-rival
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 1.0.23 | 2026-01-19 |  |  |  |  |
-| 1.0.13 | 2026-01-10 | 1837 | 2086 | 2276 |  |
+| 1.0.13 | 2026-01-10 | 1837 | 2087 | 2276 |  |
 | 1.0.7 | 2025-12-30 |  |  |  | thread 'main' (10808) panicked at src\main.rs:17:36: |
 | 1.0.4 | 2022-05-29 |  |  |  |  |
 | 1.0.3 | 2022-05-03 |  |  |  |  |
@@ -15,10 +15,10 @@ Home: https://github.com/chris-moreton/rusty-rival
 | 1.0.1 | 2022-04-05 |  |  |  |  |
 | 1.0.0 | 2022-04-03 |  |  |  |  |
 | 1.0.12 |  |  |  |  |  |
-| 1.0.15 |  |  | 2141 | 2315 |  |
+| 1.0.15 |  |  | 2142 | 2317 |  |
 | 1.0.17 |  | 1918 |  | 2377 |  |
 | 1.0.18 |  |  |  |  |  |
-| 1.0.19 |  |  | 2120 | 2218 |  |
+| 1.0.19 |  |  | 2121 | 2218 |  |
 | 1.0.8 |  |  |  |  |  |
 | 1.0.20 |  |  |  |  |  |
 | 1.0.21 |  |  |  |  |  |
@@ -38,4 +38,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-22 06:44:02
+Generated: 2026-01-22 21:29:15
