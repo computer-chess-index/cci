@@ -6,7 +6,7 @@ Home: https://rofchade.nl/
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.1 | 2023-10-01 | 3247 | 3444 | 3484 |  |
+| 3.1 | 2023-10-01 | 3248 | 3444 | 3486 |  |
 
  Test Conditions:
 
@@ -19,4 +19,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-22 06:43:58
+Generated: 2026-01-22 21:29:10
