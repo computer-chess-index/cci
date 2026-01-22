@@ -6,7 +6,7 @@ Home: https://github.com/yukarichess/yukari
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2025.11.1 | 2025-10-31 | 3159 | 3336 | 3398 |  |
+| 2025.11.1 | 2025-10-31 | 3158 | 3336 | 3399 |  |
 | 2025.4.1 | 2025-03-31 |  |  |  |  |
 | 2025.3.4 | 2025-03-04 |  |  |  |  |
 | 2025.2.4 | 2025-02-04 |  |  |  |  |
@@ -23,4 +23,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-22 06:44:33
+Generated: 2026-01-22 21:30:00
