@@ -6,7 +6,7 @@ Home: https://github.com/aronpetko/integral
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7.0 | 2025-02-14 | 3390 | 3545 | 3565 |  |
+| 7.0 | 2025-02-14 | 3391 | 3546 | 3567 |  |
 | 6 | 2024-12-17 |  |  |  |  |
 | 5 | 2024-11-02 |  |  |  |  |
 | 4 | 2024-09-06 |  |  |  |  |
@@ -25,4 +25,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-22 06:43:06
+Generated: 2026-01-22 21:24:32
