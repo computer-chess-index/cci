@@ -6,7 +6,7 @@ Home: https://www.revengechess.com/
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.0.7 | 2025-01-01 | 3303 | 3478 | 3503 |  |
+| 4.0.7 | 2025-01-01 | 3306 | 3479 | 3505 |  |
 
  Test Conditions:
 
@@ -19,4 +19,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-21 06:43:45
+Generated: 2026-01-22 06:43:52
