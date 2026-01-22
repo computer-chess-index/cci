@@ -6,8 +6,8 @@ Home: https://github.com/enfmarinho/Minke
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.0.0 | 2025-12-29 | 3106 | 3297 | 3313 |  |
-| 3.0.0 | 2025-10-20 | 3011 | 3235 | 3270 |  |
+| 4.0.0 | 2025-12-29 | 3108 | 3298 | 3316 |  |
+| 3.0.0 | 2025-10-20 | 3012 | 3235 | 3271 |  |
 | 2.0.0 | 2025-09-14 |  |  |  |  |
 | 1.0.0 | 2025-08-26 |  |  |  |  |
 
@@ -22,4 +22,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-21 06:43:19
+Generated: 2026-01-22 06:43:25
