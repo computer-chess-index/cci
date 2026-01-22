@@ -6,7 +6,7 @@ Home: https://github.com/nfaltermeier/fox-chess
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2025-12-27 | 2377 | 2554 | 2688 |  |
+| 1.0 | 2025-12-27 | 2377 | 2554 | 2689 |  |
 
  Test Conditions:
 
@@ -19,4 +19,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-22 06:42:51
+Generated: 2026-01-22 21:24:14
