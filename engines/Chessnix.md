@@ -6,8 +6,8 @@ Home: https://github.com/ericlangedijk/chessnix/
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.2 | 2025-12-12 | 2610 | 2695 | 3051 |  |
-| 1.0 | 2025-11-08 | 2595 | 2635 |  | too many irregular games |
+| 1.2 | 2025-12-12 | 2610 | 2691 | 3052 |  |
+| 1.0 | 2025-11-08 | 2596 | 2637 |  | too many irregular games |
 | 0.1 | 2025-10-03 |  |  |  |  |
 
  Test Conditions:
@@ -21,4 +21,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-21 06:42:29
+Generated: 2026-01-22 06:42:30
