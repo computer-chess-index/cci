@@ -6,7 +6,7 @@ Home: https://github.com/tgirolami09/Prune
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.1.0 | 2026-01-10 | 2946 | 3189 | 3239 |  |
+| 3.1.0 | 2026-01-10 | 2946 | 3190 | 3237 |  |
 | 3.0.0 | 2025-12-06 | 2678 | 2930 | 3042 |  |
 | 2.2.0 | 2025-11-20 | 2724 | 2940 | 3054 |  |
 | 2.1.2 | 2025-11-06 | 2565 | 2817 | 2905 |  |
@@ -28,4 +28,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-22 21:28:53
+Generated: 2026-01-23 06:43:35
