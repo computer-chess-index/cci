@@ -6,7 +6,7 @@ Home: https://github.com/jnlt3/blackmarlin
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.0 | 2024-02-28 | 3214 | 3405 | 3443 |  |
+| 9.0 | 2024-02-28 | 3214 | 3406 | 3444 |  |
 | 8.0 | 2023-08-08 |  |  |  |  |
 | 7.0 | 2022-08-06 |  |  |  |  |
 | 6.0 | 2022-07-17 |  |  |  |  |
@@ -27,4 +27,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-23 06:42:18
+Generated: 2026-01-24 06:42:18
