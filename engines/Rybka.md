@@ -6,7 +6,7 @@ Home:
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.3.2a | 2010-06-04 | 2394 | 2846 | 2877 |  |
+| 2.3.2a | 2010-06-04 | 2395 | 2847 | 2877 |  |
 
  Test Conditions:
 
@@ -19,4 +19,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-23 06:43:57
+Generated: 2026-01-24 06:43:57
