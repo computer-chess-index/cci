@@ -6,7 +6,7 @@ Home: https://github.com/Spinojara/bitbit
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.6 | 2025-10-18 | 2958 | 3170 | 3213 |  |
+| 1.6 | 2025-10-18 | 2959 | 3171 | 3214 |  |
 | 1.5 | 2025-09-19 |  |  |  |  |
 | 1.4 | 2025-07-13 |  |  |  |  |
 | 1.3 | 2025-02-08 |  |  |  |  |
@@ -24,4 +24,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-23 06:42:17
+Generated: 2026-01-24 06:42:17
