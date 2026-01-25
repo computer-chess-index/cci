@@ -6,7 +6,7 @@ Home: https://github.com/Tym972/Echekinator
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2025-11-25 | 1856 | 2105 | 2192 |  |
+| 1.0 | 2025-11-25 | 1864 | 2105 | 2194 |  |
 
  Test Conditions:
 
@@ -19,4 +19,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-24 06:42:39
+Generated: 2026-01-25 06:42:39
