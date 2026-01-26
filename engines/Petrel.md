@@ -7,10 +7,10 @@ Home: https://github.com/AleksPeshkov/petrel
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 2.2 | 2025-12-27 |  |  |  | Rerelease |
-| 3.2 | 2025-12-21 | 2955 | 3144 | 3204 |  |
-| 3.1 | 2025-11-28 | 2866 | 3048 | 3131 |  |
-| 3.0 | 2025-11-26 | 2793 | 2977 | 2998 |  |
-| 2.1 | 2025-10-13 | 2265 | 2454 | 2523 |  |
+| 3.2 | 2025-12-21 | 2957 | 3146 | 3205 |  |
+| 3.1 | 2025-11-28 | 2867 | 3050 | 3132 |  |
+| 3.0 | 2025-11-26 | 2795 | 2978 | 3000 |  |
+| 2.1 | 2025-10-13 | 2265 | 2456 | 2523 |  |
 | 1,4.1 | 2025-10-10 |  |  |  |  |
 | 1,3,1 | 2025-09-13 |  |  |  |  |
 | 1,2 | 2025-09-08 |  |  |  |  |
@@ -27,4 +27,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-25 06:43:28
+Generated: 2026-01-26 06:43:30
