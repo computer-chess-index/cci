@@ -6,8 +6,8 @@ Home: https://github.com/brunocodutra/cinder
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.4.1 | 2025-12-05 | 3384 | 3499 | 3534 |  |
-| 0.4.0 | 2025-12-04 | 3337 | 3503 | 3551 |  |
+| 0.4.1 | 2025-12-05 | 3386 | 3501 | 3536 |  |
+| 0.4.0 | 2025-12-04 | 3339 | 3505 | 3552 |  |
 | 0.3.1 | 2025-08-16 |  |  |  |  |
 | 0.3.0 | 2025-08-16 |  |  |  |  |
 | 0.2.0 | 2025-05-29 |  |  |  |  |
@@ -28,4 +28,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-25 06:42:30
+Generated: 2026-01-26 06:42:31
