@@ -1,13 +1,13 @@
 # Engine: Gyatso
 
-Author: 
+Author: Gyatso Neesham
 
 Home: https://github.com/GyatsoYT/GyatsoChess
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.2.0 | 2026-01-24 |  |  |  |  |
-| 1.1.0 | 2026-01-09 | 2005 | 2358 | 2454 |  |
+| 1.2.0 | 2026-01-24 | 2156 | 2476 | 2541 |  |
+| 1.1.0 | 2026-01-09 | 2005 | 2358 | 2452 |  |
 | 1.0.0 | 2025-12-10 |  |  |  |  |
 
  Test Conditions:
@@ -21,4 +21,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-25 06:42:52
+Generated: 2026-01-26 06:42:52
