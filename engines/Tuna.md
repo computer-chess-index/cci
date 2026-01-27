@@ -6,7 +6,7 @@ Home: https://github.com/billchow98/chess
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | 2025-09-28 | 2168 | 2481 | 2562 |  |
+| 1.0.0 | 2025-09-28 | 2168 | 2475 | 2569 |  |
 
  Test Conditions:
 
@@ -19,4 +19,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-26 06:44:16
+Generated: 2026-01-27 06:44:16
