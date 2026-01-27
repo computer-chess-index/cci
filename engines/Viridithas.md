@@ -14,7 +14,7 @@ Home: https://github.com/cosmobobak/viridithas
 | 15.0.0 | 2024-10-13 | 3321 | 3507 | 3540 |  |
 | 14.0.1 | 2024-08-15 | 3290 | 3480 | 3521 |  |
 | 14.0.0 | 2024-08-11 |  |  |  | skipped for 14.0.1 |
-| 13.0.0 | 2024-06-26 | 3274 | 3461 | 3460 |  |
+| 13.0.0 | 2024-06-26 | 3274 | 3461 | 3457 |  |
 | 12.0.0 | 2024-03-01 | 3236 | 3411 | 3418 |  |
 | 11.0.0 | 2023-09-24 |  |  |  |  |
 | 10.0.0 | 2023-06-19 |  |  |  |  |
@@ -51,4 +51,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-26 06:44:21
+Generated: 2026-01-27 06:44:21
