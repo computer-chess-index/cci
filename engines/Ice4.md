@@ -6,7 +6,7 @@ Home: https://github.com/MinusKelvin/ice4
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.1 | 2025-10-27 | 2597 | 2961 | 3054 |  |
+| 6.1 | 2025-10-27 | 2596 | 2962 | 3051 |  |
 | 6 | 2025-03-27 |  |  |  |  |
 | 5 | 2024-08-04 |  |  |  |  |
 | 4 | 2023-12-27 |  |  |  |  |
@@ -26,4 +26,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-27 06:43:00
+Generated: 2026-01-28 06:42:59
