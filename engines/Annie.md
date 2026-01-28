@@ -6,7 +6,7 @@ Home: https://github.com/tsoj/Annie
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.2 | 2026-01-17 | 1328 | 1558 | 1519 |  |
+| 1.2 | 2026-01-17 | 1328 | 1563 | 1519 |  |
 | 1.0 | 2023-03-26 |  |  |  |  |
 
  Test Conditions:
@@ -20,4 +20,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-27 06:42:10
+Generated: 2026-01-28 06:42:10
