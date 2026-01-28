@@ -6,7 +6,7 @@ Home: https://github.com/0xflick/pounce
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.0 | 2025-10-13 | 2766 | 2990 | 3051 |  |
+| 3.0.0 | 2025-10-13 | 2773 | 2992 | 3052 |  |
 | 2.1.3 | 2025-09-15 |  |  |  |  |
 | 2.1.0 | 2025-09-14 |  |  |  |  |
 | 2.0.1 | 2025-08-17 |  |  |  |  |
@@ -29,4 +29,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-27 06:43:32
+Generated: 2026-01-28 06:43:31
