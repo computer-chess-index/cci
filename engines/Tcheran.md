@@ -6,10 +6,10 @@ Home: https://github.com/tcheran-chess/tcheran
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 10.0 | 2025-12-28 | 3167 | 3355 | 3422 |  |
-| 9.0 | 2025-12-08 | 3058 | 3225 | 3275 |  |
-| 8.0 | 2025-11-27 | 2979 | 3178 | 3225 |  |
-| 7.0 | 2025-11-07 | 2804 | 3032 | 3102 |  |
+| 10.0 | 2025-12-28 | 3166 | 3353 | 3421 |  |
+| 9.0 | 2025-12-08 | 3056 | 3224 | 3274 |  |
+| 8.0 | 2025-11-27 | 2978 | 3177 | 3224 |  |
+| 7.0 | 2025-11-07 | 2803 | 3031 | 3101 |  |
 | 6.0 | 2025-10-21 |  |  |  |  |
 | 5.1 | 2025-01-01 |  |  |  |  |
 | 5.0 | 2024-12-05 |  |  |  |  |
@@ -36,4 +36,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-28 06:44:08
+Generated: 2026-01-29 06:44:11
