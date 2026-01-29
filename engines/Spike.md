@@ -6,7 +6,7 @@ Home: https://github.com/Mangar2/Spike
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.4.1 | 2025-07-28 |  |  |  |  |
+| 1.4.1 | 2025-07-28 |  |  |  | Virustotal detections |
 
  Test Conditions:
 
@@ -19,4 +19,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-28 06:44:01
+Generated: 2026-01-29 06:44:04
