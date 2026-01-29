@@ -6,7 +6,7 @@ Home: https://github.com/jeffreyan11/laser-chess-engine
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.7 | 2019-02-07 | 2820 | 3096 | 3158 |  |
+| 1.7 | 2019-02-07 | 2819 | 3094 | 3156 |  |
 | 1.6 | 2018-07-14 |  |  |  |  |
 | 1.5 | 2017-12-27 |  |  |  |  |
 | 1.4 | 2017-05-11 |  |  |  |  |
@@ -29,4 +29,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-28 06:43:06
+Generated: 2026-01-29 06:43:09
