@@ -6,7 +6,7 @@ Home: https://github.com/Synthetica9/lunar
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.4.0 | 2025-09-23 | 2873 | 3256 | 3391 |  |
+| 0.4.0 | 2025-09-23 | 2873 | 3255 | 3393 |  |
 | 0.3 | 2025-08-02 |  |  |  |  |
 | 0.2.1 | 2025-06-12 |  |  |  |  |
 | 0.2.0 | 2025-06-11 |  |  |  |  |
@@ -22,4 +22,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-29 06:43:16
+Generated: 2026-01-30 06:43:17
