@@ -6,7 +6,7 @@ Home: https://github.com/HansTibberio/Laura
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1.0 | 2026-01-26 | 1445 | 1544 | 1465 |  |
+| 1.1.0 | 2026-01-26 | 1443 | 1543 | 1465 |  |
 | 1.0.0 | 2025-05-30 |  |  |  |  |
 
  Test Conditions:
@@ -20,4 +20,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-29 06:43:10
+Generated: 2026-01-30 06:43:11
