@@ -6,7 +6,7 @@ Home: https://github.com/tomcant/chess-rs
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.7.0 | 2025-12-31 | 1708 | 1970 | 2083 |  |
+| 0.7.0 | 2025-12-31 | 1708 | 1970 | 2078 |  |
 | 0.6.0 | 2025-11-11 | 1702 | 1897 | 2022 |  |
 | 0.5.1 | 2025-11-04 |  |  |  | no public available .exe |
 | 0.5.0 | 2025-11-03 | 1600 | 1824 | 1928 |  |
@@ -30,4 +30,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-30 06:42:28
+Generated: 2026-01-31 06:42:26
