@@ -6,7 +6,7 @@ Home: https://github.com/ranzuh/ratsu
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.9.0 | 2026-01-21 | 1574 | 1818 | 1886 |  |
+| 0.9.0 | 2026-01-21 | 1571 | 1825 | 1886 |  |
 
  Test Conditions:
 
@@ -19,4 +19,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-30 06:43:46
+Generated: 2026-01-31 06:43:44
