@@ -6,7 +6,7 @@ Home: https://github.com/GediminasMasaitis/4k-dot-c
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 5.0 | 2025-10-30 | 2531 | 2834 | 2903 |  |
+| 5.0 | 2025-10-30 | 2526 | 2835 | 2904 |  |
 | 4.41 | 2025-08-15 |  |  |  |  |
 | 4.0 | 2025-08-15 |  |  |  |  |
 | 3.0 | 2025-08-15 |  |  |  |  |
@@ -27,4 +27,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-30 06:42:03
+Generated: 2026-01-31 06:42:02
