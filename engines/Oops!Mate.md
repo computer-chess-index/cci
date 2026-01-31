@@ -6,7 +6,10 @@ Home: https://github.com/PS-Wizard/OopsMate
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.0.4 | 2025-11-23 | 1134 | 1364 | 1422 |  |
+| 3.0 | 2026-01-31 |  |  |  |  |
+| 2.0 | 2026-01-30 |  |  |  |  |
+| 1.0 | 2026-01-30 |  |  |  |  |
+| 0.0.4 | 2025-11-23 | 1134 | 1365 | 1422 |  |
 | 0.0.3 | 2025-11-13 |  |  |  |  |
 | 0.0.2 | 2025-11-04 |  |  |  |  |
 | 0.0.1 | 2025-11-04 |  |  |  |  |
@@ -23,4 +26,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-30 06:43:29
+Generated: 2026-01-31 06:43:25
