@@ -6,7 +6,7 @@ Home: https://github.com/maelic13/whitespine
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.3.2 | 2025-09-16 | 1274 | 1249 | 907 |  |
+| 1.3.2 | 2025-09-16 | 1273 | 1249 | 907 |  |
 | 1.3.1 | 2025-06-08 |  |  |  |  |
 | 1.3.0 | 2025-05-11 |  |  |  |  |
 | 1.2.0 | 2025-05-11 |  |  |  |  |
@@ -22,4 +22,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-01-31 06:44:21
+Generated: 2026-02-01 06:44:37
