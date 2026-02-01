@@ -6,7 +6,7 @@ Home: https://github.com/Dragjon/weak-chess-engine
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | 2025-08-11 | 2634 | 2950 | 2970 |  |
+| 1.0.0 | 2025-08-11 | 2634 | 2948 | 2970 |  |
 
  Test Conditions:
 
@@ -19,4 +19,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-01 06:44:36
+Generated: 2026-02-01 16:27:25
