@@ -6,7 +6,7 @@ Home: https://github.com/mAarnos/Hakkapeliitta
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0 | 2016-04-01 | 2568 | 2831 | 2935 |  |
+| 3.0 | 2016-04-01 | 2568 | 2830 | 2935 |  |
 
  Test Conditions:
 
@@ -19,4 +19,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-01 06:42:55
+Generated: 2026-02-01 16:25:57
