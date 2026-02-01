@@ -6,9 +6,8 @@ Home: https://github.com/official-stockfish/Stockfish
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| sf_18 | 2026-01-31 |  |  |  |  |
-| sf_18 | 2026-01-31 |  |  |  |  |
-| 17.1 | 2025-03-30 | 3511 | 3614 | 3633 |  |
+| 18.0 | 2026-01-31 | 3529 | 3619 | 3638 |  |
+| 17.1 | 2025-03-30 | 3510 | 3614 | 3633 |  |
 | 17 | 2024-09-06 |  |  |  |  |
 | 16.1 | 2024-02-24 |  |  |  |  |
 | 16 | 2023-06-30 |  |  |  |  |
@@ -34,4 +33,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-01 06:44:18
+Generated: 2026-02-01 16:27:09
