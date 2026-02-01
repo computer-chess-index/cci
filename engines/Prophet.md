@@ -1,0 +1,28 @@
+# Engine: Prophet
+
+Author: James Swafford
+
+Home: https://github.com/jswaff/prophet
+
+| Version | Published | STC* | LTC* | VLTC* | Comment |
+| --- | --- | --- | --- | --- | --- |
+| 5.1 | 2025-09-16 | 2186 | 2496 | 2560 |  |
+| 5.0 | 2025-08-05 |  |  |  |  |
+| 4.4 | 2024-10-22 |  |  |  |  |
+| 4.3 | 2022-10-21 |  |  |  |  |
+| 4.2 | 2022-06-23 |  |  |  |  |
+| 4.1 | 2022-01-02 |  |  |  |  |
+| 4.0 | 2021-10-02 |  |  |  |  |
+
+ Test Conditions:
+
+GUI/CLI: <a href=https://github.com/cutechess/cutechess target="_blank">Cute-Chess</a><br>
+Elo Calculation: <a href=https://www.remi-coulom.fr/Bayesian-Elo/ target="_blank">Bayesian-Elo</a><br>
+CPU: Intel(R) Core(TM) i5-7500T 2.70GHz<br>
+Opening book: 8_moves_v3<br>
+\* STC: 8.0+0.08s, LTC: 60.0+0.60s, VLTC: 2m24s+1.12s
+
+ Lists:
+Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
+
+Generated: 2026-02-01 06:43:47
