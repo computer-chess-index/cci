@@ -6,7 +6,7 @@ Home: https://github.com/AlexGisi/prometheus-chess
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.2.1 | 2025-08-18 | 1381 | 1559 | 1563 |  |
+| 0.2.1 | 2025-08-18 | 1388 | 1559 | 1563 |  |
 | 0.2 | 2024-07-30 |  |  |  |  |
 | 0.1 | 2024-05-18 |  |  |  |  |
 
@@ -21,4 +21,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-01 06:43:46
+Generated: 2026-02-01 16:26:40
