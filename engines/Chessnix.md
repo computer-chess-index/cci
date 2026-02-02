@@ -6,7 +6,7 @@ Home: https://github.com/ericlangedijk/chessnix/
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.2 | 2025-12-12 | 2614 | 2693 | 3054 |  |
+| 1.2 | 2025-12-12 | 2614 | 2689 | 3052 |  |
 | 1.0 | 2025-11-08 | 2596 | 2642 |  | too many irregular games |
 | 0.1 | 2025-10-03 |  |  |  |  |
 
@@ -21,4 +21,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-01 16:25:32
+Generated: 2026-02-02 06:42:30
