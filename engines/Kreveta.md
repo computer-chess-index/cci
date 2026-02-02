@@ -6,9 +6,9 @@ Home: https://github.com/ZlomenyMesic/Kreveta
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.2.2 | 2026-01-13 | 1805 | 2117 | 2261 |  |
+| 2.2.2 | 2026-01-13 | 1806 | 2117 | 2260 |  |
 | 2.2.1 | 2025-12-25 | 1627 | 2025 | 2136 |  |
-| 2.2.0 | 2025-12-23 | 1667 | 1972 | 2115 |  |
+| 2.2.0 | 2025-12-23 | 1667 | 1971 | 2115 |  |
 | 2.0.0 | 2025-12-01 | 1647 | 1925 | 2032 |  |
 | 1.2.4 | 2025-11-17 | 1539 | 1785 | 1878 |  |
 | 1.2.3 | 2025-10-31 |  |  |  |  |
@@ -26,4 +26,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-01 16:26:09
+Generated: 2026-02-02 06:43:16
