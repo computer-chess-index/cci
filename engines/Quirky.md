@@ -6,7 +6,7 @@ Home: https://github.com/Wind-Eagle/Quirky
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1 | 2025-11-25 | 2988 | 3214 | 3268 |  |
+| 2.1 | 2025-11-25 | 2989 | 3216 | 3270 |  |
 | 2.0 | 2025-08-30 |  |  |  |  |
 | 1.0 | 2025-05-04 |  |  |  |  |
 
@@ -21,4 +21,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-03 06:43:52
+Generated: 2026-02-03 14:48:16
