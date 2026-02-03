@@ -6,7 +6,7 @@ Home: https://github.com/all-c-a-p-s/Panda
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1.1 | 2025-08-18 | 2758 | 3105 | 3094 |  |
+| 1.1.1 | 2025-08-18 | 2759 | 3106 | 3096 |  |
 | 1.1 | 2025-08-05 |  |  |  |  |
 | 1.0 | 2025-04-19 |  |  |  |  |
 
@@ -21,4 +21,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-03 06:43:35
+Generated: 2026-02-03 14:47:49
