@@ -6,7 +6,7 @@ Home: https://github.com/JVMerlino/Myrddin
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.94 | 2025-12-11 | 2645 | 2946 | 3098 |  |
+| 0.94 | 2025-12-11 | 2646 | 2946 | 3098 |  |
 | 0.93 | 2025-04-23 |  |  |  |  |
 | 0.92 | 2024-12-08 |  |  |  |  |
 | 0.91 | 2024-10-19 |  |  |  |  |
@@ -24,4 +24,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-02 06:43:33
+Generated: 2026-02-03 06:43:27
