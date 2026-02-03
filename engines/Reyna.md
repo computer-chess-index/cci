@@ -6,7 +6,7 @@ Home: https://github.com/renztarga/Reyna
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2025-10-20 | 2353 | 2535 | 2638 |  |
+| 1.0 | 2025-10-20 | 2352 | 2534 | 2638 |  |
 
  Test Conditions:
 
@@ -19,4 +19,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-02 06:44:07
+Generated: 2026-02-03 06:44:01
