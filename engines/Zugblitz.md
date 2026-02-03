@@ -6,7 +6,7 @@ Home: https://github.com/P1X3R/zugblitz
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.3.1 | 2026-01-10 | 1902 | 2190 | 2214 |  |
+| 1.3.1 | 2026-01-10 | 1902 | 2190 | 2219 |  |
 
  Test Conditions:
 
@@ -19,4 +19,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-03 06:44:45
+Generated: 2026-02-03 14:52:19
