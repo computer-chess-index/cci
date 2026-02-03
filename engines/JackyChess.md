@@ -6,7 +6,7 @@ Home: https://github.com/matthiaslang/jackychess
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 25.12 | 2025-12-03 | 2288 | 2680 | 2781 |  |
+| 25.12 | 2025-12-03 | 2290 | 2680 | 2782 |  |
 | 25.04 | 2025-05-06 |  |  |  |  |
 | 24.06 | 2024-09-11 |  |  |  |  |
 | 24.04 | 2024-05-07 |  |  |  |  |
@@ -35,4 +35,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-03 06:43:08
+Generated: 2026-02-03 14:45:44
