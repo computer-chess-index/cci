@@ -7,19 +7,19 @@ Home: https://github.com/tomcant/chess-rs
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 1.2.0 | 2026-02-01 |  |  |  |  |
-| 1.1.0 | 2026-01-16 | 1837 | 2072 | 2195 |  |
-| 1.0.0 | 2026-01-02 | 1781 | 2006 | 2071 | Previously: chess-rs |
+| 1.1.0 | 2026-01-16 | 1837 | 2074 | 2195 |  |
+| 1.0.0 | 2026-01-02 | 1781 | 2007 | 2071 | Previously: chess-rs |
+| 0.6.0 |  |  |  |  |  |
+| 0.7.0 |  |  |  |  |  |
+| 0.1.0 |  |  |  |  |  |
+| 0.1.1 |  |  |  |  |  |
+| 0.2.0 |  |  |  |  |  |
 | 0.3.0 |  |  |  |  |  |
 | 0.4.0 |  |  |  |  |  |
 | 0.4.1 |  |  |  |  |  |
 | 0.4.2 |  |  |  |  |  |
 | 0.5.0 |  |  |  |  |  |
 | 0.5.1 |  |  |  |  |  |
-| 0.6.0 |  |  |  |  |  |
-| 0.7.0 |  |  |  |  |  |
-| 0.1.0 |  |  |  |  |  |
-| 0.1.1 |  |  |  |  |  |
-| 0.2.0 |  |  |  |  |  |
 
  Test Conditions:
 
@@ -32,4 +32,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-02 06:42:12
+Generated: 2026-02-03 06:42:12
