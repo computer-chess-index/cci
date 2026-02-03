@@ -6,10 +6,10 @@ Home: https://github.com/Koma1867/Soomi-V1-Chess-engine-in-golang
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.2.0 | 2025-12-31 | 2093 | 2377 | 2457 |  |
-| 1.1.8 | 2025-12-16 | 1872 | 2191 | 2237 |  |
-| 1.1.7 | 2025-12-07 | 1879 | 2145 | 2196 |  |
-| 1.1.6 | 2025-11-30 | 1823 | 2191 | 2205 |  |
+| 1.2.0 | 2025-12-31 | 2093 | 2379 | 2458 |  |
+| 1.1.8 | 2025-12-16 | 1872 | 2192 | 2238 |  |
+| 1.1.7 | 2025-12-07 | 1879 | 2147 | 2196 |  |
+| 1.1.6 | 2025-11-30 | 1824 | 2191 | 2205 |  |
 
  Test Conditions:
 
@@ -22,4 +22,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-03 06:44:14
+Generated: 2026-02-03 14:49:11
