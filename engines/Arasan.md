@@ -6,7 +6,7 @@ Home: https://github.com/jdart1/arasan-chess
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 25.3 | 2025-12-28 | 3274 | 3452 | 3506 |  |
+| 25.3 | 2025-12-28 | 3272 | 3449 | 3505 |  |
 | 25.2 | 2025-07-15 |  |  |  |  |
 
  Test Conditions:
@@ -20,4 +20,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-02 06:42:14
+Generated: 2026-02-03 06:42:14
