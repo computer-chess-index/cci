@@ -6,7 +6,7 @@ Home: https://github.com/mvanthoor/rustic
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.6 | 2025-09-24 | 1643 | 1833 | 1980 |  |
+| 3.0.6 | 2025-09-24 | 1642 | 1833 | 1978 |  |
 
  Test Conditions:
 
@@ -19,4 +19,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-03 14:49:02
+Generated: 2026-02-04 06:30:47
