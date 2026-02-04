@@ -6,7 +6,7 @@ Home: https://github.com/citrus610/c4ke
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0 | 2026-01-05 | 2799 | 3120 | 3155 |  |
+| 3.0 | 2026-01-05 | 2799 | 3120 | 3156 |  |
 | 2.0 | 2025-12-07 |  |  |  |  |
 | 1.1 | 2025-11-07 |  |  |  |  |
 | 1.0 | 2025-10-19 |  |  |  |  |
@@ -22,4 +22,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-03 14:44:18
+Generated: 2026-02-04 06:29:04
