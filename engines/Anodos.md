@@ -9,9 +9,6 @@ Home: https://github.com/tomcant/chess-rs
 | 1.2.0 | 2026-02-01 | 2053 | 2383 | 2448 |  |
 | 1.1.0 | 2026-01-16 | 1839 | 2074 | 2196 |  |
 | 1.0.0 | 2026-01-02 | 1781 | 2007 | 2071 | Previously: chess-rs |
-| 0.6.0 |  |  |  |  |  |
-| 0.7.0 |  |  |  |  |  |
-| 0.1.0 |  |  |  |  |  |
 | 0.1.1 |  |  |  |  |  |
 | 0.2.0 |  |  |  |  |  |
 | 0.3.0 |  |  |  |  |  |
@@ -20,6 +17,9 @@ Home: https://github.com/tomcant/chess-rs
 | 0.4.2 |  |  |  |  |  |
 | 0.5.0 |  |  |  |  |  |
 | 0.5.1 |  |  |  |  |  |
+| 0.6.0 |  |  |  |  |  |
+| 0.7.0 |  |  |  |  |  |
+| 0.1.0 |  |  |  |  |  |
 
  Test Conditions:
 
@@ -32,4 +32,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-04 06:28:53
+Generated: 2026-02-04 06:42:11
