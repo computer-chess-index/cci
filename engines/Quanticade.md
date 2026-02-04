@@ -6,7 +6,7 @@ Home: https://github.com/Quanticade/Quanticade
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0 | 2025-12-15 | 3370 | 3546 | 3568 |  |
+| 3.0 | 2025-12-15 | 3371 | 3546 | 3568 |  |
 | 2.0 Orion | 2025-05-21 |  |  |  |  |
 | 1.0 Fenrir | 2025-03-10 |  |  |  |  |
 | 1.2 Chimera | 2025-01-06 |  |  |  |  |
@@ -29,4 +29,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-03 14:48:15
+Generated: 2026-02-04 06:30:31
