@@ -6,7 +6,7 @@ Home: https://github.com/op12no2/cwtch
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4 | 2025-12-05 | 2881 | 3120 | 3163 |  |
+| 4 | 2025-12-05 | 2882 | 3121 | 3163 |  |
 | 3 | 2025-09-27 |  |  |  |  |
 | 2 | 2025-09-19 |  |  |  |  |
 
@@ -21,4 +21,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-03 14:44:38
+Generated: 2026-02-04 06:29:20
