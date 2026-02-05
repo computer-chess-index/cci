@@ -6,7 +6,7 @@ Home: https://github.com/ProgramciDusunur/Potential
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.0 | 2025-08-28 | 2577 | 2890 | 2979 |  |
+| 3.0.0 | 2025-08-28 | 2577 | 2892 | 2982 |  |
 | 2.0.0 | 2025-04-08 |  |  |  |  |
 | 1.0.0 | 2025-01-28 |  |  |  |  |
 
@@ -21,4 +21,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-04 06:43:37
+Generated: 2026-02-05 06:43:40
