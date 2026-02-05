@@ -6,7 +6,7 @@ Home: https://github.com/Carbecq/Zangdar
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 5.00.02 | 2025-09-24 | 3167 | 3378 | 3420 |  |
+| 5.00.02 | 2025-09-24 | 3168 | 3379 | 3421 |  |
 | 5.00.01 | 2025-09-23 |  |  |  |  |
 | 5 | 2025-09-22 |  |  |  |  |
 | 4.04.01 | 2025-08-31 |  |  |  |  |
@@ -31,4 +31,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-04 06:44:37
+Generated: 2026-02-05 06:44:43
