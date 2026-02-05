@@ -6,9 +6,9 @@ Home: https://github.com/jszczerbinsky/zeppelin
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1.0 | 2026-02-03 |  |  |  |  |
-| 1.0.0 | 2026-02-01 | 1170 | 1627 | 1647 |  |
-| 0.2.0 | 2025-11-16 | 1210 | 1428 | 1538 |  |
+| 1.1.0 | 2026-02-03 | 1499 | 1717 | 1847 |  |
+| 1.0.0 | 2026-02-01 | 1170 | 1593 | 1652 |  |
+| 0.2.0 | 2025-11-16 | 1210 | 1428 | 1539 |  |
 | 0.1.1 | 2025-10-12 |  |  |  |  |
 | 0.1.0 | 2025-10-11 |  |  |  |  |
 
@@ -23,4 +23,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-04 06:44:38
+Generated: 2026-02-05 06:44:44
