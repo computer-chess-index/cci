@@ -6,8 +6,9 @@ Home: https://github.com/gflohr/Chess-Plisco
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
+| 1.0.3 | 2026-02-04 |  |  |  |  |
 | 1.0.2 | 2026-01-06 | 1048 |  |  | Connection stalls |
-| 1.0.1 | 2025-12-21 | 1504 | 1967 | 1905 | Connection stalls |
+| 1.0.1 | 2025-12-21 | 1504 | 1968 | 1906 | Connection stalls |
 | 1.0.0 | 2025-12-15 |  |  |  | see 1.0.1 |
 | 0.8.0 | 2025-11-16 |  |  |  |  |
 
@@ -22,4 +23,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-04 06:43:36
+Generated: 2026-02-05 06:43:39
