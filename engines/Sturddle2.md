@@ -6,7 +6,8 @@ Home: https://github.com/cristivlas/sturddle-2
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.4.0 | 2025-12-06 | 2665 | 3043 | 3127 |  |
+| Release-2.5.0 | 2026-02-04 |  |  |  |  |
+| 2.4.0 | 2025-12-06 | 2665 | 3044 | 3128 |  |
 | 2.3.1 | 2025-09-04 |  |  |  |  |
 | 2.3 | 2025-09-01 |  |  |  |  |
 | 2.02 | 2025-03-28 |  |  |  |  |
@@ -24,4 +25,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-04 06:44:16
+Generated: 2026-02-05 06:44:20
