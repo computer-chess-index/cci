@@ -6,7 +6,7 @@ Home: https://github.com/bctboi23/CeeChess
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.2 | 2025-11-05 | 2184 | 2457 | 2502 |  |
+| 2.2 | 2025-11-05 | 2184 | 2458 | 2503 |  |
 | 2.1 | 2025-10-07 |  |  |  |  |
 | 2.0 | 2025-09-22 |  |  |  |  |
 | 1.4 | 2024-02-16 |  |  |  |  |
@@ -31,4 +31,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-04 06:42:25
+Generated: 2026-02-05 06:42:26
