@@ -6,9 +6,9 @@ Home: https://github.com/loldot/lolbot
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.2.3 | 2025-12-08 | 2079 | 2286 | 2380 |  |
-| 0.2.2 | 2025-11-29 | 2033 | 2306 | 2344 |  |
-| 0.2.1 | 2025-11-16 | 1966 | 2229 | 2365 |  |
+| 0.2.3 | 2025-12-08 | 2078 | 2287 | 2380 |  |
+| 0.2.2 | 2025-11-29 | 2033 | 2306 | 2345 |  |
+| 0.2.1 | 2025-11-16 | 1966 | 2230 | 2367 |  |
 | 0.2 | 2025-11-15 | 2037 | 2256 | 2419 |  |
 | 0.1-alpha | 2025-03-29 |  |  |  |  |
 
@@ -23,4 +23,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-04 06:43:15
+Generated: 2026-02-05 06:43:18
