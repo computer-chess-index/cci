@@ -6,7 +6,7 @@ Home: https://github.com/princesslana/princhess
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.21.0 | 2025-10-13 | 2863 | 3110 | 3143 |  |
+| 0.21.0 | 2025-10-13 | 2865 | 3112 | 3144 |  |
 | 0.20.0 | 2025-03-05 |  |  |  |  |
 | 0.19.0 | 2024-09-29 |  |  |  |  |
 | 0.18.0 | 2024-07-09 |  |  |  |  |
@@ -51,4 +51,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-04 06:43:41
+Generated: 2026-02-05 06:43:44
