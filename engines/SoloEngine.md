@@ -6,7 +6,7 @@ Home: https://github.com/yunusemreyldz07/SoloEngine
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.3.1 | 2026-02-01 | 1754 | 2006 | 2122 |  |
+| 1.3.1 | 2026-02-01 | 1665 | 2017 | 2117 |  |
 | 1.2.2 | 2026-01-23 | 1689 | 2005 | 2071 |  |
 
  Test Conditions:
@@ -20,4 +20,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-04 06:44:08
+Generated: 2026-02-05 06:44:12
