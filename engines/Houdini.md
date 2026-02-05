@@ -6,7 +6,7 @@ Home: https://github.com/crossopterygian/Houdini_6
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.5a | 2017-11-20 | 2526 | 2600 | 2646 |  |
+| 1.5a | 2017-11-20 | 2527 | 2600 | 2646 |  |
 
  Test Conditions:
 
@@ -19,4 +19,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-04 06:43:01
+Generated: 2026-02-05 06:43:04
