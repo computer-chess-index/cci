@@ -6,9 +6,9 @@ Home: https://github.com/JonathanHallstrom/pawnocchio
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.9.2 | 2026-01-15 | 3409 | 3565 | 3576 |  |
-| 1.9.1 | 2026-01-12 | 3394 | 3559 | 3568 |  |
-| 1.9 | 2026-01-03 | 3405 | 3542 | 3578 |  |
+| 1.9.2 | 2026-01-15 | 3410 | 3567 | 3578 |  |
+| 1.9.1 | 2026-01-12 | 3395 | 3560 | 3568 |  |
+| 1.9 | 2026-01-03 | 3405 | 3542 | 3579 |  |
 | 1.8.1 | 2025-07-25 |  |  |  |  |
 | 1.8 | 2025-07-22 |  |  |  |  |
 | 1.7.2 | 2025-06-15 |  |  |  |  |
@@ -36,4 +36,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-04 06:43:32
+Generated: 2026-02-05 06:43:35
