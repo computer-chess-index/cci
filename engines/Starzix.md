@@ -6,7 +6,7 @@ Home: https://github.com/zzzzz151/Starzix
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.1 | 2025-04-06 | 3355 | 3513 | 3544 |  |
+| 6.1 | 2025-04-06 | 3353 | 3511 | 3542 |  |
 | 6.0 | 2024-10-24 |  |  |  |  |
 | 5.0 | 2024-05-23 |  |  |  |  |
 | 4.0 | 2024-01-22 |  |  |  |  |
@@ -25,4 +25,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-05 06:44:17
+Generated: 2026-02-06 06:44:23
