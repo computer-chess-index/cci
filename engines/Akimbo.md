@@ -6,7 +6,7 @@ Home: https://github.com/jw1912/akimbo
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | 2024-05-26 | 3195 | 3384 | 3422 |  |
+| 1.0.0 | 2024-05-26 | 3194 | 3383 | 3422 |  |
 | 0.8.0 | 2024-01-02 |  |  |  |  |
 | 0.7.0 | 2023-10-30 |  |  |  |  |
 | 0.6.0 | 2023-09-24 |  |  |  |  |
@@ -29,4 +29,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-05 06:42:04
+Generated: 2026-02-06 06:42:04
