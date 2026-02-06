@@ -6,7 +6,7 @@ Home: https://github.com/jabolcni/Lambergar
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.3 | 2025-09-19 | 2948 | 3241 | 3312 |  |
+| 1.3 | 2025-09-19 | 2947 | 3240 | 3310 |  |
 | 1.2 | 2025-05-21 |  |  |  |  |
 | 1.1 | 2025-03-27 |  |  |  |  |
 | 1.0 | 2025-01-14 |  |  |  |  |
@@ -31,4 +31,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-05 06:43:12
+Generated: 2026-02-06 06:43:14
