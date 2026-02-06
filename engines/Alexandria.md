@@ -6,7 +6,7 @@ Home: https://github.com/PGG106/Alexandria
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 8.1.12 | 2025-11-09 | 3465 | 3573 | 3607 |  |
+| 8.1.12 | 2025-11-09 | 3464 | 3572 | 3606 |  |
 | 8.1.0 | 2025-08-16 |  |  | 3648 |  |
 | 8.0.0 | 2025-03-03 |  |  |  |  |
 | 7.1.0 | 2024-10-26 |  |  |  |  |
@@ -42,4 +42,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-05 06:42:06
+Generated: 2026-02-06 06:42:06
