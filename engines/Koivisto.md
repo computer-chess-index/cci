@@ -6,7 +6,7 @@ Home: https://github.com/Luecx/Koivisto
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.0 | 2023-01-15 | 3305 | 3449 | 3488 |  |
+| 9.0 | 2023-01-15 | 3303 | 3448 | 3487 |  |
 | 8.0 | 2022-03-15 |  |  |  |  |
 | 7.0 | 2021-10-31 |  |  |  |  |
 | 6.0 | 2021-07-21 |  |  |  |  |
@@ -27,4 +27,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-05 06:43:09
+Generated: 2026-02-06 15:32:46
