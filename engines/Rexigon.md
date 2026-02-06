@@ -6,7 +6,7 @@ Home: https://github.com/silentshark-uk/rexigon
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2025-11-30 | 2079 | 2346 | 2468 |  |
+| 1.0 | 2025-11-30 | 2078 | 2344 | 2468 |  |
 
  Test Conditions:
 
@@ -19,4 +19,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-06 06:44:05
+Generated: 2026-02-06 15:33:46
