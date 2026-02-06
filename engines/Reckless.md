@@ -6,7 +6,7 @@ Home: https://github.com/codedeliveryservice/Reckless
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.8.0 | 2025-08-30 | 3478 | 3594 | 3600 |  |
+| 0.8.0 | 2025-08-30 | 3478 | 3592 | 3599 |  |
 | 0.7.0 | 2024-08-23 |  |  |  |  |
 | 0.6.0 | 2024-03-21 |  |  |  |  |
 | 0.5.0 | 2024-02-04 |  |  |  |  |
@@ -26,4 +26,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-05 06:43:57
+Generated: 2026-02-06 06:44:02
