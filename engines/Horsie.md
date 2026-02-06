@@ -6,7 +6,7 @@ Home: https://github.com/liamt19/Horsie
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1 | 2025-05-13 | 3380 | 3526 | 3559 |  |
+| 1.1 | 2025-05-13 | 3379 | 3525 | 3557 |  |
 | 1.0 | 2025-01-08 |  |  |  |  |
 
  Test Conditions:
@@ -20,4 +20,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-05 06:43:03
+Generated: 2026-02-06 06:43:04
