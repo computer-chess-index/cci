@@ -6,7 +6,7 @@ Home: https://github.com/GoldenRare/Revolver
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2026-01-01 | 2306 | 2542 | 2603 |  |
+| 1.0 | 2026-01-01 | 2307 | 2542 | 2603 |  |
 
  Test Conditions:
 
@@ -19,4 +19,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-06 15:33:44
+Generated: 2026-02-07 06:43:54
