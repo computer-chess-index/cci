@@ -6,7 +6,7 @@ Home: https://github.com/Jakob256/PurplePanda
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 20 | 2025-12-15 | 1710 | 1960 | 2047 |  |
+| 20 | 2025-12-15 | 1712 | 1960 | 2047 |  |
 | 19 | 2024-12-28 |  |  |  |  |
 | 18 | 2024-09-26 |  |  |  |  |
 | 17.0 | 2024-06-20 |  |  |  |  |
@@ -27,4 +27,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-06 15:33:33
+Generated: 2026-02-07 06:43:45
