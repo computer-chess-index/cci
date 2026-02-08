@@ -4,10 +4,10 @@ Author: Pawel Koziol
 
 Home: https://github.com/nescitus/publius
 
-| Version | Published | STC* | LTC* | VLTC* | Comment |
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1 | 2025-12-31 | 2508 | 2823 | 2869 |  |
-| 1.0 | 2025-10-19 | 2874 | 3143 | 3168 |  |
+| 1.1 | 2025-12-31 | 2508<sub>(-366) | 2823<sub>(-321) | 2869<sub>(-299) |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
 
@@ -20,4 +20,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 08:20:15
+Generated: 2026-02-08 19:09:00
