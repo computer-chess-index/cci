@@ -6,9 +6,9 @@ Home: https://github.com/enfmarinho/Minke
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.0.0 | 2025-12-29 | 3113<sub>(96) | 3303<sub>(62) | 3322<sub>(44) |  |
-| 3.0.0 | 2025-10-20 | 3017<sub>(3017) | 3241<sub>(3241) | 3278<sub>(3278) |  |
-| 2.0.0 | 2025-09-14 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 4.0.0 | 2025-12-29 | 3113<sub>(+96) | 3303<sub>(+62) | 3322<sub>(+44) |  |
+| 3.0.0 | 2025-10-20 | 3017<sub>(new) | 3241<sub>(new) | 3278<sub>(new) |  |
+| 2.0.0 | 2025-09-14 | <sub>(new) | <sub>(new) | <sub>(new) |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -22,4 +22,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:08:35
+Generated: 2026-02-08 19:20:20
