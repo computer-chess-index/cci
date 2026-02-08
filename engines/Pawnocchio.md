@@ -6,23 +6,23 @@ Home: https://github.com/JonathanHallstrom/pawnocchio
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.9.2 | 2026-01-15 | 3410<sub>(15) | 3567<sub>(7) | 3576<sub>(8) |  |
-| 1.9.1 | 2026-01-12 | 3395<sub>(-10) | 3560<sub>(18) | 3568<sub>(-11) |  |
-| 1.9 | 2026-01-03 | 3405<sub>(3405) | 3542<sub>(3542) | 3579<sub>(3579) |  |
-| 1.8.1 | 2025-07-25 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 1.8 | 2025-07-22 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 1.7.2 | 2025-06-15 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 1.7.1 | 2025-06-02 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 1.7 | 2025-05-31 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 1.6.1 | 2025-05-15 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 1.6 | 2025-04-27 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 1.5 | 2025-04-18 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 1.4.1 | 2025-04-05 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 1.3.1415 | 2025-03-14 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 1.3 | 2025-03-07 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 1.2 | 2025-02-21 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 1.1 | 2025-01-24 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 1.0 | 2025-01-20 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 1.9.2 | 2026-01-15 | 3410<sub>(+15) | 3567<sub>(+7) | 3576<sub>(+8) |  |
+| 1.9.1 | 2026-01-12 | 3395<sub>(-10) | 3560<sub>(+18) | 3568<sub>(-11) |  |
+| 1.9 | 2026-01-03 | 3405<sub>(new) | 3542<sub>(new) | 3579<sub>(new) |  |
+| 1.8.1 | 2025-07-25 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 1.8 | 2025-07-22 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 1.7.2 | 2025-06-15 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 1.7.1 | 2025-06-02 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 1.7 | 2025-05-31 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 1.6.1 | 2025-05-15 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 1.6 | 2025-04-27 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 1.5 | 2025-04-18 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 1.4.1 | 2025-04-05 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 1.3.1415 | 2025-03-14 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 1.3 | 2025-03-07 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 1.2 | 2025-02-21 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 1.1 | 2025-01-24 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 1.0 | 2025-01-20 | <sub>(new) | <sub>(new) | <sub>(new) |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -36,4 +36,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:08:46
+Generated: 2026-02-08 19:20:30
