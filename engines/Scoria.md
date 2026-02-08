@@ -6,8 +6,8 @@ Home: https://github.com/iannathan-k/scoria
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.8.51 | 2025-08-10 | 1222<sub>(1222) | 1515<sub>(1515) | 1696<sub>(1696) |  |
-| 2.6.17 | 2025-02-27 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 3.8.51 | 2025-08-10 | 1222<sub>(new) | 1515<sub>(new) | 1696<sub>(new) |  |
+| 2.6.17 | 2025-02-27 | <sub>(new) | <sub>(new) | <sub>(new) |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -21,4 +21,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:09:25
+Generated: 2026-02-08 19:21:02
