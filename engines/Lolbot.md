@@ -6,10 +6,10 @@ Home: https://github.com/loldot/lolbot
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.2.3 | 2025-12-08 | 2080<sub>(47) | 2284<sub>(-23) | 2380<sub>(35) |  |
-| 0.2.2 | 2025-11-29 | 2033<sub>(67) | 2307<sub>(78) | 2345<sub>(-20) |  |
+| 0.2.3 | 2025-12-08 | 2080<sub>(+47) | 2284<sub>(-23) | 2380<sub>(+35) |  |
+| 0.2.2 | 2025-11-29 | 2033<sub>(+67) | 2307<sub>(+78) | 2345<sub>(-20) |  |
 | 0.2.1 | 2025-11-16 | 1966<sub>(-70) | 2229<sub>(-27) | 2365<sub>(-54) |  |
-| 0.2 | 2025-11-15 | 2036<sub>(2036) | 2256<sub>(2256) | 2419<sub>(2419) |  |
+| 0.2 | 2025-11-15 | 2036<sub>(new) | 2256<sub>(new) | 2419<sub>(new) |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -23,4 +23,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:08:26
+Generated: 2026-02-08 19:20:12
