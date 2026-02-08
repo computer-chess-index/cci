@@ -4,11 +4,11 @@ Author: Anton Kernozhitsky
 
 Home: https://github.com/Wind-Eagle/Quirky
 
-| Version | Published | STC* | LTC* | VLTC* | Comment |
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1 | 2025-11-25 | 2989 | 3217 | 3271 |  |
-| 2.0 | 2025-08-30 |  |  |  |  |
-| 1.0 | 2025-05-04 |  |  |  |  |
+| 2.1 | 2025-11-25 | 2990<sub>(2990) | 3217<sub>(3217) | 3271<sub>(3271) |  |
+| 2.0 | 2025-08-30 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
 
@@ -21,4 +21,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 08:20:19
+Generated: 2026-02-08 19:09:04
