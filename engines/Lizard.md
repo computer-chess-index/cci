@@ -6,7 +6,7 @@ Home: https://github.com/liamt19/Lizard
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 11.2 | 2025-01-08 | 3330 | 3511 | 3544 |  |
+| 11.2 | 2025-01-08 | 3330 | 3511 | 3545 |  |
 | 11.1.5 | 2024-12-30 |  |  |  |  |
 | 11.1 | 2024-11-11 |  |  |  |  |
 | 11.0 | 2024-09-26 |  |  |  |  |
@@ -34,4 +34,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-07 06:43:14
+Generated: 2026-02-08 06:43:12
