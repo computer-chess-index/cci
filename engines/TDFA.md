@@ -4,11 +4,11 @@ Author: Tremain Malik
 
 Home: https://github.com/TiltedDFA/TDFA
 
-| Version | Published | STC* | LTC* | VLTC* | Comment |
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0 | 2026-01-17 |  |  |  | Could not init |
-| 1.1 | 2024-02-01 |  |  |  |  |
-| 1.0 | 2024-01-22 |  |  |  |  |
+| 2.0 | 2026-01-17 | <sub>(0) | <sub>(0) | <sub>(0) | Could not init |
+| 1.1 | 2024-02-01 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
 
@@ -21,4 +21,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 08:20:51
+Generated: 2026-02-08 19:09:40
