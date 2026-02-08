@@ -6,17 +6,17 @@ Home: https://github.com/tomcant/chess-rs
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.7.0 | 2025-12-31 | 1702<sub>(0) | 1972<sub>(75) | 2070<sub>(48) |  |
-| 0.6.0 | 2025-11-11 | 1702<sub>(1702) | 1897<sub>(1897) | 2022<sub>(2022) |  |
+| 0.7.0 | 2025-12-31 | 1702<sub>(0) | 1972<sub>(+75) | 2070<sub>(+48) |  |
+| 0.6.0 | 2025-11-11 | 1702<sub>(new) | 1897<sub>(new) | 2022<sub>(new) |  |
 | 0.5.1 | 2025-11-04 | <sub>(-1600) | <sub>(-1824) | <sub>(-1928) | no public available .exe |
-| 0.5.0 | 2025-11-03 | 1600<sub>(1600) | 1824<sub>(1824) | 1928<sub>(1928) |  |
-| 0.4.2 | 2025-10-13 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 0.4.1 | 2025-10-09 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 0.4.0 | 2025-10-09 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 0.3.0 | 2025-10-05 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 0.2.0 | 2023-03-12 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 0.1.1 | 2022-12-03 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 0.1.0 | 2022-12-03 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 0.5.0 | 2025-11-03 | 1600<sub>(new) | 1824<sub>(new) | 1928<sub>(new) |  |
+| 0.4.2 | 2025-10-13 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 0.4.1 | 2025-10-09 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 0.4.0 | 2025-10-09 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 0.3.0 | 2025-10-05 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 0.2.0 | 2023-03-12 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 0.1.1 | 2022-12-03 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 0.1.0 | 2022-12-03 | <sub>(new) | <sub>(new) | <sub>(new) |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -30,4 +30,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:07:31
+Generated: 2026-02-08 19:19:24
