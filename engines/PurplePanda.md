@@ -4,17 +4,17 @@ Author: Jakob Steininger
 
 Home: https://github.com/Jakob256/PurplePanda
 
-| Version | Published | STC* | LTC* | VLTC* | Comment |
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 20 | 2025-12-15 | 1712 | 1962 | 2047 |  |
-| 19 | 2024-12-28 |  |  |  |  |
-| 18 | 2024-09-26 |  |  |  |  |
-| 17.0 | 2024-06-20 |  |  |  |  |
-| 16.0 | 2024-04-12 |  |  |  |  |
-| 15.0 | 2024-03-29 |  |  |  |  |
-| 14.0 | 2024-01-20 |  |  |  |  |
-| 13.0 | 2023-09-04 |  |  |  |  |
-| 12.0 | 2023-08-16 |  |  |  |  |
+| 20 | 2025-12-15 | 1712<sub>(1712) | 1962<sub>(1962) | 2047<sub>(2047) |  |
+| 19 | 2024-12-28 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 18 | 2024-09-26 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 17.0 | 2024-06-20 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 16.0 | 2024-04-12 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 15.0 | 2024-03-29 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 14.0 | 2024-01-20 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 13.0 | 2023-09-04 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
 
@@ -27,4 +27,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 08:20:16
+Generated: 2026-02-08 19:09:01
