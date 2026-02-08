@@ -6,8 +6,8 @@ Home: https://github.com/Witek902/Caissa
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.24 | 2025-12-03 | 3422<sub>(-5) | 3560<sub>(-9) | 3572<sub>(7) |  |
-| 1.23 | 2025-08-21 | 3417<sub>(-3417) | 3551<sub>(-3551) | 3579<sub>(-3579) |  |
+| 1.24 | 2025-12-03 | 3422<sub>(5) | 3560<sub>(9) | 3572<sub>(-7) |  |
+| 1.23 | 2025-08-21 | 3417<sub>(3417) | 3551<sub>(3551) | 3579<sub>(3579) |  |
 | 1.22 | 2025-04-30 | <sub>(0) | <sub>(0) | <sub>(0) |  |
 | 1.21 | 2024-10-27 | <sub>(0) | <sub>(0) | <sub>(0) |  |
 | 1.20 | 2024-07-28 | <sub>(0) | <sub>(0) | <sub>(0) |  |
@@ -52,4 +52,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:05:45
+Generated: 2026-02-08 19:07:27
