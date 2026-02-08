@@ -6,13 +6,13 @@ Home: https://github.com/oozturk777/ynode
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0219 | 2025-11-16 | 3181<sub>(3181) | 3348<sub>(3348) | 3399<sub>(3399) |  |
-| 0215 | 2025-09-28 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 0213 | 2025-08-24 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 0144 | 2025-08-01 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 0177 | 2025-08-01 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 0189 | 2025-08-01 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 0194 | 2025-08-01 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 0219 | 2025-11-16 | 3181<sub>(new) | 3348<sub>(new) | 3399<sub>(new) |  |
+| 0215 | 2025-09-28 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 0213 | 2025-08-24 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 0144 | 2025-08-01 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 0177 | 2025-08-01 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 0189 | 2025-08-01 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 0194 | 2025-08-01 | <sub>(new) | <sub>(new) | <sub>(new) |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -26,4 +26,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:09:56
+Generated: 2026-02-08 19:21:30
