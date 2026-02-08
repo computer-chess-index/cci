@@ -6,12 +6,12 @@ Home: https://github.com/zzzzz151/Starzix
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.1 | 2025-04-06 | 3356<sub>(3356) | 3513<sub>(3513) | 3545<sub>(3545) |  |
-| 6.0 | 2024-10-24 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 5.0 | 2024-05-23 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 4.0 | 2024-01-22 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 3.0 | 2023-11-25 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 2.1 | 2023-10-22 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 6.1 | 2025-04-06 | 3356<sub>(new) | 3513<sub>(new) | 3545<sub>(new) |  |
+| 6.0 | 2024-10-24 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 5.0 | 2024-05-23 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 4.0 | 2024-01-22 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 3.0 | 2023-11-25 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 2.1 | 2023-10-22 | <sub>(new) | <sub>(new) | <sub>(new) |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -25,4 +25,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:09:31
+Generated: 2026-02-08 19:21:08
