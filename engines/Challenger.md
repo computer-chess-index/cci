@@ -4,15 +4,15 @@ Author: Simjanovski Nikola
 
 Home: https://github.com/SimjanovskiNikola/FRI_Challenger
 
-| Version | Published | STC* | LTC* | VLTC* | Comment |
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.6.0 | 2025-10-02 | 2115 | 2411 | 2542 |  |
-| 0.5.0 | 2025-09-06 |  |  |  |  |
-| 0.4.0 | 2025-09-03 |  |  |  |  |
-| 0.3.0 | 2025-09-03 |  |  |  |  |
-| 0.2.1 | 2025-05-27 |  |  |  |  |
-| 0.2.0 | 2025-05-07 |  |  |  |  |
-| 0.1.0 | 2025-01-27 |  |  |  |  |
+| 0.6.0 | 2025-10-02 | 2115<sub>(-2115) | 2411<sub>(-2411) | 2542<sub>(-2542) |  |
+| 0.5.0 | 2025-09-06 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 0.4.0 | 2025-09-03 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 0.3.0 | 2025-09-03 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 0.2.1 | 2025-05-27 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 0.2.0 | 2025-05-07 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
 
@@ -25,4 +25,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 08:18:52
+Generated: 2026-02-08 19:05:48
