@@ -4,17 +4,17 @@ Author: Colin Jenkins
 
 Home: https://github.com/op12no2/lozza
 
-| Version | Published | STC* | LTC* | VLTC* | Comment |
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 10 | 2026-01-17 | 2900 | 3104 | 3158 |  |
-| 9 | 2026-01-10 | 2654 | 2938 | 3036 |  |
-| 8 | 2025-09-25 | 2638 | 2954 | 3069 |  |
-| 7 | 2025-07-12 |  |  |  |  |
-| 5.1 | 2025-06-02 |  |  |  |  |
-| 5 | 2025-02-25 |  |  |  |  |
-| 4 | 2025-01-06 |  |  |  |  |
-| 3 | 2024-10-06 |  |  |  |  |
-| 2.5 | 2023-02-10 |  |  |  |  |
+| 10 | 2026-01-17 | 2901<sub>(247) | 3105<sub>(166) | 3158<sub>(120) |  |
+| 9 | 2026-01-10 | 2654<sub>(16) | 2939<sub>(-15) | 3038<sub>(-32) |  |
+| 8 | 2025-09-25 | 2638<sub>(2638) | 2954<sub>(2954) | 3070<sub>(3070) |  |
+| 7 | 2025-07-12 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 5.1 | 2025-06-02 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 5 | 2025-02-25 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 4 | 2025-01-06 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 3 | 2024-10-06 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
 
@@ -27,4 +27,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 08:19:45
+Generated: 2026-02-08 19:06:38
