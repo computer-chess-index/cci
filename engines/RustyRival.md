@@ -16,7 +16,6 @@ Home: https://github.com/chris-moreton/rusty-rival
 | 1.0.2 | 2022-04-13 |  |  |  |  |
 | 1.0.1 | 2022-04-05 |  |  |  |  |
 | 1.0.0 | 2022-04-03 |  |  |  |  |
-| 1.0.19 |  |  | 2117 | 2213 |  |
 | 1.0.20 |  |  |  |  |  |
 | 1.0.21 |  |  |  |  |  |
 | 1.0.6 |  |  |  |  | thread 'main' (10808) panicked at src\main.rs:17:36: |
@@ -29,6 +28,7 @@ Home: https://github.com/chris-moreton/rusty-rival
 | 1.0.17 |  | 1909 |  | 2384 |  |
 | 1.0.18 |  |  |  |  |  |
 | 1.0.25 |  |  |  |  |  |
+| 1.0.19 |  |  | 2117 | 2213 |  |
 
  Test Conditions:
 
@@ -41,4 +41,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 06:44:03
+Generated: 2026-02-08 08:20:35
