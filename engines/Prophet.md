@@ -6,12 +6,12 @@ Home: https://github.com/jswaff/prophet
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 5.1 | 2025-09-16 | 2191<sub>(2191) | 2498<sub>(2498) | 2561<sub>(2561) |  |
-| 5.0 | 2025-08-05 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 4.4 | 2024-10-22 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 4.3 | 2022-10-21 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 4.2 | 2022-06-23 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 4.1 | 2022-01-02 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 5.1 | 2025-09-16 | 2191<sub>(new) | 2498<sub>(new) | 2561<sub>(new) |  |
+| 5.0 | 2025-08-05 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 4.4 | 2024-10-22 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 4.3 | 2022-10-21 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 4.2 | 2022-06-23 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 4.1 | 2022-01-02 | <sub>(new) | <sub>(new) | <sub>(new) |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -25,4 +25,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:08:58
+Generated: 2026-02-08 19:20:40
