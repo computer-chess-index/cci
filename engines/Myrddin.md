@@ -6,11 +6,11 @@ Home: https://github.com/JVMerlino/Myrddin
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.94 | 2025-12-11 | 2645<sub>(2645) | 2947<sub>(2947) | 3098<sub>(3098) |  |
-| 0.93 | 2025-04-23 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 0.92 | 2024-12-08 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 0.91 | 2024-10-19 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 0.90 | 2023-06-12 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 0.94 | 2025-12-11 | 2645<sub>(new) | 2947<sub>(new) | 3098<sub>(new) |  |
+| 0.93 | 2025-04-23 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 0.92 | 2024-12-08 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 0.91 | 2024-10-19 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 0.90 | 2023-06-12 | <sub>(new) | <sub>(new) | <sub>(new) |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -24,4 +24,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:08:37
+Generated: 2026-02-08 19:20:22
