@@ -4,10 +4,10 @@ Author: Hans Tibberio
 
 Home: https://github.com/HansTibberio/Laura
 
-| Version | Published | STC* | LTC* | VLTC* | Comment |
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1.0 | 2026-01-26 | 1446 | 1544 | 1463 |  |
-| 1.0.0 | 2025-05-30 |  |  |  |  |
+| 1.1.0 | 2026-01-26 | 1446<sub>(-1446) | 1544<sub>(-1544) | 1463<sub>(-1463) |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
 
@@ -20,4 +20,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 08:19:40
+Generated: 2026-02-08 19:06:33
