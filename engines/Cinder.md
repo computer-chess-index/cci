@@ -4,18 +4,18 @@ Author: Bruno Dutra
 
 Home: https://github.com/brunocodutra/cinder
 
-| Version | Published | STC* | LTC* | VLTC* | Comment |
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.4.1 | 2025-12-05 | 3386 | 3503 | 3532 |  |
-| 0.4.0 | 2025-12-04 | 3340 | 3507 | 3553 |  |
-| 0.3.1 | 2025-08-16 |  |  |  |  |
-| 0.3.0 | 2025-08-16 |  |  |  |  |
-| 0.2.0 | 2025-05-29 |  |  |  |  |
-| 0.1.4 | 2025-04-10 |  |  |  |  |
-| 0.1.3 | 2025-02-28 |  |  |  |  |
-| 0.1.2 | 2025-02-25 |  |  |  |  |
-| 0.1.1 | 2025-02-23 |  |  |  |  |
-| 0.1.0 | 2025-02-23 |  |  |  |  |
+| 0.4.1 | 2025-12-05 | 3383<sub>(-43) | 3505<sub>(2) | 3532<sub>(23) |  |
+| 0.4.0 | 2025-12-04 | 3340<sub>(-3340) | 3507<sub>(-3507) | 3555<sub>(-3555) |  |
+| 0.3.1 | 2025-08-16 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 0.3.0 | 2025-08-16 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 0.2.0 | 2025-05-29 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 0.1.4 | 2025-04-10 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 0.1.3 | 2025-02-28 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 0.1.2 | 2025-02-25 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 0.1.1 | 2025-02-23 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
 
@@ -28,4 +28,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 08:18:58
+Generated: 2026-02-08 19:05:54
