@@ -4,10 +4,10 @@ Author: Chris Wittington
 
 Home: 
 
-| Version | Published | STC* | LTC* | VLTC* | Comment |
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| Extreme | 2026-01-07 | 2963 | 3205 | 3244 |  |
-| 2.00 | 2023-06-15 |  |  |  |  |
+| Extreme | 2026-01-07 | 2963<sub>(-2963) | 3205<sub>(-3205) | 3244<sub>(-3244) |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
 
@@ -20,4 +20,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 08:18:57
+Generated: 2026-02-08 19:05:53
