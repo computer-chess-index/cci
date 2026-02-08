@@ -6,14 +6,14 @@ Home: https://github.com/martinnovaak/motor
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.9.0 | 2025-06-02 | 3366<sub>(3366) | 3525<sub>(3525) | 3564<sub>(3564) |  |
-| 0.8.0 | 2024-10-28 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 0.7.0 | 2024-08-11 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 0.6.0 | 2024-06-30 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 0.5.0 | 2024-05-23 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 0.4.0 | 2024-04-18 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 0.3.0 | 2024-03-30 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 0.2.0 | 2024-03-09 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 0.9.0 | 2025-06-02 | 3366<sub>(new) | 3525<sub>(new) | 3564<sub>(new) |  |
+| 0.8.0 | 2024-10-28 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 0.7.0 | 2024-08-11 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 0.6.0 | 2024-06-30 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 0.5.0 | 2024-05-23 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 0.4.0 | 2024-04-18 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 0.3.0 | 2024-03-30 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 0.2.0 | 2024-03-09 | <sub>(new) | <sub>(new) | <sub>(new) |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -27,4 +27,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:08:36
+Generated: 2026-02-08 19:20:21
