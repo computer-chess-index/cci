@@ -6,8 +6,8 @@ Home: https://github.com/rektdie/Eleanor
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0 | 2025-12-05 | 3073<sub>(3073) | 3286<sub>(3286) | 3347<sub>(3347) |  |
-| 2.0 | 2025-08-23 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 3.0 | 2025-12-05 | 3073<sub>(new) | 3286<sub>(new) | 3347<sub>(new) |  |
+| 2.0 | 2025-08-23 | <sub>(new) | <sub>(new) | <sub>(new) |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -21,4 +21,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:07:48
+Generated: 2026-02-08 19:19:39
