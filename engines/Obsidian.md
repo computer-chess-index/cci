@@ -4,21 +4,21 @@ Author: Gabriele Lombardo
 
 Home: https://github.com/gab8192/Obsidian
 
-| Version | Published | STC* | LTC* | VLTC* | Comment |
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 16.0 | 2025-05-21 | 3470 | 3584 | 3609 |  |
-| 15.0 | 2025-01-31 |  |  |  |  |
-| 14.0 | 2024-10-22 |  |  |  |  |
-| 13.0 | 2024-07-01 |  |  |  |  |
-| 12.0 | 2024-04-11 |  |  |  |  |
-| 11.0 | 2024-03-02 |  |  |  |  |
-| 10.0 | 2024-01-16 |  |  |  |  |
-| 9.0 | 2023-12-17 |  |  |  |  |
-| 8.0 | 2023-11-30 |  |  |  |  |
-| 7.0 | 2023-11-07 |  |  |  |  |
-| 6.0 | 2023-10-21 |  |  |  |  |
-| 5.0 | 2023-10-01 |  |  |  |  |
-| 4.0 | 2023-09-23 |  |  |  |  |
+| 16.0 | 2025-05-21 | 3470<sub>(3470) | 3584<sub>(3584) | 3609<sub>(3609) |  |
+| 15.0 | 2025-01-31 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 14.0 | 2024-10-22 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 13.0 | 2024-07-01 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 12.0 | 2024-04-11 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 11.0 | 2024-03-02 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 10.0 | 2024-01-16 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 9.0 | 2023-12-17 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 8.0 | 2023-11-30 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 7.0 | 2023-11-07 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 6.0 | 2023-10-21 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 5.0 | 2023-10-01 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
 
@@ -31,4 +31,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 08:19:59
+Generated: 2026-02-08 19:08:42
