@@ -6,7 +6,7 @@ Home: https://github.com/jhellis3/Stockfish
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9 | 2025-05-09 | 3463<sub>(-3463) | 3594<sub>(-3594) | 3626<sub>(-3626) |  |
+| 9 | 2025-05-09 | 3463<sub>(3463) | 3594<sub>(3594) | 3626<sub>(3626) |  |
 | 8 | 2024-04-05 | <sub>(0) | <sub>(0) | <sub>(0) |  |
 | 8 | 2024-04-05 | <sub>(0) | <sub>(0) | <sub>(0) |  |
 | 7 | 2023-11-09 | <sub>(0) | <sub>(0) | <sub>(0) |  |
@@ -48,4 +48,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:05:59
+Generated: 2026-02-08 19:07:42
