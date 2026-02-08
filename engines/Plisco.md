@@ -4,13 +4,13 @@ Author: Guido Flohr
 
 Home: https://github.com/gflohr/Chess-Plisco
 
-| Version | Published | STC* | LTC* | VLTC* | Comment |
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.3 | 2026-02-04 |  |  |  | connection stalls |
-| 1.0.2 | 2026-01-06 | 1045 |  |  | Connection stalls |
-| 1.0.1 | 2025-12-21 | 1503 | 1971 | 1908 | Connection stalls |
-| 1.0.0 | 2025-12-15 |  |  |  | see 1.0.1 |
-| 0.8.0 | 2025-11-16 |  |  |  |  |
+| 1.0.3 | 2026-02-04 | <sub>(-1045) | <sub>(0) | <sub>(0) | connection stalls |
+| 1.0.2 | 2026-01-06 | 1045<sub>(-458) | <sub>(-1971) | <sub>(-1908) | Connection stalls |
+| 1.0.1 | 2025-12-21 | 1503<sub>(1503) | 1971<sub>(1971) | 1908<sub>(1908) | Connection stalls |
+| 1.0.0 | 2025-12-15 | <sub>(0) | <sub>(0) | <sub>(0) | see 1.0.1 |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
 
@@ -23,4 +23,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 08:20:06
+Generated: 2026-02-08 19:08:50
