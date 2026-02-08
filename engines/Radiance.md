@@ -6,9 +6,9 @@ Home: https://github.com/ppipelin/radiance
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.2 | 2026-01-17 | 1616<sub>(1616) | 1883<sub>(1883) | 1948<sub>(1948) |  |
-| 4.1 | 2025-08-16 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 4.0.1 | 2025-04-17 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 4.2 | 2026-01-17 | 1616<sub>(new) | 1883<sub>(new) | 1948<sub>(new) |  |
+| 4.1 | 2025-08-16 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 4.0.1 | 2025-04-17 | <sub>(new) | <sub>(new) | <sub>(new) |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -22,4 +22,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:09:05
+Generated: 2026-02-08 19:20:46
