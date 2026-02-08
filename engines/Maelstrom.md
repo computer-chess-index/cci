@@ -4,17 +4,17 @@ Author: Saigautam Bonam
 
 Home: https://github.com/saisree27/Maelstrom
 
-| Version | Published | STC* | LTC* | VLTC* | Comment |
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.3.0 | 2025-08-27 | 2778 | 3087 | 3217 |  |
-| 3.2.0 | 2025-07-16 |  |  |  |  |
-| 3.1.1 | 2025-07-10 |  |  |  |  |
-| 3.1.0 | 2025-07-09 |  |  |  |  |
-| 3.0.0 | 2025-06-30 |  |  |  |  |
-| 2.1.0 | 2025-06-20 |  |  |  |  |
-| 2.0.0 | 2025-06-18 |  |  |  |  |
-| 1.0.1 | 2022-07-24 |  |  |  |  |
-| 1.0.0 | 2022-07-20 |  |  |  |  |
+| 3.3.0 | 2025-08-27 | 2778<sub>(2778) | 3087<sub>(3087) | 3217<sub>(3217) |  |
+| 3.2.0 | 2025-07-16 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 3.1.1 | 2025-07-10 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 3.1.0 | 2025-07-09 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 3.0.0 | 2025-06-30 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 2.1.0 | 2025-06-20 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 2.0.0 | 2025-06-18 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 1.0.1 | 2022-07-24 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
 
@@ -27,4 +27,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 08:19:48
+Generated: 2026-02-08 19:06:41
