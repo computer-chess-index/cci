@@ -6,7 +6,7 @@ Home: https://github.com/Alex2262/AltairChessEngine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7.0.0 | 2024-02-17 | 3216<sub>(-3216) | 3384<sub>(-3384) | 3401<sub>(-3401) |  |
+| 7.0.0 | 2024-02-17 | 3216<sub>(3216) | 3384<sub>(3384) | 3401<sub>(3401) |  |
 | 6.0.0 | 2023-12-05 | <sub>(0) | <sub>(0) | <sub>(0) |  |
 | 5.0.0 | 2023-09-24 | <sub>(0) | <sub>(0) | <sub>(0) |  |
 | 4.0.0 | 2023-07-10 | <sub>(0) | <sub>(0) | <sub>(0) |  |
@@ -25,4 +25,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:05:29
+Generated: 2026-02-08 19:07:07
