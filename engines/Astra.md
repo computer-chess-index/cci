@@ -6,7 +6,7 @@ Home: https://github.com/h1me01/Astra
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.1.1 | 2025-07-21 | 3322<sub>(-3322) | 3509<sub>(-3509) | 3542<sub>(-3542) |  |
+| 6.1.1 | 2025-07-21 | 3322<sub>(3322) | 3509<sub>(3509) | 3542<sub>(3542) |  |
 | 6.1 | 2025-07-20 | <sub>(0) | <sub>(0) | <sub>(0) |  |
 | 6.0 | 2025-07-07 | <sub>(0) | <sub>(0) | <sub>(0) |  |
 | 5.2 | 2025-05-02 | <sub>(0) | <sub>(0) | <sub>(0) |  |
@@ -31,4 +31,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:05:39
+Generated: 2026-02-08 19:07:16
