@@ -4,17 +4,17 @@ Author: Gediminas Masaitis
 
 Home: https://github.com/GediminasMasaitis/4k-dot-c
 
-| Version | Published | STC* | LTC* | VLTC* | Comment |
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 5.0 | 2025-10-30 | 2529 | 2830 | 2904 |  |
-| 4.41 | 2025-08-15 |  |  |  |  |
-| 4.0 | 2025-08-15 |  |  |  |  |
-| 3.0 | 2025-08-15 |  |  |  |  |
-| 2.0 | 2025-08-15 |  |  |  |  |
-| 1.0 | 2025-08-15 |  |  |  |  |
-| 0.99 | 2025-02-09 |  |  |  |  |
-| 0.69 | 2024-11-06 |  |  |  |  |
-| 0.50 | 2024-10-15 |  |  |  |  |
+| 5.0 | 2025-10-30 | 2529<sub>(-2529) | 2831<sub>(-2831) | 2904<sub>(-2904) |  |
+| 4.41 | 2025-08-15 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 4.0 | 2025-08-15 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 3.0 | 2025-08-15 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 2.0 | 2025-08-15 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 1.0 | 2025-08-15 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 0.99 | 2025-02-09 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 0.69 | 2024-11-06 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
 
@@ -27,4 +27,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 08:18:27
+Generated: 2026-02-08 19:05:24
