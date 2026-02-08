@@ -4,11 +4,11 @@ Author: Gisi Alex
 
 Home: https://github.com/AlexGisi/prometheus-chess
 
-| Version | Published | STC* | LTC* | VLTC* | Comment |
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.2.1 | 2025-08-18 | 1396 | 1562 | 1555 |  |
-| 0.2 | 2024-07-30 |  |  |  |  |
-| 0.1 | 2024-05-18 |  |  |  |  |
+| 0.2.1 | 2025-08-18 | 1396<sub>(1396) | 1562<sub>(1562) | 1555<sub>(1555) |  |
+| 0.2 | 2024-07-30 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
 
@@ -21,4 +21,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 08:20:12
+Generated: 2026-02-08 19:08:57
