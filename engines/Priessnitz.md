@@ -4,11 +4,11 @@ Author: Kevin Feske
 
 Home: https://github.com/kfeske/Priessnitz
 
-| Version | Published | STC* | LTC* | VLTC* | Comment |
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0.1 | 2026-01-21 |  |  |  | Virustotal detections |
-| 2.0 | 2024-11-03 |  |  |  |  |
-| 1.0 | 2024-09-25 |  |  |  |  |
+| 2.0.1 | 2026-01-21 | <sub>(0) | <sub>(0) | <sub>(0) | Virustotal detections |
+| 2.0 | 2024-11-03 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
 
@@ -21,4 +21,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 08:20:10
+Generated: 2026-02-08 19:08:54
