@@ -6,14 +6,14 @@ Home: https://github.com/feftywacky/Thrawn
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.2 | 2025-10-08 | 2550<sub>(2550) | 2869<sub>(2869) | 2973<sub>(2973) |  |
-| 2.1 | 2024-07-16 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 2.0 | 2024-01-01 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 1.1 | 2023-12-28 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 1.0 | 2023-12-27 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 0.6-beta | 2023-12-26 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 0.5-beta | 2023-12-24 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 0.4-beta | 2023-12-24 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 2.2 | 2025-10-08 | 2550<sub>(new) | 2869<sub>(new) | 2973<sub>(new) |  |
+| 2.1 | 2024-07-16 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 2.0 | 2024-01-01 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 1.1 | 2023-12-28 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 1.0 | 2023-12-27 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 0.6-beta | 2023-12-26 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 0.5-beta | 2023-12-24 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 0.4-beta | 2023-12-24 | <sub>(new) | <sub>(new) | <sub>(new) |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -27,4 +27,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:09:41
+Generated: 2026-02-08 19:21:17
