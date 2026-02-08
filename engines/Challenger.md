@@ -6,12 +6,12 @@ Home: https://github.com/SimjanovskiNikola/FRI_Challenger
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.6.0 | 2025-10-02 | 2115<sub>(2115) | 2411<sub>(2411) | 2542<sub>(2542) |  |
-| 0.5.0 | 2025-09-06 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 0.4.0 | 2025-09-03 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 0.3.0 | 2025-09-03 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 0.2.1 | 2025-05-27 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 0.2.0 | 2025-05-07 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 0.6.0 | 2025-10-02 | 2115<sub>(new) | 2411<sub>(new) | 2542<sub>(new) |  |
+| 0.5.0 | 2025-09-06 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 0.4.0 | 2025-09-03 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 0.3.0 | 2025-09-03 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 0.2.1 | 2025-05-27 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 0.2.0 | 2025-05-07 | <sub>(new) | <sub>(new) | <sub>(new) |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -25,4 +25,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:07:30
+Generated: 2026-02-08 19:19:23
