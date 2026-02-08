@@ -6,15 +6,15 @@ Home: https://github.com/tgirolami09/Prune
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.1.0 | 2026-01-10 | 2948<sub>(266) | 3189<sub>(255) | 3239<sub>(192) |  |
+| 3.1.0 | 2026-01-10 | 2948<sub>(+266) | 3189<sub>(+255) | 3239<sub>(+192) |  |
 | 3.0.0 | 2025-12-06 | 2682<sub>(-45) | 2934<sub>(-9) | 3047<sub>(-12) |  |
-| 2.2.0 | 2025-11-20 | 2727<sub>(159) | 2943<sub>(123) | 3059<sub>(150) |  |
-| 2.1.2 | 2025-11-06 | 2568<sub>(48) | 2820<sub>(-7) | 2909<sub>(-2) |  |
-| 2.1.1 | 2025-11-05 | 2520<sub>(-53) | 2827<sub>(30) | 2911<sub>(50) |  |
-| 2.1.0 | 2025-11-02 | 2573<sub>(2573) | 2797<sub>(2797) | 2861<sub>(2861) |  |
-| 2.0.1 | 2025-10-21 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 2.0.0 | 2025-10-19 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 1.0.1 | 2025-10-15 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 2.2.0 | 2025-11-20 | 2727<sub>(+159) | 2943<sub>(+123) | 3059<sub>(+150) |  |
+| 2.1.2 | 2025-11-06 | 2568<sub>(+48) | 2820<sub>(-7) | 2909<sub>(-2) |  |
+| 2.1.1 | 2025-11-05 | 2520<sub>(-53) | 2827<sub>(+30) | 2911<sub>(+50) |  |
+| 2.1.0 | 2025-11-02 | 2573<sub>(new) | 2797<sub>(new) | 2861<sub>(new) |  |
+| 2.0.1 | 2025-10-21 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 2.0.0 | 2025-10-19 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 1.0.1 | 2025-10-15 | <sub>(new) | <sub>(new) | <sub>(new) |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -28,4 +28,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:08:59
+Generated: 2026-02-08 19:20:41
