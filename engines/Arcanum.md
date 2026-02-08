@@ -6,7 +6,7 @@ Home: https://github.com/LarsAur/Arcanum
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.7 | 2025-10-18 | 2943<sub>(-2943) | 3251<sub>(-3251) | 3290<sub>(-3290) |  |
+| 2.7 | 2025-10-18 | 2943<sub>(2943) | 3251<sub>(3251) | 3290<sub>(3290) |  |
 | 2.6 | 2025-07-19 | <sub>(0) | <sub>(0) | <sub>(0) |  |
 | 2.5 | 2025-03-03 | <sub>(0) | <sub>(0) | <sub>(0) |  |
 | 2.4 | 2024-11-30 | <sub>(0) | <sub>(0) | <sub>(0) |  |
@@ -31,4 +31,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:05:36
+Generated: 2026-02-08 19:07:14
