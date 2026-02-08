@@ -6,7 +6,7 @@ Home: https://github.com/KierenP/Halogen
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 15.0.0 | 2025-09-01 | 3316<sub>(-3316) | 3501<sub>(-3501) | 3555<sub>(-3555) |  |
+| 15.0.0 | 2025-09-01 | 3316<sub>(3316) | 3501<sub>(3501) | 3555<sub>(3555) |  |
 | 14 | 2025-07-28 | <sub>(0) | <sub>(0) | <sub>(0) |  |
 | 13 | 2025-06-24 | <sub>(0) | <sub>(0) | <sub>(0) |  |
 | 12 | 2024-08-01 | <sub>(0) | <sub>(0) | <sub>(0) |  |
@@ -37,4 +37,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:06:20
+Generated: 2026-02-08 19:08:06
