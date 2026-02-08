@@ -6,14 +6,14 @@ Home: https://github.com/saisree27/Maelstrom
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.3.0 | 2025-08-27 | 2778<sub>(2778) | 3087<sub>(3087) | 3217<sub>(3217) |  |
-| 3.2.0 | 2025-07-16 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 3.1.1 | 2025-07-10 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 3.1.0 | 2025-07-09 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 3.0.0 | 2025-06-30 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 2.1.0 | 2025-06-20 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 2.0.0 | 2025-06-18 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 1.0.1 | 2022-07-24 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 3.3.0 | 2025-08-27 | 2778<sub>(new) | 3087<sub>(new) | 3217<sub>(new) |  |
+| 3.2.0 | 2025-07-16 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 3.1.1 | 2025-07-10 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 3.1.0 | 2025-07-09 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 3.0.0 | 2025-06-30 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 2.1.0 | 2025-06-20 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 2.0.0 | 2025-06-18 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 1.0.1 | 2022-07-24 | <sub>(new) | <sub>(new) | <sub>(new) |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -27,4 +27,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:08:31
+Generated: 2026-02-08 19:20:16
