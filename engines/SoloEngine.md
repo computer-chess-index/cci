@@ -4,11 +4,11 @@ Author: Yunus Emre Yıldız
 
 Home: https://github.com/yunusemreyldz07/SoloEngine
 
-| Version | Published | STC* | LTC* | VLTC* | Comment |
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.4.0 | 2026-02-07 | 1816 | 2095 | 2268 |  |
-| 1.3.1 | 2026-02-01 | 1663 | 2021 | 2120 |  |
-| 1.2.2 | 2026-01-23 | 1688 | 2003 | 2070 |  |
+| 1.4.0 | 2026-02-07 | 1813<sub>(150) | 2095<sub>(74) | 2271<sub>(151) |  |
+| 1.3.1 | 2026-02-01 | 1663<sub>(-25) | 2021<sub>(18) | 2120<sub>(50) |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
 
@@ -21,4 +21,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 08:20:39
+Generated: 2026-02-08 19:09:26
