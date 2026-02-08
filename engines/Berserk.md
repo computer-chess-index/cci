@@ -6,7 +6,7 @@ Home: https://github.com/jhonnold/berserk
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 13 | 2024-03-31 | 1607<sub>(-1607) | 3555<sub>(-3555) | 3579<sub>(-3579) |  |
+| 13 | 2024-03-31 | 1607<sub>(1607) | 3555<sub>(3555) | 3579<sub>(3579) |  |
 | 12.1 | 2023-11-12 | <sub>(0) | <sub>(0) | <sub>(0) |  |
 | 12 | 2023-10-26 | <sub>(0) | <sub>(0) | <sub>(0) |  |
 | 11.1 | 2023-02-21 | <sub>(0) | <sub>(0) | <sub>(0) |  |
@@ -49,4 +49,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:05:40
+Generated: 2026-02-08 19:07:17
