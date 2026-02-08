@@ -6,15 +6,15 @@ Home: https://github.com/chris-moreton/rivalchess-uci
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 40.0.0 | 2026-01-11 | <sub>(0) | <sub>(0) | <sub>(0) | Loses on time |
-| 39.0.0-1 | 2020-11-15 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 36.0.0-1 | 2020-10-31 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 32.0.11-1 | 2020-09-30 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 32.0.0-1 | 2020-09-24 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 31.0.5-1 | 2020-09-12 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 31.0.4-1 | 2020-09-11 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 31.0.2-1 | 2020-09-11 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 31.0.0 | 2020-09-09 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 40.0.0 | 2026-01-11 | <sub>(new) | <sub>(new) | <sub>(new) | Loses on time |
+| 39.0.0-1 | 2020-11-15 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 36.0.0-1 | 2020-10-31 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 32.0.11-1 | 2020-09-30 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 32.0.0-1 | 2020-09-24 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 31.0.5-1 | 2020-09-12 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 31.0.4-1 | 2020-09-11 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 31.0.2-1 | 2020-09-11 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 31.0.0 | 2020-09-09 | <sub>(new) | <sub>(new) | <sub>(new) |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -28,4 +28,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:09:15
+Generated: 2026-02-08 19:20:55
