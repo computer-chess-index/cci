@@ -6,8 +6,8 @@ Home: https://github.com/cjbolt/EubosChess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.3 | 2026-01-29 | 2145<sub>(58) | 2512<sub>(-44) | 2587<sub>(6) |  |
-| 4.2 | 2025-10-16 | 2203<sub>(-2203) | 2468<sub>(-2468) | 2593<sub>(-2593) |  |
+| 4.3 | 2026-01-29 | 2145<sub>(-58) | 2512<sub>(44) | 2587<sub>(-6) |  |
+| 4.2 | 2025-10-16 | 2203<sub>(2203) | 2468<sub>(2468) | 2593<sub>(2593) |  |
 | 4.1 | 2025-08-23 | <sub>(0) | <sub>(0) | <sub>(0) |  |
 | 4.0 | 2025-04-13 | <sub>(0) | <sub>(0) | <sub>(0) |  |
 | 3.9 | 2025-03-25 | <sub>(0) | <sub>(0) | <sub>(0) |  |
@@ -76,4 +76,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:06:07
+Generated: 2026-02-08 19:07:52
