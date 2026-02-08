@@ -15,7 +15,6 @@ Home: https://github.com/PS-Wizard/OopsMate
 | 0.0.2 | 2025-11-04 |  |  |  |  |
 | 0.0.1 | 2025-11-04 |  |  |  |  |
 | 0.0.0 | 2025-11-02 |  |  |  |  |
-| 11.0 |  |  |  |  | eval pending* |
 | 8.0 |  |  |  |  |  |
 | 12.0 |  |  |  |  |  |
 | 9.0 |  |  |  |  | eval pending* |
@@ -27,6 +26,7 @@ Home: https://github.com/PS-Wizard/OopsMate
 | 6.0 |  |  |  |  |  |
 | 10.0 |  |  |  |  |  |
 | 7.0 |  |  |  |  |  |
+| 11.0 |  |  |  |  | eval pending* |
 
  Test Conditions:
 
@@ -39,4 +39,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 06:43:29
+Generated: 2026-02-08 08:20:01
