@@ -4,21 +4,21 @@ Author: Hans Binderup, Clara Shepherd
 
 Home: https://github.com/hansbinderup/meltdown-chess-engine
 
-| Version | Published | STC* | LTC* | VLTC* | Comment |
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.11 | 2025-11-15 | 2743 | 2893 | 2947 |  |
-| 1.10 | 2025-07-27 |  |  |  |  |
-| 1.9 | 2025-07-10 |  |  |  |  |
-| 1.8 | 2025-06-19 |  |  |  |  |
-| 1.7 | 2025-06-05 |  |  |  |  |
-| 1.6 | 2025-05-27 |  |  |  |  |
-| 1.5 | 2025-05-10 |  |  |  |  |
-| 1.4a | 2025-05-06 |  |  |  |  |
-| 1.4 | 2025-05-02 |  |  |  |  |
-| 1.3 | 2025-04-21 |  |  |  |  |
-| 1.2 | 2025-03-30 |  |  |  |  |
-| 1.1 | 2025-03-16 |  |  |  |  |
-| 1.0 | 2025-03-16 |  |  |  |  |
+| 1.11 | 2025-11-15 | 2742<sub>(2742) | 2893<sub>(2893) | 2947<sub>(2947) |  |
+| 1.10 | 2025-07-27 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 1.9 | 2025-07-10 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 1.8 | 2025-06-19 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 1.7 | 2025-06-05 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 1.6 | 2025-05-27 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 1.5 | 2025-05-10 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 1.4a | 2025-05-06 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 1.4 | 2025-05-02 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 1.3 | 2025-04-21 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 1.2 | 2025-03-30 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 1.1 | 2025-03-16 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
 
@@ -31,4 +31,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 08:19:49
+Generated: 2026-02-08 19:06:42
