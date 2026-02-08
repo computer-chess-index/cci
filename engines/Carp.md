@@ -6,7 +6,7 @@ Home: https://github.com/dede1751/carp
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.1 | 2023-09-25 | 3043<sub>(-3043) | 3306<sub>(-3306) | 3366<sub>(-3366) |  |
+| 3.0.1 | 2023-09-25 | 3043<sub>(3043) | 3306<sub>(3306) | 3366<sub>(3366) |  |
 | 3.0.0 | 2023-09-24 | <sub>(0) | <sub>(0) | <sub>(0) |  |
 | 2.0.0 | 2023-03-02 | <sub>(0) | <sub>(0) | <sub>(0) |  |
 | 1.3.0 | 2023-02-12 | <sub>(0) | <sub>(0) | <sub>(0) |  |
@@ -25,4 +25,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:05:46
+Generated: 2026-02-08 19:07:28
