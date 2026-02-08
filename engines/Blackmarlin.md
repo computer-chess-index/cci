@@ -6,14 +6,14 @@ Home: https://github.com/jnlt3/blackmarlin
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.0 | 2024-02-28 | 3220<sub>(3220) | 3410<sub>(3410) | 3448<sub>(3448) |  |
-| 8.0 | 2023-08-08 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 7.0 | 2022-08-06 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 6.0 | 2022-07-17 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 5.0 | 2022-04-01 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 4.0 | 2022-01-15 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 3.0 | 2021-12-27 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 2.0 | 2021-12-07 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 9.0 | 2024-02-28 | 3220<sub>(new) | 3410<sub>(new) | 3448<sub>(new) |  |
+| 8.0 | 2023-08-08 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 7.0 | 2022-08-06 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 6.0 | 2022-07-17 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 5.0 | 2022-04-01 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 4.0 | 2022-01-15 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 3.0 | 2021-12-27 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 2.0 | 2021-12-07 | <sub>(new) | <sub>(new) | <sub>(new) |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -27,4 +27,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:07:19
+Generated: 2026-02-08 19:19:17
