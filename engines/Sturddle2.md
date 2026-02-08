@@ -4,15 +4,15 @@ Author: Cristian Vlasceanu
 
 Home: https://github.com/cristivlas/sturddle-2
 
-| Version | Published | STC* | LTC* | VLTC* | Comment |
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.5.0 | 2026-02-04 | 2739 | 3081 | 3191 |  |
-| 2.4.0 | 2025-12-06 | 2665 | 3044 | 3127 |  |
-| 2.3.1 | 2025-09-04 |  |  |  |  |
-| 2.3 | 2025-09-01 |  |  |  |  |
-| 2.02 | 2025-03-28 |  |  |  |  |
-| 2.01 | 2024-12-09 |  |  |  |  |
-| 2.00 | 2024-12-07 |  |  |  |  |
+| 2.5.0 | 2026-02-04 | 2736<sub>(71) | 3081<sub>(37) | 3191<sub>(63) |  |
+| 2.4.0 | 2025-12-06 | 2665<sub>(2665) | 3044<sub>(3044) | 3128<sub>(3128) |  |
+| 2.3.1 | 2025-09-04 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 2.3 | 2025-09-01 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 2.02 | 2025-03-28 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 2.01 | 2024-12-09 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
 
@@ -25,4 +25,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 08:20:46
+Generated: 2026-02-08 19:09:35
