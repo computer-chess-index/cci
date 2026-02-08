@@ -6,7 +6,7 @@ Home: https://github.com/LeelaChessZero/lc0
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.32.1 | 2025-11-23 | 2457<sub>(-2457) | 3070<sub>(-3070) | 3204<sub>(-3204) |  |
+| 0.32.1 | 2025-11-23 | 2457<sub>(2457) | 3070<sub>(3070) | 3204<sub>(3204) |  |
 | 0.32.0 | 2025-08-21 | <sub>(0) | <sub>(0) | <sub>(0) |  |
 | 0.31.2 | 2024-10-20 | <sub>(0) | <sub>(0) | <sub>(0) |  |
 | 0.31.1 | 2024-08-11 | <sub>(0) | <sub>(0) | <sub>(0) |  |
@@ -56,4 +56,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:06:34
+Generated: 2026-02-08 19:08:23
