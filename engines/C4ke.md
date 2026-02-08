@@ -6,9 +6,9 @@ Home: https://github.com/citrus610/c4ke
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0 | 2026-01-05 | 2792<sub>(2792) | 3119<sub>(3119) | 3162<sub>(3162) |  |
-| 2.0 | 2025-12-07 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 1.1 | 2025-11-07 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 3.0 | 2026-01-05 | 2792<sub>(new) | 3119<sub>(new) | 3162<sub>(new) |  |
+| 2.0 | 2025-12-07 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 1.1 | 2025-11-07 | <sub>(new) | <sub>(new) | <sub>(new) |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -22,4 +22,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:07:25
+Generated: 2026-02-08 19:19:19
