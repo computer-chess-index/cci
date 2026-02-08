@@ -6,7 +6,7 @@ Home: https://github.com/frankkopp/FrankyCPP
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1 | 2026-02-07 |  |  |  |  |
+| 1.1 | 2026-02-07 |  |  |  | Could not init |
 | 1.0.0 | 2026-01-31 |  |  |  | Could not init |
 
  Test Conditions:
@@ -20,4 +20,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 06:42:47
+Generated: 2026-02-08 08:19:16
