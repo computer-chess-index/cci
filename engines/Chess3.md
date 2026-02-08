@@ -4,11 +4,11 @@ Author: Paul Sonkoly
 
 Home: https://github.com/paulsonkoly/chess-3
 
-| Version | Published | STC* | LTC* | VLTC* | Comment |
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0 | 2026-01-17 | 2492 | 2805 | 2843 |  |
-| 2.0 | 2025-08-14 |  |  |  |  |
-| 1.0 | 2025-05-15 |  |  |  |  |
+| 3.0 | 2026-01-17 | 2493<sub>(-2493) | 2805<sub>(-2805) | 2843<sub>(-2843) |  |
+| 2.0 | 2025-08-14 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
 
@@ -21,4 +21,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 08:18:54
+Generated: 2026-02-08 19:05:50
