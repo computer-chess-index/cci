@@ -4,13 +4,13 @@ Author: Szczerbinski Jakub
 
 Home: https://github.com/jszczerbinsky/zeppelin
 
-| Version | Published | STC* | LTC* | VLTC* | Comment |
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1.0 | 2026-02-03 | 1508 | 1717 | 1845 |  |
-| 1.0.0 | 2026-02-01 | 1169 | 1592 | 1651 |  |
-| 0.2.0 | 2025-11-16 | 1208 | 1427 | 1538 |  |
-| 0.1.1 | 2025-10-12 |  |  |  |  |
-| 0.1.0 | 2025-10-11 |  |  |  |  |
+| 1.1.0 | 2026-02-03 | 1508<sub>(339) | 1717<sub>(125) | 1845<sub>(194) |  |
+| 1.0.0 | 2026-02-01 | 1169<sub>(-39) | 1592<sub>(165) | 1651<sub>(113) |  |
+| 0.2.0 | 2025-11-16 | 1208<sub>(1208) | 1427<sub>(1427) | 1538<sub>(1538) |  |
+| 0.1.1 | 2025-10-12 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
 
@@ -23,4 +23,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 08:21:08
+Generated: 2026-02-08 19:10:00
