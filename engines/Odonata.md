@@ -4,20 +4,20 @@ Author: Andy Watkins
 
 Home: https://github.com/akanalytics/odonata
 
-| Version | Published | STC* | LTC* | VLTC* | Comment |
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1.0 | 2026-02-07 | 3062 | 3164 | 3200 |  |
-| 1.0.0 | 2024-07-22 |  |  |  |  |
-| 0.9.0 | 2024-06-06 |  |  |  |  |
-| 0.8.0 | 2024-02-06 |  |  |  |  |
-| 0.7.0 | 2023-10-04 |  |  |  |  |
-| 0.6.2 | 2022-06-21 |  |  |  |  |
-| 0.5.1 | 2021-11-26 |  |  |  |  |
-| 0.4.0 | 2021-10-12 |  |  |  |  |
-| 0.3.37 | 2021-09-01 |  |  |  |  |
-| 0.3.26 | 2021-07-28 |  |  |  |  |
-| 0.3.17 | 2021-06-06 |  |  |  |  |
-| 0.3.12 | 2021-05-19 |  |  |  |  |
+| 1.1.0 | 2026-02-07 | 2889<sub>(2889) | 3167<sub>(3167) | 3201<sub>(3201) |  |
+| 1.0.0 | 2024-07-22 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 0.9.0 | 2024-06-06 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 0.8.0 | 2024-02-06 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 0.7.0 | 2023-10-04 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 0.6.2 | 2022-06-21 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 0.5.1 | 2021-11-26 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 0.4.0 | 2021-10-12 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 0.3.37 | 2021-09-01 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 0.3.26 | 2021-07-28 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 0.3.17 | 2021-06-06 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
 
@@ -30,4 +30,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 08:20:00
+Generated: 2026-02-08 19:08:43
