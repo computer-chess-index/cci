@@ -6,22 +6,22 @@ Home: https://github.com/Firefather/fire
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 10.0 | 2025-08-09 | 3189<sub>(3189) | 3413<sub>(3413) | 3461<sub>(3461) |  |
-| 9.3 | 2024-03-10 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 9.2 | 2023-11-12 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 9.1 | 2023-11-08 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 9.0 | 2023-06-05 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 05192023 | 2023-05-20 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 05172023 | 2023-05-17 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 10262022 | 2022-10-26 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 10072022 | 2022-10-07 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 09282022 | 2022-09-28 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 09202022 | 2022-09-20 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 09112022 | 2022-09-11 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 09022022 | 2022-09-02 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 08222022 | 2022-08-23 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 08132022 | 2022-08-14 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 08072022 | 2022-08-10 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 10.0 | 2025-08-09 | 3189<sub>(new) | 3413<sub>(new) | 3461<sub>(new) |  |
+| 9.3 | 2024-03-10 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 9.2 | 2023-11-12 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 9.1 | 2023-11-08 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 9.0 | 2023-06-05 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 05192023 | 2023-05-20 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 05172023 | 2023-05-17 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 10262022 | 2022-10-26 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 10072022 | 2022-10-07 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 09282022 | 2022-09-28 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 09202022 | 2022-09-20 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 09112022 | 2022-09-11 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 09022022 | 2022-09-02 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 08222022 | 2022-08-23 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 08132022 | 2022-08-14 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 08072022 | 2022-08-10 | <sub>(new) | <sub>(new) | <sub>(new) |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -35,4 +35,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:07:53
+Generated: 2026-02-08 19:19:43
