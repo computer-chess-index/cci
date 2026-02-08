@@ -6,8 +6,8 @@ Home: https://github.com/paulsonkoly/chess-3
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0 | 2026-01-17 | 2493<sub>(2493) | 2805<sub>(2805) | 2843<sub>(2843) |  |
-| 2.0 | 2025-08-14 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 3.0 | 2026-01-17 | 2493<sub>(new) | 2805<sub>(new) | 2843<sub>(new) |  |
+| 2.0 | 2025-08-14 | <sub>(new) | <sub>(new) | <sub>(new) |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -21,4 +21,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:07:32
+Generated: 2026-02-08 19:19:25
