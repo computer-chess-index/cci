@@ -4,29 +4,29 @@ Author: Swoyam Pokharel
 
 Home: https://github.com/PS-Wizard/OopsMate
 
-| Version | Published | STC* | LTC* | VLTC* | Comment |
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 16.0 | 2026-02-06 |  |  |  | eval pending* |
-| 15.0 | 2026-02-06 |  |  |  | eval pending* |
-| 14.0 | 2026-02-06 |  |  |  |  |
-| 2.0 | 2026-01-30 | 1311 | 1500 | 1519 |  |
-| 0.0.4 | 2025-11-23 | 1133 | 1365 | 1422 |  |
-| 0.0.3 | 2025-11-13 |  |  |  |  |
-| 0.0.2 | 2025-11-04 |  |  |  |  |
-| 0.0.1 | 2025-11-04 |  |  |  |  |
-| 0.0.0 | 2025-11-02 |  |  |  |  |
-| 8.0 |  |  |  |  |  |
-| 12.0 |  |  |  |  |  |
-| 9.0 |  |  |  |  | eval pending* |
-| 13.0 |  |  |  |  |  |
-| 3.0 |  |  |  |  | Skipped for 5.0 |
-| 4.0 |  |  |  |  | Skipped for 5.0 |
-| 5.0 |  |  |  |  |  |
-| 1.0 |  |  |  |  | Skipped for 2.0 |
-| 6.0 |  |  |  |  |  |
-| 10.0 |  |  |  |  |  |
-| 7.0 |  |  |  |  |  |
-| 11.0 |  |  |  |  | eval pending* |
+| 16.0 | 2026-02-06 | <sub>(0) | <sub>(0) | <sub>(0) | eval pending* |
+| 15.0 | 2026-02-06 | <sub>(0) | <sub>(0) | <sub>(0) | eval pending* |
+| 14.0 | 2026-02-06 | <sub>(-1311) | <sub>(-1500) | <sub>(-1519) |  |
+| 2.0 | 2026-01-30 | 1311<sub>(178) | 1500<sub>(135) | 1519<sub>(97) |  |
+| 0.0.4 | 2025-11-23 | 1133<sub>(1133) | 1365<sub>(1365) | 1422<sub>(1422) |  |
+| 0.0.3 | 2025-11-13 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 0.0.2 | 2025-11-04 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 0.0.1 | 2025-11-04 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 0.0.0 | 2025-11-02 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 8.0 |  | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 12.0 |  | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 9.0 |  | <sub>(0) | <sub>(0) | <sub>(0) | eval pending* |
+| 13.0 |  | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 3.0 |  | <sub>(0) | <sub>(0) | <sub>(0) | Skipped for 5.0 |
+| 4.0 |  | <sub>(0) | <sub>(0) | <sub>(0) | Skipped for 5.0 |
+| 5.0 |  | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 1.0 |  | <sub>(0) | <sub>(0) | <sub>(0) | Skipped for 2.0 |
+| 6.0 |  | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 10.0 |  | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 7.0 |  | <sub>(0) | <sub>(0) | <sub>(0) |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
 
@@ -39,4 +39,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 08:20:01
+Generated: 2026-02-08 19:08:44
