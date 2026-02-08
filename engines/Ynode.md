@@ -6,7 +6,7 @@ Home: https://github.com/oozturk777/ynode
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0219 | 2025-11-16 | 3174 | 3348 | 3398 |  |
+| 0219 | 2025-11-16 | 3178 | 3348 | 3399 |  |
 | 0215 | 2025-09-28 |  |  |  |  |
 | 0213 | 2025-08-24 |  |  |  |  |
 | 0144 | 2025-08-01 |  |  |  |  |
@@ -26,4 +26,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-07 06:44:32
+Generated: 2026-02-08 06:44:34
