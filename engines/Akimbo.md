@@ -4,19 +4,19 @@ Author: Jamie Whiting
 
 Home: https://github.com/jw1912/akimbo
 
-| Version | Published | STC* | LTC* | VLTC* | Comment |
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | 2024-05-26 | 3195 | 3383 | 3422 |  |
-| 0.8.0 | 2024-01-02 |  |  |  |  |
-| 0.7.0 | 2023-10-30 |  |  |  |  |
-| 0.6.0 | 2023-09-24 |  |  |  |  |
-| 0.5.0 | 2023-08-12 |  |  |  |  |
-| 0.4.1 | 2023-08-04 |  |  |  |  |
-| 0.4.0 | 2023-07-04 |  |  |  |  |
-| 0.3.0 | 2023-05-16 |  |  |  |  |
-| 0.2.0 | 2023-04-09 |  |  |  |  |
-| 0.1.1 | 2023-01-08 |  |  |  |  |
-| 0.1.0 | 2023-01-07 |  |  |  |  |
+| 1.0.0 | 2024-05-26 | 3197<sub>(-3197) | 3384<sub>(-3384) | 3422<sub>(-3422) |  |
+| 0.8.0 | 2024-01-02 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 0.7.0 | 2023-10-30 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 0.6.0 | 2023-09-24 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 0.5.0 | 2023-08-12 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 0.4.1 | 2023-08-04 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 0.4.0 | 2023-07-04 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 0.3.0 | 2023-05-16 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 0.2.0 | 2023-04-09 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 0.1.1 | 2023-01-08 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
 
@@ -29,4 +29,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 08:18:29
+Generated: 2026-02-08 19:05:26
