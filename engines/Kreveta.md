@@ -15,6 +15,7 @@ Home: https://github.com/ZlomenyMesic/Kreveta
 | 1.2.3 | 2025-10-31 |  |  |  |  |
 | 1.1.3 | 2025-10-26 |  |  |  |  |
 | 1.0 | 2025-09-10 |  |  |  |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
 
@@ -27,4 +28,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 18:15:43
+Generated: 2026-02-08 18:15:50
