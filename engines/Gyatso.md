@@ -4,11 +4,11 @@ Author: Gyatso Neesham
 
 Home: https://github.com/GyatsoYT/GyatsoChess
 
-| Version | Published | STC* | LTC* | VLTC* | Comment |
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.2.0 | 2026-01-24 | 2175 | 2476 | 2560 |  |
-| 1.1.0 | 2026-01-09 | 2003 | 2360 | 2452 |  |
-| 1.0.0 | 2025-12-10 |  |  |  |  |
+| 1.2.0 | 2026-01-24 | 2175<sub>(-172) | 2476<sub>(-116) | 2560<sub>(-108) |  |
+| 1.1.0 | 2026-01-09 | 2003<sub>(-2003) | 2360<sub>(-2360) | 2452<sub>(-2452) |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
 
@@ -21,4 +21,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 08:19:23
+Generated: 2026-02-08 19:06:18
