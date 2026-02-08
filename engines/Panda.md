@@ -4,11 +4,11 @@ Author: Rebonato-Scott Sebastiano
 
 Home: https://github.com/all-c-a-p-s/Panda
 
-| Version | Published | STC* | LTC* | VLTC* | Comment |
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1.1 | 2025-08-18 | 2761 | 3106 | 3096 |  |
-| 1.1 | 2025-08-05 |  |  |  |  |
-| 1.0 | 2025-04-19 |  |  |  |  |
+| 1.1.1 | 2025-08-18 | 2761<sub>(2761) | 3106<sub>(3106) | 3096<sub>(3096) |  |
+| 1.1 | 2025-08-05 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
 
@@ -21,4 +21,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 08:20:02
+Generated: 2026-02-08 19:08:45
