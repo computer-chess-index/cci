@@ -6,18 +6,18 @@ Home: https://github.com/LarsAur/Arcanum
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.7 | 2025-10-18 | 2943<sub>(2943) | 3251<sub>(3251) | 3290<sub>(3290) |  |
-| 2.6 | 2025-07-19 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 2.5 | 2025-03-03 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 2.4 | 2024-11-30 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 2.3.1 | 2024-09-25 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 2.3 | 2024-09-18 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 2.2 | 2024-07-20 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 2.1 | 2024-05-17 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 2.0 | 2024-05-02 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 1.12 | 2024-01-31 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 1.11.1 | 2023-11-21 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 1.11 | 2023-11-17 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 2.7 | 2025-10-18 | 2943<sub>(new) | 3251<sub>(new) | 3290<sub>(new) |  |
+| 2.6 | 2025-07-19 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 2.5 | 2025-03-03 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 2.4 | 2024-11-30 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 2.3.1 | 2024-09-25 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 2.3 | 2024-09-18 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 2.2 | 2024-07-20 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 2.1 | 2024-05-17 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 2.0 | 2024-05-02 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 1.12 | 2024-01-31 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 1.11.1 | 2023-11-21 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 1.11 | 2023-11-17 | <sub>(new) | <sub>(new) | <sub>(new) |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -31,4 +31,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:07:14
+Generated: 2026-02-08 19:19:12
