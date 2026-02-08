@@ -4,12 +4,12 @@ Author: Macurek Miloslav
 
 Home: https://github.com/maelic13/whitespine
 
-| Version | Published | STC* | LTC* | VLTC* | Comment |
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.3.2 | 2025-09-16 | 1277 | 1249 | 906 |  |
-| 1.3.1 | 2025-06-08 |  |  |  |  |
-| 1.3.0 | 2025-05-11 |  |  |  |  |
-| 1.2.0 | 2025-05-11 |  |  |  |  |
+| 1.3.2 | 2025-09-16 | 1277<sub>(1277) | 1249<sub>(1249) | 906<sub>(906) |  |
+| 1.3.1 | 2025-06-08 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 1.3.0 | 2025-05-11 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
 
@@ -22,4 +22,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 08:21:04
+Generated: 2026-02-08 19:09:54
