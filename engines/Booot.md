@@ -6,7 +6,7 @@ Home: https://github.com/booot76/Booot-chess-engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7.4 | 2025-02-25 | 3274<sub>(-3274) | 3478<sub>(-3478) | 3521<sub>(-3521) |  |
+| 7.4 | 2025-02-25 | 3274<sub>(3274) | 3478<sub>(3478) | 3521<sub>(3521) |  |
 | 7.3 | 2024-01-28 | <sub>(0) | <sub>(0) | <sub>(0) |  |
 | 7.2 | 2023-07-30 | <sub>(0) | <sub>(0) | <sub>(0) |  |
 | 7.1 | 2023-03-02 | <sub>(0) | <sub>(0) | <sub>(0) |  |
@@ -33,4 +33,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:05:42
+Generated: 2026-02-08 19:07:21
