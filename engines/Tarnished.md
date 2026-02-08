@@ -6,7 +6,8 @@ Home: https://github.com/Bobingstern/Tarnished
 
 | Version | Published | STC* | LTC* | VLTC* | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.0 | 2025-08-23 | 3285 | 3461 | 3507 |  |
+| 5.0 | 2026-02-07 |  |  |  |  |
+| 4.0 | 2025-08-23 | 3286 | 3463 | 3509 |  |
 | 3.0 | 2025-06-30 |  |  |  |  |
 | 2.1 | 2025-05-25 |  |  |  |  |
 | 2.0 | 2025-05-14 |  |  |  |  |
@@ -23,4 +24,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-07 06:44:16
+Generated: 2026-02-08 06:44:18
