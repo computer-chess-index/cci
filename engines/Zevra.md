@@ -6,25 +6,25 @@ Home: https://github.com/sovaz1997/Zevra
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.8.6_r672 | 2018-09-01 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 1.8.5_r664 | 2018-06-23 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 1.8.4_r650 | 2018-03-12 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 1.8.3_r636 | 2018-03-10 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 1.8.2_r612 | 2018-02-19 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 1.8.1_r594 | 2018-01-27 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 1.8_r583 | 2018-01-24 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 1.7.1_r563 | 2018-01-13 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 1.7_r560 | 2018-01-12 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 1.6.2_r536 | 2017-11-30 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 1.6.1_r512 | 2017-09-28 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 1.6_r497 | 2017-08-23 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 1.5_r446 | 2017-06-12 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 1.4_r426 | 2017-05-29 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 1.3.1_r340 | 2017-02-20 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 1.3_r326 | 2017-02-06 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 1.2.1_r290 | 2016-12-04 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 1.2_r246 | 2016-11-20 | <sub>(0) | <sub>(0) | <sub>(0) |  |
-| 1.1_b227 | 2016-11-13 | <sub>(0) | <sub>(0) | <sub>(0) |  |
+| 1.8.6_r672 | 2018-09-01 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 1.8.5_r664 | 2018-06-23 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 1.8.4_r650 | 2018-03-12 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 1.8.3_r636 | 2018-03-10 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 1.8.2_r612 | 2018-02-19 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 1.8.1_r594 | 2018-01-27 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 1.8_r583 | 2018-01-24 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 1.7.1_r563 | 2018-01-13 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 1.7_r560 | 2018-01-12 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 1.6.2_r536 | 2017-11-30 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 1.6.1_r512 | 2017-09-28 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 1.6_r497 | 2017-08-23 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 1.5_r446 | 2017-06-12 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 1.4_r426 | 2017-05-29 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 1.3.1_r340 | 2017-02-20 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 1.3_r326 | 2017-02-06 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 1.2.1_r290 | 2016-12-04 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 1.2_r246 | 2016-11-20 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 1.1_b227 | 2016-11-13 | <sub>(new) | <sub>(new) | <sub>(new) |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -38,4 +38,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:10:01
+Generated: 2026-02-08 19:21:33
