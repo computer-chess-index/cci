@@ -6,9 +6,9 @@ Home: https://github.com/tomcant/chess-rs
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.2.0 | 2026-02-01 | 2039<sub>(-202) | 2357<sub>(-286) | 2442<sub>(-246) |  |
-| 1.1.0 | 2026-01-16 | 1837<sub>(-58) | 2071<sub>(-66) | 2196<sub>(-126) |  |
-| 1.0.0 | 2026-01-02 | 1779<sub>(-1779) | 2005<sub>(-2005) | 2070<sub>(-2070) | Previously: chess-rs |
+| 1.2.0 | 2026-02-01 | 2039<sub>(202) | 2357<sub>(286) | 2442<sub>(246) |  |
+| 1.1.0 | 2026-01-16 | 1837<sub>(58) | 2071<sub>(66) | 2196<sub>(126) |  |
+| 1.0.0 | 2026-01-02 | 1779<sub>(1779) | 2005<sub>(2005) | 2070<sub>(2070) | Previously: chess-rs |
 | 0.4.2 |  | <sub>(0) | <sub>(0) | <sub>(0) |  |
 | 0.5.0 |  | <sub>(0) | <sub>(0) | <sub>(0) |  |
 | 0.5.1 |  | <sub>(0) | <sub>(0) | <sub>(0) |  |
@@ -32,4 +32,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:05:33
+Generated: 2026-02-08 19:07:11
