@@ -6,8 +6,8 @@ Home: https://github.com/chris-moreton/rusty-rival
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.27 | 2026-02-09 | <sub>(+0) | <sub>(+0) | <sub>(+0) | eval pending* |
-| 1.0.26 | 2026-02-01 | <sub>(+0) | <sub>(+0) | <sub>(+0) |  |
+| 1.0.27 | 2026-02-09 | <sub>(0) | <sub>(0) | <sub>(0) | eval pending* |
+| 1.0.26 | 2026-02-01 | <sub>(0) | <sub>(0) | <sub>(0) |  |
 | 1.0.25 | 2026-02-01 | <sub>(-1962) | <sub>(-2256) | <sub>(-2283) |  |
 | 1.0.24 | 2026-01-30 | 1962<sub>(+34) | 2256<sub>(+159) | 2283<sub>(+69) |  |
 | 1.0.23 | 2026-01-19 | 1928<sub>(new) | 2097<sub>(new) | 2214<sub>(new) |  |
@@ -42,4 +42,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-09 19:22:35
+Generated: 2026-02-09 19:22:50
