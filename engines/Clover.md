@@ -6,7 +6,7 @@ Home: https://github.com/lucametehau/CloverEngine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.1 | 2025-09-14 | 3403<sub>(new) | 3560<sub>(new) | 3573<sub>(new) |  |
+| 9.1 | 2025-09-14 | 3405<sub>(new) | 3560<sub>(new) | 3573<sub>(new) |  |
 | 9.0 | 2025-08-19 | <sub>(new) | <sub>(new) | <sub>(new) |  |
 | 8.2.1 | 2025-07-12 | <sub>(new) | <sub>(new) | <sub>(new) |  |
 | 8.2 | 2025-07-11 | <sub>(new) | <sub>(new) | <sub>(new) |  |
@@ -51,4 +51,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:19:31
+Generated: 2026-02-09 06:42:35
