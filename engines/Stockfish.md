@@ -6,9 +6,9 @@ Home: https://github.com/official-stockfish/Stockfish
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 18.0 | 2026-01-31 | 3542<sub>(+29) | 3615<sub>(0) | 3653<sub>(+19) |  |
-| 17.1 | 2025-03-30 | 3513<sub>(+2) | 3615<sub>(+10) | 3634<sub>(+8) |  |
-| 17.0 | 2024-09-06 | 3511<sub>(new) | 3605<sub>(new) | 3626<sub>(new) |  |
+| 18.0 | 2026-01-31 | 3541<sub>(+28) | 3615<sub>(0) | 3653<sub>(+19) |  |
+| 17.1 | 2025-03-30 | 3513<sub>(+2) | 3615<sub>(+10) | 3634<sub>(+7) |  |
+| 17.0 | 2024-09-06 | 3511<sub>(new) | 3605<sub>(new) | 3627<sub>(new) |  |
 | 16.1 | 2024-02-24 | <sub>(-3503) | <sub>(-3595) | <sub>(-3609) |  |
 | 16.0 | 2023-06-30 | 3503<sub>(new) | 3595<sub>(new) | 3609<sub>(new) |  |
 | 15.1 | 2022-12-04 | <sub>(new) | <sub>(new) | <sub>(new) |  |
@@ -34,4 +34,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:21:09
+Generated: 2026-02-09 06:44:18
