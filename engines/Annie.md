@@ -6,7 +6,7 @@ Home: https://github.com/tsoj/Annie
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.2 | 2026-01-17 | 1331<sub>(new) | 1563<sub>(new) | 1524<sub>(new) |  |
+| 1.2 | 2026-01-17 | 1324<sub>(new) | 1562<sub>(new) | 1524<sub>(new) |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -20,4 +20,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:19:08
+Generated: 2026-02-09 06:42:10
