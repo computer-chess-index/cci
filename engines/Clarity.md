@@ -6,7 +6,7 @@ Home: https://github.com/Vast342/Clarity
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 8.0.0 | 2025-07-09 | 3302<sub>(new) | 3451<sub>(new) | 3498<sub>(new) |  |
+| 8.0.0 | 2025-07-09 | 3302<sub>(new) | 3451<sub>(new) | 3499<sub>(new) |  |
 | 7.2.0 | 2024-07-01 | <sub>(new) | <sub>(new) | <sub>(new) |  |
 | 7.1.0 | 2024-06-23 | <sub>(new) | <sub>(new) | <sub>(new) |  |
 | 7.0.0 | 2024-06-09 | <sub>(new) | <sub>(new) | <sub>(new) |  |
@@ -31,4 +31,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:19:30
+Generated: 2026-02-09 06:42:34
