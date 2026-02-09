@@ -6,7 +6,7 @@ Home: https://github.com/montypylons/mihansolo_bot
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.0.0 | 2025-10-01 | 1226<sub>(new) | 1339<sub>(new) | 1488<sub>(new) |  |
+| 9.0.0 | 2025-10-01 | 1226<sub>(new) | 1345<sub>(new) | 1485<sub>(new) |  |
 | 8.6.7 | 2025-09-29 | <sub>(new) | <sub>(new) | <sub>(new) |  |
 | 7.6.0 | 2025-09-29 | <sub>(new) | <sub>(new) | <sub>(new) |  |
 | 7.0.0 | 2025-09-29 | <sub>(new) | <sub>(new) | <sub>(new) |  |
@@ -27,4 +27,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:20:18
+Generated: 2026-02-09 06:43:23
