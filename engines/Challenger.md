@@ -6,7 +6,7 @@ Home: https://github.com/SimjanovskiNikola/FRI_Challenger
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.6.0 | 2025-10-02 | 2115<sub>(new) | 2411<sub>(new) | 2542<sub>(new) |  |
+| 0.6.0 | 2025-10-02 | 2115<sub>(new) | 2412<sub>(new) | 2542<sub>(new) |  |
 | 0.5.0 | 2025-09-06 | <sub>(new) | <sub>(new) | <sub>(new) |  |
 | 0.4.0 | 2025-09-03 | <sub>(new) | <sub>(new) | <sub>(new) |  |
 | 0.3.0 | 2025-09-03 | <sub>(new) | <sub>(new) | <sub>(new) |  |
@@ -25,4 +25,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:19:23
+Generated: 2026-02-09 06:42:27
