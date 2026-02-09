@@ -6,9 +6,9 @@ Home: https://github.com/cosmobobak/viridithas
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 19.0.1 | 2026-01-06 | 3428<sub>(-9) | 3563<sub>(0) | 3582<sub>(-18) |  |
-| 19.0.0 | 2026-01-04 | 3437<sub>(+17) | 3563<sub>(+22) | 3600<sub>(+39) |  |
-| 18.0.0 | 2025-08-25 | 3420<sub>(+58) | 3541<sub>(+30) | 3561<sub>(+15) |  |
+| 19.0.1 | 2026-01-06 | 3428<sub>(-9) | 3563<sub>(0) | 3583<sub>(-17) |  |
+| 19.0.0 | 2026-01-04 | 3437<sub>(+17) | 3563<sub>(+21) | 3600<sub>(+39) |  |
+| 18.0.0 | 2025-08-25 | 3420<sub>(+58) | 3542<sub>(+31) | 3561<sub>(+15) |  |
 | 17.0.0 | 2025-04-10 | 3362<sub>(+2) | 3511<sub>(-8) | 3546<sub>(+2) |  |
 | 16.0.0 | 2025-01-27 | 3360<sub>(+36) | 3519<sub>(+9) | 3544<sub>(+2) |  |
 | 15.0.0 | 2024-10-13 | 3324<sub>(+31) | 3510<sub>(+27) | 3542<sub>(+18) |  |
@@ -51,4 +51,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:21:25
+Generated: 2026-02-09 06:44:35
