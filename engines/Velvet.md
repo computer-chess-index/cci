@@ -6,7 +6,7 @@ Home: https://github.com/mhonert/velvet-chess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 8.1.1 | 2024-11-06 | 3313<sub>(new) | 3474<sub>(new) | 3497<sub>(new) |  |
+| 8.1.1 | 2024-11-06 | 3314<sub>(new) | 3474<sub>(new) | 3497<sub>(new) |  |
 | 8.1.0 | 2024-10-28 | <sub>(new) | <sub>(new) | <sub>(new) |  |
 | 8.0.0 | 2024-08-17 | <sub>(new) | <sub>(new) | <sub>(new) |  |
 | 7.3.0 | 2024-04-08 | <sub>(new) | <sub>(new) | <sub>(new) |  |
@@ -45,4 +45,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:21:24
+Generated: 2026-02-09 06:44:34
