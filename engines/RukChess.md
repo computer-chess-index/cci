@@ -6,7 +6,7 @@ Home: https://github.com/Ilya-Ruk/RukChess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.2.0 | 2026-01-11 | 2843<sub>(new) | 3167<sub>(new) | 3213<sub>(new) |  |
+| 4.2.0 | 2026-01-11 | 2842<sub>(new) | 3167<sub>(new) | 3213<sub>(new) |  |
 | 4.1.0 | 2025-06-08 | <sub>(new) | <sub>(new) | <sub>(new) |  |
 | 4.0.2 | 2025-02-15 | <sub>(new) | <sub>(new) | <sub>(new) |  |
 | 4.0.1 | 2024-12-19 | <sub>(new) | <sub>(new) | <sub>(new) |  |
@@ -31,4 +31,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:20:58
+Generated: 2026-02-09 06:44:07
