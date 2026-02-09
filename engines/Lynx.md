@@ -6,7 +6,7 @@ Home: https://github.com/lynx-chess/Lynx
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.11.0 | 2025-10-01 | 2878<sub>(new) | 3178<sub>(new) | 3245<sub>(new) |  |
+| 1.11.0 | 2025-10-01 | 2878<sub>(new) | 3178<sub>(new) | 3247<sub>(new) |  |
 | 1.10.0 | 2025-06-29 | <sub>(new) | <sub>(new) | <sub>(new) |  |
 | 1.9.1 | 2025-04-05 | <sub>(new) | <sub>(new) | <sub>(new) |  |
 | 1.9.0 | 2025-03-11 | <sub>(new) | <sub>(new) | <sub>(new) |  |
@@ -62,4 +62,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-08 19:20:15
+Generated: 2026-02-09 06:43:20
