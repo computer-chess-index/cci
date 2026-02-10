@@ -18,19 +18,7 @@ Home: https://github.com/AleksPeshkov/petrel
 | 1,4.1 | 2025-10-10 |  |  |  |  |
 | 1,3,1 | 2025-09-13 |  |  |  |  |
 | 1,2 | 2025-09-08 |  |  |  |  |
- | | | cElo <sub>(âˆ† prev) | cElo <sub>(âˆ† prev) | cElo <sub>(âˆ† prev) | 
-
-
-## Ratings Verlauf
-
-```mermaid
-xychart-beta
-  x-axis ["2.1", "3.0", "3.1", "3.2", "3.3"]
-  y-axis "Elo Rating" 0 --> 3300
-  line "STC (8.0+0.08s)" [2267, 2797, 2870, 2957, 2985]
-  line "LTC (60.0+0.60s)" [2458, 2981, 3054, 3151, 3209]
-  line "VLTC (2m24s+1.12s)" [2526, 3004, 3136, 3201, 3231]
-```
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
 
@@ -43,4 +31,15 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-10 19:54:37
+Generated: 2026-02-10 21:16:39
+
+## Ratings Verlauf
+
+```mermaid
+xychart-beta
+  x-axis ["2.1", "3.0", "3.1", "3.2", "3.3"]
+  y-axis "Elo Rating" 0 --> 3300
+  line "STC (8.0+0.08s)" [2267, 2797, 2870, 2957, 2985]
+  line "LTC (60.0+0.60s)" [2458, 2981, 3054, 3151, 3209]
+  line "VLTC (2m24s+1.12s)" [2526, 3004, 3136, 3201, 3231]
+```
