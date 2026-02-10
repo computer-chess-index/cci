@@ -4,17 +4,6 @@ Author: Michał Witanowski
 
 Home: https://github.com/Witek902/Caissa
 
-## Ratings Verlauf
-
-```mermaid
-xychart-beta
-  x-axis ["1.23", "1.24"]
-  y-axis "Elo Rating" 0 --> 3300
-  line "STC (8.0+0.08s)" [3418, 3424]
-  line "LTC (60.0+0.60s)" [3552, 3561]
-  line "VLTC (2m24s+1.12s)" [3580, 3572]
-```
-
 ## Ratings nach Version
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
@@ -65,4 +54,18 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-10 18:59:25
+Generated: 2026-02-10 21:56:54
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["1.23", "1.24"]
+  y-axis "Elo Rating" 0 --> 3300
+  line "STC (8.0+0.08s)" [3418, 3424]
+  line "LTC (60.0+0.60s)" [3552, 3561]
+  line "VLTC (2m24s+1.12s)" [3580, 3572]
+```
+
+<p>⬜ STC (8.0+0.08s) &nbsp;&nbsp; ⬛ LTC (60.0+0.60s) &nbsp;&nbsp; 🟧 VLTC (2m24s+1.12s)</p>
