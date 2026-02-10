@@ -4,6 +4,8 @@ Author: Aron Petkovski
 
 Home: https://github.com/aronpetko/integral
 
+## Ratings nach Version
+
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 7.0 | 2025-02-14 | 3398<sub>(new) | 3552<sub>(new) | 3572<sub>(new) |  |
@@ -25,4 +27,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-10 06:43:08
+Generated: 2026-02-10 19:00:14
