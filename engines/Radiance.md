@@ -4,6 +4,8 @@ Author: Paul-Elie Pipelin
 
 Home: https://github.com/ppipelin/radiance
 
+## Ratings nach Version
+
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 4.2 | 2026-01-17 | 1617<sub>(new) | 1883<sub>(new) | 1949<sub>(new) |  |
@@ -22,4 +24,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-10 06:43:57
+Generated: 2026-02-10 19:01:12
