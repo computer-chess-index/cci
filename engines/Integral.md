@@ -6,12 +6,12 @@ Home: https://github.com/aronpetko/integral
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7.0 | 2025-02-14 | 3395<sub>(new) | 3551<sub>(new) | 3571<sub>(new) |  |
-| 6 | 2024-12-17 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 5 | 2024-11-02 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 4 | 2024-09-06 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 3 | 2024-07-30 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 2 | 2024-06-07 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 7.0 | 2025-02-14 | 3398<sub>(new) | 3552<sub>(new) | 3572<sub>(new) |  |
+| 6 | 2024-12-17 |  |  |  |  |
+| 5 | 2024-11-02 |  |  |  |  |
+| 4 | 2024-09-06 |  |  |  |  |
+| 3 | 2024-07-30 |  |  |  |  |
+| 2 | 2024-06-07 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -25,4 +25,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-09 19:11:35
+Generated: 2026-02-10 06:43:08
