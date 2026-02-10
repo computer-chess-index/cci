@@ -6,14 +6,14 @@ Home: https://github.com/Luecx/Koivisto
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.0 | 2023-01-15 | 3305<sub>(new) | 3449<sub>(new) | 3488<sub>(new) |  |
-| 8.0 | 2022-03-15 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 7.0 | 2021-10-31 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 6.0 | 2021-07-21 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 5.0 | 2021-07-07 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 4.0 | 2020-11-09 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 3.0 | 2020-10-17 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 2.0 | 2020-09-08 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 9.0 | 2023-01-15 | 3306<sub>(new) | 3451<sub>(new) | 3490<sub>(new) |  |
+| 8.0 | 2022-03-15 |  |  |  |  |
+| 7.0 | 2021-10-31 |  |  |  |  |
+| 6.0 | 2021-07-21 |  |  |  |  |
+| 5.0 | 2021-07-07 |  |  |  |  |
+| 4.0 | 2020-11-09 |  |  |  |  |
+| 3.0 | 2020-10-17 |  |  |  |  |
+| 2.0 | 2020-09-08 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -27,4 +27,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-09 19:11:37
+Generated: 2026-02-10 06:43:10
