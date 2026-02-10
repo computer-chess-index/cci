@@ -4,6 +4,19 @@ Author: Tom Cant
 
 Home: https://github.com/tomcant/chess-rs
 
+## Ratings Verlauf
+
+```mermaid
+xychart-beta
+  x-axis ["0.5.0", "0.6.0", "0.7.0"]
+  y-axis "Elo Rating" 0 --> 3300
+  line "STC (8.0+0.08s)" [1600, 1702, 1709]
+  line "LTC (60.0+0.60s)" [1824, 1897, 1972]
+  line "VLTC (2m24s+1.12s)" [1928, 2022, 2070]
+```
+
+## Ratings nach Version
+
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 0.7.0 | 2025-12-31 | 1709<sub>(+7) | 1972<sub>(+75) | 2070<sub>(+48) |  |
@@ -29,4 +42,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-10 06:42:27
+Generated: 2026-02-10 18:59:29
