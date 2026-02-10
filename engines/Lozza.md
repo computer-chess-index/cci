@@ -4,6 +4,19 @@ Author: Colin Jenkins
 
 Home: https://github.com/op12no2/lozza
 
+## Ratings Verlauf
+
+```mermaid
+xychart-beta
+  x-axis ["8", "9", "10"]
+  y-axis "Elo Rating" 0 --> 3300
+  line "STC (8.0+0.08s)" [2639, 2655, 2903]
+  line "LTC (60.0+0.60s)" [2955, 2940, 3105]
+  line "VLTC (2m24s+1.12s)" [3071, 3039, 3155]
+```
+
+## Ratings nach Version
+
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 10 | 2026-01-17 | 2903<sub>(+248) | 3105<sub>(+165) | 3155<sub>(+116) |  |
@@ -27,4 +40,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-10 06:43:20
+Generated: 2026-02-10 19:00:30
