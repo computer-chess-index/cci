@@ -6,20 +6,20 @@ Home: https://github.com/booot76/Booot-chess-engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7.4 | 2025-02-25 | 3274<sub>(new) | 3478<sub>(new) | 3522<sub>(new) |  |
-| 7.3 | 2024-01-28 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 7.2 | 2023-07-30 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 7.1 | 2023-03-02 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 7.0.0 | 2023-02-17 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 6.5.0 | 2023-02-17 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 6.4.0 | 2023-02-17 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 6.3.0 | 2023-02-17 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 6.2.0 | 2023-02-17 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 6.1.0 | 2023-02-16 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 6.0.2 | 2023-02-16 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 6.0.1 | 2023-02-16 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 5.2.0 | 2023-02-15 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 5.1.0 | 2023-02-15 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 7.4 | 2025-02-25 | 3275<sub>(new) | 3479<sub>(new) | 3522<sub>(new) |  |
+| 7.3 | 2024-01-28 |  |  |  |  |
+| 7.2 | 2023-07-30 |  |  |  |  |
+| 7.1 | 2023-03-02 |  |  |  |  |
+| 7.0.0 | 2023-02-17 |  |  |  |  |
+| 6.5.0 | 2023-02-17 |  |  |  |  |
+| 6.4.0 | 2023-02-17 |  |  |  |  |
+| 6.3.0 | 2023-02-17 |  |  |  |  |
+| 6.2.0 | 2023-02-17 |  |  |  |  |
+| 6.1.0 | 2023-02-16 |  |  |  |  |
+| 6.0.2 | 2023-02-16 |  |  |  |  |
+| 6.0.1 | 2023-02-16 |  |  |  |  |
+| 5.2.0 | 2023-02-15 |  |  |  |  |
+| 5.1.0 | 2023-02-15 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -33,4 +33,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-09 19:10:33
+Generated: 2026-02-10 06:42:20
