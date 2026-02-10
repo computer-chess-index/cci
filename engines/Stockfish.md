@@ -4,12 +4,25 @@ Author: <a href="https://github.com/official-stockfish/Stockfish/blob/master/AUT
 
 Home: https://github.com/official-stockfish/Stockfish
 
+## Ratings Verlauf
+
+```mermaid
+xychart-beta
+  x-axis ["16.0", "16.1", "17.0", "17.1", "18.0"]
+  y-axis "Elo Rating" 0 --> 3300
+  line "STC (8.0+0.08s)" [3505, 3521, 3511, 3514, 3542]
+  line "LTC (60.0+0.60s)" [3596, 3583, 3606, 3617, 3617]
+  line "VLTC (2m24s+1.12s)" [3610, 3623, 3627, 3636, 3654]
+```
+
+## Ratings nach Version
+
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 18.0 | 2026-01-31 | 3542<sub>(+28) | 3617<sub>(0) | 3654<sub>(+18) |  |
 | 17.1 | 2025-03-30 | 3514<sub>(+3) | 3617<sub>(+11) | 3636<sub>(+9) |  |
-| 17.0 | 2024-09-06 | 3511<sub>(-10) | 3606<sub>(+8) | 3627<sub>(+17) |  |
-| 16.1 | 2024-02-24 | 3521<sub>(+16) | 3598<sub>(+2) | 3610<sub>(+0) |  |
+| 17.0 | 2024-09-06 | 3511<sub>(-10) | 3606<sub>(+23) | 3627<sub>(+4) |  |
+| 16.1 | 2024-02-24 | 3521<sub>(+16) | 3583<sub>(-13) | 3623<sub>(+13) |  |
 | 16.0 | 2023-06-30 | 3505<sub>(new) | 3596<sub>(new) | 3610<sub>(new) |  |
 | 15.1 | 2022-12-04 |  |  |  |  |
 | 15.0 | 2022-04-18 |  |  |  |  |
@@ -34,4 +47,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-10 06:44:22
+Generated: 2026-02-10 19:01:39
