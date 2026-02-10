@@ -6,10 +6,11 @@ Home: https://github.com/jszczerbinsky/zeppelin
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1.0 | 2026-02-03 | 1508<sub>(+339) | 1721<sub>(+129) | 1845<sub>(+194) |  |
-| 1.0.0 | 2026-02-01 | 1169<sub>(-39) | 1592<sub>(+165) | 1651<sub>(+113) |  |
-| 0.2.0 | 2025-11-16 | 1208<sub>(new) | 1427<sub>(new) | 1538<sub>(new) |  |
-| 0.1.1 | 2025-10-12 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 1.2.0 | 2026-02-09 | 1650<sub>(+141) | 1890<sub>(+174) | 2107<sub>(+262) |  |
+| 1.1.0 | 2026-02-03 | 1509<sub>(+339) | 1716<sub>(+124) | 1845<sub>(+194) |  |
+| 1.0.0 | 2026-02-01 | 1170<sub>(-40) | 1592<sub>(+164) | 1651<sub>(+113) |  |
+| 0.2.0 | 2025-11-16 | 1210<sub>(new) | 1428<sub>(new) | 1538<sub>(new) |  |
+| 0.1.1 | 2025-10-12 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -23,4 +24,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-09 19:13:52
+Generated: 2026-02-10 06:44:48
