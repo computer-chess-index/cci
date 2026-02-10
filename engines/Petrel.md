@@ -89,7 +89,7 @@ Home: https://github.com/AleksPeshkov/petrel
 | 1,4.1 | 2025-10-10 |  |  |  |  |
 | 1,3,1 | 2025-09-13 |  |  |  |  |
 | 1,2 | 2025-09-08 |  |  |  |  |
- | | | cElo <sub>(âˆ† prev) | cElo <sub>(âˆ† prev) | cElo <sub>(âˆ† prev) | 
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
 
@@ -102,4 +102,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-10 18:52:32
+Generated: 2026-02-10 18:53:37
