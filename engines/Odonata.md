@@ -6,17 +6,17 @@ Home: https://github.com/akanalytics/odonata
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1.0 | 2026-02-07 | 2871<sub>(new) | 3167<sub>(new) | 3201<sub>(new) |  |
-| 1.0.0 | 2024-07-22 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 0.9.0 | 2024-06-06 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 0.8.0 | 2024-02-06 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 0.7.0 | 2023-10-04 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 0.6.2 | 2022-06-21 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 0.5.1 | 2021-11-26 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 0.4.0 | 2021-10-12 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 0.3.37 | 2021-09-01 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 0.3.26 | 2021-07-28 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 0.3.17 | 2021-06-06 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 1.1.0 | 2026-02-07 | 2873<sub>(new) | 3187<sub>(new) | 3229<sub>(new) |  |
+| 1.0.0 | 2024-07-22 |  |  |  |  |
+| 0.9.0 | 2024-06-06 |  |  |  |  |
+| 0.8.0 | 2024-02-06 |  |  |  |  |
+| 0.7.0 | 2023-10-04 |  |  |  |  |
+| 0.6.2 | 2022-06-21 |  |  |  |  |
+| 0.5.1 | 2021-11-26 |  |  |  |  |
+| 0.4.0 | 2021-10-12 |  |  |  |  |
+| 0.3.37 | 2021-09-01 |  |  |  |  |
+| 0.3.26 | 2021-07-28 |  |  |  |  |
+| 0.3.17 | 2021-06-06 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -30,4 +30,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-09 19:12:15
+Generated: 2026-02-10 06:43:36
