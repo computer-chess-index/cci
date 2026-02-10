@@ -4,17 +4,6 @@ Author: Rei Meguro
 
 Home: https://github.com/Orbital-Web/Raphael
 
-## Ratings Verlauf
-
-```mermaid
-xychart-beta
-  x-axis ["2.0.0", "2.1.0", "2.2.0", "2.3.0"]
-  y-axis "Elo Rating" 0 --> 3300
-  line "STC (8.0+0.08s)" [2165, 2353, 2560, 2611]
-  line "LTC (60.0+0.60s)" [2410, 2539, 2816, 2946]
-  line "VLTC (2m24s+1.12s)" [2381, 2653, 2912, 2994]
-```
-
 ## Ratings nach Version
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
@@ -47,4 +36,18 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-10 19:01:13
+Generated: 2026-02-10 21:58:40
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["2.0.0", "2.1.0", "2.2.0", "2.3.0"]
+  y-axis "Elo Rating" 0 --> 3300
+  line "STC (8.0+0.08s)" [2165, 2353, 2560, 2611]
+  line "LTC (60.0+0.60s)" [2410, 2539, 2816, 2946]
+  line "VLTC (2m24s+1.12s)" [2381, 2653, 2912, 2994]
+```
+
+<p>⬜ STC (8.0+0.08s) &nbsp;&nbsp; ⬛ LTC (60.0+0.60s) &nbsp;&nbsp; 🟧 VLTC (2m24s+1.12s)</p>
