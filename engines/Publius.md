@@ -4,6 +4,19 @@ Author: Pawel Koziol
 
 Home: https://github.com/nescitus/publius
 
+## Ratings Verlauf
+
+```mermaid
+xychart-beta
+  x-axis ["1.0", "1.1"]
+  y-axis "Elo Rating" 0 --> 3300
+  line "STC (8.0+0.08s)" [2876, 2510]
+  line "LTC (60.0+0.60s)" [3146, 2824]
+  line "VLTC (2m24s+1.12s)" [3170, 2870]
+```
+
+## Ratings nach Version
+
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 1.1 | 2025-12-31 | 2510<sub>(-366) | 2824<sub>(-322) | 2870<sub>(-300) |  |
@@ -20,4 +33,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-10 06:43:52
+Generated: 2026-02-10 19:01:06
