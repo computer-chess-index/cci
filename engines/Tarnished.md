@@ -4,6 +4,19 @@ Author: Anik Patel
 
 Home: https://github.com/Bobingstern/Tarnished
 
+## Ratings Verlauf
+
+```mermaid
+xychart-beta
+  x-axis ["4.0", "5.0"]
+  y-axis "Elo Rating" 0 --> 3300
+  line "STC (8.0+0.08s)" [3287, 3405]
+  line "LTC (60.0+0.60s)" [3464, 3556]
+  line "VLTC (2m24s+1.12s)" [3510, 3586]
+```
+
+## Ratings nach Version
+
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 5.0 | 2026-02-07 | 3405<sub>(+118) | 3556<sub>(+92) | 3586<sub>(+76) |  |
@@ -24,4 +37,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-10 06:44:27
+Generated: 2026-02-10 19:01:44
