@@ -4,17 +4,6 @@ Author: Cosmo Bobak
 
 Home: https://github.com/cosmobobak/viridithas
 
-## Ratings Verlauf
-
-```mermaid
-xychart-beta
-  x-axis ["12.0.0", "13.0.0", "14.0.1", "15.0.0", "16.0.0", "17.0.0", "18.0.0", "19.0.0", "19.0.1"]
-  y-axis "Elo Rating" 0 --> 3300
-  line "STC (8.0+0.08s)" [3239, 3282, 3294, 3325, 3362, 3363, 3421, 3438, 3430]
-  line "LTC (60.0+0.60s)" [3416, 3464, 3484, 3511, 3521, 3513, 3542, 3564, 3564]
-  line "VLTC (2m24s+1.12s)" [3422, 3465, 3525, 3544, 3545, 3548, 3563, 3602, 3584]
-```
-
 ## Ratings nach Version
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
@@ -64,4 +53,18 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-10 19:01:57
+Generated: 2026-02-10 21:59:19
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["12.0.0", "13.0.0", "14.0.1", "15.0.0", "16.0.0", "17.0.0", "18.0.0", "19.0.0", "19.0.1"]
+  y-axis "Elo Rating" 0 --> 3300
+  line "STC (8.0+0.08s)" [3239, 3282, 3294, 3325, 3362, 3363, 3421, 3438, 3430]
+  line "LTC (60.0+0.60s)" [3416, 3464, 3484, 3511, 3521, 3513, 3542, 3564, 3564]
+  line "VLTC (2m24s+1.12s)" [3422, 3465, 3525, 3544, 3545, 3548, 3563, 3602, 3584]
+```
+
+<p>⬜ STC (8.0+0.08s) &nbsp;&nbsp; ⬛ LTC (60.0+0.60s) &nbsp;&nbsp; 🟧 VLTC (2m24s+1.12s)</p>
