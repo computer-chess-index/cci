@@ -4,6 +4,8 @@ Author: Li Ying
 
 Home: https://github.com/yl25946/spaghet
 
+## Ratings nach Version
+
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 3.1.0 | 2024-08-12 |  |  |  |  |
@@ -21,4 +23,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-10 06:44:19
+Generated: 2026-02-10 19:01:35
