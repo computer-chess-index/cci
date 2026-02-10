@@ -6,6 +6,8 @@ Home: https://github.com/AleksPeshkov/petrel
 
 ## Ratings Verlauf
 
+<div style="width: 70%; margin: 0 auto;">
+
 ```mermaid
 xychart-beta
   x-axis ["2.1", "3.0", "3.1", "3.2", "3.3"]
@@ -14,6 +16,8 @@ xychart-beta
   line "LTC (60.0+0.60s)" [2458, 2981, 3054, 3151, 3209]
   line "VLTC (2m24s+1.12s)" [2526, 3004, 3136, 3201, 3231]
 ```
+
+</div>
 
 ## Ratings nach Version
 
@@ -29,7 +33,7 @@ xychart-beta
 | 1,4.1 | 2025-10-10 |  |  |  |  |
 | 1,3,1 | 2025-09-13 |  |  |  |  |
 | 1,2 | 2025-09-08 |  |  |  |  |
- | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
+ | | | cElo <sub>(âˆ† prev) | cElo <sub>(âˆ† prev) | cElo <sub>(âˆ† prev) | 
 
  Test Conditions:
 
@@ -42,4 +46,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-10 19:00:55
+Generated: 2026-02-10 19:06:09
