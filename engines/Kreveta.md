@@ -4,6 +4,19 @@ Author: Daniel Michna
 
 Home: https://github.com/ZlomenyMesic/Kreveta
 
+## Ratings Verlauf
+
+```mermaid
+xychart-beta
+  x-axis ["1.2.4", "2.0.0", "2.2.0", "2.2.1", "2.2.2", "2.2.3"]
+  y-axis "Elo Rating" 0 --> 3300
+  line "STC (8.0+0.08s)" [1538, 1647, 1667, 1627, 1809, 1845]
+  line "LTC (60.0+0.60s)" [1783, 1925, 1972, 2024, 2113, 2159]
+  line "VLTC (2m24s+1.12s)" [1878, 2032, 2115, 2136, 2263, 2237]
+```
+
+## Ratings nach Version
+
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 2.2.3 | 2026-02-05 | 1845<sub>(+36) | 2159<sub>(+46) | 2237<sub>(-26) |  |
@@ -27,4 +40,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-10 06:43:12
+Generated: 2026-02-10 19:00:19
