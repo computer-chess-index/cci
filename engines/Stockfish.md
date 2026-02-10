@@ -4,17 +4,6 @@ Author: <a href="https://github.com/official-stockfish/Stockfish/blob/master/AUT
 
 Home: https://github.com/official-stockfish/Stockfish
 
-## Ratings Verlauf
-
-```mermaid
-xychart-beta
-  x-axis ["16.0", "16.1", "17.0", "17.1", "18.0"]
-  y-axis "Elo Rating" 0 --> 3300
-  line "STC (8.0+0.08s)" [3505, 3521, 3511, 3514, 3542]
-  line "LTC (60.0+0.60s)" [3596, 3583, 3606, 3617, 3617]
-  line "VLTC (2m24s+1.12s)" [3610, 3623, 3627, 3636, 3654]
-```
-
 ## Ratings nach Version
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
@@ -47,4 +36,18 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-10 19:01:39
+Generated: 2026-02-10 21:59:03
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["16.0", "16.1", "17.0", "17.1", "18.0"]
+  y-axis "Elo Rating" 0 --> 3300
+  line "STC (8.0+0.08s)" [3505, 3521, 3511, 3514, 3542]
+  line "LTC (60.0+0.60s)" [3596, 3583, 3606, 3617, 3617]
+  line "VLTC (2m24s+1.12s)" [3610, 3623, 3627, 3636, 3654]
+```
+
+<p>⬜ STC (8.0+0.08s) &nbsp;&nbsp; ⬛ LTC (60.0+0.60s) &nbsp;&nbsp; 🟧 VLTC (2m24s+1.12s)</p>
