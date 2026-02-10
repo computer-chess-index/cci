@@ -31,7 +31,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-10 21:19:58
+Generated: 2026-02-10 21:22:46
 
 ## Ratings Verlauf
 
@@ -43,8 +43,5 @@ xychart-beta
   line "LTC (60.0+0.60s)" [2458, 2981, 3054, 3151, 3209]
   line "VLTC (2m24s+1.12s)" [2526, 3004, 3136, 3201, 3231]
 ```
-<div style="display:flex;gap:12px;align-items:center;margin-top:8px">
-  <span style="display:flex;align-items:center;gap:6px"><svg width="12" height="12"><rect width="12" height="12" fill="#1f77b4"/></svg> STC (8.0+0.08s)</span>
-  <span style="display:flex;align-items:center;gap:6px"><svg width="12" height="12"><rect width="12" height="12" fill="#ff7f0e"/></svg> LTC (60.0+0.60s)</span>
-  <span style="display:flex;align-items:center;gap:6px"><svg width="12" height="12"><rect width="12" height="12" fill="#2ca02c"/></svg> VLTC (2m24s+1.12s)</span>
-</div>
+
+<p>🟦 STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
