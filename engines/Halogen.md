@@ -4,6 +4,8 @@ Author: Kieren Pearson
 
 Home: https://github.com/KierenP/Halogen
 
+## Ratings nach Version
+
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 15.0.0 | 2025-09-01 | 3318<sub>(new) | 3502<sub>(new) | 3556<sub>(new) |  |
@@ -37,4 +39,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-10 06:43:00
+Generated: 2026-02-10 19:00:04
