@@ -4,6 +4,19 @@ Author: Chris Bolt
 
 Home: https://github.com/cjbolt/EubosChess
 
+## Ratings Verlauf
+
+```mermaid
+xychart-beta
+  x-axis ["4.2", "4.3"]
+  y-axis "Elo Rating" 0 --> 3300
+  line "STC (8.0+0.08s)" [2205, 2145]
+  line "LTC (60.0+0.60s)" [2469, 2514]
+  line "VLTC (2m24s+1.12s)" [2595, 2587]
+```
+
+## Ratings nach Version
+
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 4.3 | 2026-01-29 | 2145<sub>(-60) | 2514<sub>(+45) | 2587<sub>(-8) |  |
@@ -76,4 +89,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-10 06:42:47
+Generated: 2026-02-10 18:59:50
