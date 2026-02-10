@@ -6,13 +6,13 @@ Home: https://github.com/MinusKelvin/ice4
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.1 | 2025-10-27 | 2591<sub>(new) | 2965<sub>(new) | 3046<sub>(new) |  |
-| 6 | 2025-03-27 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 5 | 2024-08-04 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 4 | 2023-12-27 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 3.1 | 2023-06-09 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 3 | 2023-05-02 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| tcec-s24-swiss | 2023-01-16 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 6.1 | 2025-10-27 | 2592<sub>(new) | 2966<sub>(new) | 3047<sub>(new) |  |
+| 6 | 2025-03-27 |  |  |  |  |
+| 5 | 2024-08-04 |  |  |  |  |
+| 4 | 2023-12-27 |  |  |  |  |
+| 3.1 | 2023-06-09 |  |  |  |  |
+| 3 | 2023-05-02 |  |  |  |  |
+| tcec-s24-swiss | 2023-01-16 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -26,4 +26,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-09 19:11:33
+Generated: 2026-02-10 06:43:06
