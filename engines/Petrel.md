@@ -10,9 +10,9 @@ Home: https://github.com/AleksPeshkov/petrel
 xychart-beta
   x-axis ["2.1", "3.0", "3.1", "3.2", "3.3"]
   y-axis "Elo Rating" 2200 --> 3300
-  line [2267, 2797, 2870, 2957, 2985], title: "STC (8.0+0.08s)"
-  line [2458, 2981, 3054, 3151, 3209], title: "LTC (60.0+0.60s)"
-  line [2526, 3004, 3136, 3201, 3231], title: "VLTC (2m24s+1.12s)"
+  line "STC (8.0+0.08s)" [2267, 2797, 2870, 2957, 2985]
+  line "LTC (60.0+0.60s)" [2458, 2981, 3054, 3151, 3209]
+  line "VLTC (2m24s+1.12s)" [2526, 3004, 3136, 3201, 3231]
 ```
 
 ## Ratings nach Version
@@ -42,4 +42,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-10 18:55:28
+Generated: 2026-02-10 18:56:33
