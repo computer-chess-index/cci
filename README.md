@@ -2,6 +2,8 @@
 
 A growing reference list and documentation project for computer chess engines.
 
+To get a quick impression, see <a href="https://github.com/computer-chess-index/cci/releases/latest" target="_blank">current releases</a>
+
 ---
 
 ## 🧩 About
