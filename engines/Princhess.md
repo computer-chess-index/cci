@@ -4,6 +4,8 @@ Author: Lana Samson
 
 Home: https://github.com/princesslana/princhess
 
+## Ratings nach Version
+
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 0.21.0 | 2025-10-13 | 2859<sub>(new) | 3110<sub>(new) | 3144<sub>(new) |  |
@@ -51,4 +53,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-10 06:43:48
+Generated: 2026-02-10 19:01:02
