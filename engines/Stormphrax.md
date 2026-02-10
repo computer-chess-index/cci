@@ -6,13 +6,13 @@ Home: https://github.com/Ciekce/Stormphrax
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7.0.0 | 2025-06-24 | 3382<sub>(new) | 3544<sub>(new) | 3583<sub>(new) |  |
-| 6.0.0 | 2024-10-29 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 5.0.0 | 2024-06-26 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 4.1.0 | 2024-03-11 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 4.0.0 | 2023-12-17 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 3.0.0 | 2023-11-02 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 2.0.0 | 2023-09-24 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 7.0.0 | 2025-06-24 | 3383<sub>(new) | 3545<sub>(new) | 3584<sub>(new) |  |
+| 6.0.0 | 2024-10-29 |  |  |  |  |
+| 5.0.0 | 2024-06-26 |  |  |  |  |
+| 4.1.0 | 2024-03-11 |  |  |  |  |
+| 4.0.0 | 2023-12-17 |  |  |  |  |
+| 3.0.0 | 2023-11-02 |  |  |  |  |
+| 2.0.0 | 2023-09-24 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -26,4 +26,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-09 19:13:19
+Generated: 2026-02-10 06:44:23
