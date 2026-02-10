@@ -6,18 +6,18 @@ Home: https://github.com/h1me01/Astra
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.1.1 | 2025-07-21 | 3322<sub>(new) | 3509<sub>(new) | 3542<sub>(new) |  |
-| 6.1 | 2025-07-20 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 6.0 | 2025-07-07 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 5.2 | 2025-05-02 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 5.1.1 | 2025-04-09 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 5.1 | 2025-03-16 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 5.0 | 2025-02-04 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 4.1 | 2024-12-28 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 4.0.1 | 2024-11-17 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 4.0 | 2024-11-17 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 3.2 | 2024-10-05 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 3.1 | 2024-10-03 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 6.1.1 | 2025-07-21 | 3324<sub>(new) | 3510<sub>(new) | 3544<sub>(new) |  |
+| 6.1 | 2025-07-20 |  |  |  |  |
+| 6.0 | 2025-07-07 |  |  |  |  |
+| 5.2 | 2025-05-02 |  |  |  |  |
+| 5.1.1 | 2025-04-09 |  |  |  |  |
+| 5.1 | 2025-03-16 |  |  |  |  |
+| 5.0 | 2025-02-04 |  |  |  |  |
+| 4.1 | 2024-12-28 |  |  |  |  |
+| 4.0.1 | 2024-11-17 |  |  |  |  |
+| 4.0 | 2024-11-17 |  |  |  |  |
+| 3.2 | 2024-10-05 |  |  |  |  |
+| 3.1 | 2024-10-03 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -31,4 +31,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-09 19:10:28
+Generated: 2026-02-10 06:42:16
