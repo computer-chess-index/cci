@@ -6,18 +6,18 @@ Home: https://github.com/Ilya-Ruk/RukChess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.2.0 | 2026-01-11 | 2842<sub>(new) | 3167<sub>(new) | 3213<sub>(new) |  |
-| 4.1.0 | 2025-06-08 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 4.0.2 | 2025-02-15 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 4.0.1 | 2024-12-19 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 4.0.0 | 2024-12-10 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 3.0.19 | 2024-05-08 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 3.0.18 | 2023-12-16 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 3.0.17 | 2023-11-17 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 3.0.16 | 2023-10-23 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 3.0.15 | 2023-02-05 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 3.0.13 | 2023-01-01 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 3.0.12 | 2022-12-29 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 4.2.0 | 2026-01-11 | 2843<sub>(new) | 3170<sub>(new) | 3214<sub>(new) |  |
+| 4.1.0 | 2025-06-08 |  |  |  |  |
+| 4.0.2 | 2025-02-15 |  |  |  |  |
+| 4.0.1 | 2024-12-19 |  |  |  |  |
+| 4.0.0 | 2024-12-10 |  |  |  |  |
+| 3.0.19 | 2024-05-08 |  |  |  |  |
+| 3.0.18 | 2023-12-16 |  |  |  |  |
+| 3.0.17 | 2023-11-17 |  |  |  |  |
+| 3.0.16 | 2023-10-23 |  |  |  |  |
+| 3.0.15 | 2023-02-05 |  |  |  |  |
+| 3.0.13 | 2023-01-01 |  |  |  |  |
+| 3.0.12 | 2022-12-29 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -31,4 +31,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-09 19:13:02
+Generated: 2026-02-10 06:44:10
