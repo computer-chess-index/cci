@@ -4,6 +4,8 @@ Author: John Merlino
 
 Home: https://github.com/JVMerlino/Myrddin
 
+## Ratings nach Version
+
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 0.94 | 2025-12-11 | 2646<sub>(new) | 2948<sub>(new) | 3100<sub>(new) |  |
@@ -24,4 +26,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-10 06:43:30
+Generated: 2026-02-10 19:00:41
