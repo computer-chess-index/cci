@@ -4,6 +4,8 @@ Author: Doruk Sekercioglu
 
 Home: https://github.com/jnlt3/blackmarlin
 
+## Ratings nach Version
+
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 9.0 | 2024-02-28 | 3220<sub>(new) | 3411<sub>(new) | 3449<sub>(new) |  |
@@ -27,4 +29,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-10 06:42:19
+Generated: 2026-02-10 18:59:20
