@@ -4,11 +4,24 @@ Author: Laukkanen Otto
 
 Home: https://github.com/Koma1867/Soomi-V1-Chess-engine-in-golang
 
+## Ratings Verlauf
+
+```mermaid
+xychart-beta
+  x-axis ["1.1.6", "1.1.7", "1.1.8", "1.2.0"]
+  y-axis "Elo Rating" 0 --> 3300
+  line "STC (8.0+0.08s)" [1823, 1879, 1872, 2078]
+  line "LTC (60.0+0.60s)" [2192, 2147, 2192, 2367]
+  line "VLTC (2m24s+1.12s)" [2206, 2196, 2240, 2472]
+```
+
+## Ratings nach Version
+
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 1.2.0 | 2025-12-31 | 2078<sub>(+206) | 2367<sub>(+175) | 2472<sub>(+232) |  |
-| 1.1.8 | 2025-12-16 | 1872<sub>(-7) | 2192<sub>(+47) | 2240<sub>(+44) |  |
-| 1.1.7 | 2025-12-07 | 1879<sub>(+56) | 2145<sub>(-46) | 2196<sub>(-10) |  |
+| 1.1.8 | 2025-12-16 | 1872<sub>(-7) | 2192<sub>(+45) | 2240<sub>(+44) |  |
+| 1.1.7 | 2025-12-07 | 1879<sub>(+56) | 2147<sub>(-45) | 2196<sub>(-10) |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -22,4 +35,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-10 06:44:17
+Generated: 2026-02-10 19:01:33
