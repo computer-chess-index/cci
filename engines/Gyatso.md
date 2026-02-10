@@ -6,8 +6,8 @@ Home: https://github.com/GyatsoYT/GyatsoChess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.2.0 | 2026-01-24 | 2175<sub>(+172) | 2476<sub>(+116) | 2560<sub>(+108) |  |
-| 1.1.0 | 2026-01-09 | 2003<sub>(new) | 2360<sub>(new) | 2452<sub>(new) |  |
+| 1.2.0 | 2026-01-24 | 2175<sub>(+172) | 2477<sub>(+116) | 2561<sub>(+108) |  |
+| 1.1.0 | 2026-01-09 | 2003<sub>(new) | 2361<sub>(new) | 2453<sub>(new) |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -21,4 +21,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-09 19:11:23
+Generated: 2026-02-10 06:42:58
