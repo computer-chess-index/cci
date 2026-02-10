@@ -4,6 +4,8 @@ Author: Yukari Chess
 
 Home: https://github.com/yukarichess/yukari
 
+## Ratings nach Version
+
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 2025.11.1 | 2025-10-31 | 3163<sub>(new) | 3349<sub>(new) | 3402<sub>(new) |  |
@@ -23,4 +25,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-10 06:44:46
+Generated: 2026-02-10 19:02:04
