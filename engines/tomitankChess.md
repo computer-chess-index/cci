@@ -4,6 +4,8 @@ Author: Tamas Kuzmics
 
 Home: https://github.com/tomitank/tomitankChess
 
+## Ratings nach Version
+
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 5.3 | 2025-09-26 | 2448<sub>(new) | 2746<sub>(new) | 2844<sub>(new) |  |
@@ -27,4 +29,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-10 06:44:33
+Generated: 2026-02-10 19:01:49
