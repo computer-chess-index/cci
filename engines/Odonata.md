@@ -4,9 +4,11 @@ Author: Andy Watkins
 
 Home: https://github.com/akanalytics/odonata
 
+## Ratings nach Version
+
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1.0 | 2026-02-07 | 2873<sub>(new) | 3187<sub>(new) | 3229<sub>(new) |  |
+| 1.1.0 | 2026-02-07 | 2873<sub>(new) | 3189<sub>(new) | 3229<sub>(new) |  |
 | 1.0.0 | 2024-07-22 |  |  |  |  |
 | 0.9.0 | 2024-06-06 |  |  |  |  |
 | 0.8.0 | 2024-02-06 |  |  |  |  |
@@ -30,4 +32,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-10 06:43:36
+Generated: 2026-02-10 19:00:49
