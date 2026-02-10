@@ -6,23 +6,23 @@ Home: https://github.com/tcheran-chess/tcheran
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 10.0 | 2025-12-28 | 3170<sub>(+110) | 3355<sub>(+128) | 3417<sub>(+141) |  |
-| 9.0 | 2025-12-08 | 3060<sub>(+79) | 3227<sub>(+46) | 3276<sub>(+49) |  |
-| 8.0 | 2025-11-27 | 2981<sub>(+176) | 3181<sub>(+148) | 3227<sub>(+122) |  |
-| 7.0 | 2025-11-07 | 2805<sub>(new) | 3033<sub>(new) | 3105<sub>(new) |  |
-| 6.0 | 2025-10-21 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 5.1 | 2025-01-01 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 5.0 | 2024-12-05 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 4.1 | 2024-11-24 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 4.0 | 2024-10-18 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 3.0 | 2024-09-09 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 2.5 | 2024-07-25 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 2.4 | 2024-07-08 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 2.3 | 2024-05-09 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 2.2 | 2024-04-09 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 2.1 | 2024-01-25 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 2.0 | 2024-01-18 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 1.1 | 2024-01-08 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 10.0 | 2025-12-28 | 3170<sub>(+108) | 3355<sub>(+127) | 3420<sub>(+142) |  |
+| 9.0 | 2025-12-08 | 3062<sub>(+80) | 3228<sub>(+47) | 3278<sub>(+50) |  |
+| 8.0 | 2025-11-27 | 2982<sub>(+177) | 3181<sub>(+146) | 3228<sub>(+122) |  |
+| 7.0 | 2025-11-07 | 2805<sub>(new) | 3035<sub>(new) | 3106<sub>(new) |  |
+| 6.0 | 2025-10-21 |  |  |  |  |
+| 5.1 | 2025-01-01 |  |  |  |  |
+| 5.0 | 2024-12-05 |  |  |  |  |
+| 4.1 | 2024-11-24 |  |  |  |  |
+| 4.0 | 2024-10-18 |  |  |  |  |
+| 3.0 | 2024-09-09 |  |  |  |  |
+| 2.5 | 2024-07-25 |  |  |  |  |
+| 2.4 | 2024-07-08 |  |  |  |  |
+| 2.3 | 2024-05-09 |  |  |  |  |
+| 2.2 | 2024-04-09 |  |  |  |  |
+| 2.1 | 2024-01-25 |  |  |  |  |
+| 2.0 | 2024-01-18 |  |  |  |  |
+| 1.1 | 2024-01-08 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -36,4 +36,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-09 19:13:25
+Generated: 2026-02-10 06:44:29
