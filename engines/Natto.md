@@ -6,12 +6,12 @@ Home: https://github.com/rglenister/natto
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.1.9 | 2025-09-06 | 1615<sub>(new) | 1882<sub>(new) | 1983<sub>(new) |  |
-| 1.0.0 | 2025-07-27 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 0.1.8 | 2025-06-22 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 0.1.7 | 2025-06-01 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 0.1.6 | 2025-05-30 | <sub>(new) | <sub>(new) | <sub>(new) |  |
-| 0.1.5 | 2025-05-24 | <sub>(new) | <sub>(new) | <sub>(new) |  |
+| 0.1.9 | 2025-09-06 | 1624<sub>(new) | 1882<sub>(new) | 1983<sub>(new) |  |
+| 1.0.0 | 2025-07-27 |  |  |  |  |
+| 0.1.8 | 2025-06-22 |  |  |  |  |
+| 0.1.7 | 2025-06-01 |  |  |  |  |
+| 0.1.6 | 2025-05-30 |  |  |  |  |
+| 0.1.5 | 2025-05-24 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -25,4 +25,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-09 19:12:08
+Generated: 2026-02-10 06:43:31
