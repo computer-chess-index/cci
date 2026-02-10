@@ -4,6 +4,8 @@ Author: Carlson Mark
 
 Home: https://github.com/MinusKelvin/ice4
 
+## Ratings nach Version
+
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 6.1 | 2025-10-27 | 2592<sub>(new) | 2966<sub>(new) | 3047<sub>(new) |  |
@@ -26,4 +28,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-10 06:43:06
+Generated: 2026-02-10 19:00:12
