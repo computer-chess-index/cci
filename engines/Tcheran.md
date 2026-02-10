@@ -4,11 +4,24 @@ Author: Jonathan Gilchrist
 
 Home: https://github.com/tcheran-chess/tcheran
 
+## Ratings Verlauf
+
+```mermaid
+xychart-beta
+  x-axis ["7.0", "8.0", "9.0", "10.0"]
+  y-axis "Elo Rating" 0 --> 3300
+  line "STC (8.0+0.08s)" [2805, 2982, 3062, 3170]
+  line "LTC (60.0+0.60s)" [3035, 3182, 3228, 3355]
+  line "VLTC (2m24s+1.12s)" [3106, 3228, 3278, 3420]
+```
+
+## Ratings nach Version
+
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 10.0 | 2025-12-28 | 3170<sub>(+108) | 3355<sub>(+127) | 3420<sub>(+142) |  |
-| 9.0 | 2025-12-08 | 3062<sub>(+80) | 3228<sub>(+47) | 3278<sub>(+50) |  |
-| 8.0 | 2025-11-27 | 2982<sub>(+177) | 3181<sub>(+146) | 3228<sub>(+122) |  |
+| 9.0 | 2025-12-08 | 3062<sub>(+80) | 3228<sub>(+46) | 3278<sub>(+50) |  |
+| 8.0 | 2025-11-27 | 2982<sub>(+177) | 3182<sub>(+147) | 3228<sub>(+122) |  |
 | 7.0 | 2025-11-07 | 2805<sub>(new) | 3035<sub>(new) | 3106<sub>(new) |  |
 | 6.0 | 2025-10-21 |  |  |  |  |
 | 5.1 | 2025-01-01 |  |  |  |  |
@@ -36,4 +49,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-10 06:44:29
+Generated: 2026-02-10 19:01:45
