@@ -8,7 +8,7 @@ Home: https://github.com/Matthies/RubiChess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 20240817 | 2024-08-17 | 3374<sub>(new) | 3519<sub>(new) | 3552<sub>(new) |  |
+| 20240817 | 2024-08-17 | 3374<sub>(new) | 3519<sub>(new) | 3553<sub>(new) |  |
 | 20240112 | 2024-01-12 |  |  |  |  |
 | 20230918 | 2023-09-18 |  |  |  |  |
 | 20230410 | 2023-04-11 |  |  |  |  |
@@ -56,4 +56,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-10 22:46:48
+Generated: 2026-02-11 06:44:09
