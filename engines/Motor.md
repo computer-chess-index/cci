@@ -8,7 +8,7 @@ Home: https://github.com/martinnovaak/motor
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.9.0 | 2025-06-02 | 3367<sub>(new) | 3526<sub>(new) | 3565<sub>(new) |  |
+| 0.9.0 | 2025-06-02 | 3367<sub>(new) | 3528<sub>(new) | 3563<sub>(new) |  |
 | 0.8.0 | 2024-10-28 |  |  |  |  |
 | 0.7.0 | 2024-08-11 |  |  |  |  |
 | 0.6.0 | 2024-06-30 |  |  |  |  |
@@ -29,4 +29,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-10 22:46:08
+Generated: 2026-02-11 06:43:28
