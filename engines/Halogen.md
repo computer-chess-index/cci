@@ -8,7 +8,7 @@ Home: https://github.com/KierenP/Halogen
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 16 | 2026-02-10 |  |  |  |  |
+| 16.0.0 | 2026-02-10 | 3411<sub>(+91) | 3564<sub>(+63) | 3587<sub>(+30) |  |
 | 15.0.0 | 2025-09-01 | 3320<sub>(new) | 3501<sub>(new) | 3557<sub>(new) |  |
 | 14 | 2025-07-28 |  |  |  |  |
 | 13 | 2025-06-24 |  |  |  |  |
@@ -40,4 +40,18 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-11 06:43:00
+Generated: 2026-02-12 06:43:06
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["15.0.0", "16.0.0"]
+  y-axis "Elo Rating" 3300 --> 3600
+  line "STC (8.0+0.08s)" [3320, 3411]
+  line "LTC (60.0+0.60s)" [3501, 3564]
+  line "VLTC (2m24s+1.12s)" [3557, 3587]
+```
+
+<p>⬜ STC (8.0+0.08s) &nbsp;&nbsp; ⬛ LTC (60.0+0.60s) &nbsp;&nbsp; 🟧 VLTC (2m24s+1.12s)</p>
