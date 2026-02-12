@@ -8,7 +8,7 @@ Home: https://github.com/tgirolami09/Prune
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.1.0 | 2026-01-10 | 2955<sub>(+271) | 3193<sub>(+258) | 3240<sub>(+192) |  |
+| 3.1.0 | 2026-01-10 | 2952<sub>(+268) | 3193<sub>(+258) | 3240<sub>(+192) |  |
 | 3.0.0 | 2025-12-06 | 2684<sub>(-44) | 2935<sub>(-9) | 3048<sub>(-12) |  |
 | 2.2.0 | 2025-11-20 | 2728<sub>(+159) | 2944<sub>(+122) | 3060<sub>(+149) |  |
 | 2.1.2 | 2025-11-06 | 2569<sub>(+47) | 2822<sub>(-6) | 2911<sub>(-1) |  |
@@ -30,7 +30,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-11 06:43:53
+Generated: 2026-02-12 06:44:01
 
 ## Ratings Verlauf
 
@@ -39,7 +39,7 @@ Generated: 2026-02-11 06:43:53
 xychart-beta
   x-axis ["2.1.0", "2.1.1", "2.1.2", "2.2.0", "3.0.0", "3.1.0"]
   y-axis "Elo Rating" 2500 --> 3300
-  line "STC (8.0+0.08s)" [2574, 2522, 2569, 2728, 2684, 2955]
+  line "STC (8.0+0.08s)" [2574, 2522, 2569, 2728, 2684, 2952]
   line "LTC (60.0+0.60s)" [2799, 2828, 2822, 2944, 2935, 3193]
   line "VLTC (2m24s+1.12s)" [2862, 2912, 2911, 3060, 3048, 3240]
 ```
