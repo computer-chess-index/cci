@@ -8,7 +8,7 @@ Home: https://github.com/Ciekce/Stormphrax
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7.0.0 | 2025-06-24 | 3383<sub>(new) | 3545<sub>(new) | 3586<sub>(new) |  |
+| 7.0.0 | 2025-06-24 | 3383<sub>(new) | 3545<sub>(new) | 3584<sub>(new) |  |
 | 6.0.0 | 2024-10-29 |  |  |  |  |
 | 5.0.0 | 2024-06-26 |  |  |  |  |
 | 4.1.0 | 2024-03-11 |  |  |  |  |
@@ -28,4 +28,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-11 06:44:24
+Generated: 2026-02-12 06:44:36
