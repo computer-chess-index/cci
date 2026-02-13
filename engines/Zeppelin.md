@@ -8,10 +8,10 @@ Home: https://github.com/jszczerbinsky/zeppelin
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.2.0 | 2026-02-09 | 1581<sub>(+72) | 1837<sub>(+121) | 1980<sub>(+135) |  |
-| 1.1.0 | 2026-02-03 | 1509<sub>(+337) | 1716<sub>(+124) | 1845<sub>(+194) |  |
-| 1.0.0 | 2026-02-01 | 1172<sub>(-38) | 1592<sub>(+164) | 1651<sub>(+115) |  |
-| 0.2.0 | 2025-11-16 | 1210<sub>(new) | 1428<sub>(new) | 1536<sub>(new) |  |
+| 1.2.0 | 2026-02-09 | 1582<sub>(+71) | 1836<sub>(+119) | 1986<sub>(+139) |  |
+| 1.1.0 | 2026-02-03 | 1511<sub>(+339) | 1717<sub>(+124) | 1847<sub>(+195) |  |
+| 1.0.0 | 2026-02-01 | 1172<sub>(-38) | 1593<sub>(+163) | 1652<sub>(+114) |  |
+| 0.2.0 | 2025-11-16 | 1210<sub>(new) | 1430<sub>(new) | 1538<sub>(new) |  |
 | 0.1.1 | 2025-10-12 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-12 06:45:03
+Generated: 2026-02-13 06:44:48
 
 ## Ratings Verlauf
 
@@ -35,9 +35,9 @@ Generated: 2026-02-12 06:45:03
 xychart-beta
   x-axis ["0.2.0", "1.0.0", "1.1.0", "1.2.0"]
   y-axis "Elo Rating" 1100 --> 2000
-  line "STC (8.0+0.08s)" [1210, 1172, 1509, 1581]
-  line "LTC (60.0+0.60s)" [1428, 1592, 1716, 1837]
-  line "VLTC (2m24s+1.12s)" [1536, 1651, 1845, 1980]
+  line "STC (8.0+0.08s)" [1210, 1172, 1511, 1582]
+  line "LTC (60.0+0.60s)" [1430, 1593, 1717, 1836]
+  line "VLTC (2m24s+1.12s)" [1538, 1652, 1847, 1986]
 ```
 
 <p>⬜ STC (8.0+0.08s) &nbsp;&nbsp; ⬛ LTC (60.0+0.60s) &nbsp;&nbsp; 🟧 VLTC (2m24s+1.12s)</p>
