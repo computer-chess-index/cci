@@ -8,7 +8,7 @@ Home: https://github.com/Wind-Eagle/Quirky
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1 | 2025-11-25 | 2992<sub>(new) | 3218<sub>(new) | 3272<sub>(new) |  |
+| 2.1 | 2025-11-25 | 2993<sub>(new) | 3222<sub>(new) | 3274<sub>(new) |  |
 | 2.0 | 2025-08-30 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -23,4 +23,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-12 06:44:07
+Generated: 2026-02-13 06:43:59
