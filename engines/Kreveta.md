@@ -8,8 +8,8 @@ Home: https://github.com/ZlomenyMesic/Kreveta
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.2.3 | 2026-02-05 | 1847<sub>(+37) | 2160<sub>(+46) | 2237<sub>(-26) |  |
-| 2.2.2 | 2026-01-13 | 1810<sub>(+183) | 2114<sub>(+89) | 2263<sub>(+127) |  |
+| 2.2.3 | 2026-02-05 | 1847<sub>(+37) | 2160<sub>(+47) | 2237<sub>(-26) |  |
+| 2.2.2 | 2026-01-13 | 1810<sub>(+183) | 2113<sub>(+88) | 2263<sub>(+127) |  |
 | 2.2.1 | 2025-12-25 | 1627<sub>(-42) | 2025<sub>(+51) | 2136<sub>(+19) |  |
 | 2.2.0 | 2025-12-23 | 1669<sub>(+21) | 1974<sub>(+48) | 2117<sub>(+84) |  |
 | 2.0.0 | 2025-12-01 | 1648<sub>(+109) | 1926<sub>(+141) | 2033<sub>(+154) |  |
@@ -29,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-13 22:48:44
+Generated: 2026-02-13 23:12:55
 
 ## Ratings Verlauf
 
@@ -40,7 +40,7 @@ xychart-beta
   y-axis "Elo Rating" 1500 --> 2300
   line "STC (8.0+0.08s)" [1539, 1648, 1669, 1627, 1810, 1847]
   line "STC (8.0+0.08s)" [1539, 1648, 1669, 1627, 1810, 1847]
-  line "LTC (60.0+0.60s)" [1785, 1926, 1974, 2025, 2114, 2160]
+  line "LTC (60.0+0.60s)" [1785, 1926, 1974, 2025, 2113, 2160]
   line "VLTC (2m24s+1.12s)" [1879, 2033, 2117, 2136, 2263, 2237]
   line "VLTC (2m24s+1.12s)" [1879, 2033, 2117, 2136, 2263, 2237]
 ```
