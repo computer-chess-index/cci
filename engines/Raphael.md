@@ -8,7 +8,7 @@ Home: https://github.com/Orbital-Web/Raphael
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.0 | 2026-02-12 | 2836<sub>(+224) | 3067<sub>(+119) | 3163<sub>(+166) |  |
+| 3.0.0 | 2026-02-12 | 2836<sub>(+224) | 3067<sub>(+119) | 3166<sub>(+169) |  |
 | 2.3.0 | 2026-01-26 | 2612<sub>(+51) | 2948<sub>(+132) | 2997<sub>(+84) |  |
 | 2.2.0 | 2026-01-08 | 2561<sub>(+207) | 2816<sub>(+275) | 2913<sub>(+260) |  |
 | 2.1.0 | 2026-01-01 | 2354<sub>(+187) | 2541<sub>(+130) | 2653<sub>(+272) |  |
@@ -37,7 +37,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-13 22:49:30
+Generated: 2026-02-13 23:13:38
 
 ## Ratings Verlauf
 
@@ -49,8 +49,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [2167, 2354, 2561, 2612, 2836]
   line "STC (8.0+0.08s)" [2167, 2354, 2561, 2612, 2836]
   line "LTC (60.0+0.60s)" [2411, 2541, 2816, 2948, 3067]
-  line "VLTC (2m24s+1.12s)" [2381, 2653, 2913, 2997, 3163]
-  line "VLTC (2m24s+1.12s)" [2381, 2653, 2913, 2997, 3163]
+  line "VLTC (2m24s+1.12s)" [2381, 2653, 2913, 2997, 3166]
+  line "VLTC (2m24s+1.12s)" [2381, 2653, 2913, 2997, 3166]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
