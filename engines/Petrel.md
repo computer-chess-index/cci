@@ -15,8 +15,8 @@ Home: https://github.com/AleksPeshkov/petrel
 | 2.2 | 2025-12-27 |  |  |  | Rerelease |
 | 3.2 | 2025-12-21 | 2957<sub>(+87) | 3151<sub>(+96) | 3204<sub>(+67) |  |
 | 3.1 | 2025-11-28 | 2870<sub>(+73) | 3055<sub>(+74) | 3137<sub>(+133) |  |
-| 3.0 | 2025-11-26 | 2797<sub>(+529) | 2981<sub>(+523) | 3004<sub>(+477) |  |
-| 2.1 | 2025-10-13 | 2268<sub>(new) | 2458<sub>(new) | 2527<sub>(new) |  |
+| 3.0 | 2025-11-26 | 2797<sub>(+529) | 2981<sub>(+523) | 3004<sub>(+478) |  |
+| 2.1 | 2025-10-13 | 2268<sub>(new) | 2458<sub>(new) | 2526<sub>(new) |  |
 | 1,4.1 | 2025-10-10 |  |  |  |  |
 | 1,3,1 | 2025-09-13 |  |  |  |  |
 | 1,2 | 2025-09-08 |  |  |  |  |
@@ -33,7 +33,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-13 22:49:12
+Generated: 2026-02-13 23:13:22
 
 ## Ratings Verlauf
 
@@ -45,8 +45,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [2268, 2797, 2870, 2957, 2985, 2962]
   line "STC (8.0+0.08s)" [2268, 2797, 2870, 2957, 2985, 2962]
   line "LTC (60.0+0.60s)" [2458, 2981, 3055, 3151, 3210, 3181]
-  line "VLTC (2m24s+1.12s)" [2527, 3004, 3137, 3204, 3232, 3210]
-  line "VLTC (2m24s+1.12s)" [2527, 3004, 3137, 3204, 3232, 3210]
+  line "VLTC (2m24s+1.12s)" [2526, 3004, 3137, 3204, 3232, 3210]
+  line "VLTC (2m24s+1.12s)" [2526, 3004, 3137, 3204, 3232, 3210]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
