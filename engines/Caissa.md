@@ -8,7 +8,7 @@ Home: https://github.com/Witek902/Caissa
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.24 | 2025-12-03 | 3425<sub>(+4) | 3565<sub>(+12) | 3575<sub>(-8) |  |
+| 1.24 | 2025-12-03 | 3425<sub>(+4) | 3565<sub>(+12) | 3573<sub>(-10) |  |
 | 1.23 | 2025-08-21 | 3421<sub>(new) | 3553<sub>(new) | 3583<sub>(new) |  |
 | 1.22 | 2025-04-30 |  |  |  |  |
 | 1.21 | 2024-10-27 |  |  |  |  |
@@ -54,7 +54,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-13 06:42:26
+Generated: 2026-02-13 15:32:57
 
 ## Ratings Verlauf
 
@@ -65,7 +65,7 @@ xychart-beta
   y-axis "Elo Rating" 3400 --> 3600
   line "STC (8.0+0.08s)" [3421, 3425]
   line "LTC (60.0+0.60s)" [3553, 3565]
-  line "VLTC (2m24s+1.12s)" [3583, 3575]
+  line "VLTC (2m24s+1.12s)" [3583, 3573]
 ```
 
 <p>⬜ STC (8.0+0.08s) &nbsp;&nbsp; ⬛ LTC (60.0+0.60s) &nbsp;&nbsp; 🟧 VLTC (2m24s+1.12s)</p>
