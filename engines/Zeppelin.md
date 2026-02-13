@@ -9,8 +9,8 @@ Home: https://github.com/jszczerbinsky/zeppelin
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 1.2.0 | 2026-02-09 | 1582<sub>(+71) | 1836<sub>(+119) | 1986<sub>(+139) |  |
-| 1.1.0 | 2026-02-03 | 1511<sub>(+338) | 1717<sub>(+124) | 1847<sub>(+195) |  |
-| 1.0.0 | 2026-02-01 | 1173<sub>(-37) | 1593<sub>(+163) | 1652<sub>(+114) |  |
+| 1.1.0 | 2026-02-03 | 1511<sub>(+339) | 1717<sub>(+124) | 1847<sub>(+195) |  |
+| 1.0.0 | 2026-02-01 | 1172<sub>(-38) | 1593<sub>(+163) | 1652<sub>(+114) |  |
 | 0.2.0 | 2025-11-16 | 1210<sub>(new) | 1430<sub>(new) | 1538<sub>(new) |  |
 | 0.1.1 | 2025-10-12 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-13 22:50:37
+Generated: 2026-02-13 23:14:25
 
 ## Ratings Verlauf
 
@@ -35,8 +35,8 @@ Generated: 2026-02-13 22:50:37
 xychart-beta
   x-axis ["0.2.0", "1.0.0", "1.1.0", "1.2.0"]
   y-axis "Elo Rating" 1100 --> 2000
-  line "STC (8.0+0.08s)" [1210, 1173, 1511, 1582]
-  line "STC (8.0+0.08s)" [1210, 1173, 1511, 1582]
+  line "STC (8.0+0.08s)" [1210, 1172, 1511, 1582]
+  line "STC (8.0+0.08s)" [1210, 1172, 1511, 1582]
   line "LTC (60.0+0.60s)" [1430, 1593, 1717, 1836]
   line "VLTC (2m24s+1.12s)" [1538, 1652, 1847, 1986]
   line "VLTC (2m24s+1.12s)" [1538, 1652, 1847, 1986]
