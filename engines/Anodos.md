@@ -8,7 +8,7 @@ Home: https://github.com/tomcant/chess-rs
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.2.0 | 2026-02-01 | 2036<sub>(+197) | 2354<sub>(+282) | 2445<sub>(+249) |  |
+| 1.2.0 | 2026-02-01 | 2036<sub>(+197) | 2354<sub>(+282) | 2444<sub>(+248) |  |
 | 1.1.0 | 2026-01-16 | 1839<sub>(+58) | 2072<sub>(+65) | 2196<sub>(+125) |  |
 | 1.0.0 | 2026-01-02 | 1781<sub>(new) | 2007<sub>(new) | 2071<sub>(new) | Previously: chess-rs |
 | 0.7.0 | 2025-12-31 |  |  |  |  |
@@ -34,7 +34,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-13 23:11:56
+Generated: 2026-02-14 06:36:52
 
 ## Ratings Verlauf
 
@@ -46,8 +46,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [1781, 1839, 2036]
   line "STC (8.0+0.08s)" [1781, 1839, 2036]
   line "LTC (60.0+0.60s)" [2007, 2072, 2354]
-  line "VLTC (2m24s+1.12s)" [2071, 2196, 2445]
-  line "VLTC (2m24s+1.12s)" [2071, 2196, 2445]
+  line "VLTC (2m24s+1.12s)" [2071, 2196, 2444]
+  line "VLTC (2m24s+1.12s)" [2071, 2196, 2444]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
