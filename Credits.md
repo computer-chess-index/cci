@@ -1,7 +1,3 @@
-Hier ist eine GitHub-stilistisch saubere, minimalistische Variante — kompakt, technisch nüchtern, typisch für professionelle Repositories:
-
----
-
 # Credits
 
 This project stands on the shoulders of numerous tools, datasets, and community resources within the computer chess ecosystem.
@@ -52,14 +48,5 @@ Software and technologies used throughout development, testing, and analysis:
 ## Acknowledgement
 
 Thanks to the computer chess community for openly sharing tools, research, and knowledge.
-
----
-
-Wenn Du möchtest, kann ich als nächsten Feinschliff noch liefern:
-
-✅ badges-style header
-✅ README-integrated compact inline version
-✅ visually enhanced GitHub layout (icons, separators, styling tricks)
-✅ LICENSE-style formal acknowledgements
 
 Sag Bescheid 👍
