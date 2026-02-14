@@ -1,11 +1,65 @@
-Beacons and Lighthouses:<br>
-<a href="https://rwbc-chess.de" target="_blank">RWBC</a><br>
-<a href="https://jim-ablett.kesug.com" target="_blank">Jim Ablett Chess Engine Builds</a><br>
-<a href="https://computerchess.org.uk/ccrl" target="_blank">CCRL</a><br>
+Hier ist eine GitHub-stilistisch saubere, minimalistische Variante — kompakt, technisch nüchtern, typisch für professionelle Repositories:
 
-Tech.:<br>
-<a href="https://github.com/cutechess/cutechess" target="_blank">Cute-Chess</a><br>
-<a href="https://www.remi-coulom.fr/Bayesian-Elo" target="_blank">Bayesian-Elo</a><br>
-DBeaver<br>
-MariaDB<br>
-phpmyAdmin<br>
+---
+
+# Credits
+
+This project stands on the shoulders of numerous tools, datasets, and community resources within the computer chess ecosystem.
+
+---
+
+## Beacons & Lighthouses
+
+Projects that provide reference data, infrastructure, and long-term contributions:
+
+* **RWBC**
+  [https://rwbc-chess.de](https://rwbc-chess.de)
+  Engine testing platform, tournaments, and statistical resources.
+
+* **Jim Ablett Chess Engine Builds**
+  [https://jim-ablett.kesug.com](https://jim-ablett.kesug.com)
+  Extensive archive of engine compilations and historical builds.
+
+* **CCRL (Computer Chess Rating Lists)**
+  [https://computerchess.org.uk/ccrl](https://computerchess.org.uk/ccrl)
+  Independent rating lists and empirical performance data.
+
+---
+
+## Technology & Tools
+
+Software and technologies used throughout development, testing, and analysis:
+
+* **Cute Chess**
+  [https://github.com/cutechess/cutechess](https://github.com/cutechess/cutechess)
+  Tournament and match management for chess engines.
+
+* **Bayesian Elo**
+  [https://www.remi-coulom.fr/Bayesian-Elo](https://www.remi-coulom.fr/Bayesian-Elo)
+  Statistical rating estimation framework.
+
+* **DBeaver**
+  Database management and analysis.
+
+* **MariaDB**
+  Relational database system.
+
+* **phpMyAdmin**
+  Web-based database administration.
+
+---
+
+## Acknowledgement
+
+Thanks to the computer chess community for openly sharing tools, research, and knowledge.
+
+---
+
+Wenn Du möchtest, kann ich als nächsten Feinschliff noch liefern:
+
+✅ badges-style header
+✅ README-integrated compact inline version
+✅ visually enhanced GitHub layout (icons, separators, styling tricks)
+✅ LICENSE-style formal acknowledgements
+
+Sag Bescheid 👍
