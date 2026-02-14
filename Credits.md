@@ -48,5 +48,3 @@ Software and technologies used throughout development, testing, and analysis:
 ## Acknowledgement
 
 Thanks to the computer chess community for openly sharing tools, research, and knowledge.
-
-Sag Bescheid 👍
