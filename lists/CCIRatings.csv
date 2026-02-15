@@ -2,26 +2,26 @@ Engine,Version,Published,STC,LTC,VLTC,Author,Home
 Stockfish,18.0,2026-01-31,3545,3619,3657,"<a href=""https://github.com/official-stockfish/Stockfish/blob/master/AUTHORS"" target=""_blank"">Stockfish Authors</a>",https://github.com/official-stockfish/Stockfish
 Crystal,9,2025-05-09,3463,3598,3630,Joseph Ellis,https://github.com/jhellis3/Stockfish
 Obsidian,16.0,2025-05-21,3474,3590,3614,Gabriele Lombardo,https://github.com/gab8192/Obsidian
-Alexandria,8.1.12,2025-11-09,3467,3575,3613,PGG106,https://github.com/PGG106/Alexandria
-Reckless,0.8.0,2025-08-30,3478,3594,3606,Arseniy Surkov,https://github.com/codedeliveryservice/Reckless
-Sugar,2.50,2021-11-15,3432,3567,3591,,
-Tarnished,5.0,2026-02-07,3402,3553,3590,Anik Patel,https://github.com/Bobingstern/Tarnished
-Halogen,16.0.0,2026-02-10,3409,3565,3590,Kieren Pearson,https://github.com/KierenP/Halogen
-Viridithas,19.0.1,2026-01-06,3430,3565,3587,Cosmo Bobak,https://github.com/cosmobobak/viridithas
-PlentyChess,7.0.0,2025-09-25,3595,3629,3587,Patrick Leonhardt,https://github.com/Yoshie2000/PlentyChess
+Alexandria,8.1.12,2025-11-09,3467,3578,3613,PGG106,https://github.com/PGG106/Alexandria
+Reckless,0.8.0,2025-08-30,3478,3592,3607,Arseniy Surkov,https://github.com/codedeliveryservice/Reckless
+Sugar,2.50,2021-11-15,3432,3568,3591,,
+PlentyChess,7.0.0,2025-09-25,3595,3629,3588,Patrick Leonhardt,https://github.com/Yoshie2000/PlentyChess
+Tarnished,5.0,2026-02-07,3402,3555,3588,Anik Patel,https://github.com/Bobingstern/Tarnished
 Stormphrax,7.0.0,2025-06-24,3386,3548,3587,Ciekce,https://github.com/Ciekce/Stormphrax
+Viridithas,19.0.1,2026-01-06,3430,3565,3587,Cosmo Bobak,https://github.com/cosmobobak/viridithas
 Berserk,13,2024-03-31,1608,3557,3583,Jay Honnold,https://github.com/jhonnold/berserk
+Halogen,16.0.0,2026-02-10,3409,3564,3582,Kieren Pearson,https://github.com/KierenP/Halogen
 Pawnocchio,1.9.2,2026-01-15,3411,3569,3580,Jonathan Hallström,https://github.com/JonathanHallstrom/pawnocchio
-Clover,9.1,2025-09-14,3410,3564,3578,Luca Metehau,https://github.com/lucametehau/CloverEngine
+Clover,9.1,2025-09-14,3410,3565,3578,Luca Metehau,https://github.com/lucametehau/CloverEngine
+Caissa,1.24,2025-12-03,3426,3567,3576,Michał Witanowski,https://github.com/Witek902/Caissa
 Integral,7.0,2025-02-14,3401,3555,3575,Aron Petkovski,https://github.com/aronpetko/integral
-Quanticade,3.0,2025-12-15,3371,3549,3575,Martin Botka,https://github.com/Quanticade/Quanticade
-Caissa,1.24,2025-12-03,3426,3565,3573,Michał Witanowski,https://github.com/Witek902/Caissa
+Quanticade,3.0,2025-12-15,3371,3549,3573,Martin Botka,https://github.com/Quanticade/Quanticade
 Motor,0.9.0,2025-06-02,3370,3529,3564,Martin Novák,https://github.com/martinnovaak/motor
 Horsie,1.1,2025-05-13,3383,3530,3561,Liam McGuire,https://github.com/liamt19/Horsie
 Rubichess,20240817,2024-08-17,3375,3521,3555,Andreas Matthies,https://github.com/Matthies/RubiChess
 Lizard,11.2,2025-01-08,3335,3515,3549,Liam McGuire,https://github.com/liamt19/Lizard
 Astra,6.1.1,2025-07-21,3326,3513,3546,Semih Özalp,https://github.com/h1me01/Astra
-Starzix,6.1,2025-04-06,3363,3518,3545,zzzzz,https://github.com/zzzzz151/Starzix
+Starzix,6.1,2025-04-06,3363,3518,3546,zzzzz,https://github.com/zzzzz151/Starzix
 Cinder,0.4.1,2025-12-05,3389,3510,3533,Bruno Dutra,https://github.com/brunocodutra/cinder
 Booot,7.4,2025-02-25,3272,3482,3525,Alex Morozov,https://github.com/booot76/Booot-chess-engine
 Revenge,4.0.7,2025-01-01,3314,3490,3513,Fabio Gobbato,https://www.revengechess.com/
@@ -54,8 +54,8 @@ Arcanum,2.7,2025-10-18,2943,3255,3293,Lars Aurud,https://github.com/LarsAur/Arca
 Bread,2.1.1,2025-12-22,3035,3237,3285,,https://github.com/Nonlinear2/Bread-Engine
 Quirky,2.1,2025-11-25,2989,3222,3272,Anton Kernozhitsky,https://github.com/Wind-Eagle/Quirky
 Lynx,1.11.0,2025-10-01,2882,3179,3248,Eduardo Caceres,https://github.com/lynx-chess/Lynx
-ChessSystemTal,Extreme,2026-01-07,2967,3205,3247,Chris Wittington,
 Prune,3.1.0,2026-01-10,2954,3195,3247,Thomas Girolami,https://github.com/tgirolami09/Prune
+ChessSystemTal,Extreme,2026-01-07,2967,3205,3247,Chris Wittington,
 Odonata,1.1.0,2026-02-07,2874,3189,3231,Andy Watkins,https://github.com/akanalytics/odonata
 Bitbit,1.6,2025-10-18,2957,3167,3229,Isak Ellmer,https://github.com/Spinojara/bitbit
 Maelstrom,3.3.0,2025-08-27,2784,3085,3220,Saigautam Bonam,https://github.com/saisree27/Maelstrom
