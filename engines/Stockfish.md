@@ -22,7 +22,6 @@ Home: https://github.com/official-stockfish/Stockfish
 | 11.0 | 2020-01-18 |  |  |  |  |
 | 10.0 | 2018-11-29 |  |  |  |  |
 | 9.0 | 2018-02-01 |  |  |  |  |
-| 7.0 | 2016-01-05 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -36,7 +35,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-15 05:15:07
+Generated: 2026-02-15 05:17:22
 
 ## Ratings Verlauf
 
