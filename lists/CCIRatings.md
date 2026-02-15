@@ -1,32 +1,32 @@
 # CCI Ratings (ELO VLTC Ranking)
 
-Generated: 2026-02-15 05:05:51
+Generated: 2026-02-15 06:00:29
 
 | Engine | Version | Published | Author | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s |
 | --- | --- | --- | --- | --- | --- | --- |
 | <sub><a href="https://github.com/official-stockfish/Stockfish" target="_blank">Stockfish</a> | <sub>18.0 | <sub>2026-01-31 | <sub><a href="https://github.com/official-stockfish/Stockfish/blob/master/AUTHORS" target="_blank">Stockfish Authors</a> | <sub>3545 | <sub>3619 | <sub>3657 |
 | <sub><a href="https://github.com/jhellis3/Stockfish" target="_blank">Crystal</a> | <sub>9 | <sub>2025-05-09 | <sub>Joseph Ellis | <sub>3463 | <sub>3598 | <sub>3630 |
 | <sub><a href="https://github.com/gab8192/Obsidian" target="_blank">Obsidian</a> | <sub>16.0 | <sub>2025-05-21 | <sub>Gabriele Lombardo | <sub>3474 | <sub>3590 | <sub>3614 |
-| <sub><a href="https://github.com/PGG106/Alexandria" target="_blank">Alexandria</a> | <sub>8.1.12 | <sub>2025-11-09 | <sub>PGG106 | <sub>3467 | <sub>3575 | <sub>3613 |
-| <sub><a href="https://github.com/codedeliveryservice/Reckless" target="_blank">Reckless</a> | <sub>0.8.0 | <sub>2025-08-30 | <sub>Arseniy Surkov | <sub>3478 | <sub>3594 | <sub>3606 |
-| <sub>Sugar | <sub>2.50 | <sub>2021-11-15 | <sub> | <sub>3432 | <sub>3567 | <sub>3591 |
-| <sub><a href="https://github.com/Bobingstern/Tarnished" target="_blank">Tarnished</a> | <sub>5.0 | <sub>2026-02-07 | <sub>Anik Patel | <sub>3402 | <sub>3553 | <sub>3590 |
-| <sub><a href="https://github.com/KierenP/Halogen" target="_blank">Halogen</a> | <sub>16.0.0 | <sub>2026-02-10 | <sub>Kieren Pearson | <sub>3409 | <sub>3565 | <sub>3590 |
-| <sub><a href="https://github.com/cosmobobak/viridithas" target="_blank">Viridithas</a> | <sub>19.0.1 | <sub>2026-01-06 | <sub>Cosmo Bobak | <sub>3430 | <sub>3565 | <sub>3587 |
-| <sub><a href="https://github.com/Yoshie2000/PlentyChess" target="_blank">PlentyChess</a> | <sub>7.0.0 | <sub>2025-09-25 | <sub>Patrick Leonhardt | <sub>3595 | <sub>3629 | <sub>3587 |
+| <sub><a href="https://github.com/PGG106/Alexandria" target="_blank">Alexandria</a> | <sub>8.1.12 | <sub>2025-11-09 | <sub>PGG106 | <sub>3467 | <sub>3578 | <sub>3613 |
+| <sub><a href="https://github.com/codedeliveryservice/Reckless" target="_blank">Reckless</a> | <sub>0.8.0 | <sub>2025-08-30 | <sub>Arseniy Surkov | <sub>3478 | <sub>3592 | <sub>3607 |
+| <sub>Sugar | <sub>2.50 | <sub>2021-11-15 | <sub> | <sub>3432 | <sub>3568 | <sub>3591 |
+| <sub><a href="https://github.com/Yoshie2000/PlentyChess" target="_blank">PlentyChess</a> | <sub>7.0.0 | <sub>2025-09-25 | <sub>Patrick Leonhardt | <sub>3595 | <sub>3629 | <sub>3588 |
+| <sub><a href="https://github.com/Bobingstern/Tarnished" target="_blank">Tarnished</a> | <sub>5.0 | <sub>2026-02-07 | <sub>Anik Patel | <sub>3402 | <sub>3555 | <sub>3588 |
 | <sub><a href="https://github.com/Ciekce/Stormphrax" target="_blank">Stormphrax</a> | <sub>7.0.0 | <sub>2025-06-24 | <sub>Ciekce | <sub>3386 | <sub>3548 | <sub>3587 |
+| <sub><a href="https://github.com/cosmobobak/viridithas" target="_blank">Viridithas</a> | <sub>19.0.1 | <sub>2026-01-06 | <sub>Cosmo Bobak | <sub>3430 | <sub>3565 | <sub>3587 |
 | <sub><a href="https://github.com/jhonnold/berserk" target="_blank">Berserk</a> | <sub>13 | <sub>2024-03-31 | <sub>Jay Honnold | <sub>1608 | <sub>3557 | <sub>3583 |
+| <sub><a href="https://github.com/KierenP/Halogen" target="_blank">Halogen</a> | <sub>16.0.0 | <sub>2026-02-10 | <sub>Kieren Pearson | <sub>3409 | <sub>3564 | <sub>3582 |
 | <sub><a href="https://github.com/JonathanHallstrom/pawnocchio" target="_blank">Pawnocchio</a> | <sub>1.9.2 | <sub>2026-01-15 | <sub>Jonathan Hallström | <sub>3411 | <sub>3569 | <sub>3580 |
-| <sub><a href="https://github.com/lucametehau/CloverEngine" target="_blank">Clover</a> | <sub>9.1 | <sub>2025-09-14 | <sub>Luca Metehau | <sub>3410 | <sub>3564 | <sub>3578 |
+| <sub><a href="https://github.com/lucametehau/CloverEngine" target="_blank">Clover</a> | <sub>9.1 | <sub>2025-09-14 | <sub>Luca Metehau | <sub>3410 | <sub>3565 | <sub>3578 |
+| <sub><a href="https://github.com/Witek902/Caissa" target="_blank">Caissa</a> | <sub>1.24 | <sub>2025-12-03 | <sub>Michał Witanowski | <sub>3426 | <sub>3567 | <sub>3576 |
 | <sub><a href="https://github.com/aronpetko/integral" target="_blank">Integral</a> | <sub>7.0 | <sub>2025-02-14 | <sub>Aron Petkovski | <sub>3401 | <sub>3555 | <sub>3575 |
-| <sub><a href="https://github.com/Quanticade/Quanticade" target="_blank">Quanticade</a> | <sub>3.0 | <sub>2025-12-15 | <sub>Martin Botka | <sub>3371 | <sub>3549 | <sub>3575 |
-| <sub><a href="https://github.com/Witek902/Caissa" target="_blank">Caissa</a> | <sub>1.24 | <sub>2025-12-03 | <sub>Michał Witanowski | <sub>3426 | <sub>3565 | <sub>3573 |
+| <sub><a href="https://github.com/Quanticade/Quanticade" target="_blank">Quanticade</a> | <sub>3.0 | <sub>2025-12-15 | <sub>Martin Botka | <sub>3371 | <sub>3549 | <sub>3573 |
 | <sub><a href="https://github.com/martinnovaak/motor" target="_blank">Motor</a> | <sub>0.9.0 | <sub>2025-06-02 | <sub>Martin Novák | <sub>3370 | <sub>3529 | <sub>3564 |
 | <sub><a href="https://github.com/liamt19/Horsie" target="_blank">Horsie</a> | <sub>1.1 | <sub>2025-05-13 | <sub>Liam McGuire | <sub>3383 | <sub>3530 | <sub>3561 |
 | <sub><a href="https://github.com/Matthies/RubiChess" target="_blank">Rubichess</a> | <sub>20240817 | <sub>2024-08-17 | <sub>Andreas Matthies | <sub>3375 | <sub>3521 | <sub>3555 |
 | <sub><a href="https://github.com/liamt19/Lizard" target="_blank">Lizard</a> | <sub>11.2 | <sub>2025-01-08 | <sub>Liam McGuire | <sub>3335 | <sub>3515 | <sub>3549 |
 | <sub><a href="https://github.com/h1me01/Astra" target="_blank">Astra</a> | <sub>6.1.1 | <sub>2025-07-21 | <sub>Semih Özalp | <sub>3326 | <sub>3513 | <sub>3546 |
-| <sub><a href="https://github.com/zzzzz151/Starzix" target="_blank">Starzix</a> | <sub>6.1 | <sub>2025-04-06 | <sub>zzzzz | <sub>3363 | <sub>3518 | <sub>3545 |
+| <sub><a href="https://github.com/zzzzz151/Starzix" target="_blank">Starzix</a> | <sub>6.1 | <sub>2025-04-06 | <sub>zzzzz | <sub>3363 | <sub>3518 | <sub>3546 |
 | <sub><a href="https://github.com/brunocodutra/cinder" target="_blank">Cinder</a> | <sub>0.4.1 | <sub>2025-12-05 | <sub>Bruno Dutra | <sub>3389 | <sub>3510 | <sub>3533 |
 | <sub><a href="https://github.com/booot76/Booot-chess-engine" target="_blank">Booot</a> | <sub>7.4 | <sub>2025-02-25 | <sub>Alex Morozov | <sub>3272 | <sub>3482 | <sub>3525 |
 | <sub><a href="https://www.revengechess.com/" target="_blank">Revenge</a> | <sub>4.0.7 | <sub>2025-01-01 | <sub>Fabio Gobbato | <sub>3314 | <sub>3490 | <sub>3513 |
@@ -59,8 +59,8 @@ Generated: 2026-02-15 05:05:51
 | <sub><a href="https://github.com/Nonlinear2/Bread-Engine" target="_blank">Bread</a> | <sub>2.1.1 | <sub>2025-12-22 | <sub> | <sub>3035 | <sub>3237 | <sub>3285 |
 | <sub><a href="https://github.com/Wind-Eagle/Quirky" target="_blank">Quirky</a> | <sub>2.1 | <sub>2025-11-25 | <sub>Anton Kernozhitsky | <sub>2989 | <sub>3222 | <sub>3272 |
 | <sub><a href="https://github.com/lynx-chess/Lynx" target="_blank">Lynx</a> | <sub>1.11.0 | <sub>2025-10-01 | <sub>Eduardo Caceres | <sub>2882 | <sub>3179 | <sub>3248 |
-| <sub>ChessSystemTal | <sub>Extreme | <sub>2026-01-07 | <sub>Chris Wittington | <sub>2967 | <sub>3205 | <sub>3247 |
 | <sub><a href="https://github.com/tgirolami09/Prune" target="_blank">Prune</a> | <sub>3.1.0 | <sub>2026-01-10 | <sub>Thomas Girolami | <sub>2954 | <sub>3195 | <sub>3247 |
+| <sub>ChessSystemTal | <sub>Extreme | <sub>2026-01-07 | <sub>Chris Wittington | <sub>2967 | <sub>3205 | <sub>3247 |
 | <sub><a href="https://github.com/akanalytics/odonata" target="_blank">Odonata</a> | <sub>1.1.0 | <sub>2026-02-07 | <sub>Andy Watkins | <sub>2874 | <sub>3189 | <sub>3231 |
 | <sub><a href="https://github.com/Spinojara/bitbit" target="_blank">Bitbit</a> | <sub>1.6 | <sub>2025-10-18 | <sub>Isak Ellmer | <sub>2957 | <sub>3167 | <sub>3229 |
 | <sub><a href="https://github.com/saisree27/Maelstrom" target="_blank">Maelstrom</a> | <sub>3.3.0 | <sub>2025-08-27 | <sub>Saigautam Bonam | <sub>2784 | <sub>3085 | <sub>3220 |
