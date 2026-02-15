@@ -8,7 +8,7 @@ Home: https://github.com/Yoshie2000/PlentyChess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7.0.0 | 2025-09-25 | 3595<sub>(new) | 3629<sub>(new) | 3587<sub>(new) |  |
+| 7.0.0 | 2025-09-25 | 3595<sub>(new) | 3629<sub>(new) | 3588<sub>(new) |  |
 | 6.0.0 | 2025-06-06 |  |  |  |  |
 | 5.0.0 | 2025-03-23 |  |  |  |  |
 | 4.0.1 | 2025-01-18 |  |  |  |  |
@@ -35,4 +35,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-14 10:43:08
+Generated: 2026-02-15 06:14:51
