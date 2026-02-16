@@ -8,8 +8,8 @@ Home: https://github.com/yunusemreyldz07/SoloEngine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.4.0 | 2026-02-07 | 1828<sub>(+163) | 2102<sub>(+80) | 2259<sub>(+138) |  |
-| 1.3.1 | 2026-02-01 | 1665<sub>(-24) | 2022<sub>(+17) | 2121<sub>(+50) |  |
+| 1.4.0 | 2026-02-07 | 1829<sub>(+163) | 2102<sub>(+80) | 2256<sub>(+135) |  |
+| 1.3.1 | 2026-02-01 | 1666<sub>(-24) | 2022<sub>(+17) | 2121<sub>(+50) |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -23,7 +23,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-15 07:17:31
+Generated: 2026-02-16 06:15:53
 
 ## Ratings Verlauf
 
@@ -32,11 +32,11 @@ Generated: 2026-02-15 07:17:31
 xychart-beta
   x-axis ["1.2.2", "1.3.1", "1.4.0"]
   y-axis "Elo Rating" 1600 --> 2300
-  line "STC (8.0+0.08s)" [1689, 1665, 1828]
-  line "STC (8.0+0.08s)" [1689, 1665, 1828]
+  line "STC (8.0+0.08s)" [1690, 1666, 1829]
+  line "STC (8.0+0.08s)" [1690, 1666, 1829]
   line "LTC (60.0+0.60s)" [2005, 2022, 2102]
-  line "VLTC (2m24s+1.12s)" [2071, 2121, 2259]
-  line "VLTC (2m24s+1.12s)" [2071, 2121, 2259]
+  line "VLTC (2m24s+1.12s)" [2071, 2121, 2256]
+  line "VLTC (2m24s+1.12s)" [2071, 2121, 2256]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
