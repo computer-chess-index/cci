@@ -8,7 +8,7 @@ Home: https://github.com/maelic13/whitespine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.3.2 | 2025-09-16 | 1276<sub>(new) | 1250<sub>(new) | 905<sub>(new) |  |
+| 1.3.2 | 2025-09-16 | 1276<sub>(new) | 1250<sub>(new) | 906<sub>(new) |  |
 | 1.3.1 | 2025-06-08 |  |  |  |  |
 | 1.3.0 | 2025-05-11 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -24,4 +24,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-16 06:16:38
+Generated: 2026-02-17 07:50:55
