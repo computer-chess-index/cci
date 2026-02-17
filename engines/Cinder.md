@@ -8,8 +8,8 @@ Home: https://github.com/brunocodutra/cinder
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.4.1 | 2025-12-05 | 3391<sub>(+47) | 3513<sub>(0) | 3533<sub>(-27) |  |
-| 0.4.0 | 2025-12-04 | 3344<sub>(new) | 3513<sub>(new) | 3560<sub>(new) |  |
+| 0.4.1 | 2025-12-05 | 3393<sub>(+48) | 3513<sub>(0) | 3534<sub>(-26) |  |
+| 0.4.0 | 2025-12-04 | 3345<sub>(new) | 3513<sub>(new) | 3560<sub>(new) |  |
 | 0.3.1 | 2025-08-16 |  |  |  |  |
 | 0.3.0 | 2025-08-16 |  |  |  |  |
 | 0.2.0 | 2025-05-29 |  |  |  |  |
@@ -30,7 +30,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-16 06:12:55
+Generated: 2026-02-17 07:47:01
 
 ## Ratings Verlauf
 
@@ -39,11 +39,11 @@ Generated: 2026-02-16 06:12:55
 xychart-beta
   x-axis ["0.4.0", "0.4.1"]
   y-axis "Elo Rating" 3300 --> 3600
-  line "STC (8.0+0.08s)" [3344, 3391]
-  line "STC (8.0+0.08s)" [3344, 3391]
+  line "STC (8.0+0.08s)" [3345, 3393]
+  line "STC (8.0+0.08s)" [3345, 3393]
   line "LTC (60.0+0.60s)" [3513, 3513]
-  line "VLTC (2m24s+1.12s)" [3560, 3533]
-  line "VLTC (2m24s+1.12s)" [3560, 3533]
+  line "VLTC (2m24s+1.12s)" [3560, 3534]
+  line "VLTC (2m24s+1.12s)" [3560, 3534]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
