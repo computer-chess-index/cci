@@ -8,14 +8,14 @@ Home: https://github.com/jhellis3/Stockfish
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9 | 2025-05-09 | 3464<sub>(new) | 3600<sub>(new) | 3633<sub>(new) |  |
+| 9 | 2025-05-09 | 3463<sub>(new) | 3599<sub>(new) | 3632<sub>(new) |  |
 | 8 | 2024-04-05 |  |  |  |  |
 | 8 | 2024-04-05 |  |  |  |  |
 | 7 | 2023-11-09 |  |  |  |  |
 | 7 | 2023-11-09 |  |  |  |  |
 | 6 | 2023-05-14 |  |  |  |  |
 | 6 | 2023-05-14 |  |  |  |  |
-| 5 | 2022-11-05 |  |  |  |  |
+| 5 | 2022-11-05 | 3413<sub>(new) | 3555<sub>(new) | 3576<sub>(new) |  |
 | 4.1 | 2022-07-03 |  |  |  |  |
 | 4.0 | 2021-12-25 |  |  |  |  |
 | 4.0 | 2021-12-25 |  |  |  |  |
@@ -50,4 +50,20 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-17 07:47:10
+Generated: 2026-02-18 06:13:09
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["5", "9"]
+  y-axis "Elo Rating" 3400 --> 3700
+  line "STC (8.0+0.08s)" [3413, 3463]
+  line "STC (8.0+0.08s)" [3413, 3463]
+  line "LTC (60.0+0.60s)" [3555, 3599]
+  line "VLTC (2m24s+1.12s)" [3576, 3632]
+  line "VLTC (2m24s+1.12s)" [3576, 3632]
+```
+
+<p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
