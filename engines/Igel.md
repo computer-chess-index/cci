@@ -8,8 +8,8 @@ Home: https://github.com/vshcherbyna/igel
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.6.0 | 2024-12-28 | 3221<sub>(new) | 3440<sub>(new) | 3494<sub>(new) |  |
-| 3.5.0 | 2023-06-22 |  |  |  |  |
+| 3.6.0 | 2024-12-28 | 3220<sub>(+19) | 3440<sub>(+3) | 3492<sub>(+18) |  |
+| 3.5.0 | 2023-06-22 | 3201<sub>(new) | 3437<sub>(new) | 3474<sub>(new) |  |
 | 3.4.0 | 2023-01-30 |  |  |  |  |
 | 3.3.0 | 2023-01-15 |  |  |  |  |
 | 3.2.0 | 2022-12-17 |  |  |  |  |
@@ -58,4 +58,20 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-17 07:48:00
+Generated: 2026-02-18 06:14:05
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["3.5.0", "3.6.0"]
+  y-axis "Elo Rating" 3200 --> 3500
+  line "STC (8.0+0.08s)" [3201, 3220]
+  line "STC (8.0+0.08s)" [3201, 3220]
+  line "LTC (60.0+0.60s)" [3437, 3440]
+  line "VLTC (2m24s+1.12s)" [3474, 3492]
+  line "VLTC (2m24s+1.12s)" [3474, 3492]
+```
+
+<p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
