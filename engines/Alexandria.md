@@ -8,11 +8,12 @@ Home: https://github.com/PGG106/Alexandria
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 8.1.12 | 2025-11-09 | 3467<sub>(new) | 3579<sub>(new) | 3614<sub>(-34) |  |
-| 8.1.0 | 2025-08-16 |  |  | 3648<sub>(new) |  |
-| 8.0.0 | 2025-03-03 |  |  |  |  |
-| 7.1.0 | 2024-10-26 |  |  |  |  |
-| 7.0.0 | 2024-05-25 |  |  |  |  |
+| 8.1.12 | 2025-11-09 | 3464<sub>(+9) | 3578<sub>(-1) | 3614<sub>(+14) |  |
+| 8.1 | 2025-08-16 | 3455<sub>(+0) | 3579<sub>(0) | 3600<sub>(+0) |  |
+| 8.1 | 2025-08-16 | 3455<sub>(+30) | 3579<sub>(+24) | 3600<sub>(+10) |  |
+| 8.0 | 2025-03-03 | 3425<sub>(+45) | 3555<sub>(+14) | 3590<sub>(+18) |  |
+| 7.1 | 2024-10-26 | 3380<sub>(+10) | 3541<sub>(+17) | 3572<sub>(+5) |  |
+| 7.0 | 2024-05-25 | 3370<sub>(new) | 3524<sub>(new) | 3567<sub>(new) |  |
 | 6.1.0 | 2024-03-24 |  |  |  |  |
 | 6.0.0 | 2024-02-01 |  |  |  |  |
 | 5.1.0 | 2023-11-29 |  |  |  |  |
@@ -44,4 +45,20 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-17 07:46:13
+Generated: 2026-02-18 06:12:08
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["7.0", "7.1", "8.0", "8.1", "8.1", "8.1.12"]
+  y-axis "Elo Rating" 3300 --> 3700
+  line "STC (8.0+0.08s)" [3370, 3380, 3425, 3455, 3455, 3464]
+  line "STC (8.0+0.08s)" [3370, 3380, 3425, 3455, 3455, 3464]
+  line "LTC (60.0+0.60s)" [3524, 3541, 3555, 3579, 3579, 3578]
+  line "VLTC (2m24s+1.12s)" [3567, 3572, 3590, 3600, 3600, 3614]
+  line "VLTC (2m24s+1.12s)" [3567, 3572, 3590, 3600, 3600, 3614]
+```
+
+<p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
