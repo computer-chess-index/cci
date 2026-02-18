@@ -8,10 +8,10 @@ Home: https://github.com/martinnovaak/motor
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.9.0 | 2025-06-02 | 3370<sub>(new) | 3530<sub>(new) | 3567<sub>(new) |  |
-| 0.8.0 | 2024-10-28 |  |  |  |  |
+| 0.9.0 | 2025-06-02 | 3371<sub>(+14) | 3530<sub>(+19) | 3567<sub>(+23) |  |
+| 0.8.0 | 2024-10-28 | 3357<sub>(new) | 3511<sub>(new) | 3544<sub>(new) |  |
 | 0.7.0 | 2024-08-11 |  |  |  |  |
-| 0.6.0 | 2024-06-30 |  |  |  |  |
+| 0.60 | 2024-06-30 | 3245<sub>(new) | 3445<sub>(new) | 3472<sub>(new) |  |
 | 0.5.0 | 2024-05-23 |  |  |  |  |
 | 0.4.0 | 2024-04-18 |  |  |  |  |
 | 0.3.0 | 2024-03-30 |  |  |  |  |
@@ -29,4 +29,20 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-17 07:48:37
+Generated: 2026-02-18 06:14:47
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["0.60", "0.8.0", "0.9.0"]
+  y-axis "Elo Rating" 3200 --> 3600
+  line "STC (8.0+0.08s)" [3245, 3357, 3371]
+  line "STC (8.0+0.08s)" [3245, 3357, 3371]
+  line "LTC (60.0+0.60s)" [3445, 3511, 3530]
+  line "VLTC (2m24s+1.12s)" [3472, 3544, 3567]
+  line "VLTC (2m24s+1.12s)" [3472, 3544, 3567]
+```
+
+<p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
