@@ -8,10 +8,10 @@ Home: https://github.com/jorgenhanssen/grail
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.4 | 2026-01-16 | 2498<sub>(+122) | 2766<sub>(+42) | 2898<sub>(+101) |  |
-| 1.0.3 | 2026-01-04 | 2376<sub>(+28) | 2724<sub>(+112) | 2797<sub>(+74) |  |
-| 1.0.2 | 2025-12-16 | 2348<sub>(+31) | 2612<sub>(+20) | 2723<sub>(-54) |  |
-| 1.0.1 | 2025-12-10 | 2317<sub>(+35) | 2592<sub>(-14) | 2777<sub>(-51) |  |
+| 1.0.4 | 2026-01-16 | 2498<sub>(+122) | 2766<sub>(+42) | 2898<sub>(+99) |  |
+| 1.0.3 | 2026-01-04 | 2376<sub>(+28) | 2724<sub>(+110) | 2799<sub>(+75) |  |
+| 1.0.2 | 2025-12-16 | 2348<sub>(+30) | 2614<sub>(+22) | 2724<sub>(-53) |  |
+| 1.0.1 | 2025-12-10 | 2318<sub>(+36) | 2592<sub>(-14) | 2777<sub>(-51) |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-18 08:00:03
+Generated: 2026-02-18 17:21:03
 
 ## Ratings Verlauf
 
@@ -34,11 +34,11 @@ Generated: 2026-02-18 08:00:03
 xychart-beta
   x-axis ["1.0.0", "1.0.1", "1.0.2", "1.0.3", "1.0.4"]
   y-axis "Elo Rating" 2200 --> 2900
-  line "STC (8.0+0.08s)" [2282, 2317, 2348, 2376, 2498]
-  line "STC (8.0+0.08s)" [2282, 2317, 2348, 2376, 2498]
-  line "LTC (60.0+0.60s)" [2606, 2592, 2612, 2724, 2766]
-  line "VLTC (2m24s+1.12s)" [2828, 2777, 2723, 2797, 2898]
-  line "VLTC (2m24s+1.12s)" [2828, 2777, 2723, 2797, 2898]
+  line "STC (8.0+0.08s)" [2282, 2318, 2348, 2376, 2498]
+  line "STC (8.0+0.08s)" [2282, 2318, 2348, 2376, 2498]
+  line "LTC (60.0+0.60s)" [2606, 2592, 2614, 2724, 2766]
+  line "VLTC (2m24s+1.12s)" [2828, 2777, 2724, 2799, 2898]
+  line "VLTC (2m24s+1.12s)" [2828, 2777, 2724, 2799, 2898]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
