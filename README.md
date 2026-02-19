@@ -6,7 +6,7 @@ To get a quick impression, see <a href="https://github.com/computer-chess-index/
 
 A complete list can be found here: <a href="https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.md" target="_blank">CCI Ratings</a> or <a href="https://computer-chess-index.github.io/cci/" target="_blank">here</a>
 
-To get an impression of a single engine page, see: <a href="https://github.com/computer-chess-index/cci/blob/main/engines/Raphael.md" target="_blank">Raphael</a>
+To get an impression of a single engine page, see: <a href="https://github.com/computer-chess-index/cci/blob/main/engines/Stockfish.md" target="_blank">Stockfish</a> or <a href="https://github.com/computer-chess-index/cci/blob/main/engines/Raphael.md" target="_blank">Raphael</a>
 
 
 
