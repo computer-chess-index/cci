@@ -22,7 +22,7 @@ Home: https://github.com/PS-Wizard/OopsMate
 | 5.0 | 2026-01-31 |  |  |  |  |
 | 4.0 | 2026-01-31 |  |  |  |  |
 | 3.0 | 2026-01-31 |  |  |  |  |
-| 2.0 | 2026-01-30 | 1311<sub>(new) | 1504<sub>(new) | 1516<sub>(new) |  |
+| 2.0 | 2026-01-30 | 1311<sub>(new) | 1505<sub>(new) | 1511<sub>(new) |  |
 | 1.0 | 2026-01-30 |  |  |  |  |
 | 0.0.4 | 2025-11-23 | 1134<sub>(new) | 1368<sub>(new) | 1424<sub>(new) |  |
 | 0.0.3 | 2025-11-13 |  |  |  |  |
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-18 19:50:06
+Generated: 2026-02-19 06:14:45
 
 ## Ratings Verlauf
 
@@ -52,9 +52,9 @@ xychart-beta
   y-axis "Elo Rating" 1100 --> 1600
   line "STC (8.0+0.08s)" [1134, 1311]
   line "STC (8.0+0.08s)" [1134, 1311]
-  line "LTC (60.0+0.60s)" [1368, 1504]
-  line "VLTC (2m24s+1.12s)" [1424, 1516]
-  line "VLTC (2m24s+1.12s)" [1424, 1516]
+  line "LTC (60.0+0.60s)" [1368, 1505]
+  line "VLTC (2m24s+1.12s)" [1424, 1511]
+  line "VLTC (2m24s+1.12s)" [1424, 1511]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
