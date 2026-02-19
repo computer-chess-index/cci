@@ -25,7 +25,7 @@ Home: https://github.com/chris-moreton/rusty-rival
 | 1.0.12 | 2026-01-10 |  |  |  |  |
 | 1.0.11 | 2026-01-10 |  |  |  |  |
 | 1.0.10 | 2026-01-09 |  |  |  |  |
-| 1.0.9 | 2026-01-01 |  | 2003<sub>(new) |  |  |
+| 1.0.9 | 2026-01-01 |  | 2005<sub>(new) |  |  |
 | 1.0.8 | 2026-01-01 |  |  |  |  |
 | 1.0.7 | 2025-12-30 |  |  |  | thread 'main' (10808) panicked at src\main.rs:17:36: |
 | 1.0.6 | 2025-12-30 |  |  |  |  |
@@ -46,7 +46,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-18 19:51:28
+Generated: 2026-02-19 06:15:46
 
 ## Ratings Verlauf
 
