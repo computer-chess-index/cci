@@ -20,7 +20,7 @@ Home: https://github.com/official-stockfish/Stockfish
 | 13.0 | 2021-02-19 | 3360<sub>(+35) | 3533<sub>(+46) | 3538<sub>(+9) |  |
 | 12.0 | 2020-09-02 | 3325<sub>(+159) | 3487<sub>(+100) | 3529<sub>(+95) |  |
 | 11.0 | 2020-01-18 | 3166<sub>(+57) | 3387<sub>(+67) | 3434<sub>(+47) |  |
-| 10.0 | 2018-11-29 | 3109<sub>(new) | 3320<sub>(new) | 3387<sub>(new) |  |
+| 10.0 | 2018-11-29 | 3109<sub>(+new) | 3320<sub>(+new) | 3387<sub>(+new) |  |
 | 9.0 | 2018-02-01 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -35,7 +35,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-21 22:39:32
+Generated: 2026-02-21 22:59:47
 
 ## Ratings Verlauf
 
