@@ -8,9 +8,9 @@ Home: https://github.com/gabtar/aconcagua
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 5.0.0 | 2026-01-25 | 2209<sub>(+206) | 2499<sub>(+189) | 2500<sub>(+79) |  |
-| 4.1.0 | 2025-12-14 | 2003<sub>(+54) | 2310<sub>(+78) | 2421<sub>(+61) |  |
-| 4.0.0 | 2025-11-09 | 1949<sub>(new) | 2232<sub>(new) | 2360<sub>(new) |  |
+| 5.0.0 | 2026-01-25 | 2214<sub>(+209) | 2502<sub>(+191) | 2503<sub>(+80) |  |
+| 4.1.0 | 2025-12-14 | 2005<sub>(+56) | 2311<sub>(+78) | 2423<sub>(+62) |  |
+| 4.0.0 | 2025-11-09 | 1949<sub>(new) | 2233<sub>(new) | 2361<sub>(new) |  |
 | 3.4.0 | 2025-10-04 |  |  |  |  |
 | 3.3.0 | 2025-09-14 |  |  |  |  |
 | 3.2.0 | 2025-08-31 |  |  |  |  |
@@ -32,7 +32,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-20 06:12:04
+Generated: 2026-02-21 06:12:04
 
 ## Ratings Verlauf
 
@@ -40,12 +40,12 @@ Generated: 2026-02-20 06:12:04
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["4.0.0", "4.1.0", "5.0.0"]
-  y-axis "Elo Rating" 1900 --> 2500
-  line "STC (8.0+0.08s)" [1949, 2003, 2209]
-  line "STC (8.0+0.08s)" [1949, 2003, 2209]
-  line "LTC (60.0+0.60s)" [2232, 2310, 2499]
-  line "VLTC (2m24s+1.12s)" [2360, 2421, 2500]
-  line "VLTC (2m24s+1.12s)" [2360, 2421, 2500]
+  y-axis "Elo Rating" 1900 --> 2600
+  line "STC (8.0+0.08s)" [1949, 2005, 2214]
+  line "STC (8.0+0.08s)" [1949, 2005, 2214]
+  line "LTC (60.0+0.60s)" [2233, 2311, 2502]
+  line "VLTC (2m24s+1.12s)" [2361, 2423, 2503]
+  line "VLTC (2m24s+1.12s)" [2361, 2423, 2503]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
