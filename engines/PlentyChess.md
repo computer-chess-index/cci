@@ -8,13 +8,13 @@ Home: https://github.com/Yoshie2000/PlentyChess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7.0.0 | 2025-09-25 | 3600<sub>(new) | 3633<sub>(new) | 3594<sub>(0) |  |
-| 6.0.2 | 2025-06-06 |  |  | 3594<sub>(0) |  |
-| 5.0.0 | 2025-03-23 | 3403<sub>(+5) | 3569<sub>(new) | 3594<sub>(+25) |  |
-| 4.0.1 | 2025-01-18 | 3398<sub>(new) |  | 3569<sub>(new) |  |
+| 7.0.0 | 2025-09-25 | 3600<sub>(new) | 3633<sub>(new) | 3594<sub>(-1) |  |
+| 6.0.2 | 2025-06-06 |  |  | 3595<sub>(+1) |  |
+| 5.0.0 | 2025-03-23 | 3403<sub>(+4) | 3569<sub>(new) | 3594<sub>(+25) |  |
+| 4.0.1 | 2025-01-18 | 3399<sub>(new) |  | 3569<sub>(new) |  |
 | 4.0.0 | 2025-01-18 |  |  |  |  |
 | 3.0.2 | 2024-11-26 |  |  |  |  |
-| 3.0.1 | 2024-11-22 | 3333<sub>(new) | 3475<sub>(new) | 3564<sub>(new) |  |
+| 3.0.1 | 2024-11-22 | 3333<sub>(new) | 3475<sub>(new) | 3565<sub>(new) |  |
 | 3.0.0 | 2024-11-21 |  |  |  |  |
 | 2.1.0 | 2024-07-02 | 3368<sub>(new) | 3507<sub>(new) | 3542<sub>(new) |  |
 | 2.0.0 | 2024-06-12 |  |  |  |  |
@@ -35,7 +35,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-21 06:14:48
+Generated: 2026-02-21 22:34:52
 
 ## Ratings Verlauf
 
@@ -47,8 +47,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [3368, 3333, 3403, 3600]
   line "STC (8.0+0.08s)" [3368, 3333, 3403, 3600]
   line "LTC (60.0+0.60s)" [3507, 3475, 3569, 3633]
-  line "VLTC (2m24s+1.12s)" [3542, 3564, 3594, 3594]
-  line "VLTC (2m24s+1.12s)" [3542, 3564, 3594, 3594]
+  line "VLTC (2m24s+1.12s)" [3542, 3565, 3594, 3594]
+  line "VLTC (2m24s+1.12s)" [3542, 3565, 3594, 3594]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
