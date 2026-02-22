@@ -9,7 +9,7 @@ Home: https://github.com/CJDalrymple/Yakka
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 1.5 | 2026-01-22 | 2807<sub>(+108) | 3089<sub>(+127) | 3158<sub>(+154) |  |
-| 1.4 | 2025-11-11 | 2699<sub>(new) | 2962<sub>(new) | 3004<sub>(new) |  |
+| 1.4 | 2025-11-11 | 2699<sub>(+new) | 2962<sub>(+new) | 3004<sub>(+new) |  |
 | 1.3 | 2025-08-10 |  |  |  |  |
 | 1.2 | 2025-02-11 |  |  |  |  |
 | 1.1 | 2024-09-16 |  |  |  |  |
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-21 22:40:10
+Generated: 2026-02-22 06:26:37
 
 ## Ratings Verlauf
 
