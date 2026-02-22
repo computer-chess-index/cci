@@ -12,7 +12,7 @@ Home: https://github.com/op12no2/lozza
 | 2 | 2026-02-13 |  |  |  |  |
 | 10 | 2026-01-17 | 2911<sub>(+251) | 3119<sub>(+175) | 3151<sub>(+107) |  |
 | 9 | 2026-01-10 | 2660<sub>(+18) | 2944<sub>(-15) | 3044<sub>(-33) |  |
-| 8 | 2025-09-25 | 2642<sub>(new) | 2959<sub>(new) | 3077<sub>(new) |  |
+| 8 | 2025-09-25 | 2642<sub>(+new) | 2959<sub>(+new) | 3077<sub>(+new) |  |
 | 7 | 2025-07-12 |  |  |  |  |
 | 5.1 | 2025-06-02 |  |  |  |  |
 | 5 | 2025-02-25 |  |  |  |  |
@@ -31,7 +31,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-21 22:33:45
+Generated: 2026-02-22 06:24:18
 
 ## Ratings Verlauf
 
