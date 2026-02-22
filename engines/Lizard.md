@@ -9,10 +9,10 @@ Home: https://github.com/liamt19/Lizard
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 11.2 | 2025-01-08 | 3341<sub>(+15) | 3522<sub>(+21) | 3556<sub>(+11) |  |
-| 11.1.5 | 2024-12-30 | 3326<sub>(new) | 3501<sub>(new) | 3545<sub>(new) |  |
+| 11.1.5 | 2024-12-30 | 3326<sub>(+new) | 3501<sub>(+new) | 3545<sub>(+new) |  |
 | 11.1 | 2024-11-11 |  |  |  |  |
 | 11.0 | 2024-09-26 | 3271<sub>(+9) | 3484<sub>(-13) | 3530<sub>(-6) |  |
-| 10.5 | 2024-07-13 | 3262<sub>(new) | 3497<sub>(new) | 3536<sub>(new) |  |
+| 10.5 | 2024-07-13 | 3262<sub>(+new) | 3497<sub>(+new) | 3536<sub>(+new) |  |
 | 10.4 | 2024-06-03 |  |  |  |  |
 | 10.3 | 2024-03-09 |  |  |  |  |
 | 10.2 | 2024-02-10 |  |  |  |  |
@@ -36,7 +36,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-21 22:33:41
+Generated: 2026-02-22 06:24:14
 
 ## Ratings Verlauf
 
