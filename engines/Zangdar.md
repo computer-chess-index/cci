@@ -8,9 +8,9 @@ Home: https://github.com/Carbecq/Zangdar
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.1 | 2026-02-10 | 3182<sub>(-5) | 3413<sub>(+20) | 3471<sub>(+26) |  |
+| 6.1 | 2026-02-10 | 3185<sub>(-2) | 3411<sub>(+18) | 3471<sub>(+26) |  |
 | 6 | 2026-02-07 | 3187<sub>(+10) | 3393<sub>(+6) | 3445<sub>(+15) |  |
-| 5.00.02 | 2025-09-24 | 3177<sub>(new) | 3387<sub>(new) | 3430<sub>(new) |  |
+| 5.00.02 | 2025-09-24 | 3177<sub>(+new) | 3387<sub>(+new) | 3430<sub>(+new) |  |
 | 5.00.01 | 2025-09-23 |  |  |  |  |
 | 5 | 2025-09-22 |  |  |  |  |
 | 4.04.01 | 2025-08-31 |  |  |  |  |
@@ -35,7 +35,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-21 22:40:16
+Generated: 2026-02-22 06:26:42
 
 ## Ratings Verlauf
 
@@ -44,9 +44,9 @@ Generated: 2026-02-21 22:40:16
 xychart-beta
   x-axis ["5.00.02", "6", "6.1"]
   y-axis "Elo Rating" 3100 --> 3500
-  line "STC (8.0+0.08s)" [3177, 3187, 3182]
-  line "STC (8.0+0.08s)" [3177, 3187, 3182]
-  line "LTC (60.0+0.60s)" [3387, 3393, 3413]
+  line "STC (8.0+0.08s)" [3177, 3187, 3185]
+  line "STC (8.0+0.08s)" [3177, 3187, 3185]
+  line "LTC (60.0+0.60s)" [3387, 3393, 3411]
   line "VLTC (2m24s+1.12s)" [3430, 3445, 3471]
   line "VLTC (2m24s+1.12s)" [3430, 3445, 3471]
 ```
