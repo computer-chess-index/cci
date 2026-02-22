@@ -10,7 +10,7 @@ Home: https://github.com/gabtar/aconcagua
 | --- | --- | --- | --- | --- | --- |
 | 5.0.0 | 2026-01-25 | 2211<sub>(+206) | 2502<sub>(+191) | 2503<sub>(+80) |  |
 | 4.1.0 | 2025-12-14 | 2005<sub>(+56) | 2311<sub>(+78) | 2423<sub>(+62) |  |
-| 4.0.0 | 2025-11-09 | 1949<sub>(new) | 2233<sub>(new) | 2361<sub>(new) |  |
+| 4.0.0 | 2025-11-09 | 1949<sub>(+new) | 2233<sub>(+new) | 2361<sub>(+new) |  |
 | 3.4.0 | 2025-10-04 |  |  |  |  |
 | 3.3.0 | 2025-09-14 |  |  |  |  |
 | 3.2.0 | 2025-08-31 |  |  |  |  |
@@ -32,7 +32,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-21 22:31:18
+Generated: 2026-02-22 06:22:05
 
 ## Ratings Verlauf
 
