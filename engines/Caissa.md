@@ -12,7 +12,7 @@ Home: https://github.com/Witek902/Caissa
 | 1.23 | 2025-08-21 | 3426<sub>(+16) | 3560<sub>(+3) | 3590<sub>(+18) |  |
 | 1.22 | 2025-04-30 | 3410<sub>(+7) | 3557<sub>(+8) | 3572<sub>(-11) |  |
 | 1.21 | 2024-10-27 | 3403<sub>(+8) | 3549<sub>(+19) | 3583<sub>(-3) |  |
-| 1.20 | 2024-07-28 | 3395<sub>(new) | 3530<sub>(new) | 3586<sub>(new) |  |
+| 1.20 | 2024-07-28 | 3395<sub>(+new) | 3530<sub>(+new) | 3586<sub>(+new) |  |
 | 1.19 | 2024-06-23 |  |  |  |  |
 | 1.18 | 2024-04-02 |  |  |  |  |
 | 1.17 | 2024-02-12 |  |  |  |  |
@@ -54,7 +54,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-21 22:31:57
+Generated: 2026-02-22 06:22:40
 
 ## Ratings Verlauf
 
