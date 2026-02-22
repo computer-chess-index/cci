@@ -11,7 +11,7 @@ Home: https://github.com/gab8192/Obsidian
 | 16.0 | 2025-05-21 | 3480<sub>(+32) | 3596<sub>(+24) | 3621<sub>(+26) |  |
 | 15.0 | 2025-01-31 | 3448<sub>(-7) | 3572<sub>(-6) | 3595<sub>(-3) |  |
 | 14.0 | 2024-10-22 | 3455<sub>(+23) | 3578<sub>(+27) | 3598<sub>(+8) |  |
-| 13.0 | 2024-07-01 | 3432<sub>(new) | 3551<sub>(new) | 3590<sub>(new) |  |
+| 13.0 | 2024-07-01 | 3432<sub>(+new) | 3551<sub>(+new) | 3590<sub>(+new) |  |
 | 12.0 | 2024-04-11 |  |  |  |  |
 | 11.0 | 2024-03-02 |  |  |  |  |
 | 10.0 | 2024-01-16 |  |  |  |  |
@@ -33,7 +33,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-21 22:34:16
+Generated: 2026-02-22 06:24:42
 
 ## Ratings Verlauf
 
