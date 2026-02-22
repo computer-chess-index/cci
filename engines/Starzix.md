@@ -10,7 +10,7 @@ Home: https://github.com/zzzzz151/Starzix
 | --- | --- | --- | --- | --- | --- |
 | 6.1 | 2025-04-06 | 3371<sub>(+8) | 3525<sub>(+3) | 3551<sub>(-1) |  |
 | 6.0 | 2024-10-24 | 3363<sub>(+111) | 3522<sub>(+74) | 3552<sub>(+78) |  |
-| 5.0 | 2024-05-23 | 3252<sub>(new) | 3448<sub>(new) | 3474<sub>(new) |  |
+| 5.0 | 2024-05-23 | 3252<sub>(+new) | 3448<sub>(+new) | 3474<sub>(+new) |  |
 | 4.0 | 2024-01-22 |  |  |  |  |
 | 3.0 | 2023-11-25 |  |  |  |  |
 | 2.1 | 2023-10-22 |  |  |  |  |
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-21 22:39:30
+Generated: 2026-02-22 06:25:59
 
 ## Ratings Verlauf
 
