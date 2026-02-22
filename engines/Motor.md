@@ -9,9 +9,9 @@ Home: https://github.com/martinnovaak/motor
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 0.9.0 | 2025-06-02 | 3376<sub>(+13) | 3534<sub>(+19) | 3571<sub>(+22) |  |
-| 0.8.0 | 2024-10-28 | 3363<sub>(new) | 3515<sub>(new) | 3549<sub>(new) |  |
+| 0.8.0 | 2024-10-28 | 3363<sub>(+new) | 3515<sub>(+new) | 3549<sub>(+new) |  |
 | 0.7.0 | 2024-08-11 |  |  |  |  |
-| 0.60 | 2024-06-30 | 3249<sub>(new) | 3449<sub>(new) | 3476<sub>(new) |  |
+| 0.60 | 2024-06-30 | 3249<sub>(+new) | 3451<sub>(+new) | 3478<sub>(+new) |  |
 | 0.5.0 | 2024-05-23 |  |  |  |  |
 | 0.4.0 | 2024-04-18 |  |  |  |  |
 | 0.3.0 | 2024-03-30 |  |  |  |  |
@@ -29,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-21 22:34:04
+Generated: 2026-02-22 06:24:31
 
 ## Ratings Verlauf
 
@@ -40,9 +40,9 @@ xychart-beta
   y-axis "Elo Rating" 3200 --> 3600
   line "STC (8.0+0.08s)" [3249, 3363, 3376]
   line "STC (8.0+0.08s)" [3249, 3363, 3376]
-  line "LTC (60.0+0.60s)" [3449, 3515, 3534]
-  line "VLTC (2m24s+1.12s)" [3476, 3549, 3571]
-  line "VLTC (2m24s+1.12s)" [3476, 3549, 3571]
+  line "LTC (60.0+0.60s)" [3451, 3515, 3534]
+  line "VLTC (2m24s+1.12s)" [3478, 3549, 3571]
+  line "VLTC (2m24s+1.12s)" [3478, 3549, 3571]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
