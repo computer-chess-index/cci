@@ -9,9 +9,9 @@ Home: https://github.com/tomcant/chess-rs
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 0.7.0 | 2025-12-31 | 1747<sub>(+41) | 1976<sub>(+77) | 2070<sub>(+45) |  |
-| 0.6.0 | 2025-11-11 | 1706<sub>(new) | 1899<sub>(new) | 2025<sub>(new) |  |
+| 0.6.0 | 2025-11-11 | 1706<sub>(+new) | 1899<sub>(+new) | 2025<sub>(+new) |  |
 | 0.5.1 | 2025-11-04 |  |  |  | no public available .exe |
-| 0.5.0 | 2025-11-03 | 1602<sub>(new) | 1827<sub>(new) | 1931<sub>(new) |  |
+| 0.5.0 | 2025-11-03 | 1602<sub>(+new) | 1827<sub>(+new) | 1931<sub>(+new) |  |
 | 0.4.2 | 2025-10-13 |  |  |  |  |
 | 0.4.1 | 2025-10-09 |  |  |  |  |
 | 0.4.0 | 2025-10-09 |  |  |  |  |
@@ -31,7 +31,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-21 22:32:04
+Generated: 2026-02-22 06:22:47
 
 ## Ratings Verlauf
 
