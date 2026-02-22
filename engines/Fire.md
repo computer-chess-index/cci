@@ -9,7 +9,7 @@ Home: https://github.com/Firefather/fire
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 10.0 | 2025-08-09 | 3195<sub>(+6) | 3421<sub>(+8) | 3468<sub>(+3) |  |
-| 9.3 | 2024-03-10 | 3189<sub>(new) | 3413<sub>(new) | 3465<sub>(new) |  |
+| 9.3 | 2024-03-10 | 3189<sub>(+new) | 3413<sub>(+new) | 3465<sub>(+new) |  |
 | 9.2 | 2023-11-12 |  |  |  |  |
 | 9.1 | 2023-11-08 |  |  |  |  |
 | 9.0 | 2023-06-05 |  |  |  |  |
@@ -37,7 +37,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-21 22:32:40
+Generated: 2026-02-22 06:23:22
 
 ## Ratings Verlauf
 
