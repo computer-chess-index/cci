@@ -8,9 +8,9 @@ Home: https://github.com/Koma1867/Soomi-V1-Chess-engine-in-golang
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.2.0 | 2025-12-31 | 2086<sub>(+212) | 2371<sub>(+176) | 2479<sub>(+237) |  |
-| 1.1.8 | 2025-12-16 | 1874<sub>(-8) | 2195<sub>(+46) | 2242<sub>(+43) |  |
-| 1.1.7 | 2025-12-07 | 1882<sub>(+57) | 2149<sub>(-45) | 2199<sub>(-10) |  |
+| 1.2.0 | 2025-12-31 | 2086<sub>(+212) | 2300<sub>(+130) | 2380<sub>(+175) |  |
+| 1.1.8 | 2025-12-16 | 1874<sub>(-8) | 2170<sub>(+35) | 2205<sub>(+32) |  |
+| 1.1.7 | 2025-12-07 | 1882<sub>(+57) | 2135<sub>(-34) | 2173<sub>(-7) |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-22 06:25:53
+Generated: 2026-02-23 06:26:35
 
 ## Ratings Verlauf
 
@@ -32,12 +32,12 @@ Generated: 2026-02-22 06:25:53
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["1.1.6", "1.1.7", "1.1.8", "1.2.0"]
-  y-axis "Elo Rating" 1800 --> 2500
+  y-axis "Elo Rating" 1800 --> 2400
   line "STC (8.0+0.08s)" [1825, 1882, 1874, 2086]
   line "STC (8.0+0.08s)" [1825, 1882, 1874, 2086]
-  line "LTC (60.0+0.60s)" [2194, 2149, 2195, 2371]
-  line "VLTC (2m24s+1.12s)" [2209, 2199, 2242, 2479]
-  line "VLTC (2m24s+1.12s)" [2209, 2199, 2242, 2479]
+  line "LTC (60.0+0.60s)" [2169, 2135, 2170, 2300]
+  line "VLTC (2m24s+1.12s)" [2180, 2173, 2205, 2380]
+  line "VLTC (2m24s+1.12s)" [2180, 2173, 2205, 2380]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
