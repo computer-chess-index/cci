@@ -8,8 +8,8 @@ Home: https://github.com/Quanticade/Quanticade
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0 | 2025-12-15 | 3380<sub>(+44) | 3555<sub>(+45) | 3579<sub>(+28) |  |
-| 2.0 | 2025-05-21 | 3336<sub>(+new) | 3510<sub>(+new) | 3551<sub>(+new) |  |
+| 3.0 | 2025-12-15 | 3049<sub>(+33) | 3177<sub>(+33) | 3195<sub>(+21) |  |
+| 2.0 | 2025-05-21 | 3016<sub>(+new) | 3144<sub>(+new) | 3174<sub>(+new) |  |
 | 1.0 Fenrir | 2025-03-10 |  |  |  |  |
 | 1.2 Chimera | 2025-01-06 |  |  |  |  |
 | 1.1 Chimera | 2025-01-02 |  |  |  |  |
@@ -31,7 +31,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-22 06:25:16
+Generated: 2026-02-23 06:25:54
 
 ## Ratings Verlauf
 
@@ -39,12 +39,12 @@ Generated: 2026-02-22 06:25:16
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["2.0", "3.0"]
-  y-axis "Elo Rating" 3300 --> 3600
-  line "STC (8.0+0.08s)" [3336, 3380]
-  line "STC (8.0+0.08s)" [3336, 3380]
-  line "LTC (60.0+0.60s)" [3510, 3555]
-  line "VLTC (2m24s+1.12s)" [3551, 3579]
-  line "VLTC (2m24s+1.12s)" [3551, 3579]
+  y-axis "Elo Rating" 3000 --> 3200
+  line "STC (8.0+0.08s)" [3016, 3049]
+  line "STC (8.0+0.08s)" [3016, 3049]
+  line "LTC (60.0+0.60s)" [3144, 3177]
+  line "VLTC (2m24s+1.12s)" [3174, 3195]
+  line "VLTC (2m24s+1.12s)" [3174, 3195]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
