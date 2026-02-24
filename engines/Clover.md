@@ -8,13 +8,13 @@ Home: https://github.com/lucametehau/CloverEngine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.1 | 2025-09-14 | 3083<sub>(+new) | 3193<sub>(+new) | 3202<sub>(+new) |  |
+| 9.1 | 2025-09-14 | 3426<sub>(+new) | 3575<sub>(+new) | 3587<sub>(+new) |  |
 | 9.0 | 2025-08-19 |  |  |  |  |
-| 8.2.5 | 2025-07-14 | 3051<sub>(+new) | 3162<sub>(+new) | 3183<sub>(+new) |  |
+| 8.2.5 | 2025-07-14 | 3383<sub>(+new) | 3533<sub>(+new) | 3560<sub>(+new) |  |
 | 8.2.1 | 2025-07-12 |  |  |  |  |
 | 8.2 | 2025-07-11 |  |  |  |  |
-| 8.1 | 2024-12-03 | 3053<sub>(+3) | 3150<sub>(-8) | 3180<sub>(0) |  |
-| 8.0.2 | 2024-09-05 | 3050<sub>(+new) | 3158<sub>(+new) | 3180<sub>(+new) |  |
+| 8.1 | 2024-12-03 | 3386<sub>(+6) | 3517<sub>(-9) | 3557<sub>(0) |  |
+| 8.0.2 | 2024-09-05 | 3380<sub>(+new) | 3526<sub>(+new) | 3557<sub>(+new) |  |
 | 8.0 | 2024-09-02 |  |  |  |  |
 | 7.1 | 2024-08-11 |  |  |  |  |
 | 7.0 | 2024-07-24 |  |  |  |  |
@@ -41,6 +41,7 @@ Home: https://github.com/lucametehau/CloverEngine
 | 2.1.1.1 | 2021-04-23 |  |  |  |  |
 | 2.1.1.1 | 2021-04-23 |  |  |  |  |
 | 2.1 | 2021-04-22 |  |  |  |  |
+| 2.0 | 2021-04-22 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -54,7 +55,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-24 07:34:27
+Generated: 2026-02-24 22:30:56
 
 ## Ratings Verlauf
 
@@ -62,12 +63,12 @@ Generated: 2026-02-24 07:34:27
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["8.0.2", "8.1", "8.2.5", "9.1"]
-  y-axis "Elo Rating" 3000 --> 3300
-  line "STC (8.0+0.08s)" [3050, 3053, 3051, 3083]
-  line "STC (8.0+0.08s)" [3050, 3053, 3051, 3083]
-  line "LTC (60.0+0.60s)" [3158, 3150, 3162, 3193]
-  line "VLTC (2m24s+1.12s)" [3180, 3180, 3183, 3202]
-  line "VLTC (2m24s+1.12s)" [3180, 3180, 3183, 3202]
+  y-axis "Elo Rating" 3300 --> 3600
+  line "STC (8.0+0.08s)" [3380, 3386, 3383, 3426]
+  line "STC (8.0+0.08s)" [3380, 3386, 3383, 3426]
+  line "LTC (60.0+0.60s)" [3526, 3517, 3533, 3575]
+  line "VLTC (2m24s+1.12s)" [3557, 3557, 3560, 3587]
+  line "VLTC (2m24s+1.12s)" [3557, 3557, 3560, 3587]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
