@@ -8,7 +8,7 @@ Home: https://github.com/princesslana/princhess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.21.0 | 2025-10-13 | 2673<sub>(+new) | 2861<sub>(+new) | 2879<sub>(+new) |  |
+| 0.21.0 | 2025-10-13 | 2873<sub>(+new) | 3128<sub>(+new) | 3151<sub>(+new) |  |
 | 0.20.0 | 2025-03-05 |  |  |  |  |
 | 0.19.0 | 2024-09-29 |  |  |  |  |
 | 0.18.0 | 2024-07-09 |  |  |  |  |
@@ -40,6 +40,7 @@ Home: https://github.com/princesslana/princhess
 | 0.0.6 | 2021-08-14 |  |  |  |  |
 | 0.0.5 | 2021-08-14 |  |  |  |  |
 | 0.0.4 | 2021-08-14 |  |  |  |  |
+| 0.0.3 | 2021-08-13 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -53,4 +54,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-24 07:38:20
+Generated: 2026-02-24 22:38:44
