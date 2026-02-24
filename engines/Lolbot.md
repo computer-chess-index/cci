@@ -8,10 +8,11 @@ Home: https://github.com/loldot/lolbot
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.2.3 | 2025-12-08 | 2093<sub>(+37) | 2243<sub>(-17) | 2318<sub>(+30) |  |
-| 0.2.2 | 2025-11-29 | 2056<sub>(+51) | 2260<sub>(+58) | 2288<sub>(-16) |  |
-| 0.2.1 | 2025-11-16 | 2005<sub>(-53) | 2202<sub>(-20) | 2304<sub>(-39) |  |
-| 0.2 | 2025-11-15 | 2058<sub>(+new) | 2222<sub>(+new) | 2343<sub>(+new) |  |
+| 0.2.3 | 2025-12-08 | 2088<sub>(+49) | 2295<sub>(-20) | 2392<sub>(+39) |  |
+| 0.2.2 | 2025-11-29 | 2039<sub>(+69) | 2315<sub>(+79) | 2353<sub>(-20) |  |
+| 0.2.1 | 2025-11-16 | 1970<sub>(-71) | 2236<sub>(-28) | 2373<sub>(-54) |  |
+| 0.2 | 2025-11-15 | 2041<sub>(+new) | 2264<sub>(+new) | 2427<sub>(+new) |  |
+| 0.1-alpha | 2025-03-29 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -25,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-24 07:36:04
+Generated: 2026-02-24 22:36:29
 
 ## Ratings Verlauf
 
@@ -33,12 +34,12 @@ Generated: 2026-02-24 07:36:04
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["0.2", "0.2.1", "0.2.2", "0.2.3"]
-  y-axis "Elo Rating" 2000 --> 2400
-  line "STC (8.0+0.08s)" [2058, 2005, 2056, 2093]
-  line "STC (8.0+0.08s)" [2058, 2005, 2056, 2093]
-  line "LTC (60.0+0.60s)" [2222, 2202, 2260, 2243]
-  line "VLTC (2m24s+1.12s)" [2343, 2304, 2288, 2318]
-  line "VLTC (2m24s+1.12s)" [2343, 2304, 2288, 2318]
+  y-axis "Elo Rating" 1900 --> 2500
+  line "STC (8.0+0.08s)" [2041, 1970, 2039, 2088]
+  line "STC (8.0+0.08s)" [2041, 1970, 2039, 2088]
+  line "LTC (60.0+0.60s)" [2264, 2236, 2315, 2295]
+  line "VLTC (2m24s+1.12s)" [2427, 2373, 2353, 2392]
+  line "VLTC (2m24s+1.12s)" [2427, 2373, 2353, 2392]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
