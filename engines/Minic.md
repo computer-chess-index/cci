@@ -10,7 +10,7 @@ Home: https://github.com/tryingsomestuff/Minic
 | --- | --- | --- | --- | --- | --- |
 | 3.44 | 2025-05-17 |  |  |  |  |
 | 3.43 | 2025-04-09 |  |  |  |  |
-| 3.41 | 2024-01-18 | 2770<sub>(+new) | 2994<sub>(+new) | 3043<sub>(+new) |  |
+| 3.41 | 2024-01-18 | 3002<sub>(+new) | 3305<sub>(+new) | 3372<sub>(+new) |  |
 | 3.40 | 2024-01-14 |  |  |  |  |
 | 3.39 | 2023-10-29 |  |  |  |  |
 | 3.38 | 2023-06-17 |  |  |  |  |
@@ -116,6 +116,7 @@ Home: https://github.com/tryingsomestuff/Minic
 | 0.28 | 2018-12-25 |  |  |  |  |
 | 0.26 | 2018-12-22 |  |  |  |  |
 | 0.25 | 2018-12-20 |  |  |  |  |
+| 0.20 | 2018-11-27 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -129,4 +130,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-24 07:36:27
+Generated: 2026-02-24 22:36:48
