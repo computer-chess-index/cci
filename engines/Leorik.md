@@ -8,7 +8,7 @@ Home: https://github.com/lithander/Leorik
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.2 | 2026-01-06 | 840<sub>(+new) | 847<sub>(+new) | 853<sub>(+new) |  |
+| 3.2 | 2026-01-06 | 397<sub>(+new) | 406<sub>(+new) | 414<sub>(+new) |  |
 | 3.1 | 2025-04-06 |  |  |  |  |
 | 3.0 | 2024-02-05 |  |  |  |  |
 | 2.5 | 2023-09-27 |  |  |  |  |
@@ -17,6 +17,7 @@ Home: https://github.com/lithander/Leorik
 | 2.2 | 2022-07-16 |  |  |  |  |
 | 2.1 | 2022-05-30 |  |  |  |  |
 | 2.0 | 2022-03-11 |  |  |  |  |
+| 1.0 | 2022-02-19 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -30,4 +31,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-24 07:35:54
+Generated: 2026-02-24 22:36:25
