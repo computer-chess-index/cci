@@ -8,12 +8,13 @@ Home: https://github.com/Alex2262/AltairChessEngine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7.0.0 | 2024-02-17 | 2919<sub>(+new) | 3062<sub>(+new) | 3075<sub>(+new) |  |
+| 7.0.0 | 2024-02-17 | 3204<sub>(+new) | 3398<sub>(+new) | 3416<sub>(+new) |  |
 | 6.0.0 | 2023-12-05 |  |  |  |  |
 | 5.0.0 | 2023-09-24 |  |  |  |  |
 | 4.0.0 | 2023-07-10 |  |  |  |  |
 | 3.0.0 | 2023-05-28 |  |  |  |  |
 | 2.0.0 | 2023-04-02 |  |  |  |  |
+| 1.0.0 | 2022-10-22 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -27,4 +28,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-24 07:33:31
+Generated: 2026-02-24 22:29:03
