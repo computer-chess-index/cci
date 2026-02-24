@@ -8,11 +8,11 @@ Home: https://github.com/Witek902/Caissa
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.24 | 2025-12-03 | 3092<sub>(+6) | 3194<sub>(+8) | 3203<sub>(-4) |  |
-| 1.23 | 2025-08-21 | 3086<sub>(+12) | 3186<sub>(+3) | 3207<sub>(+13) |  |
-| 1.22 | 2025-04-30 | 3074<sub>(+5) | 3183<sub>(+6) | 3194<sub>(-8) |  |
-| 1.21 | 2024-10-27 | 3069<sub>(+6) | 3177<sub>(+14) | 3202<sub>(-2) |  |
-| 1.20 | 2024-07-28 | 3063<sub>(+new) | 3163<sub>(+new) | 3204<sub>(+new) |  |
+| 1.24 | 2025-12-03 | 3437<sub>(+7) | 3576<sub>(+12) | 3588<sub>(-6) |  |
+| 1.23 | 2025-08-21 | 3430<sub>(+16) | 3564<sub>(+3) | 3594<sub>(+18) |  |
+| 1.22 | 2025-04-30 | 3414<sub>(+7) | 3561<sub>(+8) | 3576<sub>(-11) |  |
+| 1.21 | 2024-10-27 | 3407<sub>(+8) | 3553<sub>(+19) | 3587<sub>(-3) |  |
+| 1.20 | 2024-07-28 | 3399<sub>(+new) | 3534<sub>(+new) | 3590<sub>(+new) |  |
 | 1.19 | 2024-06-23 |  |  |  |  |
 | 1.18 | 2024-04-02 |  |  |  |  |
 | 1.17 | 2024-02-12 |  |  |  |  |
@@ -41,6 +41,7 @@ Home: https://github.com/Witek902/Caissa
 | 0.5 | 2022-03-16 |  |  |  |  |
 | 0.4 | 2021-11-12 |  |  |  |  |
 | 0.3 | 2021-11-03 |  |  |  |  |
+| 0.2 | 2021-10-28 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -54,7 +55,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-24 07:34:06
+Generated: 2026-02-24 22:30:25
 
 ## Ratings Verlauf
 
@@ -62,12 +63,12 @@ Generated: 2026-02-24 07:34:06
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["1.20", "1.21", "1.22", "1.23", "1.24"]
-  y-axis "Elo Rating" 3000 --> 3300
-  line "STC (8.0+0.08s)" [3063, 3069, 3074, 3086, 3092]
-  line "STC (8.0+0.08s)" [3063, 3069, 3074, 3086, 3092]
-  line "LTC (60.0+0.60s)" [3163, 3177, 3183, 3186, 3194]
-  line "VLTC (2m24s+1.12s)" [3204, 3202, 3194, 3207, 3203]
-  line "VLTC (2m24s+1.12s)" [3204, 3202, 3194, 3207, 3203]
+  y-axis "Elo Rating" 3300 --> 3600
+  line "STC (8.0+0.08s)" [3399, 3407, 3414, 3430, 3437]
+  line "STC (8.0+0.08s)" [3399, 3407, 3414, 3430, 3437]
+  line "LTC (60.0+0.60s)" [3534, 3553, 3561, 3564, 3576]
+  line "VLTC (2m24s+1.12s)" [3590, 3587, 3576, 3594, 3588]
+  line "VLTC (2m24s+1.12s)" [3590, 3587, 3576, 3594, 3588]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
