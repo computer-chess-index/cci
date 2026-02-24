@@ -10,6 +10,7 @@ Home: https://github.com/kfeske/Priessnitz
 | --- | --- | --- | --- | --- | --- |
 | 2.0.1 | 2026-01-21 |  |  |  | Virustotal detections |
 | 2.0 | 2024-11-03 |  |  |  |  |
+| 1.0 | 2024-09-25 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -23,4 +24,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-24 07:38:18
+Generated: 2026-02-24 22:38:40
