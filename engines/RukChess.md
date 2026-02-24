@@ -8,7 +8,7 @@ Home: https://github.com/Ilya-Ruk/RukChess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.2.0 | 2026-01-11 | 2661<sub>(+new) | 2894<sub>(+new) | 2935<sub>(+new) |  |
+| 4.2.0 | 2026-01-11 | 2861<sub>(+new) | 3171<sub>(+new) | 3225<sub>(+new) |  |
 | 4.1.0 | 2025-06-08 |  |  |  |  |
 | 4.0.2 | 2025-02-15 |  |  |  |  |
 | 4.0.1 | 2024-12-19 |  |  |  |  |
@@ -20,6 +20,7 @@ Home: https://github.com/Ilya-Ruk/RukChess
 | 3.0.15 | 2023-02-05 |  |  |  |  |
 | 3.0.13 | 2023-01-01 |  |  |  |  |
 | 3.0.12 | 2022-12-29 |  |  |  |  |
+| 3.0 | 2022-09-06 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -33,4 +34,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-24 07:39:26
+Generated: 2026-02-24 22:40:33
