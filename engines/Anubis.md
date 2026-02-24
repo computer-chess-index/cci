@@ -8,7 +8,7 @@ Home: https://github.com/Lacovipo/Anubis-chess-engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.6 | 2025-10-02 | 2399<sub>(+new) | 2766<sub>(+new) | 2836<sub>(+new) |  |
+| 3.0.6 | 2025-10-02 | 2502<sub>(+new) | 2997<sub>(+new) | 3092<sub>(+new) |  |
 | 3.04 | 2025-09-21 |  |  |  |  |
 | 3.03 | 2025-08-31 |  |  |  |  |
 | 3.02 | 2025-08-24 |  |  |  |  |
@@ -16,6 +16,7 @@ Home: https://github.com/Lacovipo/Anubis-chess-engine
 | 3.0_red | 2025-08-05 |  |  |  |  |
 | 2.0 | 2025-08-05 |  |  |  |  |
 | 1.0 | 2025-08-05 |  |  |  |  |
+| pre-1.0 | 2025-08-05 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -29,4 +30,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-24 07:33:41
+Generated: 2026-02-24 22:29:32
