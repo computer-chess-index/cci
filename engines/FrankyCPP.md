@@ -11,6 +11,7 @@ Home: https://github.com/frankkopp/FrankyCPP
 | 1.3.0 | 2026-02-20 |  |  |  | Could not init |
 | 1.2.0 | 2026-02-14 |  |  |  | Could not init |
 | 1.1 | 2026-02-07 |  |  |  | Could not init |
+| 1.0.0 | 2026-01-31 |  |  |  | Could not init |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -24,4 +25,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-24 07:34:56
+Generated: 2026-02-24 22:34:20
