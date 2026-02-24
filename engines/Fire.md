@@ -8,8 +8,8 @@ Home: https://github.com/Firefather/fire
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 10.0 | 2025-08-09 | 2914<sub>(+3) | 3083<sub>(+7) | 3118<sub>(+3) |  |
-| 9.3 | 2024-03-10 | 2911<sub>(+new) | 3076<sub>(+new) | 3115<sub>(+new) |  |
+| 10.0 | 2025-08-09 | 3197<sub>(+4) | 3425<sub>(+8) | 3472<sub>(+2) |  |
+| 9.3 | 2024-03-10 | 3193<sub>(+new) | 3417<sub>(+new) | 3470<sub>(+new) |  |
 | 9.2 | 2023-11-12 |  |  |  |  |
 | 9.1 | 2023-11-08 |  |  |  |  |
 | 9.0 | 2023-06-05 |  |  |  |  |
@@ -24,6 +24,7 @@ Home: https://github.com/Firefather/fire
 | 08222022 | 2022-08-23 |  |  |  |  |
 | 08132022 | 2022-08-14 |  |  |  |  |
 | 08072022 | 2022-08-10 |  |  |  |  |
+| 08032022 | 2022-08-04 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -37,7 +38,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-24 07:34:51
+Generated: 2026-02-24 22:33:53
 
 ## Ratings Verlauf
 
@@ -45,12 +46,12 @@ Generated: 2026-02-24 07:34:51
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["9.3", "10.0"]
-  y-axis "Elo Rating" 2900 --> 3200
-  line "STC (8.0+0.08s)" [2911, 2914]
-  line "STC (8.0+0.08s)" [2911, 2914]
-  line "LTC (60.0+0.60s)" [3076, 3083]
-  line "VLTC (2m24s+1.12s)" [3115, 3118]
-  line "VLTC (2m24s+1.12s)" [3115, 3118]
+  y-axis "Elo Rating" 3100 --> 3500
+  line "STC (8.0+0.08s)" [3193, 3197]
+  line "STC (8.0+0.08s)" [3193, 3197]
+  line "LTC (60.0+0.60s)" [3417, 3425]
+  line "VLTC (2m24s+1.12s)" [3470, 3472]
+  line "VLTC (2m24s+1.12s)" [3470, 3472]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
