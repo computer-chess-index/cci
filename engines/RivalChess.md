@@ -17,6 +17,7 @@ Home: https://github.com/chris-moreton/rivalchess-uci
 | 31.0.5-1 | 2020-09-12 |  |  |  |  |
 | 31.0.4-1 | 2020-09-11 |  |  |  |  |
 | 31.0.2-1 | 2020-09-11 |  |  |  |  |
+| 31.0.0 | 2020-09-09 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -30,4 +31,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-24 07:39:01
+Generated: 2026-02-24 22:40:21
