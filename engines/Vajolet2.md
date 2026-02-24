@@ -8,7 +8,7 @@ Home: https://github.com/elcabesa/vajolet
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0 | 2025-12-21 | 2606<sub>(+new) | 2798<sub>(+new) | 2854<sub>(+new) |  |
+| 3.0 | 2025-12-21 | 2782<sub>(+new) | 3042<sub>(+new) | 3114<sub>(+new) |  |
 | 2.8 | 2019-11-01 |  |  |  |  |
 | 2.7 | 2019-04-03 |  |  |  |  |
 | 2.6.2 | 2018-11-30 |  |  |  |  |
@@ -16,6 +16,7 @@ Home: https://github.com/elcabesa/vajolet
 | 2.6 | 2018-06-26 |  |  |  |  |
 | 2.5 | 2018-01-25 |  |  |  |  |
 | 2.4 | 2017-11-19 |  |  |  |  |
+| 2.3 | 2017-02-28 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -29,4 +30,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-24 07:41:44
+Generated: 2026-02-24 22:42:05
