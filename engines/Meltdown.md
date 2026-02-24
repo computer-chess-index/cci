@@ -8,7 +8,7 @@ Home: https://github.com/hansbinderup/meltdown-chess-engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.11 | 2025-11-15 | 2574<sub>(+new) | 2690<sub>(+new) | 2735<sub>(+new) |  |
+| 1.11 | 2025-11-15 | 2738<sub>(+new) | 2896<sub>(+new) | 2957<sub>(+new) |  |
 | 1.10 | 2025-07-27 |  |  |  |  |
 | 1.9 | 2025-07-10 |  |  |  |  |
 | 1.8 | 2025-06-19 |  |  |  |  |
@@ -20,6 +20,7 @@ Home: https://github.com/hansbinderup/meltdown-chess-engine
 | 1.3 | 2025-04-21 |  |  |  |  |
 | 1.2 | 2025-03-30 |  |  |  |  |
 | 1.1 | 2025-03-16 |  |  |  |  |
+| 1.0 | 2025-03-16 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -33,4 +34,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-24 07:36:21
+Generated: 2026-02-24 22:36:42
