@@ -10,7 +10,7 @@ Home: https://github.com/yunusemreyldz07/SoloEngine
 | --- | --- | --- | --- | --- | --- |
 | 1.4.0 | 2026-02-07 | 1886<sub>(+104) | 2107<sub>(+59) | 2226<sub>(+104) |  |
 | 1.3.1 | 2026-02-01 | 1782<sub>(-19) | 2048<sub>(+13) | 2122<sub>(+38) |  |
-| 1.2.2 | 2026-01-23 |  |  |  |  |
+| 1.2.2 | 2026-01-23 | 1801 | 2035 | 2084 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-24 21:41:01
+Generated: 2026-02-24 21:42:23
 
 ## Ratings Verlauf
 
