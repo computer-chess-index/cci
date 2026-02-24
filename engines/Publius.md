@@ -8,7 +8,7 @@ Home: https://github.com/nescitus/publius
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1 | 2025-12-31 | 2405<sub>(-273) | 2638<sub>(-240) | 2676<sub>(-221) |  |
+| 1.1 | 2025-12-31 | 2405<sub>(-277) | 2642<sub>(-240) | 2678<sub>(-223) |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -22,7 +22,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-23 06:25:49
+Generated: 2026-02-24 07:38:28
 
 ## Ratings Verlauf
 
@@ -30,12 +30,12 @@ Generated: 2026-02-23 06:25:49
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["1.0", "1.1"]
-  y-axis "Elo Rating" 2400 --> 2900
-  line "STC (8.0+0.08s)" [2678, 2405]
-  line "STC (8.0+0.08s)" [2678, 2405]
-  line "LTC (60.0+0.60s)" [2878, 2638]
-  line "VLTC (2m24s+1.12s)" [2897, 2676]
-  line "VLTC (2m24s+1.12s)" [2897, 2676]
+  y-axis "Elo Rating" 2400 --> 3000
+  line "STC (8.0+0.08s)" [2682, 2405]
+  line "STC (8.0+0.08s)" [2682, 2405]
+  line "LTC (60.0+0.60s)" [2882, 2642]
+  line "VLTC (2m24s+1.12s)" [2901, 2678]
+  line "VLTC (2m24s+1.12s)" [2901, 2678]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
