@@ -8,10 +8,10 @@ Home: https://github.com/jszczerbinsky/zeppelin
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.2.0 | 2026-02-09 | 1586<sub>(+74) | 1821<sub>(+101) | 1989<sub>(+142) |  |
-| 1.1.0 | 2026-02-03 | 1512<sub>(+339) | 1720<sub>(+126) | 1847<sub>(+193) |  |
-| 1.0.0 | 2026-02-01 | 1173<sub>(-38) | 1594<sub>(+163) | 1654<sub>(+115) |  |
-| 0.2.0 | 2025-11-16 | 1211<sub>(+new) | 1431<sub>(+new) | 1539<sub>(+new) |  |
+| 1.2.0 | 2026-02-09 | 1722<sub>(+55) | 1903<sub>(+82) | 2024<sub>(+108) |  |
+| 1.1.0 | 2026-02-03 | 1667<sub>(+251) | 1821<sub>(+92) | 1916<sub>(+143) |  |
+| 1.0.0 | 2026-02-01 | 1416<sub>(-29) | 1729<sub>(+122) | 1773<sub>(+85) |  |
+| 0.2.0 | 2025-11-16 | 1445<sub>(+new) | 1607<sub>(+new) | 1688<sub>(+new) |  |
 | 0.1.1 | 2025-10-12 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-23 06:27:34
+Generated: 2026-02-24 07:42:02
 
 ## Ratings Verlauf
 
@@ -34,12 +34,12 @@ Generated: 2026-02-23 06:27:34
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["0.2.0", "1.0.0", "1.1.0", "1.2.0"]
-  y-axis "Elo Rating" 1100 --> 2000
-  line "STC (8.0+0.08s)" [1211, 1173, 1512, 1586]
-  line "STC (8.0+0.08s)" [1211, 1173, 1512, 1586]
-  line "LTC (60.0+0.60s)" [1431, 1594, 1720, 1821]
-  line "VLTC (2m24s+1.12s)" [1539, 1654, 1847, 1989]
-  line "VLTC (2m24s+1.12s)" [1539, 1654, 1847, 1989]
+  y-axis "Elo Rating" 1400 --> 2100
+  line "STC (8.0+0.08s)" [1445, 1416, 1667, 1722]
+  line "STC (8.0+0.08s)" [1445, 1416, 1667, 1722]
+  line "LTC (60.0+0.60s)" [1607, 1729, 1821, 1903]
+  line "VLTC (2m24s+1.12s)" [1688, 1773, 1916, 2024]
+  line "VLTC (2m24s+1.12s)" [1688, 1773, 1916, 2024]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
