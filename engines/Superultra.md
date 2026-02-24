@@ -9,7 +9,7 @@ Home: https://github.com/A1exL1ang/Superultra
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 2.1 | 2025-04-10 |  |  |  |  |
-| 2.0 | 2024-02-02 | 2833<sub>(+new) | 3017<sub>(+new) | 3068<sub>(+new) |  |
+| 2.0 | 2024-02-02 | 2837<sub>(+new) | 3022<sub>(+new) | 3072<sub>(+new) |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -23,4 +23,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-23 06:26:53
+Generated: 2026-02-24 07:40:59
