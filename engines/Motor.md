@@ -8,14 +8,15 @@ Home: https://github.com/martinnovaak/motor
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.9.0 | 2025-06-02 | 3050<sub>(+11) | 3167<sub>(+14) | 3193<sub>(+16) |  |
-| 0.8.0 | 2024-10-28 | 3039<sub>(+new) | 3153<sub>(+new) | 3177<sub>(+new) |  |
+| 0.9.0 | 2025-06-02 | 3382<sub>(+15) | 3538<sub>(+19) | 3575<sub>(+22) |  |
+| 0.8.0 | 2024-10-28 | 3367<sub>(+new) | 3519<sub>(+new) | 3553<sub>(+new) |  |
 | 0.7.0 | 2024-08-11 |  |  |  |  |
-| 0.60 | 2024-06-30 | 2955<sub>(+new) | 3104<sub>(+new) | 3124<sub>(+new) |  |
+| 0.60 | 2024-06-30 | 3254<sub>(+new) | 3455<sub>(+new) | 3482<sub>(+new) |  |
 | 0.5.0 | 2024-05-23 |  |  |  |  |
 | 0.4.0 | 2024-04-18 |  |  |  |  |
 | 0.3.0 | 2024-03-30 |  |  |  |  |
 | 0.2.0 | 2024-03-09 |  |  |  |  |
+| 0.1.0 | 2024-02-18 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -29,7 +30,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-24 07:36:31
+Generated: 2026-02-24 22:36:54
 
 ## Ratings Verlauf
 
@@ -37,12 +38,12 @@ Generated: 2026-02-24 07:36:31
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["0.60", "0.8.0", "0.9.0"]
-  y-axis "Elo Rating" 2900 --> 3200
-  line "STC (8.0+0.08s)" [2955, 3039, 3050]
-  line "STC (8.0+0.08s)" [2955, 3039, 3050]
-  line "LTC (60.0+0.60s)" [3104, 3153, 3167]
-  line "VLTC (2m24s+1.12s)" [3124, 3177, 3193]
-  line "VLTC (2m24s+1.12s)" [3124, 3177, 3193]
+  y-axis "Elo Rating" 3200 --> 3600
+  line "STC (8.0+0.08s)" [3254, 3367, 3382]
+  line "STC (8.0+0.08s)" [3254, 3367, 3382]
+  line "LTC (60.0+0.60s)" [3455, 3519, 3538]
+  line "VLTC (2m24s+1.12s)" [3482, 3553, 3575]
+  line "VLTC (2m24s+1.12s)" [3482, 3553, 3575]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
