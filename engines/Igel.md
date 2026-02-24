@@ -8,8 +8,8 @@ Home: https://github.com/vshcherbyna/igel
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.6.0 | 2024-12-28 | 2938<sub>(+15) | 3100<sub>(+2) | 3139<sub>(+14) |  |
-| 3.5.0 | 2023-06-22 | 2923<sub>(+new) | 3098<sub>(+new) | 3125<sub>(+new) |  |
+| 3.6.0 | 2024-12-28 | 3229<sub>(+20) | 3448<sub>(+1) | 3502<sub>(+19) |  |
+| 3.5.0 | 2023-06-22 | 3209<sub>(+new) | 3447<sub>(+new) | 3483<sub>(+new) |  |
 | 3.4.0 | 2023-01-30 |  |  |  |  |
 | 3.3.0 | 2023-01-15 |  |  |  |  |
 | 3.2.0 | 2022-12-17 |  |  |  |  |
@@ -45,6 +45,7 @@ Home: https://github.com/vshcherbyna/igel
 | 1.3 | 2019-03-05 |  |  |  |  |
 | 1.2 | 2018-08-05 |  |  |  |  |
 | 1.1 | 2018-07-03 |  |  |  |  |
+| 0.8 | 2018-06-30 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -58,7 +59,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-24 07:35:30
+Generated: 2026-02-24 22:35:52
 
 ## Ratings Verlauf
 
@@ -66,12 +67,12 @@ Generated: 2026-02-24 07:35:30
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["3.5.0", "3.6.0"]
-  y-axis "Elo Rating" 2900 --> 3200
-  line "STC (8.0+0.08s)" [2923, 2938]
-  line "STC (8.0+0.08s)" [2923, 2938]
-  line "LTC (60.0+0.60s)" [3098, 3100]
-  line "VLTC (2m24s+1.12s)" [3125, 3139]
-  line "VLTC (2m24s+1.12s)" [3125, 3139]
+  y-axis "Elo Rating" 3200 --> 3600
+  line "STC (8.0+0.08s)" [3209, 3229]
+  line "STC (8.0+0.08s)" [3209, 3229]
+  line "LTC (60.0+0.60s)" [3447, 3448]
+  line "VLTC (2m24s+1.12s)" [3483, 3502]
+  line "VLTC (2m24s+1.12s)" [3483, 3502]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
