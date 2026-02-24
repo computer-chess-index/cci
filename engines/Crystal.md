@@ -8,14 +8,14 @@ Home: https://github.com/jhellis3/Stockfish
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9 | 2025-05-09 | 3112<sub>(+new) | 3214<sub>(+new) | 3238<sub>(+new) |  |
+| 9 | 2025-05-09 | 3116<sub>(+new) | 3218<sub>(+new) | 3241<sub>(+new) |  |
 | 8 | 2024-04-05 |  |  |  |  |
 | 8 | 2024-04-05 |  |  |  |  |
 | 7 | 2023-11-09 |  |  |  |  |
 | 7 | 2023-11-09 |  |  |  |  |
 | 6 | 2023-05-14 |  |  |  |  |
 | 6 | 2023-05-14 |  |  |  |  |
-| 5 | 2022-11-05 | 3076<sub>(+new) | 3180<sub>(+new) | 3196<sub>(+new) |  |
+| 5 | 2022-11-05 | 3080<sub>(+new) | 3184<sub>(+new) | 3200<sub>(+new) |  |
 | 4.1 | 2022-07-03 |  |  |  |  |
 | 4.0 | 2021-12-25 |  |  |  |  |
 | 4.0 | 2021-12-25 |  |  |  |  |
@@ -50,7 +50,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-23 06:23:16
+Generated: 2026-02-24 06:23:15
 
 ## Ratings Verlauf
 
@@ -59,11 +59,11 @@ Generated: 2026-02-23 06:23:16
 xychart-beta
   x-axis ["5", "9"]
   y-axis "Elo Rating" 3000 --> 3300
-  line "STC (8.0+0.08s)" [3076, 3112]
-  line "STC (8.0+0.08s)" [3076, 3112]
-  line "LTC (60.0+0.60s)" [3180, 3214]
-  line "VLTC (2m24s+1.12s)" [3196, 3238]
-  line "VLTC (2m24s+1.12s)" [3196, 3238]
+  line "STC (8.0+0.08s)" [3080, 3116]
+  line "STC (8.0+0.08s)" [3080, 3116]
+  line "LTC (60.0+0.60s)" [3184, 3218]
+  line "VLTC (2m24s+1.12s)" [3200, 3241]
+  line "VLTC (2m24s+1.12s)" [3200, 3241]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
