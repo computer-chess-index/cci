@@ -8,7 +8,7 @@ Home: https://github.com/rglenister/natto
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.1.9 | 2025-09-06 | 1627<sub>(+new) | 1887<sub>(+new) | 1989<sub>(+new) |  |
+| 0.1.9 | 2025-09-06 | 1749<sub>(+new) | 1946<sub>(+new) | 2019<sub>(+new) |  |
 | 1.0.0 | 2025-07-27 |  |  |  |  |
 | 0.1.8 | 2025-06-22 |  |  |  |  |
 | 0.1.7 | 2025-06-01 |  |  |  |  |
@@ -27,4 +27,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-23 06:25:06
+Generated: 2026-02-24 07:36:45
