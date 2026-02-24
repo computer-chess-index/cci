@@ -8,9 +8,9 @@ Home: https://github.com/Nonlinear2/Bread-Engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1.1 | 2025-12-22 | 2799<sub>(+new) | 2951<sub>(+new) | 2988<sub>(+new) |  |
+| 2.1.1 | 2025-12-22 | 3042<sub>(+new) | 3248<sub>(+new) | 3297<sub>(+new) |  |
 | 2.1.0 | 2025-12-21 |  |  |  | always disconnects |
-| 2.0.0 | 2025-10-18 | 2700<sub>(+new) | 2889<sub>(+new) | 2915<sub>(+new) |  |
+| 2.0.0 | 2025-10-18 | 2909<sub>(+new) | 3163<sub>(+new) | 3198<sub>(+new) |  |
 | 1.6.0 | 2025-08-26 |  |  |  |  |
 | 1.5.0 | 2025-07-13 |  |  |  |  |
 | 1.4.0 | 2025-05-05 |  |  |  |  |
@@ -27,6 +27,7 @@ Home: https://github.com/Nonlinear2/Bread-Engine
 | 0.0.4 | 2024-06-18 |  |  |  |  |
 | 0.0.3 | 2024-06-10 |  |  |  |  |
 | 0.0.2 | 2024-06-08 |  |  |  |  |
+| 0.0.1 | 2024-06-05 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -40,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-24 07:34:02
+Generated: 2026-02-24 22:30:19
 
 ## Ratings Verlauf
 
@@ -48,12 +49,12 @@ Generated: 2026-02-24 07:34:02
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["2.0.0", "2.1.1"]
-  y-axis "Elo Rating" 2700 --> 3000
-  line "STC (8.0+0.08s)" [2700, 2799]
-  line "STC (8.0+0.08s)" [2700, 2799]
-  line "LTC (60.0+0.60s)" [2889, 2951]
-  line "VLTC (2m24s+1.12s)" [2915, 2988]
-  line "VLTC (2m24s+1.12s)" [2915, 2988]
+  y-axis "Elo Rating" 2900 --> 3300
+  line "STC (8.0+0.08s)" [2909, 3042]
+  line "STC (8.0+0.08s)" [2909, 3042]
+  line "LTC (60.0+0.60s)" [3163, 3248]
+  line "VLTC (2m24s+1.12s)" [3198, 3297]
+  line "VLTC (2m24s+1.12s)" [3198, 3297]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
