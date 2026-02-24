@@ -8,8 +8,8 @@ Home: https://github.com/brunocodutra/cinder
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.4.1 | 2025-12-05 | 3067<sub>(+38) | 3152<sub>(-2) | 3171<sub>(-18) |  |
-| 0.4.0 | 2025-12-04 | 3029<sub>(+new) | 3154<sub>(+new) | 3189<sub>(+new) |  |
+| 0.4.1 | 2025-12-05 | 3403<sub>(+50) | 3519<sub>(-3) | 3545<sub>(-23) |  |
+| 0.4.0 | 2025-12-04 | 3353<sub>(+new) | 3522<sub>(+new) | 3568<sub>(+new) |  |
 | 0.3.1 | 2025-08-16 |  |  |  |  |
 | 0.3.0 | 2025-08-16 |  |  |  |  |
 | 0.2.0 | 2025-05-29 |  |  |  |  |
@@ -17,6 +17,7 @@ Home: https://github.com/brunocodutra/cinder
 | 0.1.3 | 2025-02-28 |  |  |  |  |
 | 0.1.2 | 2025-02-25 |  |  |  |  |
 | 0.1.1 | 2025-02-23 |  |  |  |  |
+| 0.1.0 | 2025-02-23 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -30,7 +31,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-24 07:34:23
+Generated: 2026-02-24 22:30:50
 
 ## Ratings Verlauf
 
@@ -38,12 +39,12 @@ Generated: 2026-02-24 07:34:23
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["0.4.0", "0.4.1"]
-  y-axis "Elo Rating" 3000 --> 3200
-  line "STC (8.0+0.08s)" [3029, 3067]
-  line "STC (8.0+0.08s)" [3029, 3067]
-  line "LTC (60.0+0.60s)" [3154, 3152]
-  line "VLTC (2m24s+1.12s)" [3189, 3171]
-  line "VLTC (2m24s+1.12s)" [3189, 3171]
+  y-axis "Elo Rating" 3300 --> 3600
+  line "STC (8.0+0.08s)" [3353, 3403]
+  line "STC (8.0+0.08s)" [3353, 3403]
+  line "LTC (60.0+0.60s)" [3522, 3519]
+  line "VLTC (2m24s+1.12s)" [3568, 3545]
+  line "VLTC (2m24s+1.12s)" [3568, 3545]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
