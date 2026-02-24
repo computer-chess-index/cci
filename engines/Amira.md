@@ -8,10 +8,11 @@ Home: https://github.com/FauziAkram/amira
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.82 | 2026-01-02 | 2299<sub>(+94) | 2456<sub>(+69) | 2535<sub>(+119) |  |
-| 1.71 | 2025-10-30 | 2205<sub>(+new) | 2387<sub>(+new) | 2416<sub>(+new) |  |
+| 1.82 | 2026-01-02 | 2368<sub>(+128) | 2579<sub>(+94) | 2682<sub>(+157) |  |
+| 1.71 | 2025-10-30 | 2240<sub>(+new) | 2485<sub>(+new) | 2525<sub>(+new) |  |
 | 1.61 | 2025-09-08 |  |  |  |  |
 | 1.4 | 2025-07-24 |  |  |  |  |
+| 1.00 | 2025-06-29 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -25,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-24 07:33:33
+Generated: 2026-02-24 22:29:06
 
 ## Ratings Verlauf
 
@@ -33,12 +34,12 @@ Generated: 2026-02-24 07:33:33
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["1.71", "1.82"]
-  y-axis "Elo Rating" 2200 --> 2600
-  line "STC (8.0+0.08s)" [2205, 2299]
-  line "STC (8.0+0.08s)" [2205, 2299]
-  line "LTC (60.0+0.60s)" [2387, 2456]
-  line "VLTC (2m24s+1.12s)" [2416, 2535]
-  line "VLTC (2m24s+1.12s)" [2416, 2535]
+  y-axis "Elo Rating" 2200 --> 2700
+  line "STC (8.0+0.08s)" [2240, 2368]
+  line "STC (8.0+0.08s)" [2240, 2368]
+  line "LTC (60.0+0.60s)" [2485, 2579]
+  line "VLTC (2m24s+1.12s)" [2525, 2682]
+  line "VLTC (2m24s+1.12s)" [2525, 2682]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
