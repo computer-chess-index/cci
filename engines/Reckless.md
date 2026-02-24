@@ -8,13 +8,14 @@ Home: https://github.com/codedeliveryservice/Reckless
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.8.0 | 2025-08-30 | 3128<sub>(+new) | 3214<sub>(+new) | 3224<sub>(+new) |  |
+| 0.8.0 | 2025-08-30 | 3487<sub>(+new) | 3603<sub>(+new) | 3617<sub>(+new) |  |
 | 0.7.0 | 2024-08-23 |  |  |  |  |
 | 0.6.0 | 2024-03-21 |  |  |  |  |
 | 0.5.0 | 2024-02-04 |  |  |  |  |
 | 0.4.0 | 2023-12-13 |  |  |  |  |
 | 0.3.0 | 2023-11-05 |  |  |  |  |
 | 0.2.0 | 2023-10-06 |  |  |  |  |
+| 0.1.0 | 2023-05-16 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -28,4 +29,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-24 07:38:52
+Generated: 2026-02-24 22:40:07
