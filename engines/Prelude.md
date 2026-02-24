@@ -8,8 +8,9 @@ Home: https://github.com/Quinniboi10/Prelude
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1 | 2025-12-10 | 2839<sub>(+new) | 2997<sub>(+new) | 3021<sub>(+new) |  |
+| 2.1 | 2025-12-10 | 3096<sub>(+new) | 3310<sub>(+new) | 3343<sub>(+new) |  |
 | 2.0 | 2025-03-24 |  |  |  |  |
+| 1.0 | 2025-02-04 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -23,4 +24,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-24 07:38:16
+Generated: 2026-02-24 22:38:38
