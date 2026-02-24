@@ -8,7 +8,7 @@ Home: https://github.com/Matthies/RubiChess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 20240817 | 2024-08-17 | 3053<sub>(+new) | 3161<sub>(+new) | 3186<sub>(+new) |  |
+| 20240817 | 2024-08-17 | 3386<sub>(+new) | 3532<sub>(+new) | 3564<sub>(+new) |  |
 | 20240112 | 2024-01-12 |  |  |  |  |
 | 20230918 | 2023-09-18 |  |  |  |  |
 | 20230410 | 2023-04-11 |  |  |  |  |
@@ -43,6 +43,7 @@ Home: https://github.com/Matthies/RubiChess
 | 0.7-graham | 2018-01-06 |  |  |  |  |
 | 0.6 | 2017-11-26 |  |  |  |  |
 | 0.5 | 2017-09-29 |  |  |  |  |
+| 0.4 | 2017-08-04 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -56,4 +57,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-24 07:39:11
+Generated: 2026-02-24 22:40:28
