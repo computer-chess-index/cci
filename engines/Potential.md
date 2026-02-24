@@ -8,7 +8,7 @@ Home: https://github.com/ProgramciDusunur/Potential
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.0 | 2025-08-28 | 2461<sub>(+new) | 2692<sub>(+new) | 2752<sub>(+new) |  |
+| 3.0.0 | 2025-08-28 | 2464<sub>(+new) | 2696<sub>(+new) | 2756<sub>(+new) |  |
 | 2.0.0 | 2025-04-08 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -23,4 +23,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-23 06:25:33
+Generated: 2026-02-24 07:38:12
