@@ -8,13 +8,13 @@ Home: https://github.com/LeelaChessZero/lc0
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.32.1 | 2025-11-23 | 2376<sub>(+new) | 2829<sub>(+new) | 2927<sub>(+new) |  |
+| 0.32.1 | 2025-11-23 | 2472<sub>(+new) | 3083<sub>(+new) | 3216<sub>(+new) |  |
 | 0.32.0 | 2025-08-21 |  |  |  |  |
 | 0.31.2 | 2024-10-20 |  |  |  |  |
 | 0.31.1 | 2024-08-11 |  |  |  |  |
 | 0.31.0 | 2024-06-16 |  |  |  |  |
 | 0.30.0 | 2023-07-21 |  |  |  |  |
-| 0.29.0 | 2022-12-13 | 2349<sub>(+new) | 2799<sub>(+new) | 2970<sub>(+new) |  |
+| 0.29.0 | 2022-12-13 | 2434<sub>(+new) | 3043<sub>(+new) | 3272<sub>(+new) |  |
 | 0.28.2 | 2021-12-13 |  |  |  |  |
 | 0.28.0 | 2021-08-25 |  |  |  |  |
 | 0.27.0 | 2021-02-21 |  |  |  |  |
@@ -45,6 +45,7 @@ Home: https://github.com/LeelaChessZero/lc0
 | 0.18.1 | 2018-10-02 |  |  |  |  |
 | 0.18.0 | 2018-09-30 |  |  |  |  |
 | 0.17.0 | 2018-08-27 |  |  |  |  |
+| 0.16.0 | 2018-07-20 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -58,7 +59,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-24 07:35:52
+Generated: 2026-02-24 22:36:22
 
 ## Ratings Verlauf
 
@@ -66,12 +67,12 @@ Generated: 2026-02-24 07:35:52
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["0.29.0", "0.32.1"]
-  y-axis "Elo Rating" 2300 --> 3000
-  line "STC (8.0+0.08s)" [2349, 2376]
-  line "STC (8.0+0.08s)" [2349, 2376]
-  line "LTC (60.0+0.60s)" [2799, 2829]
-  line "VLTC (2m24s+1.12s)" [2970, 2927]
-  line "VLTC (2m24s+1.12s)" [2970, 2927]
+  y-axis "Elo Rating" 2400 --> 3300
+  line "STC (8.0+0.08s)" [2434, 2472]
+  line "STC (8.0+0.08s)" [2434, 2472]
+  line "LTC (60.0+0.60s)" [3043, 3083]
+  line "VLTC (2m24s+1.12s)" [3272, 3216]
+  line "VLTC (2m24s+1.12s)" [3272, 3216]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
