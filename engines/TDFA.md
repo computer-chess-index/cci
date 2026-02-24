@@ -10,6 +10,7 @@ Home: https://github.com/TiltedDFA/TDFA
 | --- | --- | --- | --- | --- | --- |
 | 2.0 | 2026-01-17 |  |  |  | Could not init |
 | 1.1 | 2024-02-01 |  |  |  |  |
+| 1.0 | 2024-01-22 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -23,4 +24,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-24 07:41:14
+Generated: 2026-02-24 22:41:37
