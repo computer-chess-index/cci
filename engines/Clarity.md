@@ -8,8 +8,8 @@ Home: https://github.com/Vast342/Clarity
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 8.0.0 | 2025-07-09 | 2979<sub>(-22) | 3128<sub>(+17) | 3130<sub>(-17) |  |
-| 8.0.0 | 2025-07-09 | 3001<sub>(+new) | 3111<sub>(+new) | 3147<sub>(+new) |  |
+| 8.0.0 | 2025-07-09 | 3286<sub>(-28) | 3487<sub>(+23) | 3488<sub>(-25) |  |
+| 8.0.0 | 2025-07-09 | 3314<sub>(+new) | 3464<sub>(+new) | 3513<sub>(+new) |  |
 | 7.2.0 | 2024-07-01 |  |  |  |  |
 | 7.1.0 | 2024-06-23 |  |  |  |  |
 | 7.0.0 | 2024-06-09 |  |  |  |  |
@@ -21,6 +21,7 @@ Home: https://github.com/Vast342/Clarity
 | 3.0.0 | 2023-12-09 |  |  |  |  |
 | 2.0.0 | 2023-11-05 |  |  |  |  |
 | 1.0.1 | 2023-10-17 |  |  |  |  |
+| 1.0.0 | 2023-10-16 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -34,7 +35,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-24 07:34:25
+Generated: 2026-02-24 22:30:52
 
 ## Ratings Verlauf
 
@@ -42,12 +43,12 @@ Generated: 2026-02-24 07:34:25
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["8.0.0", "8.0.0"]
-  y-axis "Elo Rating" 2900 --> 3200
-  line "STC (8.0+0.08s)" [2979, 3001]
-  line "STC (8.0+0.08s)" [2979, 3001]
-  line "LTC (60.0+0.60s)" [3128, 3111]
-  line "VLTC (2m24s+1.12s)" [3130, 3147]
-  line "VLTC (2m24s+1.12s)" [3130, 3147]
+  y-axis "Elo Rating" 3200 --> 3600
+  line "STC (8.0+0.08s)" [3286, 3314]
+  line "STC (8.0+0.08s)" [3286, 3314]
+  line "LTC (60.0+0.60s)" [3487, 3464]
+  line "VLTC (2m24s+1.12s)" [3488, 3513]
+  line "VLTC (2m24s+1.12s)" [3488, 3513]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
