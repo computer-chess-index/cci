@@ -8,11 +8,11 @@ Home: https://github.com/tcheran-chess/tcheran
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 11.0 | 2026-02-13 | 2978<sub>(+72) | 3104<sub>(+64) | 3126<sub>(+41) |  |
-| 10.0 | 2025-12-28 | 2906<sub>(+86) | 3040<sub>(+95) | 3085<sub>(+103) |  |
-| 9.0 | 2025-12-08 | 2820<sub>(+59) | 2945<sub>(+36) | 2982<sub>(+37) |  |
-| 8.0 | 2025-11-27 | 2761<sub>(+131) | 2909<sub>(+109) | 2945<sub>(+92) |  |
-| 7.0 | 2025-11-07 | 2630<sub>(+new) | 2800<sub>(+new) | 2853<sub>(+new) |  |
+| 11.0 | 2026-02-13 | 3286<sub>(+100) | 3455<sub>(+87) | 3483<sub>(+54) |  |
+| 10.0 | 2025-12-28 | 3186<sub>(+116) | 3368<sub>(+129) | 3429<sub>(+139) |  |
+| 9.0 | 2025-12-08 | 3070<sub>(+78) | 3239<sub>(+49) | 3290<sub>(+51) |  |
+| 8.0 | 2025-11-27 | 2992<sub>(+179) | 3190<sub>(+146) | 3239<sub>(+123) |  |
+| 7.0 | 2025-11-07 | 2813<sub>(+new) | 3044<sub>(+new) | 3116<sub>(+new) |  |
 | 6.0 | 2025-10-21 |  |  |  |  |
 | 5.1 | 2025-01-01 |  |  |  |  |
 | 5.0 | 2024-12-05 |  |  |  |  |
@@ -26,6 +26,7 @@ Home: https://github.com/tcheran-chess/tcheran
 | 2.1 | 2024-01-25 |  |  |  |  |
 | 2.0 | 2024-01-18 |  |  |  |  |
 | 1.1 | 2024-01-08 |  |  |  |  |
+| 1.0 | 2023-12-07 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -39,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-24 07:41:12
+Generated: 2026-02-24 22:41:34
 
 ## Ratings Verlauf
 
@@ -47,12 +48,12 @@ Generated: 2026-02-24 07:41:12
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["7.0", "8.0", "9.0", "10.0", "11.0"]
-  y-axis "Elo Rating" 2600 --> 3200
-  line "STC (8.0+0.08s)" [2630, 2761, 2820, 2906, 2978]
-  line "STC (8.0+0.08s)" [2630, 2761, 2820, 2906, 2978]
-  line "LTC (60.0+0.60s)" [2800, 2909, 2945, 3040, 3104]
-  line "VLTC (2m24s+1.12s)" [2853, 2945, 2982, 3085, 3126]
-  line "VLTC (2m24s+1.12s)" [2853, 2945, 2982, 3085, 3126]
+  y-axis "Elo Rating" 2800 --> 3500
+  line "STC (8.0+0.08s)" [2813, 2992, 3070, 3186, 3286]
+  line "STC (8.0+0.08s)" [2813, 2992, 3070, 3186, 3286]
+  line "LTC (60.0+0.60s)" [3044, 3190, 3239, 3368, 3455]
+  line "VLTC (2m24s+1.12s)" [3116, 3239, 3290, 3429, 3483]
+  line "VLTC (2m24s+1.12s)" [3116, 3239, 3290, 3429, 3483]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
