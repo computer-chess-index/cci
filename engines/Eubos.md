@@ -8,8 +8,8 @@ Home: https://github.com/cjbolt/EubosChess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.3 | 2026-01-29 | 2136<sub>(-46) | 2412<sub>(+32) | 2469<sub>(-4) |  |
-| 4.2 | 2025-10-16 | 2182<sub>(+new) | 2380<sub>(+new) | 2473<sub>(+new) |  |
+| 4.3 | 2026-01-29 | 2147<sub>(-62) | 2519<sub>(+42) | 2597<sub>(-4) |  |
+| 4.2 | 2025-10-16 | 2209<sub>(+new) | 2477<sub>(+new) | 2601<sub>(+new) |  |
 | 4.1 | 2025-08-23 |  |  |  |  |
 | 4.0 | 2025-04-13 |  |  |  |  |
 | 3.9 | 2025-03-25 |  |  |  |  |
@@ -65,6 +65,7 @@ Home: https://github.com/cjbolt/EubosChess
 | 1.0.4 | 2020-02-22 |  |  |  |  |
 | 1.0.3 | 2020-02-04 |  |  |  |  |
 | 1.0.2 | 2020-01-28 |  |  |  |  |
+| 1.0.1 | 2020-01-27 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -78,7 +79,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-24 07:34:49
+Generated: 2026-02-24 22:32:52
 
 ## Ratings Verlauf
 
@@ -86,12 +87,12 @@ Generated: 2026-02-24 07:34:49
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["4.2", "4.3"]
-  y-axis "Elo Rating" 2100 --> 2500
-  line "STC (8.0+0.08s)" [2182, 2136]
-  line "STC (8.0+0.08s)" [2182, 2136]
-  line "LTC (60.0+0.60s)" [2380, 2412]
-  line "VLTC (2m24s+1.12s)" [2473, 2469]
-  line "VLTC (2m24s+1.12s)" [2473, 2469]
+  y-axis "Elo Rating" 2100 --> 2700
+  line "STC (8.0+0.08s)" [2209, 2147]
+  line "STC (8.0+0.08s)" [2209, 2147]
+  line "LTC (60.0+0.60s)" [2477, 2519]
+  line "VLTC (2m24s+1.12s)" [2601, 2597]
+  line "VLTC (2m24s+1.12s)" [2601, 2597]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
