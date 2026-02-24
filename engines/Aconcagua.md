@@ -8,9 +8,9 @@ Home: https://github.com/gabtar/aconcagua
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 5.0.0 | 2026-01-25 | 2183<sub>(+151) | 2401<sub>(+141) | 2402<sub>(+59) |  |
-| 4.1.0 | 2025-12-14 | 2032<sub>(+40) | 2260<sub>(+58) | 2343<sub>(+46) |  |
-| 4.0.0 | 2025-11-09 | 1992<sub>(+new) | 2202<sub>(+new) | 2297<sub>(+new) |  |
+| 5.0.0 | 2026-01-25 | 2213<sub>(+207) | 2504<sub>(+189) | 2506<sub>(+80) |  |
+| 4.1.0 | 2025-12-14 | 2006<sub>(+54) | 2315<sub>(+79) | 2426<sub>(+61) |  |
+| 4.0.0 | 2025-11-09 | 1952<sub>(+new) | 2236<sub>(+new) | 2365<sub>(+new) |  |
 | 3.4.0 | 2025-10-04 |  |  |  |  |
 | 3.3.0 | 2025-09-14 |  |  |  |  |
 | 3.2.0 | 2025-08-31 |  |  |  |  |
@@ -19,6 +19,7 @@ Home: https://github.com/gabtar/aconcagua
 | 2.1.0 | 2025-06-28 |  |  |  |  |
 | 2.0.0 | 2025-05-31 |  |  |  |  |
 | 1.1.0 | 2025-05-17 |  |  |  |  |
+| 1.0.0 | 2025-05-17 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -32,7 +33,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-24 07:33:24
+Generated: 2026-02-24 22:28:46
 
 ## Ratings Verlauf
 
@@ -40,12 +41,12 @@ Generated: 2026-02-24 07:33:24
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["4.0.0", "4.1.0", "5.0.0"]
-  y-axis "Elo Rating" 1900 --> 2500
-  line "STC (8.0+0.08s)" [1992, 2032, 2183]
-  line "STC (8.0+0.08s)" [1992, 2032, 2183]
-  line "LTC (60.0+0.60s)" [2202, 2260, 2401]
-  line "VLTC (2m24s+1.12s)" [2297, 2343, 2402]
-  line "VLTC (2m24s+1.12s)" [2297, 2343, 2402]
+  y-axis "Elo Rating" 1900 --> 2600
+  line "STC (8.0+0.08s)" [1952, 2006, 2213]
+  line "STC (8.0+0.08s)" [1952, 2006, 2213]
+  line "LTC (60.0+0.60s)" [2236, 2315, 2504]
+  line "VLTC (2m24s+1.12s)" [2365, 2426, 2506]
+  line "VLTC (2m24s+1.12s)" [2365, 2426, 2506]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
