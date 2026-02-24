@@ -8,7 +8,7 @@ Home: https://github.com/lynx-chess/Lynx
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.11.0 | 2025-10-01 | 2681<sub>(+new) | 2907<sub>(+new) | 2955<sub>(+new) |  |
+| 1.11.0 | 2025-10-01 | 2880<sub>(+new) | 3189<sub>(+new) | 3251<sub>(+new) |  |
 | 1.10.0 | 2025-06-29 |  |  |  |  |
 | 1.9.1 | 2025-04-05 |  |  |  |  |
 | 1.9.0 | 2025-03-11 |  |  |  |  |
@@ -51,6 +51,7 @@ Home: https://github.com/lynx-chess/Lynx
 | 0.2.2 | 2021-08-18 |  |  |  |  |
 | 0.2.1 | 2021-08-05 |  |  |  |  |
 | 0.2.0 | 2021-07-29 |  |  |  |  |
+| 0.1.0 | 2021-07-21 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -64,4 +65,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-24 07:36:16
+Generated: 2026-02-24 22:36:36
