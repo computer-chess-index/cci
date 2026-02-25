@@ -1,6 +1,6 @@
 # CCI Ratings (ELO VLTC Ranking)
 
-Generated: 2026-02-24 22:28:43
+Generated: 2026-02-25 06:21:02
 
 | Engine | Version | Published | Author | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -8,18 +8,18 @@ Generated: 2026-02-24 22:28:43
 | <sub><a href="https://github.com/jhellis3/Stockfish" target="_blank">Crystal</a> | <sub>9 | <sub>2025-05-09 | <sub>Joseph Ellis | <sub>3471 | <sub>3609 | <sub>3640 |
 | <sub><a href="https://github.com/gab8192/Obsidian" target="_blank">Obsidian</a> | <sub>16.0 | <sub>2025-05-21 | <sub>Gabriele Lombardo | <sub>3484 | <sub>3600 | <sub>3625 |
 | <sub><a href="https://github.com/PGG106/Alexandria" target="_blank">Alexandria</a> | <sub>8.1.12 | <sub>2025-11-09 | <sub>PGG106 | <sub>3471 | <sub>3587 | <sub>3622 |
-| <sub><a href="https://github.com/codedeliveryservice/Reckless" target="_blank">Reckless</a> | <sub>0.8.0 | <sub>2025-08-30 | <sub>Arseniy Surkov | <sub>3487 | <sub>3603 | <sub>3617 |
-| <sub>Sugar | <sub>2.50 | <sub>2021-11-15 | <sub> | <sub>3443 | <sub>3578 | <sub>3602 |
+| <sub><a href="https://github.com/codedeliveryservice/Reckless" target="_blank">Reckless</a> | <sub>0.8.0 | <sub>2025-08-30 | <sub>Arseniy Surkov | <sub>3486 | <sub>3603 | <sub>3617 |
+| <sub>Sugar | <sub>2.50 | <sub>2021-11-15 | <sub> | <sub>3441 | <sub>3578 | <sub>3602 |
 | <sub><a href="https://github.com/Bobingstern/Tarnished" target="_blank">Tarnished</a> | <sub>5.0 | <sub>2026-02-07 | <sub>Anik Patel | <sub>3406 | <sub>3565 | <sub>3600 |
+| <sub><a href="https://github.com/cosmobobak/viridithas" target="_blank">Viridithas</a> | <sub>19.0.1 | <sub>2026-01-06 | <sub>Cosmo Bobak | <sub>3441 | <sub>3578 | <sub>3598 |
 | <sub><a href="https://github.com/Yoshie2000/PlentyChess" target="_blank">PlentyChess</a> | <sub>7.0.0 | <sub>2025-09-25 | <sub>Patrick Leonhardt | <sub>3606 | <sub>3637 | <sub>3598 |
 | <sub><a href="https://github.com/Ciekce/Stormphrax" target="_blank">Stormphrax</a> | <sub>7.0.0 | <sub>2025-06-24 | <sub>Ciekce | <sub>3395 | <sub>3559 | <sub>3598 |
-| <sub><a href="https://github.com/cosmobobak/viridithas" target="_blank">Viridithas</a> | <sub>19.0.1 | <sub>2026-01-06 | <sub>Cosmo Bobak | <sub>3441 | <sub>3578 | <sub>3598 |
 | <sub><a href="https://github.com/jhonnold/berserk" target="_blank">Berserk</a> | <sub>13 | <sub>2024-03-31 | <sub>Jay Honnold | <sub>1612 | <sub>3568 | <sub>3594 |
-| <sub><a href="https://github.com/KierenP/Halogen" target="_blank">Halogen</a> | <sub>16.0.0 | <sub>2026-02-10 | <sub>Kieren Pearson | <sub>3418 | <sub>3571 | <sub>3591 |
-| <sub><a href="https://github.com/JonathanHallstrom/pawnocchio" target="_blank">Pawnocchio</a> | <sub>1.9.2 | <sub>2026-01-15 | <sub>Jonathan Hallström | <sub>3421 | <sub>3579 | <sub>3590 |
-| <sub><a href="https://github.com/Witek902/Caissa" target="_blank">Caissa</a> | <sub>1.24 | <sub>2025-12-03 | <sub>Michał Witanowski | <sub>3437 | <sub>3576 | <sub>3588 |
+| <sub><a href="https://github.com/KierenP/Halogen" target="_blank">Halogen</a> | <sub>16.0.0 | <sub>2026-02-10 | <sub>Kieren Pearson | <sub>3417 | <sub>3571 | <sub>3591 |
+| <sub><a href="https://github.com/JonathanHallstrom/pawnocchio" target="_blank">Pawnocchio</a> | <sub>1.9.2 | <sub>2026-01-15 | <sub>Jonathan Hallström | <sub>3420 | <sub>3579 | <sub>3590 |
+| <sub><a href="https://github.com/Witek902/Caissa" target="_blank">Caissa</a> | <sub>1.24 | <sub>2025-12-03 | <sub>Michał Witanowski | <sub>3437 | <sub>3575 | <sub>3588 |
 | <sub><a href="https://github.com/lucametehau/CloverEngine" target="_blank">Clover</a> | <sub>9.1 | <sub>2025-09-14 | <sub>Luca Metehau | <sub>3426 | <sub>3575 | <sub>3587 |
-| <sub><a href="https://github.com/aronpetko/integral" target="_blank">Integral</a> | <sub>7.0 | <sub>2025-02-14 | <sub>Aron Petkovski | <sub>3410 | <sub>3564 | <sub>3586 |
+| <sub><a href="https://github.com/aronpetko/integral" target="_blank">Integral</a> | <sub>7.0 | <sub>2025-02-14 | <sub>Aron Petkovski | <sub>3411 | <sub>3564 | <sub>3584 |
 | <sub><a href="https://github.com/Quanticade/Quanticade" target="_blank">Quanticade</a> | <sub>3.0 | <sub>2025-12-15 | <sub>Martin Botka | <sub>3387 | <sub>3557 | <sub>3583 |
 | <sub><a href="https://github.com/martinnovaak/motor" target="_blank">Motor</a> | <sub>0.9.0 | <sub>2025-06-02 | <sub>Martin Novák | <sub>3382 | <sub>3538 | <sub>3575 |
 | <sub><a href="https://github.com/liamt19/Horsie" target="_blank">Horsie</a> | <sub>1.1 | <sub>2025-05-13 | <sub>Liam McGuire | <sub>3397 | <sub>3542 | <sub>3572 |
@@ -43,13 +43,14 @@ Generated: 2026-02-24 22:28:43
 | <sub><a href="https://github.com/Luecx/Koivisto" target="_blank">Koivisto</a> | <sub>9.0 | <sub>2023-01-15 | <sub>Finn Eggers | <sub>3316 | <sub>3463 | <sub>3501 |
 | <sub><a href="https://github.com/Vast342/Clarity" target="_blank">Clarity</a> | <sub>8.0.0 | <sub>2025-07-09 | <sub>Joseph Pasfield | <sub>3286 | <sub>3487 | <sub>3488 |
 | <sub><a href="https://github.com/tcheran-chess/tcheran" target="_blank">Tcheran</a> | <sub>11.0 | <sub>2026-02-13 | <sub>Jonathan Gilchrist | <sub>3286 | <sub>3455 | <sub>3483 |
-| <sub><a href="https://github.com/Carbecq/Zangdar" target="_blank">Zangdar</a> | <sub>6.1 | <sub>2026-02-10 | <sub>Carbecq | <sub>3190 | <sub>3416 | <sub>3475 |
+| <sub><a href="https://github.com/Carbecq/Zangdar" target="_blank">Zangdar</a> | <sub>6.1 | <sub>2026-02-10 | <sub>Carbecq | <sub>3190 | <sub>3414 | <sub>3475 |
 | <sub><a href="https://github.com/Firefather/fire" target="_blank">Fire</a> | <sub>10.0 | <sub>2025-08-09 | <sub>Norman Schmidt | <sub>3197 | <sub>3425 | <sub>3472 |
 | <sub><a href="https://github.com/nocturn9x/heimdall" target="_blank">Heimdall</a> | <sub>1.4.2 | <sub>2025-09-25 | <sub>Mattia Giambirtone | <sub>3155 | <sub>3407 | <sub>3467 |
 | <sub><a href="https://github.com/jnlt3/blackmarlin" target="_blank">Blackmarlin</a> | <sub>9.0 | <sub>2024-02-28 | <sub>Doruk Sekercioglu | <sub>3231 | <sub>3424 | <sub>3460 |
 | <sub><a href="https://github.com/jw1912/akimbo" target="_blank">Akimbo</a> | <sub>1.0.0 | <sub>2024-05-26 | <sub>Jamie Whiting | <sub>3208 | <sub>3395 | <sub>3436 |
 | <sub><a href="https://github.com/enfmarinho/Minke" target="_blank">Minke</a> | <sub>5.0.0 | <sub>2026-02-13 | <sub>Eduardo Marinho | <sub>3178 | <sub>3349 | <sub>3432 |
 | <sub><a href="https://github.com/Alex2262/AltairChessEngine" target="_blank">Altair</a> | <sub>7.0.0 | <sub>2024-02-17 | <sub>Alexander Tian | <sub>3204 | <sub>3398 | <sub>3416 |
+| <sub><a href="https://github.com/tgirolami09/Prune" target="_blank">Prune</a> | <sub>3.2.1 | <sub>2026-02-24 | <sub>Thomas Girolami | <sub> | <sub> | <sub>3414 |
 | <sub><a href="https://github.com/yukarichess/yukari" target="_blank">Yukari</a> | <sub>2025.11.1 | <sub>2025-10-31 | <sub>Yukari Chess | <sub>3166 | <sub>3363 | <sub>3411 |
 | <sub><a href="https://github.com/oozturk777/ynode" target="_blank">Ynode</a> | <sub>0219 | <sub>2025-11-16 | <sub>oozturk777 | <sub>3193 | <sub>3366 | <sub>3410 |
 | <sub><a href="https://github.com/Synthetica9/lunar" target="_blank">Lunar</a> | <sub>0.4.0 | <sub>2025-09-23 | <sub>Patrick Hilhorst | <sub>2884 | <sub>3270 | <sub>3407 |
@@ -65,8 +66,8 @@ Generated: 2026-02-24 22:28:43
 | <sub><a href="https://github.com/Wind-Eagle/Quirky" target="_blank">Quirky</a> | <sub>2.1 | <sub>2025-11-25 | <sub>Anton Kernozhitsky | <sub>2998 | <sub>3232 | <sub>3287 |
 | <sub>ChessSystemTal | <sub>Extreme | <sub>2026-01-07 | <sub>Chris Wittington | <sub>2979 | <sub>3212 | <sub>3259 |
 | <sub><a href="https://github.com/lynx-chess/Lynx" target="_blank">Lynx</a> | <sub>1.11.0 | <sub>2025-10-01 | <sub>Eduardo Caceres | <sub>2880 | <sub>3189 | <sub>3251 |
-| <sub><a href="https://github.com/Spinojara/bitbit" target="_blank">Bitbit</a> | <sub>1.6 | <sub>2025-10-18 | <sub>Isak Ellmer | <sub>2957 | <sub>3186 | <sub>3240 |
 | <sub><a href="https://github.com/akanalytics/odonata" target="_blank">Odonata</a> | <sub>1.1.0 | <sub>2026-02-07 | <sub>Andy Watkins | <sub>2881 | <sub>3197 | <sub>3240 |
+| <sub><a href="https://github.com/Spinojara/bitbit" target="_blank">Bitbit</a> | <sub>1.6 | <sub>2025-10-18 | <sub>Isak Ellmer | <sub>2957 | <sub>3186 | <sub>3240 |
 | <sub><a href="https://github.com/saisree27/Maelstrom" target="_blank">Maelstrom</a> | <sub>3.3.0 | <sub>2025-08-27 | <sub>Saigautam Bonam | <sub>2780 | <sub>3104 | <sub>3227 |
 | <sub><a href="https://github.com/Ilya-Ruk/RukChess" target="_blank">RukChess</a> | <sub>4.2.0 | <sub>2026-01-11 | <sub>Ilya Rukavishnikov | <sub>2861 | <sub>3171 | <sub>3225 |
 | <sub><a href="https://github.com/AleksPeshkov/petrel" target="_blank">Petrel</a> | <sub>3.3.1 | <sub>2026-02-10 | <sub>Aleks Peshkov | <sub>2969 | <sub>3189 | <sub>3220 |
@@ -136,8 +137,8 @@ Generated: 2026-02-24 22:28:43
 | <sub>Eeyore | <sub>1.52 | <sub>2010-11-01 | <sub>Anton Maydell | <sub>2034 | <sub>2291 | <sub>2364 |
 | <sub><a href="https://github.com/jswaff/chess4j" target="_blank">chess4j</a> | <sub>6.2 | <sub>2025-09-16 | <sub>James Swafford | <sub>1887 | <sub>2241 | <sub>2329 |
 | <sub><a href="https://github.com/chris-moreton/rusty-rival" target="_blank">RustyRival</a> | <sub>1.0.29 | <sub>2026-02-10 | <sub>Chris Moreton | <sub>1952 | <sub>2206 | <sub>2325 |
-| <sub><a href="https://github.com/lunbun/fktb" target="_blank">Fktb</a> | <sub>0.0.77 | <sub>2026-01-18 | <sub>Landon Peng | <sub>1920 | <sub>2202 | <sub>2268 |
 | <sub><a href="https://github.com/yunusemreyldz07/SoloEngine" target="_blank">SoloEngine</a> | <sub>1.4.0 | <sub>2026-02-07 | <sub>Yunus Emre Yıldız | <sub>1809 | <sub>2106 | <sub>2268 |
+| <sub><a href="https://github.com/lunbun/fktb" target="_blank">Fktb</a> | <sub>0.0.77 | <sub>2026-01-18 | <sub>Landon Peng | <sub>1920 | <sub>2202 | <sub>2268 |
 | <sub><a href="https://github.com/ZlomenyMesic/Kreveta" target="_blank">Kreveta</a> | <sub>2.2.3 | <sub>2026-02-05 | <sub>Daniel Michna | <sub>1850 | <sub>2168 | <sub>2263 |
 | <sub><a href="https://github.com/P1X3R/zugblitz" target="_blank">Zugblitz</a> | <sub>1.3.1 | <sub>2026-01-10 | <sub> | <sub>1910 | <sub>2192 | <sub>2228 |
 | <sub><a href="https://github.com/sgtqwq/Gecko" target="_blank">Gecko</a> | <sub>0.08 | <sub>2026-02-05 | <sub>Bingwen Yang | <sub>1920 | <sub>2115 | <sub>2190 |
