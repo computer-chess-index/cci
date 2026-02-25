@@ -1,3 +1,9 @@
+<div align="center">
+  <img width="256" height="256" alt="CCI_Logo" src="https://github.com/user-attachments/assets/e0aabc97-5a9e-41ca-881a-87245c99bea3" />
+</div>
+
+
+
 # The Computer Chess Index (CCI)
 
 A growing reference list and documentation project for computer chess engines.
