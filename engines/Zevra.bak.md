@@ -27,6 +27,7 @@ Home: https://github.com/sovaz1997/Zevra
 | 1.2.1_r290 | 2016-12-04 |  |  |  |  |
 | 1.2_r246 | 2016-11-20 |  |  |  |  |
 | 1.1_b227 | 2016-11-13 |  |  |  |  |
+| 1.0 | 2016-11-06 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -40,4 +41,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-24 07:42:04
+Generated: 2026-02-25 06:37:06
