@@ -91,4 +91,8 @@ structured, and long-term effort to make sense of the evolving field of computer
 
 ## ✉️ Contact
 
-computer-chess-index (at) proton.me
+Leave me a note in <a href="https://github.com/computer-chess-index/cci/discussions" target="_blank">discussions</a>
+
+or
+
+mail to: computer-chess-index (at) proton.me
