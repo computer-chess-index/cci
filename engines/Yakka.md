@@ -8,7 +8,7 @@ Home: https://github.com/CJDalrymple/Yakka
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.5 | 2026-01-22 | 2812<sub>(+109) | 3093<sub>(+127) | 3166<sub>(+158) |  |
+| 1.5 | 2026-01-22 | 2812<sub>(+109) | 3094<sub>(+128) | 3166<sub>(+158) |  |
 | 1.4 | 2025-11-11 | 2703<sub>(+new) | 2966<sub>(+new) | 3008<sub>(+new) |  |
 | 1.3 | 2025-08-10 |  |  |  |  |
 | 1.2 | 2025-02-11 |  |  |  |  |
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-25 06:34:48
+Generated: 2026-02-26 06:26:47
 
 ## Ratings Verlauf
 
@@ -38,7 +38,7 @@ xychart-beta
   y-axis "Elo Rating" 2700 --> 3200
   line "STC (8.0+0.08s)" [2703, 2812]
   line "STC (8.0+0.08s)" [2703, 2812]
-  line "LTC (60.0+0.60s)" [2966, 3093]
+  line "LTC (60.0+0.60s)" [2966, 3094]
   line "VLTC (2m24s+1.12s)" [3008, 3166]
   line "VLTC (2m24s+1.12s)" [3008, 3166]
 ```
