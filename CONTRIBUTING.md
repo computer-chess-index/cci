@@ -1,7 +1,20 @@
-There is so much to do, and any help is welcome.
+# Contributing to Computer Chess Index (CCI)
 
-Be it a more professional design for Pages, computing power or hardware, additional testing efforts, hosting, or financial support - there is so much to improve.
+Thank you for your interest in helping out! There is a lot to do, and every contribution is appreciated. Whether you have computing power, data, design ideas, or resources, your support helps CCI grow and improve.
 
-This contributing page is another example, I couldn't put much effort into it yet.
+## Ways to Contribute
 
-But at least there is some initial version of it now. The first step is always the hardest ;-)
+Here are some of the ways you can get involved:
+
+- **Data contributions**: Add new engines and versions.
+- **Data contributions**: Add old engines and versions.
+- **Testing & computation**: Run additional test series to be added.
+- **Design & Documentation**: Improve website pages, visuals, or explanatory content.  
+- **Hosting & Infrastructure**: Provide servers or cloud resources to run evaluations.  
+- **Financial Support**: Help cover hosting, hardware, or development costs.
+
+Even small contributions are valuable, and every bit helps the project move forward.
+
+---
+
+> This is an initial version of our contribution guide. Your help will make it stronger and more complete. The first step is always the hardest—thank you for taking it. 🙂
