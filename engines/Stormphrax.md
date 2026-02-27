@@ -8,9 +8,9 @@ Home: https://github.com/Ciekce/Stormphrax
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7.0.0 | 2025-06-24 | 3395<sub>(+52) | 3559<sub>(+41) | 3598<sub>(+49) |  |
-| 6.0.0 | 2024-10-29 | 3343<sub>(+98) | 3518<sub>(+75) | 3549<sub>(+69) |  |
-| 5.0.0 | 2024-06-26 | 3245<sub>(+new) | 3443<sub>(+new) | 3480<sub>(+new) |  |
+| 7.0.0 | 2025-06-24 | 3395<sub>(+54) | 3557<sub>(+39) | 3598<sub>(+50) |  |
+| 6.0.0 | 2024-10-29 | 3341<sub>(+96) | 3518<sub>(+75) | 3548<sub>(+69) |  |
+| 5.0.0 | 2024-06-26 | 3245<sub>(+new) | 3443<sub>(+new) | 3479<sub>(+new) |  |
 | 4.1.0 | 2024-03-11 |  |  |  |  |
 | 4.0.0 | 2023-12-17 |  |  |  |  |
 | 3.0.0 | 2023-11-02 |  |  |  |  |
@@ -29,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-26 06:26:12
+Generated: 2026-02-27 06:26:18
 
 ## Ratings Verlauf
 
@@ -38,11 +38,11 @@ Generated: 2026-02-26 06:26:12
 xychart-beta
   x-axis ["5.0.0", "6.0.0", "7.0.0"]
   y-axis "Elo Rating" 3200 --> 3600
-  line "STC (8.0+0.08s)" [3245, 3343, 3395]
-  line "STC (8.0+0.08s)" [3245, 3343, 3395]
-  line "LTC (60.0+0.60s)" [3443, 3518, 3559]
-  line "VLTC (2m24s+1.12s)" [3480, 3549, 3598]
-  line "VLTC (2m24s+1.12s)" [3480, 3549, 3598]
+  line "STC (8.0+0.08s)" [3245, 3341, 3395]
+  line "STC (8.0+0.08s)" [3245, 3341, 3395]
+  line "LTC (60.0+0.60s)" [3443, 3518, 3557]
+  line "VLTC (2m24s+1.12s)" [3479, 3548, 3598]
+  line "VLTC (2m24s+1.12s)" [3479, 3548, 3598]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
