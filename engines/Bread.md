@@ -10,7 +10,7 @@ Home: https://github.com/Nonlinear2/Bread-Engine
 | --- | --- | --- | --- | --- | --- |
 | 2.1.1 | 2025-12-22 | 3043<sub>(+new) | 3248<sub>(+new) | 3299<sub>(+new) |  |
 | 2.1.0 | 2025-12-21 |  |  |  | always disconnects |
-| 2.0.0 | 2025-10-18 | 2909<sub>(+new) | 3163<sub>(+new) | 3200<sub>(+new) |  |
+| 2.0.0 | 2025-10-18 | 2909<sub>(+new) | 3163<sub>(+new) | 3198<sub>(+new) |  |
 | 1.6.0 | 2025-08-26 |  |  |  |  |
 | 1.5.0 | 2025-07-13 |  |  |  |  |
 | 1.4.0 | 2025-05-05 |  |  |  |  |
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-26 06:22:39
+Generated: 2026-02-27 06:22:37
 
 ## Ratings Verlauf
 
@@ -53,8 +53,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [2909, 3043]
   line "STC (8.0+0.08s)" [2909, 3043]
   line "LTC (60.0+0.60s)" [3163, 3248]
-  line "VLTC (2m24s+1.12s)" [3200, 3299]
-  line "VLTC (2m24s+1.12s)" [3200, 3299]
+  line "VLTC (2m24s+1.12s)" [3198, 3299]
+  line "VLTC (2m24s+1.12s)" [3198, 3299]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
