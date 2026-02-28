@@ -8,8 +8,8 @@ Home: https://github.com/GyatsoYT/GyatsoChess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.2.0 | 2026-01-24 | 2160<sub>(+151) | 2488<sub>(+120) | 2565<sub>(+105) |  |
-| 1.1.0 | 2026-01-09 | 2009<sub>(+new) | 2368<sub>(+new) | 2460<sub>(+new) |  |
+| 1.2.0 | 2026-01-24 | 2159<sub>(+153) | 2487<sub>(+119) | 2565<sub>(+105) |  |
+| 1.1.0 | 2026-01-09 | 2006<sub>(+new) | 2368<sub>(+new) | 2460<sub>(+new) |  |
 | 1.0.0 | 2025-12-10 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-27 06:23:43
+Generated: 2026-02-28 06:23:35
 
 ## Ratings Verlauf
 
@@ -33,9 +33,9 @@ Generated: 2026-02-27 06:23:43
 xychart-beta
   x-axis ["1.1.0", "1.2.0"]
   y-axis "Elo Rating" 2000 --> 2600
-  line "STC (8.0+0.08s)" [2009, 2160]
-  line "STC (8.0+0.08s)" [2009, 2160]
-  line "LTC (60.0+0.60s)" [2368, 2488]
+  line "STC (8.0+0.08s)" [2006, 2159]
+  line "STC (8.0+0.08s)" [2006, 2159]
+  line "LTC (60.0+0.60s)" [2368, 2487]
   line "VLTC (2m24s+1.12s)" [2460, 2565]
   line "VLTC (2m24s+1.12s)" [2460, 2565]
 ```
