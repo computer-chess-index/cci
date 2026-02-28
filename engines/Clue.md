@@ -8,7 +8,7 @@ Home: https://github.com/fathzer-games/chesslib-uci-engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.0.4 | 2026-01-05 | 1574<sub>(+new) | 1836<sub>(+new) | 1917<sub>(+new) |  |
+| 0.0.4 | 2026-01-05 | 1573<sub>(+new) | 1835<sub>(+new) | 1916<sub>(+new) |  |
 | 0.0.2 | 2025-01-02 |  |  |  |  |
 | 0.0.1 | 2024-12-31 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -24,4 +24,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-27 06:23:03
+Generated: 2026-02-28 06:22:58
