@@ -10,11 +10,11 @@ Home: https://github.com/lucametehau/CloverEngine
 | --- | --- | --- | --- | --- | --- |
 | 9.1 | 2025-09-14 | 3425<sub>(+new) | 3576<sub>(+new) | 3586<sub>(+new) |  |
 | 9.0 | 2025-08-19 |  |  |  |  |
-| 8.2.5 | 2025-07-14 | 3383<sub>(+new) | 3532<sub>(+new) | 3560<sub>(+new) |  |
+| 8.2.5 | 2025-07-14 | 3382<sub>(+new) | 3532<sub>(+new) | 3560<sub>(+new) |  |
 | 8.2.1 | 2025-07-12 |  |  |  |  |
 | 8.2 | 2025-07-11 |  |  |  |  |
-| 8.1 | 2024-12-03 | 3386<sub>(+6) | 3515<sub>(-11) | 3556<sub>(0) |  |
-| 8.0.2 | 2024-09-05 | 3380<sub>(+new) | 3526<sub>(+new) | 3556<sub>(+new) |  |
+| 8.1 | 2024-12-03 | 3384<sub>(+5) | 3515<sub>(-11) | 3556<sub>(0) |  |
+| 8.0.2 | 2024-09-05 | 3379<sub>(+new) | 3526<sub>(+new) | 3556<sub>(+new) |  |
 | 8.0 | 2024-09-02 |  |  |  |  |
 | 7.1 | 2024-08-11 |  |  |  |  |
 | 7.0 | 2024-07-24 |  |  |  |  |
@@ -55,7 +55,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-28 06:22:56
+Generated: 2026-03-01 06:22:57
 
 ## Ratings Verlauf
 
@@ -64,8 +64,8 @@ Generated: 2026-02-28 06:22:56
 xychart-beta
   x-axis ["8.0.2", "8.1", "8.2.5", "9.1"]
   y-axis "Elo Rating" 3300 --> 3600
-  line "STC (8.0+0.08s)" [3380, 3386, 3383, 3425]
-  line "STC (8.0+0.08s)" [3380, 3386, 3383, 3425]
+  line "STC (8.0+0.08s)" [3379, 3384, 3382, 3425]
+  line "STC (8.0+0.08s)" [3379, 3384, 3382, 3425]
   line "LTC (60.0+0.60s)" [3526, 3515, 3532, 3576]
   line "VLTC (2m24s+1.12s)" [3556, 3556, 3560, 3586]
   line "VLTC (2m24s+1.12s)" [3556, 3556, 3560, 3586]
