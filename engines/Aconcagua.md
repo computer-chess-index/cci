@@ -8,8 +8,8 @@ Home: https://github.com/gabtar/aconcagua
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 5.0.0 | 2026-01-25 | 2209<sub>(+204) | 2502<sub>(+188) | 2506<sub>(+81) |  |
-| 4.1.0 | 2025-12-14 | 2005<sub>(+54) | 2314<sub>(+80) | 2425<sub>(+61) |  |
+| 5.0.0 | 2026-01-25 | 2207<sub>(+202) | 2502<sub>(+189) | 2504<sub>(+79) |  |
+| 4.1.0 | 2025-12-14 | 2005<sub>(+54) | 2313<sub>(+79) | 2425<sub>(+61) |  |
 | 4.0.0 | 2025-11-09 | 1951<sub>(+new) | 2234<sub>(+new) | 2364<sub>(+new) |  |
 | 3.4.0 | 2025-10-04 |  |  |  |  |
 | 3.3.0 | 2025-09-14 |  |  |  |  |
@@ -33,7 +33,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-28 06:22:04
+Generated: 2026-03-01 06:22:04
 
 ## Ratings Verlauf
 
@@ -42,11 +42,11 @@ Generated: 2026-02-28 06:22:04
 xychart-beta
   x-axis ["4.0.0", "4.1.0", "5.0.0"]
   y-axis "Elo Rating" 1900 --> 2600
-  line "STC (8.0+0.08s)" [1951, 2005, 2209]
-  line "STC (8.0+0.08s)" [1951, 2005, 2209]
-  line "LTC (60.0+0.60s)" [2234, 2314, 2502]
-  line "VLTC (2m24s+1.12s)" [2364, 2425, 2506]
-  line "VLTC (2m24s+1.12s)" [2364, 2425, 2506]
+  line "STC (8.0+0.08s)" [1951, 2005, 2207]
+  line "STC (8.0+0.08s)" [1951, 2005, 2207]
+  line "LTC (60.0+0.60s)" [2234, 2313, 2502]
+  line "VLTC (2m24s+1.12s)" [2364, 2425, 2504]
+  line "VLTC (2m24s+1.12s)" [2364, 2425, 2504]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
