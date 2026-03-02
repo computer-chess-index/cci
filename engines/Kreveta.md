@@ -8,8 +8,8 @@ Home: https://github.com/ZlomenyMesic/Kreveta
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.2.3 | 2026-02-05 | 1847<sub>(+35) | 2164<sub>(+47) | 2260<sub>(-7) |  |
-| 2.2.2 | 2026-01-13 | 1812<sub>(+183) | 2117<sub>(+88) | 2267<sub>(+125) |  |
+| 2.2.3 | 2026-02-05 | 1847<sub>(+35) | 2164<sub>(+47) | 2259<sub>(-6) |  |
+| 2.2.2 | 2026-01-13 | 1812<sub>(+183) | 2117<sub>(+88) | 2265<sub>(+123) |  |
 | 2.2.1 | 2025-12-25 | 1629<sub>(-44) | 2029<sub>(+51) | 2142<sub>(+21) |  |
 | 2.2.0 | 2025-12-23 | 1673<sub>(+22) | 1978<sub>(+49) | 2121<sub>(+85) |  |
 | 2.0.0 | 2025-12-01 | 1651<sub>(+109) | 1929<sub>(+142) | 2036<sub>(+154) |  |
@@ -30,7 +30,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-01 06:24:03
+Generated: 2026-03-02 06:24:15
 
 ## Ratings Verlauf
 
@@ -42,8 +42,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [1542, 1651, 1673, 1629, 1812, 1847]
   line "STC (8.0+0.08s)" [1542, 1651, 1673, 1629, 1812, 1847]
   line "LTC (60.0+0.60s)" [1787, 1929, 1978, 2029, 2117, 2164]
-  line "VLTC (2m24s+1.12s)" [1882, 2036, 2121, 2142, 2267, 2260]
-  line "VLTC (2m24s+1.12s)" [1882, 2036, 2121, 2142, 2267, 2260]
+  line "VLTC (2m24s+1.12s)" [1882, 2036, 2121, 2142, 2265, 2259]
+  line "VLTC (2m24s+1.12s)" [1882, 2036, 2121, 2142, 2265, 2259]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
