@@ -8,10 +8,10 @@ Home: https://github.com/gab8192/Obsidian
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 16.0 | 2025-05-21 | 3484<sub>(+32) | 3598<sub>(+23) | 3623<sub>(+25) |  |
+| 16.0 | 2025-05-21 | 3483<sub>(+31) | 3599<sub>(+24) | 3625<sub>(+27) |  |
 | 15.0 | 2025-01-31 | 3452<sub>(-5) | 3575<sub>(-7) | 3598<sub>(-2) |  |
-| 14.0 | 2024-10-22 | 3457<sub>(+23) | 3582<sub>(+27) | 3600<sub>(+6) |  |
-| 13.0 | 2024-07-01 | 3434<sub>(+new) | 3555<sub>(+new) | 3594<sub>(+new) |  |
+| 14.0 | 2024-10-22 | 3457<sub>(+21) | 3582<sub>(+27) | 3600<sub>(+6) |  |
+| 13.0 | 2024-07-01 | 3436<sub>(+new) | 3555<sub>(+new) | 3594<sub>(+new) |  |
 | 12.0 | 2024-04-11 |  |  |  |  |
 | 11.0 | 2024-03-02 |  |  |  |  |
 | 10.0 | 2024-01-16 |  |  |  |  |
@@ -34,7 +34,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-01 06:24:42
+Generated: 2026-03-02 06:25:00
 
 ## Ratings Verlauf
 
@@ -43,11 +43,11 @@ Generated: 2026-03-01 06:24:42
 xychart-beta
   x-axis ["13.0", "14.0", "15.0", "16.0"]
   y-axis "Elo Rating" 3400 --> 3700
-  line "STC (8.0+0.08s)" [3434, 3457, 3452, 3484]
-  line "STC (8.0+0.08s)" [3434, 3457, 3452, 3484]
-  line "LTC (60.0+0.60s)" [3555, 3582, 3575, 3598]
-  line "VLTC (2m24s+1.12s)" [3594, 3600, 3598, 3623]
-  line "VLTC (2m24s+1.12s)" [3594, 3600, 3598, 3623]
+  line "STC (8.0+0.08s)" [3436, 3457, 3452, 3483]
+  line "STC (8.0+0.08s)" [3436, 3457, 3452, 3483]
+  line "LTC (60.0+0.60s)" [3555, 3582, 3575, 3599]
+  line "VLTC (2m24s+1.12s)" [3594, 3600, 3598, 3625]
+  line "VLTC (2m24s+1.12s)" [3594, 3600, 3598, 3625]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
