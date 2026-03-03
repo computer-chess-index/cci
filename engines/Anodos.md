@@ -8,10 +8,10 @@ Home: https://github.com/tomcant/chess-rs
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.3.0 | 2026-02-16 | 2241<sub>(+201) | 2471<sub>(+111) | 2543<sub>(+97) |  |
-| 1.2.0 | 2026-02-01 | 2040<sub>(+200) | 2360<sub>(+284) | 2446<sub>(+245) |  |
-| 1.1.0 | 2026-01-16 | 1840<sub>(+57) | 2076<sub>(+66) | 2201<sub>(+126) |  |
-| 1.0.0 | 2026-01-02 | 1783<sub>(+new) | 2010<sub>(+new) | 2075<sub>(+new) | Previously: chess-rs |
+| 1.3.0 | 2026-02-16 | 2242<sub>(+203) | 2472<sub>(+112) | 2542<sub>(+96) |  |
+| 1.2.0 | 2026-02-01 | 2039<sub>(+199) | 2360<sub>(+284) | 2446<sub>(+247) |  |
+| 1.1.0 | 2026-01-16 | 1840<sub>(+57) | 2076<sub>(+67) | 2199<sub>(+125) |  |
+| 1.0.0 | 2026-01-02 | 1783<sub>(+new) | 2009<sub>(+new) | 2074<sub>(+new) | Previously: chess-rs |
 | 0.7.0 | 2025-12-31 |  |  |  |  |
 | 0.6.0 | 2025-11-11 |  |  |  |  |
 | 0.5.1 | 2025-11-04 |  |  |  |  |
@@ -36,7 +36,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-02 06:22:19
+Generated: 2026-03-03 06:22:21
 
 ## Ratings Verlauf
 
@@ -45,11 +45,11 @@ Generated: 2026-03-02 06:22:19
 xychart-beta
   x-axis ["1.0.0", "1.1.0", "1.2.0", "1.3.0"]
   y-axis "Elo Rating" 1700 --> 2600
-  line "STC (8.0+0.08s)" [1783, 1840, 2040, 2241]
-  line "STC (8.0+0.08s)" [1783, 1840, 2040, 2241]
-  line "LTC (60.0+0.60s)" [2010, 2076, 2360, 2471]
-  line "VLTC (2m24s+1.12s)" [2075, 2201, 2446, 2543]
-  line "VLTC (2m24s+1.12s)" [2075, 2201, 2446, 2543]
+  line "STC (8.0+0.08s)" [1783, 1840, 2039, 2242]
+  line "STC (8.0+0.08s)" [1783, 1840, 2039, 2242]
+  line "LTC (60.0+0.60s)" [2009, 2076, 2360, 2472]
+  line "VLTC (2m24s+1.12s)" [2074, 2199, 2446, 2542]
+  line "VLTC (2m24s+1.12s)" [2074, 2199, 2446, 2542]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
