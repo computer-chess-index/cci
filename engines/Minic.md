@@ -10,7 +10,7 @@ Home: https://github.com/tryingsomestuff/Minic
 | --- | --- | --- | --- | --- | --- |
 | 3.44 | 2025-05-17 |  |  |  |  |
 | 3.43 | 2025-04-09 |  |  |  |  |
-| 3.41 | 2024-01-18 | 3002<sub>(+new) | 3305<sub>(+new) | 3371<sub>(+new) |  |
+| 3.41 | 2024-01-18 | 3002<sub>(+new) | 3303<sub>(+new) | 3371<sub>(+new) |  |
 | 3.40 | 2024-01-14 |  |  |  |  |
 | 3.39 | 2023-10-29 |  |  |  |  |
 | 3.38 | 2023-06-17 |  |  |  |  |
@@ -130,4 +130,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-02 06:24:44
+Generated: 2026-03-03 06:24:56
