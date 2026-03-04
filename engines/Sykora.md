@@ -8,7 +8,7 @@ Home: https://github.com/sb2bg/sykora
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.2.1 | 2026-03-02 |  |  | 2449<sub>(-9) |  |
+| 0.2.1 | 2026-03-02 |  | 2541<sub>(+268) | 2449<sub>(-9) |  |
 | 0.1.0 | 2026-02-17 | 1933 | 2273 | 2458 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -23,4 +23,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-04 06:26:20
+Generated: 2026-03-04 10:06:55
