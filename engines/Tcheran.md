@@ -9,8 +9,8 @@ Home: https://github.com/tcheran-chess/tcheran
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 11.0 | 2026-02-13 | 3293<sub>(+108) | 3451<sub>(+85) | 3476<sub>(+50) |  |
-| 10.0 | 2025-12-28 | 3185<sub>(+116) | 3366<sub>(+129) | 3426<sub>(+137) |  |
-| 9.0 | 2025-12-08 | 3069<sub>(+80) | 3237<sub>(+48) | 3289<sub>(+52) |  |
+| 10.0 | 2025-12-28 | 3185<sub>(+116) | 3366<sub>(+129) | 3426<sub>(+139) |  |
+| 9.0 | 2025-12-08 | 3069<sub>(+80) | 3237<sub>(+48) | 3287<sub>(+50) |  |
 | 8.0 | 2025-11-27 | 2989<sub>(+177) | 3189<sub>(+147) | 3237<sub>(+124) |  |
 | 7.0 | 2025-11-07 | 2812<sub>(+new) | 3042<sub>(+new) | 3113<sub>(+new) |  |
 | 6.0 | 2025-10-21 |  |  |  |  |
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-04 06:26:24
+Generated: 2026-03-05 06:26:30
 
 ## Ratings Verlauf
 
@@ -52,8 +52,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [2812, 2989, 3069, 3185, 3293]
   line "STC (8.0+0.08s)" [2812, 2989, 3069, 3185, 3293]
   line "LTC (60.0+0.60s)" [3042, 3189, 3237, 3366, 3451]
-  line "VLTC (2m24s+1.12s)" [3113, 3237, 3289, 3426, 3476]
-  line "VLTC (2m24s+1.12s)" [3113, 3237, 3289, 3426, 3476]
+  line "VLTC (2m24s+1.12s)" [3113, 3237, 3287, 3426, 3476]
+  line "VLTC (2m24s+1.12s)" [3113, 3237, 3287, 3426, 3476]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
