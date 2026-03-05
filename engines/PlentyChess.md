@@ -10,8 +10,8 @@ Home: https://github.com/Yoshie2000/PlentyChess
 | --- | --- | --- | --- | --- | --- |
 | 7.0.0 | 2025-09-25 | 3603<sub>(+new) | 3636<sub>(+new) | 3596<sub>(0) |  |
 | 6.0.2 | 2025-06-06 |  |  | 3596<sub>(0) |  |
-| 5.0.0 | 2025-03-23 | 3407<sub>(+5) | 3572<sub>(+new) | 3596<sub>(+24) |  |
-| 4.0.1 | 2025-01-18 | 3402<sub>(+new) |  | 3572<sub>(+new) |  |
+| 5.0.0 | 2025-03-23 | 3407<sub>(+6) | 3572<sub>(+new) | 3596<sub>(+24) |  |
+| 4.0.1 | 2025-01-18 | 3401<sub>(+new) |  | 3572<sub>(+new) |  |
 | 4.0.0 | 2025-01-18 |  |  |  |  |
 | 3.0.2 | 2024-11-26 |  |  |  |  |
 | 3.0.1 | 2024-11-22 | 3336<sub>(+new) | 3478<sub>(+new) | 3567<sub>(+new) |  |
@@ -36,7 +36,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-04 06:25:00
+Generated: 2026-03-05 06:25:02
 
 ## Ratings Verlauf
 
