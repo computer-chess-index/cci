@@ -10,7 +10,7 @@ Home: https://github.com/op12no2/lozza
 | --- | --- | --- | --- | --- | --- |
 | 6 | 2026-02-13 |  |  |  |  |
 | 2 | 2026-02-13 |  |  |  |  |
-| 10 | 2026-01-17 | 2920<sub>(+260) | 3116<sub>(+170) | 3159<sub>(+113) |  |
+| 10 | 2026-01-17 | 2920<sub>(+260) | 3116<sub>(+170) | 3160<sub>(+114) |  |
 | 9 | 2026-01-10 | 2660<sub>(+17) | 2946<sub>(-15) | 3046<sub>(-32) |  |
 | 8 | 2025-09-25 | 2643<sub>(+new) | 2961<sub>(+new) | 3078<sub>(+new) |  |
 | 7 | 2025-07-12 |  |  |  |  |
@@ -32,7 +32,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-04 06:24:20
+Generated: 2026-03-05 06:24:23
 
 ## Ratings Verlauf
 
@@ -44,8 +44,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [2643, 2660, 2920]
   line "STC (8.0+0.08s)" [2643, 2660, 2920]
   line "LTC (60.0+0.60s)" [2961, 2946, 3116]
-  line "VLTC (2m24s+1.12s)" [3078, 3046, 3159]
-  line "VLTC (2m24s+1.12s)" [3078, 3046, 3159]
+  line "VLTC (2m24s+1.12s)" [3078, 3046, 3160]
+  line "VLTC (2m24s+1.12s)" [3078, 3046, 3160]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
