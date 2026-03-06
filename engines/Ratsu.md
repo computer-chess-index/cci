@@ -8,7 +8,7 @@ Home: https://github.com/ranzuh/ratsu
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | 2026-02-20 | 1688<sub>(+119) | 1890<sub>(+51) | 1972<sub>(+71) |  |
+| 1.0.0 | 2026-02-20 | 1688<sub>(+119) | 1897<sub>(+58) | 1974<sub>(+73) |  |
 | 0.9.0 | 2026-01-21 | 1569 | 1839 | 1901 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -23,7 +23,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-05 06:25:34
+Generated: 2026-03-06 06:28:15
 
 ## Ratings Verlauf
 
@@ -34,9 +34,9 @@ xychart-beta
   y-axis "Elo Rating" 1500 --> 2000
   line "STC (8.0+0.08s)" [1569, 1688]
   line "STC (8.0+0.08s)" [1569, 1688]
-  line "LTC (60.0+0.60s)" [1839, 1890]
-  line "VLTC (2m24s+1.12s)" [1901, 1972]
-  line "VLTC (2m24s+1.12s)" [1901, 1972]
+  line "LTC (60.0+0.60s)" [1839, 1897]
+  line "VLTC (2m24s+1.12s)" [1901, 1974]
+  line "VLTC (2m24s+1.12s)" [1901, 1974]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
