@@ -22,9 +22,9 @@ Home: https://github.com/PS-Wizard/OopsMate
 | 5.0 | 2026-01-31 |  |  |  |  |
 | 4.0 | 2026-01-31 |  |  |  |  |
 | 3.0 | 2026-01-31 |  |  |  |  |
-| 2.0 | 2026-01-30 | 1318<sub>(+new) | 1507<sub>(+new) | 1512<sub>(+new) |  |
+| 2.0 | 2026-01-30 | 1316<sub>(+new) | 1507<sub>(+new) | 1511<sub>(+new) |  |
 | 1.0 | 2026-01-30 |  |  |  |  |
-| 0.0.4 | 2025-11-23 | 1133<sub>(+new) | 1366<sub>(+new) | 1422<sub>(+new) |  |
+| 0.0.4 | 2025-11-23 | 1131<sub>(+new) | 1366<sub>(+new) | 1420<sub>(+new) |  |
 | 0.0.3 | 2025-11-13 |  |  |  |  |
 | 0.0.2 | 2025-11-04 |  |  |  |  |
 | 0.0.1 | 2025-11-04 |  |  |  |  |
@@ -42,7 +42,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-08 06:24:54
+Generated: 2026-03-09 06:24:56
 
 ## Ratings Verlauf
 
@@ -51,11 +51,11 @@ Generated: 2026-03-08 06:24:54
 xychart-beta
   x-axis ["0.0.4", "2.0"]
   y-axis "Elo Rating" 1100 --> 1600
-  line "STC (8.0+0.08s)" [1133, 1318]
-  line "STC (8.0+0.08s)" [1133, 1318]
+  line "STC (8.0+0.08s)" [1131, 1316]
+  line "STC (8.0+0.08s)" [1131, 1316]
   line "LTC (60.0+0.60s)" [1366, 1507]
-  line "VLTC (2m24s+1.12s)" [1422, 1512]
-  line "VLTC (2m24s+1.12s)" [1422, 1512]
+  line "VLTC (2m24s+1.12s)" [1420, 1511]
+  line "VLTC (2m24s+1.12s)" [1420, 1511]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
