@@ -8,9 +8,10 @@ Home: https://github.com/chris-moreton/rusty-rival
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
+| 1.0.32 | 2026-03-09 |  |  |  |  |
 | 1.0.31 | 2026-03-06 |  |  |  | eval pending* |
 | 1.0.30 | 2026-03-06 |  |  |  |  |
-| 1.0.29 | 2026-02-10 | 1940<sub>(+new) | 2201<sub>(+new) | 2317<sub>(+new) |  |
+| 1.0.29 | 2026-02-10 | 1940<sub>(+new) | 2201<sub>(+new) | 2314<sub>(+new) |  |
 | 1.0.28 | 2026-02-10 |  |  |  |  |
 | 1.0.27 | 2026-02-09 |  |  |  |  |
 | 1.0.26 | 2026-02-01 |  |  |  |  |
@@ -21,8 +22,8 @@ Home: https://github.com/chris-moreton/rusty-rival
 | 1.0.20 | 2026-01-17 |  |  |  |  |
 | 1.0.19 | 2026-01-12 |  | 2120<sub>(+new) | 2213<sub>(+new) |  |
 | 1.0.18 | 2026-01-12 |  |  |  |  |
-| 1.0.17 | 2026-01-11 | 1917<sub>(+new) |  | 2380<sub>(+61) |  |
-| 1.0.15 | 2026-01-11 |  | 2142<sub>(+60) | 2319<sub>(+40) |  |
+| 1.0.17 | 2026-01-11 | 1917<sub>(+new) |  | 2376<sub>(+59) |  |
+| 1.0.15 | 2026-01-11 |  | 2142<sub>(+60) | 2317<sub>(+38) |  |
 | 1.0.13 | 2026-01-10 | 1835<sub>(+new) | 2082<sub>(+new) | 2279<sub>(+new) |  |
 | 1.0.12 | 2026-01-10 |  |  |  |  |
 | 1.0.11 | 2026-01-10 |  |  |  |  |
@@ -49,7 +50,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-09 06:25:59
+Generated: 2026-03-10 06:26:20
 
 ## Ratings Verlauf
 
@@ -61,8 +62,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [1835, 1922, 1956, 1940]
   line "STC (8.0+0.08s)" [1835, 1922, 1956, 1940]
   line "LTC (60.0+0.60s)" [2082, 2097, 2256, 2201]
-  line "VLTC (2m24s+1.12s)" [2279, 2213, 2282, 2317]
-  line "VLTC (2m24s+1.12s)" [2279, 2213, 2282, 2317]
+  line "VLTC (2m24s+1.12s)" [2279, 2213, 2282, 2314]
+  line "VLTC (2m24s+1.12s)" [2279, 2213, 2282, 2314]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
