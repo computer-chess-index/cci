@@ -9,6 +9,7 @@ Here are some of the ways you can get involved:
 - **Data contributions**: Add new engines and versions.
 - **Data contributions**: Add old engines and versions.
 - **Testing & computation**: Run additional test series to be added.
+- **Lichess Bots**: Some first steps are done, but much more could be done with your help.
 - **Design & Documentation**: Improve website pages, visuals, or explanatory content.  
 - **Hosting & Infrastructure**: Provide servers or cloud resources to run evaluations.  
 - **Financial Support**: Help cover hosting, hardware, or development costs.
