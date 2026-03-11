@@ -8,8 +8,8 @@ Home: https://github.com/martinnovaak/motor
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.9.0 | 2025-06-02 | 3372<sub>(+12) | 3533<sub>(+20) | 3567<sub>(+22) |  |
-| 0.8.0 | 2024-10-28 | 3360<sub>(+new) | 3513<sub>(+new) | 3545<sub>(+new) |  |
+| 0.9.0 | 2025-06-02 | 3372<sub>(+12) | 3533<sub>(+20) | 3565<sub>(+21) |  |
+| 0.8.0 | 2024-10-28 | 3360<sub>(+new) | 3513<sub>(+new) | 3544<sub>(+new) |  |
 | 0.7.0 | 2024-08-11 |  |  |  |  |
 | 0.60 | 2024-06-30 | 3247<sub>(+new) | 3447<sub>(+new) | 3474<sub>(+new) |  |
 | 0.5.0 | 2024-05-23 |  |  |  |  |
@@ -30,7 +30,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-10 06:24:55
+Generated: 2026-03-11 06:24:33
 
 ## Ratings Verlauf
 
@@ -42,8 +42,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [3247, 3360, 3372]
   line "STC (8.0+0.08s)" [3247, 3360, 3372]
   line "LTC (60.0+0.60s)" [3447, 3513, 3533]
-  line "VLTC (2m24s+1.12s)" [3474, 3545, 3567]
-  line "VLTC (2m24s+1.12s)" [3474, 3545, 3567]
+  line "VLTC (2m24s+1.12s)" [3474, 3544, 3565]
+  line "VLTC (2m24s+1.12s)" [3474, 3544, 3565]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
