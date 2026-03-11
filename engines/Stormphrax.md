@@ -8,7 +8,7 @@ Home: https://github.com/Ciekce/Stormphrax
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7.0.0 | 2025-06-24 | 3387<sub>(+52) | 3552<sub>(+41) | 3591<sub>(+50) |  |
+| 7.0.0 | 2025-06-24 | 3387<sub>(+52) | 3551<sub>(+40) | 3588<sub>(+47) |  |
 | 6.0.0 | 2024-10-29 | 3335<sub>(+98) | 3511<sub>(+75) | 3541<sub>(+69) |  |
 | 5.0.0 | 2024-06-26 | 3237<sub>(+new) | 3436<sub>(+new) | 3472<sub>(+new) |  |
 | 4.1.0 | 2024-03-11 |  |  |  |  |
@@ -29,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-10 06:26:41
+Generated: 2026-03-11 06:26:08
 
 ## Ratings Verlauf
 
@@ -40,9 +40,9 @@ xychart-beta
   y-axis "Elo Rating" 3200 --> 3600
   line "STC (8.0+0.08s)" [3237, 3335, 3387]
   line "STC (8.0+0.08s)" [3237, 3335, 3387]
-  line "LTC (60.0+0.60s)" [3436, 3511, 3552]
-  line "VLTC (2m24s+1.12s)" [3472, 3541, 3591]
-  line "VLTC (2m24s+1.12s)" [3472, 3541, 3591]
+  line "LTC (60.0+0.60s)" [3436, 3511, 3551]
+  line "VLTC (2m24s+1.12s)" [3472, 3541, 3588]
+  line "VLTC (2m24s+1.12s)" [3472, 3541, 3588]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
