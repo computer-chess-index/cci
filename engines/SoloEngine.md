@@ -8,10 +8,10 @@ Home: https://github.com/yunusemreyldz07/SoloEngine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.5.0 | 2026-03-04 | 2047<sub>(+251) | 2385<sub>(+256) | 2493<sub>(+244) |  |
-| 1.4.0 | 2026-02-07 | 1796<sub>(+137) | 2129<sub>(+111) | 2249<sub>(+131) |  |
-| 1.3.1 | 2026-02-01 | 1659<sub>(-24) | 2018<sub>(+17) | 2118<sub>(+51) |  |
-| 1.2.2 | 2026-01-23 | 1683 | 2001 | 2067 |  |
+| 1.5.0 | 2026-03-04 | 2061<sub>(+265) | 2384<sub>(+256) | 2492<sub>(+246) |  |
+| 1.4.0 | 2026-02-07 | 1796<sub>(+137) | 2128<sub>(+111) | 2246<sub>(+129) |  |
+| 1.3.1 | 2026-02-01 | 1659<sub>(-24) | 2017<sub>(+18) | 2117<sub>(+51) |  |
+| 1.2.2 | 2026-01-23 | 1683 | 1999 | 2066 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-11 06:25:56
+Generated: 2026-03-12 06:26:07
 
 ## Ratings Verlauf
 
@@ -34,11 +34,11 @@ Generated: 2026-03-11 06:25:56
 xychart-beta
   x-axis ["1.2.2", "1.3.1", "1.4.0", "1.5.0"]
   y-axis "Elo Rating" 1600 --> 2500
-  line "STC (8.0+0.08s)" [1683, 1659, 1796, 2047]
-  line "STC (8.0+0.08s)" [1683, 1659, 1796, 2047]
-  line "LTC (60.0+0.60s)" [2001, 2018, 2129, 2385]
-  line "VLTC (2m24s+1.12s)" [2067, 2118, 2249, 2493]
-  line "VLTC (2m24s+1.12s)" [2067, 2118, 2249, 2493]
+  line "STC (8.0+0.08s)" [1683, 1659, 1796, 2061]
+  line "STC (8.0+0.08s)" [1683, 1659, 1796, 2061]
+  line "LTC (60.0+0.60s)" [1999, 2017, 2128, 2384]
+  line "VLTC (2m24s+1.12s)" [2066, 2117, 2246, 2492]
+  line "VLTC (2m24s+1.12s)" [2066, 2117, 2246, 2492]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
