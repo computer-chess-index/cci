@@ -8,7 +8,7 @@ Home: https://github.com/kevlu8/PZChessBot
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.1 | 2026-02-01 | 3237<sub>(+32) | 3460<sub>(+65) | 3507<sub>(+51) |  |
+| 6.1 | 2026-02-01 | 3237<sub>(+32) | 3460<sub>(+65) | 3513<sub>(+57) |  |
 | 6.0 | 2026-01-01 | 3205<sub>(+119) | 3395<sub>(+121) | 3456<sub>(+153) |  |
 | 5.0 | 2025-10-19 | 3086<sub>(+new) | 3274<sub>(+new) | 3303<sub>(+new) |  |
 | 4.0 | 2025-10-03 |  |  |  |  |
@@ -33,7 +33,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-12 06:25:26
+Generated: 2026-03-13 06:25:50
 
 ## Ratings Verlauf
 
@@ -45,8 +45,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [3086, 3205, 3237]
   line "STC (8.0+0.08s)" [3086, 3205, 3237]
   line "LTC (60.0+0.60s)" [3274, 3395, 3460]
-  line "VLTC (2m24s+1.12s)" [3303, 3456, 3507]
-  line "VLTC (2m24s+1.12s)" [3303, 3456, 3507]
+  line "VLTC (2m24s+1.12s)" [3303, 3456, 3513]
+  line "VLTC (2m24s+1.12s)" [3303, 3456, 3513]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
