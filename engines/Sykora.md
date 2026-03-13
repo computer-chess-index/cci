@@ -8,7 +8,7 @@ Home: https://github.com/sb2bg/sykora
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.2.1 | 2026-03-02 | 2020<sub>(+96) | 2418<sub>(+154) | 2454<sub>(+4) |  |
+| 0.2.1 | 2026-03-02 | 2018<sub>(+94) | 2418<sub>(+154) | 2454<sub>(+4) |  |
 | 0.1.0 | 2026-02-17 | 1924 | 2264 | 2450 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -23,7 +23,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-12 06:26:26
+Generated: 2026-03-13 06:26:54
 
 ## Ratings Verlauf
 
@@ -32,8 +32,8 @@ Generated: 2026-03-12 06:26:26
 xychart-beta
   x-axis ["0.1.0", "0.2.1"]
   y-axis "Elo Rating" 1900 --> 2500
-  line "STC (8.0+0.08s)" [1924, 2020]
-  line "STC (8.0+0.08s)" [1924, 2020]
+  line "STC (8.0+0.08s)" [1924, 2018]
+  line "STC (8.0+0.08s)" [1924, 2018]
   line "LTC (60.0+0.60s)" [2264, 2418]
   line "VLTC (2m24s+1.12s)" [2450, 2454]
   line "VLTC (2m24s+1.12s)" [2450, 2454]
