@@ -8,7 +8,7 @@ Home: https://github.com/Yoshie2000/PlentyChess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7.0.0 | 2025-09-25 | 3596<sub>(+new) | 3629<sub>(+new) | 3590<sub>(-1) |  |
+| 7.0.0 | 2025-09-25 | 3598<sub>(+new) | 3630<sub>(+new) | 3590<sub>(-1) |  |
 | 6.0.2 | 2025-06-06 |  |  | 3591<sub>(+1) |  |
 | 5.0.0 | 2025-03-23 | 3401<sub>(+6) | 3565<sub>(+new) | 3590<sub>(+25) |  |
 | 4.0.1 | 2025-01-18 | 3395<sub>(+new) |  | 3565<sub>(+new) |  |
@@ -16,7 +16,7 @@ Home: https://github.com/Yoshie2000/PlentyChess
 | 3.0.2 | 2024-11-26 |  |  |  |  |
 | 3.0.1 | 2024-11-22 | 3329<sub>(+new) | 3471<sub>(+new) | 3561<sub>(+new) |  |
 | 3.0.0 | 2024-11-21 |  |  |  |  |
-| 2.1.0 | 2024-07-02 | 3364<sub>(+new) | 3503<sub>(+new) | 3538<sub>(+new) |  |
+| 2.1.0 | 2024-07-02 | 3364<sub>(+new) | 3503<sub>(+new) | 3540<sub>(+new) |  |
 | 2.0.0 | 2024-06-12 |  |  |  |  |
 | 1.0.0 | 2024-04-01 |  |  |  |  |
 | 0.3.0 | 2024-02-04 |  |  |  |  |
@@ -36,7 +36,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-12 06:25:05
+Generated: 2026-03-13 06:25:23
 
 ## Ratings Verlauf
 
@@ -45,11 +45,11 @@ Generated: 2026-03-12 06:25:05
 xychart-beta
   x-axis ["2.1.0", "3.0.1", "5.0.0", "7.0.0"]
   y-axis "Elo Rating" 3300 --> 3700
-  line "STC (8.0+0.08s)" [3364, 3329, 3401, 3596]
-  line "STC (8.0+0.08s)" [3364, 3329, 3401, 3596]
-  line "LTC (60.0+0.60s)" [3503, 3471, 3565, 3629]
-  line "VLTC (2m24s+1.12s)" [3538, 3561, 3590, 3590]
-  line "VLTC (2m24s+1.12s)" [3538, 3561, 3590, 3590]
+  line "STC (8.0+0.08s)" [3364, 3329, 3401, 3598]
+  line "STC (8.0+0.08s)" [3364, 3329, 3401, 3598]
+  line "LTC (60.0+0.60s)" [3503, 3471, 3565, 3630]
+  line "VLTC (2m24s+1.12s)" [3540, 3561, 3590, 3590]
+  line "VLTC (2m24s+1.12s)" [3540, 3561, 3590, 3590]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
