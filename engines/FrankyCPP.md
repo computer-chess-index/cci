@@ -8,6 +8,7 @@ Home: https://github.com/frankkopp/FrankyCPP
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
+| 1.5.1 | 2026-03-12 |  |  |  |  |
 | 1.5.0 | 2026-03-11 |  |  |  |  |
 | 1.4.2 | 2026-03-04 |  |  |  |  |
 | 1.4 | 2026-03-03 |  |  |  |  |
@@ -28,4 +29,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-12 06:23:35
+Generated: 2026-03-13 06:23:39
