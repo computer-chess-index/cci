@@ -9,7 +9,7 @@ Home: https://github.com/ericlangedijk/chessnix/
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 0.0 | 2026-02-25 |  |  |  |  |
-| 1.3 | 2026-02-15 | 2911<sub>(+245) | 3104<sub>(+289) | 3205<sub>(+228) |  |
+| 1.3 | 2026-02-15 | 2911<sub>(+245) | 3105<sub>(+290) | 3204<sub>(+227) |  |
 | 1.2 | 2025-12-12 | 2666<sub>(+290) | 2815<sub>(+173) | 2977<sub>(+258) |  |
 | 1.0 | 2025-11-08 | 2376<sub>(+new) | 2642<sub>(+new) | 2719<sub>(+new) | too many irregular games |
 | 0.1 | 2025-10-03 |  |  |  |  |
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-12 06:23:00
+Generated: 2026-03-13 06:23:00
 
 ## Ratings Verlauf
 
@@ -37,9 +37,9 @@ xychart-beta
   y-axis "Elo Rating" 2300 --> 3300
   line "STC (8.0+0.08s)" [2376, 2666, 2911]
   line "STC (8.0+0.08s)" [2376, 2666, 2911]
-  line "LTC (60.0+0.60s)" [2642, 2815, 3104]
-  line "VLTC (2m24s+1.12s)" [2719, 2977, 3205]
-  line "VLTC (2m24s+1.12s)" [2719, 2977, 3205]
+  line "LTC (60.0+0.60s)" [2642, 2815, 3105]
+  line "VLTC (2m24s+1.12s)" [2719, 2977, 3204]
+  line "VLTC (2m24s+1.12s)" [2719, 2977, 3204]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
