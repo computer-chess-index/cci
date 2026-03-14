@@ -1,6 +1,6 @@
-# CCI Ratings (ELO VLTC Ranking)
+# Lichess CCI-Bot Ratings
 
-Generated: 2026-03-14 07:59:01
+Generated: 2026-03-14 08:01:51
 
 | Engine | Version | Published | Author | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Lichess Bullet | Lichess Blitz |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
