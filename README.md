@@ -15,7 +15,11 @@ A complete list can be found here: <a href="https://github.com/computer-chess-in
 To get an impression of a single engine page, see: <a href="https://github.com/computer-chess-index/cci/blob/main/engines/Stockfish.md" target="_blank">Stockfish</a> or <a href="https://github.com/computer-chess-index/cci/blob/main/engines/Raphael.md" target="_blank">Raphael</a>
 
 I am also experimenting with <a href="https://computer-chess-index.github.io/cci/Lichess-CCI-Bots.html" target="_blank">Lichess Bots</a>:
-<a href="https://lichess.org/@/CCI_Bot" target="_blank">CCI_Bot</a>, <a href="https://lichess.org/@/CCI-2" target="_blank">CCI-2</a> and <a href="https://lichess.org/@/CCI-3" target="_blank">CCI-3</a>
+
+- <a href="https://lichess.org/@/CCI_Bot" target="_blank">CCI_Bot - Anodos</a>
+- <a href="https://lichess.org/@/CCI-2" target="_blank">CCI-2 - Zeppelin</a>
+- <a href="https://lichess.org/@/CCI-3" target="_blank">CCI-3 - Laura</a>
+- <a href="https://lichess.org/@/CCI-4" target="_blank">CCI-4 - Sykora</a>
 
 
 
