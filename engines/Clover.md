@@ -10,7 +10,7 @@ Home: https://github.com/lucametehau/CloverEngine
 | --- | --- | --- | --- | --- | --- |
 | 9.1 | 2025-09-14 | 3416<sub>(+new) | 3568<sub>(+new) | 3578<sub>(+new) |  |
 | 9.0 | 2025-08-19 |  |  |  |  |
-| 8.2.5 | 2025-07-14 | 3375<sub>(+new) | 3524<sub>(+new) | 3552<sub>(+new) |  |
+| 8.2.5 | 2025-07-14 | 3374<sub>(+new) | 3524<sub>(+new) | 3552<sub>(+new) |  |
 | 8.2.1 | 2025-07-12 |  |  |  |  |
 | 8.2 | 2025-07-11 |  |  |  |  |
 | 8.1 | 2024-12-03 | 3376<sub>(+4) | 3507<sub>(-11) | 3548<sub>(0) |  |
@@ -55,7 +55,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-17 06:23:09
+Generated: 2026-03-18 06:23:09
 
 ## Ratings Verlauf
 
@@ -64,8 +64,8 @@ Generated: 2026-03-17 06:23:09
 xychart-beta
   x-axis ["8.0.2", "8.1", "8.2.5", "9.1"]
   y-axis "Elo Rating" 3300 --> 3600
-  line "STC (8.0+0.08s)" [3372, 3376, 3375, 3416]
-  line "STC (8.0+0.08s)" [3372, 3376, 3375, 3416]
+  line "STC (8.0+0.08s)" [3372, 3376, 3374, 3416]
+  line "STC (8.0+0.08s)" [3372, 3376, 3374, 3416]
   line "LTC (60.0+0.60s)" [3518, 3507, 3524, 3568]
   line "VLTC (2m24s+1.12s)" [3548, 3548, 3552, 3578]
   line "VLTC (2m24s+1.12s)" [3548, 3548, 3552, 3578]
