@@ -6,8 +6,8 @@ Thank you for your interest in helping out! There is a lot to do, and every cont
 
 Here are some of the ways you can get involved:
 
-- **Data contributions**: Add new engines and versions -> [Submit a new engine](https://github.com/computer-chess-index/cci/issues/new?template=submit-engine)
-- **Data contributions**: Add old engines and versions -> [Submit an old engine](https://github.com/computer-chess-index/cci/issues/new?template=submit-engine)
+- **Data contributions**: Add new engines and versions -> [Submit a new engine](https://github.com/computer-chess-index/cci/issues/new?template=submit_engine)
+- **Data contributions**: Add old engines and versions -> [Submit an old engine](https://github.com/computer-chess-index/cci/issues/new?template=submit_engine)
 - **Testing & computation**: Run additional test series to be added.
 - **Lichess Bots**: Some first steps are done, but much more could be done with your help.
 - **Design & Documentation**: Improve website pages, visuals, or explanatory content.  
