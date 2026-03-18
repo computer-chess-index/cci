@@ -1,0 +1,59 @@
+name: Submit new chess engine
+description: Propose a new engine to be included in the Computer Chess Index
+title: "[ENGINE] <engine name> <version>"
+labels: ["engine-submission"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Engine name
+      placeholder: e.g. Stockfish
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      placeholder: e.g. 16.1
+
+  - type: input
+    id: author
+    attributes:
+      label: Author / Developer
+      placeholder: e.g. Tord Romstad, Marco Costalba, Joona Kiiski
+
+  - type: input
+    id: repo
+    attributes:
+      label: Source / Repository URL
+      placeholder: https://github.com/...
+
+  - type: input
+    id: download
+    attributes:
+      label: Download link (if different)
+      placeholder: https://...
+
+  - type: textarea
+    id: uci
+    attributes:
+      label: UCI options / special configuration
+      description: Only include if relevant
+      placeholder: Hash=256, Threads=8, etc.
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional notes
+      placeholder: e.g. NNUE network, experimental build, etc.
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: I verified the engine is not already listed
+          required: true
+        - label: I provided a working download or source link
+          required: true
