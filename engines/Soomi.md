@@ -8,10 +8,10 @@ Home: https://github.com/Koma1867/Soomi-V1-Chess-engine-in-golang
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.2.0 | 2025-12-31 | 2082<sub>(+216) | 2365<sub>(+178) | 2475<sub>(+242) |  |
-| 1.1.8 | 2025-12-16 | 1866<sub>(-8) | 2187<sub>(+49) | 2233<sub>(+42) |  |
-| 1.1.7 | 2025-12-07 | 1874<sub>(+56) | 2138<sub>(-48) | 2191<sub>(-10) |  |
-| 1.1.6 | 2025-11-30 | 1818 | 2186 | 2201 |  |
+| 1.2.0 | 2025-12-31 | 2067<sub>(+211) | 2352<sub>(+176) | 2465<sub>(+242) |  |
+| 1.1.8 | 2025-12-16 | 1856<sub>(-7) | 2176<sub>(+47) | 2223<sub>(+43) |  |
+| 1.1.7 | 2025-12-07 | 1863<sub>(+54) | 2129<sub>(-47) | 2180<sub>(-10) |  |
+| 1.1.6 | 2025-11-30 | 1809 | 2176 | 2190 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-18 22:29:38
+Generated: 2026-03-19 06:26:19
 
 ## Ratings Verlauf
 
@@ -34,11 +34,12 @@ Generated: 2026-03-18 22:29:38
 xychart-beta
   x-axis ["1.1.6", "1.1.7", "1.1.8", "1.2.0"]
   y-axis "Elo Rating" 1800 --> 2500
-  line "STC (8.0+0.08s)" [1818, 1874, 1866, 2082]
-  line "STC (8.0+0.08s)" [1818, 1874, 1866, 2082]
-  line "LTC (60.0+0.60s)" [2186, 2138, 2187, 2365]
-  line "VLTC (2m24s+1.12s)" [2201, 2191, 2233, 2475]
-  line "VLTC (2m24s+1.12s)" [2201, 2191, 2233, 2475]
+  line "STC (8.0+0.08s)" [1809, 1863, 1856, 2067]
+  line "STC (8.0+0.08s)" [1809, 1863, 1856, 2067]
+  line "LTC (60.0+0.60s)" [2176, 2129, 2176, 2352]
+  line "VLTC (2m24s+1.12s)" [2190, 2180, 2223, 2465]
+  line "VLTC (2m24s+1.12s)" [2190, 2180, 2223, 2465]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
+<p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
