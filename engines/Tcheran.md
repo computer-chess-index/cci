@@ -8,11 +8,11 @@ Home: https://github.com/tcheran-chess/tcheran
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 11.0 | 2026-02-13 | 3270<sub>(+103) | 3434<sub>(+85) | 3467<sub>(+57) |  |
+| 11.0 | 2026-02-13 | 3270<sub>(+103) | 3434<sub>(+85) | 3465<sub>(+55) |  |
 | 10.0 | 2025-12-28 | 3167<sub>(+116) | 3349<sub>(+129) | 3410<sub>(+139) |  |
 | 9.0 | 2025-12-08 | 3051<sub>(+80) | 3220<sub>(+50) | 3271<sub>(+51) |  |
-| 8.0 | 2025-11-27 | 2971<sub>(+176) | 3170<sub>(+146) | 3220<sub>(+124) |  |
-| 7.0 | 2025-11-07 | 2795<sub>(+new) | 3024<sub>(+new) | 3096<sub>(+new) |  |
+| 8.0 | 2025-11-27 | 2971<sub>(+178) | 3170<sub>(+147) | 3220<sub>(+124) |  |
+| 7.0 | 2025-11-07 | 2793<sub>(+new) | 3023<sub>(+new) | 3096<sub>(+new) |  |
 | 6.0 | 2025-10-21 |  |  |  |  |
 | 5.1 | 2025-01-01 |  |  |  |  |
 | 5.0 | 2024-12-05 |  |  |  |  |
@@ -29,6 +29,8 @@ Home: https://github.com/tcheran-chess/tcheran
 | 1.0 | 2023-12-07 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Tcheran+<version>&body=###%20Engine%20name%0ATcheran%0A%0A###%20Version%0A11.0" target="_blank">Submit new version</a>
+
  Test Conditions:
 
 GUI/CLI: <a href=https://github.com/cutechess/cutechess target="_blank">Cute-Chess</a><br>
@@ -40,7 +42,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-19 06:26:41
+Generated: 2026-03-19 22:47:57
 
 ## Ratings Verlauf
 
@@ -49,11 +51,11 @@ Generated: 2026-03-19 06:26:41
 xychart-beta
   x-axis ["7.0", "8.0", "9.0", "10.0", "11.0"]
   y-axis "Elo Rating" 2700 --> 3500
-  line "STC (8.0+0.08s)" [2795, 2971, 3051, 3167, 3270]
-  line "STC (8.0+0.08s)" [2795, 2971, 3051, 3167, 3270]
-  line "LTC (60.0+0.60s)" [3024, 3170, 3220, 3349, 3434]
-  line "VLTC (2m24s+1.12s)" [3096, 3220, 3271, 3410, 3467]
-  line "VLTC (2m24s+1.12s)" [3096, 3220, 3271, 3410, 3467]
+  line "STC (8.0+0.08s)" [2793, 2971, 3051, 3167, 3270]
+  line "STC (8.0+0.08s)" [2793, 2971, 3051, 3167, 3270]
+  line "LTC (60.0+0.60s)" [3023, 3170, 3220, 3349, 3434]
+  line "VLTC (2m24s+1.12s)" [3096, 3220, 3271, 3410, 3465]
+  line "VLTC (2m24s+1.12s)" [3096, 3220, 3271, 3410, 3465]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
