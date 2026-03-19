@@ -11,6 +11,8 @@ Home:
 | 1.6a | 2012-06-01 | 2512 | 2633 | 2695 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Critter+<version>&body=###%20Engine%20name%0ACritter%0A%0A###%20Version%0A1.6a" target="_blank">Submit new version</a>
+
  Test Conditions:
 
 GUI/CLI: <a href=https://github.com/cutechess/cutechess target="_blank">Cute-Chess</a><br>
@@ -22,4 +24,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-19 06:23:10
+Generated: 2026-03-19 22:43:49
