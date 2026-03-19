@@ -15,7 +15,7 @@ Home: https://github.com/jhellis3/Stockfish
 | 7 | 2023-11-09 |  |  |  |  |
 | 6 | 2023-05-14 |  |  |  |  |
 | 6 | 2023-05-14 |  |  |  |  |
-| 5 | 2022-11-05 | 3403<sub>(+new) | 3545<sub>(+new) | 3565<sub>(+new) |  |
+| 5 | 2022-11-05 | 3403<sub>(+new) | 3544<sub>(+new) | 3565<sub>(+new) |  |
 | 4.1 | 2022-07-03 |  |  |  |  |
 | 4.0 | 2021-12-25 |  |  |  |  |
 | 4.0 | 2021-12-25 |  |  |  |  |
@@ -40,6 +40,8 @@ Home: https://github.com/jhellis3/Stockfish
 | MF_1 | 2017-11-20 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Crystal+<version>&body=###%20Engine%20name%0ACrystal%0A%0A###%20Version%0A9" target="_blank">Submit new version</a>
+
  Test Conditions:
 
 GUI/CLI: <a href=https://github.com/cutechess/cutechess target="_blank">Cute-Chess</a><br>
@@ -51,7 +53,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-19 06:23:12
+Generated: 2026-03-19 22:43:51
 
 ## Ratings Verlauf
 
@@ -62,7 +64,7 @@ xychart-beta
   y-axis "Elo Rating" 3400 --> 3700
   line "STC (8.0+0.08s)" [3403, 3449]
   line "STC (8.0+0.08s)" [3403, 3449]
-  line "LTC (60.0+0.60s)" [3545, 3588]
+  line "LTC (60.0+0.60s)" [3544, 3588]
   line "VLTC (2m24s+1.12s)" [3565, 3621]
   line "VLTC (2m24s+1.12s)" [3565, 3621]
 ```
