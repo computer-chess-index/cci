@@ -8,10 +8,10 @@ Home: https://github.com/loldot/lolbot
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.2.3 | 2025-12-08 | 2061<sub>(+33) | 2273<sub>(-30) | 2379<sub>(+38) |  |
-| 0.2.2 | 2025-11-29 | 2028<sub>(+68) | 2303<sub>(+80) | 2341<sub>(-22) |  |
-| 0.2.1 | 2025-11-16 | 1960<sub>(-72) | 2223<sub>(-29) | 2363<sub>(-52) |  |
-| 0.2 | 2025-11-15 | 2032<sub>(+new) | 2252<sub>(+new) | 2415<sub>(+new) |  |
+| 0.2.3 | 2025-12-08 | 2056<sub>(+38) | 2268<sub>(-26) | 2369<sub>(+38) |  |
+| 0.2.2 | 2025-11-29 | 2018<sub>(+69) | 2294<sub>(+80) | 2331<sub>(-22) |  |
+| 0.2.1 | 2025-11-16 | 1949<sub>(-72) | 2214<sub>(-28) | 2353<sub>(-53) |  |
+| 0.2 | 2025-11-15 | 2021<sub>(+new) | 2242<sub>(+new) | 2406<sub>(+new) |  |
 | 0.1-alpha | 2025-03-29 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-18 22:27:20
+Generated: 2026-03-19 06:24:31
 
 ## Ratings Verlauf
 
@@ -35,11 +35,12 @@ Generated: 2026-03-18 22:27:20
 xychart-beta
   x-axis ["0.2", "0.2.1", "0.2.2", "0.2.3"]
   y-axis "Elo Rating" 1900 --> 2500
-  line "STC (8.0+0.08s)" [2032, 1960, 2028, 2061]
-  line "STC (8.0+0.08s)" [2032, 1960, 2028, 2061]
-  line "LTC (60.0+0.60s)" [2252, 2223, 2303, 2273]
-  line "VLTC (2m24s+1.12s)" [2415, 2363, 2341, 2379]
-  line "VLTC (2m24s+1.12s)" [2415, 2363, 2341, 2379]
+  line "STC (8.0+0.08s)" [2021, 1949, 2018, 2056]
+  line "STC (8.0+0.08s)" [2021, 1949, 2018, 2056]
+  line "LTC (60.0+0.60s)" [2242, 2214, 2294, 2268]
+  line "VLTC (2m24s+1.12s)" [2406, 2353, 2331, 2369]
+  line "VLTC (2m24s+1.12s)" [2406, 2353, 2331, 2369]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
+<p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
