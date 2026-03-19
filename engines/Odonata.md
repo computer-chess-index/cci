@@ -8,7 +8,7 @@ Home: https://github.com/akanalytics/odonata
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1.0 | 2026-02-07 | 2865<sub>(+new) | 3177<sub>(+new) | 3220<sub>(+new) |  |
+| 1.1.0 | 2026-02-07 | 2863<sub>(+new) | 3177<sub>(+new) | 3220<sub>(+new) |  |
 | 1.0.0 | 2024-07-22 |  |  |  |  |
 | 0.9.0 | 2024-06-06 |  |  |  |  |
 | 0.8.0 | 2024-02-06 |  |  |  |  |
@@ -22,6 +22,8 @@ Home: https://github.com/akanalytics/odonata
 | 0.3.12 | 2021-05-19 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Odonata+<version>&body=###%20Engine%20name%0AOdonata%0A%0A###%20Version%0A1.1.0" target="_blank">Submit new version</a>
+
  Test Conditions:
 
 GUI/CLI: <a href=https://github.com/cutechess/cutechess target="_blank">Cute-Chess</a><br>
@@ -33,4 +35,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-19 06:25:02
+Generated: 2026-03-19 22:46:03
