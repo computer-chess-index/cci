@@ -13,6 +13,8 @@ Home: https://github.com/all-c-a-p-s/Panda
 | 1.0 | 2025-04-19 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Panda+<version>&body=###%20Engine%20name%0APanda%0A%0A###%20Version%0A1.1.1" target="_blank">Submit new version</a>
+
  Test Conditions:
 
 GUI/CLI: <a href=https://github.com/cutechess/cutechess target="_blank">Cute-Chess</a><br>
@@ -24,4 +26,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-19 06:25:07
+Generated: 2026-03-19 22:46:07
