@@ -8,13 +8,13 @@ Home: https://github.com/lucametehau/CloverEngine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.1 | 2025-09-14 | 3405<sub>(+new) | 3559<sub>(+new) | 3568<sub>(+new) |  |
+| 9.1 | 2025-09-14 | 3405<sub>(+new) | 3557<sub>(+new) | 3568<sub>(+new) |  |
 | 9.0 | 2025-08-19 |  |  |  |  |
-| 8.2.5 | 2025-07-14 | 3364<sub>(+new) | 3514<sub>(+new) | 3542<sub>(+new) |  |
+| 8.2.5 | 2025-07-14 | 3364<sub>(+new) | 3513<sub>(+new) | 3541<sub>(+new) |  |
 | 8.2.1 | 2025-07-12 |  |  |  |  |
 | 8.2 | 2025-07-11 |  |  |  |  |
-| 8.1 | 2024-12-03 | 3367<sub>(+5) | 3498<sub>(-11) | 3538<sub>(0) |  |
-| 8.0.2 | 2024-09-05 | 3362<sub>(+new) | 3509<sub>(+new) | 3538<sub>(+new) |  |
+| 8.1 | 2024-12-03 | 3367<sub>(+5) | 3498<sub>(-9) | 3538<sub>(0) |  |
+| 8.0.2 | 2024-09-05 | 3362<sub>(+new) | 3507<sub>(+new) | 3538<sub>(+new) |  |
 | 8.0 | 2024-09-02 |  |  |  |  |
 | 7.1 | 2024-08-11 |  |  |  |  |
 | 7.0 | 2024-07-24 |  |  |  |  |
@@ -44,6 +44,8 @@ Home: https://github.com/lucametehau/CloverEngine
 | 2.0 | 2021-04-22 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Clover+<version>&body=###%20Engine%20name%0AClover%0A%0A###%20Version%0A9.1" target="_blank">Submit new version</a>
+
  Test Conditions:
 
 GUI/CLI: <a href=https://github.com/cutechess/cutechess target="_blank">Cute-Chess</a><br>
@@ -55,7 +57,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-19 06:23:06
+Generated: 2026-03-19 22:43:45
 
 ## Ratings Verlauf
 
@@ -66,9 +68,9 @@ xychart-beta
   y-axis "Elo Rating" 3300 --> 3600
   line "STC (8.0+0.08s)" [3362, 3367, 3364, 3405]
   line "STC (8.0+0.08s)" [3362, 3367, 3364, 3405]
-  line "LTC (60.0+0.60s)" [3509, 3498, 3514, 3559]
-  line "VLTC (2m24s+1.12s)" [3538, 3538, 3542, 3568]
-  line "VLTC (2m24s+1.12s)" [3538, 3538, 3542, 3568]
+  line "LTC (60.0+0.60s)" [3507, 3498, 3513, 3557]
+  line "VLTC (2m24s+1.12s)" [3538, 3538, 3541, 3568]
+  line "VLTC (2m24s+1.12s)" [3538, 3538, 3541, 3568]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
