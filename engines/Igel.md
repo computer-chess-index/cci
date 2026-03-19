@@ -8,7 +8,7 @@ Home: https://github.com/vshcherbyna/igel
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.6.0 | 2024-12-28 | 3209<sub>(+19) | 3430<sub>(+2) | 3484<sub>(+20) |  |
+| 3.6.0 | 2024-12-28 | 3209<sub>(+19) | 3430<sub>(+2) | 3483<sub>(+19) |  |
 | 3.5.0 | 2023-06-22 | 3190<sub>(+new) | 3428<sub>(+new) | 3464<sub>(+new) |  |
 | 3.4.0 | 2023-01-30 |  |  |  |  |
 | 3.3.0 | 2023-01-15 |  |  |  |  |
@@ -48,6 +48,8 @@ Home: https://github.com/vshcherbyna/igel
 | 0.8 | 2018-06-30 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Igel+<version>&body=###%20Engine%20name%0AIgel%0A%0A###%20Version%0A3.6.0" target="_blank">Submit new version</a>
+
  Test Conditions:
 
 GUI/CLI: <a href=https://github.com/cutechess/cutechess target="_blank">Cute-Chess</a><br>
@@ -59,7 +61,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-19 06:24:07
+Generated: 2026-03-19 22:44:56
 
 ## Ratings Verlauf
 
@@ -71,8 +73,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [3190, 3209]
   line "STC (8.0+0.08s)" [3190, 3209]
   line "LTC (60.0+0.60s)" [3428, 3430]
-  line "VLTC (2m24s+1.12s)" [3464, 3484]
-  line "VLTC (2m24s+1.12s)" [3464, 3484]
+  line "VLTC (2m24s+1.12s)" [3464, 3483]
+  line "VLTC (2m24s+1.12s)" [3464, 3483]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
