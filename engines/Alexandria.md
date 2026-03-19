@@ -10,9 +10,9 @@ Home: https://github.com/PGG106/Alexandria
 | --- | --- | --- | --- | --- | --- |
 | 9.0 | 2026-02-27 | 3456<sub>(+4) | 3565<sub>(-3) | 3595<sub>(-8) |  |
 | 8.1.12 | 2025-11-09 | 3452<sub>(+7) | 3568<sub>(-1) | 3603<sub>(+13) |  |
-| 8.1 | 2025-08-16 | 3445<sub>(+29) | 3569<sub>(+24) | 3590<sub>(+10) |  |
-| 8.0 | 2025-03-03 | 3416<sub>(+44) | 3545<sub>(+13) | 3580<sub>(+17) |  |
-| 7.1 | 2024-10-26 | 3372<sub>(+12) | 3532<sub>(+18) | 3563<sub>(+6) |  |
+| 8.1 | 2025-08-16 | 3445<sub>(+29) | 3569<sub>(+25) | 3590<sub>(+10) |  |
+| 8.0 | 2025-03-03 | 3416<sub>(+45) | 3544<sub>(+14) | 3580<sub>(+17) |  |
+| 7.1 | 2024-10-26 | 3371<sub>(+11) | 3530<sub>(+16) | 3563<sub>(+6) |  |
 | 7.0 | 2024-05-25 | 3360<sub>(+new) | 3514<sub>(+new) | 3557<sub>(+new) |  |
 | 6.1.0 | 2024-03-24 |  |  |  |  |
 | 6.0.0 | 2024-02-01 |  |  |  |  |
@@ -35,6 +35,8 @@ Home: https://github.com/PGG106/Alexandria
 | 0.9.0 | 2022-05-30 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Alexandria+<version>&body=###%20Engine%20name%0AAlexandria%0A%0A###%20Version%0A9.0" target="_blank">Submit new version</a>
+
  Test Conditions:
 
 GUI/CLI: <a href=https://github.com/cutechess/cutechess target="_blank">Cute-Chess</a><br>
@@ -46,7 +48,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-19 06:22:09
+Generated: 2026-03-19 22:42:42
 
 ## Ratings Verlauf
 
@@ -55,9 +57,9 @@ Generated: 2026-03-19 06:22:09
 xychart-beta
   x-axis ["7.0", "7.1", "8.0", "8.1", "8.1.12", "9.0"]
   y-axis "Elo Rating" 3300 --> 3700
-  line "STC (8.0+0.08s)" [3360, 3372, 3416, 3445, 3452, 3456]
-  line "STC (8.0+0.08s)" [3360, 3372, 3416, 3445, 3452, 3456]
-  line "LTC (60.0+0.60s)" [3514, 3532, 3545, 3569, 3568, 3565]
+  line "STC (8.0+0.08s)" [3360, 3371, 3416, 3445, 3452, 3456]
+  line "STC (8.0+0.08s)" [3360, 3371, 3416, 3445, 3452, 3456]
+  line "LTC (60.0+0.60s)" [3514, 3530, 3544, 3569, 3568, 3565]
   line "VLTC (2m24s+1.12s)" [3557, 3563, 3580, 3590, 3603, 3595]
   line "VLTC (2m24s+1.12s)" [3557, 3563, 3580, 3590, 3603, 3595]
 ```
