@@ -8,16 +8,16 @@ Home: https://github.com/cosmobobak/viridithas
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 19.0.1 | 2026-01-06 | 3430<sub>(-2) | 3555<sub>(-4) | 3578<sub>(-18) |  |
-| 19.0.0 | 2026-01-04 | 3432<sub>(+18) | 3559<sub>(+22) | 3596<sub>(+39) |  |
+| 19.0.1 | 2026-01-06 | 3430<sub>(-2) | 3553<sub>(-4) | 3576<sub>(-19) |  |
+| 19.0.0 | 2026-01-04 | 3432<sub>(+18) | 3557<sub>(+20) | 3595<sub>(+38) |  |
 | 18.0.0 | 2025-08-25 | 3414<sub>(+58) | 3537<sub>(+31) | 3557<sub>(+15) |  |
-| 17.0.0 | 2025-04-10 | 3356<sub>(+1) | 3506<sub>(-9) | 3542<sub>(+2) |  |
-| 16.0.0 | 2025-01-27 | 3355<sub>(+38) | 3515<sub>(+10) | 3540<sub>(+3) |  |
+| 17.0.0 | 2025-04-10 | 3356<sub>(+3) | 3506<sub>(-8) | 3542<sub>(+2) |  |
+| 16.0.0 | 2025-01-27 | 3353<sub>(+36) | 3514<sub>(+9) | 3540<sub>(+3) |  |
 | 15.0.0 | 2024-10-13 | 3317<sub>(+31) | 3505<sub>(+27) | 3537<sub>(+18) |  |
 | 14.0.1 | 2024-08-15 | 3286<sub>(+new) | 3478<sub>(+new) | 3519<sub>(+new) |  |
 | 14.0.0 | 2024-08-11 |  |  |  | skipped for 14.0.1 |
-| 13.0.0 | 2024-06-26 | 3275<sub>(+43) | 3457<sub>(+48) | 3459<sub>(+42) |  |
-| 12.0.0 | 2024-03-01 | 3232<sub>(+new) | 3409<sub>(+new) | 3417<sub>(+new) |  |
+| 13.0.0 | 2024-06-26 | 3274<sub>(+43) | 3456<sub>(+49) | 3459<sub>(+43) |  |
+| 12.0.0 | 2024-03-01 | 3231<sub>(+new) | 3407<sub>(+new) | 3416<sub>(+new) |  |
 | 11.0.0 | 2023-09-24 |  |  |  |  |
 | 10.0.0 | 2023-06-19 |  |  |  |  |
 | 9.1.0 | 2023-05-29 |  |  |  |  |
@@ -43,6 +43,8 @@ Home: https://github.com/cosmobobak/viridithas
 | 2.0.0 | 2022-05-13 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Viridithas+<version>&body=###%20Engine%20name%0AViridithas%0A%0A###%20Version%0A19.0.1" target="_blank">Submit new version</a>
+
  Test Conditions:
 
 GUI/CLI: <a href=https://github.com/cutechess/cutechess target="_blank">Cute-Chess</a><br>
@@ -54,7 +56,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-19 06:27:02
+Generated: 2026-03-19 22:48:21
 
 ## Ratings Verlauf
 
@@ -63,11 +65,11 @@ Generated: 2026-03-19 06:27:02
 xychart-beta
   x-axis ["12.0.0", "13.0.0", "14.0.1", "15.0.0", "16.0.0", "17.0.0", "18.0.0", "19.0.0", "19.0.1"]
   y-axis "Elo Rating" 3200 --> 3600
-  line "STC (8.0+0.08s)" [3232, 3275, 3286, 3317, 3355, 3356, 3414, 3432, 3430]
-  line "STC (8.0+0.08s)" [3232, 3275, 3286, 3317, 3355, 3356, 3414, 3432, 3430]
-  line "LTC (60.0+0.60s)" [3409, 3457, 3478, 3505, 3515, 3506, 3537, 3559, 3555]
-  line "VLTC (2m24s+1.12s)" [3417, 3459, 3519, 3537, 3540, 3542, 3557, 3596, 3578]
-  line "VLTC (2m24s+1.12s)" [3417, 3459, 3519, 3537, 3540, 3542, 3557, 3596, 3578]
+  line "STC (8.0+0.08s)" [3231, 3274, 3286, 3317, 3353, 3356, 3414, 3432, 3430]
+  line "STC (8.0+0.08s)" [3231, 3274, 3286, 3317, 3353, 3356, 3414, 3432, 3430]
+  line "LTC (60.0+0.60s)" [3407, 3456, 3478, 3505, 3514, 3506, 3537, 3557, 3553]
+  line "VLTC (2m24s+1.12s)" [3416, 3459, 3519, 3537, 3540, 3542, 3557, 3595, 3576]
+  line "VLTC (2m24s+1.12s)" [3416, 3459, 3519, 3537, 3540, 3542, 3557, 3595, 3576]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
