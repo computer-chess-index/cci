@@ -8,10 +8,10 @@ Home: https://github.com/tomcant/chess-rs
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.3.0 | 2026-02-16 | 2198<sub>(+168) | 2464<sub>(+123) | 2523<sub>(+97) |  |
-| 1.2.0 | 2026-02-01 | 2030<sub>(+199) | 2341<sub>(+274) | 2426<sub>(+246) |  |
-| 1.1.0 | 2026-01-16 | 1831<sub>(+56) | 2067<sub>(+65) | 2180<sub>(+116) |  |
-| 1.0.0 | 2026-01-02 | 1775<sub>(+new) | 2002<sub>(+new) | 2064<sub>(+new) | Previously: chess-rs |
+| 1.3.0 | 2026-02-16 | 2202<sub>(+181) | 2464<sub>(+123) | 2525<sub>(+99) |  |
+| 1.2.0 | 2026-02-01 | 2021<sub>(+200) | 2341<sub>(+284) | 2426<sub>(+246) |  |
+| 1.1.0 | 2026-01-16 | 1821<sub>(+57) | 2057<sub>(+66) | 2180<sub>(+125) |  |
+| 1.0.0 | 2026-01-02 | 1764<sub>(+new) | 1991<sub>(+new) | 2055<sub>(+new) | Previously: chess-rs |
 | 0.7.0 | 2025-12-31 |  |  |  |  |
 | 0.6.0 | 2025-11-11 |  |  |  |  |
 | 0.5.1 | 2025-11-04 |  |  |  |  |
@@ -25,6 +25,8 @@ Home: https://github.com/tomcant/chess-rs
 | 0.1.0 | 2022-12-03 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Anodos+<version>&body=###%20Engine%20name%0AAnodos%0A%0A###%20Version%0A1.3.0" target="_blank">Submit new version</a>
+
  Test Conditions:
 
 GUI/CLI: <a href=https://github.com/cutechess/cutechess target="_blank">Cute-Chess</a><br>
@@ -36,7 +38,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-19 06:22:19
+Generated: 2026-03-19 22:42:54
 
 ## Ratings Verlauf
 
@@ -45,11 +47,11 @@ Generated: 2026-03-19 06:22:19
 xychart-beta
   x-axis ["1.0.0", "1.1.0", "1.2.0", "1.3.0"]
   y-axis "Elo Rating" 1700 --> 2600
-  line "STC (8.0+0.08s)" [1775, 1831, 2030, 2198]
-  line "STC (8.0+0.08s)" [1775, 1831, 2030, 2198]
-  line "LTC (60.0+0.60s)" [2002, 2067, 2341, 2464]
-  line "VLTC (2m24s+1.12s)" [2064, 2180, 2426, 2523]
-  line "VLTC (2m24s+1.12s)" [2064, 2180, 2426, 2523]
+  line "STC (8.0+0.08s)" [1764, 1821, 2021, 2202]
+  line "STC (8.0+0.08s)" [1764, 1821, 2021, 2202]
+  line "LTC (60.0+0.60s)" [1991, 2057, 2341, 2464]
+  line "VLTC (2m24s+1.12s)" [2055, 2180, 2426, 2525]
+  line "VLTC (2m24s+1.12s)" [2055, 2180, 2426, 2525]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
