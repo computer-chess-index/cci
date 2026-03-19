@@ -8,10 +8,10 @@ Home: https://github.com/martinnovaak/motor
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.9.0 | 2025-06-02 | 3368<sub>(+9) | 3530<sub>(+19) | 3565<sub>(+21) |  |
-| 0.8.0 | 2024-10-28 | 3359<sub>(+new) | 3511<sub>(+new) | 3544<sub>(+new) |  |
+| 0.9.0 | 2025-06-02 | 3360<sub>(+12) | 3521<sub>(+19) | 3556<sub>(+22) |  |
+| 0.8.0 | 2024-10-28 | 3348<sub>(+new) | 3502<sub>(+new) | 3534<sub>(+new) |  |
 | 0.7.0 | 2024-08-11 |  |  |  |  |
-| 0.60 | 2024-06-30 | 3244<sub>(+new) | 3445<sub>(+new) | 3472<sub>(+new) |  |
+| 0.60 | 2024-06-30 | 3235<sub>(+new) | 3436<sub>(+new) | 3463<sub>(+new) |  |
 | 0.5.0 | 2024-05-23 |  |  |  |  |
 | 0.4.0 | 2024-04-18 |  |  |  |  |
 | 0.3.0 | 2024-03-30 |  |  |  |  |
@@ -30,7 +30,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-18 22:27:44
+Generated: 2026-03-19 06:24:49
 
 ## Ratings Verlauf
 
@@ -39,11 +39,12 @@ Generated: 2026-03-18 22:27:44
 xychart-beta
   x-axis ["0.60", "0.8.0", "0.9.0"]
   y-axis "Elo Rating" 3200 --> 3600
-  line "STC (8.0+0.08s)" [3244, 3359, 3368]
-  line "STC (8.0+0.08s)" [3244, 3359, 3368]
-  line "LTC (60.0+0.60s)" [3445, 3511, 3530]
-  line "VLTC (2m24s+1.12s)" [3472, 3544, 3565]
-  line "VLTC (2m24s+1.12s)" [3472, 3544, 3565]
+  line "STC (8.0+0.08s)" [3235, 3348, 3360]
+  line "STC (8.0+0.08s)" [3235, 3348, 3360]
+  line "LTC (60.0+0.60s)" [3436, 3502, 3521]
+  line "VLTC (2m24s+1.12s)" [3463, 3534, 3556]
+  line "VLTC (2m24s+1.12s)" [3463, 3534, 3556]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
+<p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
