@@ -9,7 +9,7 @@ Home: https://github.com/AndyGrant/Ethereal
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 14.00 | 2023-02-08 |  |  |  |  |
-| 13.07 | 2021-07-11 | 2977<sub>(+new) | 3232<sub>(+new) | 3301<sub>(+new) |  |
+| 13.07 | 2021-07-11 | 2977<sub>(+new) | 3231<sub>(+new) | 3301<sub>(+new) |  |
 | 13.00 | 2021-06-04 |  |  |  |  |
 | 12.75 | 2020-10-09 |  |  |  |  |
 | 12.50 | 2020-09-08 |  |  |  |  |
@@ -37,6 +37,8 @@ Home: https://github.com/AndyGrant/Ethereal
 | 7.53 | 2016-06-19 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Ethereal+<version>&body=###%20Engine%20name%0AEthereal%0A%0A###%20Version%0A14.00" target="_blank">Submit new version</a>
+
  Test Conditions:
 
 GUI/CLI: <a href=https://github.com/cutechess/cutechess target="_blank">Cute-Chess</a><br>
@@ -48,4 +50,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-19 06:23:27
+Generated: 2026-03-19 22:44:07
