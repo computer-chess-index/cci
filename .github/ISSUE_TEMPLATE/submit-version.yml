@@ -1,0 +1,61 @@
+name: Submit new engine version
+description: Report a new version of an existing chess engine
+title: "[VERSION] <engine name> <version>"
+labels: ["engine-version"]
+body:
+  - type: input
+    id: engine
+    attributes:
+      label: Engine name
+      description: Must match an existing engine name
+      placeholder: e.g. Stockfish
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      placeholder: e.g. 16.1
+    validations:
+      required: true
+
+  - type: input
+    id: release_date
+    attributes:
+      label: Release date
+      placeholder: YYYY-MM-DD
+
+  - type: input
+    id: source
+    attributes:
+      label: Source / Repository URL
+      placeholder: https://github.com/...
+
+  - type: input
+    id: download
+    attributes:
+      label: Download link
+      placeholder: https://...
+
+  - type: textarea
+    id: changes
+    attributes:
+      label: Changes / Release notes
+      placeholder: Summary of changes in this version
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional notes
+      placeholder: Anything else relevant
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: I verified the engine already exists in the index
+          required: true
+        - label: I provided a valid source or download link
+          required: true
