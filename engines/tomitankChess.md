@@ -8,7 +8,7 @@ Home: https://github.com/tomitank/tomitankChess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 5.3 | 2025-09-26 | 2425<sub>(+new) | 2750<sub>(+new) | 2831<sub>(+new) |  |
+| 5.3 | 2025-09-26 | 2425<sub>(+new) | 2749<sub>(+new) | 2831<sub>(+new) |  |
 | 5.1 | 2024-03-24 |  |  |  |  |
 | 5.0 | 2021-04-07 |  |  |  |  |
 | 4.2 | 2020-09-23 |  |  |  |  |
@@ -18,6 +18,8 @@ Home: https://github.com/tomitank/tomitankChess
 | 2.0 | 2018-11-26 |  |  |  |  |
 | 1.5 | 2018-07-11 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
+
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+tomitankChess+<version>&body=###%20Engine%20name%0AtomitankChess%0A%0A###%20Version%0A5.3" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -30,4 +32,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-19 06:26:48
+Generated: 2026-03-19 22:48:05
