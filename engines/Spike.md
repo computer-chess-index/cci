@@ -9,7 +9,7 @@ Home: https://github.com/Mangar2/Spike
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 1.4.1 | 2025-07-28 |  |  |  | Virustotal detections |
-| 1.4 | 2011-02-01 | 2385 | 2772 | 2861 |  |
+| 1.4 | 2011-02-01 | 2376 | 2762 | 2851 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
  Test Conditions:
@@ -23,4 +23,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-18 22:29:45
+Generated: 2026-03-19 06:26:25
