@@ -8,14 +8,16 @@ Home: https://github.com/namanthanki/chal
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.3.2 | 2026-03-14 | 2086<sub>(+29) | 2396<sub>(+25) | 2419<sub>(+1) |  |
-| 1.3.1 | 2026-03-10 | 2057<sub>(+160) | 2371<sub>(+119) | 2418<sub>(+138) |  |
-| 1.3.0 | 2026-03-08 | 1897<sub>(+192) | 2252<sub>(+305) | 2280<sub>(+233) |  |
-| 1.2.1 | 2026-03-07 | 1705<sub>(+new) | 1947<sub>(+new) | 2047<sub>(+new) |  |
+| 1.3.2 | 2026-03-14 | 2074<sub>(+27) | 2396<sub>(+25) | 2419<sub>(+1) |  |
+| 1.3.1 | 2026-03-10 | 2047<sub>(+161) | 2371<sub>(+118) | 2418<sub>(+138) |  |
+| 1.3.0 | 2026-03-08 | 1886<sub>(+190) | 2253<sub>(+317) | 2280<sub>(+244) |  |
+| 1.2.1 | 2026-03-07 | 1696<sub>(+new) | 1936<sub>(+new) | 2036<sub>(+new) |  |
 | 1.2.0 | 2026-03-05 |  |  |  |  |
 | 1.1.0 | 2026-03-05 |  |  |  |  |
 | 1.0.0 | 2026-03-05 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
+
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Chal+<version>&body=###%20Engine%20name%0AChal%0A%0A###%20Version%0A1.3.2" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -28,7 +30,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-19 06:22:47
+Generated: 2026-03-19 22:43:27
 
 ## Ratings Verlauf
 
@@ -36,12 +38,12 @@ Generated: 2026-03-19 06:22:47
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["1.2.1", "1.3.0", "1.3.1", "1.3.2"]
-  y-axis "Elo Rating" 1700 --> 2500
-  line "STC (8.0+0.08s)" [1705, 1897, 2057, 2086]
-  line "STC (8.0+0.08s)" [1705, 1897, 2057, 2086]
-  line "LTC (60.0+0.60s)" [1947, 2252, 2371, 2396]
-  line "VLTC (2m24s+1.12s)" [2047, 2280, 2418, 2419]
-  line "VLTC (2m24s+1.12s)" [2047, 2280, 2418, 2419]
+  y-axis "Elo Rating" 1600 --> 2500
+  line "STC (8.0+0.08s)" [1696, 1886, 2047, 2074]
+  line "STC (8.0+0.08s)" [1696, 1886, 2047, 2074]
+  line "LTC (60.0+0.60s)" [1936, 2253, 2371, 2396]
+  line "VLTC (2m24s+1.12s)" [2036, 2280, 2418, 2419]
+  line "VLTC (2m24s+1.12s)" [2036, 2280, 2418, 2419]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
