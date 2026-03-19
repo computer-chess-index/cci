@@ -8,7 +8,7 @@ Home: https://github.com/saisree27/Maelstrom
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.3.0 | 2025-08-27 | 2769<sub>(+new) | 3086<sub>(+new) | 3208<sub>(+new) |  |
+| 3.3.0 | 2025-08-27 | 2768<sub>(+new) | 3085<sub>(+new) | 3206<sub>(+new) |  |
 | 3.2.0 | 2025-07-16 |  |  |  |  |
 | 3.1.1 | 2025-07-10 |  |  |  |  |
 | 3.1.0 | 2025-07-09 |  |  |  |  |
@@ -18,6 +18,8 @@ Home: https://github.com/saisree27/Maelstrom
 | 1.0.1 | 2022-07-24 |  |  |  |  |
 | 1.0.0 | 2022-07-20 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
+
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Maelstrom+<version>&body=###%20Engine%20name%0AMaelstrom%0A%0A###%20Version%0A3.3.0" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -30,4 +32,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-19 06:24:39
+Generated: 2026-03-19 22:45:36
