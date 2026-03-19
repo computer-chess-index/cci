@@ -19,7 +19,7 @@ Home: https://github.com/jszczerbinsky/zeppelin
 | 0.1.0 | 2025-10-11 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Zeppelin+###&body=###%20Engine%20name%0AZeppelin%0A%0A###%20Version%0A1.4.1" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Zeppelin+###" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -32,7 +32,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-19 21:49:01
+Generated: 2026-03-19 21:50:25
 
 ## Ratings Verlauf
 
