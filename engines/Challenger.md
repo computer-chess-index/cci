@@ -8,7 +8,7 @@ Home: https://github.com/SimjanovskiNikola/FRI_Challenger
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.6.0 | 2025-10-02 | 2110<sub>(+new) | 2396<sub>(+new) | 2534<sub>(+new) |  |
+| 0.6.0 | 2025-10-02 | 2093<sub>(+new) | 2396<sub>(+new) | 2534<sub>(+new) |  |
 | 0.5.0 | 2025-09-06 |  |  |  |  |
 | 0.4.0 | 2025-09-03 |  |  |  |  |
 | 0.3.0 | 2025-09-03 |  |  |  |  |
@@ -16,6 +16,8 @@ Home: https://github.com/SimjanovskiNikola/FRI_Challenger
 | 0.2.0 | 2025-05-07 |  |  |  |  |
 | 0.1.0 | 2025-01-27 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
+
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Challenger+<version>&body=###%20Engine%20name%0AChallenger%0A%0A###%20Version%0A0.6.0" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -28,4 +30,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-19 06:22:49
+Generated: 2026-03-19 22:43:29
