@@ -8,12 +8,12 @@ Home: https://github.com/AleksPeshkov/petrel
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.3.1 | 2026-02-10 | 2951<sub>(+new) | 3168<sub>(+new) | 3200<sub>(+new) |  |
+| 3.3.1 | 2026-02-10 | 2950<sub>(+new) | 3168<sub>(+new) | 3200<sub>(+new) |  |
 | 2.3.1 | 2026-02-10 |  |  |  |  |
-| 3.3 | 2026-02-09 | 2973<sub>(+new) | 3200<sub>(+new) | 3220<sub>(+new) |  |
+| 3.3 | 2026-02-09 | 2973<sub>(+new) | 3198<sub>(+new) | 3220<sub>(+new) |  |
 | 2.3 | 2026-02-09 |  |  |  |  |
 | 2.2 | 2025-12-27 |  |  |  | Rerelease |
-| 3.2 | 2025-12-21 | 2946<sub>(+87) | 3140<sub>(+97) | 3194<sub>(+69) |  |
+| 3.2 | 2025-12-21 | 2944<sub>(+85) | 3139<sub>(+96) | 3193<sub>(+68) |  |
 | 3.1 | 2025-11-28 | 2859<sub>(+74) | 3043<sub>(+73) | 3125<sub>(+132) |  |
 | 3.0 | 2025-11-26 | 2785<sub>(+532) | 2970<sub>(+526) | 2993<sub>(+479) |  |
 | 2.1 | 2025-10-13 | 2253<sub>(+new) | 2444<sub>(+new) | 2514<sub>(+new) |  |
@@ -22,6 +22,8 @@ Home: https://github.com/AleksPeshkov/petrel
 | 1,2 | 2025-09-08 |  |  |  |  |
 | 1.0 | 2025-08-14 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
+
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Petrel+<version>&body=###%20Engine%20name%0APetrel%0A%0A###%20Version%0A3.3.1" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -34,7 +36,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-19 06:25:12
+Generated: 2026-03-19 22:46:13
 
 ## Ratings Verlauf
 
@@ -43,11 +45,11 @@ Generated: 2026-03-19 06:25:12
 xychart-beta
   x-axis ["2.1", "3.0", "3.1", "3.2", "3.3", "3.3.1"]
   y-axis "Elo Rating" 2200 --> 3300
-  line "STC (8.0+0.08s)" [2253, 2785, 2859, 2946, 2973, 2951]
-  line "STC (8.0+0.08s)" [2253, 2785, 2859, 2946, 2973, 2951]
-  line "LTC (60.0+0.60s)" [2444, 2970, 3043, 3140, 3200, 3168]
-  line "VLTC (2m24s+1.12s)" [2514, 2993, 3125, 3194, 3220, 3200]
-  line "VLTC (2m24s+1.12s)" [2514, 2993, 3125, 3194, 3220, 3200]
+  line "STC (8.0+0.08s)" [2253, 2785, 2859, 2944, 2973, 2950]
+  line "STC (8.0+0.08s)" [2253, 2785, 2859, 2944, 2973, 2950]
+  line "LTC (60.0+0.60s)" [2444, 2970, 3043, 3139, 3198, 3168]
+  line "VLTC (2m24s+1.12s)" [2514, 2993, 3125, 3193, 3220, 3200]
+  line "VLTC (2m24s+1.12s)" [2514, 2993, 3125, 3193, 3220, 3200]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
