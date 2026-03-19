@@ -8,10 +8,10 @@ Home: https://github.com/tomcant/chess-rs
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.7.0 | 2025-12-31 | 1742<sub>(+42) | 1966<sub>(+75) | 2061<sub>(+44) |  |
-| 0.6.0 | 2025-11-11 | 1700<sub>(+new) | 1891<sub>(+new) | 2017<sub>(+new) |  |
+| 0.7.0 | 2025-12-31 | 1732<sub>(+43) | 1955<sub>(+74) | 2055<sub>(+48) |  |
+| 0.6.0 | 2025-11-11 | 1689<sub>(+new) | 1881<sub>(+new) | 2007<sub>(+new) |  |
 | 0.5.1 | 2025-11-04 |  |  |  | no public available .exe |
-| 0.5.0 | 2025-11-03 | 1596<sub>(+new) | 1820<sub>(+new) | 1921<sub>(+new) |  |
+| 0.5.0 | 2025-11-03 | 1586<sub>(+new) | 1809<sub>(+new) | 1912<sub>(+new) |  |
 | 0.4.2 | 2025-10-13 |  |  |  |  |
 | 0.4.1 | 2025-10-09 |  |  |  |  |
 | 0.4.0 | 2025-10-09 |  |  |  |  |
@@ -20,6 +20,8 @@ Home: https://github.com/tomcant/chess-rs
 | 0.1.1 | 2022-12-03 |  |  |  |  |
 | 0.1.0 | 2022-12-03 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
+
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Chess-rs+<version>&body=###%20Engine%20name%0AChess-rs%0A%0A###%20Version%0A0.7.0" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -32,7 +34,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-19 06:22:51
+Generated: 2026-03-19 22:43:31
 
 ## Ratings Verlauf
 
@@ -41,11 +43,11 @@ Generated: 2026-03-19 06:22:51
 xychart-beta
   x-axis ["0.5.0", "0.6.0", "0.7.0"]
   y-axis "Elo Rating" 1500 --> 2100
-  line "STC (8.0+0.08s)" [1596, 1700, 1742]
-  line "STC (8.0+0.08s)" [1596, 1700, 1742]
-  line "LTC (60.0+0.60s)" [1820, 1891, 1966]
-  line "VLTC (2m24s+1.12s)" [1921, 2017, 2061]
-  line "VLTC (2m24s+1.12s)" [1921, 2017, 2061]
+  line "STC (8.0+0.08s)" [1586, 1689, 1732]
+  line "STC (8.0+0.08s)" [1586, 1689, 1732]
+  line "LTC (60.0+0.60s)" [1809, 1881, 1955]
+  line "VLTC (2m24s+1.12s)" [1912, 2007, 2055]
+  line "VLTC (2m24s+1.12s)" [1912, 2007, 2055]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
