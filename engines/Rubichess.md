@@ -8,7 +8,7 @@ Home: https://github.com/Matthies/RubiChess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 20240817 | 2024-08-17 | 3367<sub>(+new) | 3513<sub>(+new) | 3546<sub>(+new) |  |
+| 20240817 | 2024-08-17 | 3366<sub>(+new) | 3513<sub>(+new) | 3546<sub>(+new) |  |
 | 20240112 | 2024-01-12 |  |  |  |  |
 | 20230918 | 2023-09-18 |  |  |  |  |
 | 20230410 | 2023-04-11 |  |  |  |  |
@@ -46,6 +46,8 @@ Home: https://github.com/Matthies/RubiChess
 | 0.4 | 2017-08-04 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Rubichess+<version>&body=###%20Engine%20name%0ARubichess%0A%0A###%20Version%0A20240817" target="_blank">Submit new version</a>
+
  Test Conditions:
 
 GUI/CLI: <a href=https://github.com/cutechess/cutechess target="_blank">Cute-Chess</a><br>
@@ -57,4 +59,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-19 06:26:01
+Generated: 2026-03-19 22:47:11
