@@ -8,8 +8,8 @@ Home: https://github.com/Yoshie2000/PlentyChess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7.0.0 | 2025-09-25 | 3586<sub>(+new) | 3618<sub>(+new) | 3579<sub>(0) |  |
-| 6.0.2 | 2025-06-06 |  |  | 3579<sub>(0) |  |
+| 7.0.0 | 2025-09-25 | 3587<sub>(+new) | 3618<sub>(+new) | 3579<sub>(-1) |  |
+| 6.0.2 | 2025-06-06 |  |  | 3580<sub>(+1) |  |
 | 5.0.0 | 2025-03-23 | 3390<sub>(+6) | 3555<sub>(+new) | 3579<sub>(+24) |  |
 | 4.0.1 | 2025-01-18 | 3384<sub>(+new) |  | 3555<sub>(+new) |  |
 | 4.0.0 | 2025-01-18 |  |  |  |  |
@@ -38,7 +38,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-19 22:46:15
+Generated: 2026-03-21 06:24:57
 
 ## Ratings Verlauf
 
@@ -47,8 +47,8 @@ Generated: 2026-03-19 22:46:15
 xychart-beta
   x-axis ["2.1.0", "3.0.1", "5.0.0", "7.0.0"]
   y-axis "Elo Rating" 3300 --> 3700
-  line "STC (8.0+0.08s)" [3353, 3318, 3390, 3586]
-  line "STC (8.0+0.08s)" [3353, 3318, 3390, 3586]
+  line "STC (8.0+0.08s)" [3353, 3318, 3390, 3587]
+  line "STC (8.0+0.08s)" [3353, 3318, 3390, 3587]
   line "LTC (60.0+0.60s)" [3492, 3460, 3555, 3618]
   line "VLTC (2m24s+1.12s)" [3528, 3551, 3579, 3579]
   line "VLTC (2m24s+1.12s)" [3528, 3551, 3579, 3579]
