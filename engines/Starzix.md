@@ -8,7 +8,7 @@ Home: https://github.com/zzzzz151/Starzix
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.1 | 2025-04-06 | 3359<sub>(+11) | 3511<sub>(+4) | 3536<sub>(-1) |  |
+| 6.1 | 2025-04-06 | 3359<sub>(+11) | 3511<sub>(+4) | 3537<sub>(0) |  |
 | 6.0 | 2024-10-24 | 3348<sub>(+111) | 3507<sub>(+74) | 3537<sub>(+78) |  |
 | 5.0 | 2024-05-23 | 3237<sub>(+new) | 3433<sub>(+new) | 3459<sub>(+new) |  |
 | 4.0 | 2024-01-22 |  |  |  |  |
@@ -30,7 +30,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-19 22:47:41
+Generated: 2026-03-21 06:26:07
 
 ## Ratings Verlauf
 
@@ -42,8 +42,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [3237, 3348, 3359]
   line "STC (8.0+0.08s)" [3237, 3348, 3359]
   line "LTC (60.0+0.60s)" [3433, 3507, 3511]
-  line "VLTC (2m24s+1.12s)" [3459, 3537, 3536]
-  line "VLTC (2m24s+1.12s)" [3459, 3537, 3536]
+  line "VLTC (2m24s+1.12s)" [3459, 3537, 3537]
+  line "VLTC (2m24s+1.12s)" [3459, 3537, 3537]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
