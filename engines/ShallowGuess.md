@@ -8,7 +8,7 @@ Home: https://github.com/buildingwheels/ShallowGuess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | 2026-02-24 | 2364<sub>(+new) | 2687<sub>(+new) | 2769<sub>(+new) |  |
+| 1.0.0 | 2026-02-24 | 2364<sub>(+new) | 2688<sub>(+new) | 2769<sub>(+new) |  |
 | 0.4.0 | 2025-04-27 |  |  |  |  |
 | 0.3.0 | 2025-03-25 |  |  |  |  |
 | 0.2.1 | 2025-03-24 |  |  |  |  |
@@ -28,4 +28,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-19 22:47:28
+Generated: 2026-03-21 06:25:57
