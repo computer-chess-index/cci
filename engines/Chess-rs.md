@@ -11,7 +11,7 @@ Home: https://github.com/tomcant/chess-rs
 | 0.7.0 | 2025-12-31 | 1732<sub>(+43) | 1955<sub>(+74) | 2055<sub>(+48) |  |
 | 0.6.0 | 2025-11-11 | 1689<sub>(+new) | 1881<sub>(+new) | 2007<sub>(+new) |  |
 | 0.5.1 | 2025-11-04 |  |  |  | no public available .exe |
-| 0.5.0 | 2025-11-03 | 1586<sub>(+new) | 1809<sub>(+new) | 1912<sub>(+new) |  |
+| 0.5.0 | 2025-11-03 | 1586<sub>(+new) | 1810<sub>(+new) | 1912<sub>(+new) |  |
 | 0.4.2 | 2025-10-13 |  |  |  |  |
 | 0.4.1 | 2025-10-09 |  |  |  |  |
 | 0.4.0 | 2025-10-09 |  |  |  |  |
@@ -34,7 +34,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-19 22:43:31
+Generated: 2026-03-21 06:22:46
 
 ## Ratings Verlauf
 
@@ -45,7 +45,7 @@ xychart-beta
   y-axis "Elo Rating" 1500 --> 2100
   line "STC (8.0+0.08s)" [1586, 1689, 1732]
   line "STC (8.0+0.08s)" [1586, 1689, 1732]
-  line "LTC (60.0+0.60s)" [1809, 1881, 1955]
+  line "LTC (60.0+0.60s)" [1810, 1881, 1955]
   line "VLTC (2m24s+1.12s)" [1912, 2007, 2055]
   line "VLTC (2m24s+1.12s)" [1912, 2007, 2055]
 ```
