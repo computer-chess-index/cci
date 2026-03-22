@@ -23,10 +23,10 @@ Home: https://github.com/chris-moreton/rusty-rival
 | 1.0.23 | 2026-01-19 | 1904<sub>(+new) | 2079<sub>(+new) | 2196<sub>(+new) |  |
 | 1.0.21 | 2026-01-19 |  |  |  |  |
 | 1.0.20 | 2026-01-17 |  |  |  |  |
-| 1.0.19 | 2026-01-12 |  | 2103<sub>(+new) | 2198<sub>(+new) |  |
+| 1.0.19 | 2026-01-12 |  | 2103<sub>(+new) | 2196<sub>(+new) |  |
 | 1.0.18 | 2026-01-12 |  |  |  |  |
-| 1.0.17 | 2026-01-11 | 1898<sub>(+new) |  | 2360<sub>(+58) |  |
-| 1.0.15 | 2026-01-11 |  | 2126<sub>(+59) | 2302<sub>(+38) |  |
+| 1.0.17 | 2026-01-11 | 1898<sub>(+new) |  | 2360<sub>(+60) |  |
+| 1.0.15 | 2026-01-11 |  | 2126<sub>(+59) | 2300<sub>(+36) |  |
 | 1.0.13 | 2026-01-10 | 1812<sub>(+new) | 2067<sub>(+new) | 2264<sub>(+new) |  |
 | 1.0.12 | 2026-01-10 |  |  |  |  |
 | 1.0.11 | 2026-01-10 |  |  |  |  |
@@ -55,7 +55,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-21 06:25:49
+Generated: 2026-03-22 06:25:48
 
 ## Ratings Verlauf
 
