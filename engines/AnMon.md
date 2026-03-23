@@ -8,7 +8,7 @@ Home:
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 5.75 | 2009-07-01 | 2124 | 2387 | 2446 |  |
+| 5.75 | 2009-07-01 | 2124 | 2385 | 2446 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+AnMon+<version>&body=###%20Engine%20name%0AAnMon%0A%0A###%20Version%0A5.75" target="_blank">Submit new version</a>
@@ -24,4 +24,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-22 06:22:15
+Generated: 2026-03-23 06:22:16
