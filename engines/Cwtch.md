@@ -8,7 +8,7 @@ Home: https://github.com/op12no2/cwtch
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4 | 2025-12-05 | 2878<sub>(+new) | 3113<sub>(+new) | 3156<sub>(+new) |  |
+| 4 | 2025-12-05 | 2877<sub>(+new) | 3113<sub>(+new) | 3156<sub>(+new) |  |
 | 3 | 2025-09-27 |  |  |  |  |
 | 2 | 2025-09-19 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,4 +26,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-22 06:23:06
+Generated: 2026-03-23 06:23:15
