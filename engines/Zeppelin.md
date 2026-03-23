@@ -8,18 +8,19 @@ Home: https://github.com/jszczerbinsky/zeppelin
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.4.1 | 2026-03-15 | 1798<sub>(+4) | 2152<sub>(+112) | 2203<sub>(+5) |  |
-| 1.4.0 | 2026-03-14 | 1794<sub>(+159) | 2040<sub>(+103) | 2198<sub>(+182) |  |
-| 1.3.0 | 2026-03-05 | 1635<sub>(+65) | 1937<sub>(+133) | 2016<sub>(+58) |  |
-| 1.2.0 | 2026-02-09 | 1570<sub>(+74) | 1804<sub>(+102) | 1958<sub>(+129) |  |
-| 1.1.0 | 2026-02-03 | 1496<sub>(+338) | 1702<sub>(+124) | 1829<sub>(+193) |  |
-| 1.0.0 | 2026-02-01 | 1158<sub>(-38) | 1578<sub>(+162) | 1636<sub>(+113) |  |
-| 0.2.0 | 2025-11-16 | 1196<sub>(+new) | 1416<sub>(+new) | 1523<sub>(+new) |  |
+| 1.4.2 | 2026-03-22 |  |  |  |  |
+| 1.4.1 | 2026-03-15 | 1797<sub>(+4) | 2151<sub>(+111) | 2202<sub>(+6) |  |
+| 1.4.0 | 2026-03-14 | 1793<sub>(+159) | 2040<sub>(+103) | 2196<sub>(+180) |  |
+| 1.3.0 | 2026-03-05 | 1634<sub>(+64) | 1937<sub>(+135) | 2016<sub>(+58) |  |
+| 1.2.0 | 2026-02-09 | 1570<sub>(+74) | 1802<sub>(+101) | 1958<sub>(+130) |  |
+| 1.1.0 | 2026-02-03 | 1496<sub>(+339) | 1701<sub>(+123) | 1828<sub>(+192) |  |
+| 1.0.0 | 2026-02-01 | 1157<sub>(-38) | 1578<sub>(+162) | 1636<sub>(+113) |  |
+| 0.2.0 | 2025-11-16 | 1195<sub>(+new) | 1416<sub>(+new) | 1523<sub>(+new) |  |
 | 0.1.1 | 2025-10-12 |  |  |  |  |
 | 0.1.0 | 2025-10-11 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Zeppelin+<version>&body=###%20Engine%20name%0AZeppelin%0A%0A###%20Version%0A1.4.1" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Zeppelin+<version>&body=###%20Engine%20name%0AZeppelin%0A%0A###%20Version%0A1.4.2" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -32,7 +33,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-22 06:26:50
+Generated: 2026-03-23 06:27:25
 
 ## Ratings Verlauf
 
@@ -41,11 +42,11 @@ Generated: 2026-03-22 06:26:50
 xychart-beta
   x-axis ["0.2.0", "1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0", "1.4.1"]
   y-axis "Elo Rating" 1100 --> 2300
-  line "STC (8.0+0.08s)" [1196, 1158, 1496, 1570, 1635, 1794, 1798]
-  line "STC (8.0+0.08s)" [1196, 1158, 1496, 1570, 1635, 1794, 1798]
-  line "LTC (60.0+0.60s)" [1416, 1578, 1702, 1804, 1937, 2040, 2152]
-  line "VLTC (2m24s+1.12s)" [1523, 1636, 1829, 1958, 2016, 2198, 2203]
-  line "VLTC (2m24s+1.12s)" [1523, 1636, 1829, 1958, 2016, 2198, 2203]
+  line "STC (8.0+0.08s)" [1195, 1157, 1496, 1570, 1634, 1793, 1797]
+  line "STC (8.0+0.08s)" [1195, 1157, 1496, 1570, 1634, 1793, 1797]
+  line "LTC (60.0+0.60s)" [1416, 1578, 1701, 1802, 1937, 2040, 2151]
+  line "VLTC (2m24s+1.12s)" [1523, 1636, 1828, 1958, 2016, 2196, 2202]
+  line "VLTC (2m24s+1.12s)" [1523, 1636, 1828, 1958, 2016, 2196, 2202]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
