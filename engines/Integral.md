@@ -8,7 +8,7 @@ Home: https://github.com/aronpetko/integral
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7.0 | 2025-02-14 | 3391<sub>(+new) | 3545<sub>(+new) | 3564<sub>(+new) |  |
+| 7.0 | 2025-02-14 | 3390<sub>(+new) | 3544<sub>(+new) | 3564<sub>(+new) |  |
 | 6 | 2024-12-17 |  |  |  |  |
 | 5 | 2024-11-02 |  |  |  |  |
 | 4 | 2024-09-06 |  |  |  |  |
@@ -30,4 +30,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-22 06:23:55
+Generated: 2026-03-23 06:24:13
