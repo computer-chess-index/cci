@@ -8,8 +8,8 @@ Home: https://github.com/FauziAkram/Malika-releases
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.892 | 2026-02-23 | 2657<sub>(-84) | 2916<sub>(-103) | 2924<sub>(-204) |  |
-| 0.418 | 2026-02-07 | 2741 | 3019 | 3128 |  |
+| 0.892 | 2026-02-23 | 2658<sub>(-81) | 2915<sub>(-104) | 2924<sub>(-204) |  |
+| 0.418 | 2026-02-07 | 2739 | 3019 | 3128 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Malika+<version>&body=###%20Engine%20name%0AMalika%0A%0A###%20Version%0A0.892" target="_blank">Submit new version</a>
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-22 06:24:24
+Generated: 2026-03-23 06:24:44
 
 ## Ratings Verlauf
 
@@ -34,9 +34,9 @@ Generated: 2026-03-22 06:24:24
 xychart-beta
   x-axis ["0.418", "0.892"]
   y-axis "Elo Rating" 2600 --> 3200
-  line "STC (8.0+0.08s)" [2741, 2657]
-  line "STC (8.0+0.08s)" [2741, 2657]
-  line "LTC (60.0+0.60s)" [3019, 2916]
+  line "STC (8.0+0.08s)" [2739, 2658]
+  line "STC (8.0+0.08s)" [2739, 2658]
+  line "LTC (60.0+0.60s)" [3019, 2915]
   line "VLTC (2m24s+1.12s)" [3128, 2924]
   line "VLTC (2m24s+1.12s)" [3128, 2924]
 ```
