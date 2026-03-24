@@ -19,8 +19,8 @@ Home: https://github.com/chris-moreton/rusty-rival
 | 1.0.27 | 2026-02-09 |  |  |  |  |
 | 1.0.26 | 2026-02-01 |  |  |  |  |
 | 1.0.25 | 2026-02-01 |  |  |  |  |
-| 1.0.24 | 2026-01-30 | 1945<sub>(+41) | 2238<sub>(+160) | 2264<sub>(+69) |  |
-| 1.0.23 | 2026-01-19 | 1904<sub>(+new) | 2078<sub>(+new) | 2195<sub>(+new) |  |
+| 1.0.24 | 2026-01-30 | 1947<sub>(+43) | 2237<sub>(+158) | 2264<sub>(+69) |  |
+| 1.0.23 | 2026-01-19 | 1904<sub>(+new) | 2079<sub>(+new) | 2195<sub>(+new) |  |
 | 1.0.21 | 2026-01-19 |  |  |  |  |
 | 1.0.20 | 2026-01-17 |  |  |  |  |
 | 1.0.19 | 2026-01-12 |  | 2103<sub>(+new) | 2198<sub>(+new) |  |
@@ -55,7 +55,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-23 06:26:15
+Generated: 2026-03-24 06:26:25
 
 ## Ratings Verlauf
 
@@ -64,9 +64,9 @@ Generated: 2026-03-23 06:26:15
 xychart-beta
   x-axis ["1.0.13", "1.0.23", "1.0.24", "1.0.29"]
   y-axis "Elo Rating" 1800 --> 2300
-  line "STC (8.0+0.08s)" [1812, 1904, 1945, 1926]
-  line "STC (8.0+0.08s)" [1812, 1904, 1945, 1926]
-  line "LTC (60.0+0.60s)" [2067, 2078, 2238, 2184]
+  line "STC (8.0+0.08s)" [1812, 1904, 1947, 1926]
+  line "STC (8.0+0.08s)" [1812, 1904, 1947, 1926]
+  line "LTC (60.0+0.60s)" [2067, 2079, 2237, 2184]
   line "VLTC (2m24s+1.12s)" [2263, 2195, 2264, 2299]
   line "VLTC (2m24s+1.12s)" [2263, 2195, 2264, 2299]
 ```
