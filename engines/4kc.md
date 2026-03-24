@@ -8,7 +8,7 @@ Home: https://github.com/GediminasMasaitis/4k-dot-c
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 8.0 | 2026-03-10 | 2611<sub>(+new) | 2834<sub>(+new) | 2958<sub>(+new) |  |
+| 8.0 | 2026-03-10 | 2612<sub>(+new) | 2836<sub>(+new) | 2957<sub>(+new) |  |
 | 6.0 | 2026-03-10 |  |  |  |  |
 | 5.0 | 2025-10-30 | 2515<sub>(+new) | 2815<sub>(+new) | 2886<sub>(+new) |  |
 | 4.41 | 2025-08-15 |  |  |  |  |
@@ -34,7 +34,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-23 06:22:02
+Generated: 2026-03-24 06:22:02
 
 ## Ratings Verlauf
 
@@ -43,11 +43,11 @@ Generated: 2026-03-23 06:22:02
 xychart-beta
   x-axis ["5.0", "8.0"]
   y-axis "Elo Rating" 2500 --> 3000
-  line "STC (8.0+0.08s)" [2515, 2611]
-  line "STC (8.0+0.08s)" [2515, 2611]
-  line "LTC (60.0+0.60s)" [2815, 2834]
-  line "VLTC (2m24s+1.12s)" [2886, 2958]
-  line "VLTC (2m24s+1.12s)" [2886, 2958]
+  line "STC (8.0+0.08s)" [2515, 2612]
+  line "STC (8.0+0.08s)" [2515, 2612]
+  line "LTC (60.0+0.60s)" [2815, 2836]
+  line "VLTC (2m24s+1.12s)" [2886, 2957]
+  line "VLTC (2m24s+1.12s)" [2886, 2957]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
