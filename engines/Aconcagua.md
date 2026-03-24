@@ -8,10 +8,10 @@ Home: https://github.com/gabtar/aconcagua
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 5.1.0 | 2026-03-01 | 2238<sub>(+51) | 2476<sub>(-5) | 2600<sub>(+116) |  |
-| 5.0.0 | 2026-01-25 | 2187<sub>(+202) | 2481<sub>(+190) | 2484<sub>(+82) |  |
-| 4.1.0 | 2025-12-14 | 1985<sub>(+54) | 2291<sub>(+80) | 2402<sub>(+60) |  |
-| 4.0.0 | 2025-11-09 | 1931<sub>(+new) | 2211<sub>(+new) | 2342<sub>(+new) |  |
+| 5.1.0 | 2026-03-01 | 2232<sub>(+45) | 2476<sub>(-5) | 2606<sub>(+122) |  |
+| 5.0.0 | 2026-01-25 | 2187<sub>(+202) | 2481<sub>(+190) | 2484<sub>(+81) |  |
+| 4.1.0 | 2025-12-14 | 1985<sub>(+54) | 2291<sub>(+78) | 2403<sub>(+61) |  |
+| 4.0.0 | 2025-11-09 | 1931<sub>(+new) | 2213<sub>(+new) | 2342<sub>(+new) |  |
 | 3.4.0 | 2025-10-04 |  |  |  |  |
 | 3.3.0 | 2025-09-14 |  |  |  |  |
 | 3.2.0 | 2025-08-31 |  |  |  |  |
@@ -36,7 +36,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-23 06:22:04
+Generated: 2026-03-24 06:22:04
 
 ## Ratings Verlauf
 
@@ -44,12 +44,12 @@ Generated: 2026-03-23 06:22:04
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["4.0.0", "4.1.0", "5.0.0", "5.1.0"]
-  y-axis "Elo Rating" 1900 --> 2600
-  line "STC (8.0+0.08s)" [1931, 1985, 2187, 2238]
-  line "STC (8.0+0.08s)" [1931, 1985, 2187, 2238]
-  line "LTC (60.0+0.60s)" [2211, 2291, 2481, 2476]
-  line "VLTC (2m24s+1.12s)" [2342, 2402, 2484, 2600]
-  line "VLTC (2m24s+1.12s)" [2342, 2402, 2484, 2600]
+  y-axis "Elo Rating" 1900 --> 2700
+  line "STC (8.0+0.08s)" [1931, 1985, 2187, 2232]
+  line "STC (8.0+0.08s)" [1931, 1985, 2187, 2232]
+  line "LTC (60.0+0.60s)" [2213, 2291, 2481, 2476]
+  line "VLTC (2m24s+1.12s)" [2342, 2403, 2484, 2606]
+  line "VLTC (2m24s+1.12s)" [2342, 2403, 2484, 2606]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
