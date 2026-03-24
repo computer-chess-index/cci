@@ -8,7 +8,7 @@ Home: https://rofchade.nl/
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.1 | 2023-10-01 | 3243 | 3443 | 3484 |  |
+| 3.1 | 2023-10-01 | 3243 | 3441 | 3483 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+rofChade+<version>&body=###%20Engine%20name%0ArofChade%0A%0A###%20Version%0A3.1" target="_blank">Submit new version</a>
@@ -24,4 +24,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-23 06:26:05
+Generated: 2026-03-24 06:26:16
