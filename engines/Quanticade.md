@@ -8,7 +8,7 @@ Home: https://github.com/Quanticade/Quanticade
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0 | 2025-12-15 | 3368<sub>(+47) | 3538<sub>(+44) | 3560<sub>(+26) |  |
+| 3.0 | 2025-12-15 | 3366<sub>(+45) | 3538<sub>(+44) | 3560<sub>(+26) |  |
 | 2.0 | 2025-05-21 | 3321<sub>(+new) | 3494<sub>(+new) | 3534<sub>(+new) |  |
 | 1.0 Fenrir | 2025-03-10 |  |  |  |  |
 | 1.2 Chimera | 2025-01-06 |  |  |  |  |
@@ -34,7 +34,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-23 06:25:43
+Generated: 2026-03-24 06:25:52
 
 ## Ratings Verlauf
 
@@ -43,8 +43,8 @@ Generated: 2026-03-23 06:25:43
 xychart-beta
   x-axis ["2.0", "3.0"]
   y-axis "Elo Rating" 3300 --> 3600
-  line "STC (8.0+0.08s)" [3321, 3368]
-  line "STC (8.0+0.08s)" [3321, 3368]
+  line "STC (8.0+0.08s)" [3321, 3366]
+  line "STC (8.0+0.08s)" [3321, 3366]
   line "LTC (60.0+0.60s)" [3494, 3538]
   line "VLTC (2m24s+1.12s)" [3534, 3560]
   line "VLTC (2m24s+1.12s)" [3534, 3560]
