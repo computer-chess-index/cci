@@ -8,7 +8,7 @@ Home: https://github.com/lucametehau/CloverEngine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.1 | 2025-09-14 | 3402<sub>(+new) | 3555<sub>(+new) | 3567<sub>(+new) |  |
+| 9.1 | 2025-09-14 | 3402<sub>(+new) | 3555<sub>(+new) | 3565<sub>(+new) |  |
 | 9.0 | 2025-08-19 |  |  |  |  |
 | 8.2.5 | 2025-07-14 | 3363<sub>(+new) | 3511<sub>(+new) | 3540<sub>(+new) |  |
 | 8.2.1 | 2025-07-12 |  |  |  |  |
@@ -57,7 +57,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-24 06:23:09
+Generated: 2026-03-25 06:23:13
 
 ## Ratings Verlauf
 
@@ -69,8 +69,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [3360, 3366, 3363, 3402]
   line "STC (8.0+0.08s)" [3360, 3366, 3363, 3402]
   line "LTC (60.0+0.60s)" [3506, 3495, 3511, 3555]
-  line "VLTC (2m24s+1.12s)" [3536, 3536, 3540, 3567]
-  line "VLTC (2m24s+1.12s)" [3536, 3536, 3540, 3567]
+  line "VLTC (2m24s+1.12s)" [3536, 3536, 3540, 3565]
+  line "VLTC (2m24s+1.12s)" [3536, 3536, 3540, 3565]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
