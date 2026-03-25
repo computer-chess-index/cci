@@ -1,6 +1,6 @@
 # Lichess CCI-Bot Ratings
 
-Generated: 2026-03-25 19:39:36
+Generated: 2026-03-25 23:24:56
 
 | Bot Name | Engine | Version | Published | Author | CCI_Bullet | CCI_Blitz | Lichess Bullet | Lichess Blitz |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -15,5 +15,5 @@ Generated: 2026-03-25 19:39:36
 | <sub>CCI-7 | <sub><a href="https://github.com/official-stockfish/Stockfish" target="_blank">Stockfish</a> | <sub>18.0 | <sub>2026-01-31 | <sub><a href="https://github.com/official-stockfish/Stockfish/blob/master/AUTHORS" target="_blank">Stockfish Authors</a> | <sub>1412 | <sub>1412 | <sub>1774 | <sub>1709 |
 | <sub>CCI-8 | <sub><a href="https://github.com/codedeliveryservice/Reckless" target="_blank">Reckless</a> | <sub>0.9.0 | <sub>2026-03-01 | <sub>Arseniy Surkov | <sub>1369 | <sub>1369 | <sub>1755 | <sub>1797 |
 | <sub>CCI-9 | <sub><a href="https://github.com/codedeliveryservice/Reckless" target="_blank">Reckless</a> | <sub>0.9.0 | <sub>2026-03-01 | <sub>Arseniy Surkov | <sub>3281 | <sub>3281 | <sub>2780 | <sub>2772 |
-| <sub>CCI-10 | <sub><a href="https://github.com/codedeliveryservice/Reckless" target="_blank">Reckless</a> | <sub>0.9.0 | <sub>2026-03-01 | <sub>Arseniy Surkov | <sub>3526 | <sub>3526 | <sub>2570 | <sub>2940 |
+| <sub>CCI-10 | <sub><a href="https://github.com/codedeliveryservice/Reckless" target="_blank">Reckless</a> | <sub>0.9.0 | <sub>2026-03-01 | <sub>Arseniy Surkov | <sub> | <sub> | <sub>2570 | <sub>2940 |
 | <sub>ZlomenyMesic | <sub><a href="https://github.com/ZlomenyMesic/Kreveta" target="_blank">Kreveta</a> | <sub>2.2.4 | <sub>2026-03-05 | <sub>Daniel Michna | <sub>2134 | <sub>2207 | <sub>2253 | <sub>2271 |
