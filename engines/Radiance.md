@@ -8,13 +8,14 @@ Home: https://github.com/ppipelin/radiance
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.2 | 2026-01-17 | 1593<sub>(+new) | 1867<sub>(+new) | 1918<sub>(+new) |  |
+| 4.3 | 2026-03-25 | 1617<sub>(+24) | 1998<sub>(+131) | 2164<sub>(+247) |  |
+| 4.2 | 2026-01-17 | 1593<sub>(+new) | 1867<sub>(+new) | 1917<sub>(+new) |  |
 | 4.1 | 2025-08-16 |  |  |  |  |
 | 4.0.1 | 2025-04-17 |  |  |  |  |
 | 4.0 | 2025-04-16 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Radiance+<version>&body=###%20Engine%20name%0ARadiance%0A%0A###%20Version%0A4.2" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Radiance+<version>&body=###%20Engine%20name%0ARadiance%0A%0A###%20Version%0A4.3" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -27,4 +28,21 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-25 06:26:08
+Generated: 2026-03-26 06:26:07
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["4.2", "4.3"]
+  y-axis "Elo Rating" 1500 --> 2200
+  line "STC (8.0+0.08s)" [1593, 1617]
+  line "STC (8.0+0.08s)" [1593, 1617]
+  line "LTC (60.0+0.60s)" [1867, 1998]
+  line "VLTC (2m24s+1.12s)" [1917, 2164]
+  line "VLTC (2m24s+1.12s)" [1917, 2164]
+```
+
+<p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
+<p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
