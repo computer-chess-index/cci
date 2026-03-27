@@ -8,7 +8,7 @@ Home: https://github.com/gab8192/Obsidian
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 16.0 | 2025-05-21 | 3463<sub>(+31) | 3580<sub>(+25) | 3605<sub>(+27) |  |
+| 16.0 | 2025-05-21 | 3461<sub>(+29) | 3580<sub>(+25) | 3605<sub>(+27) |  |
 | 15.0 | 2025-01-31 | 3432<sub>(-6) | 3555<sub>(-6) | 3578<sub>(-2) |  |
 | 14.0 | 2024-10-22 | 3438<sub>(+22) | 3561<sub>(+27) | 3580<sub>(+7) |  |
 | 13.0 | 2024-07-01 | 3416<sub>(+new) | 3534<sub>(+new) | 3573<sub>(+new) |  |
@@ -36,7 +36,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-26 06:25:19
+Generated: 2026-03-27 06:25:18
 
 ## Ratings Verlauf
 
@@ -45,8 +45,8 @@ Generated: 2026-03-26 06:25:19
 xychart-beta
   x-axis ["13.0", "14.0", "15.0", "16.0"]
   y-axis "Elo Rating" 3400 --> 3700
-  line "STC (8.0+0.08s)" [3416, 3438, 3432, 3463]
-  line "STC (8.0+0.08s)" [3416, 3438, 3432, 3463]
+  line "STC (8.0+0.08s)" [3416, 3438, 3432, 3461]
+  line "STC (8.0+0.08s)" [3416, 3438, 3432, 3461]
   line "LTC (60.0+0.60s)" [3534, 3561, 3555, 3580]
   line "VLTC (2m24s+1.12s)" [3573, 3580, 3578, 3605]
   line "VLTC (2m24s+1.12s)" [3573, 3580, 3578, 3605]
