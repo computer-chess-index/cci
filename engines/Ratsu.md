@@ -8,8 +8,8 @@ Home: https://github.com/ranzuh/ratsu
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | 2026-02-20 | 1666<sub>(+113) | 1893<sub>(+72) | 1960<sub>(+77) |  |
-| 0.9.0 | 2026-01-21 | 1553 | 1821 | 1883 |  |
+| 1.0.0 | 2026-02-20 | 1666<sub>(+112) | 1886<sub>(+65) | 1966<sub>(+83) |  |
+| 0.9.0 | 2026-01-21 | 1554 | 1821 | 1883 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Ratsu+<version>&body=###%20Engine%20name%0ARatsu%0A%0A###%20Version%0A1.0.0" target="_blank">Submit new version</a>
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-26 06:26:10
+Generated: 2026-03-27 06:26:07
 
 ## Ratings Verlauf
 
@@ -34,11 +34,11 @@ Generated: 2026-03-26 06:26:10
 xychart-beta
   x-axis ["0.9.0", "1.0.0"]
   y-axis "Elo Rating" 1500 --> 2000
-  line "STC (8.0+0.08s)" [1553, 1666]
-  line "STC (8.0+0.08s)" [1553, 1666]
-  line "LTC (60.0+0.60s)" [1821, 1893]
-  line "VLTC (2m24s+1.12s)" [1883, 1960]
-  line "VLTC (2m24s+1.12s)" [1883, 1960]
+  line "STC (8.0+0.08s)" [1554, 1666]
+  line "STC (8.0+0.08s)" [1554, 1666]
+  line "LTC (60.0+0.60s)" [1821, 1886]
+  line "VLTC (2m24s+1.12s)" [1883, 1966]
+  line "VLTC (2m24s+1.12s)" [1883, 1966]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
