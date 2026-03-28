@@ -1,6 +1,6 @@
 # Engine: Whitespine
 
-Author: Macurek Miloslav
+Author: Miloslav Macůrek
 
 Home: https://github.com/maelic13/whitespine
 
@@ -28,4 +28,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-27 06:27:35
+Generated: 2026-03-28 06:28:18
