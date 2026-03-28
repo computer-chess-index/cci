@@ -8,7 +8,7 @@ Home: https://github.com/Koma1867/Soomi-V1-Chess-engine-in-golang
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.2.0 | 2025-12-31 | 2067<sub>(+212) | 2372<sub>(+196) | 2466<sub>(+243) |  |
+| 1.2.0 | 2025-12-31 | 2067<sub>(+212) | 2373<sub>(+197) | 2468<sub>(+245) |  |
 | 1.1.8 | 2025-12-16 | 1855<sub>(-8) | 2176<sub>(+48) | 2223<sub>(+43) |  |
 | 1.1.7 | 2025-12-07 | 1863<sub>(+54) | 2128<sub>(-48) | 2180<sub>(-10) |  |
 | 1.1.6 | 2025-11-30 | 1809 | 2176 | 2190 |  |
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-27 06:26:46
+Generated: 2026-03-28 06:27:24
 
 ## Ratings Verlauf
 
@@ -38,9 +38,9 @@ xychart-beta
   y-axis "Elo Rating" 1800 --> 2500
   line "STC (8.0+0.08s)" [1809, 1863, 1855, 2067]
   line "STC (8.0+0.08s)" [1809, 1863, 1855, 2067]
-  line "LTC (60.0+0.60s)" [2176, 2128, 2176, 2372]
-  line "VLTC (2m24s+1.12s)" [2190, 2180, 2223, 2466]
-  line "VLTC (2m24s+1.12s)" [2190, 2180, 2223, 2466]
+  line "LTC (60.0+0.60s)" [2176, 2128, 2176, 2373]
+  line "VLTC (2m24s+1.12s)" [2190, 2180, 2223, 2468]
+  line "VLTC (2m24s+1.12s)" [2190, 2180, 2223, 2468]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
