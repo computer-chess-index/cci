@@ -1,6 +1,6 @@
 # Lichess CCI-Bot Ratings
 
-Generated: 2026-03-27 22:55:04
+Generated: 2026-03-28 06:05:09
 
 | Bot Name | Engine | Version | Published | Author | CCI_Bullet | CCI_Blitz | Lichess Bullet | Lichess Blitz |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -11,7 +11,7 @@ Generated: 2026-03-27 22:55:04
 | <sub>CCI-3 | <sub><a href="https://github.com/HansTibberio/Laura" target="_blank">Laura</a> | <sub>1.1.0 | <sub>2026-01-26 | <sub>Hans Tibberio | <sub>1527 | <sub>1451 | <sub>1760 | <sub>1703 |
 | <sub>CCI-4 | <sub><a href="https://github.com/sb2bg/sykora" target="_blank">Sykora</a> | <sub>0.2.1 | <sub>2026-03-02 | <sub>Sullivan Bognar | <sub>2404 | <sub>2444 | <sub>2507 | <sub>2523 |
 | <sub>CCI-5 | <sub><a href="https://github.com/official-stockfish/Stockfish" target="_blank">Stockfish</a> | <sub>18.0 | <sub>2026-01-31 | <sub><a href="https://github.com/official-stockfish/Stockfish/blob/master/AUTHORS" target="_blank">Stockfish Authors</a> | <sub>3059 | <sub>3059 | <sub>2687 | <sub>2645 |
-| <sub>CCI-6 | <sub><a href="https://github.com/official-stockfish/Stockfish" target="_blank">Stockfish</a> | <sub>18.0 | <sub>2026-01-31 | <sub><a href="https://github.com/official-stockfish/Stockfish/blob/master/AUTHORS" target="_blank">Stockfish Authors</a> | <sub>3559 | <sub>3559 | <sub>3028 | <sub>2937 |
+| <sub>CCI-6 | <sub><a href="https://github.com/official-stockfish/Stockfish" target="_blank">Stockfish</a> | <sub>18.0 | <sub>2026-01-31 | <sub><a href="https://github.com/official-stockfish/Stockfish/blob/master/AUTHORS" target="_blank">Stockfish Authors</a> | <sub>3560 | <sub>3560 | <sub>3028 | <sub>2937 |
 | <sub>CCI-7 | <sub><a href="https://github.com/official-stockfish/Stockfish" target="_blank">Stockfish</a> | <sub>18.0 | <sub>2026-01-31 | <sub><a href="https://github.com/official-stockfish/Stockfish/blob/master/AUTHORS" target="_blank">Stockfish Authors</a> | <sub>1412 | <sub>1412 | <sub>1716 | <sub>1701 |
 | <sub>CCI-8 | <sub><a href="https://github.com/codedeliveryservice/Reckless" target="_blank">Reckless</a> | <sub>0.9.0 | <sub>2026-03-01 | <sub>Arseniy Surkov | <sub>1369 | <sub>1369 | <sub>1772 | <sub>1767 |
 | <sub>CCI-9 | <sub><a href="https://github.com/codedeliveryservice/Reckless" target="_blank">Reckless</a> | <sub>0.9.0 | <sub>2026-03-01 | <sub>Arseniy Surkov | <sub>3282 | <sub>3282 | <sub>2772 | <sub>2784 |
