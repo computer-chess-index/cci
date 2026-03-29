@@ -8,8 +8,8 @@ Home: https://github.com/ppipelin/radiance
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.3 | 2026-03-25 | 1689<sub>(+96) | 1982<sub>(+115) | 2117<sub>(+199) |  |
-| 4.2 | 2026-01-17 | 1593<sub>(+new) | 1867<sub>(+new) | 1918<sub>(+new) |  |
+| 4.3 | 2026-03-25 | 1679<sub>(+85) | 1999<sub>(+129) | 2110<sub>(+190) |  |
+| 4.2 | 2026-01-17 | 1594<sub>(+new) | 1870<sub>(+new) | 1920<sub>(+new) |  |
 | 4.1 | 2025-08-16 |  |  |  |  |
 | 4.0.1 | 2025-04-17 |  |  |  |  |
 | 4.0 | 2025-04-16 |  |  |  |  |
@@ -28,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-28 06:26:38
+Generated: 2026-03-29 06:25:57
 
 ## Ratings Verlauf
 
@@ -37,11 +37,11 @@ Generated: 2026-03-28 06:26:38
 xychart-beta
   x-axis ["4.2", "4.3"]
   y-axis "Elo Rating" 1500 --> 2200
-  line "STC (8.0+0.08s)" [1593, 1689]
-  line "STC (8.0+0.08s)" [1593, 1689]
-  line "LTC (60.0+0.60s)" [1867, 1982]
-  line "VLTC (2m24s+1.12s)" [1918, 2117]
-  line "VLTC (2m24s+1.12s)" [1918, 2117]
+  line "STC (8.0+0.08s)" [1594, 1679]
+  line "STC (8.0+0.08s)" [1594, 1679]
+  line "LTC (60.0+0.60s)" [1870, 1999]
+  line "VLTC (2m24s+1.12s)" [1920, 2110]
+  line "VLTC (2m24s+1.12s)" [1920, 2110]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
