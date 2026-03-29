@@ -8,30 +8,31 @@ Home: https://github.com/chris-moreton/rusty-rival
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
+| 1.0.37 | 2026-03-28 |  |  |  |  |
 | 1.0.36 | 2026-03-18 |  |  |  | eval pending* |
 | 1.0.34 | 2026-03-10 |  |  |  | eval pending* |
 | 1.0.33 | 2026-03-10 |  |  |  |  |
 | 1.0.32 | 2026-03-09 |  |  |  |  |
 | 1.0.31 | 2026-03-06 |  |  |  | eval pending* |
 | 1.0.30 | 2026-03-06 |  |  |  |  |
-| 1.0.29 | 2026-02-10 | 1928<sub>(+new) | 2186<sub>(+new) | 2300<sub>(+new) |  |
+| 1.0.29 | 2026-02-10 | 1931<sub>(+new) | 2188<sub>(+new) | 2302<sub>(+new) |  |
 | 1.0.28 | 2026-02-10 |  |  |  |  |
 | 1.0.27 | 2026-02-09 |  |  |  |  |
 | 1.0.26 | 2026-02-01 |  |  |  |  |
 | 1.0.25 | 2026-02-01 |  |  |  |  |
-| 1.0.24 | 2026-01-30 | 1947<sub>(+41) | 2238<sub>(+159) | 2267<sub>(+71) |  |
-| 1.0.23 | 2026-01-19 | 1906<sub>(+new) | 2079<sub>(+new) | 2196<sub>(+new) |  |
+| 1.0.24 | 2026-01-30 | 1947<sub>(+41) | 2241<sub>(+159) | 2267<sub>(+68) |  |
+| 1.0.23 | 2026-01-19 | 1906<sub>(+new) | 2082<sub>(+new) | 2199<sub>(+new) |  |
 | 1.0.21 | 2026-01-19 |  |  |  |  |
 | 1.0.20 | 2026-01-17 |  |  |  |  |
-| 1.0.19 | 2026-01-12 |  | 2103<sub>(+new) | 2203<sub>(+new) |  |
+| 1.0.19 | 2026-01-12 |  | 2106<sub>(+new) | 2203<sub>(+new) |  |
 | 1.0.18 | 2026-01-12 |  |  |  |  |
-| 1.0.17 | 2026-01-11 | 1898<sub>(+new) |  | 2358<sub>(+56) |  |
-| 1.0.15 | 2026-01-11 |  | 2126<sub>(+59) | 2302<sub>(+37) |  |
-| 1.0.13 | 2026-01-10 | 1810<sub>(+new) | 2067<sub>(+new) | 2265<sub>(+new) |  |
+| 1.0.17 | 2026-01-11 | 1904<sub>(+new) |  | 2358<sub>(+55) |  |
+| 1.0.15 | 2026-01-11 |  | 2128<sub>(+58) | 2303<sub>(+36) |  |
+| 1.0.13 | 2026-01-10 | 1809<sub>(+new) | 2070<sub>(+new) | 2267<sub>(+new) |  |
 | 1.0.12 | 2026-01-10 |  |  |  |  |
 | 1.0.11 | 2026-01-10 |  |  |  |  |
 | 1.0.10 | 2026-01-09 |  |  |  |  |
-| 1.0.9 | 2026-01-01 |  | 1991<sub>(+new) |  |  |
+| 1.0.9 | 2026-01-01 |  | 1994<sub>(+new) |  |  |
 | 1.0.8 | 2026-01-01 |  |  |  |  |
 | 1.0.7 | 2025-12-30 |  |  |  | thread 'main' (10808) panicked at src\main.rs:17:36: |
 | 1.0.6 | 2025-12-30 |  |  |  |  |
@@ -42,7 +43,7 @@ Home: https://github.com/chris-moreton/rusty-rival
 | 1.0.0 | 2022-04-03 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+RustyRival+<version>&body=###%20Engine%20name%0ARustyRival%0A%0A###%20Version%0A1.0.36" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+RustyRival+<version>&body=###%20Engine%20name%0ARustyRival%0A%0A###%20Version%0A1.0.37" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -55,7 +56,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-28 06:27:07
+Generated: 2026-03-29 06:26:24
 
 ## Ratings Verlauf
 
@@ -63,12 +64,12 @@ Generated: 2026-03-28 06:27:07
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["1.0.13", "1.0.23", "1.0.24", "1.0.29"]
-  y-axis "Elo Rating" 1800 --> 2300
-  line "STC (8.0+0.08s)" [1810, 1906, 1947, 1928]
-  line "STC (8.0+0.08s)" [1810, 1906, 1947, 1928]
-  line "LTC (60.0+0.60s)" [2067, 2079, 2238, 2186]
-  line "VLTC (2m24s+1.12s)" [2265, 2196, 2267, 2300]
-  line "VLTC (2m24s+1.12s)" [2265, 2196, 2267, 2300]
+  y-axis "Elo Rating" 1800 --> 2400
+  line "STC (8.0+0.08s)" [1809, 1906, 1947, 1931]
+  line "STC (8.0+0.08s)" [1809, 1906, 1947, 1931]
+  line "LTC (60.0+0.60s)" [2070, 2082, 2241, 2188]
+  line "VLTC (2m24s+1.12s)" [2267, 2199, 2267, 2302]
+  line "VLTC (2m24s+1.12s)" [2267, 2199, 2267, 2302]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
