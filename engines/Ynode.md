@@ -8,8 +8,8 @@ Home: https://github.com/oozturk777/ynode
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0234 | 2026-03-22 | 3152<sub>(-15) | 3357<sub>(+12) | 3420<sub>(+26) |  |
-| 0219 | 2025-11-16 | 3167<sub>(+new) | 3345<sub>(+new) | 3394<sub>(+new) |  |
+| 0234 | 2026-03-22 | 3154<sub>(-14) | 3359<sub>(+12) | 3421<sub>(+26) |  |
+| 0219 | 2025-11-16 | 3168<sub>(+new) | 3347<sub>(+new) | 3395<sub>(+new) |  |
 | 0215 | 2025-09-28 |  |  |  |  |
 | 0213 | 2025-08-24 |  |  |  |  |
 | 0144 | 2025-08-01 |  |  |  |  |
@@ -32,7 +32,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-28 06:28:24
+Generated: 2026-03-29 06:27:35
 
 ## Ratings Verlauf
 
@@ -41,11 +41,11 @@ Generated: 2026-03-28 06:28:24
 xychart-beta
   x-axis ["0219", "0234"]
   y-axis "Elo Rating" 3100 --> 3500
-  line "STC (8.0+0.08s)" [3167, 3152]
-  line "STC (8.0+0.08s)" [3167, 3152]
-  line "LTC (60.0+0.60s)" [3345, 3357]
-  line "VLTC (2m24s+1.12s)" [3394, 3420]
-  line "VLTC (2m24s+1.12s)" [3394, 3420]
+  line "STC (8.0+0.08s)" [3168, 3154]
+  line "STC (8.0+0.08s)" [3168, 3154]
+  line "LTC (60.0+0.60s)" [3347, 3359]
+  line "VLTC (2m24s+1.12s)" [3395, 3421]
+  line "VLTC (2m24s+1.12s)" [3395, 3421]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
