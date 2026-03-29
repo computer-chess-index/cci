@@ -8,8 +8,8 @@ Home: https://github.com/maelic13/whitespine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.3.3 | 2026-03-26 |  |  |  |  |
-| 1.3.2 | 2025-09-16 | 1241<sub>(+new) | 1234<sub>(+new) | 890<sub>(+new) |  |
+| 1.3.3 | 2026-03-26 | 817<sub>(-424) | 1052<sub>(-183) | 1068<sub>(+177) |  |
+| 1.3.2 | 2025-09-16 | 1241<sub>(+new) | 1235<sub>(+new) | 891<sub>(+new) |  |
 | 1.3.1 | 2025-06-08 |  |  |  |  |
 | 1.3.0 | 2025-05-11 |  |  |  |  |
 | 1.2.0 | 2025-05-11 |  |  |  |  |
@@ -28,4 +28,21 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-28 06:28:18
+Generated: 2026-03-29 06:27:30
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["1.3.2", "1.3.3"]
+  y-axis "Elo Rating" 800 --> 1300
+  line "STC (8.0+0.08s)" [1241, 817]
+  line "STC (8.0+0.08s)" [1241, 817]
+  line "LTC (60.0+0.60s)" [1235, 1052]
+  line "VLTC (2m24s+1.12s)" [891, 1068]
+  line "VLTC (2m24s+1.12s)" [891, 1068]
+```
+
+<p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
+<p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
