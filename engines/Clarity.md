@@ -8,8 +8,8 @@ Home: https://github.com/Vast342/Clarity
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 8.0.0 | 2025-07-09 | 3270<sub>(-27) | 3468<sub>(+23) | 3470<sub>(-24) |  |
-| 8.0.0 | 2025-07-09 | 3297<sub>(+new) | 3445<sub>(+new) | 3494<sub>(+new) |  |
+| 8.0.0 | 2025-07-09 | 3268<sub>(-29) | 3468<sub>(+23) | 3470<sub>(-22) |  |
+| 8.0.0 | 2025-07-09 | 3297<sub>(+new) | 3445<sub>(+new) | 3492<sub>(+new) |  |
 | 7.2.0 | 2024-07-01 |  |  |  |  |
 | 7.1.0 | 2024-06-23 |  |  |  |  |
 | 7.0.0 | 2024-06-09 |  |  |  |  |
@@ -37,7 +37,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-29 06:23:08
+Generated: 2026-03-30 06:23:13
 
 ## Ratings Verlauf
 
@@ -46,11 +46,11 @@ Generated: 2026-03-29 06:23:08
 xychart-beta
   x-axis ["8.0.0", "8.0.0"]
   y-axis "Elo Rating" 3200 --> 3500
-  line "STC (8.0+0.08s)" [3270, 3297]
-  line "STC (8.0+0.08s)" [3270, 3297]
+  line "STC (8.0+0.08s)" [3268, 3297]
+  line "STC (8.0+0.08s)" [3268, 3297]
   line "LTC (60.0+0.60s)" [3468, 3445]
-  line "VLTC (2m24s+1.12s)" [3470, 3494]
-  line "VLTC (2m24s+1.12s)" [3470, 3494]
+  line "VLTC (2m24s+1.12s)" [3470, 3492]
+  line "VLTC (2m24s+1.12s)" [3470, 3492]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
