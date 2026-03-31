@@ -8,8 +8,8 @@ Home: https://github.com/nescitus/publius
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1 | 2025-12-31 | 2498<sub>(-367) | 2788<sub>(-347) | 2866<sub>(-294) |  |
-| 1.0 | 2025-10-19 | 2865 | 3135 | 3160 |  |
+| 1.1 | 2025-12-31 | 2496<sub>(-366) | 2788<sub>(-345) | 2863<sub>(-296) |  |
+| 1.0 | 2025-10-19 | 2862 | 3133 | 3159 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Publius+<version>&body=###%20Engine%20name%0APublius%0A%0A###%20Version%0A1.1" target="_blank">Submit new version</a>
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-30 06:26:26
+Generated: 2026-03-31 06:26:34
 
 ## Ratings Verlauf
 
@@ -34,11 +34,11 @@ Generated: 2026-03-30 06:26:26
 xychart-beta
   x-axis ["1.0", "1.1"]
   y-axis "Elo Rating" 2400 --> 3200
-  line "STC (8.0+0.08s)" [2865, 2498]
-  line "STC (8.0+0.08s)" [2865, 2498]
-  line "LTC (60.0+0.60s)" [3135, 2788]
-  line "VLTC (2m24s+1.12s)" [3160, 2866]
-  line "VLTC (2m24s+1.12s)" [3160, 2866]
+  line "STC (8.0+0.08s)" [2862, 2496]
+  line "STC (8.0+0.08s)" [2862, 2496]
+  line "LTC (60.0+0.60s)" [3133, 2788]
+  line "VLTC (2m24s+1.12s)" [3159, 2863]
+  line "VLTC (2m24s+1.12s)" [3159, 2863]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
