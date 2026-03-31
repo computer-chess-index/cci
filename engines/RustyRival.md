@@ -8,7 +8,8 @@ Home: https://github.com/chris-moreton/rusty-rival
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.38 | 2026-03-29 |  |  |  |  |
+| 1.0.39 | 2026-03-30 |  |  |  |  |
+| 1.0.38 | 2026-03-29 |  |  |  | eval pending* |
 | 1.0.37 | 2026-03-28 |  |  |  | eval pending* |
 | 1.0.36 | 2026-03-18 |  |  |  | eval pending* |
 | 1.0.34 | 2026-03-10 |  |  |  | eval pending* |
@@ -44,7 +45,7 @@ Home: https://github.com/chris-moreton/rusty-rival
 | 1.0.0 | 2022-04-03 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+RustyRival+<version>&body=###%20Engine%20name%0ARustyRival%0A%0A###%20Version%0A1.0.38" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+RustyRival+<version>&body=###%20Engine%20name%0ARustyRival%0A%0A###%20Version%0A1.0.39" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -57,7 +58,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-30 06:27:03
+Generated: 2026-03-31 06:27:17
 
 ## Ratings Verlauf
 
