@@ -8,7 +8,7 @@ Home: https://github.com/feftywacky/Thrawn
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.2 | 2025-10-08 | 2520<sub>(+new) | 2855<sub>(+new) | 2938<sub>(+new) |  |
+| 2.2 | 2025-10-08 | 2519<sub>(+new) | 2853<sub>(+new) | 2936<sub>(+new) |  |
 | 2.1 | 2024-07-16 |  |  |  |  |
 | 2.0 | 2024-01-01 |  |  |  |  |
 | 1.1 | 2023-12-28 |  |  |  |  |
@@ -32,4 +32,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-30 06:27:49
+Generated: 2026-03-31 06:28:01
