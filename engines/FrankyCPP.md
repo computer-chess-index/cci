@@ -8,6 +8,7 @@ Home: https://github.com/frankkopp/FrankyCPP
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
+| 1.7.0 | 2026-03-31 |  |  |  |  |
 | 1.6.0 | 2026-03-22 |  |  |  |  |
 | 1.5.1 | 2026-03-12 |  |  |  |  |
 | 1.5.0 | 2026-03-11 |  |  |  |  |
@@ -19,7 +20,7 @@ Home: https://github.com/frankkopp/FrankyCPP
 | 1.0.0 | 2026-01-31 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+FrankyCPP+<version>&body=###%20Engine%20name%0AFrankyCPP%0A%0A###%20Version%0A1.6.0" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+FrankyCPP+<version>&body=###%20Engine%20name%0AFrankyCPP%0A%0A###%20Version%0A1.7.0" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -32,4 +33,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-31 06:23:56
+Generated: 2026-04-01 06:24:10
