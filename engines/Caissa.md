@@ -8,7 +8,7 @@ Home: https://github.com/Witek902/Caissa
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.24 | 2025-12-03 | 3411<sub>(+1) | 3557<sub>(+13) | 3571<sub>(-1) |  |
+| 1.24 | 2025-12-03 | 3413<sub>(+3) | 3559<sub>(+15) | 3571<sub>(-1) |  |
 | 1.23 | 2025-08-21 | 3410<sub>(+16) | 3544<sub>(+4) | 3572<sub>(+17) |  |
 | 1.22 | 2025-04-30 | 3394<sub>(+7) | 3540<sub>(+8) | 3555<sub>(-12) |  |
 | 1.21 | 2024-10-27 | 3387<sub>(+8) | 3532<sub>(+19) | 3567<sub>(-1) |  |
@@ -57,7 +57,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-31 06:22:53
+Generated: 2026-04-01 06:23:01
 
 ## Ratings Verlauf
 
@@ -66,9 +66,9 @@ Generated: 2026-03-31 06:22:53
 xychart-beta
   x-axis ["1.20", "1.21", "1.22", "1.23", "1.24"]
   y-axis "Elo Rating" 3300 --> 3600
-  line "STC (8.0+0.08s)" [3379, 3387, 3394, 3410, 3411]
-  line "STC (8.0+0.08s)" [3379, 3387, 3394, 3410, 3411]
-  line "LTC (60.0+0.60s)" [3513, 3532, 3540, 3544, 3557]
+  line "STC (8.0+0.08s)" [3379, 3387, 3394, 3410, 3413]
+  line "STC (8.0+0.08s)" [3379, 3387, 3394, 3410, 3413]
+  line "LTC (60.0+0.60s)" [3513, 3532, 3540, 3544, 3559]
   line "VLTC (2m24s+1.12s)" [3568, 3567, 3555, 3572, 3571]
   line "VLTC (2m24s+1.12s)" [3568, 3567, 3555, 3572, 3571]
 ```
