@@ -8,7 +8,7 @@ Home: https://github.com/HansTibberio/Laura
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1.0 | 2026-01-26 | 1431<sub>(+new) | 1527<sub>(+new) | 1455<sub>(+new) |  |
+| 1.1.0 | 2026-01-26 | 1428<sub>(+new) | 1526<sub>(+new) | 1454<sub>(+new) |  |
 | 1.0.0 | 2025-05-30 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,4 +25,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-31 06:24:49
+Generated: 2026-04-01 06:25:26
