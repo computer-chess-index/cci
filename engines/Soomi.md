@@ -8,10 +8,10 @@ Home: https://github.com/Koma1867/Soomi-V1-Chess-engine-in-golang
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.2.0 | 2025-12-31 | 2067<sub>(+211) | 2364<sub>(+186) | 2468<sub>(+243) |  |
-| 1.1.8 | 2025-12-16 | 1856<sub>(-8) | 2178<sub>(+49) | 2225<sub>(+43) |  |
-| 1.1.7 | 2025-12-07 | 1864<sub>(+54) | 2129<sub>(-49) | 2182<sub>(-9) |  |
-| 1.1.6 | 2025-11-30 | 1810 | 2178 | 2191 |  |
+| 1.2.0 | 2025-12-31 | 2067<sub>(+212) | 2364<sub>(+189) | 2466<sub>(+243) |  |
+| 1.1.8 | 2025-12-16 | 1855<sub>(-8) | 2175<sub>(+49) | 2223<sub>(+44) |  |
+| 1.1.7 | 2025-12-07 | 1863<sub>(+54) | 2126<sub>(-49) | 2179<sub>(-11) |  |
+| 1.1.6 | 2025-11-30 | 1809 | 2175 | 2190 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Soomi+<version>&body=###%20Engine%20name%0ASoomi%0A%0A###%20Version%0A1.2.0" target="_blank">Submit new version</a>
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-31 06:27:34
+Generated: 2026-04-01 06:28:56
 
 ## Ratings Verlauf
 
@@ -36,11 +36,11 @@ Generated: 2026-03-31 06:27:34
 xychart-beta
   x-axis ["1.1.6", "1.1.7", "1.1.8", "1.2.0"]
   y-axis "Elo Rating" 1800 --> 2500
-  line "STC (8.0+0.08s)" [1810, 1864, 1856, 2067]
-  line "STC (8.0+0.08s)" [1810, 1864, 1856, 2067]
-  line "LTC (60.0+0.60s)" [2178, 2129, 2178, 2364]
-  line "VLTC (2m24s+1.12s)" [2191, 2182, 2225, 2468]
-  line "VLTC (2m24s+1.12s)" [2191, 2182, 2225, 2468]
+  line "STC (8.0+0.08s)" [1809, 1863, 1855, 2067]
+  line "STC (8.0+0.08s)" [1809, 1863, 1855, 2067]
+  line "LTC (60.0+0.60s)" [2175, 2126, 2175, 2364]
+  line "VLTC (2m24s+1.12s)" [2190, 2179, 2223, 2466]
+  line "VLTC (2m24s+1.12s)" [2190, 2179, 2223, 2466]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
