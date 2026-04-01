@@ -11,7 +11,7 @@ Home: https://github.com/martinnovaak/motor
 | 0.9.0 | 2025-06-02 | 3360<sub>(+13) | 3519<sub>(+20) | 3556<sub>(+24) |  |
 | 0.8.0 | 2024-10-28 | 3347<sub>(+new) | 3499<sub>(+new) | 3532<sub>(+new) |  |
 | 0.7.0 | 2024-08-11 |  |  |  |  |
-| 0.60 | 2024-06-30 | 3233<sub>(+new) | 3433<sub>(+new) | 3460<sub>(+new) |  |
+| 0.60 | 2024-06-30 | 3233<sub>(+new) | 3434<sub>(+new) | 3460<sub>(+new) |  |
 | 0.5.0 | 2024-05-23 |  |  |  |  |
 | 0.4.0 | 2024-04-18 |  |  |  |  |
 | 0.3.0 | 2024-03-30 |  |  |  |  |
@@ -32,7 +32,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-03-31 06:25:25
+Generated: 2026-04-01 06:26:24
 
 ## Ratings Verlauf
 
@@ -43,7 +43,7 @@ xychart-beta
   y-axis "Elo Rating" 3200 --> 3600
   line "STC (8.0+0.08s)" [3233, 3347, 3360]
   line "STC (8.0+0.08s)" [3233, 3347, 3360]
-  line "LTC (60.0+0.60s)" [3433, 3499, 3519]
+  line "LTC (60.0+0.60s)" [3434, 3499, 3519]
   line "VLTC (2m24s+1.12s)" [3460, 3532, 3556]
   line "VLTC (2m24s+1.12s)" [3460, 3532, 3556]
 ```
