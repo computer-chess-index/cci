@@ -8,7 +8,7 @@ Home: https://github.com/Firefather/fire
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 10.0 | 2025-08-09 | 3178<sub>(+5) | 3399<sub>(+2) | 3451<sub>(+2) |  |
+| 10.0 | 2025-08-09 | 3178<sub>(+5) | 3401<sub>(+4) | 3451<sub>(+2) |  |
 | 9.3 | 2024-03-10 | 3173<sub>(+new) | 3397<sub>(+new) | 3449<sub>(+new) |  |
 | 9.2 | 2023-11-12 |  |  |  |  |
 | 9.1 | 2023-11-08 |  |  |  |  |
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-01 06:24:04
+Generated: 2026-04-02 06:23:39
 
 ## Ratings Verlauf
 
@@ -51,7 +51,7 @@ xychart-beta
   y-axis "Elo Rating" 3100 --> 3500
   line "STC (8.0+0.08s)" [3173, 3178]
   line "STC (8.0+0.08s)" [3173, 3178]
-  line "LTC (60.0+0.60s)" [3397, 3399]
+  line "LTC (60.0+0.60s)" [3397, 3401]
   line "VLTC (2m24s+1.12s)" [3449, 3451]
   line "VLTC (2m24s+1.12s)" [3449, 3451]
 ```
