@@ -8,7 +8,7 @@ Home: https://github.com/GediminasMasaitis/4k-dot-c
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 8.0 | 2026-03-10 | 2604<sub>(+new) | 2832<sub>(+new) | 2962<sub>(+new) |  |
+| 8.0 | 2026-03-10 | 2604<sub>(+new) | 2832<sub>(+new) | 2961<sub>(+new) |  |
 | 6.0 | 2026-03-10 |  |  |  |  |
 | 5.0 | 2025-10-30 | 2515<sub>(+new) | 2815<sub>(+new) | 2886<sub>(+new) |  |
 | 4.41 | 2025-08-15 |  |  |  |  |
@@ -34,7 +34,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-01 06:22:03
+Generated: 2026-04-02 06:22:03
 
 ## Ratings Verlauf
 
@@ -46,8 +46,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [2515, 2604]
   line "STC (8.0+0.08s)" [2515, 2604]
   line "LTC (60.0+0.60s)" [2815, 2832]
-  line "VLTC (2m24s+1.12s)" [2886, 2962]
-  line "VLTC (2m24s+1.12s)" [2886, 2962]
+  line "VLTC (2m24s+1.12s)" [2886, 2961]
+  line "VLTC (2m24s+1.12s)" [2886, 2961]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
