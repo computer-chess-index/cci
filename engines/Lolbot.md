@@ -8,7 +8,7 @@ Home: https://github.com/loldot/lolbot
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.2.3 | 2025-12-08 | 2049<sub>(+33) | 2264<sub>(-30) | 2361<sub>(+31) |  |
+| 0.2.3 | 2025-12-08 | 2049<sub>(+33) | 2264<sub>(-30) | 2358<sub>(+28) |  |
 | 0.2.2 | 2025-11-29 | 2016<sub>(+67) | 2294<sub>(+81) | 2330<sub>(-22) |  |
 | 0.2.1 | 2025-11-16 | 1949<sub>(-71) | 2213<sub>(-28) | 2352<sub>(-52) |  |
 | 0.2 | 2025-11-15 | 2020<sub>(+new) | 2241<sub>(+new) | 2404<sub>(+new) |  |
@@ -28,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-01 06:25:38
+Generated: 2026-04-02 06:24:39
 
 ## Ratings Verlauf
 
@@ -40,8 +40,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [2020, 1949, 2016, 2049]
   line "STC (8.0+0.08s)" [2020, 1949, 2016, 2049]
   line "LTC (60.0+0.60s)" [2241, 2213, 2294, 2264]
-  line "VLTC (2m24s+1.12s)" [2404, 2352, 2330, 2361]
-  line "VLTC (2m24s+1.12s)" [2404, 2352, 2330, 2361]
+  line "VLTC (2m24s+1.12s)" [2404, 2352, 2330, 2358]
+  line "VLTC (2m24s+1.12s)" [2404, 2352, 2330, 2358]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
