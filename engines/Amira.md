@@ -8,7 +8,7 @@ Home: https://github.com/FauziAkram/amira
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.82 | 2026-01-02 | 2349<sub>(+132) | 2556<sub>(+94) | 2654<sub>(+151) |  |
+| 1.82 | 2026-01-02 | 2346<sub>(+129) | 2554<sub>(+92) | 2654<sub>(+151) |  |
 | 1.71 | 2025-10-30 | 2217<sub>(+new) | 2462<sub>(+new) | 2503<sub>(+new) |  |
 | 1.61 | 2025-09-08 |  |  |  |  |
 | 1.4 | 2025-07-24 |  |  |  |  |
@@ -28,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-01 06:22:18
+Generated: 2026-04-02 06:22:15
 
 ## Ratings Verlauf
 
@@ -37,9 +37,9 @@ Generated: 2026-04-01 06:22:18
 xychart-beta
   x-axis ["1.71", "1.82"]
   y-axis "Elo Rating" 2200 --> 2700
-  line "STC (8.0+0.08s)" [2217, 2349]
-  line "STC (8.0+0.08s)" [2217, 2349]
-  line "LTC (60.0+0.60s)" [2462, 2556]
+  line "STC (8.0+0.08s)" [2217, 2346]
+  line "STC (8.0+0.08s)" [2217, 2346]
+  line "LTC (60.0+0.60s)" [2462, 2554]
   line "VLTC (2m24s+1.12s)" [2503, 2654]
   line "VLTC (2m24s+1.12s)" [2503, 2654]
 ```
