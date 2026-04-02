@@ -8,8 +8,8 @@ Home: https://github.com/Nonlinear2/Bread-Engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.0 | 2026-03-15 | 3141<sub>(+117) | 3333<sub>(+104) | 3407<sub>(+128) |  |
-| 2.1.1 | 2025-12-22 | 3024<sub>(+new) | 3229<sub>(+new) | 3279<sub>(+new) |  |
+| 3.0.0 | 2026-03-15 | 3141<sub>(+117) | 3333<sub>(+102) | 3407<sub>(+128) |  |
+| 2.1.1 | 2025-12-22 | 3024<sub>(+new) | 3231<sub>(+new) | 3279<sub>(+new) |  |
 | 2.1.0 | 2025-12-21 |  |  |  | always disconnects |
 | 2.0.0 | 2025-10-18 | 2889<sub>(+new) | 3143<sub>(+new) | 3178<sub>(+new) |  |
 | 1.6.0 | 2025-08-26 |  |  |  |  |
@@ -44,7 +44,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-01 06:22:57
+Generated: 2026-04-02 06:22:44
 
 ## Ratings Verlauf
 
@@ -55,7 +55,7 @@ xychart-beta
   y-axis "Elo Rating" 2800 --> 3500
   line "STC (8.0+0.08s)" [2889, 3024, 3141]
   line "STC (8.0+0.08s)" [2889, 3024, 3141]
-  line "LTC (60.0+0.60s)" [3143, 3229, 3333]
+  line "LTC (60.0+0.60s)" [3143, 3231, 3333]
   line "VLTC (2m24s+1.12s)" [3178, 3279, 3407]
   line "VLTC (2m24s+1.12s)" [3178, 3279, 3407]
 ```
