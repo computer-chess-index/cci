@@ -10,8 +10,8 @@ Home: https://github.com/op12no2/lozza
 | --- | --- | --- | --- | --- | --- |
 | 6 | 2026-02-13 |  |  |  |  |
 | 2 | 2026-02-13 |  |  |  |  |
-| 10 | 2026-01-17 | 2897<sub>(+258) | 3098<sub>(+170) | 3144<sub>(+117) |  |
-| 9 | 2026-01-10 | 2639<sub>(+15) | 2928<sub>(-15) | 3027<sub>(-32) |  |
+| 10 | 2026-01-17 | 2892<sub>(+251) | 3098<sub>(+170) | 3144<sub>(+117) |  |
+| 9 | 2026-01-10 | 2641<sub>(+17) | 2928<sub>(-15) | 3027<sub>(-32) |  |
 | 8 | 2025-09-25 | 2624<sub>(+new) | 2943<sub>(+new) | 3059<sub>(+new) |  |
 | 7 | 2025-07-12 |  |  |  |  |
 | 5.1 | 2025-06-02 |  |  |  |  |
@@ -34,7 +34,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-01 06:25:41
+Generated: 2026-04-02 06:24:41
 
 ## Ratings Verlauf
 
@@ -43,8 +43,8 @@ Generated: 2026-04-01 06:25:41
 xychart-beta
   x-axis ["8", "9", "10"]
   y-axis "Elo Rating" 2600 --> 3200
-  line "STC (8.0+0.08s)" [2624, 2639, 2897]
-  line "STC (8.0+0.08s)" [2624, 2639, 2897]
+  line "STC (8.0+0.08s)" [2624, 2641, 2892]
+  line "STC (8.0+0.08s)" [2624, 2641, 2892]
   line "LTC (60.0+0.60s)" [2943, 2928, 3098]
   line "VLTC (2m24s+1.12s)" [3059, 3027, 3144]
   line "VLTC (2m24s+1.12s)" [3059, 3027, 3144]
