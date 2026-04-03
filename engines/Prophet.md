@@ -8,7 +8,7 @@ Home: https://github.com/jswaff/prophet
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 5.1 | 2025-09-16 | 2165<sub>(+new) | 2452<sub>(+new) | 2541<sub>(+new) |  |
+| 5.1 | 2025-09-16 | 2165<sub>(+new) | 2452<sub>(+new) | 2543<sub>(+new) |  |
 | 5.0 | 2025-08-05 |  |  |  |  |
 | 4.4 | 2024-10-22 |  |  |  |  |
 | 4.3 | 2022-10-21 |  |  |  |  |
@@ -30,4 +30,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-02 06:25:49
+Generated: 2026-04-03 06:25:46
