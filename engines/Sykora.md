@@ -9,8 +9,8 @@ Home: https://github.com/sb2bg/sykora
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 0.2.2 | 2026-03-23 |  |  |  |  |
-| 0.2.1 | 2026-03-02 | 2020<sub>(+103) | 2406<sub>(+151) | 2452<sub>(+13) |  |
-| 0.1.0 | 2026-02-17 | 1917 | 2255 | 2439 |  |
+| 0.2.1 | 2026-03-02 | 2049<sub>(+133) | 2406<sub>(+151) | 2452<sub>(+11) |  |
+| 0.1.0 | 2026-02-17 | 1916 | 2255 | 2441 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Sykora+<version>&body=###%20Engine%20name%0ASykora%0A%0A###%20Version%0A0.2.2" target="_blank">Submit new version</a>
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-02 06:27:10
+Generated: 2026-04-03 06:27:01
 
 ## Ratings Verlauf
 
@@ -35,11 +35,11 @@ Generated: 2026-04-02 06:27:10
 xychart-beta
   x-axis ["0.1.0", "0.2.1"]
   y-axis "Elo Rating" 1900 --> 2500
-  line "STC (8.0+0.08s)" [1917, 2020]
-  line "STC (8.0+0.08s)" [1917, 2020]
+  line "STC (8.0+0.08s)" [1916, 2049]
+  line "STC (8.0+0.08s)" [1916, 2049]
   line "LTC (60.0+0.60s)" [2255, 2406]
-  line "VLTC (2m24s+1.12s)" [2439, 2452]
-  line "VLTC (2m24s+1.12s)" [2439, 2452]
+  line "VLTC (2m24s+1.12s)" [2441, 2452]
+  line "VLTC (2m24s+1.12s)" [2441, 2452]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
