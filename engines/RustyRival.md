@@ -8,7 +8,8 @@ Home: https://github.com/chris-moreton/rusty-rival
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.39 | 2026-03-30 | 2109<sub>(+new) | 2348<sub>(+new) | 2448<sub>(+new) |  |
+| 1.0.40 | 2026-04-02 |  |  |  |  |
+| 1.0.39 | 2026-03-30 | 2110<sub>(+new) | 2345<sub>(+new) | 2449<sub>(+new) |  |
 | 1.0.38 | 2026-03-29 |  |  |  | eval pending* |
 | 1.0.37 | 2026-03-28 |  |  |  | eval pending* |
 | 1.0.36 | 2026-03-18 |  |  |  | eval pending* |
@@ -22,13 +23,13 @@ Home: https://github.com/chris-moreton/rusty-rival
 | 1.0.27 | 2026-02-09 |  |  |  |  |
 | 1.0.26 | 2026-02-01 |  |  |  |  |
 | 1.0.25 | 2026-02-01 |  |  |  |  |
-| 1.0.24 | 2026-01-30 | 1941<sub>(+35) | 2238<sub>(+160) | 2265<sub>(+69) |  |
+| 1.0.24 | 2026-01-30 | 1943<sub>(+37) | 2238<sub>(+160) | 2265<sub>(+69) |  |
 | 1.0.23 | 2026-01-19 | 1906<sub>(+new) | 2078<sub>(+new) | 2196<sub>(+new) |  |
 | 1.0.21 | 2026-01-19 |  |  |  |  |
 | 1.0.20 | 2026-01-17 |  |  |  |  |
 | 1.0.19 | 2026-01-12 |  | 2102<sub>(+new) | 2195<sub>(+new) |  |
 | 1.0.18 | 2026-01-12 |  |  |  |  |
-| 1.0.17 | 2026-01-11 | 1895<sub>(+new) |  | 2356<sub>(+56) |  |
+| 1.0.17 | 2026-01-11 | 1895<sub>(+new) |  | 2357<sub>(+57) |  |
 | 1.0.15 | 2026-01-11 |  | 2125<sub>(+59) | 2300<sub>(+35) |  |
 | 1.0.13 | 2026-01-10 | 1805<sub>(+new) | 2066<sub>(+new) | 2265<sub>(+new) |  |
 | 1.0.12 | 2026-01-10 |  |  |  |  |
@@ -45,7 +46,7 @@ Home: https://github.com/chris-moreton/rusty-rival
 | 1.0.0 | 2022-04-03 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+RustyRival+<version>&body=###%20Engine%20name%0ARustyRival%0A%0A###%20Version%0A1.0.39" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+RustyRival+<version>&body=###%20Engine%20name%0ARustyRival%0A%0A###%20Version%0A1.0.40" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -58,7 +59,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-02 06:26:35
+Generated: 2026-04-03 06:26:27
 
 ## Ratings Verlauf
 
@@ -67,11 +68,11 @@ Generated: 2026-04-02 06:26:35
 xychart-beta
   x-axis ["1.0.13", "1.0.23", "1.0.24", "1.0.29", "1.0.39"]
   y-axis "Elo Rating" 1800 --> 2500
-  line "STC (8.0+0.08s)" [1805, 1906, 1941, 1929, 2109]
-  line "STC (8.0+0.08s)" [1805, 1906, 1941, 1929, 2109]
-  line "LTC (60.0+0.60s)" [2066, 2078, 2238, 2186, 2348]
-  line "VLTC (2m24s+1.12s)" [2265, 2196, 2265, 2299, 2448]
-  line "VLTC (2m24s+1.12s)" [2265, 2196, 2265, 2299, 2448]
+  line "STC (8.0+0.08s)" [1805, 1906, 1943, 1929, 2110]
+  line "STC (8.0+0.08s)" [1805, 1906, 1943, 1929, 2110]
+  line "LTC (60.0+0.60s)" [2066, 2078, 2238, 2186, 2345]
+  line "VLTC (2m24s+1.12s)" [2265, 2196, 2265, 2299, 2449]
+  line "VLTC (2m24s+1.12s)" [2265, 2196, 2265, 2299, 2449]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
