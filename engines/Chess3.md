@@ -8,7 +8,7 @@ Home: https://github.com/paulsonkoly/chess-3
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.0 | 2026-04-02 |  |  |  |  |
+| 4.0 | 2026-04-02 | 2550<sub>(+47) | 2839<sub>(+57) | 2931<sub>(+103) |  |
 | 3.0 | 2026-01-17 | 2503<sub>(+new) | 2782<sub>(+new) | 2828<sub>(+new) |  |
 | 2.0 | 2025-08-14 |  |  |  |  |
 | 1.0 | 2025-05-15 |  |  |  |  |
@@ -27,4 +27,21 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-03 06:23:00
+Generated: 2026-04-04 06:23:00
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["3.0", "4.0"]
+  y-axis "Elo Rating" 2500 --> 3000
+  line "STC (8.0+0.08s)" [2503, 2550]
+  line "STC (8.0+0.08s)" [2503, 2550]
+  line "LTC (60.0+0.60s)" [2782, 2839]
+  line "VLTC (2m24s+1.12s)" [2828, 2931]
+  line "VLTC (2m24s+1.12s)" [2828, 2931]
+```
+
+<p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
+<p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
