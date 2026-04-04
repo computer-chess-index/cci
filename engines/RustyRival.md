@@ -8,8 +8,8 @@ Home: https://github.com/chris-moreton/rusty-rival
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.40 | 2026-04-02 |  |  |  |  |
-| 1.0.39 | 2026-03-30 | 2110<sub>(+new) | 2345<sub>(+new) | 2449<sub>(+new) |  |
+| 1.0.40 | 2026-04-02 |  |  |  | eval pending* |
+| 1.0.39 | 2026-03-30 | 2117<sub>(+new) | 2345<sub>(+new) | 2449<sub>(+new) |  |
 | 1.0.38 | 2026-03-29 |  |  |  | eval pending* |
 | 1.0.37 | 2026-03-28 |  |  |  | eval pending* |
 | 1.0.36 | 2026-03-18 |  |  |  | eval pending* |
@@ -59,7 +59,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-03 06:26:27
+Generated: 2026-04-04 06:26:40
 
 ## Ratings Verlauf
 
@@ -68,8 +68,8 @@ Generated: 2026-04-03 06:26:27
 xychart-beta
   x-axis ["1.0.13", "1.0.23", "1.0.24", "1.0.29", "1.0.39"]
   y-axis "Elo Rating" 1800 --> 2500
-  line "STC (8.0+0.08s)" [1805, 1906, 1943, 1929, 2110]
-  line "STC (8.0+0.08s)" [1805, 1906, 1943, 1929, 2110]
+  line "STC (8.0+0.08s)" [1805, 1906, 1943, 1929, 2117]
+  line "STC (8.0+0.08s)" [1805, 1906, 1943, 1929, 2117]
   line "LTC (60.0+0.60s)" [2066, 2078, 2238, 2186, 2345]
   line "VLTC (2m24s+1.12s)" [2265, 2196, 2265, 2299, 2449]
   line "VLTC (2m24s+1.12s)" [2265, 2196, 2265, 2299, 2449]
