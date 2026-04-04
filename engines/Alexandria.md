@@ -8,7 +8,7 @@ Home: https://github.com/PGG106/Alexandria
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.0 | 2026-02-27 | 3453<sub>(+2) | 3563<sub>(-4) | 3599<sub>(-3) |  |
+| 9.0 | 2026-02-27 | 3452<sub>(+1) | 3564<sub>(-3) | 3599<sub>(-3) |  |
 | 8.1.12 | 2025-11-09 | 3451<sub>(+7) | 3567<sub>(-1) | 3602<sub>(+14) |  |
 | 8.1 | 2025-08-16 | 3444<sub>(+30) | 3568<sub>(+24) | 3588<sub>(+9) |  |
 | 8.0 | 2025-03-03 | 3414<sub>(+43) | 3544<sub>(+14) | 3579<sub>(+18) |  |
@@ -48,7 +48,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-03 06:22:10
+Generated: 2026-04-04 06:22:10
 
 ## Ratings Verlauf
 
@@ -57,9 +57,9 @@ Generated: 2026-04-03 06:22:10
 xychart-beta
   x-axis ["7.0", "7.1", "8.0", "8.1", "8.1.12", "9.0"]
   y-axis "Elo Rating" 3300 --> 3700
-  line "STC (8.0+0.08s)" [3359, 3371, 3414, 3444, 3451, 3453]
-  line "STC (8.0+0.08s)" [3359, 3371, 3414, 3444, 3451, 3453]
-  line "LTC (60.0+0.60s)" [3513, 3530, 3544, 3568, 3567, 3563]
+  line "STC (8.0+0.08s)" [3359, 3371, 3414, 3444, 3451, 3452]
+  line "STC (8.0+0.08s)" [3359, 3371, 3414, 3444, 3451, 3452]
+  line "LTC (60.0+0.60s)" [3513, 3530, 3544, 3568, 3567, 3564]
   line "VLTC (2m24s+1.12s)" [3556, 3561, 3579, 3588, 3602, 3599]
   line "VLTC (2m24s+1.12s)" [3556, 3561, 3579, 3588, 3602, 3599]
 ```
