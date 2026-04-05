@@ -8,7 +8,7 @@ Home: https://github.com/gabtar/aconcagua
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 5.1.0 | 2026-03-01 | 2234<sub>(+46) | 2475<sub>(-6) | 2597<sub>(+112) |  |
+| 5.1.0 | 2026-03-01 | 2234<sub>(+46) | 2476<sub>(-5) | 2592<sub>(+107) |  |
 | 5.0.0 | 2026-01-25 | 2188<sub>(+203) | 2481<sub>(+190) | 2485<sub>(+83) |  |
 | 4.1.0 | 2025-12-14 | 1985<sub>(+54) | 2291<sub>(+80) | 2402<sub>(+61) |  |
 | 4.0.0 | 2025-11-09 | 1931<sub>(+new) | 2211<sub>(+new) | 2341<sub>(+new) |  |
@@ -36,7 +36,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-04 06:22:06
+Generated: 2026-04-05 06:22:06
 
 ## Ratings Verlauf
 
@@ -47,9 +47,9 @@ xychart-beta
   y-axis "Elo Rating" 1900 --> 2600
   line "STC (8.0+0.08s)" [1931, 1985, 2188, 2234]
   line "STC (8.0+0.08s)" [1931, 1985, 2188, 2234]
-  line "LTC (60.0+0.60s)" [2211, 2291, 2481, 2475]
-  line "VLTC (2m24s+1.12s)" [2341, 2402, 2485, 2597]
-  line "VLTC (2m24s+1.12s)" [2341, 2402, 2485, 2597]
+  line "LTC (60.0+0.60s)" [2211, 2291, 2481, 2476]
+  line "VLTC (2m24s+1.12s)" [2341, 2402, 2485, 2592]
+  line "VLTC (2m24s+1.12s)" [2341, 2402, 2485, 2592]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
