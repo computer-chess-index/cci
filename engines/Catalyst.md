@@ -8,10 +8,10 @@ Home: https://github.com/AnanyTanwar/Catalyst
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.2.0 | 2026-04-03 | 2623<sub>(-3) | 2963<sub>(+15) | 3081<sub>(+137) |  |
-| 2.1.0 | 2026-04-02 | 2626<sub>(+6) | 2948<sub>(-30) | 2944<sub>(-69) |  |
-| 2.0.0 | 2026-03-29 | 2620<sub>(+275) | 2978<sub>(+183) | 3013<sub>(+109) |  |
-| 1.0.0 | 2026-03-26 | 2345 | 2795 | 2904 |  |
+| 2.2.0 | 2026-04-03 | 2608<sub>(-18) | 2981<sub>(+33) | 3082<sub>(+138) |  |
+| 2.1.0 | 2026-04-02 | 2626<sub>(+7) | 2948<sub>(-29) | 2944<sub>(-68) |  |
+| 2.0.0 | 2026-03-29 | 2619<sub>(+275) | 2977<sub>(+182) | 3012<sub>(+109) |  |
+| 1.0.0 | 2026-03-26 | 2344 | 2795 | 2903 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Catalyst+<version>&body=###%20Engine%20name%0ACatalyst%0A%0A###%20Version%0A2.2.0" target="_blank">Submit new version</a>
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-05 06:22:56
+Generated: 2026-04-06 06:22:59
 
 ## Ratings Verlauf
 
@@ -36,11 +36,11 @@ Generated: 2026-04-05 06:22:56
 xychart-beta
   x-axis ["1.0.0", "2.0.0", "2.1.0", "2.2.0"]
   y-axis "Elo Rating" 2300 --> 3100
-  line "STC (8.0+0.08s)" [2345, 2620, 2626, 2623]
-  line "STC (8.0+0.08s)" [2345, 2620, 2626, 2623]
-  line "LTC (60.0+0.60s)" [2795, 2978, 2948, 2963]
-  line "VLTC (2m24s+1.12s)" [2904, 3013, 2944, 3081]
-  line "VLTC (2m24s+1.12s)" [2904, 3013, 2944, 3081]
+  line "STC (8.0+0.08s)" [2344, 2619, 2626, 2608]
+  line "STC (8.0+0.08s)" [2344, 2619, 2626, 2608]
+  line "LTC (60.0+0.60s)" [2795, 2977, 2948, 2981]
+  line "VLTC (2m24s+1.12s)" [2903, 3012, 2944, 3082]
+  line "VLTC (2m24s+1.12s)" [2903, 3012, 2944, 3082]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
