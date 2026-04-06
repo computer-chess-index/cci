@@ -8,10 +8,10 @@ Home: https://github.com/amchess/Alexander
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 8.3 | 2026-04-01 | 3181<sub>(+3) | 3420<sub>(+36) | 3463<sub>(+23) |  |
-| 8.2 | 2026-03-23 | 3178<sub>(-24) | 3384<sub>(-9) | 3440<sub>(-12) |  |
-| 8.1 | 2026-03-16 | 3202<sub>(+38) | 3393<sub>(-10) | 3452<sub>(+11) |  |
-| 8.0 | 2026-03-10 | 3164<sub>(+new) | 3403<sub>(+new) | 3441<sub>(+new) |  |
+| 8.3 | 2026-04-01 | 3179<sub>(+1) | 3418<sub>(+34) | 3460<sub>(+20) |  |
+| 8.2 | 2026-03-23 | 3178<sub>(-24) | 3384<sub>(-7) | 3440<sub>(-12) |  |
+| 8.1 | 2026-03-16 | 3202<sub>(+38) | 3391<sub>(-12) | 3452<sub>(+12) |  |
+| 8.0 | 2026-03-10 | 3164<sub>(+new) | 3403<sub>(+new) | 3440<sub>(+new) |  |
 | 7.0 | 2025-10-20 |  |  |  |  |
 | 6.1 | 2025-10-07 |  |  |  |  |
 | 6.0 | 2025-09-20 |  |  |  |  |
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-05 06:22:10
+Generated: 2026-04-06 06:22:11
 
 ## Ratings Verlauf
 
@@ -50,11 +50,11 @@ Generated: 2026-04-05 06:22:10
 xychart-beta
   x-axis ["8.0", "8.1", "8.2", "8.3"]
   y-axis "Elo Rating" 3100 --> 3500
-  line "STC (8.0+0.08s)" [3164, 3202, 3178, 3181]
-  line "STC (8.0+0.08s)" [3164, 3202, 3178, 3181]
-  line "LTC (60.0+0.60s)" [3403, 3393, 3384, 3420]
-  line "VLTC (2m24s+1.12s)" [3441, 3452, 3440, 3463]
-  line "VLTC (2m24s+1.12s)" [3441, 3452, 3440, 3463]
+  line "STC (8.0+0.08s)" [3164, 3202, 3178, 3179]
+  line "STC (8.0+0.08s)" [3164, 3202, 3178, 3179]
+  line "LTC (60.0+0.60s)" [3403, 3391, 3384, 3418]
+  line "VLTC (2m24s+1.12s)" [3440, 3452, 3440, 3460]
+  line "VLTC (2m24s+1.12s)" [3440, 3452, 3440, 3460]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
