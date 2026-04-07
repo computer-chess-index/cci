@@ -8,10 +8,10 @@ Home: https://github.com/gabtar/aconcagua
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 5.1.0 | 2026-03-01 | 2229<sub>(+42) | 2475<sub>(-6) | 2593<sub>(+109) |  |
+| 5.1.0 | 2026-03-01 | 2228<sub>(+41) | 2475<sub>(-6) | 2593<sub>(+109) |  |
 | 5.0.0 | 2026-01-25 | 2187<sub>(+204) | 2481<sub>(+190) | 2484<sub>(+82) |  |
-| 4.1.0 | 2025-12-14 | 1983<sub>(+54) | 2291<sub>(+81) | 2402<sub>(+61) |  |
-| 4.0.0 | 2025-11-09 | 1929<sub>(+new) | 2210<sub>(+new) | 2341<sub>(+new) |  |
+| 4.1.0 | 2025-12-14 | 1983<sub>(+54) | 2291<sub>(+80) | 2402<sub>(+61) |  |
+| 4.0.0 | 2025-11-09 | 1929<sub>(+new) | 2211<sub>(+new) | 2341<sub>(+new) |  |
 | 3.4.0 | 2025-10-04 |  |  |  |  |
 | 3.3.0 | 2025-09-14 |  |  |  |  |
 | 3.2.0 | 2025-08-31 |  |  |  |  |
@@ -36,7 +36,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-06 06:22:07
+Generated: 2026-04-07 06:22:07
 
 ## Ratings Verlauf
 
@@ -45,9 +45,9 @@ Generated: 2026-04-06 06:22:07
 xychart-beta
   x-axis ["4.0.0", "4.1.0", "5.0.0", "5.1.0"]
   y-axis "Elo Rating" 1900 --> 2600
-  line "STC (8.0+0.08s)" [1929, 1983, 2187, 2229]
-  line "STC (8.0+0.08s)" [1929, 1983, 2187, 2229]
-  line "LTC (60.0+0.60s)" [2210, 2291, 2481, 2475]
+  line "STC (8.0+0.08s)" [1929, 1983, 2187, 2228]
+  line "STC (8.0+0.08s)" [1929, 1983, 2187, 2228]
+  line "LTC (60.0+0.60s)" [2211, 2291, 2481, 2475]
   line "VLTC (2m24s+1.12s)" [2341, 2402, 2484, 2593]
   line "VLTC (2m24s+1.12s)" [2341, 2402, 2484, 2593]
 ```
