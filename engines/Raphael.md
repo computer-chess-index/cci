@@ -8,11 +8,12 @@ Home: https://github.com/Orbital-Web/Raphael
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.2.0 | 2026-03-19 | 3256<sub>(+112) | 3398<sub>(+88) | 3464<sub>(+101) |  |
-| 3.1.0 | 2026-03-01 | 3144<sub>(+313) | 3310<sub>(+248) | 3363<sub>(+231) |  |
-| 3.0.0 | 2026-02-12 | 2831<sub>(+234) | 3062<sub>(+127) | 3132<sub>(+148) |  |
-| 2.3.0 | 2026-01-26 | 2597<sub>(+50) | 2935<sub>(+134) | 2984<sub>(+84) |  |
-| 2.2.0 | 2026-01-08 | 2547<sub>(+211) | 2801<sub>(+275) | 2900<sub>(+262) |  |
+| 3.3.0 | 2026-04-06 |  |  |  |  |
+| 3.2.0 | 2026-03-19 | 3256<sub>(+112) | 3398<sub>(+86) | 3465<sub>(+102) |  |
+| 3.1.0 | 2026-03-01 | 3144<sub>(+313) | 3312<sub>(+250) | 3363<sub>(+231) |  |
+| 3.0.0 | 2026-02-12 | 2831<sub>(+234) | 3062<sub>(+127) | 3132<sub>(+147) |  |
+| 2.3.0 | 2026-01-26 | 2597<sub>(+50) | 2935<sub>(+132) | 2985<sub>(+84) |  |
+| 2.2.0 | 2026-01-08 | 2547<sub>(+211) | 2803<sub>(+277) | 2901<sub>(+263) |  |
 | 2.1.0 | 2026-01-01 | 2336<sub>(+188) | 2526<sub>(+134) | 2638<sub>(+274) |  |
 | 2.0.0 | 2025-12-23 | 2148<sub>(+new) | 2392<sub>(+new) | 2364<sub>(+new) |  |
 | 1.8.0 | 2024-12-27 |  |  |  |  |
@@ -29,7 +30,7 @@ Home: https://github.com/Orbital-Web/Raphael
 | 0.5.0 | 2023-07-07 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Raphael+<version>&body=###%20Engine%20name%0ARaphael%0A%0A###%20Version%0A3.2.0" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Raphael+<version>&body=###%20Engine%20name%0ARaphael%0A%0A###%20Version%0A3.3.0" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -42,7 +43,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-06 06:26:46
+Generated: 2026-04-07 06:26:34
 
 ## Ratings Verlauf
 
@@ -53,9 +54,9 @@ xychart-beta
   y-axis "Elo Rating" 2100 --> 3500
   line "STC (8.0+0.08s)" [2148, 2336, 2547, 2597, 2831, 3144, 3256]
   line "STC (8.0+0.08s)" [2148, 2336, 2547, 2597, 2831, 3144, 3256]
-  line "LTC (60.0+0.60s)" [2392, 2526, 2801, 2935, 3062, 3310, 3398]
-  line "VLTC (2m24s+1.12s)" [2364, 2638, 2900, 2984, 3132, 3363, 3464]
-  line "VLTC (2m24s+1.12s)" [2364, 2638, 2900, 2984, 3132, 3363, 3464]
+  line "LTC (60.0+0.60s)" [2392, 2526, 2803, 2935, 3062, 3312, 3398]
+  line "VLTC (2m24s+1.12s)" [2364, 2638, 2901, 2985, 3132, 3363, 3465]
+  line "VLTC (2m24s+1.12s)" [2364, 2638, 2901, 2985, 3132, 3363, 3465]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
