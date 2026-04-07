@@ -9,7 +9,7 @@ Home: https://github.com/chris-moreton/rusty-rival
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 1.0.40 | 2026-04-02 |  |  |  | eval pending* |
-| 1.0.39 | 2026-03-30 | 2105<sub>(+new) | 2344<sub>(+new) | 2449<sub>(+new) |  |
+| 1.0.39 | 2026-03-30 | 2114<sub>(+new) | 2344<sub>(+new) | 2449<sub>(+new) |  |
 | 1.0.38 | 2026-03-29 |  |  |  | eval pending* |
 | 1.0.37 | 2026-03-28 |  |  |  | eval pending* |
 | 1.0.36 | 2026-03-18 |  |  |  | eval pending* |
@@ -29,13 +29,13 @@ Home: https://github.com/chris-moreton/rusty-rival
 | 1.0.20 | 2026-01-17 |  |  |  |  |
 | 1.0.19 | 2026-01-12 |  | 2101<sub>(+new) | 2191<sub>(+new) |  |
 | 1.0.18 | 2026-01-12 |  |  |  |  |
-| 1.0.17 | 2026-01-11 | 1891<sub>(+new) |  | 2353<sub>(+54) |  |
+| 1.0.17 | 2026-01-11 | 1893<sub>(+new) |  | 2353<sub>(+54) |  |
 | 1.0.15 | 2026-01-11 |  | 2124<sub>(+60) | 2299<sub>(+35) |  |
 | 1.0.13 | 2026-01-10 | 1805<sub>(+new) | 2064<sub>(+new) | 2264<sub>(+new) |  |
 | 1.0.12 | 2026-01-10 |  |  |  |  |
 | 1.0.11 | 2026-01-10 |  |  |  |  |
 | 1.0.10 | 2026-01-09 |  |  |  |  |
-| 1.0.9 | 2026-01-01 |  | 1983<sub>(+new) |  |  |
+| 1.0.9 | 2026-01-01 |  | 1985<sub>(+new) |  |  |
 | 1.0.8 | 2026-01-01 |  |  |  |  |
 | 1.0.7 | 2025-12-30 |  |  |  | thread 'main' (10808) panicked at src\main.rs:17:36: |
 | 1.0.6 | 2025-12-30 |  |  |  |  |
@@ -59,7 +59,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-06 06:27:15
+Generated: 2026-04-07 06:27:02
 
 ## Ratings Verlauf
 
@@ -68,8 +68,8 @@ Generated: 2026-04-06 06:27:15
 xychart-beta
   x-axis ["1.0.13", "1.0.23", "1.0.24", "1.0.29", "1.0.39"]
   y-axis "Elo Rating" 1800 --> 2500
-  line "STC (8.0+0.08s)" [1805, 1906, 1941, 1928, 2105]
-  line "STC (8.0+0.08s)" [1805, 1906, 1941, 1928, 2105]
+  line "STC (8.0+0.08s)" [1805, 1906, 1941, 1928, 2114]
+  line "STC (8.0+0.08s)" [1805, 1906, 1941, 1928, 2114]
   line "LTC (60.0+0.60s)" [2064, 2078, 2238, 2184, 2344]
   line "VLTC (2m24s+1.12s)" [2264, 2196, 2264, 2298, 2449]
   line "VLTC (2m24s+1.12s)" [2264, 2196, 2264, 2298, 2449]
