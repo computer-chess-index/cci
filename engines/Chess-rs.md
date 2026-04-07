@@ -8,7 +8,7 @@ Home: https://github.com/tomcant/chess-rs
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.7.0 | 2025-12-31 | 1720<sub>(+31) | 1943<sub>(+64) | 2055<sub>(+50) |  |
+| 0.7.0 | 2025-12-31 | 1720<sub>(+31) | 1943<sub>(+64) | 2053<sub>(+48) |  |
 | 0.6.0 | 2025-11-11 | 1689<sub>(+new) | 1879<sub>(+new) | 2005<sub>(+new) |  |
 | 0.5.1 | 2025-11-04 |  |  |  | no public available .exe |
 | 0.5.0 | 2025-11-03 | 1585<sub>(+new) | 1808<sub>(+new) | 1909<sub>(+new) |  |
@@ -34,7 +34,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-06 06:23:09
+Generated: 2026-04-07 06:23:04
 
 ## Ratings Verlauf
 
@@ -46,8 +46,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [1585, 1689, 1720]
   line "STC (8.0+0.08s)" [1585, 1689, 1720]
   line "LTC (60.0+0.60s)" [1808, 1879, 1943]
-  line "VLTC (2m24s+1.12s)" [1909, 2005, 2055]
-  line "VLTC (2m24s+1.12s)" [1909, 2005, 2055]
+  line "VLTC (2m24s+1.12s)" [1909, 2005, 2053]
+  line "VLTC (2m24s+1.12s)" [1909, 2005, 2053]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
