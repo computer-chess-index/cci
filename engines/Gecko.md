@@ -8,7 +8,7 @@ Home: https://github.com/sgtqwq/Gecko
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.25 | 2026-04-06 | 2353<sub>(+454) | 2620<sub>(+530) | 2668<sub>(+485) |  |
+| 0.25 | 2026-04-06 | 2367<sub>(+468) | 2678<sub>(+588) | 2746<sub>(+563) |  |
 | 0.08 | 2026-02-05 | 1899 | 2090 | 2183 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-07 17:50:35
+Generated: 2026-04-08 06:24:07
 
 ## Ratings Verlauf
 
@@ -33,12 +33,12 @@ Generated: 2026-04-07 17:50:35
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["0.08", "0.25"]
-  y-axis "Elo Rating" 1800 --> 2700
-  line "STC (8.0+0.08s)" [1899, 2353]
-  line "STC (8.0+0.08s)" [1899, 2353]
-  line "LTC (60.0+0.60s)" [2090, 2620]
-  line "VLTC (2m24s+1.12s)" [2183, 2668]
-  line "VLTC (2m24s+1.12s)" [2183, 2668]
+  y-axis "Elo Rating" 1800 --> 2800
+  line "STC (8.0+0.08s)" [1899, 2367]
+  line "STC (8.0+0.08s)" [1899, 2367]
+  line "LTC (60.0+0.60s)" [2090, 2678]
+  line "VLTC (2m24s+1.12s)" [2183, 2746]
+  line "VLTC (2m24s+1.12s)" [2183, 2746]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
