@@ -8,15 +8,15 @@ Home: https://github.com/Yoshie2000/PlentyChess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7.0.0 | 2025-09-25 | 3474<sub>(+new) | 3588<sub>(+new) | 3583<sub>(+3) |  |
-| 6.0.2 | 2025-06-06 |  |  | 3580<sub>(+1) |  |
-| 5.0.0 | 2025-03-23 | 3390<sub>(+6) | 3556<sub>(+new) | 3579<sub>(+23) |  |
-| 4.0.1 | 2025-01-18 | 3384<sub>(+new) |  | 3556<sub>(+new) |  |
+| 7.0.0 | 2025-09-25 | 3474<sub>(+new) | 3588<sub>(+new) | 3582<sub>(+3) |  |
+| 6.0.2 | 2025-06-06 |  |  | 3579<sub>(0) |  |
+| 5.0.0 | 2025-03-23 | 3390<sub>(+6) | 3555<sub>(+new) | 3579<sub>(+24) |  |
+| 4.0.1 | 2025-01-18 | 3384<sub>(+new) |  | 3555<sub>(+new) |  |
 | 4.0.0 | 2025-01-18 |  |  |  |  |
 | 3.0.2 | 2024-11-26 |  |  |  |  |
 | 3.0.1 | 2024-11-22 | 3320<sub>(+new) | 3460<sub>(+new) | 3551<sub>(+new) |  |
 | 3.0.0 | 2024-11-21 |  |  |  |  |
-| 2.1.0 | 2024-07-02 | 3352<sub>(+new) | 3494<sub>(+new) | 3529<sub>(+new) |  |
+| 2.1.0 | 2024-07-02 | 3352<sub>(+new) | 3494<sub>(+new) | 3528<sub>(+new) |  |
 | 2.0.0 | 2024-06-12 |  |  |  |  |
 | 1.0.0 | 2024-04-01 |  |  |  |  |
 | 0.3.0 | 2024-02-04 |  |  |  |  |
@@ -38,7 +38,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-07 17:52:44
+Generated: 2026-04-08 06:25:58
 
 ## Ratings Verlauf
 
@@ -49,9 +49,9 @@ xychart-beta
   y-axis "Elo Rating" 3300 --> 3600
   line "STC (8.0+0.08s)" [3352, 3320, 3390, 3474]
   line "STC (8.0+0.08s)" [3352, 3320, 3390, 3474]
-  line "LTC (60.0+0.60s)" [3494, 3460, 3556, 3588]
-  line "VLTC (2m24s+1.12s)" [3529, 3551, 3579, 3583]
-  line "VLTC (2m24s+1.12s)" [3529, 3551, 3579, 3583]
+  line "LTC (60.0+0.60s)" [3494, 3460, 3555, 3588]
+  line "VLTC (2m24s+1.12s)" [3528, 3551, 3579, 3582]
+  line "VLTC (2m24s+1.12s)" [3528, 3551, 3579, 3582]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
