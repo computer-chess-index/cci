@@ -8,8 +8,8 @@ Home: https://github.com/op12no2/cwtch
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 5 | 2026-04-06 | 2952<sub>(+76) | 3178<sub>(+62) | 3251<sub>(+92) |  |
-| 4 | 2025-12-05 | 2876<sub>(+new) | 3116<sub>(+new) | 3159<sub>(+new) |  |
+| 5 | 2026-04-06 | 2931<sub>(+57) | 3159<sub>(+45) | 3270<sub>(+111) |  |
+| 4 | 2025-12-05 | 2874<sub>(+new) | 3114<sub>(+new) | 3159<sub>(+new) |  |
 | 3 | 2025-09-27 |  |  |  |  |
 | 2 | 2025-09-19 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-07 17:49:56
+Generated: 2026-04-08 06:23:33
 
 ## Ratings Verlauf
 
@@ -36,11 +36,11 @@ Generated: 2026-04-07 17:49:56
 xychart-beta
   x-axis ["4", "5"]
   y-axis "Elo Rating" 2800 --> 3300
-  line "STC (8.0+0.08s)" [2876, 2952]
-  line "STC (8.0+0.08s)" [2876, 2952]
-  line "LTC (60.0+0.60s)" [3116, 3178]
-  line "VLTC (2m24s+1.12s)" [3159, 3251]
-  line "VLTC (2m24s+1.12s)" [3159, 3251]
+  line "STC (8.0+0.08s)" [2874, 2931]
+  line "STC (8.0+0.08s)" [2874, 2931]
+  line "LTC (60.0+0.60s)" [3114, 3159]
+  line "VLTC (2m24s+1.12s)" [3159, 3270]
+  line "VLTC (2m24s+1.12s)" [3159, 3270]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
