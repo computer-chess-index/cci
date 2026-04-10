@@ -22,7 +22,7 @@ Home: https://github.com/PS-Wizard/OopsMate
 | 5.0 | 2026-01-31 |  |  |  |  |
 | 4.0 | 2026-01-31 |  |  |  |  |
 | 3.0 | 2026-01-31 |  |  |  |  |
-| 2.0 | 2026-01-30 | 1277<sub>(+new) | 1478<sub>(+new) | 1470<sub>(+new) |  |
+| 2.0 | 2026-01-30 | 1277<sub>(+new) | 1476<sub>(+new) | 1470<sub>(+new) |  |
 | 1.0 | 2026-01-30 |  |  |  |  |
 | 0.0.4 | 2025-11-23 | 1118<sub>(+new) | 1354<sub>(+new) | 1408<sub>(+new) |  |
 | 0.0.3 | 2025-11-13 |  |  |  |  |
@@ -44,7 +44,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-09 06:25:50
+Generated: 2026-04-10 06:26:08
 
 ## Ratings Verlauf
 
@@ -55,7 +55,7 @@ xychart-beta
   y-axis "Elo Rating" 1100 --> 1500
   line "STC (8.0+0.08s)" [1118, 1277]
   line "STC (8.0+0.08s)" [1118, 1277]
-  line "LTC (60.0+0.60s)" [1354, 1478]
+  line "LTC (60.0+0.60s)" [1354, 1476]
   line "VLTC (2m24s+1.12s)" [1408, 1470]
   line "VLTC (2m24s+1.12s)" [1408, 1470]
 ```
