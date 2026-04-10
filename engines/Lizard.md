@@ -11,7 +11,7 @@ Home: https://github.com/liamt19/Lizard
 | 11.2 | 2025-01-08 | 3328<sub>(+15) | 3507<sub>(+21) | 3540<sub>(+10) |  |
 | 11.1.5 | 2024-12-30 | 3313<sub>(+new) | 3486<sub>(+new) | 3530<sub>(+new) |  |
 | 11.1 | 2024-11-11 |  |  |  |  |
-| 11.0 | 2024-09-26 | 3258<sub>(+10) | 3470<sub>(-13) | 3515<sub>(-6) |  |
+| 11.0 | 2024-09-26 | 3258<sub>(+10) | 3470<sub>(-13) | 3517<sub>(-4) |  |
 | 10.5 | 2024-07-13 | 3248<sub>(+new) | 3483<sub>(+new) | 3521<sub>(+new) |  |
 | 10.4 | 2024-06-03 |  |  |  |  |
 | 10.3 | 2024-03-09 |  |  |  |  |
@@ -39,7 +39,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-09 06:25:04
+Generated: 2026-04-10 06:25:14
 
 ## Ratings Verlauf
 
@@ -51,8 +51,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [3248, 3258, 3313, 3328]
   line "STC (8.0+0.08s)" [3248, 3258, 3313, 3328]
   line "LTC (60.0+0.60s)" [3483, 3470, 3486, 3507]
-  line "VLTC (2m24s+1.12s)" [3521, 3515, 3530, 3540]
-  line "VLTC (2m24s+1.12s)" [3521, 3515, 3530, 3540]
+  line "VLTC (2m24s+1.12s)" [3521, 3517, 3530, 3540]
+  line "VLTC (2m24s+1.12s)" [3521, 3517, 3530, 3540]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
