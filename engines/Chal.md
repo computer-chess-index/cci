@@ -8,7 +8,7 @@ Home: https://github.com/namanthanki/chal
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.4.0 | 2026-04-01 | 2286<sub>(+214) | 2527<sub>(+133) | 2604<sub>(+185) |  |
+| 1.4.0 | 2026-04-01 | 2287<sub>(+215) | 2529<sub>(+135) | 2604<sub>(+185) |  |
 | 1.3.2 | 2026-03-14 | 2072<sub>(+28) | 2394<sub>(+26) | 2419<sub>(+2) |  |
 | 1.3.1 | 2026-03-10 | 2044<sub>(+158) | 2368<sub>(+118) | 2417<sub>(+138) |  |
 | 1.3.0 | 2026-03-08 | 1886<sub>(+193) | 2250<sub>(+315) | 2279<sub>(+246) |  |
@@ -31,7 +31,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-09 06:23:10
+Generated: 2026-04-10 06:23:10
 
 ## Ratings Verlauf
 
@@ -40,9 +40,9 @@ Generated: 2026-04-09 06:23:10
 xychart-beta
   x-axis ["1.2.1", "1.3.0", "1.3.1", "1.3.2", "1.4.0"]
   y-axis "Elo Rating" 1600 --> 2700
-  line "STC (8.0+0.08s)" [1693, 1886, 2044, 2072, 2286]
-  line "STC (8.0+0.08s)" [1693, 1886, 2044, 2072, 2286]
-  line "LTC (60.0+0.60s)" [1935, 2250, 2368, 2394, 2527]
+  line "STC (8.0+0.08s)" [1693, 1886, 2044, 2072, 2287]
+  line "STC (8.0+0.08s)" [1693, 1886, 2044, 2072, 2287]
+  line "LTC (60.0+0.60s)" [1935, 2250, 2368, 2394, 2529]
   line "VLTC (2m24s+1.12s)" [2033, 2279, 2417, 2419, 2604]
   line "VLTC (2m24s+1.12s)" [2033, 2279, 2417, 2419, 2604]
 ```
