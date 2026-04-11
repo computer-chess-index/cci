@@ -8,10 +8,10 @@ Home: https://github.com/loldot/lolbot
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.2.3 | 2025-12-08 | 2053<sub>(+37) | 2267<sub>(-25) | 2350<sub>(+20) |  |
-| 0.2.2 | 2025-11-29 | 2016<sub>(+68) | 2292<sub>(+81) | 2330<sub>(-22) |  |
-| 0.2.1 | 2025-11-16 | 1948<sub>(-72) | 2211<sub>(-30) | 2352<sub>(-51) |  |
-| 0.2 | 2025-11-15 | 2020<sub>(+new) | 2241<sub>(+new) | 2403<sub>(+new) |  |
+| 0.2.3 | 2025-12-08 | 2052<sub>(+36) | 2272<sub>(-22) | 2350<sub>(+19) |  |
+| 0.2.2 | 2025-11-29 | 2016<sub>(+67) | 2294<sub>(+81) | 2331<sub>(-22) |  |
+| 0.2.1 | 2025-11-16 | 1949<sub>(-71) | 2213<sub>(-28) | 2353<sub>(-51) |  |
+| 0.2 | 2025-11-15 | 2020<sub>(+new) | 2241<sub>(+new) | 2404<sub>(+new) |  |
 | 0.1-alpha | 2025-03-29 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -28,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-10 06:25:18
+Generated: 2026-04-11 06:24:47
 
 ## Ratings Verlauf
 
@@ -37,11 +37,11 @@ Generated: 2026-04-10 06:25:18
 xychart-beta
   x-axis ["0.2", "0.2.1", "0.2.2", "0.2.3"]
   y-axis "Elo Rating" 1900 --> 2500
-  line "STC (8.0+0.08s)" [2020, 1948, 2016, 2053]
-  line "STC (8.0+0.08s)" [2020, 1948, 2016, 2053]
-  line "LTC (60.0+0.60s)" [2241, 2211, 2292, 2267]
-  line "VLTC (2m24s+1.12s)" [2403, 2352, 2330, 2350]
-  line "VLTC (2m24s+1.12s)" [2403, 2352, 2330, 2350]
+  line "STC (8.0+0.08s)" [2020, 1949, 2016, 2052]
+  line "STC (8.0+0.08s)" [2020, 1949, 2016, 2052]
+  line "LTC (60.0+0.60s)" [2241, 2213, 2294, 2272]
+  line "VLTC (2m24s+1.12s)" [2404, 2353, 2331, 2350]
+  line "VLTC (2m24s+1.12s)" [2404, 2353, 2331, 2350]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
