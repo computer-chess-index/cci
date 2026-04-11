@@ -8,13 +8,13 @@ Home: https://github.com/lucametehau/CloverEngine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.1 | 2025-09-14 | 3406<sub>(+new) | 3557<sub>(+new) | 3571<sub>(+new) |  |
+| 9.1 | 2025-09-14 | 3409<sub>(+new) | 3560<sub>(+new) | 3572<sub>(+new) |  |
 | 9.0 | 2025-08-19 |  |  |  |  |
-| 8.2.5 | 2025-07-14 | 3364<sub>(+new) | 3514<sub>(+new) | 3542<sub>(+new) |  |
+| 8.2.5 | 2025-07-14 | 3367<sub>(+new) | 3515<sub>(+new) | 3544<sub>(+new) |  |
 | 8.2.1 | 2025-07-12 |  |  |  |  |
 | 8.2 | 2025-07-11 |  |  |  |  |
-| 8.1 | 2024-12-03 | 3367<sub>(+4) | 3498<sub>(-11) | 3538<sub>(0) |  |
-| 8.0.2 | 2024-09-05 | 3363<sub>(+new) | 3509<sub>(+new) | 3538<sub>(+new) |  |
+| 8.1 | 2024-12-03 | 3370<sub>(+6) | 3499<sub>(-11) | 3541<sub>(+1) |  |
+| 8.0.2 | 2024-09-05 | 3364<sub>(+new) | 3510<sub>(+new) | 3540<sub>(+new) |  |
 | 8.0 | 2024-09-02 |  |  |  |  |
 | 7.1 | 2024-08-11 |  |  |  |  |
 | 7.0 | 2024-07-24 |  |  |  |  |
@@ -57,7 +57,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-10 06:23:31
+Generated: 2026-04-11 06:23:18
 
 ## Ratings Verlauf
 
@@ -66,11 +66,11 @@ Generated: 2026-04-10 06:23:31
 xychart-beta
   x-axis ["8.0.2", "8.1", "8.2.5", "9.1"]
   y-axis "Elo Rating" 3300 --> 3600
-  line "STC (8.0+0.08s)" [3363, 3367, 3364, 3406]
-  line "STC (8.0+0.08s)" [3363, 3367, 3364, 3406]
-  line "LTC (60.0+0.60s)" [3509, 3498, 3514, 3557]
-  line "VLTC (2m24s+1.12s)" [3538, 3538, 3542, 3571]
-  line "VLTC (2m24s+1.12s)" [3538, 3538, 3542, 3571]
+  line "STC (8.0+0.08s)" [3364, 3370, 3367, 3409]
+  line "STC (8.0+0.08s)" [3364, 3370, 3367, 3409]
+  line "LTC (60.0+0.60s)" [3510, 3499, 3515, 3560]
+  line "VLTC (2m24s+1.12s)" [3540, 3541, 3544, 3572]
+  line "VLTC (2m24s+1.12s)" [3540, 3541, 3544, 3572]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
