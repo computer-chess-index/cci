@@ -8,10 +8,10 @@ Home: https://github.com/Nonlinear2/Bread-Engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.0 | 2026-03-15 | 3137<sub>(+113) | 3335<sub>(+103) | 3413<sub>(+131) |  |
-| 2.1.1 | 2025-12-22 | 3024<sub>(+new) | 3232<sub>(+new) | 3282<sub>(+new) |  |
+| 3.0.0 | 2026-03-15 | 3139<sub>(+112) | 3337<sub>(+104) | 3416<sub>(+133) |  |
+| 2.1.1 | 2025-12-22 | 3027<sub>(+new) | 3233<sub>(+new) | 3283<sub>(+new) |  |
 | 2.1.0 | 2025-12-21 |  |  |  | always disconnects |
-| 2.0.0 | 2025-10-18 | 2889<sub>(+new) | 3144<sub>(+new) | 3179<sub>(+new) |  |
+| 2.0.0 | 2025-10-18 | 2892<sub>(+new) | 3146<sub>(+new) | 3182<sub>(+new) |  |
 | 1.6.0 | 2025-08-26 |  |  |  |  |
 | 1.5.0 | 2025-07-13 |  |  |  |  |
 | 1.4.0 | 2025-05-05 |  |  |  |  |
@@ -44,7 +44,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-10 06:22:55
+Generated: 2026-04-11 06:22:47
 
 ## Ratings Verlauf
 
@@ -53,11 +53,11 @@ Generated: 2026-04-10 06:22:55
 xychart-beta
   x-axis ["2.0.0", "2.1.1", "3.0.0"]
   y-axis "Elo Rating" 2800 --> 3500
-  line "STC (8.0+0.08s)" [2889, 3024, 3137]
-  line "STC (8.0+0.08s)" [2889, 3024, 3137]
-  line "LTC (60.0+0.60s)" [3144, 3232, 3335]
-  line "VLTC (2m24s+1.12s)" [3179, 3282, 3413]
-  line "VLTC (2m24s+1.12s)" [3179, 3282, 3413]
+  line "STC (8.0+0.08s)" [2892, 3027, 3139]
+  line "STC (8.0+0.08s)" [2892, 3027, 3139]
+  line "LTC (60.0+0.60s)" [3146, 3233, 3337]
+  line "VLTC (2m24s+1.12s)" [3182, 3283, 3416]
+  line "VLTC (2m24s+1.12s)" [3182, 3283, 3416]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
