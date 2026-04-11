@@ -8,9 +8,9 @@ Home: https://github.com/mhonert/velvet-chess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 8.1.1 | 2024-11-06 | 3308<sub>(+15) | 3470<sub>(+5) | 3494<sub>(-3) |  |
-| 8.1.0 | 2024-10-28 | 3293<sub>(+26) | 3465<sub>(+18) | 3497<sub>(0) |  |
-| 8.0.0 | 2024-08-17 | 3267<sub>(+new) | 3447<sub>(+new) | 3497<sub>(+new) |  |
+| 8.1.1 | 2024-11-06 | 3309<sub>(+15) | 3471<sub>(+3) | 3495<sub>(-3) |  |
+| 8.1.0 | 2024-10-28 | 3294<sub>(+26) | 3468<sub>(+20) | 3498<sub>(0) |  |
+| 8.0.0 | 2024-08-17 | 3268<sub>(+new) | 3448<sub>(+new) | 3498<sub>(+new) |  |
 | 7.3.0 | 2024-04-08 |  |  |  |  |
 | 7.2.0 | 2024-04-07 |  |  |  |  |
 | 7.1.0 | 2024-03-08 |  |  |  |  |
@@ -50,7 +50,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-10 06:28:34
+Generated: 2026-04-11 06:27:41
 
 ## Ratings Verlauf
 
@@ -59,11 +59,11 @@ Generated: 2026-04-10 06:28:34
 xychart-beta
   x-axis ["8.0.0", "8.1.0", "8.1.1"]
   y-axis "Elo Rating" 3200 --> 3500
-  line "STC (8.0+0.08s)" [3267, 3293, 3308]
-  line "STC (8.0+0.08s)" [3267, 3293, 3308]
-  line "LTC (60.0+0.60s)" [3447, 3465, 3470]
-  line "VLTC (2m24s+1.12s)" [3497, 3497, 3494]
-  line "VLTC (2m24s+1.12s)" [3497, 3497, 3494]
+  line "STC (8.0+0.08s)" [3268, 3294, 3309]
+  line "STC (8.0+0.08s)" [3268, 3294, 3309]
+  line "LTC (60.0+0.60s)" [3448, 3468, 3471]
+  line "VLTC (2m24s+1.12s)" [3498, 3498, 3495]
+  line "VLTC (2m24s+1.12s)" [3498, 3498, 3495]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
