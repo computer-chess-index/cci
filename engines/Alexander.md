@@ -8,8 +8,8 @@ Home: https://github.com/amchess/Alexander
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 8.3 | 2026-04-01 | 3179<sub>(0) | 3422<sub>(+35) | 3463<sub>(+20) |  |
-| 8.2 | 2026-03-23 | 3179<sub>(-26) | 3387<sub>(-8) | 3443<sub>(-12) |  |
+| 8.3 | 2026-04-01 | 3179<sub>(-2) | 3424<sub>(+35) | 3464<sub>(+21) |  |
+| 8.2 | 2026-03-23 | 3181<sub>(-24) | 3389<sub>(-6) | 3443<sub>(-12) |  |
 | 8.1 | 2026-03-16 | 3205<sub>(+38) | 3395<sub>(-11) | 3455<sub>(+11) |  |
 | 8.0 | 2026-03-10 | 3167<sub>(+new) | 3406<sub>(+new) | 3444<sub>(+new) |  |
 | 7.0 | 2025-10-20 |  |  |  |  |
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-11 06:22:10
+Generated: 2026-04-12 06:22:11
 
 ## Ratings Verlauf
 
@@ -50,11 +50,11 @@ Generated: 2026-04-11 06:22:10
 xychart-beta
   x-axis ["8.0", "8.1", "8.2", "8.3"]
   y-axis "Elo Rating" 3100 --> 3500
-  line "STC (8.0+0.08s)" [3167, 3205, 3179, 3179]
-  line "STC (8.0+0.08s)" [3167, 3205, 3179, 3179]
-  line "LTC (60.0+0.60s)" [3406, 3395, 3387, 3422]
-  line "VLTC (2m24s+1.12s)" [3444, 3455, 3443, 3463]
-  line "VLTC (2m24s+1.12s)" [3444, 3455, 3443, 3463]
+  line "STC (8.0+0.08s)" [3167, 3205, 3181, 3179]
+  line "STC (8.0+0.08s)" [3167, 3205, 3181, 3179]
+  line "LTC (60.0+0.60s)" [3406, 3395, 3389, 3424]
+  line "VLTC (2m24s+1.12s)" [3444, 3455, 3443, 3464]
+  line "VLTC (2m24s+1.12s)" [3444, 3455, 3443, 3464]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
