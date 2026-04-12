@@ -9,8 +9,8 @@ Home: https://github.com/kevlu8/PZChessBot
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 6.1 | 2026-02-01 | 3228<sub>(+31) | 3447<sub>(+60) | 3506<sub>(+58) |  |
-| 6.0 | 2026-01-01 | 3197<sub>(+120) | 3387<sub>(+121) | 3448<sub>(+153) |  |
-| 5.0 | 2025-10-19 | 3077<sub>(+new) | 3266<sub>(+new) | 3295<sub>(+new) |  |
+| 6.0 | 2026-01-01 | 3197<sub>(+120) | 3387<sub>(+120) | 3448<sub>(+151) |  |
+| 5.0 | 2025-10-19 | 3077<sub>(+new) | 3267<sub>(+new) | 3297<sub>(+new) |  |
 | 4.0 | 2025-10-03 |  |  |  |  |
 | 3.0 | 2025-07-02 |  |  |  |  |
 | 2.0 | 2025-06-17 |  |  |  |  |
@@ -35,7 +35,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-11 06:26:07
+Generated: 2026-04-12 06:26:17
 
 ## Ratings Verlauf
 
@@ -46,9 +46,9 @@ xychart-beta
   y-axis "Elo Rating" 3000 --> 3600
   line "STC (8.0+0.08s)" [3077, 3197, 3228]
   line "STC (8.0+0.08s)" [3077, 3197, 3228]
-  line "LTC (60.0+0.60s)" [3266, 3387, 3447]
-  line "VLTC (2m24s+1.12s)" [3295, 3448, 3506]
-  line "VLTC (2m24s+1.12s)" [3295, 3448, 3506]
+  line "LTC (60.0+0.60s)" [3267, 3387, 3447]
+  line "VLTC (2m24s+1.12s)" [3297, 3448, 3506]
+  line "VLTC (2m24s+1.12s)" [3297, 3448, 3506]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
