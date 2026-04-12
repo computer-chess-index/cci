@@ -8,8 +8,8 @@ Home: https://github.com/cristivlas/sturddle-2
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.5.0 | 2026-02-04 | 2734<sub>(+83) | 3056<sub>(+21) | 3193<sub>(+72) |  |
-| 2.4.0 | 2025-12-06 | 2651<sub>(+new) | 3035<sub>(+new) | 3121<sub>(+new) |  |
+| 2.5.0 | 2026-02-04 | 2732<sub>(+81) | 3058<sub>(+22) | 3193<sub>(+72) |  |
+| 2.4.0 | 2025-12-06 | 2651<sub>(+new) | 3036<sub>(+new) | 3121<sub>(+new) |  |
 | 2.3.1 | 2025-09-04 |  |  |  |  |
 | 2.3 | 2025-09-01 |  |  |  |  |
 | 2.02 | 2025-03-28 |  |  |  |  |
@@ -30,7 +30,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-11 06:27:11
+Generated: 2026-04-12 06:27:22
 
 ## Ratings Verlauf
 
@@ -39,9 +39,9 @@ Generated: 2026-04-11 06:27:11
 xychart-beta
   x-axis ["2.4.0", "2.5.0"]
   y-axis "Elo Rating" 2600 --> 3200
-  line "STC (8.0+0.08s)" [2651, 2734]
-  line "STC (8.0+0.08s)" [2651, 2734]
-  line "LTC (60.0+0.60s)" [3035, 3056]
+  line "STC (8.0+0.08s)" [2651, 2732]
+  line "STC (8.0+0.08s)" [2651, 2732]
+  line "LTC (60.0+0.60s)" [3036, 3058]
   line "VLTC (2m24s+1.12s)" [3121, 3193]
   line "VLTC (2m24s+1.12s)" [3121, 3193]
 ```
