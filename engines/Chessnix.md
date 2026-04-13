@@ -9,8 +9,8 @@ Home: https://github.com/ericlangedijk/chessnix/
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 0.0 | 2026-02-25 |  |  |  |  |
-| 1.3 | 2026-02-15 | 2897<sub>(+248) | 3096<sub>(+289) | 3195<sub>(+225) |  |
-| 1.2 | 2025-12-12 | 2649<sub>(+286) | 2807<sub>(+174) | 2970<sub>(+258) |  |
+| 1.3 | 2026-02-15 | 2897<sub>(+248) | 3097<sub>(+289) | 3195<sub>(+224) |  |
+| 1.2 | 2025-12-12 | 2649<sub>(+286) | 2808<sub>(+175) | 2971<sub>(+259) |  |
 | 1.0 | 2025-11-08 | 2363<sub>(+new) | 2633<sub>(+new) | 2712<sub>(+new) | too many irregular games |
 | 0.1 | 2025-10-03 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -28,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-12 06:23:11
+Generated: 2026-04-13 06:23:07
 
 ## Ratings Verlauf
 
@@ -39,9 +39,9 @@ xychart-beta
   y-axis "Elo Rating" 2300 --> 3200
   line "STC (8.0+0.08s)" [2363, 2649, 2897]
   line "STC (8.0+0.08s)" [2363, 2649, 2897]
-  line "LTC (60.0+0.60s)" [2633, 2807, 3096]
-  line "VLTC (2m24s+1.12s)" [2712, 2970, 3195]
-  line "VLTC (2m24s+1.12s)" [2712, 2970, 3195]
+  line "LTC (60.0+0.60s)" [2633, 2808, 3097]
+  line "VLTC (2m24s+1.12s)" [2712, 2971, 3195]
+  line "VLTC (2m24s+1.12s)" [2712, 2971, 3195]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
