@@ -1,6 +1,6 @@
 # Engine: Lolbot
 
-Author: Vedeler Lorentz
+Author: Lorentz Vedeler
 
 Home: https://github.com/loldot/lolbot
 
@@ -8,14 +8,15 @@ Home: https://github.com/loldot/lolbot
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.2.3 | 2025-12-08 | 2049<sub>(+32) | 2269<sub>(-26) | 2350<sub>(+17) |  |
-| 0.2.2 | 2025-11-29 | 2017<sub>(+68) | 2295<sub>(+81) | 2333<sub>(-20) |  |
-| 0.2.1 | 2025-11-16 | 1949<sub>(-71) | 2214<sub>(-28) | 2353<sub>(-53) |  |
-| 0.2 | 2025-11-15 | 2020<sub>(+new) | 2242<sub>(+new) | 2406<sub>(+new) |  |
+| 0.3.1 | 2026-04-13 | 2168<sub>(+113) | 2446<sub>(+171) | 2477<sub>(+121) |  |
+| 0.2.3 | 2025-12-08 | 2055<sub>(+34) | 2275<sub>(-25) | 2356<sub>(+19) |  |
+| 0.2.2 | 2025-11-29 | 2021<sub>(+66) | 2300<sub>(+81) | 2337<sub>(-21) |  |
+| 0.2.1 | 2025-11-16 | 1955<sub>(-70) | 2219<sub>(-29) | 2358<sub>(-53) |  |
+| 0.2 | 2025-11-15 | 2025<sub>(+new) | 2248<sub>(+new) | 2411<sub>(+new) |  |
 | 0.1-alpha | 2025-03-29 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Lolbot+<version>&body=###%20Engine%20name%0ALolbot%0A%0A###%20Version%0A0.2.3" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Lolbot+<version>&body=###%20Engine%20name%0ALolbot%0A%0A###%20Version%0A0.3.1" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -28,20 +29,20 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-13 06:24:42
+Generated: 2026-04-14 06:24:42
 
 ## Ratings Verlauf
 
 ```mermaid
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
-  x-axis ["0.2", "0.2.1", "0.2.2", "0.2.3"]
+  x-axis ["0.2", "0.2.1", "0.2.2", "0.2.3", "0.3.1"]
   y-axis "Elo Rating" 1900 --> 2500
-  line "STC (8.0+0.08s)" [2020, 1949, 2017, 2049]
-  line "STC (8.0+0.08s)" [2020, 1949, 2017, 2049]
-  line "LTC (60.0+0.60s)" [2242, 2214, 2295, 2269]
-  line "VLTC (2m24s+1.12s)" [2406, 2353, 2333, 2350]
-  line "VLTC (2m24s+1.12s)" [2406, 2353, 2333, 2350]
+  line "STC (8.0+0.08s)" [2025, 1955, 2021, 2055, 2168]
+  line "STC (8.0+0.08s)" [2025, 1955, 2021, 2055, 2168]
+  line "LTC (60.0+0.60s)" [2248, 2219, 2300, 2275, 2446]
+  line "VLTC (2m24s+1.12s)" [2411, 2358, 2337, 2356, 2477]
+  line "VLTC (2m24s+1.12s)" [2411, 2358, 2337, 2356, 2477]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
