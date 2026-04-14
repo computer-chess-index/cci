@@ -8,8 +8,8 @@ Home: https://github.com/liamt19/Horsie
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1 | 2025-05-13 | 3378<sub>(+14) | 3525<sub>(+12) | 3557<sub>(-6) |  |
-| 1.0 | 2025-01-08 | 3364 | 3513 | 3563 |  |
+| 1.1 | 2025-05-13 | 3383<sub>(+13) | 3530<sub>(+12) | 3563<sub>(-4) |  |
+| 1.0 | 2025-01-08 | 3370 | 3518 | 3567 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Horsie+<version>&body=###%20Engine%20name%0AHorsie%0A%0A###%20Version%0A1.1" target="_blank">Submit new version</a>
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-13 06:24:14
+Generated: 2026-04-14 06:24:13
 
 ## Ratings Verlauf
 
@@ -34,11 +34,11 @@ Generated: 2026-04-13 06:24:14
 xychart-beta
   x-axis ["1.0", "1.1"]
   y-axis "Elo Rating" 3300 --> 3600
-  line "STC (8.0+0.08s)" [3364, 3378]
-  line "STC (8.0+0.08s)" [3364, 3378]
-  line "LTC (60.0+0.60s)" [3513, 3525]
-  line "VLTC (2m24s+1.12s)" [3563, 3557]
-  line "VLTC (2m24s+1.12s)" [3563, 3557]
+  line "STC (8.0+0.08s)" [3370, 3383]
+  line "STC (8.0+0.08s)" [3370, 3383]
+  line "LTC (60.0+0.60s)" [3518, 3530]
+  line "VLTC (2m24s+1.12s)" [3567, 3563]
+  line "VLTC (2m24s+1.12s)" [3567, 3563]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
