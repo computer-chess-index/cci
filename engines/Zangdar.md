@@ -8,10 +8,10 @@ Home: https://github.com/Carbecq/Zangdar
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.1.1 | 2026-02-25 | 3229<sub>(+51) | 3407<sub>(+8) | 3432<sub>(-28) |  |
-| 6.1 | 2026-02-10 | 3178<sub>(+1) | 3399<sub>(+16) | 3460<sub>(+26) |  |
-| 6 | 2026-02-07 | 3177<sub>(+13) | 3383<sub>(+5) | 3434<sub>(+14) |  |
-| 5.00.02 | 2025-09-24 | 3164<sub>(+new) | 3378<sub>(+new) | 3420<sub>(+new) |  |
+| 6.1.1 | 2026-02-25 | 3233<sub>(+51) | 3413<sub>(+8) | 3436<sub>(-29) |  |
+| 6.1 | 2026-02-10 | 3182<sub>(+1) | 3405<sub>(+18) | 3465<sub>(+25) |  |
+| 6 | 2026-02-07 | 3181<sub>(+11) | 3387<sub>(+5) | 3440<sub>(+15) |  |
+| 5.00.02 | 2025-09-24 | 3170<sub>(+new) | 3382<sub>(+new) | 3425<sub>(+new) |  |
 | 5.00.01 | 2025-09-23 |  |  |  |  |
 | 5 | 2025-09-22 |  |  |  |  |
 | 4.04.01 | 2025-08-31 |  |  |  |  |
@@ -39,7 +39,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-13 06:27:56
+Generated: 2026-04-14 06:27:56
 
 ## Ratings Verlauf
 
@@ -48,11 +48,11 @@ Generated: 2026-04-13 06:27:56
 xychart-beta
   x-axis ["5.00.02", "6", "6.1", "6.1.1"]
   y-axis "Elo Rating" 3100 --> 3500
-  line "STC (8.0+0.08s)" [3164, 3177, 3178, 3229]
-  line "STC (8.0+0.08s)" [3164, 3177, 3178, 3229]
-  line "LTC (60.0+0.60s)" [3378, 3383, 3399, 3407]
-  line "VLTC (2m24s+1.12s)" [3420, 3434, 3460, 3432]
-  line "VLTC (2m24s+1.12s)" [3420, 3434, 3460, 3432]
+  line "STC (8.0+0.08s)" [3170, 3181, 3182, 3233]
+  line "STC (8.0+0.08s)" [3170, 3181, 3182, 3233]
+  line "LTC (60.0+0.60s)" [3382, 3387, 3405, 3413]
+  line "VLTC (2m24s+1.12s)" [3425, 3440, 3465, 3436]
+  line "VLTC (2m24s+1.12s)" [3425, 3440, 3465, 3436]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
