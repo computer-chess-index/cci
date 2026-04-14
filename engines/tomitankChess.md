@@ -8,8 +8,8 @@ Home: https://github.com/tomitank/tomitankChess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.0 | 2026-03-31 | 2511<sub>(+86) | 2850<sub>(+99) | 2908<sub>(+70) |  |
-| 5.3 | 2025-09-26 | 2425<sub>(+new) | 2751<sub>(+new) | 2838<sub>(+new) |  |
+| 6.0 | 2026-03-31 | 2515<sub>(+86) | 2855<sub>(+98) | 2912<sub>(+69) |  |
+| 5.3 | 2025-09-26 | 2429<sub>(+new) | 2757<sub>(+new) | 2843<sub>(+new) |  |
 | 5.1 | 2024-03-24 |  |  |  |  |
 | 5.0 | 2021-04-07 |  |  |  |  |
 | 4.2 | 2020-09-23 |  |  |  |  |
@@ -33,7 +33,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-13 06:27:24
+Generated: 2026-04-14 06:27:22
 
 ## Ratings Verlauf
 
@@ -42,11 +42,11 @@ Generated: 2026-04-13 06:27:24
 xychart-beta
   x-axis ["5.3", "6.0"]
   y-axis "Elo Rating" 2400 --> 3000
-  line "STC (8.0+0.08s)" [2425, 2511]
-  line "STC (8.0+0.08s)" [2425, 2511]
-  line "LTC (60.0+0.60s)" [2751, 2850]
-  line "VLTC (2m24s+1.12s)" [2838, 2908]
-  line "VLTC (2m24s+1.12s)" [2838, 2908]
+  line "STC (8.0+0.08s)" [2429, 2515]
+  line "STC (8.0+0.08s)" [2429, 2515]
+  line "LTC (60.0+0.60s)" [2757, 2855]
+  line "VLTC (2m24s+1.12s)" [2843, 2912]
+  line "VLTC (2m24s+1.12s)" [2843, 2912]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
