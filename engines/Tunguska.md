@@ -8,8 +8,8 @@ Home: https://github.com/fernandotenorio/Tunguska
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1 | 2026-04-08 | 2859<sub>(+321) | 3167<sub>(+289) | 3237<sub>(+278) |  |
-| 2.0 | 2026-03-18 | 2538 | 2878 | 2959 |  |
+| 2.1 | 2026-04-08 | 2859<sub>(+316) | 3171<sub>(+287) | 3243<sub>(+278) |  |
+| 2.0 | 2026-03-18 | 2543 | 2884 | 2965 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Tunguska+<version>&body=###%20Engine%20name%0ATunguska%0A%0A###%20Version%0A2.1" target="_blank">Submit new version</a>
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-13 06:27:29
+Generated: 2026-04-14 06:27:27
 
 ## Ratings Verlauf
 
@@ -34,11 +34,11 @@ Generated: 2026-04-13 06:27:29
 xychart-beta
   x-axis ["2.0", "2.1"]
   y-axis "Elo Rating" 2500 --> 3300
-  line "STC (8.0+0.08s)" [2538, 2859]
-  line "STC (8.0+0.08s)" [2538, 2859]
-  line "LTC (60.0+0.60s)" [2878, 3167]
-  line "VLTC (2m24s+1.12s)" [2959, 3237]
-  line "VLTC (2m24s+1.12s)" [2959, 3237]
+  line "STC (8.0+0.08s)" [2543, 2859]
+  line "STC (8.0+0.08s)" [2543, 2859]
+  line "LTC (60.0+0.60s)" [2884, 3171]
+  line "VLTC (2m24s+1.12s)" [2965, 3243]
+  line "VLTC (2m24s+1.12s)" [2965, 3243]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
