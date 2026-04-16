@@ -8,7 +8,7 @@ Home: https://github.com/enfmarinho/Minke
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 5.0.0 | 2026-02-13 | 3167<sub>(+59) | 3348<sub>(+40) | 3418<sub>(+88) |  |
+| 5.0.0 | 2026-02-13 | 3167<sub>(+59) | 3348<sub>(+40) | 3420<sub>(+90) |  |
 | 4.0.0 | 2025-12-29 | 3108<sub>(+93) | 3308<sub>(+64) | 3330<sub>(+49) |  |
 | 3.0.0 | 2025-10-20 | 3015<sub>(+new) | 3244<sub>(+new) | 3281<sub>(+new) |  |
 | 2.0.0 | 2025-09-14 |  |  |  |  |
@@ -28,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-14 06:25:02
+Generated: 2026-04-16 06:25:17
 
 ## Ratings Verlauf
 
@@ -40,8 +40,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [3015, 3108, 3167]
   line "STC (8.0+0.08s)" [3015, 3108, 3167]
   line "LTC (60.0+0.60s)" [3244, 3308, 3348]
-  line "VLTC (2m24s+1.12s)" [3281, 3330, 3418]
-  line "VLTC (2m24s+1.12s)" [3281, 3330, 3418]
+  line "VLTC (2m24s+1.12s)" [3281, 3330, 3420]
+  line "VLTC (2m24s+1.12s)" [3281, 3330, 3420]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
