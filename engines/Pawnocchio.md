@@ -8,7 +8,7 @@ Home: https://github.com/JonathanHallstrom/pawnocchio
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.9.2 | 2026-01-15 | 3411<sub>(+13) | 3571<sub>(+7) | 3583<sub>(+11) |  |
+| 1.9.2 | 2026-01-15 | 3411<sub>(+13) | 3569<sub>(+5) | 3583<sub>(+11) |  |
 | 1.9.1 | 2026-01-12 | 3398<sub>(-11) | 3564<sub>(+18) | 3572<sub>(-11) |  |
 | 1.9 | 2026-01-03 | 3409<sub>(+new) | 3546<sub>(+new) | 3583<sub>(+new) |  |
 | 1.8.1 | 2025-07-25 |  |  |  |  |
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-14 06:25:24
+Generated: 2026-04-16 06:25:43
 
 ## Ratings Verlauf
 
@@ -52,7 +52,7 @@ xychart-beta
   y-axis "Elo Rating" 3300 --> 3600
   line "STC (8.0+0.08s)" [3409, 3398, 3411]
   line "STC (8.0+0.08s)" [3409, 3398, 3411]
-  line "LTC (60.0+0.60s)" [3546, 3564, 3571]
+  line "LTC (60.0+0.60s)" [3546, 3564, 3569]
   line "VLTC (2m24s+1.12s)" [3583, 3572, 3583]
   line "VLTC (2m24s+1.12s)" [3583, 3572, 3583]
 ```
