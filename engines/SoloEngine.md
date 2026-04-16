@@ -8,15 +8,16 @@ Home: https://github.com/yunusemreyldz07/SoloEngine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0.0 | 2026-03-23 | 2311<sub>(+98) | 2653<sub>(+143) | 2793<sub>(+148) |  |
-| 1.6.0 | 2026-03-14 | 2213<sub>(+158) | 2510<sub>(+135) | 2645<sub>(+161) |  |
-| 1.5.0 | 2026-03-04 | 2055<sub>(+265) | 2375<sub>(+257) | 2484<sub>(+242) |  |
-| 1.4.0 | 2026-02-07 | 1790<sub>(+138) | 2118<sub>(+106) | 2242<sub>(+132) |  |
-| 1.3.1 | 2026-02-01 | 1652<sub>(-26) | 2012<sub>(+19) | 2110<sub>(+51) |  |
-| 1.2.2 | 2026-01-23 | 1678 | 1993 | 2059 |  |
+| 2.1.0 | 2026-04-14 |  |  |  |  |
+| 2.0.0 | 2026-03-23 | 2310<sub>(+99) | 2651<sub>(+141) | 2792<sub>(+147) |  |
+| 1.6.0 | 2026-03-14 | 2211<sub>(+158) | 2510<sub>(+135) | 2645<sub>(+162) |  |
+| 1.5.0 | 2026-03-04 | 2053<sub>(+264) | 2375<sub>(+257) | 2483<sub>(+241) |  |
+| 1.4.0 | 2026-02-07 | 1789<sub>(+138) | 2118<sub>(+108) | 2242<sub>(+133) |  |
+| 1.3.1 | 2026-02-01 | 1651<sub>(-26) | 2010<sub>(+19) | 2109<sub>(+52) |  |
+| 1.2.2 | 2026-01-23 | 1677 | 1991 | 2057 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+SoloEngine+<version>&body=###%20Engine%20name%0ASoloEngine%0A%0A###%20Version%0A2.0.0" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+SoloEngine+<version>&body=###%20Engine%20name%0ASoloEngine%0A%0A###%20Version%0A2.1.0" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -29,7 +30,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-14 06:26:49
+Generated: 2026-04-16 06:27:14
 
 ## Ratings Verlauf
 
@@ -38,11 +39,11 @@ Generated: 2026-04-14 06:26:49
 xychart-beta
   x-axis ["1.2.2", "1.3.1", "1.4.0", "1.5.0", "1.6.0", "2.0.0"]
   y-axis "Elo Rating" 1600 --> 2800
-  line "STC (8.0+0.08s)" [1678, 1652, 1790, 2055, 2213, 2311]
-  line "STC (8.0+0.08s)" [1678, 1652, 1790, 2055, 2213, 2311]
-  line "LTC (60.0+0.60s)" [1993, 2012, 2118, 2375, 2510, 2653]
-  line "VLTC (2m24s+1.12s)" [2059, 2110, 2242, 2484, 2645, 2793]
-  line "VLTC (2m24s+1.12s)" [2059, 2110, 2242, 2484, 2645, 2793]
+  line "STC (8.0+0.08s)" [1677, 1651, 1789, 2053, 2211, 2310]
+  line "STC (8.0+0.08s)" [1677, 1651, 1789, 2053, 2211, 2310]
+  line "LTC (60.0+0.60s)" [1991, 2010, 2118, 2375, 2510, 2651]
+  line "VLTC (2m24s+1.12s)" [2057, 2109, 2242, 2483, 2645, 2792]
+  line "VLTC (2m24s+1.12s)" [2057, 2109, 2242, 2483, 2645, 2792]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
