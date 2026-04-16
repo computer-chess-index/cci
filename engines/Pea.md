@@ -8,13 +8,14 @@ Home: https://github.com/WGCodings/Pea
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.0 | 2026-04-11 | 1980<sub>(+237) | 2294<sub>(+195) | 2431<sub>(+178) |  |
-| 3.0 | 2026-04-09 | 1743<sub>(+new) | 2099<sub>(+new) | 2253<sub>(+new) |  |
+| 5.0 | 2026-04-15 |  |  |  |  |
+| 4.0 | 2026-04-11 | 1970<sub>(+228) | 2271<sub>(+172) | 2435<sub>(+182) |  |
+| 3.0 | 2026-04-09 | 1742<sub>(+new) | 2099<sub>(+new) | 2253<sub>(+new) |  |
 | 2.0 | 2026-04-08 |  |  |  |  |
 | 1.0 | 2026-04-06 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Pea+<version>&body=###%20Engine%20name%0APea%0A%0A###%20Version%0A4.0" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Pea+<version>&body=###%20Engine%20name%0APea%0A%0A###%20Version%0A5.0" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -27,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-14 06:25:26
+Generated: 2026-04-16 06:25:45
 
 ## Ratings Verlauf
 
@@ -36,11 +37,11 @@ Generated: 2026-04-14 06:25:26
 xychart-beta
   x-axis ["3.0", "4.0"]
   y-axis "Elo Rating" 1700 --> 2500
-  line "STC (8.0+0.08s)" [1743, 1980]
-  line "STC (8.0+0.08s)" [1743, 1980]
-  line "LTC (60.0+0.60s)" [2099, 2294]
-  line "VLTC (2m24s+1.12s)" [2253, 2431]
-  line "VLTC (2m24s+1.12s)" [2253, 2431]
+  line "STC (8.0+0.08s)" [1742, 1970]
+  line "STC (8.0+0.08s)" [1742, 1970]
+  line "LTC (60.0+0.60s)" [2099, 2271]
+  line "VLTC (2m24s+1.12s)" [2253, 2435]
+  line "VLTC (2m24s+1.12s)" [2253, 2435]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
