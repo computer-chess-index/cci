@@ -8,7 +8,7 @@ Home: https://github.com/nescitus/publius
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1 | 2025-12-31 | 2507<sub>(-364) | 2792<sub>(-352) | 2865<sub>(-305) |  |
+| 1.1 | 2025-12-31 | 2507<sub>(-364) | 2785<sub>(-359) | 2866<sub>(-304) |  |
 | 1.0 | 2025-10-19 | 2871 | 3144 | 3170 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-14 06:25:58
+Generated: 2026-04-16 06:26:18
 
 ## Ratings Verlauf
 
@@ -36,9 +36,9 @@ xychart-beta
   y-axis "Elo Rating" 2500 --> 3200
   line "STC (8.0+0.08s)" [2871, 2507]
   line "STC (8.0+0.08s)" [2871, 2507]
-  line "LTC (60.0+0.60s)" [3144, 2792]
-  line "VLTC (2m24s+1.12s)" [3170, 2865]
-  line "VLTC (2m24s+1.12s)" [3170, 2865]
+  line "LTC (60.0+0.60s)" [3144, 2785]
+  line "VLTC (2m24s+1.12s)" [3170, 2866]
+  line "VLTC (2m24s+1.12s)" [3170, 2866]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
