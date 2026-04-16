@@ -1,19 +1,19 @@
 # Lichess CCI-Bot Ratings
 
-Generated: 2026-04-15 06:04:03
+Generated: 2026-04-16 06:04:02
 
 | Bot Name | Engine | Version | Published | Author | CCI_Bullet | CCI_Blitz | Lichess Bullet | Lichess Blitz |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| <sub>CCI-0 | <sub><a href="https://github.com/computer-chess-index/cci" target="_blank">RandomMover</a> | <sub>0.1 | <sub>2024-08-07 | <sub>CCI | <sub>0 | <sub>0 | <sub>731 | <sub>492 |
+| <sub>CCI-0 | <sub><a href="https://github.com/computer-chess-index/cci" target="_blank">RandomMover</a> | <sub>0.1 | <sub>2024-08-07 | <sub>CCI | <sub>0 | <sub>0 | <sub>718 | <sub>471 |
 | <sub>CCI_Bot | <sub><a href="https://github.com/tomcant/chess-rs" target="_blank">Anodos</a> | <sub>1.3.0 | <sub>2026-02-16 | <sub>Tom Cant | <sub>2476 | <sub>2527 | <sub>2307 | <sub>2311 |
-| <sub>CCI-2 | <sub><a href="https://github.com/jszczerbinsky/zeppelin" target="_blank">Zeppelin</a> | <sub>1.4.0 | <sub>2026-03-14 | <sub>Szczerbinski Jakub | <sub>2043 | <sub>2205 | <sub>1966 | <sub>1948 |
+| <sub>CCI-2 | <sub><a href="https://github.com/jszczerbinsky/zeppelin" target="_blank">Zeppelin</a> | <sub>1.4.0 | <sub>2026-03-14 | <sub>Szczerbinski Jakub | <sub>2043 | <sub>2205 | <sub>1936 | <sub>1953 |
 | <sub>CCI-2_v1.3.0 | <sub><a href="https://github.com/jszczerbinsky/zeppelin" target="_blank">Zeppelin</a> | <sub>1.3.0 | <sub>2026-03-05 | <sub>Szczerbinski Jakub | <sub>1941 | <sub>2018 | <sub>1902 | <sub>1946 |
-| <sub>CCI-3 | <sub><a href="https://github.com/HansTibberio/Laura" target="_blank">Laura</a> | <sub>1.1.0 | <sub>2026-01-26 | <sub>Hans Tibberio | <sub>1527 | <sub>1462 | <sub>1723 | <sub>1687 |
-| <sub>CCI-4 | <sub><a href="https://github.com/sb2bg/sykora" target="_blank">Sykora</a> | <sub>0.2.1 | <sub>2026-03-02 | <sub>Sullivan Bognar | <sub>2375 | <sub>2471 | <sub>2431 | <sub>2496 |
-| <sub>CCI-5 | <sub><a href="https://github.com/official-stockfish/Stockfish" target="_blank">Stockfish</a> | <sub>18.0 | <sub>2026-01-31 | <sub><a href="https://github.com/official-stockfish/Stockfish/blob/master/AUTHORS" target="_blank">Stockfish Authors</a> | <sub>3077 | <sub>3077 | <sub>2578 | <sub>2625 |
-| <sub>CCI-6 | <sub><a href="https://github.com/official-stockfish/Stockfish" target="_blank">Stockfish</a> | <sub>18.0 | <sub>2026-01-31 | <sub><a href="https://github.com/official-stockfish/Stockfish/blob/master/AUTHORS" target="_blank">Stockfish Authors</a> | <sub>3572 | <sub>3572 | <sub>3010 | <sub>2944 |
-| <sub>CCI-7 | <sub><a href="https://github.com/official-stockfish/Stockfish" target="_blank">Stockfish</a> | <sub>18.0 | <sub>2026-01-31 | <sub><a href="https://github.com/official-stockfish/Stockfish/blob/master/AUTHORS" target="_blank">Stockfish Authors</a> | <sub>1416 | <sub>1416 | <sub>1779 | <sub>1675 |
-| <sub>CCI-8 | <sub><a href="https://github.com/codedeliveryservice/Reckless" target="_blank">Reckless</a> | <sub>0.9.0 | <sub>2026-03-01 | <sub>Arseniy Surkov | <sub>1362 | <sub>1362 | <sub>1753 | <sub>1672 |
-| <sub>CCI-9 | <sub><a href="https://github.com/codedeliveryservice/Reckless" target="_blank">Reckless</a> | <sub>0.9.0 | <sub>2026-03-01 | <sub>Arseniy Surkov | <sub>3291 | <sub>3291 | <sub>2759 | <sub>2743 |
-| <sub>CCI-10 | <sub><a href="https://github.com/codedeliveryservice/Reckless" target="_blank">Reckless</a> | <sub>0.9.0 | <sub>2026-03-01 | <sub>Arseniy Surkov | <sub>3510 | <sub>3510 | <sub>2937 | <sub>2882 |
+| <sub>CCI-3 | <sub><a href="https://github.com/HansTibberio/Laura" target="_blank">Laura</a> | <sub>1.1.0 | <sub>2026-01-26 | <sub>Hans Tibberio | <sub>1527 | <sub>1462 | <sub>1748 | <sub>1686 |
+| <sub>CCI-4 | <sub><a href="https://github.com/sb2bg/sykora" target="_blank">Sykora</a> | <sub>0.2.1 | <sub>2026-03-02 | <sub>Sullivan Bognar | <sub>2376 | <sub>2472 | <sub>2468 | <sub>2491 |
+| <sub>CCI-5 | <sub><a href="https://github.com/official-stockfish/Stockfish" target="_blank">Stockfish</a> | <sub>18.0 | <sub>2026-01-31 | <sub><a href="https://github.com/official-stockfish/Stockfish/blob/master/AUTHORS" target="_blank">Stockfish Authors</a> | <sub>3077 | <sub>3077 | <sub>2600 | <sub>2611 |
+| <sub>CCI-6 | <sub><a href="https://github.com/official-stockfish/Stockfish" target="_blank">Stockfish</a> | <sub>18.0 | <sub>2026-01-31 | <sub><a href="https://github.com/official-stockfish/Stockfish/blob/master/AUTHORS" target="_blank">Stockfish Authors</a> | <sub>3571 | <sub>3571 | <sub>3021 | <sub>2946 |
+| <sub>CCI-7 | <sub><a href="https://github.com/official-stockfish/Stockfish" target="_blank">Stockfish</a> | <sub>18.0 | <sub>2026-01-31 | <sub><a href="https://github.com/official-stockfish/Stockfish/blob/master/AUTHORS" target="_blank">Stockfish Authors</a> | <sub>1416 | <sub>1416 | <sub>1774 | <sub>1684 |
+| <sub>CCI-8 | <sub><a href="https://github.com/codedeliveryservice/Reckless" target="_blank">Reckless</a> | <sub>0.9.0 | <sub>2026-03-01 | <sub>Arseniy Surkov | <sub>1362 | <sub>1362 | <sub>1754 | <sub>1674 |
+| <sub>CCI-9 | <sub><a href="https://github.com/codedeliveryservice/Reckless" target="_blank">Reckless</a> | <sub>0.9.0 | <sub>2026-03-01 | <sub>Arseniy Surkov | <sub>3293 | <sub>3293 | <sub>2771 | <sub>2742 |
+| <sub>CCI-10 | <sub><a href="https://github.com/codedeliveryservice/Reckless" target="_blank">Reckless</a> | <sub>0.9.0 | <sub>2026-03-01 | <sub>Arseniy Surkov | <sub>3510 | <sub>3510 | <sub>2925 | <sub>2895 |
 | <sub>ZlomenyMesic | <sub><a href="https://github.com/ZlomenyMesic/Kreveta" target="_blank">Kreveta</a> | <sub>2.2.4 | <sub>2026-03-05 | <sub>Daniel Michna | <sub>2138 | <sub>2215 | <sub>2246 | <sub>2271 |
