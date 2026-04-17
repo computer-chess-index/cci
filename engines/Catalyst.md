@@ -8,9 +8,9 @@ Home: https://github.com/AnanyTanwar/Catalyst
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.2.0 | 2026-04-03 | 2615<sub>(-18) | 2989<sub>(+32) | 3090<sub>(+138) |  |
-| 2.1.0 | 2026-04-02 | 2633<sub>(+6) | 2957<sub>(-28) | 2952<sub>(-68) |  |
-| 2.0.0 | 2026-03-29 | 2627<sub>(+277) | 2985<sub>(+184) | 3020<sub>(+109) |  |
+| 2.2.0 | 2026-04-03 | 2615<sub>(-18) | 2988<sub>(+31) | 3090<sub>(+139) |  |
+| 2.1.0 | 2026-04-02 | 2633<sub>(+7) | 2957<sub>(-28) | 2951<sub>(-69) |  |
+| 2.0.0 | 2026-03-29 | 2626<sub>(+276) | 2985<sub>(+184) | 3020<sub>(+109) |  |
 | 1.0.0 | 2026-03-26 | 2350 | 2801 | 2911 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-16 06:22:57
+Generated: 2026-04-17 06:22:59
 
 ## Ratings Verlauf
 
@@ -36,11 +36,11 @@ Generated: 2026-04-16 06:22:57
 xychart-beta
   x-axis ["1.0.0", "2.0.0", "2.1.0", "2.2.0"]
   y-axis "Elo Rating" 2300 --> 3100
-  line "STC (8.0+0.08s)" [2350, 2627, 2633, 2615]
-  line "STC (8.0+0.08s)" [2350, 2627, 2633, 2615]
-  line "LTC (60.0+0.60s)" [2801, 2985, 2957, 2989]
-  line "VLTC (2m24s+1.12s)" [2911, 3020, 2952, 3090]
-  line "VLTC (2m24s+1.12s)" [2911, 3020, 2952, 3090]
+  line "STC (8.0+0.08s)" [2350, 2626, 2633, 2615]
+  line "STC (8.0+0.08s)" [2350, 2626, 2633, 2615]
+  line "LTC (60.0+0.60s)" [2801, 2985, 2957, 2988]
+  line "VLTC (2m24s+1.12s)" [2911, 3020, 2951, 3090]
+  line "VLTC (2m24s+1.12s)" [2911, 3020, 2951, 3090]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
