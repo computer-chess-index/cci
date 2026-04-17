@@ -8,11 +8,12 @@ Home: https://github.com/jdart1/arasan-chess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 25.3 | 2025-12-28 | 3278<sub>(+new) | 3463<sub>(+new) | 3506<sub>(+new) |  |
+| 25.4 | 2026-04-15 | 3267<sub>(-9) | 3474<sub>(+13) | 3524<sub>(+19) |  |
+| 25.3 | 2025-12-28 | 3276<sub>(+new) | 3461<sub>(+new) | 3505<sub>(+new) |  |
 | 25.2 | 2025-07-15 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Arasan+<version>&body=###%20Engine%20name%0AArasan%0A%0A###%20Version%0A25.3" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Arasan+<version>&body=###%20Engine%20name%0AArasan%0A%0A###%20Version%0A25.4" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -25,4 +26,21 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-16 06:22:31
+Generated: 2026-04-17 06:22:32
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["25.3", "25.4"]
+  y-axis "Elo Rating" 3200 --> 3600
+  line "STC (8.0+0.08s)" [3276, 3267]
+  line "STC (8.0+0.08s)" [3276, 3267]
+  line "LTC (60.0+0.60s)" [3461, 3474]
+  line "VLTC (2m24s+1.12s)" [3505, 3524]
+  line "VLTC (2m24s+1.12s)" [3505, 3524]
+```
+
+<p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
+<p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
