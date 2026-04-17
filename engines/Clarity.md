@@ -8,8 +8,8 @@ Home: https://github.com/Vast342/Clarity
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 8.0.0 | 2025-07-09 | 3276<sub>(-29) | 3476<sub>(+23) | 3478<sub>(-24) |  |
-| 8.0.0 | 2025-07-09 | 3305<sub>(+new) | 3453<sub>(+new) | 3502<sub>(+new) |  |
+| 8.0.0 | 2025-07-09 | 3276<sub>(-29) | 3476<sub>(+23) | 3478<sub>(-23) |  |
+| 8.0.0 | 2025-07-09 | 3305<sub>(+new) | 3453<sub>(+new) | 3501<sub>(+new) |  |
 | 7.2.0 | 2024-07-01 |  |  |  |  |
 | 7.1.0 | 2024-06-23 |  |  |  |  |
 | 7.0.0 | 2024-06-09 |  |  |  |  |
@@ -37,7 +37,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-16 06:23:20
+Generated: 2026-04-17 06:23:23
 
 ## Ratings Verlauf
 
@@ -49,8 +49,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [3276, 3305]
   line "STC (8.0+0.08s)" [3276, 3305]
   line "LTC (60.0+0.60s)" [3476, 3453]
-  line "VLTC (2m24s+1.12s)" [3478, 3502]
-  line "VLTC (2m24s+1.12s)" [3478, 3502]
+  line "VLTC (2m24s+1.12s)" [3478, 3501]
+  line "VLTC (2m24s+1.12s)" [3478, 3501]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
