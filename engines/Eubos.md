@@ -8,8 +8,8 @@ Home: https://github.com/cjbolt/EubosChess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.3 | 2026-01-29 | 2132<sub>(-60) | 2489<sub>(+27) | 2611<sub>(+24) |  |
-| 4.2 | 2025-10-16 | 2192<sub>(+new) | 2462<sub>(+new) | 2587<sub>(+new) |  |
+| 4.3 | 2026-01-29 | 2132<sub>(-60) | 2488<sub>(+27) | 2610<sub>(+23) |  |
+| 4.2 | 2025-10-16 | 2192<sub>(+new) | 2461<sub>(+new) | 2587<sub>(+new) |  |
 | 4.1 | 2025-08-23 |  |  |  |  |
 | 4.0 | 2025-04-13 |  |  |  |  |
 | 3.9 | 2025-03-25 |  |  |  |  |
@@ -81,7 +81,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-16 06:23:48
+Generated: 2026-04-17 06:23:52
 
 ## Ratings Verlauf
 
@@ -92,9 +92,9 @@ xychart-beta
   y-axis "Elo Rating" 2100 --> 2700
   line "STC (8.0+0.08s)" [2192, 2132]
   line "STC (8.0+0.08s)" [2192, 2132]
-  line "LTC (60.0+0.60s)" [2462, 2489]
-  line "VLTC (2m24s+1.12s)" [2587, 2611]
-  line "VLTC (2m24s+1.12s)" [2587, 2611]
+  line "LTC (60.0+0.60s)" [2461, 2488]
+  line "VLTC (2m24s+1.12s)" [2587, 2610]
+  line "VLTC (2m24s+1.12s)" [2587, 2610]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
