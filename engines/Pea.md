@@ -1,6 +1,6 @@
 # Engine: Pea
 
-Author: 
+Author: Warre Gevers
 
 Home: https://github.com/WGCodings/Pea
 
@@ -8,9 +8,9 @@ Home: https://github.com/WGCodings/Pea
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 5.0 | 2026-04-15 |  |  |  |  |
-| 4.0 | 2026-04-11 | 1970<sub>(+228) | 2271<sub>(+172) | 2435<sub>(+182) |  |
-| 3.0 | 2026-04-09 | 1742<sub>(+new) | 2099<sub>(+new) | 2253<sub>(+new) |  |
+| 5.0 | 2026-04-15 | 2029<sub>(+59) | 2453<sub>(+182) | 2610<sub>(+177) |  |
+| 4.0 | 2026-04-11 | 1970<sub>(+230) | 2271<sub>(+173) | 2433<sub>(+181) |  |
+| 3.0 | 2026-04-09 | 1740<sub>(+new) | 2098<sub>(+new) | 2252<sub>(+new) |  |
 | 2.0 | 2026-04-08 |  |  |  |  |
 | 1.0 | 2026-04-06 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -28,20 +28,20 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-16 06:25:45
+Generated: 2026-04-17 06:25:47
 
 ## Ratings Verlauf
 
 ```mermaid
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
-  x-axis ["3.0", "4.0"]
-  y-axis "Elo Rating" 1700 --> 2500
-  line "STC (8.0+0.08s)" [1742, 1970]
-  line "STC (8.0+0.08s)" [1742, 1970]
-  line "LTC (60.0+0.60s)" [2099, 2271]
-  line "VLTC (2m24s+1.12s)" [2253, 2435]
-  line "VLTC (2m24s+1.12s)" [2253, 2435]
+  x-axis ["3.0", "4.0", "5.0"]
+  y-axis "Elo Rating" 1700 --> 2700
+  line "STC (8.0+0.08s)" [1740, 1970, 2029]
+  line "STC (8.0+0.08s)" [1740, 1970, 2029]
+  line "LTC (60.0+0.60s)" [2098, 2271, 2453]
+  line "VLTC (2m24s+1.12s)" [2252, 2433, 2610]
+  line "VLTC (2m24s+1.12s)" [2252, 2433, 2610]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
