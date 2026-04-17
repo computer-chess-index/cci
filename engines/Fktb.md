@@ -8,8 +8,8 @@ Home: https://github.com/lunbun/fktb
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.0.77 | 2026-01-18 | 1887<sub>(-52) | 2194<sub>(+25) | 2259<sub>(+10) |  |
-| 0.0.76 | 2026-01-05 | 1939 | 2169 | 2249 |  |
+| 0.0.77 | 2026-01-18 | 1887<sub>(-50) | 2192<sub>(+24) | 2257<sub>(+9) |  |
+| 0.0.76 | 2026-01-05 | 1937 | 2168 | 2248 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Fktb+<version>&body=###%20Engine%20name%0AFktb%0A%0A###%20Version%0A0.0.77" target="_blank">Submit new version</a>
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-16 06:23:52
+Generated: 2026-04-17 06:23:56
 
 ## Ratings Verlauf
 
@@ -34,11 +34,11 @@ Generated: 2026-04-16 06:23:52
 xychart-beta
   x-axis ["0.0.76", "0.0.77"]
   y-axis "Elo Rating" 1800 --> 2300
-  line "STC (8.0+0.08s)" [1939, 1887]
-  line "STC (8.0+0.08s)" [1939, 1887]
-  line "LTC (60.0+0.60s)" [2169, 2194]
-  line "VLTC (2m24s+1.12s)" [2249, 2259]
-  line "VLTC (2m24s+1.12s)" [2249, 2259]
+  line "STC (8.0+0.08s)" [1937, 1887]
+  line "STC (8.0+0.08s)" [1937, 1887]
+  line "LTC (60.0+0.60s)" [2168, 2192]
+  line "VLTC (2m24s+1.12s)" [2248, 2257]
+  line "VLTC (2m24s+1.12s)" [2248, 2257]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
