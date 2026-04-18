@@ -9,9 +9,9 @@ Home: https://github.com/ericlangedijk/chessnix/
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 0.0 | 2026-02-25 |  |  |  |  |
-| 1.3 | 2026-02-15 | 2903<sub>(+249) | 3101<sub>(+289) | 3201<sub>(+227) |  |
-| 1.2 | 2025-12-12 | 2654<sub>(+287) | 2812<sub>(+174) | 2974<sub>(+256) |  |
-| 1.0 | 2025-11-08 | 2367<sub>(+new) | 2638<sub>(+new) | 2718<sub>(+new) | too many irregular games |
+| 1.3 | 2026-02-15 | 2907<sub>(+249) | 3106<sub>(+290) | 3205<sub>(+227) |  |
+| 1.2 | 2025-12-12 | 2658<sub>(+287) | 2816<sub>(+174) | 2978<sub>(+256) |  |
+| 1.0 | 2025-11-08 | 2371<sub>(+new) | 2642<sub>(+new) | 2722<sub>(+new) | too many irregular games |
 | 0.1 | 2025-10-03 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -28,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-17 06:23:15
+Generated: 2026-04-18 06:23:22
 
 ## Ratings Verlauf
 
@@ -37,11 +37,11 @@ Generated: 2026-04-17 06:23:15
 xychart-beta
   x-axis ["1.0", "1.2", "1.3"]
   y-axis "Elo Rating" 2300 --> 3300
-  line "STC (8.0+0.08s)" [2367, 2654, 2903]
-  line "STC (8.0+0.08s)" [2367, 2654, 2903]
-  line "LTC (60.0+0.60s)" [2638, 2812, 3101]
-  line "VLTC (2m24s+1.12s)" [2718, 2974, 3201]
-  line "VLTC (2m24s+1.12s)" [2718, 2974, 3201]
+  line "STC (8.0+0.08s)" [2371, 2658, 2907]
+  line "STC (8.0+0.08s)" [2371, 2658, 2907]
+  line "LTC (60.0+0.60s)" [2642, 2816, 3106]
+  line "VLTC (2m24s+1.12s)" [2722, 2978, 3205]
+  line "VLTC (2m24s+1.12s)" [2722, 2978, 3205]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
