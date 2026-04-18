@@ -8,8 +8,8 @@ Home: https://github.com/cristivlas/sturddle-2
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.5.0 | 2026-02-04 | 2736<sub>(+79) | 3065<sub>(+25) | 3198<sub>(+71) |  |
-| 2.4.0 | 2025-12-06 | 2657<sub>(+new) | 3040<sub>(+new) | 3127<sub>(+new) |  |
+| 2.5.0 | 2026-02-04 | 2743<sub>(+81) | 3069<sub>(+23) | 3204<sub>(+73) |  |
+| 2.4.0 | 2025-12-06 | 2662<sub>(+new) | 3046<sub>(+new) | 3131<sub>(+new) |  |
 | 2.3.1 | 2025-09-04 |  |  |  |  |
 | 2.3 | 2025-09-01 |  |  |  |  |
 | 2.02 | 2025-03-28 |  |  |  |  |
@@ -30,7 +30,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-17 06:27:35
+Generated: 2026-04-18 06:28:08
 
 ## Ratings Verlauf
 
@@ -38,12 +38,12 @@ Generated: 2026-04-17 06:27:35
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["2.4.0", "2.5.0"]
-  y-axis "Elo Rating" 2600 --> 3200
-  line "STC (8.0+0.08s)" [2657, 2736]
-  line "STC (8.0+0.08s)" [2657, 2736]
-  line "LTC (60.0+0.60s)" [3040, 3065]
-  line "VLTC (2m24s+1.12s)" [3127, 3198]
-  line "VLTC (2m24s+1.12s)" [3127, 3198]
+  y-axis "Elo Rating" 2600 --> 3300
+  line "STC (8.0+0.08s)" [2662, 2743]
+  line "STC (8.0+0.08s)" [2662, 2743]
+  line "LTC (60.0+0.60s)" [3046, 3069]
+  line "VLTC (2m24s+1.12s)" [3131, 3204]
+  line "VLTC (2m24s+1.12s)" [3131, 3204]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
