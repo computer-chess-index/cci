@@ -8,10 +8,10 @@ Home: https://github.com/WGCodings/Pea
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 5.0 | 2026-04-15 | 2025<sub>(+53) | 2452<sub>(+179) | 2600<sub>(+165) |  |
-| 4.0 | 2026-04-11 | 1972<sub>(+229) | 2273<sub>(+171) | 2435<sub>(+180) |  |
-| 3.0 | 2026-04-09 | 1743<sub>(+610) | 2102<sub>(+689) | 2255<sub>(+626) |  |
-| 2.0 | 2026-04-08 | 1133<sub>(+376) | 1413<sub>(+575) | 1629<sub>(+692) |  |
+| 5.0 | 2026-04-15 | 2026<sub>(+52) | 2453<sub>(+178) | 2601<sub>(+164) |  |
+| 4.0 | 2026-04-11 | 1974<sub>(+230) | 2275<sub>(+172) | 2437<sub>(+181) |  |
+| 3.0 | 2026-04-09 | 1744<sub>(+611) | 2103<sub>(+690) | 2256<sub>(+681) |  |
+| 2.0 | 2026-04-08 | 1133<sub>(+376) | 1413<sub>(+575) | 1575<sub>(+638) |  |
 | 1.0 | 2026-04-06 | 757 | 838 | 937 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -28,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-17 22:38:48
+Generated: 2026-04-18 06:26:13
 
 ## Ratings Verlauf
 
@@ -36,12 +36,12 @@ Generated: 2026-04-17 22:38:48
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["1.0", "2.0", "3.0", "4.0", "5.0"]
-  y-axis "Elo Rating" 700 --> 2600
-  line "STC (8.0+0.08s)" [757, 1133, 1743, 1972, 2025]
-  line "STC (8.0+0.08s)" [757, 1133, 1743, 1972, 2025]
-  line "LTC (60.0+0.60s)" [838, 1413, 2102, 2273, 2452]
-  line "VLTC (2m24s+1.12s)" [937, 1629, 2255, 2435, 2600]
-  line "VLTC (2m24s+1.12s)" [937, 1629, 2255, 2435, 2600]
+  y-axis "Elo Rating" 700 --> 2700
+  line "STC (8.0+0.08s)" [757, 1133, 1744, 1974, 2026]
+  line "STC (8.0+0.08s)" [757, 1133, 1744, 1974, 2026]
+  line "LTC (60.0+0.60s)" [838, 1413, 2103, 2275, 2453]
+  line "VLTC (2m24s+1.12s)" [937, 1575, 2256, 2437, 2601]
+  line "VLTC (2m24s+1.12s)" [937, 1575, 2256, 2437, 2601]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
