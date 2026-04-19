@@ -18,7 +18,7 @@
 <body>
     <h1>Lichess CCI-Bot Ratings</h1>
     <a href=https://github.com/computer-chess-index/cci>CCI Homepage</a>
-    <p>Generated: 2026-04-19 10:33:26</p>
+    <p>Generated: 2026-04-19 14:09:23</p>
     <table>
         <tr>
             <th>Bot Name</th>
@@ -45,6 +45,25 @@
         <tr><td><a href=https://lichess.org/@/CCI-10>CCI-10</a></td><td><a href=https://github.com/codedeliveryservice/Reckless>Reckless</a></td><td><a href=https://computer-chess-index.github.io/cci/Reckless.html>0.9.0</a></td><td>2026-03-01</td><td>Arseniy Surkov</td><td>3515</td><td>2906</td><td>3515</td><td>2912</td></tr>
         <tr><td><a href=https://lichess.org/@/ZlomenyMesic>ZlomenyMesic</a></td><td><a href=https://github.com/ZlomenyMesic/Kreveta>Kreveta</a></td><td><a href=https://computer-chess-index.github.io/cci/Kreveta.html>2.2.4</a></td><td>2026-03-05</td><td>Daniel Michna</td><td>2141</td><td>2246</td><td>2218</td><td>2271</td></tr>
     </table>
+    <p></p>
+    <p>This page shows results from a set of Lichess bots that are used as part of the Computer Chess Index (CCI). The goal of these bots is not only to play games, but to provide a bridge between CCI ratings and widely known rating systems such as Lichess.</p>
+    <p></p>
+    <p>Since CCI is based on controlled engine matches, while Lichess ratings are generated in an online environment with different conditions, the two scales are not directly comparable. The purpose of these experiments is therefore to understand how both rating systems relate to each other.</p>
+    <p></p>
+    <p>Based on the current data, a simple linear transformation between both scales can already be approximated as  </p>
+    <p>Lichess ≈ CCI / 1.8225 + 987. This indicates that the data is sufficiently consistent to derive a mapping, and that using such a transformation for calibration would in principle be possible.</p>
+    <p></p>
+    <p>However, there are also several indications that this approach should be treated with caution.</p>
+    <p></p>
+    <p>Most notably, this calibration would place top engines at around ~3000 Elo. While this could be interpreted as a correction of inflated ratings, it does not fully align with the common expectation of top human players being around ~2800 Elo. This suggests that the Lichess scale may be somewhat too flat, and that the transformation might overcorrect.</p>
+    <p></p>
+    <p>Another factor is the volatility of Lichess ratings. The underlying system is designed for human players with changing strength, which makes it well suited for its intended purpose, but less ideal as a stable reference for engine calibration.</p>
+    <p></p>
+    <p>Finally, Lichess ratings are often considered to be slightly inflated, especially at lower levels. This effect decreases towards the top, leading overall to a compression of the rating scale.</p>
+    <p></p>
+    <p>Taken together, this suggests that the “true” relationship between both systems likely lies somewhere in between: current CCI ratings appear somewhat steeper, while Lichess ratings appear somewhat flatter.</p>
+    <p></p>
+    <p>For this reason, no final calibration has been applied yet. Instead, the current results are used to collect evidence, with the goal of defining a stable and well-justified calibration at a later stage.</p>
     <p>More details can be found in the <a href="https://github.com/computer-chess-index/cci/discussions/2#discussioncomment-16610446">discussion about this list</a></p>
 </body>
 </html>
