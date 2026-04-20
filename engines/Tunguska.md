@@ -8,7 +8,7 @@ Home: https://github.com/fernandotenorio/Tunguska
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1 | 2026-04-08 | 2866<sub>(+319) | 3183<sub>(+295) | 3247<sub>(+280) |  |
+| 2.1 | 2026-04-08 | 2871<sub>(+324) | 3183<sub>(+295) | 3244<sub>(+277) |  |
 | 2.0 | 2026-03-18 | 2547 | 2888 | 2967 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-19 06:28:19
+Generated: 2026-04-20 06:28:47
 
 ## Ratings Verlauf
 
@@ -34,11 +34,11 @@ Generated: 2026-04-19 06:28:19
 xychart-beta
   x-axis ["2.0", "2.1"]
   y-axis "Elo Rating" 2500 --> 3300
-  line "STC (8.0+0.08s)" [2547, 2866]
-  line "STC (8.0+0.08s)" [2547, 2866]
+  line "STC (8.0+0.08s)" [2547, 2871]
+  line "STC (8.0+0.08s)" [2547, 2871]
   line "LTC (60.0+0.60s)" [2888, 3183]
-  line "VLTC (2m24s+1.12s)" [2967, 3247]
-  line "VLTC (2m24s+1.12s)" [2967, 3247]
+  line "VLTC (2m24s+1.12s)" [2967, 3244]
+  line "VLTC (2m24s+1.12s)" [2967, 3244]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
