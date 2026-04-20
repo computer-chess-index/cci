@@ -8,12 +8,12 @@ Home: https://github.com/jorgenhanssen/grail
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1.0 | 2026-02-28 | 2846<sub>(+348) | 3116<sub>(+355) | 3213<sub>(+317) |  |
-| 1.0.4 | 2026-01-16 | 2498<sub>(+129) | 2761<sub>(+38) | 2896<sub>(+100) |  |
-| 1.0.3 | 2026-01-04 | 2369<sub>(+28) | 2723<sub>(+113) | 2796<sub>(+73) |  |
-| 1.0.2 | 2025-12-16 | 2341<sub>(+28) | 2610<sub>(+21) | 2723<sub>(-53) |  |
-| 1.0.1 | 2025-12-10 | 2313<sub>(+41) | 2589<sub>(-14) | 2776<sub>(-51) |  |
-| 1.0.0 | 2025-12-05 | 2272 | 2603 | 2827 |  |
+| 1.1.0 | 2026-02-28 | 2846<sub>(+348) | 3116<sub>(+357) | 3213<sub>(+317) |  |
+| 1.0.4 | 2026-01-16 | 2498<sub>(+130) | 2759<sub>(+37) | 2896<sub>(+101) |  |
+| 1.0.3 | 2026-01-04 | 2368<sub>(+28) | 2722<sub>(+112) | 2795<sub>(+72) |  |
+| 1.0.2 | 2025-12-16 | 2340<sub>(+29) | 2610<sub>(+21) | 2723<sub>(-53) |  |
+| 1.0.1 | 2025-12-10 | 2311<sub>(+39) | 2589<sub>(-14) | 2776<sub>(-50) |  |
+| 1.0.0 | 2025-12-05 | 2272 | 2603 | 2826 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Grail+<version>&body=###%20Engine%20name%0AGrail%0A%0A###%20Version%0A1.1.0" target="_blank">Submit new version</a>
@@ -29,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-19 06:24:19
+Generated: 2026-04-20 06:24:25
 
 ## Ratings Verlauf
 
@@ -38,11 +38,11 @@ Generated: 2026-04-19 06:24:19
 xychart-beta
   x-axis ["1.0.0", "1.0.1", "1.0.2", "1.0.3", "1.0.4", "1.1.0"]
   y-axis "Elo Rating" 2200 --> 3300
-  line "STC (8.0+0.08s)" [2272, 2313, 2341, 2369, 2498, 2846]
-  line "STC (8.0+0.08s)" [2272, 2313, 2341, 2369, 2498, 2846]
-  line "LTC (60.0+0.60s)" [2603, 2589, 2610, 2723, 2761, 3116]
-  line "VLTC (2m24s+1.12s)" [2827, 2776, 2723, 2796, 2896, 3213]
-  line "VLTC (2m24s+1.12s)" [2827, 2776, 2723, 2796, 2896, 3213]
+  line "STC (8.0+0.08s)" [2272, 2311, 2340, 2368, 2498, 2846]
+  line "STC (8.0+0.08s)" [2272, 2311, 2340, 2368, 2498, 2846]
+  line "LTC (60.0+0.60s)" [2603, 2589, 2610, 2722, 2759, 3116]
+  line "VLTC (2m24s+1.12s)" [2826, 2776, 2723, 2795, 2896, 3213]
+  line "VLTC (2m24s+1.12s)" [2826, 2776, 2723, 2795, 2896, 3213]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
