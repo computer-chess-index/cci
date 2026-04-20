@@ -8,8 +8,8 @@ Home: https://github.com/likeawizard/tofiks
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.4.1 | 2026-04-11 | 2078<sub>(-42) | 2372<sub>(+41) | 2444<sub>(+15) |  |
-| 1.4.0 | 2026-04-09 | 2120<sub>(+new) | 2331<sub>(+new) | 2429<sub>(+new) |  |
+| 1.4.1 | 2026-04-11 | 2076<sub>(-44) | 2360<sub>(+29) | 2445<sub>(+18) |  |
+| 1.4.0 | 2026-04-09 | 2120<sub>(+new) | 2331<sub>(+new) | 2427<sub>(+new) |  |
 | 1.3.0 | 2023-10-22 |  |  |  |  |
 | 1.2.0 | 2023-09-29 |  |  |  |  |
 | 1.1.0 | 2023-08-17 |  |  |  |  |
@@ -29,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-19 06:28:11
+Generated: 2026-04-20 06:28:38
 
 ## Ratings Verlauf
 
@@ -38,11 +38,11 @@ Generated: 2026-04-19 06:28:11
 xychart-beta
   x-axis ["1.4.0", "1.4.1"]
   y-axis "Elo Rating" 2000 --> 2500
-  line "STC (8.0+0.08s)" [2120, 2078]
-  line "STC (8.0+0.08s)" [2120, 2078]
-  line "LTC (60.0+0.60s)" [2331, 2372]
-  line "VLTC (2m24s+1.12s)" [2429, 2444]
-  line "VLTC (2m24s+1.12s)" [2429, 2444]
+  line "STC (8.0+0.08s)" [2120, 2076]
+  line "STC (8.0+0.08s)" [2120, 2076]
+  line "LTC (60.0+0.60s)" [2331, 2360]
+  line "VLTC (2m24s+1.12s)" [2427, 2445]
+  line "VLTC (2m24s+1.12s)" [2427, 2445]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
