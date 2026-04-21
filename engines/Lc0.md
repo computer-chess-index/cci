@@ -8,13 +8,13 @@ Home: https://github.com/LeelaChessZero/lc0
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.32.1 | 2025-11-23 | 2456<sub>(+new) | 3046<sub>(+new) | 3214<sub>(+new) |  |
+| 0.32.1 | 2025-11-23 | 2454<sub>(+new) | 3044<sub>(+new) | 3214<sub>(+new) |  |
 | 0.32.0 | 2025-08-21 |  |  |  |  |
 | 0.31.2 | 2024-10-20 |  |  |  |  |
 | 0.31.1 | 2024-08-11 |  |  |  |  |
 | 0.31.0 | 2024-06-16 |  |  |  |  |
 | 0.30.0 | 2023-07-21 |  |  |  |  |
-| 0.29.0 | 2022-12-13 | 2422<sub>(+new) | 3035<sub>(+new) | 3267<sub>(+new) |  |
+| 0.29.0 | 2022-12-13 | 2422<sub>(+new) | 3033<sub>(+new) | 3267<sub>(+new) |  |
 | 0.28.2 | 2021-12-13 |  |  |  |  |
 | 0.28.0 | 2021-08-25 |  |  |  |  |
 | 0.27.0 | 2021-02-21 |  |  |  |  |
@@ -61,7 +61,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-20 06:25:17
+Generated: 2026-04-21 06:25:15
 
 ## Ratings Verlauf
 
@@ -70,9 +70,9 @@ Generated: 2026-04-20 06:25:17
 xychart-beta
   x-axis ["0.29.0", "0.32.1"]
   y-axis "Elo Rating" 2400 --> 3300
-  line "STC (8.0+0.08s)" [2422, 2456]
-  line "STC (8.0+0.08s)" [2422, 2456]
-  line "LTC (60.0+0.60s)" [3035, 3046]
+  line "STC (8.0+0.08s)" [2422, 2454]
+  line "STC (8.0+0.08s)" [2422, 2454]
+  line "LTC (60.0+0.60s)" [3033, 3044]
   line "VLTC (2m24s+1.12s)" [3267, 3214]
   line "VLTC (2m24s+1.12s)" [3267, 3214]
 ```
