@@ -8,7 +8,7 @@ Home: https://github.com/elcabesa/vajolet
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.1 | 2026-04-03 | 2866<sub>(+96) | 3082<sub>(+50) | 3167<sub>(+59) |  |
+| 3.1 | 2026-04-03 | 2867<sub>(+97) | 3082<sub>(+50) | 3170<sub>(+62) |  |
 | 3.0 | 2025-12-21 | 2770<sub>(+new) | 3032<sub>(+new) | 3108<sub>(+new) |  |
 | 2.8 | 2019-11-01 |  |  |  |  |
 | 2.7 | 2019-04-03 |  |  |  |  |
@@ -33,7 +33,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-20 06:28:53
+Generated: 2026-04-21 06:28:56
 
 ## Ratings Verlauf
 
@@ -42,11 +42,11 @@ Generated: 2026-04-20 06:28:53
 xychart-beta
   x-axis ["3.0", "3.1"]
   y-axis "Elo Rating" 2700 --> 3200
-  line "STC (8.0+0.08s)" [2770, 2866]
-  line "STC (8.0+0.08s)" [2770, 2866]
+  line "STC (8.0+0.08s)" [2770, 2867]
+  line "STC (8.0+0.08s)" [2770, 2867]
   line "LTC (60.0+0.60s)" [3032, 3082]
-  line "VLTC (2m24s+1.12s)" [3108, 3167]
-  line "VLTC (2m24s+1.12s)" [3108, 3167]
+  line "VLTC (2m24s+1.12s)" [3108, 3170]
+  line "VLTC (2m24s+1.12s)" [3108, 3170]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
