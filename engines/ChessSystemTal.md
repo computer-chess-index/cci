@@ -8,7 +8,7 @@ Home:
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| Extreme | 2026-01-07 | 2971<sub>(+new) | 3213<sub>(+new) | 3267<sub>(+new) |  |
+| Extreme | 2026-01-07 | 2970<sub>(+new) | 3213<sub>(+new) | 3264<sub>(+new) |  |
 | 2.00 | 2023-06-15 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,4 +25,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-20 06:23:24
+Generated: 2026-04-21 06:23:25
