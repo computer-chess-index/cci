@@ -8,8 +8,8 @@ Home: https://github.com/vshcherbyna/igel
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.6.0 | 2024-12-28 | 3220<sub>(+18) | 3443<sub>(+3) | 3495<sub>(+17) |  |
-| 3.5.0 | 2023-06-22 | 3202<sub>(+new) | 3440<sub>(+new) | 3478<sub>(+new) |  |
+| 3.6.0 | 2024-12-28 | 3220<sub>(+18) | 3443<sub>(+3) | 3495<sub>(+19) |  |
+| 3.5.0 | 2023-06-22 | 3202<sub>(+new) | 3440<sub>(+new) | 3476<sub>(+new) |  |
 | 3.4.0 | 2023-01-30 |  |  |  |  |
 | 3.3.0 | 2023-01-15 |  |  |  |  |
 | 3.2.0 | 2022-12-17 |  |  |  |  |
@@ -61,7 +61,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-20 06:24:51
+Generated: 2026-04-21 06:24:53
 
 ## Ratings Verlauf
 
@@ -73,8 +73,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [3202, 3220]
   line "STC (8.0+0.08s)" [3202, 3220]
   line "LTC (60.0+0.60s)" [3440, 3443]
-  line "VLTC (2m24s+1.12s)" [3478, 3495]
-  line "VLTC (2m24s+1.12s)" [3478, 3495]
+  line "VLTC (2m24s+1.12s)" [3476, 3495]
+  line "VLTC (2m24s+1.12s)" [3476, 3495]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
