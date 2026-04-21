@@ -8,10 +8,10 @@ Home: https://github.com/Koma1867/Soomi-V1-Chess-engine-in-golang
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.2.0 | 2025-12-31 | 2053<sub>(+193) | 2361<sub>(+177) | 2473<sub>(+240) |  |
+| 1.2.0 | 2025-12-31 | 2055<sub>(+195) | 2360<sub>(+176) | 2469<sub>(+236) |  |
 | 1.1.8 | 2025-12-16 | 1860<sub>(-8) | 2184<sub>(+48) | 2233<sub>(+45) |  |
-| 1.1.7 | 2025-12-07 | 1868<sub>(+54) | 2136<sub>(-48) | 2188<sub>(-11) |  |
-| 1.1.6 | 2025-11-30 | 1814 | 2184 | 2199 |  |
+| 1.1.7 | 2025-12-07 | 1868<sub>(+54) | 2136<sub>(-48) | 2188<sub>(-10) |  |
+| 1.1.6 | 2025-11-30 | 1814 | 2184 | 2198 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Soomi+<version>&body=###%20Engine%20name%0ASoomi%0A%0A###%20Version%0A1.2.0" target="_blank">Submit new version</a>
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-20 06:28:03
+Generated: 2026-04-21 06:28:06
 
 ## Ratings Verlauf
 
@@ -36,11 +36,11 @@ Generated: 2026-04-20 06:28:03
 xychart-beta
   x-axis ["1.1.6", "1.1.7", "1.1.8", "1.2.0"]
   y-axis "Elo Rating" 1800 --> 2500
-  line "STC (8.0+0.08s)" [1814, 1868, 1860, 2053]
-  line "STC (8.0+0.08s)" [1814, 1868, 1860, 2053]
-  line "LTC (60.0+0.60s)" [2184, 2136, 2184, 2361]
-  line "VLTC (2m24s+1.12s)" [2199, 2188, 2233, 2473]
-  line "VLTC (2m24s+1.12s)" [2199, 2188, 2233, 2473]
+  line "STC (8.0+0.08s)" [1814, 1868, 1860, 2055]
+  line "STC (8.0+0.08s)" [1814, 1868, 1860, 2055]
+  line "LTC (60.0+0.60s)" [2184, 2136, 2184, 2360]
+  line "VLTC (2m24s+1.12s)" [2198, 2188, 2233, 2469]
+  line "VLTC (2m24s+1.12s)" [2198, 2188, 2233, 2469]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
