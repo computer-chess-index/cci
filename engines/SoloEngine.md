@@ -9,12 +9,12 @@ Home: https://github.com/yunusemreyldz07/SoloEngine
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 2.1.0 | 2026-04-14 |  |  |  |  |
-| 2.0.0 | 2026-03-23 | 2314<sub>(+99) | 2655<sub>(+143) | 2796<sub>(+149) |  |
-| 1.6.0 | 2026-03-14 | 2215<sub>(+158) | 2512<sub>(+135) | 2647<sub>(+160) |  |
-| 1.5.0 | 2026-03-04 | 2057<sub>(+266) | 2377<sub>(+256) | 2487<sub>(+242) |  |
-| 1.4.0 | 2026-02-07 | 1791<sub>(+137) | 2121<sub>(+108) | 2245<sub>(+132) |  |
-| 1.3.1 | 2026-02-01 | 1654<sub>(-25) | 2013<sub>(+18) | 2113<sub>(+53) |  |
-| 1.2.2 | 2026-01-23 | 1679 | 1995 | 2060 |  |
+| 2.0.0 | 2026-03-23 | 2314<sub>(+99) | 2655<sub>(+143) | 2797<sub>(+148) |  |
+| 1.6.0 | 2026-03-14 | 2215<sub>(+156) | 2512<sub>(+133) | 2649<sub>(+162) |  |
+| 1.5.0 | 2026-03-04 | 2059<sub>(+268) | 2379<sub>(+257) | 2487<sub>(+241) |  |
+| 1.4.0 | 2026-02-07 | 1791<sub>(+137) | 2122<sub>(+108) | 2246<sub>(+132) |  |
+| 1.3.1 | 2026-02-01 | 1654<sub>(-25) | 2014<sub>(+17) | 2114<sub>(+53) |  |
+| 1.2.2 | 2026-01-23 | 1679 | 1997 | 2061 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+SoloEngine+<version>&body=###%20Engine%20name%0ASoloEngine%0A%0A###%20Version%0A2.1.0" target="_blank">Submit new version</a>
@@ -30,7 +30,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-21 06:28:04
+Generated: 2026-04-22 06:27:53
 
 ## Ratings Verlauf
 
@@ -39,11 +39,11 @@ Generated: 2026-04-21 06:28:04
 xychart-beta
   x-axis ["1.2.2", "1.3.1", "1.4.0", "1.5.0", "1.6.0", "2.0.0"]
   y-axis "Elo Rating" 1600 --> 2800
-  line "STC (8.0+0.08s)" [1679, 1654, 1791, 2057, 2215, 2314]
-  line "STC (8.0+0.08s)" [1679, 1654, 1791, 2057, 2215, 2314]
-  line "LTC (60.0+0.60s)" [1995, 2013, 2121, 2377, 2512, 2655]
-  line "VLTC (2m24s+1.12s)" [2060, 2113, 2245, 2487, 2647, 2796]
-  line "VLTC (2m24s+1.12s)" [2060, 2113, 2245, 2487, 2647, 2796]
+  line "STC (8.0+0.08s)" [1679, 1654, 1791, 2059, 2215, 2314]
+  line "STC (8.0+0.08s)" [1679, 1654, 1791, 2059, 2215, 2314]
+  line "LTC (60.0+0.60s)" [1997, 2014, 2122, 2379, 2512, 2655]
+  line "VLTC (2m24s+1.12s)" [2061, 2114, 2246, 2487, 2649, 2797]
+  line "VLTC (2m24s+1.12s)" [2061, 2114, 2246, 2487, 2649, 2797]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
