@@ -8,8 +8,8 @@ Home: https://github.com/jdart1/arasan-chess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 25.4 | 2026-04-15 | 3275<sub>(-7) | 3479<sub>(+12) | 3529<sub>(+19) |  |
-| 25.3 | 2025-12-28 | 3282<sub>(+new) | 3467<sub>(+new) | 3510<sub>(+new) |  |
+| 25.4 | 2026-04-15 | 3272<sub>(-7) | 3476<sub>(+12) | 3526<sub>(+19) |  |
+| 25.3 | 2025-12-28 | 3279<sub>(+new) | 3464<sub>(+new) | 3507<sub>(+new) |  |
 | 25.2 | 2025-07-15 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-22 06:22:34
+Generated: 2026-04-23 06:22:35
 
 ## Ratings Verlauf
 
@@ -35,11 +35,11 @@ Generated: 2026-04-22 06:22:34
 xychart-beta
   x-axis ["25.3", "25.4"]
   y-axis "Elo Rating" 3200 --> 3600
-  line "STC (8.0+0.08s)" [3282, 3275]
-  line "STC (8.0+0.08s)" [3282, 3275]
-  line "LTC (60.0+0.60s)" [3467, 3479]
-  line "VLTC (2m24s+1.12s)" [3510, 3529]
-  line "VLTC (2m24s+1.12s)" [3510, 3529]
+  line "STC (8.0+0.08s)" [3279, 3272]
+  line "STC (8.0+0.08s)" [3279, 3272]
+  line "LTC (60.0+0.60s)" [3464, 3476]
+  line "VLTC (2m24s+1.12s)" [3507, 3526]
+  line "VLTC (2m24s+1.12s)" [3507, 3526]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
