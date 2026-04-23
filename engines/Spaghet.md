@@ -8,7 +8,7 @@ Home: https://github.com/yl25946/spaghet
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.1.0 | 2024-08-12 | 3254<sub>(+new) | 3460<sub>(+new) | 3503<sub>(+new) |  |
+| 3.1.0 | 2024-08-12 | 3251<sub>(+new) | 3456<sub>(+new) | 3501<sub>(+new) |  |
 | 2.1.0 | 2024-06-30 |  |  |  |  |
 | 1.1.0 | 2024-06-10 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,4 +26,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-22 06:28:00
+Generated: 2026-04-23 06:28:12
