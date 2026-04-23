@@ -8,8 +8,8 @@ Home: https://github.com/paulsonkoly/chess-3
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.0 | 2026-04-02 | 2549<sub>(+35) | 2863<sub>(+67) | 2924<sub>(+84) |  |
-| 3.0 | 2026-01-17 | 2514<sub>(+new) | 2796<sub>(+new) | 2840<sub>(+new) |  |
+| 4.0 | 2026-04-02 | 2546<sub>(+35) | 2861<sub>(+68) | 2921<sub>(+83) |  |
+| 3.0 | 2026-01-17 | 2511<sub>(+new) | 2793<sub>(+new) | 2838<sub>(+new) |  |
 | 2.0 | 2025-08-14 |  |  |  |  |
 | 1.0 | 2025-05-15 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-22 06:23:17
+Generated: 2026-04-23 06:23:20
 
 ## Ratings Verlauf
 
@@ -36,11 +36,11 @@ Generated: 2026-04-22 06:23:17
 xychart-beta
   x-axis ["3.0", "4.0"]
   y-axis "Elo Rating" 2500 --> 3000
-  line "STC (8.0+0.08s)" [2514, 2549]
-  line "STC (8.0+0.08s)" [2514, 2549]
-  line "LTC (60.0+0.60s)" [2796, 2863]
-  line "VLTC (2m24s+1.12s)" [2840, 2924]
-  line "VLTC (2m24s+1.12s)" [2840, 2924]
+  line "STC (8.0+0.08s)" [2511, 2546]
+  line "STC (8.0+0.08s)" [2511, 2546]
+  line "LTC (60.0+0.60s)" [2793, 2861]
+  line "VLTC (2m24s+1.12s)" [2838, 2921]
+  line "VLTC (2m24s+1.12s)" [2838, 2921]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
