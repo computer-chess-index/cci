@@ -8,7 +8,7 @@ Home: https://github.com/all-c-a-p-s/Panda
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1.1 | 2025-08-18 | 2757<sub>(+new) | 3112<sub>(+new) | 3100<sub>(+new) |  |
+| 1.1.1 | 2025-08-18 | 2754<sub>(+new) | 3109<sub>(+new) | 3096<sub>(+new) |  |
 | 1.1 | 2025-08-05 |  |  |  |  |
 | 1.0 | 2025-04-19 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,4 +26,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-22 06:26:11
+Generated: 2026-04-23 06:26:16
