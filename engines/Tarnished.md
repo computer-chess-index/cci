@@ -8,8 +8,8 @@ Home: https://github.com/Bobingstern/Tarnished
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 5.0 | 2026-02-07 | 3402<sub>(+109) | 3565<sub>(+94) | 3586<sub>(+68) |  |
-| 4.0 | 2025-08-23 | 3293<sub>(+new) | 3471<sub>(+new) | 3518<sub>(+new) |  |
+| 5.0 | 2026-02-07 | 3399<sub>(+110) | 3561<sub>(+93) | 3583<sub>(+68) |  |
+| 4.0 | 2025-08-23 | 3289<sub>(+new) | 3468<sub>(+new) | 3515<sub>(+new) |  |
 | 3.0 | 2025-06-30 |  |  |  |  |
 | 2.1 | 2025-05-25 |  |  |  |  |
 | 2.0 | 2025-05-14 |  |  |  |  |
@@ -29,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-22 06:28:19
+Generated: 2026-04-23 06:28:31
 
 ## Ratings Verlauf
 
@@ -38,11 +38,11 @@ Generated: 2026-04-22 06:28:19
 xychart-beta
   x-axis ["4.0", "5.0"]
   y-axis "Elo Rating" 3200 --> 3600
-  line "STC (8.0+0.08s)" [3293, 3402]
-  line "STC (8.0+0.08s)" [3293, 3402]
-  line "LTC (60.0+0.60s)" [3471, 3565]
-  line "VLTC (2m24s+1.12s)" [3518, 3586]
-  line "VLTC (2m24s+1.12s)" [3518, 3586]
+  line "STC (8.0+0.08s)" [3289, 3399]
+  line "STC (8.0+0.08s)" [3289, 3399]
+  line "LTC (60.0+0.60s)" [3468, 3561]
+  line "VLTC (2m24s+1.12s)" [3515, 3583]
+  line "VLTC (2m24s+1.12s)" [3515, 3583]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
