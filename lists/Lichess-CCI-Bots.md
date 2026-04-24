@@ -1,19 +1,19 @@
 # Lichess CCI-Bot Ratings
 
-Generated: 2026-04-23 06:04:02
+Generated: 2026-04-24 06:04:03
 
 | Bot Name | Engine | Version | Published | Author | CCI_Bullet | CCI_Blitz | Lichess Bullet | Lichess Blitz |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| <sub>CCI-0 | <sub><a href="https://github.com/computer-chess-index/cci" target="_blank">RandomMover</a> | <sub>0.1 | <sub>2024-08-07 | <sub>CCI | <sub>0 | <sub>0 | <sub>667 | <sub>434 |
-| <sub>CCI_Bot | <sub><a href="https://github.com/tomcant/chess-rs" target="_blank">Anodos</a> | <sub>1.3.0 | <sub>2026-02-16 | <sub>Tom Cant | <sub>2477 | <sub>2535 | <sub>2307 | <sub>2311 |
-| <sub>CCI-2 | <sub><a href="https://github.com/jszczerbinsky/zeppelin" target="_blank">Zeppelin</a> | <sub>1.4.0 | <sub>2026-03-14 | <sub>Jakub Szczerbinski | <sub>2048 | <sub>2209 | <sub>1963 | <sub>1972 |
-| <sub>CCI-2_v1.3.0 | <sub><a href="https://github.com/jszczerbinsky/zeppelin" target="_blank">Zeppelin</a> | <sub>1.3.0 | <sub>2026-03-05 | <sub>Jakub Szczerbinski | <sub>1945 | <sub>2024 | <sub>1902 | <sub>1946 |
-| <sub>CCI-3 | <sub><a href="https://github.com/HansTibberio/Laura" target="_blank">Laura</a> | <sub>1.1.0 | <sub>2026-01-26 | <sub>Hans Tibberio | <sub>1530 | <sub>1461 | <sub>1753 | <sub>1676 |
-| <sub>CCI-4 | <sub><a href="https://github.com/sb2bg/sykora" target="_blank">Sykora</a> | <sub>0.2.1 | <sub>2026-03-02 | <sub>Sullivan Bognar | <sub>2380 | <sub>2472 | <sub>2487 | <sub>2504 |
-| <sub>CCI-5 | <sub><a href="https://github.com/official-stockfish/Stockfish" target="_blank">Stockfish</a> | <sub>18.0 | <sub>2026-01-31 | <sub><a href="https://github.com/official-stockfish/Stockfish/blob/master/AUTHORS" target="_blank">Stockfish Authors</a> | <sub>3082 | <sub>3082 | <sub>2630 | <sub>2604 |
-| <sub>CCI-6 | <sub><a href="https://github.com/official-stockfish/Stockfish" target="_blank">Stockfish</a> | <sub>18.0 | <sub>2026-01-31 | <sub><a href="https://github.com/official-stockfish/Stockfish/blob/master/AUTHORS" target="_blank">Stockfish Authors</a> | <sub>3572 | <sub>3572 | <sub>3027 | <sub>2965 |
-| <sub>CCI-7 | <sub><a href="https://github.com/official-stockfish/Stockfish" target="_blank">Stockfish</a> | <sub>18.0 | <sub>2026-01-31 | <sub><a href="https://github.com/official-stockfish/Stockfish/blob/master/AUTHORS" target="_blank">Stockfish Authors</a> | <sub>1419 | <sub>1419 | <sub>1782 | <sub>1669 |
-| <sub>CCI-8 | <sub><a href="https://github.com/codedeliveryservice/Reckless" target="_blank">Reckless</a> | <sub>0.9.0 | <sub>2026-03-01 | <sub>Arseniy Surkov | <sub>1359 | <sub>1359 | <sub>1762 | <sub>1667 |
-| <sub>CCI-9 | <sub><a href="https://github.com/codedeliveryservice/Reckless" target="_blank">Reckless</a> | <sub>0.9.0 | <sub>2026-03-01 | <sub>Arseniy Surkov | <sub>3295 | <sub>3295 | <sub>2784 | <sub>2706 |
-| <sub>CCI-10 | <sub><a href="https://github.com/codedeliveryservice/Reckless" target="_blank">Reckless</a> | <sub>0.9.0 | <sub>2026-03-01 | <sub>Arseniy Surkov | <sub>3513 | <sub>3513 | <sub>2930 | <sub>2898 |
-| <sub>ZlomenyMesic | <sub><a href="https://github.com/ZlomenyMesic/Kreveta" target="_blank">Kreveta</a> | <sub>2.2.4 | <sub>2026-03-05 | <sub>Daniel Michna | <sub>2142 | <sub>2219 | <sub>2246 | <sub>2271 |
+| <sub>CCI-0 | <sub><a href="https://github.com/computer-chess-index/cci" target="_blank">RandomMover</a> | <sub>0.1 | <sub>2024-08-07 | <sub>CCI | <sub>0 | <sub>0 | <sub>655 | <sub>431 |
+| <sub>CCI_Bot | <sub><a href="https://github.com/tomcant/chess-rs" target="_blank">Anodos</a> | <sub>1.3.0 | <sub>2026-02-16 | <sub>Tom Cant | <sub>2476 | <sub>2533 | <sub>2307 | <sub>2311 |
+| <sub>CCI-2 | <sub><a href="https://github.com/jszczerbinsky/zeppelin" target="_blank">Zeppelin</a> | <sub>1.4.0 | <sub>2026-03-14 | <sub>Jakub Szczerbinski | <sub>2047 | <sub>2207 | <sub>1940 | <sub>1970 |
+| <sub>CCI-2_v1.3.0 | <sub><a href="https://github.com/jszczerbinsky/zeppelin" target="_blank">Zeppelin</a> | <sub>1.3.0 | <sub>2026-03-05 | <sub>Jakub Szczerbinski | <sub>1944 | <sub>2022 | <sub>1902 | <sub>1946 |
+| <sub>CCI-3 | <sub><a href="https://github.com/HansTibberio/Laura" target="_blank">Laura</a> | <sub>1.1.0 | <sub>2026-01-26 | <sub>Hans Tibberio | <sub>1530 | <sub>1461 | <sub>1752 | <sub>1671 |
+| <sub>CCI-4 | <sub><a href="https://github.com/sb2bg/sykora" target="_blank">Sykora</a> | <sub>0.2.1 | <sub>2026-03-02 | <sub>Sullivan Bognar | <sub>2381 | <sub>2469 | <sub>2487 | <sub>2514 |
+| <sub>CCI-5 | <sub><a href="https://github.com/official-stockfish/Stockfish" target="_blank">Stockfish</a> | <sub>18.0 | <sub>2026-01-31 | <sub><a href="https://github.com/official-stockfish/Stockfish/blob/master/AUTHORS" target="_blank">Stockfish Authors</a> | <sub>3079 | <sub>3079 | <sub>2611 | <sub>2601 |
+| <sub>CCI-6 | <sub><a href="https://github.com/official-stockfish/Stockfish" target="_blank">Stockfish</a> | <sub>18.0 | <sub>2026-01-31 | <sub><a href="https://github.com/official-stockfish/Stockfish/blob/master/AUTHORS" target="_blank">Stockfish Authors</a> | <sub>3573 | <sub>3573 | <sub>3024 | <sub>2961 |
+| <sub>CCI-7 | <sub><a href="https://github.com/official-stockfish/Stockfish" target="_blank">Stockfish</a> | <sub>18.0 | <sub>2026-01-31 | <sub><a href="https://github.com/official-stockfish/Stockfish/blob/master/AUTHORS" target="_blank">Stockfish Authors</a> | <sub>1420 | <sub>1420 | <sub>1763 | <sub>1664 |
+| <sub>CCI-8 | <sub><a href="https://github.com/codedeliveryservice/Reckless" target="_blank">Reckless</a> | <sub>0.9.0 | <sub>2026-03-01 | <sub>Arseniy Surkov | <sub>1359 | <sub>1359 | <sub>1798 | <sub>1668 |
+| <sub>CCI-9 | <sub><a href="https://github.com/codedeliveryservice/Reckless" target="_blank">Reckless</a> | <sub>0.9.0 | <sub>2026-03-01 | <sub>Arseniy Surkov | <sub>3294 | <sub>3294 | <sub>2776 | <sub>2728 |
+| <sub>CCI-10 | <sub><a href="https://github.com/codedeliveryservice/Reckless" target="_blank">Reckless</a> | <sub>0.9.0 | <sub>2026-03-01 | <sub>Arseniy Surkov | <sub>3511 | <sub>3511 | <sub>2923 | <sub>2911 |
+| <sub>ZlomenyMesic | <sub><a href="https://github.com/ZlomenyMesic/Kreveta" target="_blank">Kreveta</a> | <sub>2.2.4 | <sub>2026-03-05 | <sub>Daniel Michna | <sub>2141 | <sub>2218 | <sub>2246 | <sub>2271 |
