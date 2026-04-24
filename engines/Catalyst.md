@@ -8,13 +8,14 @@ Home: https://github.com/AnanyTanwar/Catalyst
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.2.0 | 2026-04-03 | 2616<sub>(-18) | 2990<sub>(+32) | 3092<sub>(+138) |  |
-| 2.1.0 | 2026-04-02 | 2634<sub>(+6) | 2958<sub>(-30) | 2954<sub>(-67) |  |
-| 2.0.0 | 2026-03-29 | 2628<sub>(+274) | 2988<sub>(+184) | 3021<sub>(+108) |  |
-| 1.0.0 | 2026-03-26 | 2354 | 2804 | 2913 |  |
+| 3.0.0 | 2026-04-23 | 2712<sub>(+94) | 3102<sub>(+112) | 3216<sub>(+124) |  |
+| 2.2.0 | 2026-04-03 | 2618<sub>(-16) | 2990<sub>(+32) | 3092<sub>(+138) |  |
+| 2.1.0 | 2026-04-02 | 2634<sub>(+6) | 2958<sub>(-30) | 2954<sub>(-69) |  |
+| 2.0.0 | 2026-03-29 | 2628<sub>(+275) | 2988<sub>(+183) | 3023<sub>(+110) |  |
+| 1.0.0 | 2026-03-26 | 2353 | 2805 | 2913 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Catalyst+<version>&body=###%20Engine%20name%0ACatalyst%0A%0A###%20Version%0A2.2.0" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Catalyst+<version>&body=###%20Engine%20name%0ACatalyst%0A%0A###%20Version%0A3.0.0" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -27,20 +28,20 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-23 06:23:06
+Generated: 2026-04-24 06:23:15
 
 ## Ratings Verlauf
 
 ```mermaid
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
-  x-axis ["1.0.0", "2.0.0", "2.1.0", "2.2.0"]
-  y-axis "Elo Rating" 2300 --> 3100
-  line "STC (8.0+0.08s)" [2354, 2628, 2634, 2616]
-  line "STC (8.0+0.08s)" [2354, 2628, 2634, 2616]
-  line "LTC (60.0+0.60s)" [2804, 2988, 2958, 2990]
-  line "VLTC (2m24s+1.12s)" [2913, 3021, 2954, 3092]
-  line "VLTC (2m24s+1.12s)" [2913, 3021, 2954, 3092]
+  x-axis ["1.0.0", "2.0.0", "2.1.0", "2.2.0", "3.0.0"]
+  y-axis "Elo Rating" 2300 --> 3300
+  line "STC (8.0+0.08s)" [2353, 2628, 2634, 2618, 2712]
+  line "STC (8.0+0.08s)" [2353, 2628, 2634, 2618, 2712]
+  line "LTC (60.0+0.60s)" [2805, 2988, 2958, 2990, 3102]
+  line "VLTC (2m24s+1.12s)" [2913, 3023, 2954, 3092, 3216]
+  line "VLTC (2m24s+1.12s)" [2913, 3023, 2954, 3092, 3216]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
