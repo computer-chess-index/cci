@@ -1,6 +1,6 @@
 # Engine: FoxChess
 
-Author: Faltermeier Nathan
+Author: Nathan Faltermeier
 
 Home: https://github.com/nfaltermeier/fox-chess
 
@@ -8,8 +8,8 @@ Home: https://github.com/nfaltermeier/fox-chess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1 | 2026-04-18 | 2429<sub>(+71) | 2747<sub>(+174) | 2812<sub>(+123) |  |
-| 1.0 | 2025-12-27 | 2358 | 2573 | 2689 |  |
+| 1.1 | 2026-04-18 | 2427<sub>(+69) | 2749<sub>(+175) | 2812<sub>(+121) |  |
+| 1.0 | 2025-12-27 | 2358 | 2574 | 2691 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+FoxChess+<version>&body=###%20Engine%20name%0AFoxChess%0A%0A###%20Version%0A1.1" target="_blank">Submit new version</a>
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-24 06:24:37
+Generated: 2026-04-25 06:24:04
 
 ## Ratings Verlauf
 
@@ -34,11 +34,11 @@ Generated: 2026-04-24 06:24:37
 xychart-beta
   x-axis ["1.0", "1.1"]
   y-axis "Elo Rating" 2300 --> 2900
-  line "STC (8.0+0.08s)" [2358, 2429]
-  line "STC (8.0+0.08s)" [2358, 2429]
-  line "LTC (60.0+0.60s)" [2573, 2747]
-  line "VLTC (2m24s+1.12s)" [2689, 2812]
-  line "VLTC (2m24s+1.12s)" [2689, 2812]
+  line "STC (8.0+0.08s)" [2358, 2427]
+  line "STC (8.0+0.08s)" [2358, 2427]
+  line "LTC (60.0+0.60s)" [2574, 2749]
+  line "VLTC (2m24s+1.12s)" [2691, 2812]
+  line "VLTC (2m24s+1.12s)" [2691, 2812]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
