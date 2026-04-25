@@ -15,7 +15,7 @@ Home: https://github.com/jhellis3/Stockfish
 | 7 | 2023-11-09 |  |  |  |  |
 | 6 | 2023-05-14 |  |  |  |  |
 | 6 | 2023-05-14 |  |  |  |  |
-| 5 | 2022-11-05 | 3414<sub>(+new) | 3556<sub>(+new) | 3576<sub>(+new) |  |
+| 5 | 2022-11-05 | 3414<sub>(+new) | 3556<sub>(+new) | 3578<sub>(+new) |  |
 | 4.1 | 2022-07-03 |  |  |  |  |
 | 4.0 | 2021-12-25 |  |  |  |  |
 | 4.0 | 2021-12-25 |  |  |  |  |
@@ -53,7 +53,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-24 06:23:59
+Generated: 2026-04-25 06:23:36
 
 ## Ratings Verlauf
 
@@ -65,8 +65,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [3414, 3460]
   line "STC (8.0+0.08s)" [3414, 3460]
   line "LTC (60.0+0.60s)" [3556, 3602]
-  line "VLTC (2m24s+1.12s)" [3576, 3630]
-  line "VLTC (2m24s+1.12s)" [3576, 3630]
+  line "VLTC (2m24s+1.12s)" [3578, 3630]
+  line "VLTC (2m24s+1.12s)" [3578, 3630]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
