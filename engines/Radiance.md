@@ -8,8 +8,8 @@ Home: https://github.com/ppipelin/radiance
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.4 | 2026-04-23 |  |  |  |  |
-| 4.3 | 2026-03-25 | 1692<sub>(+95) | 1985<sub>(+111) | 2133<sub>(+208) |  |
+| 4.4 | 2026-04-23 | 1747<sub>(+55) | 2114<sub>(+128) | 2242<sub>(+108) |  |
+| 4.3 | 2026-03-25 | 1692<sub>(+95) | 1986<sub>(+112) | 2134<sub>(+209) |  |
 | 4.2 | 2026-01-17 | 1597<sub>(+new) | 1874<sub>(+new) | 1925<sub>(+new) |  |
 | 4.1 | 2025-08-16 |  |  |  |  |
 | 4.0.1 | 2025-04-17 |  |  |  |  |
@@ -29,20 +29,20 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-24 06:27:52
+Generated: 2026-04-25 06:26:51
 
 ## Ratings Verlauf
 
 ```mermaid
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
-  x-axis ["4.2", "4.3"]
-  y-axis "Elo Rating" 1500 --> 2200
-  line "STC (8.0+0.08s)" [1597, 1692]
-  line "STC (8.0+0.08s)" [1597, 1692]
-  line "LTC (60.0+0.60s)" [1874, 1985]
-  line "VLTC (2m24s+1.12s)" [1925, 2133]
-  line "VLTC (2m24s+1.12s)" [1925, 2133]
+  x-axis ["4.2", "4.3", "4.4"]
+  y-axis "Elo Rating" 1500 --> 2300
+  line "STC (8.0+0.08s)" [1597, 1692, 1747]
+  line "STC (8.0+0.08s)" [1597, 1692, 1747]
+  line "LTC (60.0+0.60s)" [1874, 1986, 2114]
+  line "VLTC (2m24s+1.12s)" [1925, 2134, 2242]
+  line "VLTC (2m24s+1.12s)" [1925, 2134, 2242]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
