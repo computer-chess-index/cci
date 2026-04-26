@@ -8,10 +8,11 @@ Home: https://github.com/tryingsomestuff/Minic
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
+| 3.46 | 2026-04-25 |  |  |  |  |
 | 3.45 | 2026-04-16 |  |  |  |  |
 | 3.44 | 2025-05-17 |  |  |  |  |
 | 3.43 | 2025-04-09 |  |  |  |  |
-| 3.41 | 2024-01-18 | 2997<sub>(+new) | 3298<sub>(+new) | 3366<sub>(+new) |  |
+| 3.41 | 2024-01-18 | 2996<sub>(+new) | 3297<sub>(+new) | 3364<sub>(+new) |  |
 | 3.40 | 2024-01-14 |  |  |  |  |
 | 3.39 | 2023-10-29 |  |  |  |  |
 | 3.38 | 2023-06-17 |  |  |  |  |
@@ -120,7 +121,7 @@ Home: https://github.com/tryingsomestuff/Minic
 | 0.20 | 2018-11-27 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Minic+<version>&body=###%20Engine%20name%0AMinic%0A%0A###%20Version%0A3.45" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Minic+<version>&body=###%20Engine%20name%0AMinic%0A%0A###%20Version%0A3.46" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -133,4 +134,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-25 06:25:33
+Generated: 2026-04-26 06:25:43
