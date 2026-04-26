@@ -8,11 +8,11 @@ Home: https://github.com/AnanyTanwar/Catalyst
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.0 | 2026-04-23 | 2701<sub>(+83) | 3124<sub>(+134) | 3183<sub>(+90) |  |
-| 2.2.0 | 2026-04-03 | 2618<sub>(-17) | 2990<sub>(+31) | 3093<sub>(+138) |  |
-| 2.1.0 | 2026-04-02 | 2635<sub>(+5) | 2959<sub>(-29) | 2955<sub>(-68) |  |
-| 2.0.0 | 2026-03-29 | 2630<sub>(+277) | 2988<sub>(+183) | 3023<sub>(+108) |  |
-| 1.0.0 | 2026-03-26 | 2353 | 2805 | 2915 |  |
+| 3.0.0 | 2026-04-23 | 2701<sub>(+83) | 3119<sub>(+129) | 3171<sub>(+79) |  |
+| 2.2.0 | 2026-04-03 | 2618<sub>(-17) | 2990<sub>(+32) | 3092<sub>(+138) |  |
+| 2.1.0 | 2026-04-02 | 2635<sub>(+5) | 2958<sub>(-28) | 2954<sub>(-67) |  |
+| 2.0.0 | 2026-03-29 | 2630<sub>(+277) | 2986<sub>(+182) | 3021<sub>(+108) |  |
+| 1.0.0 | 2026-03-26 | 2353 | 2804 | 2913 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Catalyst+<version>&body=###%20Engine%20name%0ACatalyst%0A%0A###%20Version%0A3.0.0" target="_blank">Submit new version</a>
@@ -28,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-25 06:23:02
+Generated: 2026-04-26 06:23:05
 
 ## Ratings Verlauf
 
@@ -39,9 +39,9 @@ xychart-beta
   y-axis "Elo Rating" 2300 --> 3200
   line "STC (8.0+0.08s)" [2353, 2630, 2635, 2618, 2701]
   line "STC (8.0+0.08s)" [2353, 2630, 2635, 2618, 2701]
-  line "LTC (60.0+0.60s)" [2805, 2988, 2959, 2990, 3124]
-  line "VLTC (2m24s+1.12s)" [2915, 3023, 2955, 3093, 3183]
-  line "VLTC (2m24s+1.12s)" [2915, 3023, 2955, 3093, 3183]
+  line "LTC (60.0+0.60s)" [2804, 2986, 2958, 2990, 3119]
+  line "VLTC (2m24s+1.12s)" [2913, 3021, 2954, 3092, 3171]
+  line "VLTC (2m24s+1.12s)" [2913, 3021, 2954, 3092, 3171]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
