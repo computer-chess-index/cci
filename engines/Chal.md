@@ -8,17 +8,18 @@ Home: https://github.com/namanthanki/chal
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.4.0 | 2026-04-01 | 2296<sub>(+214) | 2534<sub>(+131) | 2626<sub>(+197) |  |
-| 1.3.2 | 2026-03-14 | 2082<sub>(+30) | 2403<sub>(+26) | 2429<sub>(+3) |  |
-| 1.3.1 | 2026-03-10 | 2052<sub>(+159) | 2377<sub>(+116) | 2426<sub>(+138) |  |
-| 1.3.0 | 2026-03-08 | 1893<sub>(+195) | 2261<sub>(+318) | 2288<sub>(+245) |  |
-| 1.2.1 | 2026-03-07 | 1698<sub>(+new) | 1943<sub>(+new) | 2043<sub>(+new) |  |
+| 1.4.1 | 2026-04-26 | 2350<sub>(+48) | 2562<sub>(+28) | 2623<sub>(-3) |  |
+| 1.4.0 | 2026-04-01 | 2302<sub>(+222) | 2534<sub>(+132) | 2626<sub>(+199) |  |
+| 1.3.2 | 2026-03-14 | 2080<sub>(+29) | 2402<sub>(+26) | 2427<sub>(+2) |  |
+| 1.3.1 | 2026-03-10 | 2051<sub>(+160) | 2376<sub>(+116) | 2425<sub>(+138) |  |
+| 1.3.0 | 2026-03-08 | 1891<sub>(+195) | 2260<sub>(+320) | 2287<sub>(+246) |  |
+| 1.2.1 | 2026-03-07 | 1696<sub>(+new) | 1940<sub>(+new) | 2041<sub>(+new) |  |
 | 1.2.0 | 2026-03-05 |  |  |  |  |
 | 1.1.0 | 2026-03-05 |  |  |  |  |
 | 1.0.0 | 2026-03-05 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Chal+<version>&body=###%20Engine%20name%0AChal%0A%0A###%20Version%0A1.4.0" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Chal+<version>&body=###%20Engine%20name%0AChal%0A%0A###%20Version%0A1.4.1" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -31,20 +32,20 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-26 06:23:09
+Generated: 2026-04-26 16:50:11
 
 ## Ratings Verlauf
 
 ```mermaid
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
-  x-axis ["1.2.1", "1.3.0", "1.3.1", "1.3.2", "1.4.0"]
+  x-axis ["1.2.1", "1.3.0", "1.3.1", "1.3.2", "1.4.0", "1.4.1"]
   y-axis "Elo Rating" 1600 --> 2700
-  line "STC (8.0+0.08s)" [1698, 1893, 2052, 2082, 2296]
-  line "STC (8.0+0.08s)" [1698, 1893, 2052, 2082, 2296]
-  line "LTC (60.0+0.60s)" [1943, 2261, 2377, 2403, 2534]
-  line "VLTC (2m24s+1.12s)" [2043, 2288, 2426, 2429, 2626]
-  line "VLTC (2m24s+1.12s)" [2043, 2288, 2426, 2429, 2626]
+  line "STC (8.0+0.08s)" [1696, 1891, 2051, 2080, 2302, 2350]
+  line "STC (8.0+0.08s)" [1696, 1891, 2051, 2080, 2302, 2350]
+  line "LTC (60.0+0.60s)" [1940, 2260, 2376, 2402, 2534, 2562]
+  line "VLTC (2m24s+1.12s)" [2041, 2287, 2425, 2427, 2626, 2623]
+  line "VLTC (2m24s+1.12s)" [2041, 2287, 2425, 2427, 2626, 2623]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
