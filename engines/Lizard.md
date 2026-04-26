@@ -8,11 +8,11 @@ Home: https://github.com/liamt19/Lizard
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 11.2 | 2025-01-08 | 3340<sub>(+16) | 3519<sub>(+22) | 3552<sub>(+10) |  |
-| 11.1.5 | 2024-12-30 | 3324<sub>(+new) | 3497<sub>(+new) | 3542<sub>(+new) |  |
+| 11.2 | 2025-01-08 | 3339<sub>(+17) | 3518<sub>(+21) | 3551<sub>(+10) |  |
+| 11.1.5 | 2024-12-30 | 3322<sub>(+new) | 3497<sub>(+new) | 3541<sub>(+new) |  |
 | 11.1 | 2024-11-11 |  |  |  |  |
-| 11.0 | 2024-09-26 | 3268<sub>(+9) | 3482<sub>(-12) | 3528<sub>(-5) |  |
-| 10.5 | 2024-07-13 | 3259<sub>(+new) | 3494<sub>(+new) | 3533<sub>(+new) |  |
+| 11.0 | 2024-09-26 | 3267<sub>(+9) | 3480<sub>(-12) | 3526<sub>(-6) |  |
+| 10.5 | 2024-07-13 | 3258<sub>(+new) | 3492<sub>(+new) | 3532<sub>(+new) |  |
 | 10.4 | 2024-06-03 |  |  |  |  |
 | 10.3 | 2024-03-09 |  |  |  |  |
 | 10.2 | 2024-02-10 |  |  |  |  |
@@ -39,7 +39,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-25 06:25:09
+Generated: 2026-04-26 06:25:18
 
 ## Ratings Verlauf
 
@@ -48,11 +48,11 @@ Generated: 2026-04-25 06:25:09
 xychart-beta
   x-axis ["10.5", "11.0", "11.1.5", "11.2"]
   y-axis "Elo Rating" 3200 --> 3600
-  line "STC (8.0+0.08s)" [3259, 3268, 3324, 3340]
-  line "STC (8.0+0.08s)" [3259, 3268, 3324, 3340]
-  line "LTC (60.0+0.60s)" [3494, 3482, 3497, 3519]
-  line "VLTC (2m24s+1.12s)" [3533, 3528, 3542, 3552]
-  line "VLTC (2m24s+1.12s)" [3533, 3528, 3542, 3552]
+  line "STC (8.0+0.08s)" [3258, 3267, 3322, 3339]
+  line "STC (8.0+0.08s)" [3258, 3267, 3322, 3339]
+  line "LTC (60.0+0.60s)" [3492, 3480, 3497, 3518]
+  line "VLTC (2m24s+1.12s)" [3532, 3526, 3541, 3551]
+  line "VLTC (2m24s+1.12s)" [3532, 3526, 3541, 3551]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
