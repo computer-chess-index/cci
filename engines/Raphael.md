@@ -8,14 +8,15 @@ Home: https://github.com/Orbital-Web/Raphael
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.3.0 | 2026-04-06 | 3357<sub>(+91) | 3503<sub>(+94) | 3542<sub>(+66) |  |
-| 3.2.0 | 2026-03-19 | 3266<sub>(+112) | 3409<sub>(+88) | 3476<sub>(+102) |  |
-| 3.1.0 | 2026-03-01 | 3154<sub>(+314) | 3321<sub>(+250) | 3374<sub>(+233) |  |
-| 3.0.0 | 2026-02-12 | 2840<sub>(+234) | 3071<sub>(+127) | 3141<sub>(+148) |  |
-| 2.3.0 | 2026-01-26 | 2606<sub>(+50) | 2944<sub>(+132) | 2993<sub>(+82) |  |
-| 2.2.0 | 2026-01-08 | 2556<sub>(+210) | 2812<sub>(+277) | 2911<sub>(+265) |  |
-| 2.1.0 | 2026-01-01 | 2346<sub>(+187) | 2535<sub>(+135) | 2646<sub>(+273) |  |
-| 2.0.0 | 2025-12-23 | 2159<sub>(+new) | 2400<sub>(+new) | 2373<sub>(+new) |  |
+| 4.0.0 | 2026-04-26 | 3391<sub>(+32) | 3515<sub>(+10) | 3563<sub>(+19) |  |
+| 3.3.0 | 2026-04-06 | 3359<sub>(+92) | 3505<sub>(+96) | 3544<sub>(+68) |  |
+| 3.2.0 | 2026-03-19 | 3267<sub>(+112) | 3409<sub>(+87) | 3476<sub>(+102) |  |
+| 3.1.0 | 2026-03-01 | 3155<sub>(+313) | 3322<sub>(+249) | 3374<sub>(+231) |  |
+| 3.0.0 | 2026-02-12 | 2842<sub>(+236) | 3073<sub>(+127) | 3143<sub>(+150) |  |
+| 2.3.0 | 2026-01-26 | 2606<sub>(+50) | 2946<sub>(+134) | 2993<sub>(+82) |  |
+| 2.2.0 | 2026-01-08 | 2556<sub>(+211) | 2812<sub>(+277) | 2911<sub>(+265) |  |
+| 2.1.0 | 2026-01-01 | 2345<sub>(+188) | 2535<sub>(+136) | 2646<sub>(+273) |  |
+| 2.0.0 | 2025-12-23 | 2157<sub>(+new) | 2399<sub>(+new) | 2373<sub>(+new) |  |
 | 1.8.0 | 2024-12-27 |  |  |  |  |
 | 1.7.6 | 2024-12-16 |  |  |  |  |
 | 1.7.0 | 2023-08-27 |  |  |  |  |
@@ -30,7 +31,7 @@ Home: https://github.com/Orbital-Web/Raphael
 | 0.5.0 | 2023-07-07 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Raphael+<version>&body=###%20Engine%20name%0ARaphael%0A%0A###%20Version%0A3.3.0" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Raphael+<version>&body=###%20Engine%20name%0ARaphael%0A%0A###%20Version%0A4.0.0" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -43,20 +44,20 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-26 06:27:04
+Generated: 2026-04-27 06:26:56
 
 ## Ratings Verlauf
 
 ```mermaid
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
-  x-axis ["2.0.0", "2.1.0", "2.2.0", "2.3.0", "3.0.0", "3.1.0", "3.2.0", "3.3.0"]
+  x-axis ["2.0.0", "2.1.0", "2.2.0", "2.3.0", "3.0.0", "3.1.0", "3.2.0", "3.3.0", "4.0.0"]
   y-axis "Elo Rating" 2100 --> 3600
-  line "STC (8.0+0.08s)" [2159, 2346, 2556, 2606, 2840, 3154, 3266, 3357]
-  line "STC (8.0+0.08s)" [2159, 2346, 2556, 2606, 2840, 3154, 3266, 3357]
-  line "LTC (60.0+0.60s)" [2400, 2535, 2812, 2944, 3071, 3321, 3409, 3503]
-  line "VLTC (2m24s+1.12s)" [2373, 2646, 2911, 2993, 3141, 3374, 3476, 3542]
-  line "VLTC (2m24s+1.12s)" [2373, 2646, 2911, 2993, 3141, 3374, 3476, 3542]
+  line "STC (8.0+0.08s)" [2157, 2345, 2556, 2606, 2842, 3155, 3267, 3359, 3391]
+  line "STC (8.0+0.08s)" [2157, 2345, 2556, 2606, 2842, 3155, 3267, 3359, 3391]
+  line "LTC (60.0+0.60s)" [2399, 2535, 2812, 2946, 3073, 3322, 3409, 3505, 3515]
+  line "VLTC (2m24s+1.12s)" [2373, 2646, 2911, 2993, 3143, 3374, 3476, 3544, 3563]
+  line "VLTC (2m24s+1.12s)" [2373, 2646, 2911, 2993, 3143, 3374, 3476, 3544, 3563]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
