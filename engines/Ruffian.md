@@ -8,8 +8,8 @@ Home:
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1.0 | 2004-02-01 | 2191<sub>(+12) | 2498<sub>(+18) | 2546<sub>(+24) |  |
-| 1.0.5 | 2003-03-19 | 2179 | 2480 | 2522 |  |
+| 2.1.0 | 2004-02-01 | 2190<sub>(+12) | 2498<sub>(+18) | 2545<sub>(+23) |  |
+| 1.0.5 | 2003-03-19 | 2178 | 2480 | 2522 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Ruffian+<version>&body=###%20Engine%20name%0ARuffian%0A%0A###%20Version%0A2.1.0" target="_blank">Submit new version</a>
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-27 06:27:23
+Generated: 2026-04-28 06:27:36
 
 ## Ratings Verlauf
 
@@ -34,11 +34,11 @@ Generated: 2026-04-27 06:27:23
 xychart-beta
   x-axis ["1.0.5", "2.1.0"]
   y-axis "Elo Rating" 2100 --> 2600
-  line "STC (8.0+0.08s)" [2179, 2191]
-  line "STC (8.0+0.08s)" [2179, 2191]
+  line "STC (8.0+0.08s)" [2178, 2190]
+  line "STC (8.0+0.08s)" [2178, 2190]
   line "LTC (60.0+0.60s)" [2480, 2498]
-  line "VLTC (2m24s+1.12s)" [2522, 2546]
-  line "VLTC (2m24s+1.12s)" [2522, 2546]
+  line "VLTC (2m24s+1.12s)" [2522, 2545]
+  line "VLTC (2m24s+1.12s)" [2522, 2545]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
