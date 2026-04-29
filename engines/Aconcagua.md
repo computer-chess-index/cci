@@ -8,10 +8,10 @@ Home: https://github.com/gabtar/aconcagua
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 5.1.0 | 2026-03-01 | 2238<sub>(+42) | 2488<sub>(-1) | 2606<sub>(+113) |  |
-| 5.0.0 | 2026-01-25 | 2196<sub>(+206) | 2489<sub>(+190) | 2493<sub>(+86) |  |
-| 4.1.0 | 2025-12-14 | 1990<sub>(+54) | 2299<sub>(+80) | 2407<sub>(+58) |  |
-| 4.0.0 | 2025-11-09 | 1936<sub>(+new) | 2219<sub>(+new) | 2349<sub>(+new) |  |
+| 5.1.0 | 2026-03-01 | 2238<sub>(+42) | 2488<sub>(-1) | 2603<sub>(+111) |  |
+| 5.0.0 | 2026-01-25 | 2196<sub>(+206) | 2489<sub>(+190) | 2492<sub>(+85) |  |
+| 4.1.0 | 2025-12-14 | 1990<sub>(+54) | 2299<sub>(+80) | 2407<sub>(+59) |  |
+| 4.0.0 | 2025-11-09 | 1936<sub>(+new) | 2219<sub>(+new) | 2348<sub>(+new) |  |
 | 3.4.0 | 2025-10-04 |  |  |  |  |
 | 3.3.0 | 2025-09-14 |  |  |  |  |
 | 3.2.0 | 2025-08-31 |  |  |  |  |
@@ -36,7 +36,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-28 06:22:07
+Generated: 2026-04-29 06:22:07
 
 ## Ratings Verlauf
 
@@ -48,8 +48,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [1936, 1990, 2196, 2238]
   line "STC (8.0+0.08s)" [1936, 1990, 2196, 2238]
   line "LTC (60.0+0.60s)" [2219, 2299, 2489, 2488]
-  line "VLTC (2m24s+1.12s)" [2349, 2407, 2493, 2606]
-  line "VLTC (2m24s+1.12s)" [2349, 2407, 2493, 2606]
+  line "VLTC (2m24s+1.12s)" [2348, 2407, 2492, 2603]
+  line "VLTC (2m24s+1.12s)" [2348, 2407, 2492, 2603]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
