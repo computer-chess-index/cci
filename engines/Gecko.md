@@ -8,7 +8,7 @@ Home: https://github.com/sgtqwq/Gecko
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.25.1 | 2026-04-12 | 2525<sub>(+90) | 2795<sub>(+96) | 2874<sub>(+116) |  |
+| 0.25.1 | 2026-04-12 | 2525<sub>(+90) | 2795<sub>(+96) | 2873<sub>(+115) |  |
 | 0.25 | 2026-04-06 | 2435<sub>(+531) | 2699<sub>(+601) | 2758<sub>(+566) |  |
 | 0.08 | 2026-02-05 | 1904 | 2098 | 2192 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-28 06:24:25
+Generated: 2026-04-29 06:24:38
 
 ## Ratings Verlauf
 
@@ -38,8 +38,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [1904, 2435, 2525]
   line "STC (8.0+0.08s)" [1904, 2435, 2525]
   line "LTC (60.0+0.60s)" [2098, 2699, 2795]
-  line "VLTC (2m24s+1.12s)" [2192, 2758, 2874]
-  line "VLTC (2m24s+1.12s)" [2192, 2758, 2874]
+  line "VLTC (2m24s+1.12s)" [2192, 2758, 2873]
+  line "VLTC (2m24s+1.12s)" [2192, 2758, 2873]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
