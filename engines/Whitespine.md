@@ -8,9 +8,9 @@ Home: https://github.com/maelic13/whitespine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.4.0 | 2026-04-29 | 849<sub>(-16) | 937<sub>(-92) | 1125<sub>(+95) |  |
-| 1.3.3 | 2026-03-26 | 865<sub>(+94) | 1029<sub>(-92) | 1030<sub>(-53) |  |
-| 1.3.2 | 2025-09-16 | 771<sub>(+new) | 1121<sub>(+new) | 1083<sub>(+new) |  |
+| 1.4.0 | 2026-04-29 | 856<sub>(-11) | 919<sub>(-110) | 1125<sub>(+94) |  |
+| 1.3.3 | 2026-03-26 | 867<sub>(+84) | 1029<sub>(-60) | 1031<sub>(-37) |  |
+| 1.3.2 | 2025-09-16 | 783<sub>(+new) | 1089<sub>(+new) | 1068<sub>(+new) |  |
 | 1.3.1 | 2025-06-08 |  |  |  |  |
 | 1.3.0 | 2025-05-11 |  |  |  |  |
 | 1.2.0 | 2025-05-11 |  |  |  |  |
@@ -29,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-29 22:09:10
+Generated: 2026-04-30 06:29:07
 
 ## Ratings Verlauf
 
@@ -38,11 +38,11 @@ Generated: 2026-04-29 22:09:10
 xychart-beta
   x-axis ["1.3.2", "1.3.3", "1.4.0"]
   y-axis "Elo Rating" 700 --> 1200
-  line "STC (8.0+0.08s)" [771, 865, 849]
-  line "STC (8.0+0.08s)" [771, 865, 849]
-  line "LTC (60.0+0.60s)" [1121, 1029, 937]
-  line "VLTC (2m24s+1.12s)" [1083, 1030, 1125]
-  line "VLTC (2m24s+1.12s)" [1083, 1030, 1125]
+  line "STC (8.0+0.08s)" [783, 867, 856]
+  line "STC (8.0+0.08s)" [783, 867, 856]
+  line "LTC (60.0+0.60s)" [1089, 1029, 919]
+  line "VLTC (2m24s+1.12s)" [1068, 1031, 1125]
+  line "VLTC (2m24s+1.12s)" [1068, 1031, 1125]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
