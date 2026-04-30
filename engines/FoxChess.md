@@ -8,8 +8,8 @@ Home: https://github.com/nfaltermeier/fox-chess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1 | 2026-04-18 | 2429<sub>(+72) | 2749<sub>(+176) | 2815<sub>(+127) |  |
-| 1.0 | 2025-12-27 | 2357 | 2573 | 2688 |  |
+| 1.1 | 2026-04-18 | 2433<sub>(+72) | 2751<sub>(+175) | 2819<sub>(+127) |  |
+| 1.0 | 2025-12-27 | 2361 | 2576 | 2692 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+FoxChess+<version>&body=###%20Engine%20name%0AFoxChess%0A%0A###%20Version%0A1.1" target="_blank">Submit new version</a>
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-29 06:24:27
+Generated: 2026-04-30 06:24:13
 
 ## Ratings Verlauf
 
@@ -34,11 +34,11 @@ Generated: 2026-04-29 06:24:27
 xychart-beta
   x-axis ["1.0", "1.1"]
   y-axis "Elo Rating" 2300 --> 2900
-  line "STC (8.0+0.08s)" [2357, 2429]
-  line "STC (8.0+0.08s)" [2357, 2429]
-  line "LTC (60.0+0.60s)" [2573, 2749]
-  line "VLTC (2m24s+1.12s)" [2688, 2815]
-  line "VLTC (2m24s+1.12s)" [2688, 2815]
+  line "STC (8.0+0.08s)" [2361, 2433]
+  line "STC (8.0+0.08s)" [2361, 2433]
+  line "LTC (60.0+0.60s)" [2576, 2751]
+  line "VLTC (2m24s+1.12s)" [2692, 2819]
+  line "VLTC (2m24s+1.12s)" [2692, 2819]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
