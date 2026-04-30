@@ -8,7 +8,7 @@ Home: https://github.com/connormcmonigle/seer-nnue
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.8 | 2023-12-31 | 3303<sub>(+new) | 3471<sub>(+new) | 3506<sub>(+new) |  |
+| 2.8 | 2023-12-31 | 3308<sub>(+new) | 3475<sub>(+new) | 3509<sub>(+new) |  |
 | 2.7.0 | 2023-10-26 |  |  |  |  |
 | 2.6.0 | 2022-10-22 |  |  |  |  |
 | 2.5.0 | 2022-04-25 |  |  |  |  |
@@ -37,4 +37,4 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-29 06:28:02
+Generated: 2026-04-30 06:27:50
