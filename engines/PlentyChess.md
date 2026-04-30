@@ -8,15 +8,15 @@ Home: https://github.com/Yoshie2000/PlentyChess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7.0.0 | 2025-09-25 | 3474<sub>(+new) | 3599<sub>(+new) | 3595<sub>(+5) |  |
-| 6.0.2 | 2025-06-06 |  |  | 3590<sub>(0) |  |
-| 5.0.0 | 2025-03-23 | 3401<sub>(+6) | 3565<sub>(+new) | 3590<sub>(+25) |  |
-| 4.0.1 | 2025-01-18 | 3395<sub>(+new) |  | 3565<sub>(+new) |  |
+| 7.0.0 | 2025-09-25 | 3474<sub>(+new) | 3602<sub>(+new) | 3598<sub>(+4) |  |
+| 6.0.2 | 2025-06-06 |  |  | 3594<sub>(0) |  |
+| 5.0.0 | 2025-03-23 | 3405<sub>(+6) | 3569<sub>(+new) | 3594<sub>(+25) |  |
+| 4.0.1 | 2025-01-18 | 3399<sub>(+new) |  | 3569<sub>(+new) |  |
 | 4.0.0 | 2025-01-18 |  |  |  |  |
 | 3.0.2 | 2024-11-26 |  |  |  |  |
-| 3.0.1 | 2024-11-22 | 3329<sub>(+new) | 3471<sub>(+new) | 3561<sub>(+new) |  |
+| 3.0.1 | 2024-11-22 | 3333<sub>(+new) | 3475<sub>(+new) | 3564<sub>(+new) |  |
 | 3.0.0 | 2024-11-21 |  |  |  |  |
-| 2.1.0 | 2024-07-02 | 3363<sub>(+new) | 3503<sub>(+new) | 3540<sub>(+new) |  |
+| 2.1.0 | 2024-07-02 | 3366<sub>(+new) | 3507<sub>(+new) | 3542<sub>(+new) |  |
 | 2.0.0 | 2024-06-12 |  |  |  |  |
 | 1.0.0 | 2024-04-01 |  |  |  |  |
 | 0.3.0 | 2024-02-04 |  |  |  |  |
@@ -38,7 +38,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-29 06:26:42
+Generated: 2026-04-30 06:26:30
 
 ## Ratings Verlauf
 
@@ -46,12 +46,12 @@ Generated: 2026-04-29 06:26:42
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["2.1.0", "3.0.1", "5.0.0", "7.0.0"]
-  y-axis "Elo Rating" 3300 --> 3600
-  line "STC (8.0+0.08s)" [3363, 3329, 3401, 3474]
-  line "STC (8.0+0.08s)" [3363, 3329, 3401, 3474]
-  line "LTC (60.0+0.60s)" [3503, 3471, 3565, 3599]
-  line "VLTC (2m24s+1.12s)" [3540, 3561, 3590, 3595]
-  line "VLTC (2m24s+1.12s)" [3540, 3561, 3590, 3595]
+  y-axis "Elo Rating" 3300 --> 3700
+  line "STC (8.0+0.08s)" [3366, 3333, 3405, 3474]
+  line "STC (8.0+0.08s)" [3366, 3333, 3405, 3474]
+  line "LTC (60.0+0.60s)" [3507, 3475, 3569, 3602]
+  line "VLTC (2m24s+1.12s)" [3542, 3564, 3594, 3598]
+  line "VLTC (2m24s+1.12s)" [3542, 3564, 3594, 3598]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
