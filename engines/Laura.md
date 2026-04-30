@@ -8,12 +8,13 @@ Home: https://github.com/HansTibberio/Laura
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0.0 | 2026-04-23 | 1374<sub>(+69) | 1709<sub>(+221) | 1705<sub>(+289) |  |
-| 1.1.0 | 2026-01-26 | 1305<sub>(+new) | 1488<sub>(+new) | 1416<sub>(+new) |  |
+| 3.0.0 | 2026-04-29 | 1601<sub>(+232) | 1682<sub>(-3) | 1887<sub>(+181) |  |
+| 2.0.0 | 2026-04-23 | 1369<sub>(+61) | 1685<sub>(+193) | 1706<sub>(+286) |  |
+| 1.1.0 | 2026-01-26 | 1308<sub>(+new) | 1492<sub>(+new) | 1420<sub>(+new) |  |
 | 1.0.0 | 2025-05-30 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Laura+<version>&body=###%20Engine%20name%0ALaura%0A%0A###%20Version%0A2.0.0" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Laura+<version>&body=###%20Engine%20name%0ALaura%0A%0A###%20Version%0A3.0.0" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -26,20 +27,20 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-29 06:25:28
+Generated: 2026-04-30 06:25:14
 
 ## Ratings Verlauf
 
 ```mermaid
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
-  x-axis ["1.1.0", "2.0.0"]
-  y-axis "Elo Rating" 1300 --> 1800
-  line "STC (8.0+0.08s)" [1305, 1374]
-  line "STC (8.0+0.08s)" [1305, 1374]
-  line "LTC (60.0+0.60s)" [1488, 1709]
-  line "VLTC (2m24s+1.12s)" [1416, 1705]
-  line "VLTC (2m24s+1.12s)" [1416, 1705]
+  x-axis ["1.1.0", "2.0.0", "3.0.0"]
+  y-axis "Elo Rating" 1300 --> 1900
+  line "STC (8.0+0.08s)" [1308, 1369, 1601]
+  line "STC (8.0+0.08s)" [1308, 1369, 1601]
+  line "LTC (60.0+0.60s)" [1492, 1685, 1682]
+  line "VLTC (2m24s+1.12s)" [1420, 1706, 1887]
+  line "VLTC (2m24s+1.12s)" [1420, 1706, 1887]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
