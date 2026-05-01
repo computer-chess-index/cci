@@ -8,8 +8,8 @@ Home: https://github.com/codedeliveryservice/Reckless
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.9.0 | 2026-03-01 | 3519<sub>(+39) | 3609<sub>(+11) | 3637<sub>(+26) |  |
-| 0.8.0 | 2025-08-30 | 3480<sub>(+new) | 3598<sub>(+new) | 3611<sub>(+new) |  |
+| 0.9.0 | 2026-03-01 | 3521<sub>(+39) | 3610<sub>(+11) | 3637<sub>(+24) |  |
+| 0.8.0 | 2025-08-30 | 3482<sub>(+new) | 3599<sub>(+new) | 3613<sub>(+new) |  |
 | 0.7.0 | 2024-08-23 |  |  |  |  |
 | 0.6.0 | 2024-03-21 |  |  |  |  |
 | 0.5.0 | 2024-02-04 |  |  |  |  |
@@ -32,7 +32,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-30 06:27:16
+Generated: 2026-05-01 06:27:20
 
 ## Ratings Verlauf
 
@@ -41,11 +41,11 @@ Generated: 2026-04-30 06:27:16
 xychart-beta
   x-axis ["0.8.0", "0.9.0"]
   y-axis "Elo Rating" 3400 --> 3700
-  line "STC (8.0+0.08s)" [3480, 3519]
-  line "STC (8.0+0.08s)" [3480, 3519]
-  line "LTC (60.0+0.60s)" [3598, 3609]
-  line "VLTC (2m24s+1.12s)" [3611, 3637]
-  line "VLTC (2m24s+1.12s)" [3611, 3637]
+  line "STC (8.0+0.08s)" [3482, 3521]
+  line "STC (8.0+0.08s)" [3482, 3521]
+  line "LTC (60.0+0.60s)" [3599, 3610]
+  line "VLTC (2m24s+1.12s)" [3613, 3637]
+  line "VLTC (2m24s+1.12s)" [3613, 3637]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
