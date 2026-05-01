@@ -8,8 +8,8 @@ Home: https://github.com/JVMerlino/Myrddin
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.95 | 2026-04-23 | 2661<sub>(+23) | 2975<sub>(+5) | 3058<sub>(-40) |  |
-| 0.94 | 2025-12-11 | 2638<sub>(+new) | 2970<sub>(+new) | 3098<sub>(+new) |  |
+| 0.95 | 2026-04-23 | 2662<sub>(+23) | 2977<sub>(+6) | 3059<sub>(-41) |  |
+| 0.94 | 2025-12-11 | 2639<sub>(+new) | 2971<sub>(+new) | 3100<sub>(+new) |  |
 | 0.93 | 2025-04-23 |  |  |  |  |
 | 0.92 | 2024-12-08 |  |  |  |  |
 | 0.91 | 2024-10-19 |  |  |  |  |
@@ -30,7 +30,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-30 06:25:56
+Generated: 2026-05-01 06:25:58
 
 ## Ratings Verlauf
 
@@ -39,11 +39,11 @@ Generated: 2026-04-30 06:25:56
 xychart-beta
   x-axis ["0.94", "0.95"]
   y-axis "Elo Rating" 2600 --> 3100
-  line "STC (8.0+0.08s)" [2638, 2661]
-  line "STC (8.0+0.08s)" [2638, 2661]
-  line "LTC (60.0+0.60s)" [2970, 2975]
-  line "VLTC (2m24s+1.12s)" [3098, 3058]
-  line "VLTC (2m24s+1.12s)" [3098, 3058]
+  line "STC (8.0+0.08s)" [2639, 2662]
+  line "STC (8.0+0.08s)" [2639, 2662]
+  line "LTC (60.0+0.60s)" [2971, 2977]
+  line "VLTC (2m24s+1.12s)" [3100, 3059]
+  line "VLTC (2m24s+1.12s)" [3100, 3059]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
