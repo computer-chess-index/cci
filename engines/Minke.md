@@ -8,10 +8,10 @@ Home: https://github.com/enfmarinho/Minke
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.0.0 | 2026-04-25 | 3198<sub>(+25) | 3402<sub>(+47) | 3471<sub>(+46) |  |
-| 5.0.0 | 2026-02-13 | 3173<sub>(+60) | 3355<sub>(+43) | 3425<sub>(+89) |  |
-| 4.0.0 | 2025-12-29 | 3113<sub>(+94) | 3312<sub>(+63) | 3336<sub>(+50) |  |
-| 3.0.0 | 2025-10-20 | 3019<sub>(+new) | 3249<sub>(+new) | 3286<sub>(+new) |  |
+| 6.0.0 | 2026-04-25 | 3202<sub>(+28) | 3398<sub>(+42) | 3471<sub>(+46) |  |
+| 5.0.0 | 2026-02-13 | 3174<sub>(+60) | 3356<sub>(+43) | 3425<sub>(+88) |  |
+| 4.0.0 | 2025-12-29 | 3114<sub>(+94) | 3313<sub>(+62) | 3337<sub>(+50) |  |
+| 3.0.0 | 2025-10-20 | 3020<sub>(+new) | 3251<sub>(+new) | 3287<sub>(+new) |  |
 | 2.0.0 | 2025-09-14 |  |  |  |  |
 | 1.0.0 | 2025-08-26 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -29,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-30 06:25:49
+Generated: 2026-05-01 06:25:51
 
 ## Ratings Verlauf
 
@@ -38,11 +38,11 @@ Generated: 2026-04-30 06:25:49
 xychart-beta
   x-axis ["3.0.0", "4.0.0", "5.0.0", "6.0.0"]
   y-axis "Elo Rating" 3000 --> 3500
-  line "STC (8.0+0.08s)" [3019, 3113, 3173, 3198]
-  line "STC (8.0+0.08s)" [3019, 3113, 3173, 3198]
-  line "LTC (60.0+0.60s)" [3249, 3312, 3355, 3402]
-  line "VLTC (2m24s+1.12s)" [3286, 3336, 3425, 3471]
-  line "VLTC (2m24s+1.12s)" [3286, 3336, 3425, 3471]
+  line "STC (8.0+0.08s)" [3020, 3114, 3174, 3202]
+  line "STC (8.0+0.08s)" [3020, 3114, 3174, 3202]
+  line "LTC (60.0+0.60s)" [3251, 3313, 3356, 3398]
+  line "VLTC (2m24s+1.12s)" [3287, 3337, 3425, 3471]
+  line "VLTC (2m24s+1.12s)" [3287, 3337, 3425, 3471]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
