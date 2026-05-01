@@ -8,8 +8,8 @@ Home: https://github.com/CMCanavessi/facon
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.4 | 2026-04-25 | 2034<sub>(+508) | 2311<sub>(+426) | 2390<sub>(+384) |  |
-| 1.3 | 2026-04-11 | 1526<sub>(+new) | 1885<sub>(+new) | 2006<sub>(+new) |  |
+| 1.4 | 2026-04-25 | 2032<sub>(+505) | 2325<sub>(+439) | 2394<sub>(+388) |  |
+| 1.3 | 2026-04-11 | 1527<sub>(+new) | 1886<sub>(+new) | 2006<sub>(+new) |  |
 | 1.2 | 2026-03-24 |  |  |  |  |
 | 1.1 | 2026-03-11 |  |  |  |  |
 | 1.0 | 2026-03-05 |  |  |  |  |
@@ -28,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-30 06:24:07
+Generated: 2026-05-01 06:24:08
 
 ## Ratings Verlauf
 
@@ -37,11 +37,11 @@ Generated: 2026-04-30 06:24:07
 xychart-beta
   x-axis ["1.3", "1.4"]
   y-axis "Elo Rating" 1500 --> 2400
-  line "STC (8.0+0.08s)" [1526, 2034]
-  line "STC (8.0+0.08s)" [1526, 2034]
-  line "LTC (60.0+0.60s)" [1885, 2311]
-  line "VLTC (2m24s+1.12s)" [2006, 2390]
-  line "VLTC (2m24s+1.12s)" [2006, 2390]
+  line "STC (8.0+0.08s)" [1527, 2032]
+  line "STC (8.0+0.08s)" [1527, 2032]
+  line "LTC (60.0+0.60s)" [1886, 2325]
+  line "VLTC (2m24s+1.12s)" [2006, 2394]
+  line "VLTC (2m24s+1.12s)" [2006, 2394]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
