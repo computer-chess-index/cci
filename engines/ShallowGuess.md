@@ -8,8 +8,8 @@ Home: https://github.com/buildingwheels/ShallowGuess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1.0 | 2026-03-25 | 2331<sub>(-41) | 2762<sub>(+61) | 2950<sub>(+165) |  |
-| 1.0.0 | 2026-02-24 | 2372<sub>(+new) | 2701<sub>(+new) | 2785<sub>(+new) |  |
+| 1.1.0 | 2026-03-25 | 2333<sub>(-40) | 2763<sub>(+60) | 2950<sub>(+164) |  |
+| 1.0.0 | 2026-02-24 | 2373<sub>(+new) | 2703<sub>(+new) | 2786<sub>(+new) |  |
 | 0.4.0 | 2025-04-27 |  |  |  |  |
 | 0.3.0 | 2025-03-25 |  |  |  |  |
 | 0.2.1 | 2025-03-24 |  |  |  |  |
@@ -29,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-30 06:27:55
+Generated: 2026-05-01 06:28:00
 
 ## Ratings Verlauf
 
@@ -38,11 +38,11 @@ Generated: 2026-04-30 06:27:55
 xychart-beta
   x-axis ["1.0.0", "1.1.0"]
   y-axis "Elo Rating" 2300 --> 3000
-  line "STC (8.0+0.08s)" [2372, 2331]
-  line "STC (8.0+0.08s)" [2372, 2331]
-  line "LTC (60.0+0.60s)" [2701, 2762]
-  line "VLTC (2m24s+1.12s)" [2785, 2950]
-  line "VLTC (2m24s+1.12s)" [2785, 2950]
+  line "STC (8.0+0.08s)" [2373, 2333]
+  line "STC (8.0+0.08s)" [2373, 2333]
+  line "LTC (60.0+0.60s)" [2703, 2763]
+  line "VLTC (2m24s+1.12s)" [2786, 2950]
+  line "VLTC (2m24s+1.12s)" [2786, 2950]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
