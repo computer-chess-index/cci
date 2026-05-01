@@ -8,9 +8,9 @@ Home: https://github.com/sgtqwq/Gecko
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.25.1 | 2026-04-12 | 2529<sub>(+90) | 2799<sub>(+96) | 2877<sub>(+115) |  |
-| 0.25 | 2026-04-06 | 2439<sub>(+531) | 2703<sub>(+602) | 2762<sub>(+567) |  |
-| 0.08 | 2026-02-05 | 1908 | 2101 | 2195 |  |
+| 0.25.1 | 2026-04-12 | 2529<sub>(+88) | 2799<sub>(+95) | 2877<sub>(+115) |  |
+| 0.25 | 2026-04-06 | 2441<sub>(+533) | 2704<sub>(+602) | 2762<sub>(+566) |  |
+| 0.08 | 2026-02-05 | 1908 | 2102 | 2196 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Gecko+<version>&body=###%20Engine%20name%0AGecko%0A%0A###%20Version%0A0.25.1" target="_blank">Submit new version</a>
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-04-30 06:24:25
+Generated: 2026-05-01 06:24:26
 
 ## Ratings Verlauf
 
@@ -35,11 +35,11 @@ Generated: 2026-04-30 06:24:25
 xychart-beta
   x-axis ["0.08", "0.25", "0.25.1"]
   y-axis "Elo Rating" 1900 --> 2900
-  line "STC (8.0+0.08s)" [1908, 2439, 2529]
-  line "STC (8.0+0.08s)" [1908, 2439, 2529]
-  line "LTC (60.0+0.60s)" [2101, 2703, 2799]
-  line "VLTC (2m24s+1.12s)" [2195, 2762, 2877]
-  line "VLTC (2m24s+1.12s)" [2195, 2762, 2877]
+  line "STC (8.0+0.08s)" [1908, 2441, 2529]
+  line "STC (8.0+0.08s)" [1908, 2441, 2529]
+  line "LTC (60.0+0.60s)" [2102, 2704, 2799]
+  line "VLTC (2m24s+1.12s)" [2196, 2762, 2877]
+  line "VLTC (2m24s+1.12s)" [2196, 2762, 2877]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
