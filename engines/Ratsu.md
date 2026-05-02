@@ -8,9 +8,9 @@ Home: https://github.com/ranzuh/ratsu
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1.0 | 2026-04-21 | 1751<sub>(+84) | 2040<sub>(+128) | 2136<sub>(+150) |  |
-| 1.0.0 | 2026-02-20 | 1667<sub>(+109) | 1912<sub>(+83) | 1986<sub>(+95) |  |
-| 0.9.0 | 2026-01-21 | 1558 | 1829 | 1891 |  |
+| 1.1.0 | 2026-04-21 | 1750<sub>(+80) | 2051<sub>(+135) | 2142<sub>(+152) |  |
+| 1.0.0 | 2026-02-20 | 1670<sub>(+108) | 1916<sub>(+83) | 1990<sub>(+95) |  |
+| 0.9.0 | 2026-01-21 | 1562 | 1833 | 1895 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Ratsu+<version>&body=###%20Engine%20name%0ARatsu%0A%0A###%20Version%0A1.1.0" target="_blank">Submit new version</a>
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-01 06:27:15
+Generated: 2026-05-02 06:27:17
 
 ## Ratings Verlauf
 
@@ -35,11 +35,11 @@ Generated: 2026-05-01 06:27:15
 xychart-beta
   x-axis ["0.9.0", "1.0.0", "1.1.0"]
   y-axis "Elo Rating" 1500 --> 2200
-  line "STC (8.0+0.08s)" [1558, 1667, 1751]
-  line "STC (8.0+0.08s)" [1558, 1667, 1751]
-  line "LTC (60.0+0.60s)" [1829, 1912, 2040]
-  line "VLTC (2m24s+1.12s)" [1891, 1986, 2136]
-  line "VLTC (2m24s+1.12s)" [1891, 1986, 2136]
+  line "STC (8.0+0.08s)" [1562, 1670, 1750]
+  line "STC (8.0+0.08s)" [1562, 1670, 1750]
+  line "LTC (60.0+0.60s)" [1833, 1916, 2051]
+  line "VLTC (2m24s+1.12s)" [1895, 1990, 2142]
+  line "VLTC (2m24s+1.12s)" [1895, 1990, 2142]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
