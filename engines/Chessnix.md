@@ -8,11 +8,11 @@ Home: https://github.com/ericlangedijk/chessnix/
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.4 | 2026-04-28 | 2920<sub>(+new) | 3181<sub>(+new) | 3272<sub>(+new) |  |
+| 1.4 | 2026-04-28 | 2924<sub>(+new) | 3185<sub>(+new) | 3275<sub>(+new) |  |
 | 0.0 | 2026-02-25 |  |  |  |  |
-| 1.3 | 2026-02-15 | 2911<sub>(+253) | 3108<sub>(+288) | 3208<sub>(+227) |  |
-| 1.2 | 2025-12-12 | 2658<sub>(+286) | 2820<sub>(+175) | 2981<sub>(+257) |  |
-| 1.0 | 2025-11-08 | 2372<sub>(+new) | 2645<sub>(+new) | 2724<sub>(+new) | too many irregular games |
+| 1.3 | 2026-02-15 | 2915<sub>(+253) | 3112<sub>(+289) | 3210<sub>(+225) |  |
+| 1.2 | 2025-12-12 | 2662<sub>(+286) | 2823<sub>(+174) | 2985<sub>(+257) |  |
+| 1.0 | 2025-11-08 | 2376<sub>(+new) | 2649<sub>(+new) | 2728<sub>(+new) | too many irregular games |
 | 0.1 | 2025-10-03 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -29,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-01 06:23:25
+Generated: 2026-05-02 06:23:23
 
 ## Ratings Verlauf
 
@@ -38,11 +38,11 @@ Generated: 2026-05-01 06:23:25
 xychart-beta
   x-axis ["1.0", "1.2", "1.3", "1.4"]
   y-axis "Elo Rating" 2300 --> 3300
-  line "STC (8.0+0.08s)" [2372, 2658, 2911, 2920]
-  line "STC (8.0+0.08s)" [2372, 2658, 2911, 2920]
-  line "LTC (60.0+0.60s)" [2645, 2820, 3108, 3181]
-  line "VLTC (2m24s+1.12s)" [2724, 2981, 3208, 3272]
-  line "VLTC (2m24s+1.12s)" [2724, 2981, 3208, 3272]
+  line "STC (8.0+0.08s)" [2376, 2662, 2915, 2924]
+  line "STC (8.0+0.08s)" [2376, 2662, 2915, 2924]
+  line "LTC (60.0+0.60s)" [2649, 2823, 3112, 3185]
+  line "VLTC (2m24s+1.12s)" [2728, 2985, 3210, 3275]
+  line "VLTC (2m24s+1.12s)" [2728, 2985, 3210, 3275]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
