@@ -4,7 +4,7 @@ Author: Chris Moreton
 
 Home: https://github.com/chris-moreton/rivalchess-uci
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -33,4 +33,21 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:27:16
+Generated: 2026-05-03 07:43:24
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 40.0.0 |  |  |  |  |  |  |  |
+| 37.0.0 |  |  |  |  |  |  |  |
+| 39.0.0-1 |  |  |  |  |  |  |  |
+| 36.0.0-1 |  |  |  |  |  |  |  |
+| 32.0.11-1 |  |  |  |  |  |  |  |
+| 32.0.0-1 |  |  |  |  |  |  |  |
+| 31.0.5-1 |  |  |  |  |  |  |  |
+| 31.0.4-1 |  |  |  |  |  |  |  |
+| 31.0.2-1 |  |  |  |  |  |  |  |
+| 31.0.0 |  |  |  |  |  |  |  |
