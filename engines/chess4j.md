@@ -4,7 +4,7 @@ Author: James Swafford
 
 Home: https://github.com/jswaff/chess4j
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -30,4 +30,21 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:23:17
+Generated: 2026-05-03 07:36:06
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 6.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2344 | 28 | 444 | 49% | 2357 | 30% |
+| 6.2 | LTC <sub>(60.0+0.60s)</sub> | 2256 | 28 | 422 | 50% | 2246 | 28% |
+| 6.2 | STC <sub>(8.0+0.08s)</sub> | 1890 | 27 | 500 | 51% | 1883 | 21% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 6.1 |  |  |  |  |  |  |  |
+| 6.0 |  |  |  |  |  |  |  |
+| 5.1 |  |  |  |  |  |  |  |
+| 5.0 |  |  |  |  |  |  |  |
+| 4.0 |  |  |  |  |  |  |  |
+| 3.5 |  |  |  |  |  |  |  |
