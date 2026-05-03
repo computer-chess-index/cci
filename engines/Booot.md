@@ -4,7 +4,7 @@ Author: Alex Morozov
 
 Home: https://github.com/booot76/Booot-chess-engine
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -38,4 +38,32 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:22:52
+Generated: 2026-05-03 07:35:40
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 7.4 | VLTC <sub>(2m24s+1.12s)</sub> | 3529 | 25 | 372 | 51% | 3514 | 80% |
+| 7.4 | LTC <sub>(60.0+0.60s)</sub> | 3491 | 23 | 448 | 50% | 3474 | 76% |
+| 7.4 | STC <sub>(8.0+0.08s)</sub> | 3279 | 22 | 568 | 50% | 3271 | 58% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 7.3 | D1 | 1733 | 322 | 20 | 100% | 957 | 0% |
+| 7.3 | D2 | 2001 | 310 | 40 | 100% | 1084 | 0% |
+| 7.3 | D3 | 2168 | 307 | 60 | 100% | 1161 | 0% |
+| 7.3 | D4 | 1832 | 227 | 40 | 98% | 1068 | 0% |
+| 7.2 |  |  |  |  |  |  |  |
+| 7.1 |  |  |  |  |  |  |  |
+| 7.0.0 |  |  |  |  |  |  |  |
+| 6.5.0 |  |  |  |  |  |  |  |
+| 6.4.0 |  |  |  |  |  |  |  |
+| 6.3.0 |  |  |  |  |  |  |  |
+| 6.2.0 |  |  |  |  |  |  |  |
+| 6.1.0 |  |  |  |  |  |  |  |
+| 6.0.2 |  |  |  |  |  |  |  |
+| 6.0.1 |  |  |  |  |  |  |  |
+| 5.2.0 |  |  |  |  |  |  |  |
+| 5.1.0 |  |  |  |  |  |  |  |
+| 4.15.1 |  |  |  |  |  |  |  |
