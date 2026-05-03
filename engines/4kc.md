@@ -4,7 +4,7 @@ Author: Gediminas Masaitis
 
 Home: https://github.com/GediminasMasaitis/4k-dot-c
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -34,7 +34,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:22:02
+Generated: 2026-05-03 07:34:48
 
 ## Ratings Verlauf
 
@@ -52,3 +52,28 @@ xychart-beta
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
 <p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
+
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 8.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2988 | 29 | 382 | 52% | 2967 | 38% |
+| 8.0 | LTC <sub>(60.0+0.60s)</sub> | 2862 | 29 | 366 | 51% | 2854 | 40% |
+| 8.0 | STC <sub>(8.0+0.08s)</sub> | 2633 | 28 | 416 | 49% | 2630 | 34% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 6.0 |  |  |  |  |  |  |  |
+| 5.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2905 | 32 | 296 | 49% | 2917 | 39% |
+| 5.0 | LTC <sub>(60.0+0.60s)</sub> | 2835 | 31 | 324 | 48% | 2850 | 37% |
+| 5.0 | STC <sub>(8.0+0.08s)</sub> | 2531 | 30 | 396 | 51% | 2526 | 25% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 4.41 |  |  |  |  |  |  |  |
+| 4.0 |  |  |  |  |  |  |  |
+| 3.0 |  |  |  |  |  |  |  |
+| 2.0 |  |  |  |  |  |  |  |
+| 1.0 |  |  |  |  |  |  |  |
+| 0.99 |  |  |  |  |  |  |  |
+| 0.69 |  |  |  |  |  |  |  |
+| 0.50 |  |  |  |  |  |  |  |
