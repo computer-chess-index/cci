@@ -4,7 +4,7 @@ Author: Deshawn Mohan-Smith
 
 Home: https://github.com/GoldenRare/Revolver
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:27:08
+Generated: 2026-05-03 07:43:16
 
 ## Ratings Verlauf
 
@@ -43,3 +43,19 @@ xychart-beta
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
 <p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
+
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2862 | 43 | 168 | 55% | 2812 | 38% |
+| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 2786 | 51 | 120 | 55% | 2745 | 39% |
+| 2.0 | STC <sub>(8.0+0.08s)</sub> | 2539 | 47 | 148 | 48% | 2558 | 29% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2611 | 27 | 450 | 46% | 2651 | 32% |
+| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2552 | 29 | 408 | 49% | 2562 | 25% |
+| 1.0 | STC <sub>(8.0+0.08s)</sub> | 2306 | 26 | 516 | 51% | 2294 | 29% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
