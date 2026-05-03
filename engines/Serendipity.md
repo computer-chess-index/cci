@@ -4,7 +4,7 @@ Author: Xu Shawn
 
 Home: https://github.com/xu-shawn/Serendipity
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -30,4 +30,18 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:27:39
+Generated: 2026-05-03 07:46:18
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.0 |  |  |  |  |  |  |  |
+| 0.4.1 |  |  |  |  |  |  |  |
+| 0.4 |  |  |  |  |  |  |  |
+| 0.3.1 |  |  |  |  |  |  |  |
+| 0.3 |  |  |  |  |  |  |  |
+| 0.2 |  |  |  |  |  |  |  |
+| 0.1 |  |  |  |  |  |  |  |
