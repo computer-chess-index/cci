@@ -4,7 +4,7 @@ Author: Anik Patel
 
 Home: https://github.com/Bobingstern/Tarnished
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -29,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:28:10
+Generated: 2026-05-03 07:46:50
 
 ## Ratings Verlauf
 
@@ -47,3 +47,23 @@ xychart-beta
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
 <p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
+
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 5.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3592 | 23 | 434 | 50% | 3594 | 86% |
+| 5.0 | LTC <sub>(60.0+0.60s)</sub> | 3571 | 23 | 434 | 51% | 3564 | 85% |
+| 5.0 | STC <sub>(8.0+0.08s)</sub> | 3409 | 23 | 458 | 50% | 3406 | 72% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 4.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3524 | 29 | 282 | 51% | 3515 | 78% |
+| 4.0 | LTC <sub>(60.0+0.60s)</sub> | 3476 | 34 | 220 | 51% | 3459 | 75% |
+| 4.0 | STC <sub>(8.0+0.08s)</sub> | 3298 | 29 | 316 | 54% | 3262 | 68% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 3.0 |  |  |  |  |  |  |  |
+| 2.1 |  |  |  |  |  |  |  |
+| 2.0 |  |  |  |  |  |  |  |
+| 1.0 |  |  |  |  |  |  |  |
