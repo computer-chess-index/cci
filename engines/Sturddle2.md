@@ -4,7 +4,7 @@ Author: Cristian Vlasceanu
 
 Home: https://github.com/cristivlas/sturddle-2
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -30,7 +30,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:28:02
+Generated: 2026-05-03 07:46:42
 
 ## Ratings Verlauf
 
@@ -48,3 +48,24 @@ xychart-beta
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
 <p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
+
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.5.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3212 | 24 | 482 | 52% | 3190 | 52% |
+| 2.5.0 | LTC <sub>(60.0+0.60s)</sub> | 3077 | 27 | 408 | 49% | 3083 | 47% |
+| 2.5.0 | STC <sub>(8.0+0.08s)</sub> | 2755 | 26 | 492 | 51% | 2742 | 33% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.4.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3137 | 34 | 236 | 49% | 3143 | 53% |
+| 2.4.0 | LTC <sub>(60.0+0.60s)</sub> | 3051 | 37 | 224 | 51% | 3033 | 45% |
+| 2.4.0 | STC <sub>(8.0+0.08s)</sub> | 2668 | 36 | 248 | 50% | 2664 | 30% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.3.1 |  |  |  |  |  |  |  |
+| 2.3 |  |  |  |  |  |  |  |
+| 2.02 |  |  |  |  |  |  |  |
+| 2.01 |  |  |  |  |  |  |  |
+| 2.00 |  |  |  |  |  |  |  |
