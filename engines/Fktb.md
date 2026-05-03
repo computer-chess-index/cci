@@ -4,7 +4,7 @@ Author: Landon Peng
 
 Home: https://github.com/lunbun/fktb
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:24:05
+Generated: 2026-05-03 07:38:18
 
 ## Ratings Verlauf
 
@@ -43,3 +43,19 @@ xychart-beta
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
 <p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
+
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0.0.77 | VLTC <sub>(2m24s+1.12s)</sub> | 2269 | 26 | 468 | 52% | 2252 | 32% |
+| 0.0.77 | LTC <sub>(60.0+0.60s)</sub> | 2199 | 28 | 436 | 50% | 2196 | 30% |
+| 0.0.77 | STC <sub>(8.0+0.08s)</sub> | 1897 | 26 | 512 | 49% | 1912 | 27% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0.0.76 | VLTC <sub>(2m24s+1.12s)</sub> | 2260 | 52 | 132 | 48% | 2287 | 22% |
+| 0.0.76 | LTC <sub>(60.0+0.60s)</sub> | 2180 | 45 | 172 | 49% | 2190 | 23% |
+| 0.0.76 | STC <sub>(8.0+0.08s)</sub> | 1948 | 49 | 140 | 48% | 1967 | 27% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
