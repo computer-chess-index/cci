@@ -4,7 +4,7 @@ Author: John Merlino
 
 Home: https://github.com/JVMerlino/Myrddin
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -30,7 +30,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:25:46
+Generated: 2026-05-03 07:41:19
 
 ## Ratings Verlauf
 
@@ -48,3 +48,24 @@ xychart-beta
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
 <p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
+
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0.95 | VLTC <sub>(2m24s+1.12s)</sub> | 3069 | 32 | 294 | 52% | 3048 | 43% |
+| 0.95 | LTC <sub>(60.0+0.60s)</sub> | 2989 | 33 | 286 | 49% | 2997 | 41% |
+| 0.95 | STC <sub>(8.0+0.08s)</sub> | 2681 | 31 | 348 | 53% | 2649 | 33% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0.94 | VLTC <sub>(2m24s+1.12s)</sub> | 3104 | 27 | 380 | 50% | 3102 | 52% |
+| 0.94 | LTC <sub>(60.0+0.60s)</sub> | 2975 | 28 | 382 | 53% | 2944 | 41% |
+| 0.94 | STC <sub>(8.0+0.08s)</sub> | 2643 | 27 | 476 | 50% | 2626 | 31% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0.93 |  |  |  |  |  |  |  |
+| 0.92 |  |  |  |  |  |  |  |
+| 0.91 |  |  |  |  |  |  |  |
+| 0.90 |  |  |  |  |  |  |  |
+| 0.89 |  |  |  |  |  |  |  |
