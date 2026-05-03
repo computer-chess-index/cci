@@ -4,7 +4,7 @@ Author: Matthias Lang
 
 Home: https://github.com/matthiaslang/jackychess
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -40,4 +40,31 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:24:51
+Generated: 2026-05-03 07:39:17
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 25.12 | VLTC <sub>(2m24s+1.12s)</sub> | 2804 | 28 | 420 | 49% | 2813 | 33% |
+| 25.12 | LTC <sub>(60.0+0.60s)</sub> | 2695 | 27 | 440 | 52% | 2680 | 37% |
+| 25.12 | STC <sub>(8.0+0.08s)</sub> | 2290 | 44 | 180 | 54% | 2256 | 25% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 25.04 |  |  |  |  |  |  |  |
+| 24.06 |  |  |  |  |  |  |  |
+| 24.04 |  |  |  |  |  |  |  |
+| 23.12 |  |  |  |  |  |  |  |
+| 23.06 |  |  |  |  |  |  |  |
+| 0.14.3 |  |  |  |  |  |  |  |
+| 0.13.4 |  |  |  |  |  |  |  |
+| 0.13.1 |  |  |  |  |  |  |  |
+| 0.13.0 |  |  |  |  |  |  |  |
+| 0.12.0 |  |  |  |  |  |  |  |
+| 0.10.0 |  |  |  |  |  |  |  |
+| 0.9.14 |  |  |  |  |  |  |  |
+| 0.9.13 |  |  |  |  |  |  |  |
+| 0.9.12 |  |  |  |  |  |  |  |
+| 0.9.11 |  |  |  |  |  |  |  |
+| 0.9.10.1 |  |  |  |  |  |  |  |
