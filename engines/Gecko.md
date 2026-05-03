@@ -4,7 +4,7 @@ Author: Bingwen Yang
 
 Home: https://github.com/sgtqwq/Gecko
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:24:17
+Generated: 2026-05-03 07:38:43
 
 ## Ratings Verlauf
 
@@ -45,3 +45,27 @@ xychart-beta
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
 <p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
+
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0.30 | VLTC <sub>(2m24s+1.12s)</sub> | 2955 | 43 | 170 | 49% | 2961 | 38% |
+| 0.30 | LTC <sub>(60.0+0.60s)</sub> | 2907 | 40 | 196 | 46% | 2938 | 38% |
+| 0.30 | STC <sub>(8.0+0.08s)</sub> | 2565 | 45 | 168 | 51% | 2549 | 23% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0.25.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2881 | 31 | 328 | 51% | 2876 | 37% |
+| 0.25.1 | LTC <sub>(60.0+0.60s)</sub> | 2804 | 32 | 312 | 50% | 2805 | 33% |
+| 0.25.1 | STC <sub>(8.0+0.08s)</sub> | 2533 | 31 | 356 | 51% | 2525 | 25% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0.25 | VLTC <sub>(2m24s+1.12s)</sub> | 2766 | 36 | 236 | 55% | 2716 | 45% |
+| 0.25 | LTC <sub>(60.0+0.60s)</sub> | 2708 | 36 | 228 | 57% | 2645 | 47% |
+| 0.25 | STC <sub>(8.0+0.08s)</sub> | 2445 | 37 | 236 | 55% | 2399 | 36% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0.08 | VLTC <sub>(2m24s+1.12s)</sub> | 2201 | 28 | 392 | 46% | 2250 | 40% |
+| 0.08 | LTC <sub>(60.0+0.60s)</sub> | 2106 | 29 | 384 | 48% | 2134 | 35% |
+| 0.08 | STC <sub>(8.0+0.08s)</sub> | 1912 | 31 | 356 | 48% | 1936 | 31% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
