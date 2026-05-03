@@ -4,7 +4,7 @@ Author:
 
 Home: https://github.com/silentshark-uk/rexigon
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -24,4 +24,15 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:27:10
+Generated: 2026-05-03 07:43:18
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2488 | 29 | 452 | 50% | 2488 | 17% |
+| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2357 | 28 | 468 | 50% | 2361 | 17% |
+| 1.0 | STC <sub>(8.0+0.08s)</sub> | 2094 | 27 | 524 | 51% | 2080 | 13% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
