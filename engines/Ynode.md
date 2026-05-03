@@ -4,7 +4,7 @@ Author: oozturk777
 
 Home: https://github.com/oozturk777/ynode
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -32,7 +32,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:28:57
+Generated: 2026-05-03 07:47:37
 
 ## Ratings Verlauf
 
@@ -50,3 +50,26 @@ xychart-beta
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
 <p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
+
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0234 | VLTC <sub>(2m24s+1.12s)</sub> | 3437 | 28 | 306 | 49% | 3441 | 81% |
+| 0234 | LTC <sub>(60.0+0.60s)</sub> | 3378 | 28 | 304 | 50% | 3379 | 75% |
+| 0234 | STC <sub>(8.0+0.08s)</sub> | 3175 | 28 | 338 | 50% | 3179 | 59% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0219 | VLTC <sub>(2m24s+1.12s)</sub> | 3414 | 27 | 336 | 52% | 3389 | 79% |
+| 0219 | LTC <sub>(60.0+0.60s)</sub> | 3366 | 25 | 406 | 49% | 3359 | 72% |
+| 0219 | STC <sub>(8.0+0.08s)</sub> | 3187 | 24 | 490 | 53% | 3143 | 57% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0215 |  |  |  |  |  |  |  |
+| 0213 |  |  |  |  |  |  |  |
+| 0144 |  |  |  |  |  |  |  |
+| 0177 |  |  |  |  |  |  |  |
+| 0189 |  |  |  |  |  |  |  |
+| 0194 |  |  |  |  |  |  |  |
+| 0204 |  |  |  |  |  |  |  |
