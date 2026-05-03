@@ -4,7 +4,7 @@ Author: Saigautam Bonam
 
 Home: https://github.com/saisree27/Maelstrom
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -32,4 +32,23 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:25:24
+Generated: 2026-05-03 07:40:55
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 3.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3218 | 26 | 408 | 49% | 3220 | 62% |
+| 3.3.0 | LTC <sub>(60.0+0.60s)</sub> | 3116 | 27 | 378 | 54% | 3083 | 53% |
+| 3.3.0 | STC <sub>(8.0+0.08s)</sub> | 2790 | 26 | 488 | 51% | 2773 | 37% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 3.2.0 |  |  |  |  |  |  |  |
+| 3.1.1 |  |  |  |  |  |  |  |
+| 3.1.0 |  |  |  |  |  |  |  |
+| 3.0.0 |  |  |  |  |  |  |  |
+| 2.1.0 |  |  |  |  |  |  |  |
+| 2.0.0 |  |  |  |  |  |  |  |
+| 1.0.1 |  |  |  |  |  |  |  |
+| 1.0.0 |  |  |  |  |  |  |  |
