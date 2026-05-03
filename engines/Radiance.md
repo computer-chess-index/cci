@@ -4,7 +4,7 @@ Author: Paul-Elie Pipelin
 
 Home: https://github.com/ppipelin/radiance
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -29,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:26:55
+Generated: 2026-05-03 07:43:03
 
 ## Ratings Verlauf
 
@@ -47,3 +47,26 @@ xychart-beta
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
 <p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
+
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 4.4 | VLTC <sub>(2m24s+1.12s)</sub> | 2260 | 39 | 234 | 51% | 2249 | 21% |
+| 4.4 | LTC <sub>(60.0+0.60s)</sub> | 2115 | 36 | 270 | 51% | 2101 | 25% |
+| 4.4 | STC <sub>(8.0+0.08s)</sub> | 1752 | 36 | 286 | 51% | 1740 | 19% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 4.3 | VLTC <sub>(2m24s+1.12s)</sub> | 2140 | 30 | 412 | 54% | 2099 | 18% |
+| 4.3 | LTC <sub>(60.0+0.60s)</sub> | 1991 | 31 | 362 | 49% | 2001 | 23% |
+| 4.3 | STC <sub>(8.0+0.08s)</sub> | 1697 | 32 | 360 | 49% | 1706 | 22% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 4.2 | VLTC <sub>(2m24s+1.12s)</sub> | 1932 | 36 | 304 | 45% | 2025 | 19% |
+| 4.2 | LTC <sub>(60.0+0.60s)</sub> | 1881 | 39 | 246 | 47% | 1937 | 18% |
+| 4.2 | STC <sub>(8.0+0.08s)</sub> | 1604 | 34 | 328 | 45% | 1682 | 17% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 4.1 |  |  |  |  |  |  |  |
+| 4.0.1 |  |  |  |  |  |  |  |
+| 4.0 |  |  |  |  |  |  |  |
