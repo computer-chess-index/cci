@@ -4,7 +4,7 @@ Author: Jon Dart
 
 Home: https://github.com/jdart1/arasan-chess
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:22:33
+Generated: 2026-05-03 07:35:21
 
 ## Ratings Verlauf
 
@@ -44,3 +44,20 @@ xychart-beta
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
 <p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
+
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 25.4 | VLTC <sub>(2m24s+1.12s)</sub> | 3536 | 28 | 282 | 50% | 3537 | 88% |
+| 25.4 | LTC <sub>(60.0+0.60s)</sub> | 3486 | 27 | 320 | 50% | 3483 | 80% |
+| 25.4 | STC <sub>(8.0+0.08s)</sub> | 3282 | 28 | 344 | 52% | 3270 | 64% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 25.3 | VLTC <sub>(2m24s+1.12s)</sub> | 3517 | 26 | 356 | 51% | 3511 | 82% |
+| 25.3 | LTC <sub>(60.0+0.60s)</sub> | 3474 | 26 | 360 | 51% | 3467 | 78% |
+| 25.3 | STC <sub>(8.0+0.08s)</sub> | 3287 | 24 | 488 | 52% | 3271 | 59% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 25.2 |  |  |  |  |  |  |  |
