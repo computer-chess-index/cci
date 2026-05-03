@@ -4,7 +4,7 @@ Author: Carbecq
 
 Home: https://github.com/Carbecq/Zangdar
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -39,7 +39,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:29:01
+Generated: 2026-05-03 07:47:41
 
 ## Ratings Verlauf
 
@@ -57,3 +57,39 @@ xychart-beta
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
 <p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
+
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 6.1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3444 | 26 | 358 | 50% | 3445 | 75% |
+| 6.1.1 | LTC <sub>(60.0+0.60s)</sub> | 3420 | 27 | 356 | 50% | 3417 | 71% |
+| 6.1.1 | STC <sub>(8.0+0.08s)</sub> | 3245 | 27 | 372 | 51% | 3239 | 56% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 6.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3476 | 31 | 256 | 50% | 3475 | 77% |
+| 6.1 | LTC <sub>(60.0+0.60s)</sub> | 3416 | 27 | 332 | 49% | 3418 | 75% |
+| 6.1 | STC <sub>(8.0+0.08s)</sub> | 3193 | 32 | 276 | 51% | 3187 | 48% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 6 | VLTC <sub>(2m24s+1.12s)</sub> | 3451 | 36 | 192 | 50% | 3451 | 76% |
+| 6 | LTC <sub>(60.0+0.60s)</sub> | 3398 | 33 | 228 | 52% | 3389 | 71% |
+| 6 | STC <sub>(8.0+0.08s)</sub> | 3191 | 34 | 244 | 49% | 3198 | 52% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 5.00.02 | VLTC <sub>(2m24s+1.12s)</sub> | 3436 | 27 | 356 | 54% | 3398 | 74% |
+| 5.00.02 | LTC <sub>(60.0+0.60s)</sub> | 3393 | 31 | 272 | 51% | 3371 | 71% |
+| 5.00.02 | STC <sub>(8.0+0.08s)</sub> | 3179 | 32 | 280 | 55% | 3123 | 59% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 5.00.01 |  |  |  |  |  |  |  |
+| 5 |  |  |  |  |  |  |  |
+| 4.04.01 |  |  |  |  |  |  |  |
+| 4.04 |  |  |  |  |  |  |  |
+| 4.01 |  |  |  |  |  |  |  |
+| 3.04 |  |  |  |  |  |  |  |
+| 2.31.04 |  |  |  |  |  |  |  |
+| 2.31 |  |  |  |  |  |  |  |
+| 2.30 |  |  |  |  |  |  |  |
+| 2.29.01 |  |  |  |  |  |  |  |
+| 2.29 |  |  |  |  |  |  |  |
+| 2.27.08 |  |  |  |  |  |  |  |
