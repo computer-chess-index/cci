@@ -4,7 +4,7 @@ Author: Christopher Crone
 
 Home: https://github.com/CJDalrymple/Yakka
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -29,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:28:55
+Generated: 2026-05-03 07:47:35
 
 ## Ratings Verlauf
 
@@ -47,3 +47,23 @@ xychart-beta
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
 <p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
+
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.5 | VLTC <sub>(2m24s+1.12s)</sub> | 3156 | 24 | 476 | 49% | 3162 | 54% |
+| 1.5 | LTC <sub>(60.0+0.60s)</sub> | 3078 | 28 | 356 | 48% | 3093 | 57% |
+| 1.5 | STC <sub>(8.0+0.08s)</sub> | 2812 | 27 | 422 | 50% | 2815 | 41% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.4 | VLTC <sub>(2m24s+1.12s)</sub> | 3005 | 34 | 260 | 52% | 2988 | 48% |
+| 1.4 | LTC <sub>(60.0+0.60s)</sub> | 2965 | 30 | 336 | 56% | 2907 | 42% |
+| 1.4 | STC <sub>(8.0+0.08s)</sub> | 2700 | 36 | 264 | 53% | 2661 | 32% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.3 |  |  |  |  |  |  |  |
+| 1.2 |  |  |  |  |  |  |  |
+| 1.1 |  |  |  |  |  |  |  |
+| 1.0 |  |  |  |  |  |  |  |
