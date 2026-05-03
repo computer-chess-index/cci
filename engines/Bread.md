@@ -4,7 +4,7 @@ Author:
 
 Home: https://github.com/Nonlinear2/Bread-Engine
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -44,7 +44,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:22:54
+Generated: 2026-05-03 07:35:42
 
 ## Ratings Verlauf
 
@@ -62,3 +62,41 @@ xychart-beta
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
 <p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
+
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 3.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3430 | 25 | 402 | 50% | 3433 | 74% |
+| 3.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3355 | 27 | 346 | 51% | 3348 | 71% |
+| 3.0.0 | STC <sub>(8.0+0.08s)</sub> | 3148 | 26 | 392 | 50% | 3151 | 58% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3299 | 30 | 294 | 50% | 3297 | 61% |
+| 2.1.1 | LTC <sub>(60.0+0.60s)</sub> | 3249 | 28 | 348 | 50% | 3239 | 55% |
+| 2.1.1 | STC <sub>(8.0+0.08s)</sub> | 3043 | 28 | 364 | 52% | 3027 | 47% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.1.0 |  |  |  |  |  |  |  |
+| 2.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3198 | 37 | 208 | 57% | 3092 | 55% |
+| 2.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3162 | 40 | 188 | 56% | 3079 | 53% |
+| 2.0.0 | STC <sub>(8.0+0.08s)</sub> | 2908 | 38 | 208 | 51% | 2877 | 44% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.6.0 |  |  |  |  |  |  |  |
+| 1.5.0 |  |  |  |  |  |  |  |
+| 1.4.0 |  |  |  |  |  |  |  |
+| 1.3.0 |  |  |  |  |  |  |  |
+| 1.2.0 |  |  |  |  |  |  |  |
+| 1.1.0 |  |  |  |  |  |  |  |
+| 1.0.0 |  |  |  |  |  |  |  |
+| 0.0.10 |  |  |  |  |  |  |  |
+| 0.0.9 |  |  |  |  |  |  |  |
+| 0.0.8 |  |  |  |  |  |  |  |
+| 0.0.7 |  |  |  |  |  |  |  |
+| 0.0.6 |  |  |  |  |  |  |  |
+| 0.0.5 |  |  |  |  |  |  |  |
+| 0.0.4 |  |  |  |  |  |  |  |
+| 0.0.3 |  |  |  |  |  |  |  |
+| 0.0.2 |  |  |  |  |  |  |  |
+| 0.0.1 |  |  |  |  |  |  |  |
