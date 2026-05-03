@@ -4,7 +4,7 @@ Author: Tarifa Gabriel
 
 Home: https://github.com/gabtar/aconcagua
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -36,7 +36,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:22:07
+Generated: 2026-05-03 07:34:53
 
 ## Ratings Verlauf
 
@@ -54,3 +54,36 @@ xychart-beta
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
 <p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
+
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 5.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2615 | 28 | 398 | 49% | 2619 | 39% |
+| 5.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2496 | 30 | 360 | 51% | 2488 | 33% |
+| 5.1.0 | STC <sub>(8.0+0.08s)</sub> | 2248 | 28 | 420 | 50% | 2248 | 28% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 5.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2502 | 42 | 196 | 51% | 2493 | 22% |
+| 5.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2498 | 37 | 246 | 49% | 2503 | 26% |
+| 5.0.0 | STC <sub>(8.0+0.08s)</sub> | 2205 | 34 | 290 | 50% | 2207 | 25% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 4.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2415 | 40 | 214 | 50% | 2421 | 27% |
+| 4.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2307 | 40 | 222 | 51% | 2291 | 23% |
+| 4.1.0 | STC <sub>(8.0+0.08s)</sub> | 1998 | 33 | 312 | 47% | 2024 | 23% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 4.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2357 | 46 | 172 | 41% | 2465 | 28% |
+| 4.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2228 | 55 | 116 | 47% | 2256 | 23% |
+| 4.0.0 | STC <sub>(8.0+0.08s)</sub> | 1944 | 62 | 92 | 47% | 1970 | 21% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 3.4.0 |  |  |  |  |  |  |  |
+| 3.3.0 |  |  |  |  |  |  |  |
+| 3.2.0 |  |  |  |  |  |  |  |
+| 3.1.0 |  |  |  |  |  |  |  |
+| 3.0.0 |  |  |  |  |  |  |  |
+| 2.1.0 |  |  |  |  |  |  |  |
+| 2.0.0 |  |  |  |  |  |  |  |
+| 1.1.0 |  |  |  |  |  |  |  |
+| 1.0.0 |  |  |  |  |  |  |  |
