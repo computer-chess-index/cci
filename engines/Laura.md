@@ -8,9 +8,9 @@ Home: https://github.com/HansTibberio/Laura
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.0 | 2026-04-29 | 1607<sub>(+235) | 1709<sub>(+17) | 1856<sub>(+140) |  |
-| 2.0.0 | 2026-04-23 | 1372<sub>(+58) | 1692<sub>(+196) | 1716<sub>(+292) |  |
-| 1.1.0 | 2026-01-26 | 1314<sub>(+new) | 1496<sub>(+new) | 1424<sub>(+new) |  |
+| 3.0.0 | 2026-04-29 | 1602<sub>(+230) | 1713<sub>(+21) | 1862<sub>(+146) |  |
+| 2.0.0 | 2026-04-23 | 1372<sub>(+60) | 1692<sub>(+196) | 1716<sub>(+292) |  |
+| 1.1.0 | 2026-01-26 | 1312<sub>(+new) | 1496<sub>(+new) | 1424<sub>(+new) |  |
 | 1.0.0 | 2025-05-30 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-02 06:25:17
+Generated: 2026-05-03 06:25:07
 
 ## Ratings Verlauf
 
@@ -36,11 +36,11 @@ Generated: 2026-05-02 06:25:17
 xychart-beta
   x-axis ["1.1.0", "2.0.0", "3.0.0"]
   y-axis "Elo Rating" 1300 --> 1900
-  line "STC (8.0+0.08s)" [1314, 1372, 1607]
-  line "STC (8.0+0.08s)" [1314, 1372, 1607]
-  line "LTC (60.0+0.60s)" [1496, 1692, 1709]
-  line "VLTC (2m24s+1.12s)" [1424, 1716, 1856]
-  line "VLTC (2m24s+1.12s)" [1424, 1716, 1856]
+  line "STC (8.0+0.08s)" [1312, 1372, 1602]
+  line "STC (8.0+0.08s)" [1312, 1372, 1602]
+  line "LTC (60.0+0.60s)" [1496, 1692, 1713]
+  line "VLTC (2m24s+1.12s)" [1424, 1716, 1862]
+  line "VLTC (2m24s+1.12s)" [1424, 1716, 1862]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
