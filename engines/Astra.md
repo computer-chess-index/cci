@@ -4,7 +4,7 @@ Author: Semih Özalp
 
 Home: https://github.com/h1me01/Astra
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -36,4 +36,27 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:22:39
+Generated: 2026-05-03 07:35:27
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 6.1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3556 | 24 | 416 | 52% | 3541 | 87% |
+| 6.1.1 | LTC <sub>(60.0+0.60s)</sub> | 3519 | 25 | 388 | 51% | 3506 | 81% |
+| 6.1.1 | STC <sub>(8.0+0.08s)</sub> | 3329 | 23 | 478 | 52% | 3312 | 66% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 6.1 |  |  |  |  |  |  |  |
+| 6.0 |  |  |  |  |  |  |  |
+| 5.2 |  |  |  |  |  |  |  |
+| 5.1.1 |  |  |  |  |  |  |  |
+| 5.1 |  |  |  |  |  |  |  |
+| 5.0 |  |  |  |  |  |  |  |
+| 4.1 |  |  |  |  |  |  |  |
+| 4.0.1 |  |  |  |  |  |  |  |
+| 4.0 |  |  |  |  |  |  |  |
+| 3.2 |  |  |  |  |  |  |  |
+| 3.1 |  |  |  |  |  |  |  |
+| 3.0 |  |  |  |  |  |  |  |
