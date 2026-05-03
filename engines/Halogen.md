@@ -4,7 +4,7 @@ Author: Kieren Pearson
 
 Home: https://github.com/KierenP/Halogen
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -43,7 +43,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:24:31
+Generated: 2026-05-03 07:38:56
 
 ## Ratings Verlauf
 
@@ -61,3 +61,37 @@ xychart-beta
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
 <p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
+
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 16.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3594 | 24 | 410 | 50% | 3594 | 88% |
+| 16.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3568 | 23 | 432 | 50% | 3567 | 85% |
+| 16.0.0 | STC <sub>(8.0+0.08s)</sub> | 3407 | 23 | 452 | 49% | 3410 | 75% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 15.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3571 | 27 | 324 | 52% | 3553 | 83% |
+| 15.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3515 | 30 | 276 | 52% | 3495 | 79% |
+| 15.0.0 | STC <sub>(8.0+0.08s)</sub> | 3332 | 32 | 256 | 54% | 3293 | 64% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 14 |  |  |  |  |  |  |  |
+| 13 |  |  |  |  |  |  |  |
+| 12 |  |  |  |  |  |  |  |
+| 11 |  |  |  |  |  |  |  |
+| 10 |  |  |  |  |  |  |  |
+| 9 |  |  |  |  |  |  |  |
+| 8.1 |  |  |  |  |  |  |  |
+| 8 |  |  |  |  |  |  |  |
+| 7 |  |  |  |  |  |  |  |
+| 6 |  |  |  |  |  |  |  |
+| 5 |  |  |  |  |  |  |  |
+| 4 |  |  |  |  |  |  |  |
+| 3.0 |  |  |  |  |  |  |  |
+| 2.7 |  |  |  |  |  |  |  |
+| 2.6.2a |  |  |  |  |  |  |  |
+| 2.5 |  |  |  |  |  |  |  |
+| 2.4 |  |  |  |  |  |  |  |
+| 2.3 |  |  |  |  |  |  |  |
