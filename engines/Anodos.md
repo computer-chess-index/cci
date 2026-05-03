@@ -4,7 +4,7 @@ Author: Tom Cant
 
 Home: https://github.com/tomcant/chess-rs
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -38,7 +38,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:22:26
+Generated: 2026-05-03 07:35:14
 
 ## Ratings Verlauf
 
@@ -56,3 +56,38 @@ xychart-beta
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
 <p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
+
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2542 | 30 | 394 | 49% | 2547 | 24% |
+| 1.3.0 | LTC <sub>(60.0+0.60s)</sub> | 2476 | 29 | 396 | 51% | 2466 | 28% |
+| 1.3.0 | STC <sub>(8.0+0.08s)</sub> | 2201 | 27 | 460 | 48% | 2218 | 26% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2439 | 38 | 244 | 52% | 2419 | 25% |
+| 1.2.0 | LTC <sub>(60.0+0.60s)</sub> | 2354 | 41 | 196 | 49% | 2364 | 28% |
+| 1.2.0 | STC <sub>(8.0+0.08s)</sub> | 2033 | 45 | 176 | 52% | 2016 | 20% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2196 | 37 | 256 | 51% | 2183 | 22% |
+| 1.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2071 | 44 | 180 | 50% | 2068 | 22% |
+| 1.1.0 | STC <sub>(8.0+0.08s)</sub> | 1832 | 40 | 228 | 50% | 1835 | 17% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2067 | 45 | 192 | 44% | 2164 | 18% |
+| 1.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2003 | 49 | 156 | 48% | 2002 | 17% |
+| 1.0.0 | STC <sub>(8.0+0.08s)</sub> | 1775 | 45 | 180 | 46% | 1825 | 20% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0.7.0 |  |  |  |  |  |  |  |
+| 0.6.0 |  |  |  |  |  |  |  |
+| 0.5.1 |  |  |  |  |  |  |  |
+| 0.5.0 |  |  |  |  |  |  |  |
+| 0.4.2 |  |  |  |  |  |  |  |
+| 0.4.1 |  |  |  |  |  |  |  |
+| 0.4.0 |  |  |  |  |  |  |  |
+| 0.3.0 |  |  |  |  |  |  |  |
+| 0.2.0 |  |  |  |  |  |  |  |
+| 0.1.1 |  |  |  |  |  |  |  |
+| 0.1.0 |  |  |  |  |  |  |  |
