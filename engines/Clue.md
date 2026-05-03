@@ -4,7 +4,7 @@ Author: Jean-Marc Astesana
 
 Home: https://github.com/fathzer-games/chesslib-uci-engine
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -26,4 +26,17 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:23:31
+Generated: 2026-05-03 07:36:27
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0.0.4 | VLTC <sub>(2m24s+1.12s)</sub> | 1908 | 248 | 16 | 6% | 2634 | 0% |
+| 0.0.4 | LTC <sub>(60.0+0.60s)</sub> | 1821 | 112 | 36 | 35% | 2048 | 14% |
+| 0.0.4 | STC <sub>(8.0+0.08s)</sub> | 1570 | 149 | 22 | 41% | 1759 | 9% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0.0.2 |  |  |  |  |  |  |  |
+| 0.0.1 |  |  |  |  |  |  |  |
