@@ -4,7 +4,7 @@ Author: Colin Jenkins
 
 Home: https://github.com/op12no2/lozza
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -34,7 +34,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:25:18
+Generated: 2026-05-03 07:39:43
 
 ## Ratings Verlauf
 
@@ -52,3 +52,31 @@ xychart-beta
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
 <p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
+
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 6 |  |  |  |  |  |  |  |
+| 2 |  |  |  |  |  |  |  |
+| 10 | VLTC <sub>(2m24s+1.12s)</sub> | 3160 | 27 | 390 | 50% | 3158 | 52% |
+| 10 | LTC <sub>(60.0+0.60s)</sub> | 3125 | 28 | 368 | 52% | 3101 | 49% |
+| 10 | STC <sub>(8.0+0.08s)</sub> | 2912 | 24 | 516 | 48% | 2928 | 40% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 9 | VLTC <sub>(2m24s+1.12s)</sub> | 3046 | 36 | 216 | 51% | 3035 | 52% |
+| 9 | LTC <sub>(60.0+0.60s)</sub> | 2948 | 40 | 182 | 48% | 2966 | 46% |
+| 9 | STC <sub>(8.0+0.08s)</sub> | 2658 | 49 | 128 | 50% | 2660 | 37% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 8 | VLTC <sub>(2m24s+1.12s)</sub> | 3078 | 38 | 198 | 51% | 3069 | 50% |
+| 8 | LTC <sub>(60.0+0.60s)</sub> | 2962 | 37 | 208 | 52% | 2943 | 52% |
+| 8 | STC <sub>(8.0+0.08s)</sub> | 2642 | 43 | 176 | 51% | 2631 | 30% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 7 |  |  |  |  |  |  |  |
+| 5.1 |  |  |  |  |  |  |  |
+| 5 |  |  |  |  |  |  |  |
+| 4 |  |  |  |  |  |  |  |
+| 3 |  |  |  |  |  |  |  |
+| 2.5 |  |  |  |  |  |  |  |
