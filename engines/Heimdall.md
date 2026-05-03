@@ -4,7 +4,7 @@ Author: Mattia Giambirtone
 
 Home: https://github.com/nocturn9x/heimdall
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -24,4 +24,15 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:24:33
+Generated: 2026-05-03 07:38:58
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.4.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3468 | 25 | 418 | 51% | 3456 | 69% |
+| 1.4.2 | LTC <sub>(60.0+0.60s)</sub> | 3411 | 28 | 336 | 51% | 3395 | 68% |
+| 1.4.2 | STC <sub>(8.0+0.08s)</sub> | 3166 | 24 | 490 | 51% | 3155 | 56% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
