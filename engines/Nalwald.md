@@ -4,7 +4,7 @@ Author: Jost Triller
 
 Home: https://github.com/tsoj/Nalwald
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -35,4 +35,23 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:25:49
+Generated: 2026-05-03 07:41:21
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 19 |  |  |  |  |  |  |  |
+| 18 |  |  |  |  |  |  |  |
+| 17.1 |  |  |  |  |  |  |  |
+| 16 |  |  |  |  |  |  |  |
+| 15 |  |  |  |  |  |  |  |
+| 14 |  |  |  |  |  |  |  |
+| 1.12 |  |  |  |  |  |  |  |
+| 1.11 |  |  |  |  |  |  |  |
+| 1.10 |  |  |  |  |  |  |  |
+| 1.9 |  |  |  |  |  |  |  |
+| 1.8.1 |  |  |  |  |  |  |  |
+| 1.8 |  |  |  |  |  |  |  |
