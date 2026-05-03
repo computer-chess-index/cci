@@ -4,7 +4,7 @@ Author: Tamas Kuzmics
 
 Home: https://github.com/tomitank/tomitankChess
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -33,7 +33,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:28:23
+Generated: 2026-05-03 07:47:03
 
 ## Ratings Verlauf
 
@@ -51,3 +51,27 @@ xychart-beta
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
 <p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
+
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2921 | 29 | 368 | 49% | 2928 | 42% |
+| 6.0 | LTC <sub>(60.0+0.60s)</sub> | 2861 | 31 | 326 | 50% | 2862 | 39% |
+| 6.0 | STC <sub>(8.0+0.08s)</sub> | 2531 | 28 | 404 | 48% | 2552 | 36% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 5.3 | VLTC <sub>(2m24s+1.12s)</sub> | 2854 | 31 | 312 | 48% | 2871 | 40% |
+| 5.3 | LTC <sub>(60.0+0.60s)</sub> | 2768 | 32 | 310 | 52% | 2751 | 39% |
+| 5.3 | STC <sub>(8.0+0.08s)</sub> | 2438 | 29 | 420 | 50% | 2435 | 29% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 5.1 |  |  |  |  |  |  |  |
+| 5.0 |  |  |  |  |  |  |  |
+| 4.2 |  |  |  |  |  |  |  |
+| 4.0 |  |  |  |  |  |  |  |
+| 3.0 |  |  |  |  |  |  |  |
+| 2.1 |  |  |  |  |  |  |  |
+| 2.0 |  |  |  |  |  |  |  |
+| 1.5 |  |  |  |  |  |  |  |
