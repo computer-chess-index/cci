@@ -4,7 +4,7 @@ Author: Andrea Manzo
 
 Home: https://github.com/amchess/Alexander
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:22:11
+Generated: 2026-05-03 07:34:58
 
 ## Ratings Verlauf
 
@@ -59,3 +59,41 @@ xychart-beta
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
 <p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
+
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 8.3 | VLTC <sub>(2m24s+1.12s)</sub> | 3476 | 26 | 382 | 49% | 3480 | 70% |
+| 8.3 | LTC <sub>(60.0+0.60s)</sub> | 3437 | 28 | 342 | 49% | 3444 | 65% |
+| 8.3 | STC <sub>(8.0+0.08s)</sub> | 3193 | 29 | 360 | 51% | 3186 | 46% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 8.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3460 | 26 | 380 | 49% | 3468 | 70% |
+| 8.2 | LTC <sub>(60.0+0.60s)</sub> | 3405 | 31 | 284 | 50% | 3403 | 62% |
+| 8.2 | STC <sub>(8.0+0.08s)</sub> | 3197 | 27 | 396 | 48% | 3210 | 44% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 8.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3472 | 28 | 324 | 49% | 3478 | 64% |
+| 8.1 | LTC <sub>(60.0+0.60s)</sub> | 3411 | 30 | 290 | 51% | 3406 | 66% |
+| 8.1 | STC <sub>(8.0+0.08s)</sub> | 3222 | 31 | 302 | 49% | 3229 | 44% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 8.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3460 | 28 | 308 | 50% | 3457 | 72% |
+| 8.0 | LTC <sub>(60.0+0.60s)</sub> | 3424 | 28 | 332 | 50% | 3422 | 63% |
+| 8.0 | STC <sub>(8.0+0.08s)</sub> | 3185 | 31 | 300 | 49% | 3190 | 47% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 7.0 |  |  |  |  |  |  |  |
+| 6.1 |  |  |  |  |  |  |  |
+| 6.0 |  |  |  |  |  |  |  |
+| 5.0 |  |  |  |  |  |  |  |
+| 4.1 |  |  |  |  |  |  |  |
+| 4.0 |  |  |  |  |  |  |  |
+| 3.1 |  |  |  |  |  |  |  |
+| 3.0 |  |  |  |  |  |  |  |
+| Santiago |  |  |  |  |  |  |  |
+| 2.0 |  |  |  |  |  |  |  |
+| 1.3 |  |  |  |  |  |  |  |
+| 1.2 |  |  |  |  |  |  |  |
+| 1.1 |  |  |  |  |  |  |  |
+| 1.0 |  |  |  |  |  |  |  |
