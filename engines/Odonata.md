@@ -4,7 +4,7 @@ Author: Andy Watkins
 
 Home: https://github.com/akanalytics/odonata
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -35,4 +35,26 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:26:01
+Generated: 2026-05-03 07:41:34
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3241 | 59 | 78 | 56% | 3193 | 59% |
+| 1.1.0 | LTC <sub>(60.0+0.60s)</sub> | 3197 | 58 | 92 | 52% | 3168 | 42% |
+| 1.1.0 | STC <sub>(8.0+0.08s)</sub> | 2884 | 77 | 60 | 54% | 2796 | 28% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.0.0 |  |  |  |  |  |  |  |
+| 0.9.0 |  |  |  |  |  |  |  |
+| 0.8.0 |  |  |  |  |  |  |  |
+| 0.7.0 |  |  |  |  |  |  |  |
+| 0.6.2 |  |  |  |  |  |  |  |
+| 0.5.1 |  |  |  |  |  |  |  |
+| 0.4.0 |  |  |  |  |  |  |  |
+| 0.3.37 |  |  |  |  |  |  |  |
+| 0.3.26 |  |  |  |  |  |  |  |
+| 0.3.17 |  |  |  |  |  |  |  |
+| 0.3.12 |  |  |  |  |  |  |  |
