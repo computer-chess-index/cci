@@ -4,7 +4,7 @@ Author: Eduardo Marinho
 
 Home: https://github.com/enfmarinho/Minke
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -29,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:25:40
+Generated: 2026-05-03 07:41:12
 
 ## Ratings Verlauf
 
@@ -47,3 +47,29 @@ xychart-beta
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
 <p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
+
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 6.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3474 | 30 | 266 | 50% | 3472 | 79% |
+| 6.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3416 | 29 | 298 | 51% | 3410 | 71% |
+| 6.0.0 | STC <sub>(8.0+0.08s)</sub> | 3209 | 33 | 250 | 50% | 3209 | 58% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 5.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3429 | 24 | 414 | 50% | 3430 | 73% |
+| 5.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3360 | 26 | 382 | 51% | 3352 | 69% |
+| 5.0.0 | STC <sub>(8.0+0.08s)</sub> | 3178 | 25 | 444 | 51% | 3174 | 57% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 4.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3341 | 30 | 276 | 51% | 3332 | 68% |
+| 4.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3317 | 31 | 268 | 48% | 3332 | 68% |
+| 4.0.0 | STC <sub>(8.0+0.08s)</sub> | 3119 | 33 | 252 | 51% | 3089 | 57% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 3.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3291 | 37 | 184 | 50% | 3293 | 70% |
+| 3.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3255 | 32 | 252 | 48% | 3270 | 63% |
+| 3.0.0 | STC <sub>(8.0+0.08s)</sub> | 3024 | 34 | 240 | 48% | 3036 | 56% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.0.0 |  |  |  |  |  |  |  |
+| 1.0.0 |  |  |  |  |  |  |  |
