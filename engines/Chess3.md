@@ -4,7 +4,7 @@ Author: Paul Sonkoly
 
 Home: https://github.com/paulsonkoly/chess-3
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:23:15
+Generated: 2026-05-03 07:36:04
 
 ## Ratings Verlauf
 
@@ -45,3 +45,21 @@ xychart-beta
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
 <p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
+
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 4.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2931 | 29 | 378 | 52% | 2911 | 40% |
+| 4.0 | LTC <sub>(60.0+0.60s)</sub> | 2865 | 29 | 366 | 52% | 2844 | 38% |
+| 4.0 | STC <sub>(8.0+0.08s)</sub> | 2557 | 29 | 396 | 51% | 2550 | 29% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2847 | 32 | 316 | 49% | 2861 | 34% |
+| 3.0 | LTC <sub>(60.0+0.60s)</sub> | 2803 | 32 | 320 | 50% | 2797 | 35% |
+| 3.0 | STC <sub>(8.0+0.08s)</sub> | 2519 | 27 | 440 | 49% | 2525 | 34% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.0 |  |  |  |  |  |  |  |
+| 1.0 |  |  |  |  |  |  |  |
