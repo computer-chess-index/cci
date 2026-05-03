@@ -4,7 +4,7 @@ Author: Gyatso Neesham
 
 Home: https://github.com/GyatsoYT/GyatsoChess
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:24:27
+Generated: 2026-05-03 07:38:51
 
 ## Ratings Verlauf
 
@@ -45,3 +45,24 @@ xychart-beta
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
 <p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
+
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2969 | 26 | 460 | 47% | 2990 | 38% |
+| 1.3.0 | LTC <sub>(60.0+0.60s)</sub> | 2866 | 30 | 342 | 50% | 2858 | 38% |
+| 1.3.0 | STC <sub>(8.0+0.08s)</sub> | 2543 | 26 | 536 | 42% | 2615 | 28% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2570 | 33 | 312 | 52% | 2550 | 24% |
+| 1.2.0 | LTC <sub>(60.0+0.60s)</sub> | 2485 | 35 | 274 | 51% | 2473 | 27% |
+| 1.2.0 | STC <sub>(8.0+0.08s)</sub> | 2169 | 33 | 328 | 52% | 2151 | 20% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2453 | 45 | 172 | 49% | 2468 | 23% |
+| 1.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2361 | 43 | 208 | 50% | 2361 | 16% |
+| 1.1.0 | STC <sub>(8.0+0.08s)</sub> | 1999 | 49 | 148 | 49% | 2014 | 20% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.0.0 |  |  |  |  |  |  |  |
