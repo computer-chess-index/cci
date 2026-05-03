@@ -8,7 +8,7 @@ Home:
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.5 | 2024-02-06 | 2013<sub>(+278) | 2364<sub>(+249) | 2491<sub>(+126) |  |
+| 2.5 | 2024-02-06 | 2016<sub>(+281) | 2367<sub>(+252) | 2492<sub>(+127) |  |
 | 1.004 | 2009-10-31 | 1735 | 2115 | 2365 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-02 06:22:38
+Generated: 2026-05-03 06:22:37
 
 ## Ratings Verlauf
 
@@ -34,11 +34,11 @@ Generated: 2026-05-02 06:22:38
 xychart-beta
   x-axis ["1.004", "2.5"]
   y-axis "Elo Rating" 1700 --> 2500
-  line "STC (8.0+0.08s)" [1735, 2013]
-  line "STC (8.0+0.08s)" [1735, 2013]
-  line "LTC (60.0+0.60s)" [2115, 2364]
-  line "VLTC (2m24s+1.12s)" [2365, 2491]
-  line "VLTC (2m24s+1.12s)" [2365, 2491]
+  line "STC (8.0+0.08s)" [1735, 2016]
+  line "STC (8.0+0.08s)" [1735, 2016]
+  line "LTC (60.0+0.60s)" [2115, 2367]
+  line "VLTC (2m24s+1.12s)" [2365, 2492]
+  line "VLTC (2m24s+1.12s)" [2365, 2492]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
