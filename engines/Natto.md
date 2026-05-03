@@ -4,7 +4,7 @@ Author:
 
 Home: https://github.com/rglenister/natto
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -30,4 +30,21 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:25:51
+Generated: 2026-05-03 07:41:23
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0.1.9 | VLTC <sub>(2m24s+1.12s)</sub> | 1979 | 27 | 484 | 48% | 2013 | 28% |
+| 0.1.9 | LTC <sub>(60.0+0.60s)</sub> | 1866 | 28 | 448 | 48% | 1905 | 28% |
+| 0.1.9 | STC <sub>(8.0+0.08s)</sub> | 1621 | 28 | 444 | 47% | 1667 | 30% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.0.0 |  |  |  |  |  |  |  |
+| 0.1.8 |  |  |  |  |  |  |  |
+| 0.1.7 |  |  |  |  |  |  |  |
+| 0.1.6 |  |  |  |  |  |  |  |
+| 0.1.5 |  |  |  |  |  |  |  |
+| 0.1.3 |  |  |  |  |  |  |  |
