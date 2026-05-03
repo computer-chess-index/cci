@@ -4,7 +4,7 @@ Author: Jonathan Gilchrist
 
 Home: https://github.com/tcheran-chess/tcheran
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -42,7 +42,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:28:12
+Generated: 2026-05-03 07:46:52
 
 ## Ratings Verlauf
 
@@ -60,3 +60,45 @@ xychart-beta
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
 <p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
+
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 11.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3487 | 23 | 434 | 51% | 3484 | 80% |
+| 11.0 | LTC <sub>(60.0+0.60s)</sub> | 3461 | 24 | 424 | 51% | 3452 | 79% |
+| 11.0 | STC <sub>(8.0+0.08s)</sub> | 3287 | 25 | 432 | 51% | 3282 | 55% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 10.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3429 | 27 | 336 | 49% | 3438 | 75% |
+| 10.0 | LTC <sub>(60.0+0.60s)</sub> | 3368 | 30 | 268 | 49% | 3378 | 75% |
+| 10.0 | STC <sub>(8.0+0.08s)</sub> | 3186 | 31 | 286 | 52% | 3174 | 58% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3290 | 38 | 180 | 50% | 3289 | 66% |
+| 9.0 | LTC <sub>(60.0+0.60s)</sub> | 3239 | 39 | 168 | 52% | 3224 | 65% |
+| 9.0 | STC <sub>(8.0+0.08s)</sub> | 3069 | 37 | 212 | 47% | 3097 | 53% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 8.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3239 | 44 | 132 | 50% | 3237 | 64% |
+| 8.0 | LTC <sub>(60.0+0.60s)</sub> | 3189 | 37 | 204 | 57% | 3133 | 58% |
+| 8.0 | STC <sub>(8.0+0.08s)</sub> | 2990 | 42 | 164 | 47% | 3012 | 49% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 7.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3114 | 51 | 116 | 47% | 3137 | 44% |
+| 7.0 | LTC <sub>(60.0+0.60s)</sub> | 3040 | 49 | 130 | 50% | 3023 | 42% |
+| 7.0 | STC <sub>(8.0+0.08s)</sub> | 2812 | 54 | 116 | 56% | 2735 | 36% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 6.0 |  |  |  |  |  |  |  |
+| 5.1 |  |  |  |  |  |  |  |
+| 5.0 |  |  |  |  |  |  |  |
+| 4.1 |  |  |  |  |  |  |  |
+| 4.0 |  |  |  |  |  |  |  |
+| 3.0 |  |  |  |  |  |  |  |
+| 2.5 |  |  |  |  |  |  |  |
+| 2.4 |  |  |  |  |  |  |  |
+| 2.3 |  |  |  |  |  |  |  |
+| 2.2 |  |  |  |  |  |  |  |
+| 2.1 |  |  |  |  |  |  |  |
+| 2.0 |  |  |  |  |  |  |  |
+| 1.1 |  |  |  |  |  |  |  |
+| 1.0 |  |  |  |  |  |  |  |
