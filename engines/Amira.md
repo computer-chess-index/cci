@@ -4,7 +4,7 @@ Author: Fauzi Dabat Akram
 
 Home: https://github.com/FauziAkram/amira
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -28,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:22:20
+Generated: 2026-05-03 07:35:07
 
 ## Ratings Verlauf
 
@@ -46,3 +46,22 @@ xychart-beta
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
 <p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
+
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.82 | VLTC <sub>(2m24s+1.12s)</sub> | 2673 | 25 | 530 | 47% | 2696 | 29% |
+| 1.82 | LTC <sub>(60.0+0.60s)</sub> | 2574 | 30 | 400 | 50% | 2569 | 25% |
+| 1.82 | STC <sub>(8.0+0.08s)</sub> | 2349 | 26 | 524 | 51% | 2336 | 23% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.71 | VLTC <sub>(2m24s+1.12s)</sub> | 2520 | 40 | 220 | 51% | 2511 | 21% |
+| 1.71 | LTC <sub>(60.0+0.60s)</sub> | 2479 | 39 | 248 | 52% | 2468 | 17% |
+| 1.71 | STC <sub>(8.0+0.08s)</sub> | 2233 | 43 | 206 | 51% | 2223 | 12% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.61 |  |  |  |  |  |  |  |
+| 1.4 |  |  |  |  |  |  |  |
+| 1.00 |  |  |  |  |  |  |  |
