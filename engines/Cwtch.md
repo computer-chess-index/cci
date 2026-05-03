@@ -4,7 +4,7 @@ Author: Colin Jenkins
 
 Home: https://github.com/op12no2/cwtch
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:23:38
+Generated: 2026-05-03 07:36:33
 
 ## Ratings Verlauf
 
@@ -45,3 +45,21 @@ xychart-beta
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
 <p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
+
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 5 | VLTC <sub>(2m24s+1.12s)</sub> | 3251 | 28 | 338 | 47% | 3282 | 61% |
+| 5 | LTC <sub>(60.0+0.60s)</sub> | 3190 | 31 | 282 | 51% | 3186 | 58% |
+| 5 | STC <sub>(8.0+0.08s)</sub> | 2935 | 31 | 320 | 49% | 2942 | 40% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 4 | VLTC <sub>(2m24s+1.12s)</sub> | 3178 | 26 | 428 | 50% | 3178 | 50% |
+| 4 | LTC <sub>(60.0+0.60s)</sub> | 3133 | 27 | 376 | 53% | 3108 | 55% |
+| 4 | STC <sub>(8.0+0.08s)</sub> | 2894 | 25 | 482 | 53% | 2862 | 41% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 3 |  |  |  |  |  |  |  |
+| 2 |  |  |  |  |  |  |  |
