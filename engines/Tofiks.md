@@ -4,7 +4,7 @@ Author: Arturs Priede
 
 Home: https://github.com/likeawizard/tofiks
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -30,7 +30,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:28:21
+Generated: 2026-05-03 07:47:01
 
 ## Ratings Verlauf
 
@@ -48,3 +48,27 @@ xychart-beta
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
 <p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
+
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.5.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2550 | 32 | 312 | 51% | 2538 | 34% |
+| 1.5.0 | LTC <sub>(60.0+0.60s)</sub> | 2477 | 31 | 332 | 50% | 2481 | 33% |
+| 1.5.0 | STC <sub>(8.0+0.08s)</sub> | 2272 | 34 | 312 | 48% | 2290 | 20% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.4.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2448 | 33 | 292 | 50% | 2444 | 33% |
+| 1.4.1 | LTC <sub>(60.0+0.60s)</sub> | 2368 | 34 | 296 | 50% | 2367 | 29% |
+| 1.4.1 | STC <sub>(8.0+0.08s)</sub> | 2086 | 34 | 302 | 51% | 2072 | 26% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.4.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2434 | 40 | 216 | 47% | 2461 | 29% |
+| 1.4.0 | LTC <sub>(60.0+0.60s)</sub> | 2338 | 39 | 226 | 53% | 2314 | 29% |
+| 1.4.0 | STC <sub>(8.0+0.08s)</sub> | 2126 | 43 | 184 | 50% | 2122 | 23% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.3.0 |  |  |  |  |  |  |  |
+| 1.2.0 |  |  |  |  |  |  |  |
+| 1.1.0 |  |  |  |  |  |  |  |
+| 1.0.0 |  |  |  |  |  |  |  |
