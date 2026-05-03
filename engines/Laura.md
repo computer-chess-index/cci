@@ -4,7 +4,7 @@ Author: Hans Tibberio
 
 Home: https://github.com/HansTibberio/Laura
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:25:07
+Generated: 2026-05-03 07:39:32
 
 ## Ratings Verlauf
 
@@ -45,3 +45,24 @@ xychart-beta
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
 <p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
+
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 3.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1862 | 57 | 126 | 50% | 1840 | 13% |
+| 3.0.0 | LTC <sub>(60.0+0.60s)</sub> | 1713 | 59 | 108 | 49% | 1727 | 19% |
+| 3.0.0 | STC <sub>(8.0+0.08s)</sub> | 1602 | 57 | 114 | 51% | 1593 | 21% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1716 | 56 | 98 | 53% | 1697 | 45% |
+| 2.0.0 | LTC <sub>(60.0+0.60s)</sub> | 1692 | 55 | 104 | 48% | 1719 | 39% |
+| 2.0.0 | STC <sub>(8.0+0.08s)</sub> | 1372 | 56 | 108 | 55% | 1301 | 37% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1424 | 53 | 132 | 43% | 1605 | 37% |
+| 1.1.0 | LTC <sub>(60.0+0.60s)</sub> | 1496 | 51 | 134 | 43% | 1627 | 34% |
+| 1.1.0 | STC <sub>(8.0+0.08s)</sub> | 1312 | 62 | 134 | 47% | 1361 | 25% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.0.0 |  |  |  |  |  |  |  |
