@@ -4,7 +4,7 @@ Author: Arseniy Surkov
 
 Home: https://github.com/codedeliveryservice/Reckless
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -32,7 +32,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:27:03
+Generated: 2026-05-03 07:43:12
 
 ## Ratings Verlauf
 
@@ -50,3 +50,31 @@ xychart-beta
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
 <p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
+
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0.9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3641 | 37 | 162 | 54% | 3617 | 91% |
+| 0.9.0 | D10 | 3302 | 26 | 416 | 53% | 3272 | 58% |
+| 0.9.0 | D14 | 3518 | 26 | 364 | 50% | 3514 | 79% |
+| 0.9.0 | D15 | 3545 | 23 | 456 | 54% | 3511 | 78% |
+| 0.9.0 | D17 | 3587 | 25 | 380 | 51% | 3576 | 87% |
+| 0.9.0 | D2 | 1368 | 32 | 404 | 51% | 1334 | 16% |
+| 0.9.0 | LTC <sub>(60.0+0.60s)</sub> | 3614 | 30 | 240 | 51% | 3609 | 93% |
+| 0.9.0 | STC <sub>(8.0+0.08s)</sub> | 3525 | 24 | 414 | 51% | 3518 | 80% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0.8.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3617 | 27 | 306 | 54% | 3590 | 88% |
+| 0.8.0 | LTC <sub>(60.0+0.60s)</sub> | 3603 | 29 | 268 | 51% | 3590 | 87% |
+| 0.8.0 | STC <sub>(8.0+0.08s)</sub> | 3486 | 26 | 378 | 51% | 3471 | 74% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0.7.0 |  |  |  |  |  |  |  |
+| 0.6.0 |  |  |  |  |  |  |  |
+| 0.5.0 |  |  |  |  |  |  |  |
+| 0.4.0 |  |  |  |  |  |  |  |
+| 0.3.0 |  |  |  |  |  |  |  |
+| 0.2.0 |  |  |  |  |  |  |  |
+| 0.1.0 |  |  |  |  |  |  |  |
