@@ -4,7 +4,7 @@ Author: Zixiao Han
 
 Home: https://github.com/buildingwheels/ShallowGuess
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -29,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:27:41
+Generated: 2026-05-03 07:46:20
 
 ## Ratings Verlauf
 
@@ -47,3 +47,23 @@ xychart-beta
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
 <p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
+
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2955 | 55 | 98 | 54% | 2927 | 42% |
+| 1.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2768 | 56 | 92 | 51% | 2758 | 48% |
+| 1.1.0 | STC <sub>(8.0+0.08s)</sub> | 2337 | 66 | 80 | 53% | 2311 | 21% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2790 | 33 | 284 | 49% | 2805 | 40% |
+| 1.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2707 | 34 | 286 | 51% | 2707 | 35% |
+| 1.0.0 | STC <sub>(8.0+0.08s)</sub> | 2377 | 35 | 290 | 48% | 2404 | 25% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0.4.0 |  |  |  |  |  |  |  |
+| 0.3.0 |  |  |  |  |  |  |  |
+| 0.2.1 |  |  |  |  |  |  |  |
+| 0.1.0 |  |  |  |  |  |  |  |
