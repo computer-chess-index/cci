@@ -4,7 +4,7 @@ Author: Adam Kulju
 
 Home: https://github.com/Adam-Kulju/Willow
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -35,4 +35,23 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:28:52
+Generated: 2026-05-03 07:47:33
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 4.0.0.1 |  |  |  |  |  |  |  |
+| 4.0 |  |  |  |  |  |  |  |
+| 3.1 |  |  |  |  |  |  |  |
+| 3.0 |  |  |  |  |  |  |  |
+| 2.9 |  |  |  |  |  |  |  |
+| 2.8 |  |  |  |  |  |  |  |
+| 2.7 |  |  |  |  |  |  |  |
+| 2.6 |  |  |  |  |  |  |  |
+| 2.5.11 |  |  |  |  |  |  |  |
+| 2.5.1 |  |  |  |  |  |  |  |
+| 2.5.01 |  |  |  |  |  |  |  |
+| 2.5 |  |  |  |  |  |  |  |
