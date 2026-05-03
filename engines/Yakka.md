@@ -8,8 +8,8 @@ Home: https://github.com/CJDalrymple/Yakka
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.5 | 2026-01-22 | 2809<sub>(+110) | 3077<sub>(+112) | 3156<sub>(+152) |  |
-| 1.4 | 2025-11-11 | 2699<sub>(+new) | 2965<sub>(+new) | 3004<sub>(+new) |  |
+| 1.5 | 2026-01-22 | 2812<sub>(+112) | 3078<sub>(+113) | 3156<sub>(+151) |  |
+| 1.4 | 2025-11-11 | 2700<sub>(+new) | 2965<sub>(+new) | 3005<sub>(+new) |  |
 | 1.3 | 2025-08-10 |  |  |  |  |
 | 1.2 | 2025-02-11 |  |  |  |  |
 | 1.1 | 2024-09-16 |  |  |  |  |
@@ -29,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-02 06:29:21
+Generated: 2026-05-03 06:28:55
 
 ## Ratings Verlauf
 
@@ -37,12 +37,12 @@ Generated: 2026-05-02 06:29:21
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["1.4", "1.5"]
-  y-axis "Elo Rating" 2600 --> 3200
-  line "STC (8.0+0.08s)" [2699, 2809]
-  line "STC (8.0+0.08s)" [2699, 2809]
-  line "LTC (60.0+0.60s)" [2965, 3077]
-  line "VLTC (2m24s+1.12s)" [3004, 3156]
-  line "VLTC (2m24s+1.12s)" [3004, 3156]
+  y-axis "Elo Rating" 2700 --> 3200
+  line "STC (8.0+0.08s)" [2700, 2812]
+  line "STC (8.0+0.08s)" [2700, 2812]
+  line "LTC (60.0+0.60s)" [2965, 3078]
+  line "VLTC (2m24s+1.12s)" [3005, 3156]
+  line "VLTC (2m24s+1.12s)" [3005, 3156]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
