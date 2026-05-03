@@ -4,7 +4,7 @@ Author: Jakob Steininger
 
 Home: https://github.com/Jakob256/PurplePanda
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -32,4 +32,23 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:26:47
+Generated: 2026-05-03 07:42:54
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 20 | VLTC <sub>(2m24s+1.12s)</sub> | 2020 | 28 | 486 | 47% | 2060 | 20% |
+| 20 | LTC <sub>(60.0+0.60s)</sub> | 1952 | 28 | 496 | 49% | 1960 | 16% |
+| 20 | STC <sub>(8.0+0.08s)</sub> | 1679 | 26 | 556 | 48% | 1698 | 17% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 19 |  |  |  |  |  |  |  |
+| 18 |  |  |  |  |  |  |  |
+| 17.0 |  |  |  |  |  |  |  |
+| 16.0 |  |  |  |  |  |  |  |
+| 15.0 |  |  |  |  |  |  |  |
+| 14.0 |  |  |  |  |  |  |  |
+| 13.0 |  |  |  |  |  |  |  |
+| 12.0 |  |  |  |  |  |  |  |
