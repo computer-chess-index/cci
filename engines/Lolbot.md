@@ -4,7 +4,7 @@ Author: Lorentz Vedeler
 
 Home: https://github.com/loldot/lolbot
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -29,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:25:16
+Generated: 2026-05-03 07:39:41
 
 ## Ratings Verlauf
 
@@ -47,3 +47,32 @@ xychart-beta
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
 <p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
+
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0.3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2488 | 32 | 344 | 51% | 2460 | 24% |
+| 0.3.1 | LTC <sub>(60.0+0.60s)</sub> | 2435 | 32 | 344 | 51% | 2422 | 24% |
+| 0.3.1 | STC <sub>(8.0+0.08s)</sub> | 2161 | 34 | 310 | 53% | 2133 | 22% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0.2.3 | VLTC <sub>(2m24s+1.12s)</sub> | 2364 | 31 | 362 | 48% | 2383 | 26% |
+| 0.2.3 | LTC <sub>(60.0+0.60s)</sub> | 2284 | 31 | 376 | 51% | 2269 | 22% |
+| 0.2.3 | STC <sub>(8.0+0.08s)</sub> | 2063 | 28 | 468 | 49% | 2071 | 20% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0.2.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2346 | 53 | 128 | 53% | 2317 | 20% |
+| 0.2.2 | LTC <sub>(60.0+0.60s)</sub> | 2309 | 66 | 76 | 51% | 2307 | 28% |
+| 0.2.2 | STC <sub>(8.0+0.08s)</sub> | 2030 | 59 | 104 | 49% | 2044 | 16% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0.2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2367 | 55 | 132 | 44% | 2442 | 14% |
+| 0.2.1 | LTC <sub>(60.0+0.60s)</sub> | 2229 | 64 | 88 | 46% | 2268 | 17% |
+| 0.2.1 | STC <sub>(8.0+0.08s)</sub> | 1963 | 70 | 76 | 50% | 1963 | 16% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2419 | 56 | 116 | 52% | 2399 | 16% |
+| 0.2 | LTC <sub>(60.0+0.60s)</sub> | 2257 | 47 | 160 | 49% | 2269 | 20% |
+| 0.2 | STC <sub>(8.0+0.08s)</sub> | 2033 | 59 | 100 | 54% | 1993 | 22% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0.1-alpha |  |  |  |  |  |  |  |
