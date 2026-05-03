@@ -4,7 +4,7 @@ Author: Anany Tanwar
 
 Home: https://github.com/AnanyTanwar/Catalyst
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -28,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:23:02
+Generated: 2026-05-03 07:35:51
 
 ## Ratings Verlauf
 
@@ -46,3 +46,31 @@ xychart-beta
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
 <p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
+
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 3.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3179 | 38 | 202 | 48% | 3197 | 49% |
+| 3.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3128 | 43 | 150 | 51% | 3124 | 52% |
+| 3.0.0 | STC <sub>(8.0+0.08s)</sub> | 2711 | 50 | 128 | 50% | 2712 | 33% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3100 | 34 | 242 | 51% | 3096 | 56% |
+| 2.2.0 | LTC <sub>(60.0+0.60s)</sub> | 2998 | 35 | 238 | 50% | 2992 | 51% |
+| 2.2.0 | STC <sub>(8.0+0.08s)</sub> | 2624 | 34 | 274 | 50% | 2624 | 34% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2962 | 31 | 292 | 49% | 2974 | 52% |
+| 2.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2967 | 34 | 248 | 49% | 2971 | 50% |
+| 2.1.0 | STC <sub>(8.0+0.08s)</sub> | 2642 | 35 | 256 | 48% | 2655 | 41% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3031 | 31 | 288 | 49% | 3038 | 54% |
+| 2.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2996 | 32 | 280 | 51% | 2988 | 49% |
+| 2.0.0 | STC <sub>(8.0+0.08s)</sub> | 2637 | 30 | 336 | 48% | 2653 | 39% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2923 | 32 | 302 | 49% | 2931 | 41% |
+| 1.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2813 | 34 | 268 | 48% | 2831 | 39% |
+| 1.0.0 | STC <sub>(8.0+0.08s)</sub> | 2361 | 35 | 272 | 46% | 2398 | 32% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
