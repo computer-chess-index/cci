@@ -4,7 +4,7 @@ Author: Bill Chow
 
 Home: https://github.com/billchow98/chess
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -24,4 +24,15 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:28:27
+Generated: 2026-05-03 07:47:07
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2560 | 31 | 358 | 46% | 2600 | 27% |
+| 1.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2472 | 30 | 372 | 50% | 2476 | 29% |
+| 1.0.0 | STC <sub>(8.0+0.08s)</sub> | 2175 | 27 | 472 | 52% | 2160 | 27% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
