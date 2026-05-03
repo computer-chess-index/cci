@@ -4,7 +4,7 @@ Author: Kevin Lu
 
 Home: https://github.com/kevlu8/PZChessBot
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -35,7 +35,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:26:49
+Generated: 2026-05-03 07:42:57
 
 ## Ratings Verlauf
 
@@ -53,3 +53,32 @@ xychart-beta
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
 <p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
+
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 6.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3521 | 21 | 520 | 50% | 3519 | 80% |
+| 6.1 | LTC <sub>(60.0+0.60s)</sub> | 3465 | 23 | 464 | 50% | 3465 | 76% |
+| 6.1 | STC <sub>(8.0+0.08s)</sub> | 3245 | 25 | 456 | 51% | 3237 | 56% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3465 | 28 | 312 | 50% | 3461 | 73% |
+| 6.0 | LTC <sub>(60.0+0.60s)</sub> | 3403 | 31 | 268 | 50% | 3403 | 69% |
+| 6.0 | STC <sub>(8.0+0.08s)</sub> | 3213 | 32 | 264 | 49% | 3221 | 58% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 5.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3313 | 32 | 254 | 50% | 3302 | 65% |
+| 5.0 | LTC <sub>(60.0+0.60s)</sub> | 3283 | 38 | 184 | 53% | 3237 | 64% |
+| 5.0 | STC <sub>(8.0+0.08s)</sub> | 3093 | 35 | 236 | 55% | 3009 | 52% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 4.0 |  |  |  |  |  |  |  |
+| 3.0 |  |  |  |  |  |  |  |
+| 2.0 |  |  |  |  |  |  |  |
+| 1.0 |  |  |  |  |  |  |  |
+| 20250318T22 |  |  |  |  |  |  |  |
+| 20250311T07 |  |  |  |  |  |  |  |
+| 20250307T21 |  |  |  |  |  |  |  |
+| 20250306T21 |  |  |  |  |  |  |  |
+| 20250302T22 |  |  |  |  |  |  |  |
