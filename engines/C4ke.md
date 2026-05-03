@@ -4,7 +4,7 @@ Author:
 
 Home: https://github.com/citrus610/c4ke
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -27,4 +27,18 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:22:56
+Generated: 2026-05-03 07:35:44
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3181 | 26 | 412 | 48% | 3194 | 50% |
+| 3.0 | LTC <sub>(60.0+0.60s)</sub> | 3139 | 28 | 400 | 52% | 3124 | 41% |
+| 3.0 | STC <sub>(8.0+0.08s)</sub> | 2799 | 26 | 480 | 49% | 2807 | 36% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.0 |  |  |  |  |  |  |  |
+| 1.1 |  |  |  |  |  |  |  |
+| 1.0 |  |  |  |  |  |  |  |
