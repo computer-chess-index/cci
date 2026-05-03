@@ -4,7 +4,7 @@ Author: Yunus Emre Yıldız
 
 Home: https://github.com/yunusemreyldz07/SoloEngine
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -30,7 +30,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:27:46
+Generated: 2026-05-03 07:46:24
 
 ## Ratings Verlauf
 
@@ -48,3 +48,36 @@ xychart-beta
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
 <p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
+
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.1.0 |  |  |  |  |  |  |  |
+| 2.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2804 | 27 | 436 | 52% | 2786 | 32% |
+| 2.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2662 | 31 | 328 | 49% | 2668 | 34% |
+| 2.0.0 | STC <sub>(8.0+0.08s)</sub> | 2321 | 31 | 348 | 52% | 2303 | 26% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2654 | 34 | 280 | 50% | 2650 | 36% |
+| 1.6.0 | LTC <sub>(60.0+0.60s)</sub> | 2519 | 32 | 332 | 51% | 2507 | 30% |
+| 1.6.0 | STC <sub>(8.0+0.08s)</sub> | 2222 | 35 | 288 | 49% | 2240 | 26% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.5.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2492 | 30 | 380 | 48% | 2512 | 28% |
+| 1.5.0 | LTC <sub>(60.0+0.60s)</sub> | 2384 | 37 | 252 | 52% | 2368 | 25% |
+| 1.5.0 | STC <sub>(8.0+0.08s)</sub> | 2064 | 35 | 288 | 54% | 2024 | 22% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.4.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2252 | 36 | 264 | 49% | 2261 | 28% |
+| 1.4.0 | LTC <sub>(60.0+0.60s)</sub> | 2128 | 40 | 206 | 53% | 2106 | 33% |
+| 1.4.0 | STC <sub>(8.0+0.08s)</sub> | 1797 | 43 | 180 | 51% | 1787 | 28% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2120 | 40 | 204 | 52% | 2105 | 31% |
+| 1.3.1 | LTC <sub>(60.0+0.60s)</sub> | 2020 | 46 | 164 | 51% | 2013 | 23% |
+| 1.3.1 | STC <sub>(8.0+0.08s)</sub> | 1659 | 42 | 208 | 47% | 1685 | 18% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.2.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2067 | 38 | 260 | 46% | 2137 | 24% |
+| 1.2.2 | LTC <sub>(60.0+0.60s)</sub> | 2001 | 43 | 204 | 46% | 2066 | 20% |
+| 1.2.2 | STC <sub>(8.0+0.08s)</sub> | 1683 | 41 | 232 | 47% | 1740 | 18% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
