@@ -4,7 +4,7 @@ Author: Jost Triller
 
 Home: https://github.com/tsoj/Annie
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -25,4 +25,16 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:22:24
+Generated: 2026-05-03 07:35:12
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.2 | VLTC <sub>(2m24s+1.12s)</sub> | 1534 | 30 | 446 | 47% | 1597 | 18% |
+| 1.2 | LTC <sub>(60.0+0.60s)</sub> | 1542 | 27 | 528 | 44% | 1616 | 18% |
+| 1.2 | STC <sub>(8.0+0.08s)</sub> | 1345 | 31 | 460 | 56% | 1233 | 17% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.0 |  |  |  |  |  |  |  |
