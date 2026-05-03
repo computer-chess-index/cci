@@ -4,7 +4,7 @@ Author: Marco Belli
 
 Home: https://github.com/elcabesa/vajolet
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -33,7 +33,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:28:35
+Generated: 2026-05-03 07:47:16
 
 ## Ratings Verlauf
 
@@ -51,3 +51,27 @@ xychart-beta
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
 <p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
+
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3177 | 29 | 348 | 50% | 3177 | 48% |
+| 3.1 | LTC <sub>(60.0+0.60s)</sub> | 3093 | 29 | 362 | 50% | 3090 | 43% |
+| 3.1 | STC <sub>(8.0+0.08s)</sub> | 2880 | 29 | 372 | 51% | 2873 | 41% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3114 | 31 | 318 | 52% | 3097 | 46% |
+| 3.0 | LTC <sub>(60.0+0.60s)</sub> | 3038 | 29 | 344 | 52% | 3017 | 44% |
+| 3.0 | STC <sub>(8.0+0.08s)</sub> | 2777 | 29 | 386 | 52% | 2745 | 37% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.8 |  |  |  |  |  |  |  |
+| 2.7 |  |  |  |  |  |  |  |
+| 2.6.2 |  |  |  |  |  |  |  |
+| 2.6.1 |  |  |  |  |  |  |  |
+| 2.6 |  |  |  |  |  |  |  |
+| 2.5 |  |  |  |  |  |  |  |
+| 2.4 |  |  |  |  |  |  |  |
+| 2.3 |  |  |  |  |  |  |  |
