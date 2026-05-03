@@ -4,7 +4,7 @@ Author:
 
 Home: https://github.com/P1X3R/zugblitz
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -24,4 +24,15 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:29:07
+Generated: 2026-05-03 07:47:48
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2238 | 28 | 428 | 50% | 2241 | 35% |
+| 1.3.1 | LTC <sub>(60.0+0.60s)</sub> | 2190 | 29 | 390 | 49% | 2201 | 28% |
+| 1.3.1 | STC <sub>(8.0+0.08s)</sub> | 1899 | 26 | 526 | 52% | 1872 | 28% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
