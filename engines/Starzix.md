@@ -8,9 +8,9 @@ Home: https://github.com/zzzzz151/Starzix
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.1 | 2025-04-06 | 3375<sub>(+8) | 3532<sub>(+4) | 3555<sub>(-1) |  |
-| 6.0 | 2024-10-24 | 3367<sub>(+111) | 3528<sub>(+76) | 3556<sub>(+78) |  |
-| 5.0 | 2024-05-23 | 3256<sub>(+new) | 3452<sub>(+new) | 3478<sub>(+new) |  |
+| 6.1 | 2025-04-06 | 3375<sub>(+7) | 3532<sub>(+4) | 3555<sub>(-1) |  |
+| 6.0 | 2024-10-24 | 3368<sub>(+112) | 3528<sub>(+75) | 3556<sub>(+77) |  |
+| 5.0 | 2024-05-23 | 3256<sub>(+new) | 3453<sub>(+new) | 3479<sub>(+new) |  |
 | 4.0 | 2024-01-22 |  |  |  |  |
 | 3.0 | 2023-11-25 |  |  |  |  |
 | 2.1 | 2023-10-22 |  |  |  |  |
@@ -30,7 +30,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-02 06:28:18
+Generated: 2026-05-03 06:27:56
 
 ## Ratings Verlauf
 
@@ -39,11 +39,11 @@ Generated: 2026-05-02 06:28:18
 xychart-beta
   x-axis ["5.0", "6.0", "6.1"]
   y-axis "Elo Rating" 3200 --> 3600
-  line "STC (8.0+0.08s)" [3256, 3367, 3375]
-  line "STC (8.0+0.08s)" [3256, 3367, 3375]
-  line "LTC (60.0+0.60s)" [3452, 3528, 3532]
-  line "VLTC (2m24s+1.12s)" [3478, 3556, 3555]
-  line "VLTC (2m24s+1.12s)" [3478, 3556, 3555]
+  line "STC (8.0+0.08s)" [3256, 3368, 3375]
+  line "STC (8.0+0.08s)" [3256, 3368, 3375]
+  line "LTC (60.0+0.60s)" [3453, 3528, 3532]
+  line "VLTC (2m24s+1.12s)" [3479, 3556, 3555]
+  line "VLTC (2m24s+1.12s)" [3479, 3556, 3555]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
