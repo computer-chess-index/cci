@@ -8,9 +8,9 @@ Home: https://github.com/sgtqwq/Gecko
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.30 | 2026-05-01 |  |  |  |  |
-| 0.25.1 | 2026-04-12 | 2533<sub>(+89) | 2803<sub>(+95) | 2881<sub>(+115) |  |
-| 0.25 | 2026-04-06 | 2444<sub>(+532) | 2708<sub>(+602) | 2766<sub>(+565) |  |
+| 0.30 | 2026-05-01 | 2565<sub>(+32) | 2907<sub>(+103) | 2955<sub>(+74) |  |
+| 0.25.1 | 2026-04-12 | 2533<sub>(+88) | 2804<sub>(+96) | 2881<sub>(+115) |  |
+| 0.25 | 2026-04-06 | 2445<sub>(+533) | 2708<sub>(+602) | 2766<sub>(+565) |  |
 | 0.08 | 2026-02-05 | 1912 | 2106 | 2201 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -27,20 +27,20 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-02 06:24:24
+Generated: 2026-05-03 06:24:17
 
 ## Ratings Verlauf
 
 ```mermaid
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
-  x-axis ["0.08", "0.25", "0.25.1"]
-  y-axis "Elo Rating" 1900 --> 2900
-  line "STC (8.0+0.08s)" [1912, 2444, 2533]
-  line "STC (8.0+0.08s)" [1912, 2444, 2533]
-  line "LTC (60.0+0.60s)" [2106, 2708, 2803]
-  line "VLTC (2m24s+1.12s)" [2201, 2766, 2881]
-  line "VLTC (2m24s+1.12s)" [2201, 2766, 2881]
+  x-axis ["0.08", "0.25", "0.25.1", "0.30"]
+  y-axis "Elo Rating" 1900 --> 3000
+  line "STC (8.0+0.08s)" [1912, 2445, 2533, 2565]
+  line "STC (8.0+0.08s)" [1912, 2445, 2533, 2565]
+  line "LTC (60.0+0.60s)" [2106, 2708, 2804, 2907]
+  line "VLTC (2m24s+1.12s)" [2201, 2766, 2881, 2955]
+  line "VLTC (2m24s+1.12s)" [2201, 2766, 2881, 2955]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
