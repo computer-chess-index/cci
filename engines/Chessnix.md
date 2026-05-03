@@ -4,7 +4,7 @@ Author: Langedijk Eric
 
 Home: https://github.com/ericlangedijk/chessnix/
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -29,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:23:19
+Generated: 2026-05-03 07:36:08
 
 ## Ratings Verlauf
 
@@ -47,3 +47,29 @@ xychart-beta
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
 <p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
+
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.4 | VLTC <sub>(2m24s+1.12s)</sub> | 3276 | 41 | 160 | 53% | 3258 | 56% |
+| 1.4 | LTC <sub>(60.0+0.60s)</sub> | 3185 | 43 | 164 | 51% | 3175 | 43% |
+| 1.4 | STC <sub>(8.0+0.08s)</sub> | 2925 | 44 | 156 | 49% | 2935 | 40% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0.0 |  |  |  |  |  |  |  |
+| 1.3 | VLTC <sub>(2m24s+1.12s)</sub> | 3212 | 100 | 26 | 56% | 3170 | 58% |
+| 1.3 | LTC <sub>(60.0+0.60s)</sub> | 3112 | 75 | 52 | 46% | 3136 | 46% |
+| 1.3 | STC <sub>(8.0+0.08s)</sub> | 2915 | 123 | 22 | 52% | 2892 | 23% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2986 | 158 | 12 | 46% | 3023 | 25% |
+| 1.2 | LTC <sub>(60.0+0.60s)</sub> | 2824 | 78 | 52 | 52% | 2807 | 31% |
+| 1.2 | STC <sub>(8.0+0.08s)</sub> | 2661 | 149 | 16 | 63% | 2541 | 13% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2728 | 100 | 32 | 33% | 2871 | 41% |
+| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2647 | 146 | 16 | 41% | 2734 | 19% |
+| 1.0 | STC <sub>(8.0+0.08s)</sub> | 2376 | 71 | 70 | 41% | 2452 | 23% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0.1 |  |  |  |  |  |  |  |
