@@ -4,7 +4,7 @@ Author: Jose Carlos Martinez Galan
 
 Home: https://github.com/Lacovipo/Anubis-chess-engine
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -32,4 +32,23 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 06:22:29
+Generated: 2026-05-03 07:35:16
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 3.0.6 | VLTC <sub>(2m24s+1.12s)</sub> | 3073 | 26 | 440 | 47% | 3097 | 45% |
+| 3.0.6 | LTC <sub>(60.0+0.60s)</sub> | 2957 | 26 | 436 | 46% | 2985 | 42% |
+| 3.0.6 | STC <sub>(8.0+0.08s)</sub> | 2511 | 27 | 478 | 53% | 2475 | 24% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 3.04 |  |  |  |  |  |  |  |
+| 3.03 |  |  |  |  |  |  |  |
+| 3.02 |  |  |  |  |  |  |  |
+| 3.01 |  |  |  |  |  |  |  |
+| 3.0_red |  |  |  |  |  |  |  |
+| 2.0 |  |  |  |  |  |  |  |
+| 1.0 |  |  |  |  |  |  |  |
+| pre-1.0 |  |  |  |  |  |  |  |
