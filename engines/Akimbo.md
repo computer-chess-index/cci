@@ -8,7 +8,7 @@ Home: https://github.com/jw1912/akimbo
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | 2024-05-26 | 3208<sub>(+new) | 3395<sub>(+new) | 3437<sub>(+new) |  |
+| 1.0.0 | 2024-05-26 | 3208<sub>(+new) | 3395<sub>(+new) | 3438<sub>(+new) |  |
 | 0.8.0 | 2024-01-02 |  |  |  |  |
 | 0.7.0 | 2023-10-30 |  |  |  |  |
 | 0.6.0 | 2023-09-24 |  |  |  |  |
@@ -34,7 +34,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 08:10:27
+Generated: 2026-05-04 06:22:12
 
 
 
@@ -42,7 +42,7 @@ Generated: 2026-05-03 08:10:27
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3437 | 11 | 1948 | 52% | 3422 | 71% |
-| 1.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3395 | 12 | 1892 | 50% | 3395 | 72% |
-| 1.0.0 | STC <sub>(8.0+0.08s)</sub> | 3208 | 12 | 1940 | 50% | 3210 | 58% |
+| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3438 | 11 | 1948 | 52% | 3424 | 71% |
+| 1.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3395 | 11 | 1896 | 50% | 3395 | 72% |
+| 1.0.0 | STC <sub>(8.0+0.08s)</sub> | 3208 | 12 | 1940 | 50% | 3212 | 58% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
