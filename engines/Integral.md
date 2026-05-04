@@ -8,7 +8,7 @@ Home: https://github.com/aronpetko/integral
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7.0 | 2025-02-14 | 3413<sub>(+new) | 3564<sub>(+new) | 3586<sub>(+new) |  |
+| 7.0 | 2025-02-14 | 3413<sub>(+new) | 3565<sub>(+new) | 3586<sub>(+new) |  |
 | 6 | 2024-12-17 |  |  |  |  |
 | 5 | 2024-11-02 |  |  |  |  |
 | 4 | 2024-09-06 |  |  |  |  |
@@ -30,7 +30,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 08:16:07
+Generated: 2026-05-04 06:25:04
 
 
 
@@ -39,6 +39,6 @@ Generated: 2026-05-03 08:16:07
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 7.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3586 | 16 | 894 | 50% | 3584 | 87% |
-| 7.0 | LTC <sub>(60.0+0.60s)</sub> | 3564 | 16 | 890 | 50% | 3561 | 85% |
-| 7.0 | STC <sub>(8.0+0.08s)</sub> | 3413 | 16 | 972 | 50% | 3410 | 71% |
+| 7.0 | LTC <sub>(60.0+0.60s)</sub> | 3565 | 16 | 890 | 50% | 3563 | 85% |
+| 7.0 | STC <sub>(8.0+0.08s)</sub> | 3413 | 16 | 974 | 50% | 3411 | 71% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
