@@ -8,7 +8,7 @@ Home: https://github.com/CJDalrymple/Yakka
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.5 | 2026-01-22 | 2812<sub>(+112) | 3078<sub>(+113) | 3156<sub>(+151) |  |
+| 1.5 | 2026-01-22 | 2812<sub>(+112) | 3078<sub>(+113) | 3158<sub>(+153) |  |
 | 1.4 | 2025-11-11 | 2700<sub>(+new) | 2965<sub>(+new) | 3005<sub>(+new) |  |
 | 1.3 | 2025-08-10 |  |  |  |  |
 | 1.2 | 2025-02-11 |  |  |  |  |
@@ -29,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 08:23:20
+Generated: 2026-05-04 06:29:25
 
 ## Ratings Verlauf
 
@@ -41,8 +41,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [2700, 2812]
   line "STC (8.0+0.08s)" [2700, 2812]
   line "LTC (60.0+0.60s)" [2965, 3078]
-  line "VLTC (2m24s+1.12s)" [3005, 3156]
-  line "VLTC (2m24s+1.12s)" [3005, 3156]
+  line "VLTC (2m24s+1.12s)" [3005, 3158]
+  line "VLTC (2m24s+1.12s)" [3005, 3158]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -55,11 +55,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.5 | VLTC <sub>(2m24s+1.12s)</sub> | 3156 | 24 | 476 | 49% | 3162 | 54% |
+| 1.5 | VLTC <sub>(2m24s+1.12s)</sub> | 3158 | 24 | 476 | 49% | 3163 | 54% |
 | 1.5 | LTC <sub>(60.0+0.60s)</sub> | 3078 | 28 | 356 | 48% | 3093 | 57% |
-| 1.5 | STC <sub>(8.0+0.08s)</sub> | 2812 | 27 | 422 | 50% | 2815 | 41% |
+| 1.5 | STC <sub>(8.0+0.08s)</sub> | 2812 | 27 | 434 | 50% | 2815 | 40% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.4 | VLTC <sub>(2m24s+1.12s)</sub> | 3005 | 34 | 260 | 52% | 2988 | 48% |
+| 1.4 | VLTC <sub>(2m24s+1.12s)</sub> | 3005 | 34 | 260 | 52% | 2989 | 48% |
 | 1.4 | LTC <sub>(60.0+0.60s)</sub> | 2965 | 30 | 336 | 56% | 2907 | 42% |
-| 1.4 | STC <sub>(8.0+0.08s)</sub> | 2700 | 36 | 264 | 53% | 2661 | 32% |
+| 1.4 | STC <sub>(8.0+0.08s)</sub> | 2700 | 36 | 264 | 53% | 2662 | 32% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
