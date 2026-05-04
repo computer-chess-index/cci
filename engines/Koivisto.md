@@ -8,7 +8,7 @@ Home: https://github.com/Luecx/Koivisto
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.0 | 2023-01-15 | 3317<sub>(+new) | 3464<sub>(+new) | 3503<sub>(+new) |  |
+| 9.0 | 2023-01-15 | 3317<sub>(+new) | 3465<sub>(+new) | 3503<sub>(+new) |  |
 | 8.0 | 2022-03-15 |  |  |  |  |
 | 7.0 | 2021-10-31 |  |  |  |  |
 | 6.0 | 2021-07-21 |  |  |  |  |
@@ -32,7 +32,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-03 08:16:14
+Generated: 2026-05-04 06:25:10
 
 
 
@@ -41,6 +41,6 @@ Generated: 2026-05-03 08:16:14
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3503 | 11 | 2000 | 50% | 3501 | 78% |
-| 9.0 | LTC <sub>(60.0+0.60s)</sub> | 3464 | 11 | 1896 | 50% | 3465 | 76% |
-| 9.0 | STC <sub>(8.0+0.08s)</sub> | 3317 | 11 | 2028 | 50% | 3316 | 64% |
+| 9.0 | LTC <sub>(60.0+0.60s)</sub> | 3465 | 11 | 1896 | 50% | 3465 | 76% |
+| 9.0 | STC <sub>(8.0+0.08s)</sub> | 3317 | 11 | 2028 | 50% | 3317 | 64% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
