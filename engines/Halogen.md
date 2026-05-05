@@ -8,7 +8,7 @@ Home: https://github.com/KierenP/Halogen
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 16.0.0 | 2026-02-10 | 3407<sub>(+75) | 3568<sub>(+53) | 3594<sub>(+23) |  |
+| 16.0.0 | 2026-02-10 | 3407<sub>(+75) | 3568<sub>(+53) | 3595<sub>(+24) |  |
 | 15.0.0 | 2025-09-01 | 3332<sub>(+new) | 3515<sub>(+new) | 3571<sub>(+new) |  |
 | 14 | 2025-07-28 |  |  |  |  |
 | 13 | 2025-06-24 |  |  |  |  |
@@ -43,7 +43,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-04 06:24:43
+Generated: 2026-05-05 06:24:42
 
 ## Ratings Verlauf
 
@@ -55,8 +55,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [3332, 3407]
   line "STC (8.0+0.08s)" [3332, 3407]
   line "LTC (60.0+0.60s)" [3515, 3568]
-  line "VLTC (2m24s+1.12s)" [3571, 3594]
-  line "VLTC (2m24s+1.12s)" [3571, 3594]
+  line "VLTC (2m24s+1.12s)" [3571, 3595]
+  line "VLTC (2m24s+1.12s)" [3571, 3595]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -69,11 +69,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 16.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3594 | 24 | 410 | 50% | 3594 | 88% |
+| 16.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3595 | 24 | 410 | 50% | 3594 | 88% |
 | 16.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3568 | 23 | 432 | 50% | 3567 | 85% |
 | 16.0.0 | STC <sub>(8.0+0.08s)</sub> | 3407 | 23 | 456 | 49% | 3411 | 75% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 15.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3571 | 27 | 324 | 52% | 3553 | 83% |
 | 15.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3515 | 30 | 276 | 52% | 3497 | 79% |
-| 15.0.0 | STC <sub>(8.0+0.08s)</sub> | 3332 | 32 | 256 | 54% | 3293 | 64% |
+| 15.0.0 | STC <sub>(8.0+0.08s)</sub> | 3332 | 32 | 256 | 54% | 3294 | 64% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
