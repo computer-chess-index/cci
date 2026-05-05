@@ -8,7 +8,7 @@ Home: https://github.com/paulsonkoly/chess-3
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.0 | 2026-04-02 | 2557<sub>(+38) | 2862<sub>(+59) | 2931<sub>(+84) |  |
+| 4.0 | 2026-04-02 | 2557<sub>(+38) | 2862<sub>(+59) | 2932<sub>(+85) |  |
 | 3.0 | 2026-01-17 | 2519<sub>(+new) | 2803<sub>(+new) | 2847<sub>(+new) |  |
 | 2.0 | 2025-08-14 |  |  |  |  |
 | 1.0 | 2025-05-15 |  |  |  |  |
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-04 06:23:24
+Generated: 2026-05-05 06:23:22
 
 ## Ratings Verlauf
 
@@ -39,8 +39,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [2519, 2557]
   line "STC (8.0+0.08s)" [2519, 2557]
   line "LTC (60.0+0.60s)" [2803, 2862]
-  line "VLTC (2m24s+1.12s)" [2847, 2931]
-  line "VLTC (2m24s+1.12s)" [2847, 2931]
+  line "VLTC (2m24s+1.12s)" [2847, 2932]
+  line "VLTC (2m24s+1.12s)" [2847, 2932]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -53,9 +53,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2931 | 29 | 378 | 52% | 2912 | 40% |
-| 4.0 | LTC <sub>(60.0+0.60s)</sub> | 2862 | 29 | 370 | 52% | 2846 | 37% |
-| 4.0 | STC <sub>(8.0+0.08s)</sub> | 2557 | 29 | 396 | 51% | 2550 | 29% |
+| 4.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2932 | 29 | 378 | 52% | 2912 | 40% |
+| 4.0 | LTC <sub>(60.0+0.60s)</sub> | 2862 | 29 | 374 | 52% | 2846 | 37% |
+| 4.0 | STC <sub>(8.0+0.08s)</sub> | 2557 | 29 | 396 | 51% | 2552 | 29% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2847 | 32 | 316 | 49% | 2861 | 34% |
 | 3.0 | LTC <sub>(60.0+0.60s)</sub> | 2803 | 32 | 320 | 50% | 2799 | 35% |
