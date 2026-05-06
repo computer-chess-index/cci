@@ -8,7 +8,7 @@ Home: https://github.com/Matthies/RubiChess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 20240817 | 2024-08-17 | 3387<sub>(+new) | 3533<sub>(+new) | 3567<sub>(+new) |  |
+| 20240817 | 2024-08-17 | 3389<sub>(+new) | 3534<sub>(+new) | 3568<sub>(+new) |  |
 | 20240112 | 2024-01-12 |  |  |  |  |
 | 20230918 | 2023-09-18 |  |  |  |  |
 | 20230410 | 2023-04-11 |  |  |  |  |
@@ -59,7 +59,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-05 06:27:45
+Generated: 2026-05-06 06:28:15
 
 
 
@@ -67,7 +67,7 @@ Generated: 2026-05-05 06:27:45
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 20240817 | VLTC <sub>(2m24s+1.12s)</sub> | 3567 | 11 | 1850 | 51% | 3563 | 86% |
-| 20240817 | LTC <sub>(60.0+0.60s)</sub> | 3533 | 11 | 1904 | 51% | 3528 | 82% |
-| 20240817 | STC <sub>(8.0+0.08s)</sub> | 3387 | 11 | 2124 | 50% | 3367 | 71% |
+| 20240817 | VLTC <sub>(2m24s+1.12s)</sub> | 3568 | 11 | 1850 | 51% | 3564 | 86% |
+| 20240817 | LTC <sub>(60.0+0.60s)</sub> | 3534 | 11 | 1904 | 51% | 3529 | 82% |
+| 20240817 | STC <sub>(8.0+0.08s)</sub> | 3389 | 11 | 2124 | 50% | 3368 | 71% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
