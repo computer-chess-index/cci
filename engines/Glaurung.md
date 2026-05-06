@@ -8,7 +8,7 @@ Home:
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.2 |  | 1593 |  | 2106 |  |
+| 2.2 |  | 1593 |  | 2107 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Glaurung+<version>&body=###%20Engine%20name%0AGlaurung%0A%0A###%20Version%0A2.2" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-05 06:24:31
+Generated: 2026-05-06 06:24:45
 
 
 
@@ -32,6 +32,6 @@ Generated: 2026-05-05 06:24:31
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2106 | 89 | 52 | 69% | 1925 | 19% |
+| 2.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2107 | 89 | 52 | 69% | 1926 | 19% |
 | 2.2 | STC <sub>(8.0+0.08s)</sub> | 1593 | 36 | 344 | 44% | 1737 | 11% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
