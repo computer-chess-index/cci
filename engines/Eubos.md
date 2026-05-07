@@ -8,7 +8,8 @@ Home: https://github.com/cjbolt/EubosChess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.3 | 2026-01-29 | 2147<sub>(-58) | 2504<sub>(+32) | 2619<sub>(+22) |  |
+| 4.4 | 2026-05-06 |  |  |  |  |
+| 4.3 | 2026-01-29 | 2147<sub>(-58) | 2503<sub>(+31) | 2619<sub>(+22) |  |
 | 4.2 | 2025-10-16 | 2205<sub>(+new) | 2472<sub>(+new) | 2597<sub>(+new) |  |
 | 4.1 | 2025-08-23 |  |  |  |  |
 | 4.0 | 2025-04-13 |  |  |  |  |
@@ -68,7 +69,7 @@ Home: https://github.com/cjbolt/EubosChess
 | 1.0.1 | 2020-01-27 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Eubos+<version>&body=###%20Engine%20name%0AEubos%0A%0A###%20Version%0A4.3" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Eubos+<version>&body=###%20Engine%20name%0AEubos%0A%0A###%20Version%0A4.4" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -81,7 +82,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-06 06:24:21
+Generated: 2026-05-07 06:24:12
 
 ## Ratings Verlauf
 
@@ -92,7 +93,7 @@ xychart-beta
   y-axis "Elo Rating" 2100 --> 2700
   line "STC (8.0+0.08s)" [2205, 2147]
   line "STC (8.0+0.08s)" [2205, 2147]
-  line "LTC (60.0+0.60s)" [2472, 2504]
+  line "LTC (60.0+0.60s)" [2472, 2503]
   line "VLTC (2m24s+1.12s)" [2597, 2619]
   line "VLTC (2m24s+1.12s)" [2597, 2619]
 ```
@@ -108,7 +109,7 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4.3 | VLTC <sub>(2m24s+1.12s)</sub> | 2619 | 30 | 388 | 50% | 2608 | 27% |
-| 4.3 | LTC <sub>(60.0+0.60s)</sub> | 2504 | 31 | 368 | 49% | 2510 | 24% |
+| 4.3 | LTC <sub>(60.0+0.60s)</sub> | 2503 | 31 | 368 | 49% | 2508 | 24% |
 | 4.3 | STC <sub>(8.0+0.08s)</sub> | 2147 | 28 | 452 | 50% | 2132 | 21% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2597 | 36 | 266 | 52% | 2580 | 24% |
