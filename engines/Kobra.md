@@ -8,7 +8,7 @@ Home: https://github.com/jasper-sinclair/kobra
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1 | 2026-03-03 | 2758<sub>(+new) | 3069<sub>(+new) | 3141<sub>(+new) |  |
+| 2.1 | 2026-03-03 | 2758<sub>(+new) | 3067<sub>(+new) | 3141<sub>(+new) |  |
 | 2.0 | 2025-05-02 |  |  |  |  |
 | 1.2 | 2024-05-20 |  |  |  |  |
 | 1.1 | 2024-04-21 |  |  |  |  |
@@ -33,7 +33,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-06 06:25:24
+Generated: 2026-05-07 06:25:13
 
 
 
@@ -42,6 +42,6 @@ Generated: 2026-05-06 06:25:24
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3141 | 26 | 412 | 49% | 3146 | 59% |
-| 2.1 | LTC <sub>(60.0+0.60s)</sub> | 3069 | 27 | 406 | 55% | 3027 | 48% |
-| 2.1 | STC <sub>(8.0+0.08s)</sub> | 2758 | 27 | 440 | 55% | 2708 | 36% |
+| 2.1 | LTC <sub>(60.0+0.60s)</sub> | 3067 | 27 | 410 | 55% | 3027 | 49% |
+| 2.1 | STC <sub>(8.0+0.08s)</sub> | 2758 | 27 | 448 | 55% | 2709 | 37% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
