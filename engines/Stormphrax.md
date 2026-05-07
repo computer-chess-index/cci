@@ -8,7 +8,7 @@ Home: https://github.com/Ciekce/Stormphrax
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7.0.0 | 2025-06-24 | 3397<sub>(+52) | 3561<sub>(+40) | 3599<sub>(+47) |  |
+| 7.0.0 | 2025-06-24 | 3395<sub>(+50) | 3561<sub>(+40) | 3599<sub>(+47) |  |
 | 6.0.0 | 2024-10-29 | 3345<sub>(+97) | 3521<sub>(+76) | 3552<sub>(+70) |  |
 | 5.0.0 | 2024-06-26 | 3248<sub>(+new) | 3445<sub>(+new) | 3482<sub>(+new) |  |
 | 4.1.0 | 2024-03-11 |  |  |  |  |
@@ -31,7 +31,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-06 06:29:05
+Generated: 2026-05-07 06:28:38
 
 ## Ratings Verlauf
 
@@ -40,8 +40,8 @@ Generated: 2026-05-06 06:29:05
 xychart-beta
   x-axis ["5.0.0", "6.0.0", "7.0.0"]
   y-axis "Elo Rating" 3200 --> 3600
-  line "STC (8.0+0.08s)" [3248, 3345, 3397]
-  line "STC (8.0+0.08s)" [3248, 3345, 3397]
+  line "STC (8.0+0.08s)" [3248, 3345, 3395]
+  line "STC (8.0+0.08s)" [3248, 3345, 3395]
   line "LTC (60.0+0.60s)" [3445, 3521, 3561]
   line "VLTC (2m24s+1.12s)" [3482, 3552, 3599]
   line "VLTC (2m24s+1.12s)" [3482, 3552, 3599]
@@ -59,7 +59,7 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 7.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3599 | 18 | 714 | 51% | 3595 | 87% |
 | 7.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3561 | 17 | 824 | 51% | 3557 | 87% |
-| 7.0.0 | STC <sub>(8.0+0.08s)</sub> | 3397 | 17 | 890 | 51% | 3390 | 69% |
+| 7.0.0 | STC <sub>(8.0+0.08s)</sub> | 3395 | 17 | 894 | 51% | 3390 | 69% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 6.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3552 | 14 | 1184 | 50% | 3551 | 82% |
 | 6.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3521 | 14 | 1228 | 50% | 3524 | 80% |
