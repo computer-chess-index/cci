@@ -8,7 +8,7 @@ Home: https://github.com/ProgramciDusunur/Potential
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.0 | 2025-08-28 | 2592<sub>(+new) | 2904<sub>(+new) | 2992<sub>(+new) |  |
+| 3.0.0 | 2025-08-28 | 2593<sub>(+new) | 2904<sub>(+new) | 2992<sub>(+new) |  |
 | 2.0.0 | 2025-04-08 |  |  |  |  |
 | 1.0.0 | 2025-01-28 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-07 06:26:55
+Generated: 2026-05-08 06:26:45
 
 
 
@@ -36,5 +36,5 @@ Generated: 2026-05-07 06:26:55
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2992 | 29 | 392 | 49% | 3001 | 34% |
 | 3.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2904 | 29 | 376 | 49% | 2913 | 34% |
-| 3.0.0 | STC <sub>(8.0+0.08s)</sub> | 2592 | 28 | 428 | 50% | 2591 | 30% |
+| 3.0.0 | STC <sub>(8.0+0.08s)</sub> | 2593 | 27 | 440 | 50% | 2592 | 30% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
