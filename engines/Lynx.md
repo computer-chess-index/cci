@@ -8,7 +8,7 @@ Home: https://github.com/lynx-chess/Lynx
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.11.0 | 2025-10-01 | 2881<sub>(+new) | 3189<sub>(+new) | 3254<sub>(+new) |  |
+| 1.11.0 | 2025-10-01 | 2882<sub>(+new) | 3190<sub>(+new) | 3254<sub>(+new) |  |
 | 1.10.0 | 2025-06-29 |  |  |  |  |
 | 1.9.1 | 2025-04-05 |  |  |  |  |
 | 1.9.0 | 2025-03-11 |  |  |  |  |
@@ -67,7 +67,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-08 06:25:36
+Generated: 2026-05-12 06:26:15
 
 
 
@@ -75,7 +75,7 @@ Generated: 2026-05-08 06:25:36
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.11.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3254 | 25 | 452 | 50% | 3237 | 53% |
-| 1.11.0 | LTC <sub>(60.0+0.60s)</sub> | 3189 | 24 | 478 | 53% | 3146 | 54% |
-| 1.11.0 | STC <sub>(8.0+0.08s)</sub> | 2881 | 24 | 556 | 50% | 2865 | 39% |
+| 1.11.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3254 | 25 | 452 | 50% | 3239 | 53% |
+| 1.11.0 | LTC <sub>(60.0+0.60s)</sub> | 3190 | 24 | 478 | 53% | 3146 | 54% |
+| 1.11.0 | STC <sub>(8.0+0.08s)</sub> | 2882 | 24 | 556 | 50% | 2866 | 39% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
