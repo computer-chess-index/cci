@@ -8,7 +8,7 @@ Home: https://github.com/znxftw/rudim
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0.0 | 2026-05-03 | 1696<sub>(+81) | 1958<sub>(+76) | 2003<sub>(0) |  |
+| 2.0.0 | 2026-05-03 | 1689<sub>(+74) | 1955<sub>(+73) | 2002<sub>(-1) |  |
 | 1.5 | 2026-04-28 | 1615<sub>(+new) | 1882<sub>(+new) | 2003<sub>(+new) |  |
 | 1.4.1 | 2024-12-18 |  |  |  |  |
 | 1.3 | 2024-12-05 |  |  |  |  |
@@ -30,7 +30,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-08 06:27:42
+Generated: 2026-05-12 06:28:56
 
 ## Ratings Verlauf
 
@@ -39,11 +39,11 @@ Generated: 2026-05-08 06:27:42
 xychart-beta
   x-axis ["1.5", "2.0.0"]
   y-axis "Elo Rating" 1600 --> 2100
-  line "STC (8.0+0.08s)" [1615, 1696]
-  line "STC (8.0+0.08s)" [1615, 1696]
-  line "LTC (60.0+0.60s)" [1882, 1958]
-  line "VLTC (2m24s+1.12s)" [2003, 2003]
-  line "VLTC (2m24s+1.12s)" [2003, 2003]
+  line "STC (8.0+0.08s)" [1615, 1689]
+  line "STC (8.0+0.08s)" [1615, 1689]
+  line "LTC (60.0+0.60s)" [1882, 1955]
+  line "VLTC (2m24s+1.12s)" [2003, 2002]
+  line "VLTC (2m24s+1.12s)" [2003, 2002]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -56,9 +56,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2003 | 36 | 274 | 49% | 2014 | 20% |
-| 2.0.0 | LTC <sub>(60.0+0.60s)</sub> | 1958 | 34 | 308 | 51% | 1945 | 19% |
-| 2.0.0 | STC <sub>(8.0+0.08s)</sub> | 1696 | 35 | 282 | 49% | 1702 | 23% |
+| 2.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2002 | 36 | 278 | 49% | 2013 | 19% |
+| 2.0.0 | LTC <sub>(60.0+0.60s)</sub> | 1955 | 34 | 316 | 51% | 1945 | 20% |
+| 2.0.0 | STC <sub>(8.0+0.08s)</sub> | 1689 | 35 | 290 | 48% | 1706 | 22% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.5 | VLTC <sub>(2m24s+1.12s)</sub> | 2003 | 37 | 264 | 47% | 2034 | 24% |
 | 1.5 | LTC <sub>(60.0+0.60s)</sub> | 1882 | 35 | 296 | 50% | 1886 | 18% |
