@@ -8,7 +8,7 @@ Home: https://github.com/rglenister/natto
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.1.9 | 2025-09-06 | 1621<sub>(+new) | 1866<sub>(+new) | 1978<sub>(+new) |  |
+| 0.1.9 | 2025-09-06 | 1620<sub>(+new) | 1870<sub>(+new) | 1982<sub>(+new) |  |
 | 1.0.0 | 2025-07-27 |  |  |  |  |
 | 0.1.8 | 2025-06-22 |  |  |  |  |
 | 0.1.7 | 2025-06-01 |  |  |  |  |
@@ -30,7 +30,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-08 06:26:05
+Generated: 2026-05-12 06:26:52
 
 
 
@@ -38,7 +38,7 @@ Generated: 2026-05-08 06:26:05
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.1.9 | VLTC <sub>(2m24s+1.12s)</sub> | 1978 | 26 | 500 | 48% | 2012 | 28% |
-| 0.1.9 | LTC <sub>(60.0+0.60s)</sub> | 1866 | 28 | 468 | 48% | 1905 | 28% |
-| 0.1.9 | STC <sub>(8.0+0.08s)</sub> | 1621 | 28 | 456 | 47% | 1667 | 29% |
+| 0.1.9 | VLTC <sub>(2m24s+1.12s)</sub> | 1982 | 26 | 508 | 49% | 2010 | 28% |
+| 0.1.9 | LTC <sub>(60.0+0.60s)</sub> | 1870 | 27 | 480 | 49% | 1904 | 28% |
+| 0.1.9 | STC <sub>(8.0+0.08s)</sub> | 1620 | 28 | 460 | 47% | 1669 | 29% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
