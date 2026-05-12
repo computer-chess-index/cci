@@ -8,7 +8,7 @@ Home: https://github.com/yl25946/spaghet
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.1.0 | 2024-08-12 | 3262<sub>(+new) | 3468<sub>(+new) | 3510<sub>(+new) |  |
+| 3.1.0 | 2024-08-12 | 3263<sub>(+new) | 3470<sub>(+new) | 3511<sub>(+new) |  |
 | 2.1.0 | 2024-06-30 |  |  |  |  |
 | 1.1.0 | 2024-06-10 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-08 06:28:15
+Generated: 2026-05-12 06:29:34
 
 
 
@@ -34,7 +34,7 @@ Generated: 2026-05-08 06:28:15
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3510 | 17 | 842 | 50% | 3506 | 81% |
-| 3.1.0 | LTC <sub>(60.0+0.60s)</sub> | 3468 | 17 | 872 | 49% | 3472 | 78% |
-| 3.1.0 | STC <sub>(8.0+0.08s)</sub> | 3262 | 17 | 952 | 51% | 3251 | 63% |
+| 3.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3511 | 17 | 842 | 50% | 3507 | 81% |
+| 3.1.0 | LTC <sub>(60.0+0.60s)</sub> | 3470 | 17 | 872 | 49% | 3474 | 78% |
+| 3.1.0 | STC <sub>(8.0+0.08s)</sub> | 3263 | 17 | 952 | 51% | 3252 | 63% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
