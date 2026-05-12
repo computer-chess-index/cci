@@ -8,7 +8,7 @@ Home: https://github.com/LarsAur/Arcanum
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.7 | 2025-10-18 | 2946<sub>(+new) | 3251<sub>(+new) | 3305<sub>(+new) |  |
+| 2.7 | 2025-10-18 | 2946<sub>(+new) | 3251<sub>(+new) | 3309<sub>(+new) |  |
 | 2.6 | 2025-07-19 |  |  |  |  |
 | 2.5 | 2025-03-03 |  |  |  |  |
 | 2.4 | 2024-11-30 |  |  |  |  |
@@ -36,7 +36,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-08 06:22:39
+Generated: 2026-05-12 06:22:45
 
 
 
@@ -44,7 +44,7 @@ Generated: 2026-05-08 06:22:39
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.7 | VLTC <sub>(2m24s+1.12s)</sub> | 3305 | 27 | 382 | 53% | 3274 | 57% |
-| 2.7 | LTC <sub>(60.0+0.60s)</sub> | 3251 | 26 | 416 | 51% | 3231 | 57% |
+| 2.7 | VLTC <sub>(2m24s+1.12s)</sub> | 3309 | 27 | 386 | 54% | 3275 | 56% |
+| 2.7 | LTC <sub>(60.0+0.60s)</sub> | 3251 | 26 | 416 | 51% | 3232 | 57% |
 | 2.7 | STC <sub>(8.0+0.08s)</sub> | 2946 | 24 | 546 | 49% | 2946 | 44% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
