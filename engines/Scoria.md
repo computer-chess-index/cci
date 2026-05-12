@@ -8,7 +8,7 @@ Home: https://github.com/iannathan-k/scoria
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.8.51 | 2025-08-10 | 1272<sub>(+new) | 1538<sub>(+new) | 1665<sub>(+new) |  |
+| 3.8.51 | 2025-08-10 | 1272<sub>(+new) | 1538<sub>(+new) | 1667<sub>(+new) |  |
 | 2.6.17 | 2025-02-27 |  |  |  |  |
 | 1.0.0 | 2025-01-26 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-08 06:27:58
+Generated: 2026-05-12 06:29:14
 
 
 
@@ -34,7 +34,7 @@ Generated: 2026-05-08 06:27:58
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.8.51 | VLTC <sub>(2m24s+1.12s)</sub> | 1665 | 26 | 466 | 44% | 1740 | 41% |
+| 3.8.51 | VLTC <sub>(2m24s+1.12s)</sub> | 1667 | 26 | 470 | 44% | 1740 | 41% |
 | 3.8.51 | LTC <sub>(60.0+0.60s)</sub> | 1538 | 28 | 438 | 49% | 1577 | 38% |
 | 3.8.51 | STC <sub>(8.0+0.08s)</sub> | 1272 | 27 | 520 | 55% | 1199 | 33% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
