@@ -8,7 +8,7 @@ Home: https://github.com/Synthetica9/lunar
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.4.0 | 2025-09-23 | 2882<sub>(+new) | 3272<sub>(+new) | 3410<sub>(+new) |  |
+| 0.4.0 | 2025-09-23 | 2884<sub>(+new) | 3274<sub>(+new) | 3411<sub>(+new) |  |
 | 0.3 | 2025-08-02 |  |  |  |  |
 | 0.2.1 | 2025-06-12 |  |  |  |  |
 | 0.2.0 | 2025-06-11 |  |  |  |  |
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-08 06:25:34
+Generated: 2026-05-12 06:26:12
 
 
 
@@ -35,7 +35,7 @@ Generated: 2026-05-08 06:25:34
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.4.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3410 | 47 | 116 | 53% | 3383 | 67% |
-| 0.4.0 | LTC <sub>(60.0+0.60s)</sub> | 3272 | 59 | 78 | 53% | 3236 | 58% |
-| 0.4.0 | STC <sub>(8.0+0.08s)</sub> | 2882 | 143 | 18 | 64% | 2731 | 17% |
+| 0.4.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3411 | 47 | 116 | 53% | 3384 | 67% |
+| 0.4.0 | LTC <sub>(60.0+0.60s)</sub> | 3274 | 59 | 78 | 53% | 3237 | 58% |
+| 0.4.0 | STC <sub>(8.0+0.08s)</sub> | 2884 | 143 | 18 | 64% | 2732 | 17% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
