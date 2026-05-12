@@ -8,7 +8,7 @@ Home: https://github.com/Jakob256/PurplePanda
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 20 | 2025-12-15 | 1679<sub>(+new) | 1955<sub>(+new) | 2021<sub>(+new) |  |
+| 20 | 2025-12-15 | 1681<sub>(+new) | 1955<sub>(+new) | 2029<sub>(+new) |  |
 | 19 | 2024-12-28 |  |  |  |  |
 | 18 | 2024-09-26 |  |  |  |  |
 | 17.0 | 2024-06-20 |  |  |  |  |
@@ -32,7 +32,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-08 06:27:05
+Generated: 2026-05-12 06:28:06
 
 
 
@@ -40,7 +40,7 @@ Generated: 2026-05-08 06:27:05
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 20 | VLTC <sub>(2m24s+1.12s)</sub> | 2021 | 27 | 498 | 47% | 2059 | 21% |
-| 20 | LTC <sub>(60.0+0.60s)</sub> | 1955 | 27 | 516 | 50% | 1959 | 16% |
-| 20 | STC <sub>(8.0+0.08s)</sub> | 1679 | 26 | 572 | 48% | 1700 | 16% |
+| 20 | VLTC <sub>(2m24s+1.12s)</sub> | 2029 | 27 | 506 | 48% | 2057 | 20% |
+| 20 | LTC <sub>(60.0+0.60s)</sub> | 1955 | 27 | 524 | 50% | 1959 | 16% |
+| 20 | STC <sub>(8.0+0.08s)</sub> | 1681 | 26 | 576 | 48% | 1700 | 16% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
