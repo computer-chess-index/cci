@@ -8,8 +8,8 @@ Home: https://github.com/KierenP/Halogen
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 16.0.0 | 2026-02-10 | 3410<sub>(+75) | 3571<sub>(+53) | 3598<sub>(+25) |  |
-| 15.0.0 | 2025-09-01 | 3335<sub>(+new) | 3518<sub>(+new) | 3573<sub>(+new) |  |
+| 16.0.0 | 2026-02-10 | 3410<sub>(+74) | 3571<sub>(+53) | 3598<sub>(+25) |  |
+| 15.0.0 | 2025-09-01 | 3336<sub>(+new) | 3518<sub>(+new) | 3573<sub>(+new) |  |
 | 14 | 2025-07-28 |  |  |  |  |
 | 13 | 2025-06-24 |  |  |  |  |
 | 12 | 2024-08-01 |  |  |  |  |
@@ -43,7 +43,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-12 06:25:12
+Generated: 2026-05-13 06:25:27
 
 ## Ratings Verlauf
 
@@ -52,8 +52,8 @@ Generated: 2026-05-12 06:25:12
 xychart-beta
   x-axis ["15.0.0", "16.0.0"]
   y-axis "Elo Rating" 3300 --> 3600
-  line "STC (8.0+0.08s)" [3335, 3410]
-  line "STC (8.0+0.08s)" [3335, 3410]
+  line "STC (8.0+0.08s)" [3336, 3410]
+  line "STC (8.0+0.08s)" [3336, 3410]
   line "LTC (60.0+0.60s)" [3518, 3571]
   line "VLTC (2m24s+1.12s)" [3573, 3598]
   line "VLTC (2m24s+1.12s)" [3573, 3598]
@@ -75,5 +75,5 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 15.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3573 | 27 | 324 | 52% | 3556 | 83% |
 | 15.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3518 | 30 | 276 | 52% | 3499 | 79% |
-| 15.0.0 | STC <sub>(8.0+0.08s)</sub> | 3335 | 32 | 256 | 54% | 3297 | 64% |
+| 15.0.0 | STC <sub>(8.0+0.08s)</sub> | 3336 | 32 | 256 | 54% | 3297 | 64% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
