@@ -10,7 +10,7 @@ Home: https://github.com/AleksPeshkov/petrel
 | --- | --- | --- | --- | --- | --- |
 | 3.4 | 2026-03-19 |  |  |  |  |
 | 2.4 | 2026-03-19 |  |  |  |  |
-| 3.3.1 | 2026-02-10 | 2971<sub>(+new) | 3190<sub>(+new) | 3222<sub>(+new) |  |
+| 3.3.1 | 2026-02-10 | 2971<sub>(+new) | 3191<sub>(+new) | 3222<sub>(+new) |  |
 | 2.3.1 | 2026-02-10 |  |  |  |  |
 | 3.3 | 2026-02-09 | 2994<sub>(+new) | 3220<sub>(+new) | 3241<sub>(+new) |  |
 | 2.3 | 2026-02-09 |  |  |  |  |
@@ -38,7 +38,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-12 06:27:27
+Generated: 2026-05-13 06:27:46
 
 ## Ratings Verlauf
 
@@ -49,7 +49,7 @@ xychart-beta
   y-axis "Elo Rating" 2200 --> 3300
   line "STC (8.0+0.08s)" [2269, 2805, 2880, 2966, 2994, 2971]
   line "STC (8.0+0.08s)" [2269, 2805, 2880, 2966, 2994, 2971]
-  line "LTC (60.0+0.60s)" [2460, 2990, 3063, 3162, 3220, 3190]
+  line "LTC (60.0+0.60s)" [2460, 2990, 3063, 3162, 3220, 3191]
   line "VLTC (2m24s+1.12s)" [2533, 3015, 3148, 3216, 3241, 3222]
   line "VLTC (2m24s+1.12s)" [2533, 3015, 3148, 3216, 3241, 3222]
 ```
@@ -65,7 +65,7 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3222 | 35 | 228 | 52% | 3206 | 53% |
-| 3.3.1 | LTC <sub>(60.0+0.60s)</sub> | 3190 | 42 | 158 | 53% | 3171 | 56% |
+| 3.3.1 | LTC <sub>(60.0+0.60s)</sub> | 3191 | 42 | 158 | 53% | 3171 | 56% |
 | 3.3.1 | STC <sub>(8.0+0.08s)</sub> | 2971 | 41 | 170 | 49% | 2982 | 49% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.3 | VLTC <sub>(2m24s+1.12s)</sub> | 3241 | 104 | 24 | 58% | 3178 | 58% |
