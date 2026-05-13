@@ -8,10 +8,10 @@ Home: https://github.com/sgtqwq/Gecko
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.30 | 2026-05-01 | 2558<sub>(+24) | 2924<sub>(+119) | 2974<sub>(+90) |  |
+| 0.30 | 2026-05-01 | 2550<sub>(+16) | 2924<sub>(+119) | 2975<sub>(+91) |  |
 | 0.25.1 | 2026-04-12 | 2534<sub>(+89) | 2805<sub>(+96) | 2884<sub>(+115) |  |
-| 0.25 | 2026-04-06 | 2445<sub>(+532) | 2709<sub>(+600) | 2769<sub>(+566) |  |
-| 0.08 | 2026-02-05 | 1913 | 2109 | 2203 |  |
+| 0.25 | 2026-04-06 | 2445<sub>(+531) | 2709<sub>(+600) | 2769<sub>(+566) |  |
+| 0.08 | 2026-02-05 | 1914 | 2109 | 2203 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Gecko+<version>&body=###%20Engine%20name%0AGecko%0A%0A###%20Version%0A0.30" target="_blank">Submit new version</a>
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-12 06:24:57
+Generated: 2026-05-13 06:25:10
 
 ## Ratings Verlauf
 
@@ -36,11 +36,11 @@ Generated: 2026-05-12 06:24:57
 xychart-beta
   x-axis ["0.08", "0.25", "0.25.1", "0.30"]
   y-axis "Elo Rating" 1900 --> 3000
-  line "STC (8.0+0.08s)" [1913, 2445, 2534, 2558]
-  line "STC (8.0+0.08s)" [1913, 2445, 2534, 2558]
+  line "STC (8.0+0.08s)" [1914, 2445, 2534, 2550]
+  line "STC (8.0+0.08s)" [1914, 2445, 2534, 2550]
   line "LTC (60.0+0.60s)" [2109, 2709, 2805, 2924]
-  line "VLTC (2m24s+1.12s)" [2203, 2769, 2884, 2974]
-  line "VLTC (2m24s+1.12s)" [2203, 2769, 2884, 2974]
+  line "VLTC (2m24s+1.12s)" [2203, 2769, 2884, 2975]
+  line "VLTC (2m24s+1.12s)" [2203, 2769, 2884, 2975]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -53,9 +53,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.30 | VLTC <sub>(2m24s+1.12s)</sub> | 2974 | 33 | 296 | 51% | 2967 | 36% |
-| 0.30 | LTC <sub>(60.0+0.60s)</sub> | 2924 | 30 | 332 | 49% | 2934 | 42% |
-| 0.30 | STC <sub>(8.0+0.08s)</sub> | 2558 | 36 | 272 | 51% | 2545 | 22% |
+| 0.30 | VLTC <sub>(2m24s+1.12s)</sub> | 2975 | 33 | 296 | 51% | 2967 | 36% |
+| 0.30 | LTC <sub>(60.0+0.60s)</sub> | 2924 | 30 | 336 | 49% | 2934 | 43% |
+| 0.30 | STC <sub>(8.0+0.08s)</sub> | 2550 | 36 | 280 | 50% | 2547 | 22% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.25.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2884 | 31 | 328 | 51% | 2878 | 37% |
 | 0.25.1 | LTC <sub>(60.0+0.60s)</sub> | 2805 | 32 | 312 | 50% | 2807 | 33% |
@@ -65,7 +65,7 @@ xychart-beta
 | 0.25 | LTC <sub>(60.0+0.60s)</sub> | 2709 | 36 | 228 | 57% | 2646 | 47% |
 | 0.25 | STC <sub>(8.0+0.08s)</sub> | 2445 | 37 | 236 | 55% | 2399 | 36% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.08 | VLTC <sub>(2m24s+1.12s)</sub> | 2203 | 28 | 392 | 46% | 2253 | 40% |
+| 0.08 | VLTC <sub>(2m24s+1.12s)</sub> | 2203 | 28 | 392 | 46% | 2252 | 40% |
 | 0.08 | LTC <sub>(60.0+0.60s)</sub> | 2109 | 29 | 384 | 48% | 2136 | 35% |
-| 0.08 | STC <sub>(8.0+0.08s)</sub> | 1913 | 31 | 356 | 48% | 1937 | 31% |
+| 0.08 | STC <sub>(8.0+0.08s)</sub> | 1914 | 31 | 356 | 48% | 1937 | 31% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
