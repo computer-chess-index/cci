@@ -8,7 +8,7 @@ Home: https://github.com/cristivlas/sturddle-2
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.5.0 | 2026-02-04 | 2755<sub>(+85) | 3079<sub>(+24) | 3214<sub>(+74) |  |
+| 2.5.0 | 2026-02-04 | 2755<sub>(+85) | 3081<sub>(+26) | 3216<sub>(+76) |  |
 | 2.4.0 | 2025-12-06 | 2670<sub>(+new) | 3055<sub>(+new) | 3140<sub>(+new) |  |
 | 2.3.1 | 2025-09-04 |  |  |  |  |
 | 2.3 | 2025-09-01 |  |  |  |  |
@@ -30,7 +30,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-12 06:29:47
+Generated: 2026-05-13 06:30:11
 
 ## Ratings Verlauf
 
@@ -41,9 +41,9 @@ xychart-beta
   y-axis "Elo Rating" 2600 --> 3300
   line "STC (8.0+0.08s)" [2670, 2755]
   line "STC (8.0+0.08s)" [2670, 2755]
-  line "LTC (60.0+0.60s)" [3055, 3079]
-  line "VLTC (2m24s+1.12s)" [3140, 3214]
-  line "VLTC (2m24s+1.12s)" [3140, 3214]
+  line "LTC (60.0+0.60s)" [3055, 3081]
+  line "VLTC (2m24s+1.12s)" [3140, 3216]
+  line "VLTC (2m24s+1.12s)" [3140, 3216]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -56,9 +56,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.5.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3214 | 24 | 482 | 52% | 3194 | 52% |
-| 2.5.0 | LTC <sub>(60.0+0.60s)</sub> | 3079 | 27 | 408 | 49% | 3086 | 47% |
-| 2.5.0 | STC <sub>(8.0+0.08s)</sub> | 2755 | 26 | 496 | 51% | 2745 | 32% |
+| 2.5.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3216 | 24 | 486 | 53% | 3194 | 52% |
+| 2.5.0 | LTC <sub>(60.0+0.60s)</sub> | 3081 | 27 | 408 | 49% | 3086 | 47% |
+| 2.5.0 | STC <sub>(8.0+0.08s)</sub> | 2755 | 26 | 500 | 51% | 2745 | 32% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.4.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3140 | 34 | 236 | 49% | 3147 | 53% |
 | 2.4.0 | LTC <sub>(60.0+0.60s)</sub> | 3055 | 37 | 224 | 51% | 3038 | 45% |
