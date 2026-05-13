@@ -8,7 +8,7 @@ Home: https://github.com/fathzer-games/chesslib-uci-engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.0.4 | 2026-01-05 | 1570<sub>(+new) | 1825<sub>(+new) | 1910<sub>(+new) |  |
+| 0.0.4 | 2026-01-05 | 1570<sub>(+new) | 1824<sub>(+new) | 1910<sub>(+new) |  |
 | 0.0.2 | 2025-01-02 |  |  |  |  |
 | 0.0.1 | 2024-12-31 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-12 06:23:57
+Generated: 2026-05-13 06:24:08
 
 
 
@@ -35,6 +35,6 @@ Generated: 2026-05-12 06:23:57
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.0.4 | VLTC <sub>(2m24s+1.12s)</sub> | 1910 | 248 | 16 | 6% | 2637 | 0% |
-| 0.0.4 | LTC <sub>(60.0+0.60s)</sub> | 1825 | 112 | 36 | 35% | 2051 | 14% |
+| 0.0.4 | LTC <sub>(60.0+0.60s)</sub> | 1824 | 112 | 36 | 35% | 2051 | 14% |
 | 0.0.4 | STC <sub>(8.0+0.08s)</sub> | 1570 | 149 | 22 | 41% | 1759 | 9% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
