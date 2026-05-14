@@ -8,7 +8,7 @@ Home:
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 5.2.1 | 2014-08-01 | 2520 | 2758 | 2849 |  |
+| 5.2.1 | 2014-08-01 | 2520 | 2759 | 2849 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+DiscoCheck+<version>&body=###%20Engine%20name%0ADiscoCheck%0A%0A###%20Version%0A5.2.1" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-13 06:24:19
+Generated: 2026-05-14 06:23:54
 
 
 
@@ -33,6 +33,6 @@ Generated: 2026-05-13 06:24:19
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 5.2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2849 | 41 | 204 | 50% | 2854 | 29% |
-| 5.2.1 | LTC <sub>(60.0+0.60s)</sub> | 2758 | 14 | 1664 | 49% | 2765 | 28% |
+| 5.2.1 | LTC <sub>(60.0+0.60s)</sub> | 2759 | 14 | 1664 | 49% | 2766 | 28% |
 | 5.2.1 | STC <sub>(8.0+0.08s)</sub> | 2520 | 14 | 1804 | 50% | 2526 | 23% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
