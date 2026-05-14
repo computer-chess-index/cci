@@ -8,7 +8,7 @@ Home: https://github.com/CMCanavessi/facon
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.4 | 2026-04-25 | 2045<sub>(+515) | 2338<sub>(+447) | 2403<sub>(+391) |  |
+| 1.4 | 2026-04-25 | 2049<sub>(+519) | 2338<sub>(+447) | 2404<sub>(+392) |  |
 | 1.3 | 2026-04-11 | 1530<sub>(+new) | 1891<sub>(+new) | 2012<sub>(+new) |  |
 | 1.2 | 2026-03-24 |  |  |  |  |
 | 1.1 | 2026-03-11 |  |  |  |  |
@@ -28,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-13 06:24:46
+Generated: 2026-05-14 06:24:17
 
 ## Ratings Verlauf
 
@@ -37,11 +37,11 @@ Generated: 2026-05-13 06:24:46
 xychart-beta
   x-axis ["1.3", "1.4"]
   y-axis "Elo Rating" 1500 --> 2500
-  line "STC (8.0+0.08s)" [1530, 2045]
-  line "STC (8.0+0.08s)" [1530, 2045]
+  line "STC (8.0+0.08s)" [1530, 2049]
+  line "STC (8.0+0.08s)" [1530, 2049]
   line "LTC (60.0+0.60s)" [1891, 2338]
-  line "VLTC (2m24s+1.12s)" [2012, 2403]
-  line "VLTC (2m24s+1.12s)" [2012, 2403]
+  line "VLTC (2m24s+1.12s)" [2012, 2404]
+  line "VLTC (2m24s+1.12s)" [2012, 2404]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -54,9 +54,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.4 | VLTC <sub>(2m24s+1.12s)</sub> | 2403 | 31 | 374 | 52% | 2381 | 20% |
-| 1.4 | LTC <sub>(60.0+0.60s)</sub> | 2338 | 33 | 344 | 52% | 2310 | 17% |
-| 1.4 | STC <sub>(8.0+0.08s)</sub> | 2045 | 33 | 336 | 50% | 2039 | 19% |
+| 1.4 | VLTC <sub>(2m24s+1.12s)</sub> | 2404 | 31 | 378 | 52% | 2381 | 20% |
+| 1.4 | LTC <sub>(60.0+0.60s)</sub> | 2338 | 32 | 356 | 52% | 2311 | 17% |
+| 1.4 | STC <sub>(8.0+0.08s)</sub> | 2049 | 33 | 340 | 51% | 2037 | 19% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.3 | VLTC <sub>(2m24s+1.12s)</sub> | 2012 | 34 | 324 | 48% | 2029 | 19% |
 | 1.3 | LTC <sub>(60.0+0.60s)</sub> | 1891 | 32 | 364 | 50% | 1887 | 18% |
