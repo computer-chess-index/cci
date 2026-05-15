@@ -8,8 +8,8 @@ Home: https://github.com/paulsonkoly/chess-3
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.0 | 2026-04-02 | 2557<sub>(+37) | 2862<sub>(+57) | 2934<sub>(+84) |  |
-| 3.0 | 2026-01-17 | 2520<sub>(+new) | 2805<sub>(+new) | 2850<sub>(+new) |  |
+| 4.0 | 2026-04-02 | 2557<sub>(+35) | 2862<sub>(+57) | 2934<sub>(+83) |  |
+| 3.0 | 2026-01-17 | 2522<sub>(+new) | 2805<sub>(+new) | 2851<sub>(+new) |  |
 | 2.0 | 2025-08-14 |  |  |  |  |
 | 1.0 | 2025-05-15 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-14 06:23:26
+Generated: 2026-05-15 06:23:21
 
 ## Ratings Verlauf
 
@@ -36,11 +36,11 @@ Generated: 2026-05-14 06:23:26
 xychart-beta
   x-axis ["3.0", "4.0"]
   y-axis "Elo Rating" 2500 --> 3000
-  line "STC (8.0+0.08s)" [2520, 2557]
-  line "STC (8.0+0.08s)" [2520, 2557]
+  line "STC (8.0+0.08s)" [2522, 2557]
+  line "STC (8.0+0.08s)" [2522, 2557]
   line "LTC (60.0+0.60s)" [2805, 2862]
-  line "VLTC (2m24s+1.12s)" [2850, 2934]
-  line "VLTC (2m24s+1.12s)" [2850, 2934]
+  line "VLTC (2m24s+1.12s)" [2851, 2934]
+  line "VLTC (2m24s+1.12s)" [2851, 2934]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -57,7 +57,7 @@ xychart-beta
 | 4.0 | LTC <sub>(60.0+0.60s)</sub> | 2862 | 29 | 386 | 51% | 2853 | 36% |
 | 4.0 | STC <sub>(8.0+0.08s)</sub> | 2557 | 28 | 412 | 50% | 2553 | 29% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2850 | 32 | 316 | 49% | 2863 | 34% |
+| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2851 | 32 | 316 | 49% | 2863 | 34% |
 | 3.0 | LTC <sub>(60.0+0.60s)</sub> | 2805 | 32 | 320 | 50% | 2801 | 35% |
-| 3.0 | STC <sub>(8.0+0.08s)</sub> | 2520 | 27 | 440 | 49% | 2526 | 34% |
+| 3.0 | STC <sub>(8.0+0.08s)</sub> | 2522 | 27 | 440 | 49% | 2526 | 34% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
