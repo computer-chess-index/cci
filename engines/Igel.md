@@ -8,8 +8,8 @@ Home: https://github.com/vshcherbyna/igel
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.6.0 | 2024-12-28 | 3231<sub>(+18) | 3455<sub>(+3) | 3507<sub>(+19) |  |
-| 3.5.0 | 2023-06-22 | 3213<sub>(+new) | 3452<sub>(+new) | 3488<sub>(+new) |  |
+| 3.6.0 | 2024-12-28 | 3231<sub>(+17) | 3455<sub>(+3) | 3507<sub>(+19) |  |
+| 3.5.0 | 2023-06-22 | 3214<sub>(+new) | 3452<sub>(+new) | 3488<sub>(+new) |  |
 | 3.4.0 | 2023-01-30 |  |  |  |  |
 | 3.3.0 | 2023-01-15 |  |  |  |  |
 | 3.2.0 | 2022-12-17 |  |  |  |  |
@@ -61,7 +61,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-14 06:25:12
+Generated: 2026-05-15 06:25:02
 
 ## Ratings Verlauf
 
@@ -70,8 +70,8 @@ Generated: 2026-05-14 06:25:12
 xychart-beta
   x-axis ["3.5.0", "3.6.0"]
   y-axis "Elo Rating" 3200 --> 3600
-  line "STC (8.0+0.08s)" [3213, 3231]
-  line "STC (8.0+0.08s)" [3213, 3231]
+  line "STC (8.0+0.08s)" [3214, 3231]
+  line "STC (8.0+0.08s)" [3214, 3231]
   line "LTC (60.0+0.60s)" [3452, 3455]
   line "VLTC (2m24s+1.12s)" [3488, 3507]
   line "VLTC (2m24s+1.12s)" [3488, 3507]
@@ -88,10 +88,10 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3507 | 12 | 1610 | 50% | 3509 | 82% |
-| 3.6.0 | LTC <sub>(60.0+0.60s)</sub> | 3455 | 13 | 1540 | 50% | 3453 | 76% |
+| 3.6.0 | LTC <sub>(60.0+0.60s)</sub> | 3455 | 13 | 1544 | 50% | 3453 | 76% |
 | 3.6.0 | STC <sub>(8.0+0.08s)</sub> | 3231 | 13 | 1580 | 49% | 3237 | 62% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.5.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3488 | 17 | 800 | 50% | 3486 | 78% |
 | 3.5.0 | LTC <sub>(60.0+0.60s)</sub> | 3452 | 17 | 828 | 49% | 3455 | 78% |
-| 3.5.0 | STC <sub>(8.0+0.08s)</sub> | 3213 | 18 | 872 | 52% | 3174 | 58% |
+| 3.5.0 | STC <sub>(8.0+0.08s)</sub> | 3214 | 18 | 872 | 52% | 3175 | 58% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
