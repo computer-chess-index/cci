@@ -8,7 +8,7 @@ Home: https://github.com/Nonlinear2/Bread-Engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.0 | 2026-03-15 | 3152<sub>(+105) | 3359<sub>(+104) | 3434<sub>(+129) |  |
+| 3.0.0 | 2026-03-15 | 3154<sub>(+107) | 3359<sub>(+104) | 3434<sub>(+129) |  |
 | 2.1.1 | 2025-12-22 | 3047<sub>(+new) | 3255<sub>(+new) | 3305<sub>(+new) |  |
 | 2.1.0 | 2025-12-21 |  |  |  | always disconnects |
 | 2.0.0 | 2025-10-18 | 2912<sub>(+new) | 3167<sub>(+new) | 3202<sub>(+new) |  |
@@ -44,7 +44,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-14 06:23:02
+Generated: 2026-05-15 06:22:59
 
 ## Ratings Verlauf
 
@@ -53,8 +53,8 @@ Generated: 2026-05-14 06:23:02
 xychart-beta
   x-axis ["2.0.0", "2.1.1", "3.0.0"]
   y-axis "Elo Rating" 2900 --> 3500
-  line "STC (8.0+0.08s)" [2912, 3047, 3152]
-  line "STC (8.0+0.08s)" [2912, 3047, 3152]
+  line "STC (8.0+0.08s)" [2912, 3047, 3154]
+  line "STC (8.0+0.08s)" [2912, 3047, 3154]
   line "LTC (60.0+0.60s)" [3167, 3255, 3359]
   line "VLTC (2m24s+1.12s)" [3202, 3305, 3434]
   line "VLTC (2m24s+1.12s)" [3202, 3305, 3434]
@@ -71,8 +71,8 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3434 | 25 | 402 | 50% | 3437 | 74% |
-| 3.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3359 | 26 | 358 | 51% | 3353 | 72% |
-| 3.0.0 | STC <sub>(8.0+0.08s)</sub> | 3152 | 26 | 400 | 50% | 3154 | 58% |
+| 3.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3359 | 26 | 362 | 51% | 3353 | 72% |
+| 3.0.0 | STC <sub>(8.0+0.08s)</sub> | 3154 | 26 | 404 | 50% | 3154 | 58% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3305 | 30 | 294 | 50% | 3302 | 61% |
 | 2.1.1 | LTC <sub>(60.0+0.60s)</sub> | 3255 | 28 | 348 | 50% | 3243 | 55% |
