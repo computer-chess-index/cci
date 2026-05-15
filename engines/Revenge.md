@@ -8,7 +8,7 @@ Home: https://www.revengechess.com/
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.0.7 | 2025-01-01 | 3330 | 3502 | 3530 |  |
+| 4.0.7 | 2025-01-01 | 3330 | 3502 | 3532 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Revenge+<version>&body=###%20Engine%20name%0ARevenge%0A%0A###%20Version%0A4.0.7" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-14 06:27:43
+Generated: 2026-05-15 06:27:25
 
 
 
@@ -32,7 +32,7 @@ Generated: 2026-05-14 06:27:43
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4.0.7 | VLTC <sub>(2m24s+1.12s)</sub> | 3530 | 16 | 908 | 50% | 3529 | 81% |
+| 4.0.7 | VLTC <sub>(2m24s+1.12s)</sub> | 3532 | 16 | 912 | 50% | 3529 | 80% |
 | 4.0.7 | LTC <sub>(60.0+0.60s)</sub> | 3502 | 17 | 878 | 50% | 3502 | 78% |
-| 4.0.7 | STC <sub>(8.0+0.08s)</sub> | 3330 | 17 | 900 | 50% | 3330 | 67% |
+| 4.0.7 | STC <sub>(8.0+0.08s)</sub> | 3330 | 17 | 904 | 50% | 3330 | 66% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
