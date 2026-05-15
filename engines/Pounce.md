@@ -8,7 +8,7 @@ Home: https://github.com/0xflick/pounce
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.0 | 2025-10-13 | 2765<sub>(+new) | 3025<sub>(+new) | 3062<sub>(+new) |  |
+| 3.0.0 | 2025-10-13 | 2765<sub>(+new) | 3027<sub>(+new) | 3063<sub>(+new) |  |
 | 2.1.3 | 2025-09-15 |  |  |  |  |
 | 2.1.0 | 2025-09-14 |  |  |  |  |
 | 2.0.1 | 2025-08-17 |  |  |  |  |
@@ -34,7 +34,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-14 06:27:04
+Generated: 2026-05-15 06:26:47
 
 
 
@@ -42,7 +42,7 @@ Generated: 2026-05-14 06:27:04
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3062 | 25 | 456 | 47% | 3085 | 47% |
-| 3.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3025 | 27 | 424 | 51% | 3011 | 42% |
-| 3.0.0 | STC <sub>(8.0+0.08s)</sub> | 2765 | 25 | 534 | 50% | 2753 | 34% |
+| 3.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3063 | 25 | 456 | 47% | 3085 | 47% |
+| 3.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3027 | 27 | 424 | 51% | 3011 | 42% |
+| 3.0.0 | STC <sub>(8.0+0.08s)</sub> | 2765 | 25 | 534 | 50% | 2754 | 34% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
