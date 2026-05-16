@@ -8,7 +8,7 @@ Home:
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.3.2a | 2010-06-04 | 2372 | 2857 | 2892 |  |
+| 2.3.2a | 2010-06-04 | 2373 | 2858 | 2893 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Rybka+<version>&body=###%20Engine%20name%0ARybka%0A%0A###%20Version%0A2.3.2a" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-15 06:27:58
+Generated: 2026-05-16 06:28:10
 
 
 
@@ -32,7 +32,7 @@ Generated: 2026-05-15 06:27:58
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.3.2a | VLTC <sub>(2m24s+1.12s)</sub> | 2892 | 38 | 228 | 54% | 2870 | 35% |
-| 2.3.2a | LTC <sub>(60.0+0.60s)</sub> | 2857 | 14 | 1768 | 51% | 2849 | 34% |
-| 2.3.2a | STC <sub>(8.0+0.08s)</sub> | 2372 | 13 | 2066 | 46% | 2415 | 23% |
+| 2.3.2a | VLTC <sub>(2m24s+1.12s)</sub> | 2893 | 38 | 228 | 54% | 2871 | 35% |
+| 2.3.2a | LTC <sub>(60.0+0.60s)</sub> | 2858 | 14 | 1768 | 51% | 2850 | 34% |
+| 2.3.2a | STC <sub>(8.0+0.08s)</sub> | 2373 | 13 | 2066 | 46% | 2417 | 23% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
