@@ -8,7 +8,7 @@ Home:
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.50 | 2021-11-15 | 3447 | 3583 | 3609 |  |
+| 2.50 | 2021-11-15 | 3448 | 3584 | 3610 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Sugar+<version>&body=###%20Engine%20name%0ASugar%0A%0A###%20Version%0A2.50" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-15 06:28:31
+Generated: 2026-05-16 06:28:45
 
 
 
@@ -32,7 +32,7 @@ Generated: 2026-05-15 06:28:31
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.50 | VLTC <sub>(2m24s+1.12s)</sub> | 3609 | 13 | 1326 | 52% | 3596 | 90% |
-| 2.50 | LTC <sub>(60.0+0.60s)</sub> | 3583 | 12 | 1678 | 51% | 3579 | 87% |
-| 2.50 | STC <sub>(8.0+0.08s)</sub> | 3447 | 11 | 2144 | 50% | 3443 | 78% |
+| 2.50 | VLTC <sub>(2m24s+1.12s)</sub> | 3610 | 13 | 1326 | 52% | 3598 | 90% |
+| 2.50 | LTC <sub>(60.0+0.60s)</sub> | 3584 | 12 | 1678 | 51% | 3580 | 87% |
+| 2.50 | STC <sub>(8.0+0.08s)</sub> | 3448 | 11 | 2144 | 50% | 3444 | 78% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
