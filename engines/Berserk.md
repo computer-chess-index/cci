@@ -8,7 +8,7 @@ Home: https://github.com/jhonnold/berserk
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 13 | 2024-03-31 | 1611<sub>(+new) | 3575<sub>(+new) | 3599<sub>(+new) |  |
+| 13 | 2024-03-31 | 1612<sub>(+new) | 3576<sub>(+new) | 3599<sub>(+new) |  |
 | 12.1 | 2023-11-12 |  |  |  |  |
 | 12 | 2023-10-26 |  |  |  |  |
 | 11.1 | 2023-02-21 |  |  |  |  |
@@ -54,7 +54,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-15 06:22:48
+Generated: 2026-05-16 06:22:50
 
 
 
@@ -62,7 +62,7 @@ Generated: 2026-05-15 06:22:48
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 13 | VLTC <sub>(2m24s+1.12s)</sub> | 3599 | 13 | 1450 | 53% | 3522 | 84% |
-| 13 | LTC <sub>(60.0+0.60s)</sub> | 3575 | 12 | 1736 | 51% | 3569 | 87% |
-| 13 | STC <sub>(8.0+0.08s)</sub> | 1611 | 15 | 1896 | 54% | 1566 | 10% |
+| 13 | VLTC <sub>(2m24s+1.12s)</sub> | 3599 | 13 | 1454 | 53% | 3524 | 84% |
+| 13 | LTC <sub>(60.0+0.60s)</sub> | 3576 | 12 | 1736 | 51% | 3571 | 87% |
+| 13 | STC <sub>(8.0+0.08s)</sub> | 1612 | 15 | 1896 | 54% | 1567 | 10% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
