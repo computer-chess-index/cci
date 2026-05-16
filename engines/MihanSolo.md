@@ -8,7 +8,7 @@ Home: https://github.com/montypylons/mihansolo_bot
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.0.0 | 2025-10-01 | 1222<sub>(+new) | 1392<sub>(+new) | 1489<sub>(+new) |  |
+| 9.0.0 | 2025-10-01 | 1226<sub>(+new) | 1392<sub>(+new) | 1490<sub>(+new) |  |
 | 8.6.7 | 2025-09-29 |  |  |  |  |
 | 7.6.0 | 2025-09-29 |  |  |  |  |
 | 7.0.0 | 2025-09-29 |  |  |  |  |
@@ -32,7 +32,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-15 06:25:51
+Generated: 2026-05-16 06:25:58
 
 
 
@@ -40,7 +40,7 @@ Generated: 2026-05-15 06:25:51
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 9.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1489 | 28 | 464 | 50% | 1509 | 30% |
-| 9.0.0 | LTC <sub>(60.0+0.60s)</sub> | 1392 | 29 | 466 | 54% | 1357 | 28% |
-| 9.0.0 | STC <sub>(8.0+0.08s)</sub> | 1222 | 26 | 544 | 53% | 1175 | 30% |
+| 9.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1490 | 28 | 464 | 50% | 1509 | 30% |
+| 9.0.0 | LTC <sub>(60.0+0.60s)</sub> | 1392 | 29 | 470 | 54% | 1355 | 29% |
+| 9.0.0 | STC <sub>(8.0+0.08s)</sub> | 1226 | 26 | 556 | 54% | 1170 | 30% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
