@@ -36,12 +36,11 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-17 11:15:26
+Generated: 2026-05-17 11:16:29
 
 ## Ratings Verlauf
 
 ```mermaid
-%%{init: {"theme":"base","themeVariables":{"seriesColors":["#6e6e6e","#f4a261","#2a9d8f"]}}}%%
 xychart-beta
   x-axis ["1.2.3", "1.2.4", "2.0.0", "2.2.0", "2.2.1", "2.2.2", "2.2.3", "2.2.4", "2.2.5", "2.3.0", "2.3.1"]
   y-axis "Elo Rating" 1400 --> 2400
