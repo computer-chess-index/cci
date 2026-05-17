@@ -8,12 +8,13 @@ Home: https://github.com/Wind-Eagle/Quirky
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1 | 2025-11-25 | 3009<sub>(+new) | 3240<sub>(+new) | 3305<sub>(+new) |  |
+| 3.0 | 2026-05-16 |  |  |  |  |
+| 2.1 | 2025-11-25 | 3009<sub>(+new) | 3241<sub>(+new) | 3305<sub>(+new) |  |
 | 2.0 | 2025-08-30 |  |  |  |  |
 | 1.0 | 2025-05-04 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Quirky+<version>&body=###%20Engine%20name%0AQuirky%0A%0A###%20Version%0A2.1" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Quirky+<version>&body=###%20Engine%20name%0AQuirky%0A%0A###%20Version%0A3.0" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -26,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-16 06:27:22
+Generated: 2026-05-17 06:27:28
 
 
 
@@ -35,6 +36,6 @@ Generated: 2026-05-16 06:27:22
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3305 | 22 | 560 | 54% | 3275 | 59% |
-| 2.1 | LTC <sub>(60.0+0.60s)</sub> | 3240 | 25 | 434 | 52% | 3222 | 62% |
+| 2.1 | LTC <sub>(60.0+0.60s)</sub> | 3241 | 25 | 434 | 52% | 3222 | 62% |
 | 2.1 | STC <sub>(8.0+0.08s)</sub> | 3009 | 23 | 552 | 50% | 2990 | 44% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
