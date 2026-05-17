@@ -8,8 +8,8 @@ Home: https://github.com/Quanticade/Quanticade
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0 | 2025-12-15 | 3391<sub>(+44) | 3564<sub>(+43) | 3591<sub>(+30) |  |
-| 2.0 | 2025-05-21 | 3347<sub>(+new) | 3521<sub>(+new) | 3561<sub>(+new) |  |
+| 3.0 | 2025-12-15 | 3391<sub>(+43) | 3564<sub>(+43) | 3591<sub>(+30) |  |
+| 2.0 | 2025-05-21 | 3348<sub>(+new) | 3521<sub>(+new) | 3561<sub>(+new) |  |
 | 1.0 Fenrir | 2025-03-10 |  |  |  |  |
 | 1.2 Chimera | 2025-01-06 |  |  |  |  |
 | 1.1 Chimera | 2025-01-02 |  |  |  |  |
@@ -34,7 +34,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-16 06:27:20
+Generated: 2026-05-17 06:27:26
 
 ## Ratings Verlauf
 
@@ -43,8 +43,8 @@ Generated: 2026-05-16 06:27:20
 xychart-beta
   x-axis ["2.0", "3.0"]
   y-axis "Elo Rating" 3300 --> 3600
-  line "STC (8.0+0.08s)" [3347, 3391]
-  line "STC (8.0+0.08s)" [3347, 3391]
+  line "STC (8.0+0.08s)" [3348, 3391]
+  line "STC (8.0+0.08s)" [3348, 3391]
   line "LTC (60.0+0.60s)" [3521, 3564]
   line "VLTC (2m24s+1.12s)" [3561, 3591]
   line "VLTC (2m24s+1.12s)" [3561, 3591]
@@ -60,11 +60,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3591 | 25 | 368 | 50% | 3588 | 90% |
-| 3.0 | LTC <sub>(60.0+0.60s)</sub> | 3564 | 24 | 382 | 50% | 3564 | 87% |
-| 3.0 | STC <sub>(8.0+0.08s)</sub> | 3391 | 22 | 516 | 50% | 3393 | 67% |
+| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3591 | 25 | 368 | 50% | 3590 | 90% |
+| 3.0 | LTC <sub>(60.0+0.60s)</sub> | 3564 | 24 | 390 | 50% | 3564 | 87% |
+| 3.0 | STC <sub>(8.0+0.08s)</sub> | 3391 | 22 | 516 | 50% | 3394 | 67% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3561 | 26 | 340 | 50% | 3559 | 84% |
 | 2.0 | LTC <sub>(60.0+0.60s)</sub> | 3521 | 26 | 352 | 50% | 3518 | 81% |
-| 2.0 | STC <sub>(8.0+0.08s)</sub> | 3347 | 25 | 414 | 52% | 3335 | 64% |
+| 2.0 | STC <sub>(8.0+0.08s)</sub> | 3348 | 25 | 414 | 52% | 3335 | 64% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
