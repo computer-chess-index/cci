@@ -8,7 +8,8 @@ Home: https://github.com/LarsAur/Arcanum
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.7 | 2025-10-18 | 2950<sub>(+new) | 3254<sub>(+new) | 3312<sub>(+new) |  |
+| 2.8 | 2026-05-16 |  |  |  |  |
+| 2.7 | 2025-10-18 | 2951<sub>(+new) | 3254<sub>(+new) | 3313<sub>(+new) |  |
 | 2.6 | 2025-07-19 |  |  |  |  |
 | 2.5 | 2025-03-03 |  |  |  |  |
 | 2.4 | 2024-11-30 |  |  |  |  |
@@ -23,7 +24,7 @@ Home: https://github.com/LarsAur/Arcanum
 | 1.10 | 2023-10-22 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Arcanum+<version>&body=###%20Engine%20name%0AArcanum%0A%0A###%20Version%0A2.7" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Arcanum+<version>&body=###%20Engine%20name%0AArcanum%0A%0A###%20Version%0A2.8" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -36,7 +37,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-16 06:22:41
+Generated: 2026-05-17 06:22:39
 
 
 
@@ -44,7 +45,7 @@ Generated: 2026-05-16 06:22:41
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.7 | VLTC <sub>(2m24s+1.12s)</sub> | 3312 | 27 | 394 | 54% | 3278 | 56% |
-| 2.7 | LTC <sub>(60.0+0.60s)</sub> | 3254 | 26 | 420 | 51% | 3235 | 57% |
-| 2.7 | STC <sub>(8.0+0.08s)</sub> | 2950 | 23 | 554 | 49% | 2948 | 44% |
+| 2.7 | VLTC <sub>(2m24s+1.12s)</sub> | 3313 | 27 | 394 | 54% | 3278 | 56% |
+| 2.7 | LTC <sub>(60.0+0.60s)</sub> | 3254 | 26 | 424 | 50% | 3235 | 57% |
+| 2.7 | STC <sub>(8.0+0.08s)</sub> | 2951 | 23 | 554 | 49% | 2950 | 44% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
