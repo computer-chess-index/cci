@@ -36,7 +36,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-17 11:39:59
+Generated: 2026-05-17 11:41:51
 
 ## Ratings Verlauf
 
@@ -54,10 +54,12 @@ xychart-beta
 ```mermaid
 %%{init: {"theme":"base"}}%%
 flowchart LR
-A[STC 8.0+0.08s] --- B[LTC 60.0+0.60s]
+0 --- A[STC 8.0+0.08s]
+A --- B[LTC 60.0+0.60s]
 B --- C[VLTC 2m24s+1.12s]
 linkStyle 0 stroke:#a3a3a3,stroke-width:4px
-linkStyle 1 stroke:#aaa371,stroke-width:4px
+linkStyle 1 stroke:#faa371,stroke-width:4px
+linkStyle 2 stroke:#4ef781,stroke-width:4px
 style A fill:none,stroke:none
 style B fill:none,stroke:none
 style C fill:none,stroke:none
