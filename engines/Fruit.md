@@ -8,7 +8,7 @@ Home:
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.3.1 | 2007-08-01 | 2383 | 2639 | 2781 |  |
+| 2.3.1 | 2007-08-01 | 2380 | 2634 | 2776 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Fruit+<version>&body=###%20Engine%20name%0AFruit%0A%0A###%20Version%0A2.3.1" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-17 06:24:32
+Generated: 2026-05-18 06:24:29
 
 
 
@@ -32,7 +32,7 @@ Generated: 2026-05-17 06:24:32
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2781 | 34 | 304 | 47% | 2819 | 26% |
-| 2.3.1 | LTC <sub>(60.0+0.60s)</sub> | 2639 | 35 | 264 | 50% | 2642 | 31% |
-| 2.3.1 | STC <sub>(8.0+0.08s)</sub> | 2383 | 14 | 1922 | 49% | 2403 | 24% |
+| 2.3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2776 | 34 | 304 | 47% | 2813 | 26% |
+| 2.3.1 | LTC <sub>(60.0+0.60s)</sub> | 2634 | 35 | 264 | 50% | 2637 | 31% |
+| 2.3.1 | STC <sub>(8.0+0.08s)</sub> | 2380 | 14 | 1922 | 49% | 2400 | 24% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
