@@ -8,7 +8,7 @@ Home: https://github.com/Saegl/dinora
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.3.0 | 2025-05-22 |  |  | 1708<sub>(+new) |  |
+| 0.3.0 | 2025-05-22 |  |  | 1705<sub>(+new) |  |
 | 0.2.3 | 2025-02-01 |  |  |  |  |
 | 0.2.2 | 2023-12-21 |  |  |  |  |
 | 0.2.1 | 2023-08-21 |  |  |  |  |
@@ -29,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-17 06:23:49
+Generated: 2026-05-18 06:23:46
 
 
 
@@ -37,4 +37,4 @@ Generated: 2026-05-17 06:23:49
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1708 | 249 | 14 | 4% | 2318 | 7% |
+| 0.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1705 | 249 | 14 | 4% | 2315 | 7% |
