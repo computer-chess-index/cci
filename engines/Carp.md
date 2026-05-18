@@ -8,7 +8,7 @@ Home: https://github.com/dede1751/carp
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.1 | 2023-09-25 | 3065<sub>(+new) | 3321<sub>(+new) | 3387<sub>(+new) |  |
+| 3.0.1 | 2023-09-25 | 3059<sub>(+new) | 3314<sub>(+new) | 3380<sub>(+new) |  |
 | 3.0.0 | 2023-09-24 |  |  |  |  |
 | 2.0.0 | 2023-03-02 |  |  |  |  |
 | 1.3.0 | 2023-02-12 |  |  |  |  |
@@ -30,7 +30,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-17 06:23:06
+Generated: 2026-05-18 06:23:04
 
 
 
@@ -38,7 +38,7 @@ Generated: 2026-05-17 06:23:06
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3387 | 11 | 2020 | 49% | 3391 | 70% |
-| 3.0.1 | LTC <sub>(60.0+0.60s)</sub> | 3321 | 12 | 1864 | 49% | 3325 | 63% |
-| 3.0.1 | STC <sub>(8.0+0.08s)</sub> | 3065 | 13 | 1860 | 51% | 3052 | 47% |
+| 3.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3380 | 11 | 2020 | 49% | 3384 | 70% |
+| 3.0.1 | LTC <sub>(60.0+0.60s)</sub> | 3314 | 12 | 1864 | 49% | 3318 | 63% |
+| 3.0.1 | STC <sub>(8.0+0.08s)</sub> | 3059 | 13 | 1860 | 51% | 3046 | 47% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
