@@ -8,8 +8,9 @@ Home: https://github.com/elcabesa/vajolet
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.1 | 2026-04-03 | 2882<sub>(+100) | 3101<sub>(+57) | 3183<sub>(+63) |  |
-| 3.0 | 2025-12-21 | 2782<sub>(+new) | 3044<sub>(+new) | 3120<sub>(+new) |  |
+| 3.2 | 2026-05-17 |  |  |  |  |
+| 3.1 | 2026-04-03 | 2877<sub>(+101) | 3094<sub>(+56) | 3175<sub>(+62) |  |
+| 3.0 | 2025-12-21 | 2776<sub>(+new) | 3038<sub>(+new) | 3113<sub>(+new) |  |
 | 2.8 | 2019-11-01 |  |  |  |  |
 | 2.7 | 2019-04-03 |  |  |  |  |
 | 2.6.2 | 2018-11-30 |  |  |  |  |
@@ -20,7 +21,7 @@ Home: https://github.com/elcabesa/vajolet
 | 2.3 | 2017-02-28 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Vajolet2+<version>&body=###%20Engine%20name%0AVajolet2%0A%0A###%20Version%0A3.1" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Vajolet2+<version>&body=###%20Engine%20name%0AVajolet2%0A%0A###%20Version%0A3.2" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -33,7 +34,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-17 06:29:25
+Generated: 2026-05-18 06:29:11
 
 ## Ratings Verlauf
 
@@ -42,11 +43,11 @@ Generated: 2026-05-17 06:29:25
 xychart-beta
   x-axis ["3.0", "3.1"]
   y-axis "Elo Rating" 2700 --> 3200
-  line "STC (8.0+0.08s)" [2782, 2882]
-  line "STC (8.0+0.08s)" [2782, 2882]
-  line "LTC (60.0+0.60s)" [3044, 3101]
-  line "VLTC (2m24s+1.12s)" [3120, 3183]
-  line "VLTC (2m24s+1.12s)" [3120, 3183]
+  line "STC (8.0+0.08s)" [2776, 2877]
+  line "STC (8.0+0.08s)" [2776, 2877]
+  line "LTC (60.0+0.60s)" [3038, 3094]
+  line "VLTC (2m24s+1.12s)" [3113, 3175]
+  line "VLTC (2m24s+1.12s)" [3113, 3175]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -59,11 +60,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3183 | 29 | 348 | 50% | 3183 | 48% |
-| 3.1 | LTC <sub>(60.0+0.60s)</sub> | 3101 | 28 | 386 | 51% | 3097 | 43% |
-| 3.1 | STC <sub>(8.0+0.08s)</sub> | 2882 | 28 | 384 | 50% | 2878 | 41% |
+| 3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3175 | 29 | 348 | 50% | 3177 | 48% |
+| 3.1 | LTC <sub>(60.0+0.60s)</sub> | 3094 | 28 | 390 | 50% | 3092 | 43% |
+| 3.1 | STC <sub>(8.0+0.08s)</sub> | 2877 | 28 | 384 | 50% | 2873 | 41% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3120 | 31 | 318 | 52% | 3102 | 46% |
-| 3.0 | LTC <sub>(60.0+0.60s)</sub> | 3044 | 29 | 344 | 52% | 3024 | 44% |
-| 3.0 | STC <sub>(8.0+0.08s)</sub> | 2782 | 29 | 386 | 52% | 2750 | 37% |
+| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3113 | 31 | 318 | 52% | 3096 | 46% |
+| 3.0 | LTC <sub>(60.0+0.60s)</sub> | 3038 | 29 | 344 | 52% | 3017 | 44% |
+| 3.0 | STC <sub>(8.0+0.08s)</sub> | 2776 | 29 | 386 | 52% | 2745 | 37% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
