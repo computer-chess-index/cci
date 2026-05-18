@@ -8,7 +8,7 @@ Home: https://github.com/feftywacky/Thrawn
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.2 | 2025-10-08 | 2530<sub>(+new) | 2885<sub>(+new) | 2951<sub>(+new) |  |
+| 2.2 | 2025-10-08 | 2526<sub>(+new) | 2880<sub>(+new) | 2944<sub>(+new) |  |
 | 2.1 | 2024-07-16 |  |  |  |  |
 | 2.0 | 2024-01-01 |  |  |  |  |
 | 1.1 | 2023-12-28 |  |  |  |  |
@@ -32,7 +32,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-17 06:29:05
+Generated: 2026-05-18 06:28:52
 
 
 
@@ -40,7 +40,7 @@ Generated: 2026-05-17 06:29:05
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2951 | 24 | 498 | 46% | 2981 | 48% |
-| 2.2 | LTC <sub>(60.0+0.60s)</sub> | 2885 | 27 | 422 | 50% | 2882 | 39% |
-| 2.2 | STC <sub>(8.0+0.08s)</sub> | 2530 | 27 | 478 | 48% | 2545 | 28% |
+| 2.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2944 | 24 | 498 | 46% | 2974 | 48% |
+| 2.2 | LTC <sub>(60.0+0.60s)</sub> | 2880 | 27 | 422 | 50% | 2877 | 39% |
+| 2.2 | STC <sub>(8.0+0.08s)</sub> | 2526 | 26 | 482 | 48% | 2539 | 28% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
