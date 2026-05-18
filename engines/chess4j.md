@@ -8,7 +8,7 @@ Home: https://github.com/jswaff/chess4j
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.2 | 2025-09-16 | 1894<sub>(+new) | 2260<sub>(+new) | 2350<sub>(+new) |  |
+| 6.2 | 2025-09-16 | 1891<sub>(+new) | 2256<sub>(+new) | 2346<sub>(+new) |  |
 | 6.1 | 2025-08-05 |  |  |  |  |
 | 6.0 | 2024-10-22 |  |  |  |  |
 | 5.1 | 2022-10-22 |  |  |  |  |
@@ -30,7 +30,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-17 06:23:24
+Generated: 2026-05-18 06:23:22
 
 
 
@@ -38,7 +38,7 @@ Generated: 2026-05-17 06:23:24
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 6.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2350 | 27 | 468 | 49% | 2360 | 30% |
-| 6.2 | LTC <sub>(60.0+0.60s)</sub> | 2260 | 28 | 444 | 50% | 2253 | 28% |
-| 6.2 | STC <sub>(8.0+0.08s)</sub> | 1894 | 25 | 568 | 51% | 1885 | 21% |
+| 6.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2346 | 27 | 468 | 49% | 2356 | 30% |
+| 6.2 | LTC <sub>(60.0+0.60s)</sub> | 2256 | 28 | 444 | 50% | 2249 | 28% |
+| 6.2 | STC <sub>(8.0+0.08s)</sub> | 1891 | 25 | 568 | 51% | 1883 | 21% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
