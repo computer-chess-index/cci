@@ -8,8 +8,8 @@ Home: https://github.com/LarsAur/Arcanum
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.8 | 2026-05-16 |  |  |  |  |
-| 2.7 | 2025-10-18 | 2951<sub>(+new) | 3254<sub>(+new) | 3313<sub>(+new) |  |
+| 2.8 | 2026-05-16 | 2943<sub>(-1) | 3274<sub>(+27) | 3322<sub>(+16) |  |
+| 2.7 | 2025-10-18 | 2944<sub>(+new) | 3247<sub>(+new) | 3306<sub>(+new) |  |
 | 2.6 | 2025-07-19 |  |  |  |  |
 | 2.5 | 2025-03-03 |  |  |  |  |
 | 2.4 | 2024-11-30 |  |  |  |  |
@@ -37,7 +37,25 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-17 06:22:39
+Generated: 2026-05-18 06:22:38
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["2.7", "2.8"]
+  y-axis "Elo Rating" 2900 --> 3400
+  line "STC (8.0+0.08s)" [2944, 2943]
+  line "STC (8.0+0.08s)" [2944, 2943]
+  line "LTC (60.0+0.60s)" [3247, 3274]
+  line "VLTC (2m24s+1.12s)" [3306, 3322]
+  line "VLTC (2m24s+1.12s)" [3306, 3322]
+```
+
+<p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
+<p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
+
 
 
 
@@ -45,7 +63,11 @@ Generated: 2026-05-17 06:22:39
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.7 | VLTC <sub>(2m24s+1.12s)</sub> | 3313 | 27 | 394 | 54% | 3278 | 56% |
-| 2.7 | LTC <sub>(60.0+0.60s)</sub> | 3254 | 26 | 424 | 50% | 3235 | 57% |
-| 2.7 | STC <sub>(8.0+0.08s)</sub> | 2951 | 23 | 554 | 49% | 2950 | 44% |
+| 2.8 | VLTC <sub>(2m24s+1.12s)</sub> | 3322 | 52 | 102 | 53% | 3297 | 57% |
+| 2.8 | LTC <sub>(60.0+0.60s)</sub> | 3274 | 47 | 118 | 49% | 3283 | 60% |
+| 2.8 | STC <sub>(8.0+0.08s)</sub> | 2943 | 45 | 152 | 50% | 2943 | 41% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.7 | VLTC <sub>(2m24s+1.12s)</sub> | 3306 | 27 | 394 | 54% | 3272 | 56% |
+| 2.7 | LTC <sub>(60.0+0.60s)</sub> | 3247 | 26 | 424 | 50% | 3228 | 57% |
+| 2.7 | STC <sub>(8.0+0.08s)</sub> | 2944 | 23 | 554 | 49% | 2943 | 44% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
