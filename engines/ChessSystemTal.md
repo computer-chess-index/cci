@@ -8,7 +8,7 @@ Home:
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| Extreme | 2026-01-07 | 2978<sub>(+new) | 3224<sub>(+new) | 3271<sub>(+new) |  |
+| Extreme | 2026-01-07 | 2935<sub>(+new) | 3182<sub>(+new) | 3229<sub>(+new) |  |
 | 2.00 | 2023-06-15 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-18 06:23:26
+Generated: 2026-05-19 06:23:44
 
 
 
@@ -33,7 +33,7 @@ Generated: 2026-05-18 06:23:26
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Extreme | VLTC <sub>(2m24s+1.12s)</sub> | 3271 | 26 | 430 | 52% | 3256 | 43% |
-| Extreme | LTC <sub>(60.0+0.60s)</sub> | 3224 | 26 | 444 | 53% | 3198 | 41% |
-| Extreme | STC <sub>(8.0+0.08s)</sub> | 2978 | 24 | 552 | 49% | 2978 | 33% |
+| Extreme | VLTC <sub>(2m24s+1.12s)</sub> | 3229 | 26 | 430 | 52% | 3214 | 43% |
+| Extreme | LTC <sub>(60.0+0.60s)</sub> | 3182 | 26 | 444 | 53% | 3156 | 41% |
+| Extreme | STC <sub>(8.0+0.08s)</sub> | 2935 | 24 | 560 | 49% | 2936 | 33% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
