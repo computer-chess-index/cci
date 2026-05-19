@@ -8,7 +8,7 @@ Home: https://github.com/saisree27/Maelstrom
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.3.0 | 2025-08-27 | 2786<sub>(+new) | 3112<sub>(+new) | 3218<sub>(+new) |  |
+| 3.3.0 | 2025-08-27 | 2745<sub>(+new) | 3070<sub>(+new) | 3177<sub>(+new) |  |
 | 3.2.0 | 2025-07-16 |  |  |  |  |
 | 3.1.1 | 2025-07-10 |  |  |  |  |
 | 3.1.0 | 2025-07-09 |  |  |  |  |
@@ -32,7 +32,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-18 06:25:46
+Generated: 2026-05-19 06:26:23
 
 
 
@@ -40,7 +40,7 @@ Generated: 2026-05-18 06:25:46
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3218 | 25 | 416 | 49% | 3220 | 62% |
-| 3.3.0 | LTC <sub>(60.0+0.60s)</sub> | 3112 | 27 | 390 | 53% | 3083 | 53% |
-| 3.3.0 | STC <sub>(8.0+0.08s)</sub> | 2786 | 25 | 498 | 50% | 2772 | 37% |
+| 3.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3177 | 25 | 416 | 49% | 3178 | 62% |
+| 3.3.0 | LTC <sub>(60.0+0.60s)</sub> | 3070 | 27 | 390 | 53% | 3042 | 53% |
+| 3.3.0 | STC <sub>(8.0+0.08s)</sub> | 2745 | 25 | 498 | 50% | 2730 | 37% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
