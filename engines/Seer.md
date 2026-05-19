@@ -8,7 +8,7 @@ Home: https://github.com/connormcmonigle/seer-nnue
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.8 | 2023-12-31 | 3313<sub>(+new) | 3480<sub>(+new) | 3514<sub>(+new) |  |
+| 2.8 | 2023-12-31 | 3271<sub>(+new) | 3438<sub>(+new) | 3472<sub>(+new) |  |
 | 2.7.0 | 2023-10-26 |  |  |  |  |
 | 2.6.0 | 2022-10-22 |  |  |  |  |
 | 2.5.0 | 2022-04-25 |  |  |  |  |
@@ -37,7 +37,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-18 06:28:10
+Generated: 2026-05-19 06:29:02
 
 
 
@@ -45,7 +45,7 @@ Generated: 2026-05-18 06:28:10
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.8 | VLTC <sub>(2m24s+1.12s)</sub> | 3514 | 11 | 1981 | 51% | 3503 | 80% |
-| 2.8 | LTC <sub>(60.0+0.60s)</sub> | 3480 | 11 | 1860 | 50% | 3480 | 76% |
-| 2.8 | STC <sub>(8.0+0.08s)</sub> | 3313 | 11 | 2068 | 51% | 3287 | 65% |
+| 2.8 | VLTC <sub>(2m24s+1.12s)</sub> | 3472 | 11 | 1981 | 51% | 3461 | 80% |
+| 2.8 | LTC <sub>(60.0+0.60s)</sub> | 3438 | 11 | 1860 | 50% | 3438 | 76% |
+| 2.8 | STC <sub>(8.0+0.08s)</sub> | 3271 | 11 | 2068 | 51% | 3247 | 65% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
