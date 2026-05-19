@@ -8,7 +8,7 @@ Home: https://github.com/P1X3R/zugblitz
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.3.1 | 2026-01-10 | 1902 | 2192 | 2237 |  |
+| 1.3.1 | 2026-01-10 | 1875 | 2153 | 2198 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Zugblitz+<version>&body=###%20Engine%20name%0AZugblitz%0A%0A###%20Version%0A1.3.1" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-18 06:29:47
+Generated: 2026-05-19 06:30:57
 
 
 
@@ -32,7 +32,7 @@ Generated: 2026-05-18 06:29:47
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2237 | 27 | 448 | 49% | 2242 | 35% |
-| 1.3.1 | LTC <sub>(60.0+0.60s)</sub> | 2192 | 29 | 406 | 49% | 2199 | 29% |
-| 1.3.1 | STC <sub>(8.0+0.08s)</sub> | 1902 | 24 | 586 | 52% | 1877 | 28% |
+| 1.3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2198 | 27 | 448 | 49% | 2203 | 35% |
+| 1.3.1 | LTC <sub>(60.0+0.60s)</sub> | 2153 | 29 | 406 | 49% | 2161 | 29% |
+| 1.3.1 | STC <sub>(8.0+0.08s)</sub> | 1875 | 24 | 590 | 52% | 1851 | 28% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
