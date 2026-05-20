@@ -8,7 +8,7 @@ Home: https://github.com/yukarichess/yukari
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2025.11.1 | 2025-10-31 | 3110<sub>(+new) | 3312<sub>(+new) | 3372<sub>(+new) |  |
+| 2025.11.1 | 2025-10-31 | 3094<sub>(+new) | 3295<sub>(+new) | 3356<sub>(+new) |  |
 | 2025.4.1 | 2025-03-31 |  |  |  |  |
 | 2025.3.4 | 2025-03-04 |  |  |  |  |
 | 2025.2.4 | 2025-02-04 |  |  |  |  |
@@ -28,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-19 06:30:41
+Generated: 2026-05-20 06:36:22
 
 
 
@@ -36,7 +36,7 @@ Generated: 2026-05-19 06:30:41
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2025.11.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3372 | 24 | 426 | 52% | 3347 | 75% |
-| 2025.11.1 | LTC <sub>(60.0+0.60s)</sub> | 3312 | 25 | 408 | 53% | 3274 | 74% |
-| 2025.11.1 | STC <sub>(8.0+0.08s)</sub> | 3110 | 21 | 628 | 51% | 3075 | 59% |
+| 2025.11.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3356 | 24 | 426 | 52% | 3332 | 75% |
+| 2025.11.1 | LTC <sub>(60.0+0.60s)</sub> | 3295 | 25 | 408 | 53% | 3258 | 74% |
+| 2025.11.1 | STC <sub>(8.0+0.08s)</sub> | 3094 | 21 | 628 | 51% | 3058 | 59% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
