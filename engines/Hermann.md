@@ -8,7 +8,7 @@ Home:
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.8 | 2011-06-01 | 2149 | 2375 | 2472 |  |
+| 2.8 | 2011-06-01 | 2133 | 2360 | 2456 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Hermann+<version>&body=###%20Engine%20name%0AHermann%0A%0A###%20Version%0A2.8" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-19 06:25:25
+Generated: 2026-05-20 06:25:19
 
 
 
@@ -32,7 +32,7 @@ Generated: 2026-05-19 06:25:25
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.8 | VLTC <sub>(2m24s+1.12s)</sub> | 2472 | 37 | 252 | 49% | 2499 | 27% |
-| 2.8 | LTC <sub>(60.0+0.60s)</sub> | 2375 | 35 | 296 | 46% | 2417 | 21% |
-| 2.8 | STC <sub>(8.0+0.08s)</sub> | 2149 | 14 | 1812 | 50% | 2148 | 18% |
+| 2.8 | VLTC <sub>(2m24s+1.12s)</sub> | 2456 | 37 | 252 | 49% | 2484 | 27% |
+| 2.8 | LTC <sub>(60.0+0.60s)</sub> | 2360 | 35 | 296 | 46% | 2400 | 21% |
+| 2.8 | STC <sub>(8.0+0.08s)</sub> | 2133 | 14 | 1816 | 50% | 2132 | 18% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
