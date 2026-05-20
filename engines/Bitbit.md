@@ -8,7 +8,7 @@ Home: https://github.com/Spinojara/bitbit
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.6 | 2025-10-18 | 2912<sub>(+new) | 3140<sub>(+new) | 3213<sub>(+new) |  |
+| 1.6 | 2025-10-18 | 2896<sub>(+new) | 3125<sub>(+new) | 3197<sub>(+new) |  |
 | 1.5 | 2025-09-19 |  |  |  |  |
 | 1.4 | 2025-07-13 |  |  |  |  |
 | 1.3 | 2025-02-08 |  |  |  |  |
@@ -29,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-19 06:23:02
+Generated: 2026-05-20 06:22:59
 
 
 
@@ -37,7 +37,7 @@ Generated: 2026-05-19 06:23:02
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.6 | VLTC <sub>(2m24s+1.12s)</sub> | 3213 | 25 | 444 | 53% | 3183 | 53% |
-| 1.6 | LTC <sub>(60.0+0.60s)</sub> | 3140 | 25 | 470 | 52% | 3116 | 51% |
-| 1.6 | STC <sub>(8.0+0.08s)</sub> | 2912 | 23 | 584 | 51% | 2893 | 41% |
+| 1.6 | VLTC <sub>(2m24s+1.12s)</sub> | 3197 | 25 | 444 | 53% | 3168 | 53% |
+| 1.6 | LTC <sub>(60.0+0.60s)</sub> | 3125 | 25 | 470 | 52% | 3100 | 51% |
+| 1.6 | STC <sub>(8.0+0.08s)</sub> | 2896 | 23 | 584 | 51% | 2877 | 41% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
