@@ -8,7 +8,7 @@ Home: https://github.com/jabolcni/Lambergar
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.3 | 2025-09-19 | 2919<sub>(+new) | 3213<sub>(+new) | 3290<sub>(+new) |  |
+| 1.3 | 2025-09-19 | 2903<sub>(+new) | 3197<sub>(+new) | 3274<sub>(+new) |  |
 | 1.2 | 2025-05-21 |  |  |  |  |
 | 1.1 | 2025-03-27 |  |  |  |  |
 | 1.0 | 2025-01-14 |  |  |  |  |
@@ -36,7 +36,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-19 06:25:57
+Generated: 2026-05-20 06:25:51
 
 
 
@@ -44,7 +44,7 @@ Generated: 2026-05-19 06:25:57
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.3 | VLTC <sub>(2m24s+1.12s)</sub> | 3290 | 24 | 454 | 52% | 3275 | 65% |
-| 1.3 | LTC <sub>(60.0+0.60s)</sub> | 3213 | 26 | 394 | 51% | 3204 | 63% |
-| 1.3 | STC <sub>(8.0+0.08s)</sub> | 2919 | 23 | 608 | 54% | 2870 | 42% |
+| 1.3 | VLTC <sub>(2m24s+1.12s)</sub> | 3274 | 24 | 454 | 52% | 3259 | 65% |
+| 1.3 | LTC <sub>(60.0+0.60s)</sub> | 3197 | 26 | 394 | 51% | 3189 | 63% |
+| 1.3 | STC <sub>(8.0+0.08s)</sub> | 2903 | 23 | 608 | 54% | 2854 | 42% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
