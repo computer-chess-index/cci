@@ -8,7 +8,7 @@ Home: https://github.com/Alex2262/AltairChessEngine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7.0.0 | 2024-02-17 | 3158<sub>(+new) | 3357<sub>(+new) | 3375<sub>(+new) |  |
+| 7.0.0 | 2024-02-17 | 3143<sub>(+new) | 3341<sub>(+new) | 3359<sub>(+new) |  |
 | 6.0.0 | 2023-12-05 |  |  |  |  |
 | 5.0.0 | 2023-09-24 |  |  |  |  |
 | 4.0.0 | 2023-07-10 |  |  |  |  |
@@ -30,7 +30,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-19 06:22:28
+Generated: 2026-05-20 06:22:26
 
 
 
@@ -38,7 +38,7 @@ Generated: 2026-05-19 06:22:28
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 7.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3375 | 11 | 2224 | 50% | 3371 | 71% |
-| 7.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3357 | 11 | 2032 | 51% | 3352 | 70% |
-| 7.0.0 | STC <sub>(8.0+0.08s)</sub> | 3158 | 12 | 2068 | 52% | 3120 | 56% |
+| 7.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3359 | 11 | 2224 | 50% | 3355 | 71% |
+| 7.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3341 | 11 | 2032 | 51% | 3337 | 70% |
+| 7.0.0 | STC <sub>(8.0+0.08s)</sub> | 3143 | 12 | 2076 | 52% | 3104 | 56% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
