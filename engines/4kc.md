@@ -10,7 +10,7 @@ Home: https://github.com/GediminasMasaitis/4k-dot-c
 | --- | --- | --- | --- | --- | --- |
 | 8.0 | 2026-03-10 | 2579<sub>(+new) | 2805<sub>(+new) | 2932<sub>(+new) |  |
 | 6.0 | 2026-03-10 |  |  |  |  |
-| 5.0 | 2025-10-30 | 2475<sub>(+new) | 2777<sub>(+new) | 2847<sub>(+new) |  |
+| 5.0 | 2025-10-30 | 2476<sub>(+new) | 2778<sub>(+new) | 2849<sub>(+new) |  |
 | 4.41 | 2025-08-15 |  |  |  |  |
 | 4.0 | 2025-08-15 |  |  |  |  |
 | 3.0 | 2025-08-15 |  |  |  |  |
@@ -34,7 +34,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-20 06:22:03
+Generated: 2026-05-21 06:22:02
 
 ## Ratings Verlauf
 
@@ -43,11 +43,11 @@ Generated: 2026-05-20 06:22:03
 xychart-beta
   x-axis ["5.0", "8.0"]
   y-axis "Elo Rating" 2400 --> 3000
-  line "STC (8.0+0.08s)" [2475, 2579]
-  line "STC (8.0+0.08s)" [2475, 2579]
-  line "LTC (60.0+0.60s)" [2777, 2805]
-  line "VLTC (2m24s+1.12s)" [2847, 2932]
-  line "VLTC (2m24s+1.12s)" [2847, 2932]
+  line "STC (8.0+0.08s)" [2476, 2579]
+  line "STC (8.0+0.08s)" [2476, 2579]
+  line "LTC (60.0+0.60s)" [2778, 2805]
+  line "VLTC (2m24s+1.12s)" [2849, 2932]
+  line "VLTC (2m24s+1.12s)" [2849, 2932]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -64,7 +64,7 @@ xychart-beta
 | 8.0 | LTC <sub>(60.0+0.60s)</sub> | 2805 | 29 | 374 | 51% | 2796 | 40% |
 | 8.0 | STC <sub>(8.0+0.08s)</sub> | 2579 | 27 | 456 | 50% | 2572 | 33% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 5.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2847 | 32 | 296 | 49% | 2859 | 39% |
-| 5.0 | LTC <sub>(60.0+0.60s)</sub> | 2777 | 31 | 324 | 48% | 2793 | 37% |
-| 5.0 | STC <sub>(8.0+0.08s)</sub> | 2475 | 30 | 396 | 51% | 2469 | 25% |
+| 5.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2849 | 32 | 296 | 49% | 2861 | 39% |
+| 5.0 | LTC <sub>(60.0+0.60s)</sub> | 2778 | 31 | 324 | 48% | 2793 | 37% |
+| 5.0 | STC <sub>(8.0+0.08s)</sub> | 2476 | 30 | 396 | 51% | 2471 | 25% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
