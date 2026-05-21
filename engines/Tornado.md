@@ -8,7 +8,7 @@ Home:
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.0 | 2020-12-15 | 2133 | 2943 | 3092 |  |
+| 9.0 | 2020-12-15 | 2133 | 2944 | 3093 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Tornado+<version>&body=###%20Engine%20name%0ATornado%0A%0A###%20Version%0A9.0" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-20 06:29:52
+Generated: 2026-05-21 06:29:11
 
 
 
@@ -32,7 +32,7 @@ Generated: 2026-05-20 06:29:52
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3092 | 12 | 1824 | 49% | 3093 | 56% |
-| 9.0 | LTC <sub>(60.0+0.60s)</sub> | 2943 | 13 | 1670 | 50% | 2938 | 47% |
-| 9.0 | STC <sub>(8.0+0.08s)</sub> | 2133 | 199 | 16 | 94% | 1654 | 13% |
+| 9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3093 | 12 | 1828 | 49% | 3094 | 56% |
+| 9.0 | LTC <sub>(60.0+0.60s)</sub> | 2944 | 13 | 1670 | 50% | 2938 | 47% |
+| 9.0 | STC <sub>(8.0+0.08s)</sub> | 2133 | 199 | 16 | 94% | 1655 | 13% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
