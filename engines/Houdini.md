@@ -8,7 +8,7 @@ Home: https://github.com/crossopterygian/Houdini_6
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.5a | 2017-11-20 | 2475 | 2547 | 2593 |  |
+| 1.5a | 2017-11-20 | 2475 | 2549 | 2595 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Houdini+<version>&body=###%20Engine%20name%0AHoudini%0A%0A###%20Version%0A1.5a" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-20 06:25:29
+Generated: 2026-05-21 06:25:07
 
 
 
@@ -32,7 +32,7 @@ Generated: 2026-05-20 06:25:29
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.5a | VLTC <sub>(2m24s+1.12s)</sub> | 2593 | 33 | 364 | 45% | 2670 | 18% |
-| 1.5a | LTC <sub>(60.0+0.60s)</sub> | 2547 | 36 | 292 | 56% | 2483 | 18% |
+| 1.5a | VLTC <sub>(2m24s+1.12s)</sub> | 2595 | 33 | 364 | 45% | 2672 | 18% |
+| 1.5a | LTC <sub>(60.0+0.60s)</sub> | 2549 | 36 | 292 | 56% | 2483 | 18% |
 | 1.5a | STC <sub>(8.0+0.08s)</sub> | 2475 | 14 | 1996 | 54% | 2433 | 16% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
