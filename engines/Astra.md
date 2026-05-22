@@ -8,7 +8,7 @@ Home: https://github.com/h1me01/Astra
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.1.1 | 2025-07-21 | 3270<sub>(+new) | 3463<sub>(+new) | 3498<sub>(+new) |  |
+| 6.1.1 | 2025-07-21 | 3271<sub>(+new) | 3464<sub>(+new) | 3499<sub>(+new) |  |
 | 6.1 | 2025-07-20 |  |  |  |  |
 | 6.0 | 2025-07-07 |  |  |  |  |
 | 5.2 | 2025-05-02 |  |  |  |  |
@@ -36,7 +36,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-22 06:22:45
+Generated: 2026-05-22 14:52:05
 
 
 
@@ -44,7 +44,7 @@ Generated: 2026-05-22 06:22:45
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 6.1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3498 | 23 | 420 | 52% | 3483 | 87% |
-| 6.1.1 | LTC <sub>(60.0+0.60s)</sub> | 3463 | 25 | 396 | 51% | 3449 | 81% |
-| 6.1.1 | STC <sub>(8.0+0.08s)</sub> | 3270 | 23 | 502 | 51% | 3255 | 66% |
+| 6.1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3499 | 23 | 420 | 52% | 3483 | 87% |
+| 6.1.1 | LTC <sub>(60.0+0.60s)</sub> | 3464 | 25 | 396 | 51% | 3449 | 81% |
+| 6.1.1 | STC <sub>(8.0+0.08s)</sub> | 3271 | 23 | 502 | 51% | 3255 | 66% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
