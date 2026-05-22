@@ -8,8 +8,8 @@ Home: https://github.com/Wind-Eagle/Quirky
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0 | 2026-05-16 | 760<sub>(-2186) | 1999<sub>(-1179) | 1177<sub>(-2063) |  |
-| 2.1 | 2025-11-25 | 2946<sub>(+new) | 3178<sub>(+new) | 3240<sub>(+new) |  |
+| 3.0 | 2026-05-16 | 768<sub>(-2179) | 1999<sub>(-1179) | 1177<sub>(-2063) |  |
+| 2.1 | 2025-11-25 | 2947<sub>(+new) | 3178<sub>(+new) | 3240<sub>(+new) |  |
 | 2.0 | 2025-08-30 |  |  |  |  |
 | 1.0 | 2025-05-04 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-22 06:27:44
+Generated: 2026-05-22 15:03:42
 
 ## Ratings Verlauf
 
@@ -36,8 +36,8 @@ Generated: 2026-05-22 06:27:44
 xychart-beta
   x-axis ["2.1", "3.0"]
   y-axis "Elo Rating" 700 --> 3300
-  line "STC (8.0+0.08s)" [2946, 760]
-  line "STC (8.0+0.08s)" [2946, 760]
+  line "STC (8.0+0.08s)" [2947, 768]
+  line "STC (8.0+0.08s)" [2947, 768]
   line "LTC (60.0+0.60s)" [3178, 1999]
   line "VLTC (2m24s+1.12s)" [3240, 1177]
   line "VLTC (2m24s+1.12s)" [3240, 1177]
@@ -55,9 +55,9 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1177 | 23 | 1566 | 21% | 1717 | 3% |
 | 3.0 | LTC <sub>(60.0+0.60s)</sub> | 1999 | 25 | 800 | 35% | 2206 | 2% |
-| 3.0 | STC <sub>(8.0+0.08s)</sub> | 760 | 42 | 320 | 45% | 975 | 18% |
+| 3.0 | STC <sub>(8.0+0.08s)</sub> | 768 | 42 | 324 | 46% | 972 | 18% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3240 | 22 | 564 | 54% | 3213 | 59% |
 | 2.1 | LTC <sub>(60.0+0.60s)</sub> | 3178 | 25 | 438 | 52% | 3159 | 63% |
-| 2.1 | STC <sub>(8.0+0.08s)</sub> | 2946 | 23 | 552 | 50% | 2927 | 44% |
+| 2.1 | STC <sub>(8.0+0.08s)</sub> | 2947 | 23 | 552 | 50% | 2928 | 44% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
