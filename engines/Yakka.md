@@ -8,7 +8,7 @@ Home: https://github.com/CJDalrymple/Yakka
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.5 | 2026-01-22 | 2755<sub>(+112) | 3017<sub>(+109) | 3101<sub>(+154) |  |
+| 1.5 | 2026-01-22 | 2755<sub>(+112) | 3020<sub>(+112) | 3101<sub>(+154) |  |
 | 1.4 | 2025-11-11 | 2643<sub>(+new) | 2908<sub>(+new) | 2947<sub>(+new) |  |
 | 1.3 | 2025-08-10 |  |  |  |  |
 | 1.2 | 2025-02-11 |  |  |  |  |
@@ -29,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-22 06:32:10
+Generated: 2026-05-22 15:08:40
 
 ## Ratings Verlauf
 
@@ -40,7 +40,7 @@ xychart-beta
   y-axis "Elo Rating" 2600 --> 3200
   line "STC (8.0+0.08s)" [2643, 2755]
   line "STC (8.0+0.08s)" [2643, 2755]
-  line "LTC (60.0+0.60s)" [2908, 3017]
+  line "LTC (60.0+0.60s)" [2908, 3020]
   line "VLTC (2m24s+1.12s)" [2947, 3101]
   line "VLTC (2m24s+1.12s)" [2947, 3101]
 ```
@@ -55,8 +55,8 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.5 | VLTC <sub>(2m24s+1.12s)</sub> | 3101 | 24 | 488 | 50% | 3104 | 55% |
-| 1.5 | LTC <sub>(60.0+0.60s)</sub> | 3017 | 27 | 368 | 48% | 3035 | 56% |
+| 1.5 | VLTC <sub>(2m24s+1.12s)</sub> | 3101 | 24 | 488 | 50% | 3105 | 55% |
+| 1.5 | LTC <sub>(60.0+0.60s)</sub> | 3020 | 27 | 372 | 48% | 3033 | 56% |
 | 1.5 | STC <sub>(8.0+0.08s)</sub> | 2755 | 26 | 442 | 50% | 2757 | 40% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.4 | VLTC <sub>(2m24s+1.12s)</sub> | 2947 | 34 | 260 | 52% | 2931 | 48% |
