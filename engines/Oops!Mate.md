@@ -23,7 +23,7 @@ Home: https://github.com/PS-Wizard/OopsMate
 | 5.0 | 2026-01-31 |  |  |  |  |
 | 4.0 | 2026-01-31 |  |  |  |  |
 | 3.0 | 2026-01-31 |  |  |  |  |
-| 2.0 | 2026-01-30 | 1276<sub>(+new) | 1461<sub>(+new) | 1469<sub>(+new) |  |
+| 2.0 | 2026-01-30 | 1276<sub>(+new) | 1462<sub>(+new) | 1469<sub>(+new) |  |
 | 1.0 | 2026-01-30 |  |  |  |  |
 | 0.0.4 | 2025-11-23 | 1131<sub>(+new) | 1358<sub>(+new) | 1408<sub>(+new) |  |
 | 0.0.3 | 2025-11-13 |  |  |  |  |
@@ -45,7 +45,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-22 06:26:47
+Generated: 2026-05-22 15:02:22
 
 ## Ratings Verlauf
 
@@ -56,7 +56,7 @@ xychart-beta
   y-axis "Elo Rating" 1100 --> 1500
   line "STC (8.0+0.08s)" [1131, 1276]
   line "STC (8.0+0.08s)" [1131, 1276]
-  line "LTC (60.0+0.60s)" [1358, 1461]
+  line "LTC (60.0+0.60s)" [1358, 1462]
   line "VLTC (2m24s+1.12s)" [1408, 1469]
   line "VLTC (2m24s+1.12s)" [1408, 1469]
 ```
@@ -72,7 +72,7 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1469 | 29 | 402 | 52% | 1440 | 30% |
-| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 1461 | 28 | 458 | 52% | 1435 | 27% |
+| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 1462 | 28 | 458 | 52% | 1435 | 27% |
 | 2.0 | STC <sub>(8.0+0.08s)</sub> | 1276 | 28 | 478 | 57% | 1157 | 28% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.0.4 | VLTC <sub>(2m24s+1.12s)</sub> | 1408 | 43 | 190 | 42% | 1551 | 34% |
