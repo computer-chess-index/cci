@@ -8,7 +8,7 @@ Home: https://github.com/Tym972/Echekinator
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2025-11-25 | 1777 | 2057 | 2152 |  |
+| 1.0 | 2025-11-25 | 1775 | 2052 | 2151 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Echekinator+<version>&body=###%20Engine%20name%0AEchekinator%0A%0A###%20Version%0A1.0" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-21 06:24:04
+Generated: 2026-05-22 06:24:05
 
 
 
@@ -32,7 +32,7 @@ Generated: 2026-05-21 06:24:04
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2152 | 28 | 466 | 47% | 2190 | 23% |
-| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2057 | 25 | 552 | 52% | 2037 | 24% |
-| 1.0 | STC <sub>(8.0+0.08s)</sub> | 1777 | 25 | 628 | 49% | 1779 | 18% |
+| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2151 | 28 | 470 | 47% | 2188 | 24% |
+| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2052 | 25 | 556 | 52% | 2036 | 24% |
+| 1.0 | STC <sub>(8.0+0.08s)</sub> | 1775 | 25 | 628 | 49% | 1778 | 18% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
