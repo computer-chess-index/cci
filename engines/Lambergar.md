@@ -8,7 +8,8 @@ Home: https://github.com/jabolcni/Lambergar
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.3 | 2025-09-19 | 2905<sub>(+new) | 3198<sub>(+new) | 3274<sub>(+new) |  |
+| 1.5 | 2026-05-28 |  |  |  |  |
+| 1.3 | 2025-09-19 | 2904<sub>(+new) | 3197<sub>(+new) | 3272<sub>(+new) |  |
 | 1.2 | 2025-05-21 |  |  |  |  |
 | 1.1 | 2025-03-27 |  |  |  |  |
 | 1.0 | 2025-01-14 |  |  |  |  |
@@ -23,7 +24,7 @@ Home: https://github.com/jabolcni/Lambergar
 | 0.3.1 | 2023-11-20 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Lambergar+<version>&body=###%20Engine%20name%0ALambergar%0A%0A###%20Version%0A1.3" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Lambergar+<version>&body=###%20Engine%20name%0ALambergar%0A%0A###%20Version%0A1.5" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -36,7 +37,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-22 14:59:50
+Generated: 2026-06-07 06:25:20
 
 
 
@@ -44,7 +45,7 @@ Generated: 2026-05-22 14:59:50
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.3 | VLTC <sub>(2m24s+1.12s)</sub> | 3274 | 24 | 458 | 52% | 3260 | 65% |
-| 1.3 | LTC <sub>(60.0+0.60s)</sub> | 3198 | 26 | 394 | 51% | 3189 | 63% |
-| 1.3 | STC <sub>(8.0+0.08s)</sub> | 2905 | 22 | 616 | 54% | 2857 | 42% |
+| 1.3 | VLTC <sub>(2m24s+1.12s)</sub> | 3272 | 24 | 458 | 52% | 3259 | 65% |
+| 1.3 | LTC <sub>(60.0+0.60s)</sub> | 3197 | 26 | 394 | 51% | 3189 | 63% |
+| 1.3 | STC <sub>(8.0+0.08s)</sub> | 2904 | 22 | 616 | 54% | 2855 | 42% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
