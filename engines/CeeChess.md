@@ -8,7 +8,7 @@ Home: https://github.com/bctboi23/CeeChess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.2 | 2025-11-05 | 2138<sub>(+new) | 2396<sub>(+new) | 2475<sub>(+new) |  |
+| 2.2 | 2025-11-05 | 2137<sub>(+new) | 2396<sub>(+new) | 2473<sub>(+new) |  |
 | 2.1 | 2025-10-07 |  |  |  |  |
 | 2.0 | 2025-09-22 |  |  |  |  |
 | 1.4 | 2024-02-16 |  |  |  |  |
@@ -36,7 +36,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-22 14:52:43
+Generated: 2026-06-07 06:23:11
 
 
 
@@ -44,7 +44,7 @@ Generated: 2026-05-22 14:52:43
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2475 | 29 | 402 | 48% | 2498 | 31% |
-| 2.2 | LTC <sub>(60.0+0.60s)</sub> | 2396 | 27 | 460 | 49% | 2408 | 30% |
-| 2.2 | STC <sub>(8.0+0.08s)</sub> | 2138 | 26 | 542 | 50% | 2132 | 20% |
+| 2.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2473 | 29 | 406 | 48% | 2496 | 31% |
+| 2.2 | LTC <sub>(60.0+0.60s)</sub> | 2396 | 27 | 464 | 49% | 2407 | 30% |
+| 2.2 | STC <sub>(8.0+0.08s)</sub> | 2137 | 26 | 546 | 50% | 2130 | 20% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
