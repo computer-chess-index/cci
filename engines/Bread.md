@@ -8,10 +8,11 @@ Home: https://github.com/Nonlinear2/Bread-Engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.0 | 2026-03-15 | 3092<sub>(+107) | 3298<sub>(+105) | 3374<sub>(+131) |  |
-| 2.1.1 | 2025-12-22 | 2985<sub>(+new) | 3193<sub>(+new) | 3243<sub>(+new) |  |
+| 3.1.0 | 2026-05-22 |  |  |  |  |
+| 3.0.0 | 2026-03-15 | 3090<sub>(+106) | 3297<sub>(+104) | 3372<sub>(+131) |  |
+| 2.1.1 | 2025-12-22 | 2984<sub>(+new) | 3193<sub>(+new) | 3241<sub>(+new) |  |
 | 2.1.0 | 2025-12-21 |  |  |  | always disconnects |
-| 2.0.0 | 2025-10-18 | 2851<sub>(+new) | 3105<sub>(+new) | 3141<sub>(+new) |  |
+| 2.0.0 | 2025-10-18 | 2850<sub>(+new) | 3104<sub>(+new) | 3140<sub>(+new) |  |
 | 1.6.0 | 2025-08-26 |  |  |  |  |
 | 1.5.0 | 2025-07-13 |  |  |  |  |
 | 1.4.0 | 2025-05-05 |  |  |  |  |
@@ -31,7 +32,7 @@ Home: https://github.com/Nonlinear2/Bread-Engine
 | 0.0.1 | 2024-06-05 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Bread+<version>&body=###%20Engine%20name%0ABread%0A%0A###%20Version%0A3.0.0" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Bread+<version>&body=###%20Engine%20name%0ABread%0A%0A###%20Version%0A3.1.0" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -44,7 +45,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-22 14:52:27
+Generated: 2026-06-07 06:23:00
 
 ## Ratings Verlauf
 
@@ -53,11 +54,11 @@ Generated: 2026-05-22 14:52:27
 xychart-beta
   x-axis ["2.0.0", "2.1.1", "3.0.0"]
   y-axis "Elo Rating" 2800 --> 3400
-  line "STC (8.0+0.08s)" [2851, 2985, 3092]
-  line "STC (8.0+0.08s)" [2851, 2985, 3092]
-  line "LTC (60.0+0.60s)" [3105, 3193, 3298]
-  line "VLTC (2m24s+1.12s)" [3141, 3243, 3374]
-  line "VLTC (2m24s+1.12s)" [3141, 3243, 3374]
+  line "STC (8.0+0.08s)" [2850, 2984, 3090]
+  line "STC (8.0+0.08s)" [2850, 2984, 3090]
+  line "LTC (60.0+0.60s)" [3104, 3193, 3297]
+  line "VLTC (2m24s+1.12s)" [3140, 3241, 3372]
+  line "VLTC (2m24s+1.12s)" [3140, 3241, 3372]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -70,15 +71,15 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3374 | 25 | 406 | 50% | 3375 | 74% |
-| 3.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3298 | 26 | 362 | 51% | 3291 | 72% |
-| 3.0.0 | STC <sub>(8.0+0.08s)</sub> | 3092 | 26 | 420 | 50% | 3092 | 57% |
+| 3.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3372 | 25 | 406 | 50% | 3375 | 74% |
+| 3.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3297 | 26 | 362 | 51% | 3290 | 72% |
+| 3.0.0 | STC <sub>(8.0+0.08s)</sub> | 3090 | 26 | 420 | 50% | 3090 | 57% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3243 | 30 | 294 | 50% | 3240 | 61% |
-| 2.1.1 | LTC <sub>(60.0+0.60s)</sub> | 3193 | 28 | 348 | 50% | 3182 | 55% |
-| 2.1.1 | STC <sub>(8.0+0.08s)</sub> | 2985 | 28 | 364 | 52% | 2970 | 47% |
+| 2.1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3241 | 30 | 294 | 50% | 3239 | 61% |
+| 2.1.1 | LTC <sub>(60.0+0.60s)</sub> | 3193 | 28 | 348 | 50% | 3181 | 55% |
+| 2.1.1 | STC <sub>(8.0+0.08s)</sub> | 2984 | 28 | 364 | 52% | 2969 | 47% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3141 | 37 | 208 | 57% | 3036 | 55% |
-| 2.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3105 | 40 | 188 | 56% | 3023 | 53% |
-| 2.0.0 | STC <sub>(8.0+0.08s)</sub> | 2851 | 38 | 208 | 51% | 2820 | 44% |
+| 2.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3140 | 37 | 208 | 57% | 3035 | 55% |
+| 2.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3104 | 40 | 188 | 56% | 3021 | 53% |
+| 2.0.0 | STC <sub>(8.0+0.08s)</sub> | 2850 | 38 | 208 | 51% | 2819 | 44% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
