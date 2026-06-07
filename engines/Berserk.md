@@ -8,7 +8,9 @@ Home: https://github.com/jhonnold/berserk
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 13 | 2024-03-31 | 1589<sub>(+new) | 3513<sub>(+new) | 3537<sub>(+new) |  |
+| 4.7.0 | 2026-05-24 |  |  |  |  |
+| 14 | 2026-05-24 |  |  |  |  |
+| 13 | 2024-03-31 | 1588<sub>(+new) | 3511<sub>(+new) | 3536<sub>(+new) |  |
 | 12.1 | 2023-11-12 |  |  |  |  |
 | 12 | 2023-10-26 |  |  |  |  |
 | 11.1 | 2023-02-21 |  |  |  |  |
@@ -41,7 +43,7 @@ Home: https://github.com/jhonnold/berserk
 | 1.0.0 | 2021-02-17 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Berserk+<version>&body=###%20Engine%20name%0ABerserk%0A%0A###%20Version%0A13" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Berserk+<version>&body=###%20Engine%20name%0ABerserk%0A%0A###%20Version%0A4.7.0" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -54,7 +56,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-05-22 14:52:13
+Generated: 2026-06-07 06:22:49
 
 
 
@@ -62,7 +64,7 @@ Generated: 2026-05-22 14:52:13
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 13 | VLTC <sub>(2m24s+1.12s)</sub> | 3537 | 13 | 1458 | 53% | 3463 | 84% |
-| 13 | LTC <sub>(60.0+0.60s)</sub> | 3513 | 12 | 1736 | 51% | 3507 | 87% |
-| 13 | STC <sub>(8.0+0.08s)</sub> | 1589 | 15 | 1928 | 53% | 1547 | 10% |
+| 13 | VLTC <sub>(2m24s+1.12s)</sub> | 3536 | 13 | 1458 | 53% | 3461 | 84% |
+| 13 | LTC <sub>(60.0+0.60s)</sub> | 3511 | 12 | 1736 | 51% | 3507 | 87% |
+| 13 | STC <sub>(8.0+0.08s)</sub> | 1588 | 15 | 1928 | 53% | 1546 | 10% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
