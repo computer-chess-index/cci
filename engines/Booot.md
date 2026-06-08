@@ -8,7 +8,7 @@ Home: https://github.com/booot76/Booot-chess-engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7.4 | 2025-02-25 | 3218<sub>(+new) | 3432<sub>(+new) | 3470<sub>(+new) |  |
+| 7.4 | 2025-02-25 | 3216<sub>(+new) | 3429<sub>(+new) | 3467<sub>(+new) |  |
 | 7.3 | 2024-01-28 |  |  |  |  |
 | 7.2 | 2023-07-30 |  |  |  |  |
 | 7.1 | 2023-03-02 |  |  |  |  |
@@ -38,7 +38,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-07 06:22:58
+Generated: 2026-06-08 06:23:00
 
 
 
@@ -46,7 +46,7 @@ Generated: 2026-06-07 06:22:58
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 7.4 | VLTC <sub>(2m24s+1.12s)</sub> | 3470 | 25 | 388 | 51% | 3456 | 81% |
-| 7.4 | LTC <sub>(60.0+0.60s)</sub> | 3432 | 23 | 460 | 50% | 3416 | 77% |
-| 7.4 | STC <sub>(8.0+0.08s)</sub> | 3218 | 22 | 592 | 50% | 3214 | 58% |
+| 7.4 | VLTC <sub>(2m24s+1.12s)</sub> | 3467 | 25 | 388 | 51% | 3453 | 81% |
+| 7.4 | LTC <sub>(60.0+0.60s)</sub> | 3429 | 23 | 460 | 50% | 3413 | 77% |
+| 7.4 | STC <sub>(8.0+0.08s)</sub> | 3216 | 21 | 596 | 50% | 3212 | 59% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
