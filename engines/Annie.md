@@ -8,7 +8,7 @@ Home: https://github.com/tsoj/Annie
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.2 | 2026-01-17 | 1327<sub>(+new) | 1521<sub>(+new) | 1515<sub>(+new) |  |
+| 1.2 | 2026-01-17 | 1326<sub>(+new) | 1519<sub>(+new) | 1513<sub>(+new) |  |
 | 1.0 | 2023-03-26 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-07 06:22:26
+Generated: 2026-06-08 06:22:27
 
 
 
@@ -33,7 +33,7 @@ Generated: 2026-06-07 06:22:26
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.2 | VLTC <sub>(2m24s+1.12s)</sub> | 1515 | 29 | 478 | 48% | 1565 | 17% |
-| 1.2 | LTC <sub>(60.0+0.60s)</sub> | 1521 | 26 | 560 | 44% | 1592 | 18% |
-| 1.2 | STC <sub>(8.0+0.08s)</sub> | 1327 | 30 | 500 | 56% | 1218 | 16% |
+| 1.2 | VLTC <sub>(2m24s+1.12s)</sub> | 1513 | 29 | 478 | 48% | 1563 | 17% |
+| 1.2 | LTC <sub>(60.0+0.60s)</sub> | 1519 | 26 | 560 | 44% | 1589 | 18% |
+| 1.2 | STC <sub>(8.0+0.08s)</sub> | 1326 | 30 | 500 | 56% | 1216 | 16% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
