@@ -8,7 +8,7 @@ Home: https://github.com/nfaltermeier/fox-chess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1 | 2026-04-18 | 2387<sub>(+78) | 2696<sub>(+174) | 2766<sub>(+128) |  |
+| 1.1 | 2026-04-18 | 2387<sub>(+78) | 2696<sub>(+174) | 2763<sub>(+125) |  |
 | 1.0 | 2025-12-27 | 2309 | 2522 | 2638 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-08 06:24:27
+Generated: 2026-06-09 06:24:32
 
 ## Ratings Verlauf
 
@@ -37,8 +37,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [2309, 2387]
   line "STC (8.0+0.08s)" [2309, 2387]
   line "LTC (60.0+0.60s)" [2522, 2696]
-  line "VLTC (2m24s+1.12s)" [2638, 2766]
-  line "VLTC (2m24s+1.12s)" [2638, 2766]
+  line "VLTC (2m24s+1.12s)" [2638, 2763]
+  line "VLTC (2m24s+1.12s)" [2638, 2763]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -51,8 +51,8 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2766 | 29 | 368 | 50% | 2770 | 37% |
-| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 2696 | 29 | 386 | 50% | 2692 | 35% |
+| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2763 | 29 | 372 | 49% | 2770 | 37% |
+| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 2696 | 29 | 390 | 50% | 2692 | 36% |
 | 1.1 | STC <sub>(8.0+0.08s)</sub> | 2387 | 31 | 364 | 50% | 2384 | 26% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2638 | 28 | 396 | 49% | 2642 | 40% |
