@@ -8,8 +8,8 @@ Home: https://github.com/Quanticade/Quanticade
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0 | 2025-12-15 | 3326<sub>(+45) | 3497<sub>(+44) | 3524<sub>(+29) |  |
-| 2.0 | 2025-05-21 | 3281<sub>(+new) | 3453<sub>(+new) | 3495<sub>(+new) |  |
+| 3.0 | 2025-12-15 | 3326<sub>(+45) | 3497<sub>(+44) | 3524<sub>(+30) |  |
+| 2.0 | 2025-05-21 | 3281<sub>(+new) | 3453<sub>(+new) | 3494<sub>(+new) |  |
 | 1.0 Fenrir | 2025-03-10 |  |  |  |  |
 | 1.2 Chimera | 2025-01-06 |  |  |  |  |
 | 1.1 Chimera | 2025-01-02 |  |  |  |  |
@@ -34,7 +34,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-08 06:27:19
+Generated: 2026-06-09 06:27:31
 
 ## Ratings Verlauf
 
@@ -46,8 +46,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [3281, 3326]
   line "STC (8.0+0.08s)" [3281, 3326]
   line "LTC (60.0+0.60s)" [3453, 3497]
-  line "VLTC (2m24s+1.12s)" [3495, 3524]
-  line "VLTC (2m24s+1.12s)" [3495, 3524]
+  line "VLTC (2m24s+1.12s)" [3494, 3524]
+  line "VLTC (2m24s+1.12s)" [3494, 3524]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -64,7 +64,7 @@ xychart-beta
 | 3.0 | LTC <sub>(60.0+0.60s)</sub> | 3497 | 24 | 390 | 50% | 3497 | 87% |
 | 3.0 | STC <sub>(8.0+0.08s)</sub> | 3326 | 22 | 536 | 50% | 3325 | 68% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3495 | 26 | 340 | 50% | 3491 | 84% |
+| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3494 | 26 | 340 | 50% | 3491 | 84% |
 | 2.0 | LTC <sub>(60.0+0.60s)</sub> | 3453 | 26 | 352 | 50% | 3451 | 81% |
 | 2.0 | STC <sub>(8.0+0.08s)</sub> | 3281 | 25 | 414 | 52% | 3267 | 64% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
