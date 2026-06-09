@@ -8,7 +8,7 @@ Home: https://github.com/elcabesa/vajolet
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.2 | 2026-05-17 | 2835<sub>(+19) | 3102<sub>(+67) | 3155<sub>(+41) |  |
+| 3.2 | 2026-05-17 | 2839<sub>(+23) | 3104<sub>(+69) | 3155<sub>(+41) |  |
 | 3.1 | 2026-04-03 | 2816<sub>(+100) | 3035<sub>(+58) | 3114<sub>(+62) |  |
 | 3.0 | 2025-12-21 | 2716<sub>(+new) | 2977<sub>(+new) | 3052<sub>(+new) |  |
 | 2.8 | 2019-11-01 |  |  |  |  |
@@ -34,7 +34,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-08 06:29:12
+Generated: 2026-06-09 06:29:29
 
 ## Ratings Verlauf
 
@@ -43,9 +43,9 @@ Generated: 2026-06-08 06:29:12
 xychart-beta
   x-axis ["3.0", "3.1", "3.2"]
   y-axis "Elo Rating" 2700 --> 3200
-  line "STC (8.0+0.08s)" [2716, 2816, 2835]
-  line "STC (8.0+0.08s)" [2716, 2816, 2835]
-  line "LTC (60.0+0.60s)" [2977, 3035, 3102]
+  line "STC (8.0+0.08s)" [2716, 2816, 2839]
+  line "STC (8.0+0.08s)" [2716, 2816, 2839]
+  line "LTC (60.0+0.60s)" [2977, 3035, 3104]
   line "VLTC (2m24s+1.12s)" [3052, 3114, 3155]
   line "VLTC (2m24s+1.12s)" [3052, 3114, 3155]
 ```
@@ -61,8 +61,8 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3155 | 32 | 276 | 49% | 3168 | 54% |
-| 3.2 | LTC <sub>(60.0+0.60s)</sub> | 3102 | 31 | 296 | 49% | 3109 | 48% |
-| 3.2 | STC <sub>(8.0+0.08s)</sub> | 2835 | 32 | 292 | 49% | 2844 | 40% |
+| 3.2 | LTC <sub>(60.0+0.60s)</sub> | 3104 | 31 | 300 | 49% | 3109 | 48% |
+| 3.2 | STC <sub>(8.0+0.08s)</sub> | 2839 | 32 | 296 | 49% | 2844 | 40% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3114 | 29 | 352 | 50% | 3116 | 47% |
 | 3.1 | LTC <sub>(60.0+0.60s)</sub> | 3035 | 27 | 406 | 50% | 3032 | 43% |
