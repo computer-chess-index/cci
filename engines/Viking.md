@@ -8,8 +8,8 @@ Home: https://github.com/nbqofficial/viking
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| R5 | 2026-04-27 | 1925<sub>(+583) | 2165<sub>(+341) | 2341<sub>(+231) |  |
-| R4 | 2026-04-22 | 1342<sub>(+new) | 1824<sub>(+new) | 2110<sub>(+new) |  |
+| R5 | 2026-04-27 | 1925<sub>(+583) | 2167<sub>(+343) | 2341<sub>(+232) |  |
+| R4 | 2026-04-22 | 1342<sub>(+new) | 1824<sub>(+new) | 2109<sub>(+new) |  |
 | R3 | 2026-04-22 |  |  |  |  |
 | R2 | 2025-09-25 |  |  |  |  |
 | R1 | 2025-09-24 |  |  |  |  |
@@ -28,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-09 06:29:33
+Generated: 2026-06-10 06:29:38
 
 ## Ratings Verlauf
 
@@ -39,9 +39,9 @@ xychart-beta
   y-axis "Elo Rating" 1300 --> 2400
   line "STC (8.0+0.08s)" [1342, 1925]
   line "STC (8.0+0.08s)" [1342, 1925]
-  line "LTC (60.0+0.60s)" [1824, 2165]
-  line "VLTC (2m24s+1.12s)" [2110, 2341]
-  line "VLTC (2m24s+1.12s)" [2110, 2341]
+  line "LTC (60.0+0.60s)" [1824, 2167]
+  line "VLTC (2m24s+1.12s)" [2109, 2341]
+  line "VLTC (2m24s+1.12s)" [2109, 2341]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -54,11 +54,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| R5 | VLTC <sub>(2m24s+1.12s)</sub> | 2341 | 30 | 354 | 49% | 2344 | 35% |
-| R5 | LTC <sub>(60.0+0.60s)</sub> | 2165 | 31 | 364 | 51% | 2147 | 29% |
+| R5 | VLTC <sub>(2m24s+1.12s)</sub> | 2341 | 30 | 358 | 49% | 2342 | 35% |
+| R5 | LTC <sub>(60.0+0.60s)</sub> | 2167 | 31 | 366 | 51% | 2147 | 30% |
 | R5 | STC <sub>(8.0+0.08s)</sub> | 1925 | 29 | 422 | 52% | 1902 | 21% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| R4 | VLTC <sub>(2m24s+1.12s)</sub> | 2110 | 31 | 372 | 41% | 2219 | 28% |
+| R4 | VLTC <sub>(2m24s+1.12s)</sub> | 2109 | 31 | 372 | 41% | 2219 | 28% |
 | R4 | LTC <sub>(60.0+0.60s)</sub> | 1824 | 36 | 298 | 46% | 1893 | 23% |
 | R4 | STC <sub>(8.0+0.08s)</sub> | 1342 | 38 | 288 | 47% | 1405 | 19% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
