@@ -8,7 +8,7 @@ Home: https://github.com/jnlt3/blackmarlin
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.0 | 2024-02-28 | 3168<sub>(+new) | 3363<sub>(+new) | 3399<sub>(+new) |  |
+| 9.0 | 2024-02-28 | 3167<sub>(+new) | 3362<sub>(+new) | 3398<sub>(+new) |  |
 | 8.0 | 2023-08-08 |  |  |  |  |
 | 7.0 | 2022-08-06 |  |  |  |  |
 | 6.0 | 2022-07-17 |  |  |  |  |
@@ -32,7 +32,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-09 06:22:59
+Generated: 2026-06-10 06:23:05
 
 
 
@@ -40,7 +40,7 @@ Generated: 2026-06-09 06:22:59
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3399 | 11 | 1937 | 50% | 3398 | 73% |
-| 9.0 | LTC <sub>(60.0+0.60s)</sub> | 3363 | 11 | 1956 | 50% | 3366 | 71% |
-| 9.0 | STC <sub>(8.0+0.08s)</sub> | 3168 | 12 | 2052 | 51% | 3139 | 56% |
+| 9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3398 | 11 | 1937 | 50% | 3398 | 73% |
+| 9.0 | LTC <sub>(60.0+0.60s)</sub> | 3362 | 11 | 1956 | 50% | 3366 | 71% |
+| 9.0 | STC <sub>(8.0+0.08s)</sub> | 3167 | 12 | 2052 | 51% | 3137 | 56% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
