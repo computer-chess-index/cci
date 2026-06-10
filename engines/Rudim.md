@@ -8,7 +8,9 @@ Home: https://github.com/znxftw/rudim
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.0 | 2026-06-06 | 2140<sub>(+new) | 2439<sub>(+new) | 2588<sub>(+new) |  |
+| 3.0.1 | 2026-06-09 |  |  |  |  |
+| 3.0.1 | 2026-06-09 |  |  |  |  |
+| 3.0.0 | 2026-06-06 | 2226<sub>(+new) | 2434<sub>(+new) | 2584<sub>(+new) |  |
 | 2.2.2 | 2026-05-29 |  |  |  |  |
 | 2.2.1 | 2026-05-27 |  |  |  |  |
 | 2.2.0 | 2026-05-26 |  |  |  |  |
@@ -25,7 +27,7 @@ Home: https://github.com/znxftw/rudim
 | 1.0 | 2022-02-06 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Rudim+<version>&body=###%20Engine%20name%0ARudim%0A%0A###%20Version%0A3.0.0" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Rudim+<version>&body=###%20Engine%20name%0ARudim%0A%0A###%20Version%0A3.0.1" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -38,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-09 06:28:07
+Generated: 2026-06-10 06:28:11
 
 ## Ratings Verlauf
 
@@ -47,11 +49,11 @@ Generated: 2026-06-09 06:28:07
 xychart-beta
   x-axis ["1.5", "2.0.0", "2.1.0", "2.1.1", "2.1.2", "3.0.0"]
   y-axis "Elo Rating" 1500 --> 2600
-  line "STC (8.0+0.08s)" [1589, 1650, 1732, 1719, 1804, 2140]
-  line "STC (8.0+0.08s)" [1589, 1650, 1732, 1719, 1804, 2140]
-  line "LTC (60.0+0.60s)" [1841, 1912, 1944, 1975, 2021, 2439]
-  line "VLTC (2m24s+1.12s)" [1953, 1951, 1944, 2072, 2148, 2588]
-  line "VLTC (2m24s+1.12s)" [1953, 1951, 1944, 2072, 2148, 2588]
+  line "STC (8.0+0.08s)" [1589, 1650, 1732, 1719, 1804, 2226]
+  line "STC (8.0+0.08s)" [1589, 1650, 1732, 1719, 1804, 2226]
+  line "LTC (60.0+0.60s)" [1841, 1912, 1944, 1975, 2021, 2434]
+  line "VLTC (2m24s+1.12s)" [1953, 1951, 1944, 2072, 2148, 2584]
+  line "VLTC (2m24s+1.12s)" [1953, 1951, 1944, 2072, 2148, 2584]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -64,9 +66,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2588 | 54 | 118 | 51% | 2581 | 25% |
-| 3.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2439 | 53 | 116 | 50% | 2426 | 32% |
-| 3.0.0 | STC <sub>(8.0+0.08s)</sub> | 2140 | 50 | 144 | 54% | 2098 | 22% |
+| 3.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2584 | 48 | 150 | 50% | 2588 | 26% |
+| 3.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2434 | 41 | 200 | 51% | 2421 | 30% |
+| 3.0.0 | STC <sub>(8.0+0.08s)</sub> | 2226 | 32 | 338 | 57% | 2156 | 28% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.1.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2148 | 35 | 274 | 51% | 2140 | 26% |
 | 2.1.2 | LTC <sub>(60.0+0.60s)</sub> | 2021 | 37 | 244 | 51% | 2009 | 26% |
