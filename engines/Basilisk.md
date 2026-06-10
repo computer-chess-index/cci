@@ -22,7 +22,7 @@ Home: https://github.com/maelic13/basilisk
 | 1.2.3 | 2026-05-24 |  |  |  |  |
 | 1.2.2 | 2026-05-22 |  |  |  |  |
 | 1.2.1 | 2026-05-22 |  |  |  |  |
-| 1.2.0 | 2026-05-21 | 2040<sub>(+new) | 2373<sub>(+new) | 2448<sub>(+new) |  |
+| 1.2.0 | 2026-05-21 | 2040<sub>(+new) | 2372<sub>(+new) | 2446<sub>(+new) |  |
 | 1.1.0 | 2026-05-21 |  |  |  |  |
 | 1.0.0 | 2026-05-20 | 2032 | 2342 | 2453 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-09 06:22:50
+Generated: 2026-06-10 06:22:56
 
 ## Ratings Verlauf
 
@@ -51,9 +51,9 @@ xychart-beta
   y-axis "Elo Rating" 2000 --> 2500
   line "STC (8.0+0.08s)" [2032, 2040]
   line "STC (8.0+0.08s)" [2032, 2040]
-  line "LTC (60.0+0.60s)" [2342, 2373]
-  line "VLTC (2m24s+1.12s)" [2453, 2448]
-  line "VLTC (2m24s+1.12s)" [2453, 2448]
+  line "LTC (60.0+0.60s)" [2342, 2372]
+  line "VLTC (2m24s+1.12s)" [2453, 2446]
+  line "VLTC (2m24s+1.12s)" [2453, 2446]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -66,11 +66,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2448 | 37 | 242 | 51% | 2437 | 27% |
-| 1.2.0 | LTC <sub>(60.0+0.60s)</sub> | 2373 | 38 | 232 | 50% | 2368 | 26% |
+| 1.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2446 | 37 | 242 | 51% | 2437 | 27% |
+| 1.2.0 | LTC <sub>(60.0+0.60s)</sub> | 2372 | 38 | 232 | 50% | 2367 | 26% |
 | 1.2.0 | STC <sub>(8.0+0.08s)</sub> | 2040 | 39 | 236 | 51% | 2029 | 17% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2453 | 48 | 154 | 49% | 2460 | 19% |
-| 1.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2342 | 45 | 180 | 56% | 2261 | 21% |
+| 1.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2342 | 45 | 180 | 56% | 2260 | 21% |
 | 1.0.0 | STC <sub>(8.0+0.08s)</sub> | 2032 | 50 | 152 | 57% | 1944 | 19% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
