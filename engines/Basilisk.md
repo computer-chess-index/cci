@@ -8,6 +8,7 @@ Home: https://github.com/maelic13/basilisk
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
+| 1.5.0 | 2026-06-10 | 2271<sub>(+new) | 2604<sub>(+new) | 2691<sub>(+new) |  |
 | 1.4.9 | 2026-05-29 |  |  |  |  |
 | 1.4.8 | 2026-05-28 |  |  |  |  |
 | 1.4.7 | 2026-05-28 |  |  |  |  |
@@ -22,12 +23,12 @@ Home: https://github.com/maelic13/basilisk
 | 1.2.3 | 2026-05-24 |  |  |  |  |
 | 1.2.2 | 2026-05-22 |  |  |  |  |
 | 1.2.1 | 2026-05-22 |  |  |  |  |
-| 1.2.0 | 2026-05-21 | 2040<sub>(+new) | 2372<sub>(+new) | 2446<sub>(+new) |  |
+| 1.2.0 | 2026-05-21 | 2040<sub>(+new) | 2377<sub>(+new) | 2448<sub>(+new) |  |
 | 1.1.0 | 2026-05-21 |  |  |  |  |
-| 1.0.0 | 2026-05-20 | 2032 | 2342 | 2453 |  |
+| 1.0.0 | 2026-05-20 | 2032 | 2342 | 2454 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Basilisk+<version>&body=###%20Engine%20name%0ABasilisk%0A%0A###%20Version%0A1.4.9" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Basilisk+<version>&body=###%20Engine%20name%0ABasilisk%0A%0A###%20Version%0A1.5.0" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -40,20 +41,20 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-10 06:22:56
+Generated: 2026-06-11 06:22:51
 
 ## Ratings Verlauf
 
 ```mermaid
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
-  x-axis ["1.0.0", "1.2.0"]
-  y-axis "Elo Rating" 2000 --> 2500
-  line "STC (8.0+0.08s)" [2032, 2040]
-  line "STC (8.0+0.08s)" [2032, 2040]
-  line "LTC (60.0+0.60s)" [2342, 2372]
-  line "VLTC (2m24s+1.12s)" [2453, 2446]
-  line "VLTC (2m24s+1.12s)" [2453, 2446]
+  x-axis ["1.0.0", "1.2.0", "1.5.0"]
+  y-axis "Elo Rating" 2000 --> 2700
+  line "STC (8.0+0.08s)" [2032, 2040, 2271]
+  line "STC (8.0+0.08s)" [2032, 2040, 2271]
+  line "LTC (60.0+0.60s)" [2342, 2377, 2604]
+  line "VLTC (2m24s+1.12s)" [2454, 2448, 2691]
+  line "VLTC (2m24s+1.12s)" [2454, 2448, 2691]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -66,11 +67,15 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2446 | 37 | 242 | 51% | 2437 | 27% |
-| 1.2.0 | LTC <sub>(60.0+0.60s)</sub> | 2372 | 38 | 232 | 50% | 2367 | 26% |
+| 1.5.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2691 | 79 | 56 | 57% | 2619 | 25% |
+| 1.5.0 | LTC <sub>(60.0+0.60s)</sub> | 2604 | 81 | 54 | 48% | 2616 | 19% |
+| 1.5.0 | STC <sub>(8.0+0.08s)</sub> | 2271 | 105 | 32 | 48% | 2288 | 16% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2448 | 37 | 246 | 51% | 2439 | 27% |
+| 1.2.0 | LTC <sub>(60.0+0.60s)</sub> | 2377 | 37 | 244 | 51% | 2368 | 25% |
 | 1.2.0 | STC <sub>(8.0+0.08s)</sub> | 2040 | 39 | 236 | 51% | 2029 | 17% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2453 | 48 | 154 | 49% | 2460 | 19% |
-| 1.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2342 | 45 | 180 | 56% | 2260 | 21% |
+| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2454 | 48 | 154 | 49% | 2461 | 19% |
+| 1.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2342 | 45 | 180 | 56% | 2261 | 21% |
 | 1.0.0 | STC <sub>(8.0+0.08s)</sub> | 2032 | 50 | 152 | 57% | 1944 | 19% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
