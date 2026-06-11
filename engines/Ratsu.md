@@ -9,7 +9,7 @@ Home: https://github.com/ranzuh/ratsu
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 2.0.0 | 2026-05-23 |  |  |  |  |
-| 1.2.0 | 2026-05-07 | 1894<sub>(+173) | 2159<sub>(+158) | 2225<sub>(+141) |  |
+| 1.2.0 | 2026-05-07 | 1894<sub>(+173) | 2160<sub>(+159) | 2226<sub>(+142) |  |
 | 1.1.0 | 2026-04-21 | 1721<sub>(+79) | 2001<sub>(+126) | 2084<sub>(+140) |  |
 | 1.0.0 | 2026-02-20 | 1642<sub>(+103) | 1875<sub>(+75) | 1944<sub>(+88) |  |
 | 0.9.0 | 2026-01-21 | 1539 | 1800 | 1856 |  |
@@ -28,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-10 06:27:45
+Generated: 2026-06-11 06:27:40
 
 ## Ratings Verlauf
 
@@ -39,9 +39,9 @@ xychart-beta
   y-axis "Elo Rating" 1500 --> 2300
   line "STC (8.0+0.08s)" [1539, 1642, 1721, 1894]
   line "STC (8.0+0.08s)" [1539, 1642, 1721, 1894]
-  line "LTC (60.0+0.60s)" [1800, 1875, 2001, 2159]
-  line "VLTC (2m24s+1.12s)" [1856, 1944, 2084, 2225]
-  line "VLTC (2m24s+1.12s)" [1856, 1944, 2084, 2225]
+  line "LTC (60.0+0.60s)" [1800, 1875, 2001, 2160]
+  line "VLTC (2m24s+1.12s)" [1856, 1944, 2084, 2226]
+  line "VLTC (2m24s+1.12s)" [1856, 1944, 2084, 2226]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -54,8 +54,8 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2225 | 31 | 352 | 51% | 2218 | 26% |
-| 1.2.0 | LTC <sub>(60.0+0.60s)</sub> | 2159 | 35 | 284 | 50% | 2148 | 27% |
+| 1.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2226 | 31 | 352 | 51% | 2218 | 26% |
+| 1.2.0 | LTC <sub>(60.0+0.60s)</sub> | 2160 | 35 | 284 | 50% | 2148 | 27% |
 | 1.2.0 | STC <sub>(8.0+0.08s)</sub> | 1894 | 32 | 348 | 52% | 1871 | 22% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2084 | 32 | 348 | 53% | 2059 | 26% |
