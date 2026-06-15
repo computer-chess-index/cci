@@ -38,7 +38,40 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-12 06:22:31
+Generated: 2026-06-15 17:20:18
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["1.0.0", "1.1.0", "1.2.0", "1.3.0"]
+  y-axis "Elo Rating" 1700 --> 2500
+  line "STC (8.0+0.08s)" [1742, 1796, 1987, 2140]
+  line "STC (8.0+0.08s)" [1742, 1796, 1987, 2140]
+  line "LTC (60.0+0.60s)" [1959, 2022, 2298, 2417]
+  line "VLTC (2m24s+1.12s)" [2018, 2144, 2380, 2489]
+  line "VLTC (2m24s+1.12s)" [2018, 2144, 2380, 2489]
+```
+
+```mermaid
+%%{init: {"theme":"base"}}%%
+flowchart LR
+E[ ] --- A[STC 8.0+0.08s]
+A --- B[LTC 60.0+0.60s]
+B --- C[VLTC 2m24s+1.12s]
+C --- D[ ]
+linkStyle 0 stroke:#a3a3a3,stroke-width:0px
+linkStyle 1 stroke:#a3a3a3,stroke-width:4px
+linkStyle 2 stroke:#faa371,stroke-width:4px
+linkStyle 3 stroke:#4ef781,stroke-width:4px
+style A fill:none,stroke:none
+style B fill:none,stroke:none
+style C fill:none,stroke:none
+style D fill:none,stroke:none
+style E fill:none,stroke:none
+```
+
 
 ## Ratings Verlauf
 
@@ -69,14 +102,14 @@ xychart-beta
 | 1.3.0 | STC <sub>(8.0+0.08s)</sub> | 2140 | 26 | 520 | 48% | 2151 | 25% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2380 | 38 | 244 | 52% | 2360 | 25% |
-| 1.2.0 | LTC <sub>(60.0+0.60s)</sub> | 2298 | 41 | 196 | 49% | 2306 | 28% |
+| 1.2.0 | LTC <sub>(60.0+0.60s)</sub> | 2298 | 41 | 196 | 49% | 2307 | 28% |
 | 1.2.0 | STC <sub>(8.0+0.08s)</sub> | 1987 | 45 | 176 | 52% | 1970 | 20% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2144 | 37 | 256 | 51% | 2130 | 22% |
 | 1.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2022 | 44 | 180 | 50% | 2021 | 22% |
 | 1.1.0 | STC <sub>(8.0+0.08s)</sub> | 1796 | 40 | 228 | 50% | 1800 | 17% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2018 | 45 | 192 | 44% | 2113 | 18% |
+| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2018 | 45 | 192 | 44% | 2114 | 18% |
 | 1.0.0 | LTC <sub>(60.0+0.60s)</sub> | 1959 | 49 | 156 | 48% | 1958 | 17% |
 | 1.0.0 | STC <sub>(8.0+0.08s)</sub> | 1742 | 45 | 180 | 46% | 1790 | 20% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
