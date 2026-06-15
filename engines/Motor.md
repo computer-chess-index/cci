@@ -8,7 +8,7 @@ Home: https://github.com/martinnovaak/motor
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.9.0 | 2025-06-02 | 3317<sub>(+9) | 3483<sub>(+23) | 3515<sub>(+23) |  |
+| 0.9.0 | 2025-06-02 | 3318<sub>(+10) | 3483<sub>(+23) | 3515<sub>(+23) |  |
 | 0.8.0 | 2024-10-28 | 3308<sub>(+new) | 3460<sub>(+new) | 3492<sub>(+new) |  |
 | 0.7.0 | 2024-08-11 |  |  |  |  |
 | 0.60 | 2024-06-30 | 3194<sub>(+new) | 3394<sub>(+new) | 3421<sub>(+new) |  |
@@ -32,7 +32,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-12 06:26:27
+Generated: 2026-06-15 17:26:46
 
 ## Ratings Verlauf
 
@@ -41,8 +41,41 @@ Generated: 2026-06-12 06:26:27
 xychart-beta
   x-axis ["0.60", "0.8.0", "0.9.0"]
   y-axis "Elo Rating" 3100 --> 3600
-  line "STC (8.0+0.08s)" [3194, 3308, 3317]
-  line "STC (8.0+0.08s)" [3194, 3308, 3317]
+  line "STC (8.0+0.08s)" [3194, 3308, 3318]
+  line "STC (8.0+0.08s)" [3194, 3308, 3318]
+  line "LTC (60.0+0.60s)" [3394, 3460, 3483]
+  line "VLTC (2m24s+1.12s)" [3421, 3492, 3515]
+  line "VLTC (2m24s+1.12s)" [3421, 3492, 3515]
+```
+
+```mermaid
+%%{init: {"theme":"base"}}%%
+flowchart LR
+E[ ] --- A[STC 8.0+0.08s]
+A --- B[LTC 60.0+0.60s]
+B --- C[VLTC 2m24s+1.12s]
+C --- D[ ]
+linkStyle 0 stroke:#a3a3a3,stroke-width:0px
+linkStyle 1 stroke:#a3a3a3,stroke-width:4px
+linkStyle 2 stroke:#faa371,stroke-width:4px
+linkStyle 3 stroke:#4ef781,stroke-width:4px
+style A fill:none,stroke:none
+style B fill:none,stroke:none
+style C fill:none,stroke:none
+style D fill:none,stroke:none
+style E fill:none,stroke:none
+```
+
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["0.60", "0.8.0", "0.9.0"]
+  y-axis "Elo Rating" 3100 --> 3600
+  line "STC (8.0+0.08s)" [3194, 3308, 3318]
+  line "STC (8.0+0.08s)" [3194, 3308, 3318]
   line "LTC (60.0+0.60s)" [3394, 3460, 3483]
   line "VLTC (2m24s+1.12s)" [3421, 3492, 3515]
   line "VLTC (2m24s+1.12s)" [3421, 3492, 3515]
@@ -60,13 +93,13 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3515 | 23 | 418 | 49% | 3521 | 88% |
 | 0.9.0 | LTC <sub>(60.0+0.60s)</sub> | 3483 | 24 | 404 | 51% | 3478 | 82% |
-| 0.9.0 | STC <sub>(8.0+0.08s)</sub> | 3317 | 22 | 512 | 50% | 3317 | 73% |
+| 0.9.0 | STC <sub>(8.0+0.08s)</sub> | 3318 | 22 | 512 | 50% | 3317 | 73% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.8.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3492 | 13 | 1468 | 51% | 3488 | 86% |
 | 0.8.0 | LTC <sub>(60.0+0.60s)</sub> | 3460 | 13 | 1484 | 50% | 3459 | 83% |
 | 0.8.0 | STC <sub>(8.0+0.08s)</sub> | 3308 | 13 | 1460 | 49% | 3312 | 71% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.60 | VLTC <sub>(2m24s+1.12s)</sub> | 3421 | 28 | 304 | 50% | 3422 | 80% |
+| 0.60 | VLTC <sub>(2m24s+1.12s)</sub> | 3421 | 28 | 304 | 50% | 3424 | 80% |
 | 0.60 | LTC <sub>(60.0+0.60s)</sub> | 3394 | 28 | 316 | 52% | 3378 | 74% |
 | 0.60 | STC <sub>(8.0+0.08s)</sub> | 3194 | 29 | 352 | 56% | 3058 | 59% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
