@@ -8,10 +8,10 @@ Home: https://github.com/GediminasMasaitis/4k-dot-c
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.0 | 2026-06-06 | 2538<sub>(-38) | 2843<sub>(+40) | 2942<sub>(+12) |  |
+| 9.0 | 2026-06-06 | 2538<sub>(-38) | 2844<sub>(+41) | 2942<sub>(+12) |  |
 | 8.0 | 2026-03-10 | 2576<sub>(+new) | 2803<sub>(+new) | 2930<sub>(+new) |  |
 | 6.0 | 2026-03-10 |  |  |  |  |
-| 5.0 | 2025-10-30 | 2473<sub>(+new) | 2776<sub>(+new) | 2844<sub>(+new) |  |
+| 5.0 | 2025-10-30 | 2473<sub>(+new) | 2776<sub>(+new) | 2846<sub>(+new) |  |
 | 4.41 | 2025-08-15 |  |  |  |  |
 | 4.0 | 2025-08-15 |  |  |  |  |
 | 3.0 | 2025-08-15 |  |  |  |  |
@@ -35,7 +35,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-12 06:22:02
+Generated: 2026-06-15 17:19:40
 
 ## Ratings Verlauf
 
@@ -46,9 +46,42 @@ xychart-beta
   y-axis "Elo Rating" 2400 --> 3000
   line "STC (8.0+0.08s)" [2473, 2576, 2538]
   line "STC (8.0+0.08s)" [2473, 2576, 2538]
-  line "LTC (60.0+0.60s)" [2776, 2803, 2843]
-  line "VLTC (2m24s+1.12s)" [2844, 2930, 2942]
-  line "VLTC (2m24s+1.12s)" [2844, 2930, 2942]
+  line "LTC (60.0+0.60s)" [2776, 2803, 2844]
+  line "VLTC (2m24s+1.12s)" [2846, 2930, 2942]
+  line "VLTC (2m24s+1.12s)" [2846, 2930, 2942]
+```
+
+```mermaid
+%%{init: {"theme":"base"}}%%
+flowchart LR
+E[ ] --- A[STC 8.0+0.08s]
+A --- B[LTC 60.0+0.60s]
+B --- C[VLTC 2m24s+1.12s]
+C --- D[ ]
+linkStyle 0 stroke:#a3a3a3,stroke-width:0px
+linkStyle 1 stroke:#a3a3a3,stroke-width:4px
+linkStyle 2 stroke:#faa371,stroke-width:4px
+linkStyle 3 stroke:#4ef781,stroke-width:4px
+style A fill:none,stroke:none
+style B fill:none,stroke:none
+style C fill:none,stroke:none
+style D fill:none,stroke:none
+style E fill:none,stroke:none
+```
+
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["5.0", "8.0", "9.0"]
+  y-axis "Elo Rating" 2400 --> 3000
+  line "STC (8.0+0.08s)" [2473, 2576, 2538]
+  line "STC (8.0+0.08s)" [2473, 2576, 2538]
+  line "LTC (60.0+0.60s)" [2776, 2803, 2844]
+  line "VLTC (2m24s+1.12s)" [2846, 2930, 2942]
+  line "VLTC (2m24s+1.12s)" [2846, 2930, 2942]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -62,14 +95,14 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2942 | 36 | 230 | 48% | 2959 | 41% |
-| 9.0 | LTC <sub>(60.0+0.60s)</sub> | 2843 | 40 | 192 | 54% | 2813 | 44% |
+| 9.0 | LTC <sub>(60.0+0.60s)</sub> | 2844 | 38 | 212 | 53% | 2817 | 43% |
 | 9.0 | STC <sub>(8.0+0.08s)</sub> | 2538 | 34 | 276 | 55% | 2492 | 32% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 8.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2930 | 28 | 402 | 52% | 2908 | 39% |
 | 8.0 | LTC <sub>(60.0+0.60s)</sub> | 2803 | 29 | 374 | 51% | 2793 | 40% |
 | 8.0 | STC <sub>(8.0+0.08s)</sub> | 2576 | 27 | 456 | 50% | 2569 | 33% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 5.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2844 | 32 | 296 | 49% | 2858 | 39% |
+| 5.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2846 | 32 | 296 | 49% | 2858 | 39% |
 | 5.0 | LTC <sub>(60.0+0.60s)</sub> | 2776 | 31 | 324 | 48% | 2790 | 37% |
 | 5.0 | STC <sub>(8.0+0.08s)</sub> | 2473 | 30 | 396 | 51% | 2466 | 25% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
