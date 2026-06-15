@@ -13,7 +13,7 @@ Home: https://github.com/lucametehau/CloverEngine
 | 8.2.5 | 2025-07-14 | 3322<sub>(+new) | 3472<sub>(+new) | 3501<sub>(+new) |  |
 | 8.2.1 | 2025-07-12 |  |  |  |  |
 | 8.2 | 2025-07-11 |  |  |  |  |
-| 8.1 | 2024-12-03 | 3325<sub>(+4) | 3456<sub>(-11) | 3497<sub>(0) |  |
+| 8.1 | 2024-12-03 | 3326<sub>(+5) | 3456<sub>(-11) | 3497<sub>(0) |  |
 | 8.0.2 | 2024-09-05 | 3321<sub>(+new) | 3467<sub>(+new) | 3497<sub>(+new) |  |
 | 8.0 | 2024-09-02 |  |  |  |  |
 | 7.1 | 2024-08-11 |  |  |  |  |
@@ -57,7 +57,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-12 06:23:51
+Generated: 2026-06-15 17:22:41
 
 ## Ratings Verlauf
 
@@ -66,8 +66,41 @@ Generated: 2026-06-12 06:23:51
 xychart-beta
   x-axis ["8.0.2", "8.1", "8.2.5", "9.1"]
   y-axis "Elo Rating" 3300 --> 3600
-  line "STC (8.0+0.08s)" [3321, 3325, 3322, 3367]
-  line "STC (8.0+0.08s)" [3321, 3325, 3322, 3367]
+  line "STC (8.0+0.08s)" [3321, 3326, 3322, 3367]
+  line "STC (8.0+0.08s)" [3321, 3326, 3322, 3367]
+  line "LTC (60.0+0.60s)" [3467, 3456, 3472, 3517]
+  line "VLTC (2m24s+1.12s)" [3497, 3497, 3501, 3530]
+  line "VLTC (2m24s+1.12s)" [3497, 3497, 3501, 3530]
+```
+
+```mermaid
+%%{init: {"theme":"base"}}%%
+flowchart LR
+E[ ] --- A[STC 8.0+0.08s]
+A --- B[LTC 60.0+0.60s]
+B --- C[VLTC 2m24s+1.12s]
+C --- D[ ]
+linkStyle 0 stroke:#a3a3a3,stroke-width:0px
+linkStyle 1 stroke:#a3a3a3,stroke-width:4px
+linkStyle 2 stroke:#faa371,stroke-width:4px
+linkStyle 3 stroke:#4ef781,stroke-width:4px
+style A fill:none,stroke:none
+style B fill:none,stroke:none
+style C fill:none,stroke:none
+style D fill:none,stroke:none
+style E fill:none,stroke:none
+```
+
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["8.0.2", "8.1", "8.2.5", "9.1"]
+  y-axis "Elo Rating" 3300 --> 3600
+  line "STC (8.0+0.08s)" [3321, 3326, 3322, 3367]
+  line "STC (8.0+0.08s)" [3321, 3326, 3322, 3367]
   line "LTC (60.0+0.60s)" [3467, 3456, 3472, 3517]
   line "VLTC (2m24s+1.12s)" [3497, 3497, 3501, 3530]
   line "VLTC (2m24s+1.12s)" [3497, 3497, 3501, 3530]
@@ -83,7 +116,7 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 9.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3530 | 24 | 388 | 50% | 3529 | 89% |
+| 9.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3530 | 24 | 388 | 50% | 3530 | 89% |
 | 9.1 | LTC <sub>(60.0+0.60s)</sub> | 3517 | 23 | 416 | 50% | 3518 | 89% |
 | 9.1 | STC <sub>(8.0+0.08s)</sub> | 3367 | 21 | 574 | 50% | 3366 | 76% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -93,7 +126,7 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 8.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3497 | 14 | 1160 | 50% | 3494 | 84% |
 | 8.1 | LTC <sub>(60.0+0.60s)</sub> | 3456 | 14 | 1176 | 50% | 3457 | 83% |
-| 8.1 | STC <sub>(8.0+0.08s)</sub> | 3325 | 15 | 1124 | 51% | 3321 | 73% |
+| 8.1 | STC <sub>(8.0+0.08s)</sub> | 3326 | 15 | 1124 | 51% | 3321 | 73% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 8.0.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3497 | 18 | 748 | 51% | 3464 | 84% |
 | 8.0.2 | LTC <sub>(60.0+0.60s)</sub> | 3467 | 19 | 676 | 51% | 3459 | 83% |
