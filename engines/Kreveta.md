@@ -36,7 +36,40 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-12 06:25:41
+Generated: 2026-06-15 17:25:49
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["1.2.3", "1.2.4", "2.0.0", "2.2.0", "2.2.1", "2.2.2", "2.2.3", "2.2.4", "2.2.5", "2.3.0", "2.3.1"]
+  y-axis "Elo Rating" 1400 --> 2300
+  line "STC (8.0+0.08s)" [1465, 1515, 1617, 1642, 1598, 1771, 1808, 1725, 1750, 1890, 1955]
+  line "STC (8.0+0.08s)" [1465, 1515, 1617, 1642, 1598, 1771, 1808, 1725, 1750, 1890, 1955]
+  line "LTC (60.0+0.60s)" [1789, 1748, 1883, 1931, 1976, 2060, 2105, 2098, 2156, 2148, 2222]
+  line "VLTC (2m24s+1.12s)" [1863, 1835, 1986, 2064, 2083, 2207, 2199, 2169, 2206, 2232, 2290]
+  line "VLTC (2m24s+1.12s)" [1863, 1835, 1986, 2064, 2083, 2207, 2199, 2169, 2206, 2232, 2290]
+```
+
+```mermaid
+%%{init: {"theme":"base"}}%%
+flowchart LR
+E[ ] --- A[STC 8.0+0.08s]
+A --- B[LTC 60.0+0.60s]
+B --- C[VLTC 2m24s+1.12s]
+C --- D[ ]
+linkStyle 0 stroke:#a3a3a3,stroke-width:0px
+linkStyle 1 stroke:#a3a3a3,stroke-width:4px
+linkStyle 2 stroke:#faa371,stroke-width:4px
+linkStyle 3 stroke:#4ef781,stroke-width:4px
+style A fill:none,stroke:none
+style B fill:none,stroke:none
+style C fill:none,stroke:none
+style D fill:none,stroke:none
+style E fill:none,stroke:none
+```
+
 
 ## Ratings Verlauf
 
@@ -82,7 +115,7 @@ xychart-beta
 | 2.2.3 | LTC <sub>(60.0+0.60s)</sub> | 2105 | 36 | 260 | 48% | 2126 | 24% |
 | 2.2.3 | STC <sub>(8.0+0.08s)</sub> | 1808 | 37 | 252 | 48% | 1825 | 22% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.2.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2207 | 37 | 256 | 52% | 2186 | 25% |
+| 2.2.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2207 | 37 | 256 | 52% | 2187 | 25% |
 | 2.2.2 | LTC <sub>(60.0+0.60s)</sub> | 2060 | 40 | 216 | 49% | 2068 | 21% |
 | 2.2.2 | STC <sub>(8.0+0.08s)</sub> | 1771 | 41 | 212 | 54% | 1739 | 19% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -90,7 +123,7 @@ xychart-beta
 | 2.2.1 | LTC <sub>(60.0+0.60s)</sub> | 1976 | 44 | 180 | 49% | 1990 | 21% |
 | 2.2.1 | STC <sub>(8.0+0.08s)</sub> | 1598 | 56 | 110 | 52% | 1581 | 22% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2064 | 52 | 124 | 52% | 2049 | 26% |
+| 2.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2064 | 52 | 124 | 52% | 2051 | 26% |
 | 2.2.0 | LTC <sub>(60.0+0.60s)</sub> | 1931 | 64 | 84 | 55% | 1885 | 21% |
 | 2.2.0 | STC <sub>(8.0+0.08s)</sub> | 1642 | 50 | 148 | 55% | 1592 | 18% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
