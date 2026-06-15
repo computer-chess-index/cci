@@ -8,13 +8,13 @@ Home: https://github.com/LeelaChessZero/lc0
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.32.1 | 2025-11-23 | 2404<sub>(+new) | 2992<sub>(+new) | 3159<sub>(+new) |  |
+| 0.32.1 | 2025-11-23 | 2404<sub>(+new) | 2993<sub>(+new) | 3160<sub>(+new) |  |
 | 0.32.0 | 2025-08-21 |  |  |  |  |
 | 0.31.2 | 2024-10-20 |  |  |  |  |
 | 0.31.1 | 2024-08-11 |  |  |  |  |
 | 0.31.0 | 2024-06-16 |  |  |  |  |
 | 0.30.0 | 2023-07-21 |  |  |  |  |
-| 0.29.0 | 2022-12-13 | 2369<sub>(+new) | 2979<sub>(+new) | 3213<sub>(+new) |  |
+| 0.29.0 | 2022-12-13 | 2369<sub>(+new) | 2981<sub>(+new) | 3213<sub>(+new) |  |
 | 0.28.2 | 2021-12-13 |  |  |  |  |
 | 0.28.0 | 2021-08-25 |  |  |  |  |
 | 0.27.0 | 2021-02-21 |  |  |  |  |
@@ -61,7 +61,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-12 06:25:50
+Generated: 2026-06-15 17:26:00
 
 ## Ratings Verlauf
 
@@ -72,9 +72,42 @@ xychart-beta
   y-axis "Elo Rating" 2300 --> 3300
   line "STC (8.0+0.08s)" [2369, 2404]
   line "STC (8.0+0.08s)" [2369, 2404]
-  line "LTC (60.0+0.60s)" [2979, 2992]
-  line "VLTC (2m24s+1.12s)" [3213, 3159]
-  line "VLTC (2m24s+1.12s)" [3213, 3159]
+  line "LTC (60.0+0.60s)" [2981, 2993]
+  line "VLTC (2m24s+1.12s)" [3213, 3160]
+  line "VLTC (2m24s+1.12s)" [3213, 3160]
+```
+
+```mermaid
+%%{init: {"theme":"base"}}%%
+flowchart LR
+E[ ] --- A[STC 8.0+0.08s]
+A --- B[LTC 60.0+0.60s]
+B --- C[VLTC 2m24s+1.12s]
+C --- D[ ]
+linkStyle 0 stroke:#a3a3a3,stroke-width:0px
+linkStyle 1 stroke:#a3a3a3,stroke-width:4px
+linkStyle 2 stroke:#faa371,stroke-width:4px
+linkStyle 3 stroke:#4ef781,stroke-width:4px
+style A fill:none,stroke:none
+style B fill:none,stroke:none
+style C fill:none,stroke:none
+style D fill:none,stroke:none
+style E fill:none,stroke:none
+```
+
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["0.29.0", "0.32.1"]
+  y-axis "Elo Rating" 2300 --> 3300
+  line "STC (8.0+0.08s)" [2369, 2404]
+  line "STC (8.0+0.08s)" [2369, 2404]
+  line "LTC (60.0+0.60s)" [2981, 2993]
+  line "VLTC (2m24s+1.12s)" [3213, 3160]
+  line "VLTC (2m24s+1.12s)" [3213, 3160]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -87,11 +120,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.32.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3159 | 24 | 476 | 49% | 3168 | 52% |
-| 0.32.1 | LTC <sub>(60.0+0.60s)</sub> | 2992 | 25 | 458 | 49% | 3002 | 46% |
+| 0.32.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3160 | 24 | 476 | 49% | 3168 | 52% |
+| 0.32.1 | LTC <sub>(60.0+0.60s)</sub> | 2993 | 25 | 458 | 49% | 3002 | 46% |
 | 0.32.1 | STC <sub>(8.0+0.08s)</sub> | 2404 | 23 | 644 | 51% | 2388 | 24% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.29.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3213 | 28 | 356 | 50% | 3213 | 54% |
-| 0.29.0 | LTC <sub>(60.0+0.60s)</sub> | 2979 | 30 | 328 | 48% | 2994 | 47% |
+| 0.29.0 | LTC <sub>(60.0+0.60s)</sub> | 2981 | 30 | 328 | 48% | 2994 | 47% |
 | 0.29.0 | STC <sub>(8.0+0.08s)</sub> | 2369 | 32 | 400 | 42% | 2481 | 19% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
