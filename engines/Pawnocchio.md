@@ -9,8 +9,8 @@ Home: https://github.com/JonathanHallstrom/pawnocchio
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 1.9.2 | 2026-01-15 | 3360<sub>(+12) | 3522<sub>(+8) | 3533<sub>(+11) |  |
-| 1.9.1 | 2026-01-12 | 3348<sub>(-11) | 3514<sub>(+17) | 3522<sub>(-11) |  |
-| 1.9 | 2026-01-03 | 3359<sub>(+new) | 3497<sub>(+new) | 3533<sub>(+new) |  |
+| 1.9.1 | 2026-01-12 | 3348<sub>(-11) | 3514<sub>(+16) | 3522<sub>(-11) |  |
+| 1.9 | 2026-01-03 | 3359<sub>(+new) | 3498<sub>(+new) | 3533<sub>(+new) |  |
 | 1.8.1 | 2025-07-25 |  |  |  |  |
 | 1.8 | 2025-07-22 |  |  |  |  |
 | 1.7.2 | 2025-06-15 |  |  |  |  |
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-12 06:26:52
+Generated: 2026-06-15 17:27:18
 
 ## Ratings Verlauf
 
@@ -52,7 +52,40 @@ xychart-beta
   y-axis "Elo Rating" 3300 --> 3600
   line "STC (8.0+0.08s)" [3359, 3348, 3360]
   line "STC (8.0+0.08s)" [3359, 3348, 3360]
-  line "LTC (60.0+0.60s)" [3497, 3514, 3522]
+  line "LTC (60.0+0.60s)" [3498, 3514, 3522]
+  line "VLTC (2m24s+1.12s)" [3533, 3522, 3533]
+  line "VLTC (2m24s+1.12s)" [3533, 3522, 3533]
+```
+
+```mermaid
+%%{init: {"theme":"base"}}%%
+flowchart LR
+E[ ] --- A[STC 8.0+0.08s]
+A --- B[LTC 60.0+0.60s]
+B --- C[VLTC 2m24s+1.12s]
+C --- D[ ]
+linkStyle 0 stroke:#a3a3a3,stroke-width:0px
+linkStyle 1 stroke:#a3a3a3,stroke-width:4px
+linkStyle 2 stroke:#faa371,stroke-width:4px
+linkStyle 3 stroke:#4ef781,stroke-width:4px
+style A fill:none,stroke:none
+style B fill:none,stroke:none
+style C fill:none,stroke:none
+style D fill:none,stroke:none
+style E fill:none,stroke:none
+```
+
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["1.9", "1.9.1", "1.9.2"]
+  y-axis "Elo Rating" 3300 --> 3600
+  line "STC (8.0+0.08s)" [3359, 3348, 3360]
+  line "STC (8.0+0.08s)" [3359, 3348, 3360]
+  line "LTC (60.0+0.60s)" [3498, 3514, 3522]
   line "VLTC (2m24s+1.12s)" [3533, 3522, 3533]
   line "VLTC (2m24s+1.12s)" [3533, 3522, 3533]
 ```
@@ -67,15 +100,15 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.9.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3533 | 25 | 364 | 51% | 3529 | 87% |
+| 1.9.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3533 | 25 | 364 | 51% | 3530 | 87% |
 | 1.9.2 | LTC <sub>(60.0+0.60s)</sub> | 3522 | 25 | 364 | 51% | 3518 | 87% |
 | 1.9.2 | STC <sub>(8.0+0.08s)</sub> | 3360 | 22 | 490 | 50% | 3363 | 78% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.9.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3522 | 35 | 188 | 49% | 3532 | 91% |
-| 1.9.1 | LTC <sub>(60.0+0.60s)</sub> | 3514 | 35 | 186 | 51% | 3506 | 86% |
+| 1.9.1 | LTC <sub>(60.0+0.60s)</sub> | 3514 | 35 | 186 | 51% | 3507 | 86% |
 | 1.9.1 | STC <sub>(8.0+0.08s)</sub> | 3348 | 35 | 208 | 51% | 3337 | 70% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.9 | VLTC <sub>(2m24s+1.12s)</sub> | 3533 | 35 | 192 | 53% | 3503 | 81% |
-| 1.9 | LTC <sub>(60.0+0.60s)</sub> | 3497 | 33 | 224 | 53% | 3457 | 81% |
+| 1.9 | LTC <sub>(60.0+0.60s)</sub> | 3498 | 33 | 224 | 53% | 3457 | 81% |
 | 1.9 | STC <sub>(8.0+0.08s)</sub> | 3359 | 34 | 224 | 54% | 3313 | 71% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
