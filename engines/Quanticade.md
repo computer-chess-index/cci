@@ -8,7 +8,7 @@ Home: https://github.com/Quanticade/Quanticade
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0 | 2025-12-15 | 3328<sub>(+47) | 3498<sub>(+43) | 3525<sub>(+30) |  |
+| 3.0 | 2025-12-15 | 3328<sub>(+47) | 3498<sub>(+43) | 3526<sub>(+31) |  |
 | 2.0 | 2025-05-21 | 3281<sub>(+new) | 3455<sub>(+new) | 3495<sub>(+new) |  |
 | 1.0 Fenrir | 2025-03-10 |  |  |  |  |
 | 1.2 Chimera | 2025-01-06 |  |  |  |  |
@@ -34,7 +34,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-12 06:27:38
+Generated: 2026-06-15 17:28:18
 
 ## Ratings Verlauf
 
@@ -46,8 +46,41 @@ xychart-beta
   line "STC (8.0+0.08s)" [3281, 3328]
   line "STC (8.0+0.08s)" [3281, 3328]
   line "LTC (60.0+0.60s)" [3455, 3498]
-  line "VLTC (2m24s+1.12s)" [3495, 3525]
-  line "VLTC (2m24s+1.12s)" [3495, 3525]
+  line "VLTC (2m24s+1.12s)" [3495, 3526]
+  line "VLTC (2m24s+1.12s)" [3495, 3526]
+```
+
+```mermaid
+%%{init: {"theme":"base"}}%%
+flowchart LR
+E[ ] --- A[STC 8.0+0.08s]
+A --- B[LTC 60.0+0.60s]
+B --- C[VLTC 2m24s+1.12s]
+C --- D[ ]
+linkStyle 0 stroke:#a3a3a3,stroke-width:0px
+linkStyle 1 stroke:#a3a3a3,stroke-width:4px
+linkStyle 2 stroke:#faa371,stroke-width:4px
+linkStyle 3 stroke:#4ef781,stroke-width:4px
+style A fill:none,stroke:none
+style B fill:none,stroke:none
+style C fill:none,stroke:none
+style D fill:none,stroke:none
+style E fill:none,stroke:none
+```
+
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["2.0", "3.0"]
+  y-axis "Elo Rating" 3200 --> 3600
+  line "STC (8.0+0.08s)" [3281, 3328]
+  line "STC (8.0+0.08s)" [3281, 3328]
+  line "LTC (60.0+0.60s)" [3455, 3498]
+  line "VLTC (2m24s+1.12s)" [3495, 3526]
+  line "VLTC (2m24s+1.12s)" [3495, 3526]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -60,11 +93,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3525 | 25 | 376 | 50% | 3522 | 90% |
-| 3.0 | LTC <sub>(60.0+0.60s)</sub> | 3498 | 24 | 390 | 50% | 3497 | 87% |
+| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3526 | 25 | 376 | 50% | 3522 | 90% |
+| 3.0 | LTC <sub>(60.0+0.60s)</sub> | 3498 | 24 | 390 | 50% | 3498 | 87% |
 | 3.0 | STC <sub>(8.0+0.08s)</sub> | 3328 | 22 | 538 | 50% | 3325 | 68% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3495 | 26 | 340 | 50% | 3491 | 84% |
-| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 3455 | 26 | 352 | 50% | 3451 | 81% |
-| 2.0 | STC <sub>(8.0+0.08s)</sub> | 3281 | 25 | 414 | 52% | 3267 | 64% |
+| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 3455 | 26 | 352 | 50% | 3452 | 81% |
+| 2.0 | STC <sub>(8.0+0.08s)</sub> | 3281 | 25 | 414 | 52% | 3268 | 64% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
