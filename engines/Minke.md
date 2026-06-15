@@ -9,8 +9,8 @@ Home: https://github.com/enfmarinho/Minke
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 6.0.0 | 2026-04-25 | 3147<sub>(+30) | 3351<sub>(+52) | 3411<sub>(+43) |  |
-| 5.0.0 | 2026-02-13 | 3117<sub>(+61) | 3299<sub>(+43) | 3368<sub>(+87) |  |
-| 4.0.0 | 2025-12-29 | 3056<sub>(+93) | 3256<sub>(+62) | 3281<sub>(+50) |  |
+| 5.0.0 | 2026-02-13 | 3117<sub>(+61) | 3299<sub>(+41) | 3368<sub>(+87) |  |
+| 4.0.0 | 2025-12-29 | 3056<sub>(+93) | 3258<sub>(+64) | 3281<sub>(+50) |  |
 | 3.0.0 | 2025-10-20 | 2963<sub>(+new) | 3194<sub>(+new) | 3231<sub>(+new) |  |
 | 2.0.0 | 2025-09-14 |  |  |  |  |
 | 1.0.0 | 2025-08-26 |  |  |  |  |
@@ -29,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-12 06:26:23
+Generated: 2026-06-15 17:26:40
 
 ## Ratings Verlauf
 
@@ -40,7 +40,40 @@ xychart-beta
   y-axis "Elo Rating" 2900 --> 3500
   line "STC (8.0+0.08s)" [2963, 3056, 3117, 3147]
   line "STC (8.0+0.08s)" [2963, 3056, 3117, 3147]
-  line "LTC (60.0+0.60s)" [3194, 3256, 3299, 3351]
+  line "LTC (60.0+0.60s)" [3194, 3258, 3299, 3351]
+  line "VLTC (2m24s+1.12s)" [3231, 3281, 3368, 3411]
+  line "VLTC (2m24s+1.12s)" [3231, 3281, 3368, 3411]
+```
+
+```mermaid
+%%{init: {"theme":"base"}}%%
+flowchart LR
+E[ ] --- A[STC 8.0+0.08s]
+A --- B[LTC 60.0+0.60s]
+B --- C[VLTC 2m24s+1.12s]
+C --- D[ ]
+linkStyle 0 stroke:#a3a3a3,stroke-width:0px
+linkStyle 1 stroke:#a3a3a3,stroke-width:4px
+linkStyle 2 stroke:#faa371,stroke-width:4px
+linkStyle 3 stroke:#4ef781,stroke-width:4px
+style A fill:none,stroke:none
+style B fill:none,stroke:none
+style C fill:none,stroke:none
+style D fill:none,stroke:none
+style E fill:none,stroke:none
+```
+
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["3.0.0", "4.0.0", "5.0.0", "6.0.0"]
+  y-axis "Elo Rating" 2900 --> 3500
+  line "STC (8.0+0.08s)" [2963, 3056, 3117, 3147]
+  line "STC (8.0+0.08s)" [2963, 3056, 3117, 3147]
+  line "LTC (60.0+0.60s)" [3194, 3258, 3299, 3351]
   line "VLTC (2m24s+1.12s)" [3231, 3281, 3368, 3411]
   line "VLTC (2m24s+1.12s)" [3231, 3281, 3368, 3411]
 ```
@@ -60,12 +93,12 @@ xychart-beta
 | 6.0.0 | STC <sub>(8.0+0.08s)</sub> | 3147 | 30 | 310 | 50% | 3150 | 58% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 5.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3368 | 24 | 414 | 50% | 3370 | 73% |
-| 5.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3299 | 26 | 382 | 51% | 3291 | 69% |
+| 5.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3299 | 26 | 382 | 51% | 3293 | 69% |
 | 5.0.0 | STC <sub>(8.0+0.08s)</sub> | 3117 | 25 | 444 | 51% | 3113 | 57% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3281 | 30 | 276 | 51% | 3271 | 68% |
-| 4.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3256 | 31 | 268 | 48% | 3271 | 68% |
-| 4.0.0 | STC <sub>(8.0+0.08s)</sub> | 3056 | 33 | 252 | 51% | 3028 | 57% |
+| 4.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3258 | 31 | 268 | 48% | 3271 | 68% |
+| 4.0.0 | STC <sub>(8.0+0.08s)</sub> | 3056 | 33 | 252 | 51% | 3029 | 57% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3231 | 37 | 184 | 50% | 3232 | 70% |
 | 3.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3194 | 32 | 252 | 48% | 3209 | 63% |
