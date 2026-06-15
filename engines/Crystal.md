@@ -53,7 +53,40 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-12 06:23:58
+Generated: 2026-06-15 17:22:50
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["5", "9"]
+  y-axis "Elo Rating" 3300 --> 3600
+  line "STC (8.0+0.08s)" [3362, 3410]
+  line "STC (8.0+0.08s)" [3362, 3410]
+  line "LTC (60.0+0.60s)" [3503, 3549]
+  line "VLTC (2m24s+1.12s)" [3525, 3579]
+  line "VLTC (2m24s+1.12s)" [3525, 3579]
+```
+
+```mermaid
+%%{init: {"theme":"base"}}%%
+flowchart LR
+E[ ] --- A[STC 8.0+0.08s]
+A --- B[LTC 60.0+0.60s]
+B --- C[VLTC 2m24s+1.12s]
+C --- D[ ]
+linkStyle 0 stroke:#a3a3a3,stroke-width:0px
+linkStyle 1 stroke:#a3a3a3,stroke-width:4px
+linkStyle 2 stroke:#faa371,stroke-width:4px
+linkStyle 3 stroke:#4ef781,stroke-width:4px
+style A fill:none,stroke:none
+style B fill:none,stroke:none
+style C fill:none,stroke:none
+style D fill:none,stroke:none
+style E fill:none,stroke:none
+```
+
 
 ## Ratings Verlauf
 
@@ -80,10 +113,10 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 9 | VLTC <sub>(2m24s+1.12s)</sub> | 3579 | 55 | 76 | 55% | 3548 | 86% |
-| 9 | LTC <sub>(60.0+0.60s)</sub> | 3549 | 24 | 394 | 51% | 3541 | 88% |
+| 9 | LTC <sub>(60.0+0.60s)</sub> | 3549 | 24 | 394 | 51% | 3542 | 88% |
 | 9 | STC <sub>(8.0+0.08s)</sub> | 3410 | 21 | 574 | 51% | 3403 | 77% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 5 | VLTC <sub>(2m24s+1.12s)</sub> | 3525 | 27 | 320 | 55% | 3480 | 85% |
 | 5 | LTC <sub>(60.0+0.60s)</sub> | 3503 | 12 | 1640 | 50% | 3505 | 86% |
-| 5 | STC <sub>(8.0+0.08s)</sub> | 3362 | 12 | 1796 | 52% | 3349 | 73% |
+| 5 | STC <sub>(8.0+0.08s)</sub> | 3362 | 12 | 1796 | 52% | 3351 | 73% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
