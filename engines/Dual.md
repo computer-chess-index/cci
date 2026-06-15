@@ -9,8 +9,8 @@ Home: https://github.com/DSTGU/Dual
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 0.3.0 | 2026-05-23 |  |  |  |  |
-| 0.2.9 | 2026-05-19 | 1912<sub>(0) | 2097<sub>(0) | 2217<sub>(0) |  |
-| 0.2.9 | 2026-05-19 | 1912<sub>(+222) | 2097<sub>(+239) | 2217<sub>(+293) |  |
+| 0.2.9 | 2026-05-19 | 1912<sub>(0) | 2098<sub>(0) | 2217<sub>(0) |  |
+| 0.2.9 | 2026-05-19 | 1912<sub>(+222) | 2098<sub>(+240) | 2217<sub>(+293) |  |
 | 0.2.8 | 2026-05-15 | 1690<sub>(+100) | 1858<sub>(+31) | 1924<sub>(+69) |  |
 | 0.2.7 | 2026-05-11 | 1590<sub>(+new) | 1827<sub>(+new) | 1855<sub>(+new) |  |
 | 0.2.6 | 2024-11-29 |  |  |  |  |
@@ -36,7 +36,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-12 06:24:12
+Generated: 2026-06-15 17:23:07
 
 ## Ratings Verlauf
 
@@ -47,7 +47,40 @@ xychart-beta
   y-axis "Elo Rating" 1500 --> 2300
   line "STC (8.0+0.08s)" [1590, 1690, 1912, 1912]
   line "STC (8.0+0.08s)" [1590, 1690, 1912, 1912]
-  line "LTC (60.0+0.60s)" [1827, 1858, 2097, 2097]
+  line "LTC (60.0+0.60s)" [1827, 1858, 2098, 2098]
+  line "VLTC (2m24s+1.12s)" [1855, 1924, 2217, 2217]
+  line "VLTC (2m24s+1.12s)" [1855, 1924, 2217, 2217]
+```
+
+```mermaid
+%%{init: {"theme":"base"}}%%
+flowchart LR
+E[ ] --- A[STC 8.0+0.08s]
+A --- B[LTC 60.0+0.60s]
+B --- C[VLTC 2m24s+1.12s]
+C --- D[ ]
+linkStyle 0 stroke:#a3a3a3,stroke-width:0px
+linkStyle 1 stroke:#a3a3a3,stroke-width:4px
+linkStyle 2 stroke:#faa371,stroke-width:4px
+linkStyle 3 stroke:#4ef781,stroke-width:4px
+style A fill:none,stroke:none
+style B fill:none,stroke:none
+style C fill:none,stroke:none
+style D fill:none,stroke:none
+style E fill:none,stroke:none
+```
+
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["0.2.7", "0.2.8", "0.2.9", "0.2.9"]
+  y-axis "Elo Rating" 1500 --> 2300
+  line "STC (8.0+0.08s)" [1590, 1690, 1912, 1912]
+  line "STC (8.0+0.08s)" [1590, 1690, 1912, 1912]
+  line "LTC (60.0+0.60s)" [1827, 1858, 2098, 2098]
   line "VLTC (2m24s+1.12s)" [1855, 1924, 2217, 2217]
   line "VLTC (2m24s+1.12s)" [1855, 1924, 2217, 2217]
 ```
@@ -64,8 +97,8 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.2.9 | VLTC <sub>(2m24s+1.12s)</sub> | 2207 | 51 | 134 | 50% | 2199 | 22% |
 | 0.2.9 | VLTC <sub>(2m24s+1.12s)</sub> | 2217 | 39 | 230 | 51% | 2206 | 23% |
-| 0.2.9 | LTC <sub>(60.0+0.60s)</sub> | 2097 | 40 | 214 | 52% | 2076 | 25% |
 | 0.2.9 | LTC <sub>(60.0+0.60s)</sub> | 2088 | 65 | 76 | 52% | 2070 | 33% |
+| 0.2.9 | LTC <sub>(60.0+0.60s)</sub> | 2098 | 40 | 214 | 52% | 2078 | 25% |
 | 0.2.9 | STC <sub>(8.0+0.08s)</sub> | 1910 | 52 | 124 | 52% | 1891 | 28% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.2.9 | STC <sub>(8.0+0.08s)</sub> | 1912 | 39 | 240 | 51% | 1908 | 20% |
