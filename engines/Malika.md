@@ -9,9 +9,9 @@ Home: https://github.com/FauziAkram/Malika-releases
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 1.116 | 2026-05-07 | 3023<sub>(+58) | 3224<sub>(+57) | 3271<sub>(+30) |  |
-| 1.0 | 2026-03-26 | 2965<sub>(+310) | 3167<sub>(+293) | 3241<sub>(+359) |  |
-| 0.892 | 2026-02-23 | 2655<sub>(-44) | 2874<sub>(-101) | 2882<sub>(-204) |  |
-| 0.418 | 2026-02-07 | 2699 | 2975 | 3086 |  |
+| 1.0 | 2026-03-26 | 2965<sub>(+310) | 3167<sub>(+291) | 3241<sub>(+357) |  |
+| 0.892 | 2026-02-23 | 2655<sub>(-44) | 2876<sub>(-101) | 2884<sub>(-202) |  |
+| 0.418 | 2026-02-07 | 2699 | 2977 | 3086 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Malika+<version>&body=###%20Engine%20name%0AMalika%0A%0A###%20Version%0A1.116" target="_blank">Submit new version</a>
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-12 06:26:09
+Generated: 2026-06-15 17:26:23
 
 ## Ratings Verlauf
 
@@ -38,9 +38,42 @@ xychart-beta
   y-axis "Elo Rating" 2600 --> 3300
   line "STC (8.0+0.08s)" [2699, 2655, 2965, 3023]
   line "STC (8.0+0.08s)" [2699, 2655, 2965, 3023]
-  line "LTC (60.0+0.60s)" [2975, 2874, 3167, 3224]
-  line "VLTC (2m24s+1.12s)" [3086, 2882, 3241, 3271]
-  line "VLTC (2m24s+1.12s)" [3086, 2882, 3241, 3271]
+  line "LTC (60.0+0.60s)" [2977, 2876, 3167, 3224]
+  line "VLTC (2m24s+1.12s)" [3086, 2884, 3241, 3271]
+  line "VLTC (2m24s+1.12s)" [3086, 2884, 3241, 3271]
+```
+
+```mermaid
+%%{init: {"theme":"base"}}%%
+flowchart LR
+E[ ] --- A[STC 8.0+0.08s]
+A --- B[LTC 60.0+0.60s]
+B --- C[VLTC 2m24s+1.12s]
+C --- D[ ]
+linkStyle 0 stroke:#a3a3a3,stroke-width:0px
+linkStyle 1 stroke:#a3a3a3,stroke-width:4px
+linkStyle 2 stroke:#faa371,stroke-width:4px
+linkStyle 3 stroke:#4ef781,stroke-width:4px
+style A fill:none,stroke:none
+style B fill:none,stroke:none
+style C fill:none,stroke:none
+style D fill:none,stroke:none
+style E fill:none,stroke:none
+```
+
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["0.418", "0.892", "1.0", "1.116"]
+  y-axis "Elo Rating" 2600 --> 3300
+  line "STC (8.0+0.08s)" [2699, 2655, 2965, 3023]
+  line "STC (8.0+0.08s)" [2699, 2655, 2965, 3023]
+  line "LTC (60.0+0.60s)" [2977, 2876, 3167, 3224]
+  line "VLTC (2m24s+1.12s)" [3086, 2884, 3241, 3271]
+  line "VLTC (2m24s+1.12s)" [3086, 2884, 3241, 3271]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -61,11 +94,11 @@ xychart-beta
 | 1.0 | LTC <sub>(60.0+0.60s)</sub> | 3167 | 29 | 364 | 50% | 3164 | 39% |
 | 1.0 | STC <sub>(8.0+0.08s)</sub> | 2965 | 29 | 408 | 52% | 2943 | 30% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.892 | VLTC <sub>(2m24s+1.12s)</sub> | 2882 | 35 | 286 | 49% | 2894 | 23% |
-| 0.892 | LTC <sub>(60.0+0.60s)</sub> | 2874 | 34 | 288 | 49% | 2882 | 25% |
+| 0.892 | VLTC <sub>(2m24s+1.12s)</sub> | 2884 | 35 | 286 | 49% | 2894 | 23% |
+| 0.892 | LTC <sub>(60.0+0.60s)</sub> | 2876 | 34 | 288 | 49% | 2884 | 25% |
 | 0.892 | STC <sub>(8.0+0.08s)</sub> | 2655 | 35 | 292 | 52% | 2633 | 20% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.418 | VLTC <sub>(2m24s+1.12s)</sub> | 3086 | 33 | 276 | 50% | 3085 | 46% |
-| 0.418 | LTC <sub>(60.0+0.60s)</sub> | 2975 | 35 | 244 | 52% | 2958 | 42% |
+| 0.418 | LTC <sub>(60.0+0.60s)</sub> | 2977 | 35 | 244 | 52% | 2958 | 42% |
 | 0.418 | STC <sub>(8.0+0.08s)</sub> | 2699 | 37 | 228 | 51% | 2688 | 33% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
