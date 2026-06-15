@@ -25,7 +25,40 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-12 06:24:39
+Generated: 2026-06-15 17:23:38
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["0.0.76", "0.0.77"]
+  y-axis "Elo Rating" 1800 --> 2300
+  line "STC (8.0+0.08s)" [1906, 1848]
+  line "STC (8.0+0.08s)" [1906, 1848]
+  line "LTC (60.0+0.60s)" [2126, 2141]
+  line "VLTC (2m24s+1.12s)" [2203, 2213]
+  line "VLTC (2m24s+1.12s)" [2203, 2213]
+```
+
+```mermaid
+%%{init: {"theme":"base"}}%%
+flowchart LR
+E[ ] --- A[STC 8.0+0.08s]
+A --- B[LTC 60.0+0.60s]
+B --- C[VLTC 2m24s+1.12s]
+C --- D[ ]
+linkStyle 0 stroke:#a3a3a3,stroke-width:0px
+linkStyle 1 stroke:#a3a3a3,stroke-width:4px
+linkStyle 2 stroke:#faa371,stroke-width:4px
+linkStyle 3 stroke:#4ef781,stroke-width:4px
+style A fill:none,stroke:none
+style B fill:none,stroke:none
+style C fill:none,stroke:none
+style D fill:none,stroke:none
+style E fill:none,stroke:none
+```
+
 
 ## Ratings Verlauf
 
@@ -55,7 +88,7 @@ xychart-beta
 | 0.0.77 | LTC <sub>(60.0+0.60s)</sub> | 2141 | 27 | 464 | 50% | 2138 | 30% |
 | 0.0.77 | STC <sub>(8.0+0.08s)</sub> | 1848 | 24 | 612 | 49% | 1855 | 27% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.0.76 | VLTC <sub>(2m24s+1.12s)</sub> | 2203 | 52 | 132 | 48% | 2230 | 22% |
+| 0.0.76 | VLTC <sub>(2m24s+1.12s)</sub> | 2203 | 52 | 132 | 48% | 2232 | 22% |
 | 0.0.76 | LTC <sub>(60.0+0.60s)</sub> | 2126 | 45 | 172 | 49% | 2137 | 23% |
 | 0.0.76 | STC <sub>(8.0+0.08s)</sub> | 1906 | 49 | 140 | 48% | 1925 | 27% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
