@@ -8,8 +8,8 @@ Home: https://github.com/Vast342/Clarity
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 8.0.0 | 2025-07-09 | 3227<sub>(-28) | 3426<sub>(+23) | 3426<sub>(-26) |  |
-| 8.0.0 | 2025-07-09 | 3255<sub>(+new) | 3403<sub>(+new) | 3452<sub>(+new) |  |
+| 8.0.0 | 2025-07-09 | 3227<sub>(-28) | 3428<sub>(+23) | 3428<sub>(-24) |  |
+| 8.0.0 | 2025-07-09 | 3255<sub>(+new) | 3405<sub>(+new) | 3452<sub>(+new) |  |
 | 7.2.0 | 2024-07-01 |  |  |  |  |
 | 7.1.0 | 2024-06-23 |  |  |  |  |
 | 7.0.0 | 2024-06-09 |  |  |  |  |
@@ -37,7 +37,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-12 06:23:48
+Generated: 2026-06-15 17:22:38
 
 ## Ratings Verlauf
 
@@ -48,9 +48,42 @@ xychart-beta
   y-axis "Elo Rating" 3200 --> 3500
   line "STC (8.0+0.08s)" [3227, 3255]
   line "STC (8.0+0.08s)" [3227, 3255]
-  line "LTC (60.0+0.60s)" [3426, 3403]
-  line "VLTC (2m24s+1.12s)" [3426, 3452]
-  line "VLTC (2m24s+1.12s)" [3426, 3452]
+  line "LTC (60.0+0.60s)" [3428, 3405]
+  line "VLTC (2m24s+1.12s)" [3428, 3452]
+  line "VLTC (2m24s+1.12s)" [3428, 3452]
+```
+
+```mermaid
+%%{init: {"theme":"base"}}%%
+flowchart LR
+E[ ] --- A[STC 8.0+0.08s]
+A --- B[LTC 60.0+0.60s]
+B --- C[VLTC 2m24s+1.12s]
+C --- D[ ]
+linkStyle 0 stroke:#a3a3a3,stroke-width:0px
+linkStyle 1 stroke:#a3a3a3,stroke-width:4px
+linkStyle 2 stroke:#faa371,stroke-width:4px
+linkStyle 3 stroke:#4ef781,stroke-width:4px
+style A fill:none,stroke:none
+style B fill:none,stroke:none
+style C fill:none,stroke:none
+style D fill:none,stroke:none
+style E fill:none,stroke:none
+```
+
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["8.0.0", "8.0.0"]
+  y-axis "Elo Rating" 3200 --> 3500
+  line "STC (8.0+0.08s)" [3227, 3255]
+  line "STC (8.0+0.08s)" [3227, 3255]
+  line "LTC (60.0+0.60s)" [3428, 3405]
+  line "VLTC (2m24s+1.12s)" [3428, 3452]
+  line "VLTC (2m24s+1.12s)" [3428, 3452]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -63,11 +96,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| 8.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3428 | 85 | 32 | 48% | 3438 | 78% |
 | 8.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3452 | 25 | 388 | 51% | 3444 | 80% |
-| 8.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3426 | 85 | 32 | 48% | 3438 | 78% |
-| 8.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3403 | 25 | 372 | 51% | 3399 | 79% |
-| 8.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3426 | 93 | 28 | 50% | 3429 | 71% |
-| 8.0.0 | STC <sub>(8.0+0.08s)</sub> | 3227 | 113 | 20 | 45% | 3260 | 60% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| 8.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3428 | 93 | 28 | 50% | 3429 | 71% |
+| 8.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3405 | 25 | 372 | 51% | 3399 | 79% |
 | 8.0.0 | STC <sub>(8.0+0.08s)</sub> | 3255 | 26 | 380 | 50% | 3256 | 67% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 8.0.0 | STC <sub>(8.0+0.08s)</sub> | 3227 | 113 | 20 | 45% | 3260 | 60% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
