@@ -9,8 +9,8 @@ Home: https://github.com/JVMerlino/Myrddin
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 0.96 | 2026-06-08 | 2782<sub>(+166) | 3047<sub>(+119) | 3120<sub>(+112) |  |
-| 0.95 | 2026-04-23 | 2616<sub>(+32) | 2928<sub>(+13) | 3008<sub>(-35) |  |
-| 0.94 | 2025-12-11 | 2584<sub>(+new) | 2915<sub>(+new) | 3043<sub>(+new) |  |
+| 0.95 | 2026-04-23 | 2616<sub>(+32) | 2928<sub>(+12) | 3008<sub>(-35) |  |
+| 0.94 | 2025-12-11 | 2584<sub>(+new) | 2916<sub>(+new) | 3043<sub>(+new) |  |
 | 0.93 | 2025-04-23 |  |  |  |  |
 | 0.92 | 2024-12-08 |  |  |  |  |
 | 0.91 | 2024-10-19 |  |  |  |  |
@@ -31,7 +31,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-12 06:26:29
+Generated: 2026-06-15 17:26:49
 
 ## Ratings Verlauf
 
@@ -42,7 +42,40 @@ xychart-beta
   y-axis "Elo Rating" 2500 --> 3200
   line "STC (8.0+0.08s)" [2584, 2616, 2782]
   line "STC (8.0+0.08s)" [2584, 2616, 2782]
-  line "LTC (60.0+0.60s)" [2915, 2928, 3047]
+  line "LTC (60.0+0.60s)" [2916, 2928, 3047]
+  line "VLTC (2m24s+1.12s)" [3043, 3008, 3120]
+  line "VLTC (2m24s+1.12s)" [3043, 3008, 3120]
+```
+
+```mermaid
+%%{init: {"theme":"base"}}%%
+flowchart LR
+E[ ] --- A[STC 8.0+0.08s]
+A --- B[LTC 60.0+0.60s]
+B --- C[VLTC 2m24s+1.12s]
+C --- D[ ]
+linkStyle 0 stroke:#a3a3a3,stroke-width:0px
+linkStyle 1 stroke:#a3a3a3,stroke-width:4px
+linkStyle 2 stroke:#faa371,stroke-width:4px
+linkStyle 3 stroke:#4ef781,stroke-width:4px
+style A fill:none,stroke:none
+style B fill:none,stroke:none
+style C fill:none,stroke:none
+style D fill:none,stroke:none
+style E fill:none,stroke:none
+```
+
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["0.94", "0.95", "0.96"]
+  y-axis "Elo Rating" 2500 --> 3200
+  line "STC (8.0+0.08s)" [2584, 2616, 2782]
+  line "STC (8.0+0.08s)" [2584, 2616, 2782]
+  line "LTC (60.0+0.60s)" [2916, 2928, 3047]
   line "VLTC (2m24s+1.12s)" [3043, 3008, 3120]
   line "VLTC (2m24s+1.12s)" [3043, 3008, 3120]
 ```
@@ -62,10 +95,10 @@ xychart-beta
 | 0.96 | STC <sub>(8.0+0.08s)</sub> | 2782 | 45 | 156 | 52% | 2761 | 34% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.95 | VLTC <sub>(2m24s+1.12s)</sub> | 3008 | 29 | 370 | 51% | 2998 | 43% |
-| 0.95 | LTC <sub>(60.0+0.60s)</sub> | 2928 | 29 | 366 | 49% | 2936 | 41% |
+| 0.95 | LTC <sub>(60.0+0.60s)</sub> | 2928 | 29 | 366 | 49% | 2938 | 41% |
 | 0.95 | STC <sub>(8.0+0.08s)</sub> | 2616 | 29 | 398 | 52% | 2596 | 33% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.94 | VLTC <sub>(2m24s+1.12s)</sub> | 3043 | 27 | 380 | 50% | 3042 | 52% |
-| 0.94 | LTC <sub>(60.0+0.60s)</sub> | 2915 | 28 | 382 | 53% | 2884 | 41% |
+| 0.94 | LTC <sub>(60.0+0.60s)</sub> | 2916 | 28 | 382 | 53% | 2884 | 41% |
 | 0.94 | STC <sub>(8.0+0.08s)</sub> | 2584 | 27 | 476 | 50% | 2566 | 31% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
