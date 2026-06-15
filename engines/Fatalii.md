@@ -8,7 +8,7 @@ Home: https://github.com/FitzOReilly/fatalii
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.10.1 | 2026-05-11 | 2259<sub>(-6) | 2507<sub>(-24) | 2577<sub>(-15) |  |
+| 0.10.1 | 2026-05-11 | 2259<sub>(-6) | 2506<sub>(-25) | 2577<sub>(-15) |  |
 | 0.10.0 | 2026-03-09 | 2265<sub>(+new) | 2531<sub>(+new) | 2592<sub>(+new) |  |
 | 0.9.0 | 2025-02-08 |  |  |  |  |
 | 0.8.0 | 2024-10-17 |  |  |  |  |
@@ -39,7 +39,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-12 06:24:34
+Generated: 2026-06-15 17:23:32
 
 ## Ratings Verlauf
 
@@ -50,7 +50,40 @@ xychart-beta
   y-axis "Elo Rating" 2200 --> 2600
   line "STC (8.0+0.08s)" [2265, 2259]
   line "STC (8.0+0.08s)" [2265, 2259]
-  line "LTC (60.0+0.60s)" [2531, 2507]
+  line "LTC (60.0+0.60s)" [2531, 2506]
+  line "VLTC (2m24s+1.12s)" [2592, 2577]
+  line "VLTC (2m24s+1.12s)" [2592, 2577]
+```
+
+```mermaid
+%%{init: {"theme":"base"}}%%
+flowchart LR
+E[ ] --- A[STC 8.0+0.08s]
+A --- B[LTC 60.0+0.60s]
+B --- C[VLTC 2m24s+1.12s]
+C --- D[ ]
+linkStyle 0 stroke:#a3a3a3,stroke-width:0px
+linkStyle 1 stroke:#a3a3a3,stroke-width:4px
+linkStyle 2 stroke:#faa371,stroke-width:4px
+linkStyle 3 stroke:#4ef781,stroke-width:4px
+style A fill:none,stroke:none
+style B fill:none,stroke:none
+style C fill:none,stroke:none
+style D fill:none,stroke:none
+style E fill:none,stroke:none
+```
+
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["0.10.0", "0.10.1"]
+  y-axis "Elo Rating" 2200 --> 2600
+  line "STC (8.0+0.08s)" [2265, 2259]
+  line "STC (8.0+0.08s)" [2265, 2259]
+  line "LTC (60.0+0.60s)" [2531, 2506]
   line "VLTC (2m24s+1.12s)" [2592, 2577]
   line "VLTC (2m24s+1.12s)" [2592, 2577]
 ```
@@ -66,7 +99,7 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.10.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2577 | 32 | 326 | 49% | 2588 | 28% |
-| 0.10.1 | LTC <sub>(60.0+0.60s)</sub> | 2507 | 33 | 308 | 50% | 2506 | 30% |
+| 0.10.1 | LTC <sub>(60.0+0.60s)</sub> | 2506 | 33 | 312 | 50% | 2506 | 29% |
 | 0.10.1 | STC <sub>(8.0+0.08s)</sub> | 2259 | 33 | 324 | 48% | 2280 | 27% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.10.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2592 | 29 | 424 | 48% | 2616 | 25% |
