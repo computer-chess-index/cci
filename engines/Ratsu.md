@@ -9,7 +9,7 @@ Home: https://github.com/ranzuh/ratsu
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 2.0.0 | 2026-05-23 |  |  |  |  |
-| 1.2.0 | 2026-05-07 | 1894<sub>(+173) | 2161<sub>(+160) | 2225<sub>(+141) |  |
+| 1.2.0 | 2026-05-07 | 1894<sub>(+173) | 2161<sub>(+160) | 2226<sub>(+142) |  |
 | 1.1.0 | 2026-04-21 | 1721<sub>(+79) | 2001<sub>(+127) | 2084<sub>(+140) |  |
 | 1.0.0 | 2026-02-20 | 1642<sub>(+103) | 1874<sub>(+76) | 1944<sub>(+88) |  |
 | 0.9.0 | 2026-01-21 | 1539 | 1798 | 1856 |  |
@@ -28,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-12 06:27:47
+Generated: 2026-06-15 17:29:21
 
 ## Ratings Verlauf
 
@@ -40,8 +40,41 @@ xychart-beta
   line "STC (8.0+0.08s)" [1539, 1642, 1721, 1894]
   line "STC (8.0+0.08s)" [1539, 1642, 1721, 1894]
   line "LTC (60.0+0.60s)" [1798, 1874, 2001, 2161]
-  line "VLTC (2m24s+1.12s)" [1856, 1944, 2084, 2225]
-  line "VLTC (2m24s+1.12s)" [1856, 1944, 2084, 2225]
+  line "VLTC (2m24s+1.12s)" [1856, 1944, 2084, 2226]
+  line "VLTC (2m24s+1.12s)" [1856, 1944, 2084, 2226]
+```
+
+```mermaid
+%%{init: {"theme":"base"}}%%
+flowchart LR
+E[ ] --- A[STC 8.0+0.08s]
+A --- B[LTC 60.0+0.60s]
+B --- C[VLTC 2m24s+1.12s]
+C --- D[ ]
+linkStyle 0 stroke:#a3a3a3,stroke-width:0px
+linkStyle 1 stroke:#a3a3a3,stroke-width:4px
+linkStyle 2 stroke:#faa371,stroke-width:4px
+linkStyle 3 stroke:#4ef781,stroke-width:4px
+style A fill:none,stroke:none
+style B fill:none,stroke:none
+style C fill:none,stroke:none
+style D fill:none,stroke:none
+style E fill:none,stroke:none
+```
+
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["0.9.0", "1.0.0", "1.1.0", "1.2.0"]
+  y-axis "Elo Rating" 1500 --> 2300
+  line "STC (8.0+0.08s)" [1539, 1642, 1721, 1894]
+  line "STC (8.0+0.08s)" [1539, 1642, 1721, 1894]
+  line "LTC (60.0+0.60s)" [1798, 1874, 2001, 2161]
+  line "VLTC (2m24s+1.12s)" [1856, 1944, 2084, 2226]
+  line "VLTC (2m24s+1.12s)" [1856, 1944, 2084, 2226]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -54,7 +87,7 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2225 | 31 | 352 | 51% | 2218 | 26% |
+| 1.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2226 | 31 | 352 | 51% | 2218 | 26% |
 | 1.2.0 | LTC <sub>(60.0+0.60s)</sub> | 2161 | 34 | 288 | 50% | 2148 | 27% |
 | 1.2.0 | STC <sub>(8.0+0.08s)</sub> | 1894 | 32 | 348 | 52% | 1871 | 22% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
