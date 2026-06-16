@@ -8,7 +8,7 @@ Home: https://github.com/Lacovipo/Anubis-chess-engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.6 | 2025-10-02 | 2469<sub>(+new) | 2897<sub>(+new) | 3019<sub>(+new) |  |
+| 3.0.6 | 2025-10-02 | 2469<sub>(+new) | 2897<sub>(+new) | 3020<sub>(+new) |  |
 | 3.04 | 2025-09-21 |  |  |  |  |
 | 3.03 | 2025-08-31 |  |  |  |  |
 | 3.02 | 2025-08-24 |  |  |  |  |
@@ -32,7 +32,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-15 17:20:21
+Generated: 2026-06-16 06:22:33
 
 
 
@@ -40,7 +40,7 @@ Generated: 2026-06-15 17:20:21
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.0.6 | VLTC <sub>(2m24s+1.12s)</sub> | 3019 | 25 | 456 | 48% | 3035 | 45% |
-| 3.0.6 | LTC <sub>(60.0+0.60s)</sub> | 2897 | 26 | 456 | 46% | 2923 | 41% |
+| 3.0.6 | VLTC <sub>(2m24s+1.12s)</sub> | 3020 | 25 | 456 | 48% | 3036 | 45% |
+| 3.0.6 | LTC <sub>(60.0+0.60s)</sub> | 2897 | 26 | 456 | 46% | 2924 | 41% |
 | 3.0.6 | STC <sub>(8.0+0.08s)</sub> | 2469 | 25 | 566 | 54% | 2430 | 24% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
