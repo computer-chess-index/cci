@@ -8,10 +8,11 @@ Home: https://github.com/P1X3R/zugblitz
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
+| 1.3.2 | 2026-06-13 | 1867<sub>(+13) | 2020<sub>(-114) | 2147<sub>(-29) |  |
 | 1.3.1 | 2026-01-10 | 1854 | 2134 | 2176 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Zugblitz+<version>&body=###%20Engine%20name%0AZugblitz%0A%0A###%20Version%0A1.3.1" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Zugblitz+<version>&body=###%20Engine%20name%0AZugblitz%0A%0A###%20Version%0A1.3.2" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -24,13 +25,68 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-11 06:30:52
+Generated: 2026-06-16 06:37:51
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["1.3.1", "1.3.2"]
+  y-axis "Elo Rating" 1800 --> 2200
+  line "STC (8.0+0.08s)" [1854, 1867]
+  line "STC (8.0+0.08s)" [1854, 1867]
+  line "LTC (60.0+0.60s)" [2134, 2020]
+  line "VLTC (2m24s+1.12s)" [2176, 2147]
+  line "VLTC (2m24s+1.12s)" [2176, 2147]
+```
+
+```mermaid
+%%{init: {"theme":"base"}}%%
+flowchart LR
+E[ ] --- A[STC 8.0+0.08s]
+A --- B[LTC 60.0+0.60s]
+B --- C[VLTC 2m24s+1.12s]
+C --- D[ ]
+linkStyle 0 stroke:#a3a3a3,stroke-width:0px
+linkStyle 1 stroke:#a3a3a3,stroke-width:4px
+linkStyle 2 stroke:#faa371,stroke-width:4px
+linkStyle 3 stroke:#4ef781,stroke-width:4px
+style A fill:none,stroke:none
+style B fill:none,stroke:none
+style C fill:none,stroke:none
+style D fill:none,stroke:none
+style E fill:none,stroke:none
+```
+
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["1.3.1", "1.3.2"]
+  y-axis "Elo Rating" 1800 --> 2200
+  line "STC (8.0+0.08s)" [1854, 1867]
+  line "STC (8.0+0.08s)" [1854, 1867]
+  line "LTC (60.0+0.60s)" [2134, 2020]
+  line "VLTC (2m24s+1.12s)" [2176, 2147]
+  line "VLTC (2m24s+1.12s)" [2176, 2147]
+```
+
+<p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
+<p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
+
 
 
 
 ## Detailed Evaluation Results
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.3.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2147 | 83 | 48 | 47% | 2178 | 27% |
+| 1.3.2 | LTC <sub>(60.0+0.60s)</sub> | 2020 | 69 | 68 | 54% | 1987 | 31% |
+| 1.3.2 | STC <sub>(8.0+0.08s)</sub> | 1867 | 70 | 64 | 49% | 1872 | 33% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2176 | 27 | 456 | 49% | 2184 | 35% |
 | 1.3.1 | LTC <sub>(60.0+0.60s)</sub> | 2134 | 28 | 422 | 49% | 2141 | 28% |
