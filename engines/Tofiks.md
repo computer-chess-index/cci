@@ -8,7 +8,7 @@ Home: https://github.com/likeawizard/tofiks
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.5.0 | 2026-04-23 | 2175<sub>(+139) | 2415<sub>(+104) | 2484<sub>(+96) |  |
+| 1.5.0 | 2026-04-23 | 2172<sub>(+136) | 2418<sub>(+107) | 2483<sub>(+95) |  |
 | 1.4.1 | 2026-04-11 | 2036<sub>(-39) | 2311<sub>(+29) | 2388<sub>(+13) |  |
 | 1.4.0 | 2026-04-09 | 2075<sub>(+new) | 2282<sub>(+new) | 2375<sub>(+new) |  |
 | 1.3.0 | 2023-10-22 |  |  |  |  |
@@ -30,7 +30,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-12 06:29:16
+Generated: 2026-06-16 06:29:23
 
 ## Ratings Verlauf
 
@@ -39,11 +39,44 @@ Generated: 2026-06-12 06:29:16
 xychart-beta
   x-axis ["1.4.0", "1.4.1", "1.5.0"]
   y-axis "Elo Rating" 2000 --> 2500
-  line "STC (8.0+0.08s)" [2075, 2036, 2175]
-  line "STC (8.0+0.08s)" [2075, 2036, 2175]
-  line "LTC (60.0+0.60s)" [2282, 2311, 2415]
-  line "VLTC (2m24s+1.12s)" [2375, 2388, 2484]
-  line "VLTC (2m24s+1.12s)" [2375, 2388, 2484]
+  line "STC (8.0+0.08s)" [2075, 2036, 2172]
+  line "STC (8.0+0.08s)" [2075, 2036, 2172]
+  line "LTC (60.0+0.60s)" [2282, 2311, 2418]
+  line "VLTC (2m24s+1.12s)" [2375, 2388, 2483]
+  line "VLTC (2m24s+1.12s)" [2375, 2388, 2483]
+```
+
+```mermaid
+%%{init: {"theme":"base"}}%%
+flowchart LR
+E[ ] --- A[STC 8.0+0.08s]
+A --- B[LTC 60.0+0.60s]
+B --- C[VLTC 2m24s+1.12s]
+C --- D[ ]
+linkStyle 0 stroke:#a3a3a3,stroke-width:0px
+linkStyle 1 stroke:#a3a3a3,stroke-width:4px
+linkStyle 2 stroke:#faa371,stroke-width:4px
+linkStyle 3 stroke:#4ef781,stroke-width:4px
+style A fill:none,stroke:none
+style B fill:none,stroke:none
+style C fill:none,stroke:none
+style D fill:none,stroke:none
+style E fill:none,stroke:none
+```
+
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["1.4.0", "1.4.1", "1.5.0"]
+  y-axis "Elo Rating" 2000 --> 2500
+  line "STC (8.0+0.08s)" [2075, 2036, 2172]
+  line "STC (8.0+0.08s)" [2075, 2036, 2172]
+  line "LTC (60.0+0.60s)" [2282, 2311, 2418]
+  line "VLTC (2m24s+1.12s)" [2375, 2388, 2483]
+  line "VLTC (2m24s+1.12s)" [2375, 2388, 2483]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -56,13 +89,13 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.5.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2484 | 29 | 372 | 50% | 2483 | 35% |
-| 1.5.0 | LTC <sub>(60.0+0.60s)</sub> | 2415 | 29 | 394 | 50% | 2417 | 32% |
-| 1.5.0 | STC <sub>(8.0+0.08s)</sub> | 2175 | 29 | 432 | 46% | 2206 | 21% |
+| 1.5.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2483 | 29 | 376 | 50% | 2485 | 35% |
+| 1.5.0 | LTC <sub>(60.0+0.60s)</sub> | 2418 | 29 | 402 | 50% | 2417 | 32% |
+| 1.5.0 | STC <sub>(8.0+0.08s)</sub> | 2172 | 29 | 436 | 46% | 2206 | 20% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.4.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2388 | 33 | 292 | 50% | 2384 | 33% |
-| 1.4.1 | LTC <sub>(60.0+0.60s)</sub> | 2311 | 34 | 296 | 50% | 2309 | 29% |
-| 1.4.1 | STC <sub>(8.0+0.08s)</sub> | 2036 | 34 | 302 | 51% | 2022 | 26% |
+| 1.4.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2388 | 33 | 292 | 50% | 2385 | 33% |
+| 1.4.1 | LTC <sub>(60.0+0.60s)</sub> | 2311 | 34 | 296 | 50% | 2310 | 29% |
+| 1.4.1 | STC <sub>(8.0+0.08s)</sub> | 2036 | 34 | 302 | 51% | 2024 | 26% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.4.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2375 | 40 | 216 | 47% | 2403 | 29% |
 | 1.4.0 | LTC <sub>(60.0+0.60s)</sub> | 2282 | 39 | 226 | 53% | 2259 | 29% |
