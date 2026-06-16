@@ -8,9 +8,9 @@ Home: https://github.com/Ciekce/Stormphrax
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7.0.0 | 2025-06-24 | 3333<sub>(+51) | 3498<sub>(+39) | 3536<sub>(+48) |  |
-| 6.0.0 | 2024-10-29 | 3282<sub>(+97) | 3459<sub>(+76) | 3488<sub>(+68) |  |
-| 5.0.0 | 2024-06-26 | 3185<sub>(+new) | 3383<sub>(+new) | 3420<sub>(+new) |  |
+| 7.0.0 | 2025-06-24 | 3333<sub>(+50) | 3499<sub>(+40) | 3537<sub>(+49) |  |
+| 6.0.0 | 2024-10-29 | 3283<sub>(+97) | 3459<sub>(+76) | 3488<sub>(+68) |  |
+| 5.0.0 | 2024-06-26 | 3186<sub>(+new) | 3383<sub>(+new) | 3420<sub>(+new) |  |
 | 4.1.0 | 2024-03-11 |  |  |  |  |
 | 4.0.0 | 2023-12-17 |  |  |  |  |
 | 3.0.0 | 2023-11-02 |  |  |  |  |
@@ -31,7 +31,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-12 06:28:54
+Generated: 2026-06-16 06:29:02
 
 ## Ratings Verlauf
 
@@ -40,11 +40,44 @@ Generated: 2026-06-12 06:28:54
 xychart-beta
   x-axis ["5.0.0", "6.0.0", "7.0.0"]
   y-axis "Elo Rating" 3100 --> 3600
-  line "STC (8.0+0.08s)" [3185, 3282, 3333]
-  line "STC (8.0+0.08s)" [3185, 3282, 3333]
-  line "LTC (60.0+0.60s)" [3383, 3459, 3498]
-  line "VLTC (2m24s+1.12s)" [3420, 3488, 3536]
-  line "VLTC (2m24s+1.12s)" [3420, 3488, 3536]
+  line "STC (8.0+0.08s)" [3186, 3283, 3333]
+  line "STC (8.0+0.08s)" [3186, 3283, 3333]
+  line "LTC (60.0+0.60s)" [3383, 3459, 3499]
+  line "VLTC (2m24s+1.12s)" [3420, 3488, 3537]
+  line "VLTC (2m24s+1.12s)" [3420, 3488, 3537]
+```
+
+```mermaid
+%%{init: {"theme":"base"}}%%
+flowchart LR
+E[ ] --- A[STC 8.0+0.08s]
+A --- B[LTC 60.0+0.60s]
+B --- C[VLTC 2m24s+1.12s]
+C --- D[ ]
+linkStyle 0 stroke:#a3a3a3,stroke-width:0px
+linkStyle 1 stroke:#a3a3a3,stroke-width:4px
+linkStyle 2 stroke:#faa371,stroke-width:4px
+linkStyle 3 stroke:#4ef781,stroke-width:4px
+style A fill:none,stroke:none
+style B fill:none,stroke:none
+style C fill:none,stroke:none
+style D fill:none,stroke:none
+style E fill:none,stroke:none
+```
+
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["5.0.0", "6.0.0", "7.0.0"]
+  y-axis "Elo Rating" 3100 --> 3600
+  line "STC (8.0+0.08s)" [3186, 3283, 3333]
+  line "STC (8.0+0.08s)" [3186, 3283, 3333]
+  line "LTC (60.0+0.60s)" [3383, 3459, 3499]
+  line "VLTC (2m24s+1.12s)" [3420, 3488, 3537]
+  line "VLTC (2m24s+1.12s)" [3420, 3488, 3537]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -57,15 +90,15 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 7.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3536 | 18 | 722 | 51% | 3532 | 87% |
-| 7.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3498 | 17 | 824 | 51% | 3494 | 87% |
+| 7.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3537 | 18 | 722 | 51% | 3533 | 87% |
+| 7.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3499 | 17 | 824 | 51% | 3495 | 87% |
 | 7.0.0 | STC <sub>(8.0+0.08s)</sub> | 3333 | 17 | 914 | 51% | 3326 | 69% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 6.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3488 | 14 | 1184 | 50% | 3487 | 82% |
-| 6.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3459 | 14 | 1228 | 50% | 3460 | 80% |
-| 6.0.0 | STC <sub>(8.0+0.08s)</sub> | 3282 | 15 | 1188 | 50% | 3281 | 67% |
+| 6.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3488 | 14 | 1184 | 50% | 3488 | 82% |
+| 6.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3459 | 14 | 1228 | 50% | 3461 | 80% |
+| 6.0.0 | STC <sub>(8.0+0.08s)</sub> | 3283 | 15 | 1188 | 50% | 3281 | 67% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 5.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3420 | 32 | 248 | 51% | 3413 | 73% |
+| 5.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3420 | 32 | 248 | 51% | 3414 | 73% |
 | 5.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3383 | 27 | 340 | 54% | 3351 | 71% |
-| 5.0.0 | STC <sub>(8.0+0.08s)</sub> | 3185 | 29 | 332 | 48% | 3201 | 57% |
+| 5.0.0 | STC <sub>(8.0+0.08s)</sub> | 3186 | 29 | 332 | 48% | 3202 | 57% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
