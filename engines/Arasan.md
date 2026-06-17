@@ -8,7 +8,7 @@ Home: https://github.com/jdart1/arasan-chess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 25.4 | 2026-04-15 | 3222<sub>(-6) | 3422<sub>(+9) | 3474<sub>(+18) |  |
+| 25.4 | 2026-04-15 | 3222<sub>(-6) | 3422<sub>(+9) | 3472<sub>(+16) |  |
 | 25.3 | 2025-12-28 | 3228<sub>(+new) | 3413<sub>(+new) | 3456<sub>(+new) |  |
 | 25.2 | 2025-07-15 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-16 06:22:38
+Generated: 2026-06-17 06:22:40
 
 ## Ratings Verlauf
 
@@ -38,8 +38,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [3228, 3222]
   line "STC (8.0+0.08s)" [3228, 3222]
   line "LTC (60.0+0.60s)" [3413, 3422]
-  line "VLTC (2m24s+1.12s)" [3456, 3474]
-  line "VLTC (2m24s+1.12s)" [3456, 3474]
+  line "VLTC (2m24s+1.12s)" [3456, 3472]
+  line "VLTC (2m24s+1.12s)" [3456, 3472]
 ```
 
 ```mermaid
@@ -71,8 +71,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [3228, 3222]
   line "STC (8.0+0.08s)" [3228, 3222]
   line "LTC (60.0+0.60s)" [3413, 3422]
-  line "VLTC (2m24s+1.12s)" [3456, 3474]
-  line "VLTC (2m24s+1.12s)" [3456, 3474]
+  line "VLTC (2m24s+1.12s)" [3456, 3472]
+  line "VLTC (2m24s+1.12s)" [3456, 3472]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -85,9 +85,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 25.4 | VLTC <sub>(2m24s+1.12s)</sub> | 3474 | 26 | 328 | 50% | 3476 | 88% |
+| 25.4 | VLTC <sub>(2m24s+1.12s)</sub> | 3472 | 26 | 332 | 50% | 3476 | 88% |
 | 25.4 | LTC <sub>(60.0+0.60s)</sub> | 3422 | 26 | 348 | 50% | 3421 | 79% |
-| 25.4 | STC <sub>(8.0+0.08s)</sub> | 3222 | 26 | 388 | 51% | 3214 | 63% |
+| 25.4 | STC <sub>(8.0+0.08s)</sub> | 3222 | 26 | 388 | 51% | 3213 | 63% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 25.3 | VLTC <sub>(2m24s+1.12s)</sub> | 3456 | 26 | 356 | 51% | 3451 | 82% |
 | 25.3 | LTC <sub>(60.0+0.60s)</sub> | 3413 | 26 | 360 | 51% | 3406 | 78% |
