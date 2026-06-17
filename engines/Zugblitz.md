@@ -8,8 +8,8 @@ Home: https://github.com/P1X3R/zugblitz
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.3.2 | 2026-06-13 | 1867<sub>(+13) | 2020<sub>(-114) | 2147<sub>(-29) |  |
-| 1.3.1 | 2026-01-10 | 1854 | 2134 | 2176 |  |
+| 1.3.2 | 2026-06-13 | 1868<sub>(+16) | 2037<sub>(-97) | 2205<sub>(+30) |  |
+| 1.3.1 | 2026-01-10 | 1852 | 2134 | 2175 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Zugblitz+<version>&body=###%20Engine%20name%0AZugblitz%0A%0A###%20Version%0A1.3.2" target="_blank">Submit new version</a>
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-16 06:37:51
+Generated: 2026-06-17 06:34:11
 
 ## Ratings Verlauf
 
@@ -33,12 +33,12 @@ Generated: 2026-06-16 06:37:51
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["1.3.1", "1.3.2"]
-  y-axis "Elo Rating" 1800 --> 2200
-  line "STC (8.0+0.08s)" [1854, 1867]
-  line "STC (8.0+0.08s)" [1854, 1867]
-  line "LTC (60.0+0.60s)" [2134, 2020]
-  line "VLTC (2m24s+1.12s)" [2176, 2147]
-  line "VLTC (2m24s+1.12s)" [2176, 2147]
+  y-axis "Elo Rating" 1800 --> 2300
+  line "STC (8.0+0.08s)" [1852, 1868]
+  line "STC (8.0+0.08s)" [1852, 1868]
+  line "LTC (60.0+0.60s)" [2134, 2037]
+  line "VLTC (2m24s+1.12s)" [2175, 2205]
+  line "VLTC (2m24s+1.12s)" [2175, 2205]
 ```
 
 ```mermaid
@@ -66,12 +66,12 @@ style E fill:none,stroke:none
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["1.3.1", "1.3.2"]
-  y-axis "Elo Rating" 1800 --> 2200
-  line "STC (8.0+0.08s)" [1854, 1867]
-  line "STC (8.0+0.08s)" [1854, 1867]
-  line "LTC (60.0+0.60s)" [2134, 2020]
-  line "VLTC (2m24s+1.12s)" [2176, 2147]
-  line "VLTC (2m24s+1.12s)" [2176, 2147]
+  y-axis "Elo Rating" 1800 --> 2300
+  line "STC (8.0+0.08s)" [1852, 1868]
+  line "STC (8.0+0.08s)" [1852, 1868]
+  line "LTC (60.0+0.60s)" [2134, 2037]
+  line "VLTC (2m24s+1.12s)" [2175, 2205]
+  line "VLTC (2m24s+1.12s)" [2175, 2205]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -84,11 +84,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.3.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2147 | 83 | 48 | 47% | 2178 | 27% |
-| 1.3.2 | LTC <sub>(60.0+0.60s)</sub> | 2020 | 69 | 68 | 54% | 1987 | 31% |
-| 1.3.2 | STC <sub>(8.0+0.08s)</sub> | 1867 | 70 | 64 | 49% | 1872 | 33% |
+| 1.3.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2205 | 43 | 172 | 52% | 2184 | 34% |
+| 1.3.2 | LTC <sub>(60.0+0.60s)</sub> | 2037 | 40 | 204 | 52% | 2016 | 33% |
+| 1.3.2 | STC <sub>(8.0+0.08s)</sub> | 1868 | 50 | 136 | 49% | 1874 | 26% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2176 | 27 | 456 | 49% | 2184 | 35% |
+| 1.3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2175 | 27 | 456 | 49% | 2184 | 35% |
 | 1.3.1 | LTC <sub>(60.0+0.60s)</sub> | 2134 | 28 | 422 | 49% | 2141 | 28% |
-| 1.3.1 | STC <sub>(8.0+0.08s)</sub> | 1854 | 24 | 610 | 52% | 1831 | 27% |
+| 1.3.1 | STC <sub>(8.0+0.08s)</sub> | 1852 | 24 | 614 | 51% | 1831 | 27% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
