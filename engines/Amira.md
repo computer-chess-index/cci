@@ -8,7 +8,7 @@ Home: https://github.com/FauziAkram/amira
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.82 | 2026-01-02 | 2292<sub>(+113) | 2522<sub>(+103) | 2615<sub>(+154) |  |
+| 1.82 | 2026-01-02 | 2292<sub>(+113) | 2520<sub>(+101) | 2615<sub>(+154) |  |
 | 1.71 | 2025-10-30 | 2179<sub>(+new) | 2419<sub>(+new) | 2461<sub>(+new) |  |
 | 1.61 | 2025-09-08 |  |  |  |  |
 | 1.4 | 2025-07-24 |  |  |  |  |
@@ -28,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-16 06:22:24
+Generated: 2026-06-17 06:22:25
 
 ## Ratings Verlauf
 
@@ -39,7 +39,7 @@ xychart-beta
   y-axis "Elo Rating" 2100 --> 2700
   line "STC (8.0+0.08s)" [2179, 2292]
   line "STC (8.0+0.08s)" [2179, 2292]
-  line "LTC (60.0+0.60s)" [2419, 2522]
+  line "LTC (60.0+0.60s)" [2419, 2520]
   line "VLTC (2m24s+1.12s)" [2461, 2615]
   line "VLTC (2m24s+1.12s)" [2461, 2615]
 ```
@@ -72,7 +72,7 @@ xychart-beta
   y-axis "Elo Rating" 2100 --> 2700
   line "STC (8.0+0.08s)" [2179, 2292]
   line "STC (8.0+0.08s)" [2179, 2292]
-  line "LTC (60.0+0.60s)" [2419, 2522]
+  line "LTC (60.0+0.60s)" [2419, 2520]
   line "VLTC (2m24s+1.12s)" [2461, 2615]
   line "VLTC (2m24s+1.12s)" [2461, 2615]
 ```
@@ -88,7 +88,7 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.82 | VLTC <sub>(2m24s+1.12s)</sub> | 2615 | 24 | 566 | 47% | 2635 | 29% |
-| 1.82 | LTC <sub>(60.0+0.60s)</sub> | 2522 | 29 | 424 | 50% | 2512 | 24% |
+| 1.82 | LTC <sub>(60.0+0.60s)</sub> | 2520 | 29 | 424 | 50% | 2512 | 24% |
 | 1.82 | STC <sub>(8.0+0.08s)</sub> | 2292 | 25 | 570 | 51% | 2277 | 22% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.71 | VLTC <sub>(2m24s+1.12s)</sub> | 2461 | 40 | 220 | 51% | 2452 | 21% |
