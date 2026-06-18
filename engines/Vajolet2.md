@@ -9,8 +9,8 @@ Home: https://github.com/elcabesa/vajolet
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 3.2 | 2026-05-17 | 2840<sub>(+24) | 3108<sub>(+72) | 3156<sub>(+40) |  |
-| 3.1 | 2026-04-03 | 2816<sub>(+100) | 3036<sub>(+58) | 3116<sub>(+62) |  |
-| 3.0 | 2025-12-21 | 2716<sub>(+new) | 2978<sub>(+new) | 3054<sub>(+new) |  |
+| 3.1 | 2026-04-03 | 2816<sub>(+98) | 3036<sub>(+58) | 3116<sub>(+62) |  |
+| 3.0 | 2025-12-21 | 2718<sub>(+new) | 2978<sub>(+new) | 3054<sub>(+new) |  |
 | 2.8 | 2019-11-01 |  |  |  |  |
 | 2.7 | 2019-04-03 |  |  |  |  |
 | 2.6.2 | 2018-11-30 |  |  |  |  |
@@ -34,7 +34,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-17 06:32:14
+Generated: 2026-06-18 06:33:11
 
 ## Ratings Verlauf
 
@@ -43,8 +43,8 @@ Generated: 2026-06-17 06:32:14
 xychart-beta
   x-axis ["3.0", "3.1", "3.2"]
   y-axis "Elo Rating" 2700 --> 3200
-  line "STC (8.0+0.08s)" [2716, 2816, 2840]
-  line "STC (8.0+0.08s)" [2716, 2816, 2840]
+  line "STC (8.0+0.08s)" [2718, 2816, 2840]
+  line "STC (8.0+0.08s)" [2718, 2816, 2840]
   line "LTC (60.0+0.60s)" [2978, 3036, 3108]
   line "VLTC (2m24s+1.12s)" [3054, 3116, 3156]
   line "VLTC (2m24s+1.12s)" [3054, 3116, 3156]
@@ -76,8 +76,8 @@ style E fill:none,stroke:none
 xychart-beta
   x-axis ["3.0", "3.1", "3.2"]
   y-axis "Elo Rating" 2700 --> 3200
-  line "STC (8.0+0.08s)" [2716, 2816, 2840]
-  line "STC (8.0+0.08s)" [2716, 2816, 2840]
+  line "STC (8.0+0.08s)" [2718, 2816, 2840]
+  line "STC (8.0+0.08s)" [2718, 2816, 2840]
   line "LTC (60.0+0.60s)" [2978, 3036, 3108]
   line "VLTC (2m24s+1.12s)" [3054, 3116, 3156]
   line "VLTC (2m24s+1.12s)" [3054, 3116, 3156]
@@ -93,7 +93,7 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3156 | 31 | 288 | 48% | 3170 | 53% |
+| 3.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3156 | 31 | 288 | 48% | 3171 | 53% |
 | 3.2 | LTC <sub>(60.0+0.60s)</sub> | 3108 | 31 | 308 | 50% | 3110 | 48% |
 | 3.2 | STC <sub>(8.0+0.08s)</sub> | 2840 | 32 | 304 | 49% | 2847 | 40% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -103,5 +103,5 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3054 | 31 | 318 | 52% | 3036 | 46% |
 | 3.0 | LTC <sub>(60.0+0.60s)</sub> | 2978 | 29 | 344 | 52% | 2958 | 44% |
-| 3.0 | STC <sub>(8.0+0.08s)</sub> | 2716 | 29 | 386 | 52% | 2685 | 37% |
+| 3.0 | STC <sub>(8.0+0.08s)</sub> | 2718 | 29 | 386 | 52% | 2685 | 37% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
