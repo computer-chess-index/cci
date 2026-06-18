@@ -11,8 +11,8 @@ Home: https://github.com/Koma1867/Soomi-V1-Chess-engine-in-golang
 | 1.2.0B | 2026-04-24 | 2024<sub>(+2) | 2226<sub>(-81) | 2364<sub>(-55) |  |
 | 1.2.0 | 2025-12-31 | 2022<sub>(+194) | 2307<sub>(+170) | 2419<sub>(+235) |  |
 | 1.1.8 | 2025-12-16 | 1828<sub>(-11) | 2137<sub>(+44) | 2184<sub>(+40) |  |
-| 1.1.7 | 2025-12-07 | 1839<sub>(+53) | 2093<sub>(-44) | 2144<sub>(-5) |  |
-| 1.1.6 | 2025-11-30 | 1786 | 2137 | 2149 |  |
+| 1.1.7 | 2025-12-07 | 1839<sub>(+53) | 2093<sub>(-44) | 2144<sub>(-7) |  |
+| 1.1.6 | 2025-11-30 | 1786 | 2137 | 2151 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Soomi+<version>&body=###%20Engine%20name%0ASoomi%0A%0A###%20Version%0A1.2.0B" target="_blank">Submit new version</a>
@@ -28,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-17 06:31:17
+Generated: 2026-06-18 06:32:15
 
 ## Ratings Verlauf
 
@@ -40,8 +40,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [1786, 1839, 1828, 2022, 2024]
   line "STC (8.0+0.08s)" [1786, 1839, 1828, 2022, 2024]
   line "LTC (60.0+0.60s)" [2137, 2093, 2137, 2307, 2226]
-  line "VLTC (2m24s+1.12s)" [2149, 2144, 2184, 2419, 2364]
-  line "VLTC (2m24s+1.12s)" [2149, 2144, 2184, 2419, 2364]
+  line "VLTC (2m24s+1.12s)" [2151, 2144, 2184, 2419, 2364]
+  line "VLTC (2m24s+1.12s)" [2151, 2144, 2184, 2419, 2364]
 ```
 
 ```mermaid
@@ -73,8 +73,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [1786, 1839, 1828, 2022, 2024]
   line "STC (8.0+0.08s)" [1786, 1839, 1828, 2022, 2024]
   line "LTC (60.0+0.60s)" [2137, 2093, 2137, 2307, 2226]
-  line "VLTC (2m24s+1.12s)" [2149, 2144, 2184, 2419, 2364]
-  line "VLTC (2m24s+1.12s)" [2149, 2144, 2184, 2419, 2364]
+  line "VLTC (2m24s+1.12s)" [2151, 2144, 2184, 2419, 2364]
+  line "VLTC (2m24s+1.12s)" [2151, 2144, 2184, 2419, 2364]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -103,7 +103,7 @@ xychart-beta
 | 1.1.7 | LTC <sub>(60.0+0.60s)</sub> | 2093 | 46 | 160 | 53% | 2064 | 26% |
 | 1.1.7 | STC <sub>(8.0+0.08s)</sub> | 1839 | 50 | 140 | 55% | 1783 | 22% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.1.6 | VLTC <sub>(2m24s+1.12s)</sub> | 2149 | 50 | 152 | 43% | 2237 | 18% |
+| 1.1.6 | VLTC <sub>(2m24s+1.12s)</sub> | 2151 | 50 | 152 | 43% | 2237 | 18% |
 | 1.1.6 | LTC <sub>(60.0+0.60s)</sub> | 2137 | 46 | 168 | 46% | 2180 | 24% |
 | 1.1.6 | STC <sub>(8.0+0.08s)</sub> | 1786 | 60 | 104 | 48% | 1818 | 18% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
