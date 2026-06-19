@@ -8,7 +8,7 @@ Home: https://github.com/hansbinderup/meltdown-chess-engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.11 | 2025-11-15 | 2658<sub>(+new) | 2849<sub>(+new) | 2911<sub>(+new) |  |
+| 1.11 | 2025-11-15 | 2658<sub>(+new) | 2849<sub>(+new) | 2909<sub>(+new) |  |
 | 1.10 | 2025-07-27 |  |  |  |  |
 | 1.9 | 2025-07-10 |  |  |  |  |
 | 1.8 | 2025-06-19 |  |  |  |  |
@@ -36,7 +36,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-18 06:29:33
+Generated: 2026-06-19 06:26:31
 
 
 
@@ -44,7 +44,7 @@ Generated: 2026-06-18 06:29:33
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.11 | VLTC <sub>(2m24s+1.12s)</sub> | 2911 | 27 | 432 | 50% | 2912 | 39% |
-| 1.11 | LTC <sub>(60.0+0.60s)</sub> | 2849 | 26 | 476 | 51% | 2839 | 38% |
-| 1.11 | STC <sub>(8.0+0.08s)</sub> | 2658 | 23 | 624 | 50% | 2643 | 36% |
+| 1.11 | VLTC <sub>(2m24s+1.12s)</sub> | 2909 | 27 | 432 | 50% | 2912 | 39% |
+| 1.11 | LTC <sub>(60.0+0.60s)</sub> | 2849 | 26 | 476 | 51% | 2838 | 38% |
+| 1.11 | STC <sub>(8.0+0.08s)</sub> | 2658 | 23 | 632 | 50% | 2643 | 36% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
