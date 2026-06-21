@@ -8,7 +8,7 @@ Home: https://github.com/tomcant/chess-rs
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.7.0 | 2025-12-31 | 1689<sub>(+18) | 1912<sub>(+58) | 2016<sub>(+41) |  |
+| 0.7.0 | 2025-12-31 | 1689<sub>(+18) | 1912<sub>(+58) | 2014<sub>(+39) |  |
 | 0.6.0 | 2025-11-11 | 1671<sub>(+new) | 1854<sub>(+new) | 1975<sub>(+new) |  |
 | 0.5.1 | 2025-11-04 |  |  |  | no public available .exe |
 | 0.5.0 | 2025-11-03 | 1573<sub>(+new) | 1785<sub>(+new) | 1882<sub>(+new) |  |
@@ -34,7 +34,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-20 06:23:31
+Generated: 2026-06-21 06:23:23
 
 ## Ratings Verlauf
 
@@ -46,8 +46,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [1573, 1671, 1689]
   line "STC (8.0+0.08s)" [1573, 1671, 1689]
   line "LTC (60.0+0.60s)" [1785, 1854, 1912]
-  line "VLTC (2m24s+1.12s)" [1882, 1975, 2016]
-  line "VLTC (2m24s+1.12s)" [1882, 1975, 2016]
+  line "VLTC (2m24s+1.12s)" [1882, 1975, 2014]
+  line "VLTC (2m24s+1.12s)" [1882, 1975, 2014]
 ```
 
 ```mermaid
@@ -79,8 +79,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [1573, 1671, 1689]
   line "STC (8.0+0.08s)" [1573, 1671, 1689]
   line "LTC (60.0+0.60s)" [1785, 1854, 1912]
-  line "VLTC (2m24s+1.12s)" [1882, 1975, 2016]
-  line "VLTC (2m24s+1.12s)" [1882, 1975, 2016]
+  line "VLTC (2m24s+1.12s)" [1882, 1975, 2014]
+  line "VLTC (2m24s+1.12s)" [1882, 1975, 2014]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -93,7 +93,7 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.7.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2016 | 26 | 540 | 49% | 2028 | 21% |
+| 0.7.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2014 | 26 | 544 | 49% | 2026 | 21% |
 | 0.7.0 | LTC <sub>(60.0+0.60s)</sub> | 1912 | 25 | 570 | 49% | 1920 | 23% |
 | 0.7.0 | STC <sub>(8.0+0.08s)</sub> | 1689 | 25 | 614 | 50% | 1682 | 18% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
