@@ -8,7 +8,7 @@ Home: https://github.com/P1X3R/zugblitz
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.3.2 | 2026-06-13 | 1835<sub>(-16) | 2076<sub>(-58) | 2199<sub>(+24) |  |
+| 1.3.2 | 2026-06-13 | 1825<sub>(-26) | 2076<sub>(-58) | 2196<sub>(+21) |  |
 | 1.3.1 | 2026-01-10 | 1851 | 2134 | 2175 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-20 06:44:33
+Generated: 2026-06-21 06:33:17
 
 ## Ratings Verlauf
 
@@ -34,11 +34,11 @@ Generated: 2026-06-20 06:44:33
 xychart-beta
   x-axis ["1.3.1", "1.3.2"]
   y-axis "Elo Rating" 1800 --> 2200
-  line "STC (8.0+0.08s)" [1851, 1835]
-  line "STC (8.0+0.08s)" [1851, 1835]
+  line "STC (8.0+0.08s)" [1851, 1825]
+  line "STC (8.0+0.08s)" [1851, 1825]
   line "LTC (60.0+0.60s)" [2134, 2076]
-  line "VLTC (2m24s+1.12s)" [2175, 2199]
-  line "VLTC (2m24s+1.12s)" [2175, 2199]
+  line "VLTC (2m24s+1.12s)" [2175, 2196]
+  line "VLTC (2m24s+1.12s)" [2175, 2196]
 ```
 
 ```mermaid
@@ -67,11 +67,11 @@ style E fill:none,stroke:none
 xychart-beta
   x-axis ["1.3.1", "1.3.2"]
   y-axis "Elo Rating" 1800 --> 2200
-  line "STC (8.0+0.08s)" [1851, 1835]
-  line "STC (8.0+0.08s)" [1851, 1835]
+  line "STC (8.0+0.08s)" [1851, 1825]
+  line "STC (8.0+0.08s)" [1851, 1825]
   line "LTC (60.0+0.60s)" [2134, 2076]
-  line "VLTC (2m24s+1.12s)" [2175, 2199]
-  line "VLTC (2m24s+1.12s)" [2175, 2199]
+  line "VLTC (2m24s+1.12s)" [2175, 2196]
+  line "VLTC (2m24s+1.12s)" [2175, 2196]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -84,9 +84,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.3.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2199 | 36 | 240 | 51% | 2192 | 35% |
+| 1.3.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2196 | 36 | 252 | 50% | 2210 | 35% |
 | 1.3.2 | LTC <sub>(60.0+0.60s)</sub> | 2076 | 34 | 284 | 54% | 2043 | 33% |
-| 1.3.2 | STC <sub>(8.0+0.08s)</sub> | 1835 | 38 | 236 | 50% | 1837 | 26% |
+| 1.3.2 | STC <sub>(8.0+0.08s)</sub> | 1825 | 37 | 248 | 49% | 1836 | 27% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2175 | 27 | 456 | 49% | 2183 | 35% |
 | 1.3.1 | LTC <sub>(60.0+0.60s)</sub> | 2134 | 28 | 422 | 49% | 2141 | 28% |
