@@ -8,8 +8,8 @@ Home: https://github.com/GoldenRare/Revolver
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0 | 2026-05-01 | 2516<sub>(+267) | 2763<sub>(+270) | 2812<sub>(+260) |  |
-| 1.0 | 2026-01-01 | 2249 | 2493 | 2552 |  |
+| 2.0 | 2026-05-01 | 2516<sub>(+267) | 2765<sub>(+272) | 2813<sub>(+260) |  |
+| 1.0 | 2026-01-01 | 2249 | 2493 | 2553 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Revolver+<version>&body=###%20Engine%20name%0ARevolver%0A%0A###%20Version%0A2.0" target="_blank">Submit new version</a>
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-21 06:27:42
+Generated: 2026-06-22 06:28:30
 
 ## Ratings Verlauf
 
@@ -36,9 +36,9 @@ xychart-beta
   y-axis "Elo Rating" 2200 --> 2900
   line "STC (8.0+0.08s)" [2249, 2516]
   line "STC (8.0+0.08s)" [2249, 2516]
-  line "LTC (60.0+0.60s)" [2493, 2763]
-  line "VLTC (2m24s+1.12s)" [2552, 2812]
-  line "VLTC (2m24s+1.12s)" [2552, 2812]
+  line "LTC (60.0+0.60s)" [2493, 2765]
+  line "VLTC (2m24s+1.12s)" [2553, 2813]
+  line "VLTC (2m24s+1.12s)" [2553, 2813]
 ```
 
 ```mermaid
@@ -69,9 +69,9 @@ xychart-beta
   y-axis "Elo Rating" 2200 --> 2900
   line "STC (8.0+0.08s)" [2249, 2516]
   line "STC (8.0+0.08s)" [2249, 2516]
-  line "LTC (60.0+0.60s)" [2493, 2763]
-  line "VLTC (2m24s+1.12s)" [2552, 2812]
-  line "VLTC (2m24s+1.12s)" [2552, 2812]
+  line "LTC (60.0+0.60s)" [2493, 2765]
+  line "VLTC (2m24s+1.12s)" [2553, 2813]
+  line "VLTC (2m24s+1.12s)" [2553, 2813]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -84,11 +84,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2812 | 29 | 364 | 52% | 2789 | 40% |
-| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 2763 | 28 | 408 | 51% | 2750 | 40% |
+| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2813 | 29 | 364 | 52% | 2790 | 40% |
+| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 2765 | 27 | 420 | 51% | 2753 | 39% |
 | 2.0 | STC <sub>(8.0+0.08s)</sub> | 2516 | 31 | 356 | 51% | 2504 | 28% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2552 | 27 | 450 | 46% | 2593 | 32% |
+| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2553 | 27 | 450 | 46% | 2593 | 32% |
 | 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2493 | 29 | 408 | 49% | 2503 | 25% |
 | 1.0 | STC <sub>(8.0+0.08s)</sub> | 2249 | 26 | 516 | 51% | 2236 | 29% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
