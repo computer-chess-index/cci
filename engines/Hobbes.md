@@ -8,9 +8,9 @@ Home: https://github.com/kelseyde/hobbes-chess-engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1 | 2026-05-26 |  |  |  |  |
+| 2.1 | 2026-05-26 | 3359<sub>(+new) |  |  |  |
 | 2.0 | 2026-05-25 |  |  |  |  |
-| 1.0 | 2026-03-05 | 3355 | 3487 | 3501 |  |
+| 1.0 | 2026-03-05 | 3356 | 3488 | 3502 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Hobbes+<version>&body=###%20Engine%20name%0AHobbes%0A%0A###%20Version%0A2.1" target="_blank">Submit new version</a>
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-21 06:25:02
+Generated: 2026-06-22 06:25:28
 
 
 
@@ -34,7 +34,9 @@ Generated: 2026-06-21 06:25:02
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3501 | 25 | 378 | 51% | 3491 | 90% |
-| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 3487 | 26 | 350 | 51% | 3476 | 87% |
-| 1.0 | STC <sub>(8.0+0.08s)</sub> | 3355 | 23 | 484 | 53% | 3325 | 73% |
+| 2.1 | STC <sub>(8.0+0.08s)</sub> | 3359 | 118 | 16 | 53% | 3339 | 81% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3502 | 25 | 378 | 51% | 3492 | 90% |
+| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 3488 | 26 | 350 | 51% | 3476 | 87% |
+| 1.0 | STC <sub>(8.0+0.08s)</sub> | 3356 | 23 | 484 | 53% | 3326 | 73% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
