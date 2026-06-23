@@ -8,8 +8,8 @@ Home: https://github.com/Wind-Eagle/Quirky
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0 | 2026-05-16 | 782<sub>(-2162) | 2018<sub>(-1159) | 1170<sub>(-2069) |  |
-| 2.1 | 2025-11-25 | 2944<sub>(+new) | 3177<sub>(+new) | 3239<sub>(+new) |  |
+| 3.0 | 2026-05-16 | 788<sub>(-2158) | 2018<sub>(-1159) | 1173<sub>(-2066) |  |
+| 2.1 | 2025-11-25 | 2946<sub>(+new) | 3177<sub>(+new) | 3239<sub>(+new) |  |
 | 2.0 | 2025-08-30 |  |  |  |  |
 | 1.0 | 2025-05-04 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-22 06:28:12
+Generated: 2026-06-23 06:28:42
 
 ## Ratings Verlauf
 
@@ -36,11 +36,11 @@ Generated: 2026-06-22 06:28:12
 xychart-beta
   x-axis ["2.1", "3.0"]
   y-axis "Elo Rating" 700 --> 3300
-  line "STC (8.0+0.08s)" [2944, 782]
-  line "STC (8.0+0.08s)" [2944, 782]
+  line "STC (8.0+0.08s)" [2946, 788]
+  line "STC (8.0+0.08s)" [2946, 788]
   line "LTC (60.0+0.60s)" [3177, 2018]
-  line "VLTC (2m24s+1.12s)" [3239, 1170]
-  line "VLTC (2m24s+1.12s)" [3239, 1170]
+  line "VLTC (2m24s+1.12s)" [3239, 1173]
+  line "VLTC (2m24s+1.12s)" [3239, 1173]
 ```
 
 ```mermaid
@@ -69,11 +69,11 @@ style E fill:none,stroke:none
 xychart-beta
   x-axis ["2.1", "3.0"]
   y-axis "Elo Rating" 700 --> 3300
-  line "STC (8.0+0.08s)" [2944, 782]
-  line "STC (8.0+0.08s)" [2944, 782]
+  line "STC (8.0+0.08s)" [2946, 788]
+  line "STC (8.0+0.08s)" [2946, 788]
   line "LTC (60.0+0.60s)" [3177, 2018]
-  line "VLTC (2m24s+1.12s)" [3239, 1170]
-  line "VLTC (2m24s+1.12s)" [3239, 1170]
+  line "VLTC (2m24s+1.12s)" [3239, 1173]
+  line "VLTC (2m24s+1.12s)" [3239, 1173]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -86,11 +86,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1170 | 23 | 1574 | 21% | 1708 | 3% |
-| 3.0 | LTC <sub>(60.0+0.60s)</sub> | 2018 | 25 | 824 | 37% | 2202 | 2% |
-| 3.0 | STC <sub>(8.0+0.08s)</sub> | 782 | 38 | 368 | 46% | 968 | 17% |
+| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1173 | 22 | 1578 | 21% | 1706 | 3% |
+| 3.0 | LTC <sub>(60.0+0.60s)</sub> | 2018 | 25 | 824 | 37% | 2203 | 2% |
+| 3.0 | STC <sub>(8.0+0.08s)</sub> | 788 | 38 | 372 | 46% | 965 | 17% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3239 | 22 | 564 | 54% | 3210 | 59% |
+| 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3239 | 22 | 564 | 54% | 3212 | 59% |
 | 2.1 | LTC <sub>(60.0+0.60s)</sub> | 3177 | 25 | 438 | 52% | 3158 | 63% |
-| 2.1 | STC <sub>(8.0+0.08s)</sub> | 2944 | 23 | 552 | 50% | 2925 | 44% |
+| 2.1 | STC <sub>(8.0+0.08s)</sub> | 2946 | 23 | 552 | 50% | 2927 | 44% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
