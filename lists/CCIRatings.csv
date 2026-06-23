@@ -1,194 +1,197 @@
 Engine,Version,Published,STC,LTC,VLTC,Author,Home
-Stockfish,18.0,2026-01-31,3495,3571,3603,"<a href=""https://github.com/official-stockfish/Stockfish/blob/master/AUTHORS"" target=""_blank"">Stockfish Authors</a>",https://github.com/official-stockfish/Stockfish
-Reckless,0.9.0,2026-03-01,3465,3555,3583,Arseniy Surkov,https://github.com/codedeliveryservice/Reckless
-Crystal,9,2025-05-09,3411,3551,3579,Joseph Ellis,https://github.com/jhellis3/Stockfish
-Shashchess,41.2,2026-03-31,3479,3571,3579,Andrea Manzo,https://github.com/amchess/ShashChess
-Obsidian,16.0,2025-05-21,3422,3541,3568,Gabriele Lombardo,https://github.com/gab8192/Obsidian
-Alexandria,9.0,2026-02-27,3409,3526,3560,PGG106,https://github.com/PGG106/Alexandria
-Astra,7.0,2026-05-26,3401,3540,3556,Semih Özalp,https://github.com/h1me01/Astra
-Tarnished,6.0,2026-06-10,3339,3524,3549,Anik Patel,https://github.com/Bobingstern/Tarnished
-PlentyChess,7.0.0,2025-09-25,3420,3548,3544,Patrick Leonhardt,https://github.com/Yoshie2000/PlentyChess
-Sugar,2.50,2021-11-15,3383,3518,3544,,
-Caissa,1.25,2026-04-05,3372,3514,3540,Michał Witanowski,https://github.com/Witek902/Caissa
-Viridithas,19.0.1,2026-01-06,3391,3513,3537,Cosmo Bobak,https://github.com/cosmobobak/viridithas
-Stormphrax,7.0.0,2025-06-24,3335,3499,3537,Ciekce,https://github.com/Ciekce/Stormphrax
-Halogen,16.0.0,2026-02-10,3345,3507,3536,Kieren Pearson,https://github.com/KierenP/Halogen
-Pawnocchio,1.9.2,2026-01-15,3360,3524,3534,Jonathan Hallström,https://github.com/JonathanHallstrom/pawnocchio
-Clover,9.1,2025-09-14,3368,3518,3532,Luca Metehau,https://github.com/lucametehau/CloverEngine
-Integral,7.0,2025-02-14,3352,3503,3526,Aron Petkovski,https://github.com/aronpetko/integral
-Quanticade,3.0,2025-12-15,3329,3499,3526,Martin Botka,https://github.com/Quanticade/Quanticade
-Raphael,4.1.0,2026-05-17,3376,3483,3526,Rei Meguro,https://github.com/Orbital-Web/Raphael
-PZChessBot,7.0,2026-05-07,3281,3467,3517,Kevin Lu,https://github.com/kevlu8/PZChessBot
-Icarus,1.1,2026-06-05,3324,3475,3517,,https://github.com/Sp00ph/icarus
-Motor,0.9.0,2025-06-02,3318,3483,3517,Martin Novák,https://github.com/martinnovaak/motor
-Horsie,1.1,2025-05-13,3335,3482,3514,Liam McGuire,https://github.com/liamt19/Horsie
-Renegade,1.3.0,2026-06-17,3318,3513,3509,Krisztián Peőcz,https://github.com/pkrisz99/Renegade
-Rubichess,20240817,2024-08-17,3326,3472,3506,Andreas Matthies,https://github.com/Matthies/RubiChess
-Lizard,11.2,2025-01-08,3287,3467,3499,Liam McGuire,https://github.com/liamt19/Lizard
-Starzix,6.1,2025-04-06,3317,3471,3495,zzzzz,https://github.com/zzzzz151/Starzix
-Cinder,0.4.1,2025-12-05,3336,3460,3491,Bruno Dutra,https://github.com/brunocodutra/cinder
-Arasan,25.4,2026-04-15,3222,3422,3475,Jon Dart,https://github.com/jdart1/arasan-chess
-Booot,7.4,2025-02-25,3218,3430,3468,Alex Morozov,https://github.com/booot76/Booot-chess-engine
-Revenge,4.0.7,2025-01-01,3266,3437,3467,Fabio Gobbato,https://www.revengechess.com/
-Seer,2.8,2023-12-31,3254,3421,3455,Connor McMonigle,https://github.com/connormcmonigle/seer-nnue
-Titan,1.1,2024-06-09,3231,3418,3453,Jeff Powell,https://github.com/jeff-pow/Titan
-Clarity,8.0.0,2025-07-09,3256,3405,3453,Joseph Pasfield,https://github.com/Vast342/Clarity
-Velvet,8.1.1,2024-11-06,3266,3429,3453,Mhonert,https://github.com/mhonert/velvet-chess
-Tcheran,12.0,2026-05-08,3270,3414,3449,Jonathan Gilchrist,https://github.com/tcheran-chess/tcheran
-Spaghet,3.1.0,2024-08-12,3201,3406,3448,Li Ying,https://github.com/yl25946/spaghet
-rofChade,3.1,2023-10-01,3205,3403,3445,Ronald Friederich,https://rofchade.nl/
-Koivisto,9.0,2023-01-15,3258,3405,3443,Finn Eggers,https://github.com/Luecx/Koivisto
-Rebel,16.2,2024-03-11,3189,3398,3443,Ed Schroder,
-Igel,3.6.0,2024-12-28,3167,3390,3443,Volodymyr Shcherbyna,https://github.com/vshcherbyna/igel
-Clarity,8.0.0,2025-07-09,3228,3428,3428,Joseph Pasfield,https://github.com/Vast342/Clarity
-Alexander,8.3,2026-04-01,3140,3367,3418,Andrea Manzo,https://github.com/amchess/Alexander
-Winter,5.0,2026-05-27,3001,3406,3417,Jonathan Rosenthal,https://github.com/rosenthj/Winter
-Fire,10.0,2025-08-09,3137,3362,3413,Norman Schmidt,https://github.com/Firefather/fire
-Minke,6.0.0,2026-04-25,3147,3355,3411,Eduardo Marinho,https://github.com/enfmarinho/Minke
-Heimdall,1.4.2,2025-09-25,3106,3353,3407,Mattia Giambirtone,https://github.com/nocturn9x/heimdall
-Eleanor,4.1,2026-04-21,3144,3380,3406,Mark Kasa,https://github.com/rektdie/Eleanor
-Blackmarlin,9.0,2024-02-28,3170,3364,3401,Doruk Sekercioglu,https://github.com/jnlt3/blackmarlin
-Zangdar,6.1.1,2026-02-25,3189,3359,3384,Carbecq,https://github.com/Carbecq/Zangdar
-Ynode,0234,2026-03-22,3112,3318,3378,oozturk777,https://github.com/oozturk777/ynode
-Akimbo,1.0.0,2024-05-26,3148,3335,3378,Jamie Whiting,https://github.com/jw1912/akimbo
-Prune,3.2.1,2026-02-24,3079,3309,3367,Thomas Girolami,https://github.com/tgirolami09/Prune
-Altair,7.0.0,2024-02-17,3141,3340,3357,Alexander Tian,https://github.com/Alex2262/AltairChessEngine
-Lambergar,1.5,2026-05-28,3033,3167,3356,Jabolcni Strudelj,https://github.com/jabolcni/Lambergar
-Yukari,2025.11.1,2025-10-31,3093,3295,3355,Yukari Chess,https://github.com/yukarichess/yukari
-Lunar,0.4.0,2025-09-23,2823,3212,3349,Patrick Hilhorst,https://github.com/Synthetica9/lunar
-Carp,3.0.1,2023-09-25,3000,3255,3321,Andrea Sgobbi,https://github.com/dede1751/carp
-Komodo,14.1,2020-11-01,2993,3249,3309,"Dailey Don, Lefler Mark, Kaufmann Larry",
-Bagatur,5.5c,2026-05-30,2930,3227,3294,Krasimir Topchiyski,https://github.com/bagaturchess/Bagatur
-Prelude,2.1,2025-12-10,3027,3251,3291,,https://github.com/Quinniboi10/Prelude
+Stockfish,18.0,2026-01-31,3497,3572,3605,"<a href=""https://github.com/official-stockfish/Stockfish/blob/master/AUTHORS"" target=""_blank"">Stockfish Authors</a>",https://github.com/official-stockfish/Stockfish
+Reckless,0.9.0,2026-03-01,3467,3556,3584,Arseniy Surkov,https://github.com/codedeliveryservice/Reckless
+Shashchess,41.2,2026-03-31,3480,3572,3580,Andrea Manzo,https://github.com/amchess/ShashChess
+Crystal,9,2025-05-09,3411,3552,3580,Joseph Ellis,https://github.com/jhellis3/Stockfish
+Astra,7.0,2026-05-26,3406,3542,3568,Semih Özalp,https://github.com/h1me01/Astra
+Obsidian,16.0,2025-05-21,3424,3542,3568,Gabriele Lombardo,https://github.com/gab8192/Obsidian
+Alexandria,9.0,2026-02-27,3410,3528,3561,PGG106,https://github.com/PGG106/Alexandria
+Tarnished,6.0,2026-06-10,3340,3525,3546,Anik Patel,https://github.com/Bobingstern/Tarnished
+PlentyChess,7.0.0,2025-09-25,3421,3549,3545,Patrick Leonhardt,https://github.com/Yoshie2000/PlentyChess
+Sugar,2.50,2021-11-15,3384,3519,3545,,
+Caissa,1.25,2026-04-05,3371,3515,3542,Michał Witanowski,https://github.com/Witek902/Caissa
+Viridithas,19.0.1,2026-01-06,3391,3514,3538,Cosmo Bobak,https://github.com/cosmobobak/viridithas
+Stormphrax,7.0.0,2025-06-24,3336,3501,3538,Ciekce,https://github.com/Ciekce/Stormphrax
+Halogen,16.0.0,2026-02-10,3347,3509,3537,Kieren Pearson,https://github.com/KierenP/Halogen
+Pawnocchio,1.9.2,2026-01-15,3362,3525,3536,Jonathan Hallström,https://github.com/JonathanHallstrom/pawnocchio
+Clover,9.1,2025-09-14,3370,3519,3533,Luca Metehau,https://github.com/lucametehau/CloverEngine
+Quanticade,3.0,2025-12-15,3330,3501,3528,Martin Botka,https://github.com/Quanticade/Quanticade
+Integral,7.0,2025-02-14,3352,3505,3528,Aron Petkovski,https://github.com/aronpetko/integral
+Raphael,4.1.0,2026-05-17,3378,3484,3526,Rei Meguro,https://github.com/Orbital-Web/Raphael
+Icarus,1.1,2026-06-05,3325,3476,3518,,https://github.com/Sp00ph/icarus
+Motor,0.9.0,2025-06-02,3318,3484,3517,Martin Novák,https://github.com/martinnovaak/motor
+PZChessBot,7.0,2026-05-07,3282,3470,3517,Kevin Lu,https://github.com/kevlu8/PZChessBot
+Horsie,1.1,2025-05-13,3336,3483,3515,Liam McGuire,https://github.com/liamt19/Horsie
+Hobbes,2.1,2026-05-26,3360,3455,3514,Dan Kelsey,https://github.com/kelseyde/hobbes-chess-engine
+Renegade,1.3.0,2026-06-17,3322,3514,3510,Krisztián Peőcz,https://github.com/pkrisz99/Renegade
+Rubichess,20240817,2024-08-17,3328,3474,3507,Andreas Matthies,https://github.com/Matthies/RubiChess
+Lizard,11.2,2025-01-08,3289,3468,3501,Liam McGuire,https://github.com/liamt19/Lizard
+Starzix,6.1,2025-04-06,3318,3472,3497,zzzzz,https://github.com/zzzzz151/Starzix
+Cinder,0.4.1,2025-12-05,3337,3460,3492,Bruno Dutra,https://github.com/brunocodutra/cinder
+Arasan,25.4,2026-04-15,3224,3424,3474,Jon Dart,https://github.com/jdart1/arasan-chess
+Booot,7.4,2025-02-25,3220,3432,3470,Alex Morozov,https://github.com/booot76/Booot-chess-engine
+Revenge,4.0.7,2025-01-01,3266,3438,3468,Fabio Gobbato,https://www.revengechess.com/
+Seer,2.8,2023-12-31,3255,3422,3456,Connor McMonigle,https://github.com/connormcmonigle/seer-nnue
+Titan,1.1,2024-06-09,3231,3420,3455,Jeff Powell,https://github.com/jeff-pow/Titan
+Clarity,8.0.0,2025-07-09,3258,3406,3455,Joseph Pasfield,https://github.com/Vast342/Clarity
+Velvet,8.1.1,2024-11-06,3266,3430,3455,Mhonert,https://github.com/mhonert/velvet-chess
+Tcheran,12.0,2026-05-08,3271,3414,3451,Jonathan Gilchrist,https://github.com/tcheran-chess/tcheran
+Spaghet,3.1.0,2024-08-12,3204,3407,3449,Li Ying,https://github.com/yl25946/spaghet
+rofChade,3.1,2023-10-01,3206,3405,3447,Ronald Friederich,https://rofchade.nl/
+Rebel,16.2,2024-03-11,3190,3399,3444,Ed Schroder,
+Koivisto,9.0,2023-01-15,3258,3406,3444,Finn Eggers,https://github.com/Luecx/Koivisto
+Igel,3.6.0,2024-12-28,3167,3391,3444,Volodymyr Shcherbyna,https://github.com/vshcherbyna/igel
+Clarity,8.0.0,2025-07-09,3229,3429,3429,Joseph Pasfield,https://github.com/Vast342/Clarity
+Alexander,8.3,2026-04-01,3140,3368,3418,Andrea Manzo,https://github.com/amchess/Alexander
+Fire,10.0,2025-08-09,3137,3363,3414,Norman Schmidt,https://github.com/Firefather/fire
+Minke,6.0.0,2026-04-25,3148,3356,3413,Eduardo Marinho,https://github.com/enfmarinho/Minke
+Heimdall,1.4.2,2025-09-25,3106,3355,3409,Mattia Giambirtone,https://github.com/nocturn9x/heimdall
+Eleanor,4.1,2026-04-21,3146,3379,3407,Mark Kasa,https://github.com/rektdie/Eleanor
+Blackmarlin,9.0,2024-02-28,3171,3366,3402,Doruk Sekercioglu,https://github.com/jnlt3/blackmarlin
+Winter,5.0,2026-05-27,3001,3410,3399,Jonathan Rosenthal,https://github.com/rosenthj/Winter
+Zangdar,6.1.1,2026-02-25,3189,3360,3386,Carbecq,https://github.com/Carbecq/Zangdar
+Akimbo,1.0.0,2024-05-26,3150,3336,3379,Jamie Whiting,https://github.com/jw1912/akimbo
+Ynode,0234,2026-03-22,3114,3320,3379,oozturk777,https://github.com/oozturk777/ynode
+Prune,3.2.1,2026-02-24,3082,3310,3368,Thomas Girolami,https://github.com/tgirolami09/Prune
+Lambergar,1.5,2026-05-28,3017,3191,3359,Jabolcni Strudelj,https://github.com/jabolcni/Lambergar
+Altair,7.0.0,2024-02-17,3143,3341,3359,Alexander Tian,https://github.com/Alex2262/AltairChessEngine
+Yukari,2025.11.1,2025-10-31,3093,3297,3356,Yukari Chess,https://github.com/yukarichess/yukari
+Lunar,0.4.0,2025-09-23,2823,3213,3351,Patrick Hilhorst,https://github.com/Synthetica9/lunar
+Carp,3.0.1,2023-09-25,3001,3256,3322,Andrea Sgobbi,https://github.com/dede1751/carp
+Komodo,14.1,2020-11-01,2994,3251,3310,"Dailey Don, Lefler Mark, Kaufmann Larry",
+Bagatur,5.5c,2026-05-30,2934,3228,3295,Krasimir Topchiyski,https://github.com/bagaturchess/Bagatur
+Prelude,2.1,2025-12-10,3028,3251,3293,,https://github.com/Quinniboi10/Prelude
+Arcanum,2.8,2026-05-16,2909,3217,3275,Lars Aurud,https://github.com/LarsAur/Arcanum
 Pedone,3.1,2021-04-01,2936,3209,3275,Fabio Gobbato,
-Arcanum,2.8,2026-05-16,2908,3216,3274,Lars Aurud,https://github.com/LarsAur/Arcanum
-Malika,1.116,2026-05-07,3027,3227,3272,Fauzi Dabat Akram,https://github.com/FauziAkram/Malika-releases
-Petrel,3.5,2026-06-02,3006,3182,3268,Aleks Peshkov,https://github.com/AleksPeshkov/petrel
-Grail,2.0.1,2026-06-10,2921,3195,3263,Jorgen Hanssen,https://github.com/jorgenhanssen/grail
-Theoria,0.2,2026-02-21,3233,3262,3251,,https://www.theoriachess.org/
-SoloEngine,2.2.0,2026-06-06,2830,3114,3232,Yunus Emre Yıldız,https://github.com/yunusemreyldz07/SoloEngine
-Chessnix,1.4,2026-04-28,2865,3125,3217,Langedijk Eric,https://github.com/ericlangedijk/chessnix/
-ChessSystemTal,Extreme,2026-01-07,2917,3163,3210,Chris Wittington,
-Tunguska,2.1,2026-04-08,2808,3124,3197,Fernando Tenorio,https://github.com/fernandotenorio/Tunguska
-Lynx,1.11.0,2025-10-01,2820,3128,3195,Eduardo Caceres,https://github.com/lynx-chess/Lynx
-Bitbit,1.6,2025-10-18,2894,3125,3194,Isak Ellmer,https://github.com/Spinojara/bitbit
-Cwtch,5,2026-04-06,2871,3125,3193,Colin Jenkins,https://github.com/op12no2/cwtch
-RukChess,4.2.0,2026-01-11,2804,3113,3181,Ilya Rukavishnikov,https://github.com/Ilya-Ruk/RukChess
-Odonata,1.1.0,2026-02-07,2822,3137,3181,Andy Watkins,https://github.com/akanalytics/odonata
-Lc0,0.32.1,2025-11-23,2403,2993,3160,https://lczero.org/,https://github.com/LeelaChessZero/lc0
-Maelstrom,3.3.0,2025-08-27,2731,3050,3158,Saigautam Bonam,https://github.com/saisree27/Maelstrom
-Vajolet2,3.2,2026-05-17,2838,3105,3155,Marco Belli,https://github.com/elcabesa/vajolet
-Sturddle2,2.5.0,2026-02-04,2689,3012,3152,Cristian Vlasceanu,https://github.com/cristivlas/sturddle-2
-C4ke,3.0,2026-01-05,2730,3077,3124,,https://github.com/citrus610/c4ke
-Catalyst,3.0.0,2026-04-23,2650,3067,3119,Anany Tanwar,https://github.com/AnanyTanwar/Catalyst
-Myrddin,0.96,2026-06-08,2754,3047,3113,John Merlino,https://github.com/JVMerlino/Myrddin
-Laser,1.7,2019-02-07,2774,3046,3109,Jeffrey An,https://github.com/jeffreyan11/laser-chess-engine
-Princhess,0.21.0,2025-10-13,2823,3066,3105,Lana Samson,https://github.com/princesslana/princhess
-Monolith,3.0,2026-04-04,2770,3021,3105,Jonas Mayr,https://github.com/cimarronOST/Monolith
-Gyatso,1.4.0,2026-06-05,2691,3016,3101,Gyatso Neesham,https://github.com/GyatsoYT/GyatsoChess
-Gilipol,2.00,2026-06-06,2660,2978,3098,José Carlos Martínez Galán,https://github.com/Lacovipo/Gilipol
-Yakka,1.5,2026-01-22,2754,3019,3096,Christopher Crone,https://github.com/CJDalrymple/Yakka
-Tornado,9.0,2020-12-15,2128,2943,3092,Engin Ustun,
-Kobra,2.1,2026-03-03,2697,3002,3079,Jasper Sinclair,https://github.com/jasper-sinclair/kobra
-Dog,4.10.2,2025-12-05,2795,3020,3078,Folkert van Heusden,https://github.com/folkertvanheusden/Dog
-Gull,3,2015-11-18,2734,2985,3067,Demichev Vadim,https://github.com/basil00/Gull
-Pea,9.0,2026-06-01,2684,3044,3055,Warre Gevers,https://github.com/WGCodings/Pea
-Roc,1.11,2026-05-11,2743,2924,3023,Tom Hyer,https://github.com/TomHyer/Roc
-Anubis,3.0.6,2025-10-02,2472,2898,3020,Jose Carlos Martinez Galan,https://github.com/Lacovipo/Anubis-chess-engine
-NirvanaChess,2.5,2020-12-01,2670,2942,3017,Thomas Kolarik,
-Equinox,3.30,2014-12-01,2699,2955,3012,"Claudio del la Corte, Stefano Rocchi",
-Gecko,0.40,2026-06-11,2665,2981,3008,Bingwen Yang,https://github.com/sgtqwq/Gecko
-Pounce,3.0.0,2025-10-13,2705,2962,3001,Alex Flick,https://github.com/0xflick/pounce
-Ice4,6.1,2025-10-27,2538,2913,3000,Carlson Mark,https://github.com/MinusKelvin/ice4
-Sable,1.6,2026-06-13,2576,2961,2982,Dylan,https://github.com/dylan2554/sable
-Crafty,25.2.1,2026-06-20,2514,2761,2977,Robert M. Hyatt,https://github.com/stevemaughan/Crafty-Chess
-4kc,9.0,2026-06-06,2530,2849,2948,Gediminas Masaitis,https://github.com/GediminasMasaitis/4k-dot-c
-Weak,1.0.0,2025-08-11,2527,2870,2915,Ethan Pan,https://github.com/Dragjon/weak-chess-engine
-Meltdown,1.11,2025-11-15,2658,2850,2911,"Hans Binderup, Clara Shepherd",https://github.com/hansbinderup/meltdown-chess-engine
-FoxChess,1.2,2026-06-20,2523,2853,2903,Nathan Faltermeier,https://github.com/nfaltermeier/fox-chess
+Malika,1.116,2026-05-07,3027,3228,3274,Fauzi Dabat Akram,https://github.com/FauziAkram/Malika-releases
+Petrel,3.5,2026-06-02,3006,3183,3270,Aleks Peshkov,https://github.com/AleksPeshkov/petrel
+Grail,2.0.1,2026-06-10,2921,3194,3264,Jorgen Hanssen,https://github.com/jorgenhanssen/grail
+Theoria,0.2,2026-02-21,3235,3262,3252,,https://www.theoriachess.org/
+SoloEngine,2.2.0,2026-06-06,2832,3117,3233,Yunus Emre Yıldız,https://github.com/yunusemreyldz07/SoloEngine
+Chessnix,1.4,2026-04-28,2866,3127,3218,Langedijk Eric,https://github.com/ericlangedijk/chessnix/
+ChessSystemTal,Extreme,2026-01-07,2916,3164,3212,Chris Wittington,
+Tunguska,2.1,2026-04-08,2808,3127,3198,Fernando Tenorio,https://github.com/fernandotenorio/Tunguska
+Lynx,1.11.0,2025-10-01,2822,3129,3197,Eduardo Caceres,https://github.com/lynx-chess/Lynx
+Bitbit,1.6,2025-10-18,2896,3127,3194,Isak Ellmer,https://github.com/Spinojara/bitbit
+Cwtch,5,2026-04-06,2873,3125,3194,Colin Jenkins,https://github.com/op12no2/cwtch
+RukChess,4.2.0,2026-01-11,2805,3113,3182,Ilya Rukavishnikov,https://github.com/Ilya-Ruk/RukChess
+Odonata,1.1.0,2026-02-07,2823,3139,3182,Andy Watkins,https://github.com/akanalytics/odonata
+Lc0,0.32.1,2025-11-23,2403,2994,3162,https://lczero.org/,https://github.com/LeelaChessZero/lc0
+Maelstrom,3.3.0,2025-08-27,2731,3051,3159,Saigautam Bonam,https://github.com/saisree27/Maelstrom
+Vajolet2,3.2,2026-05-17,2839,3108,3155,Marco Belli,https://github.com/elcabesa/vajolet
+Sturddle2,2.5.0,2026-02-04,2691,3013,3154,Cristian Vlasceanu,https://github.com/cristivlas/sturddle-2
+C4ke,3.0,2026-01-05,2731,3078,3125,,https://github.com/citrus610/c4ke
+Catalyst,3.0.0,2026-04-23,2651,3069,3120,Anany Tanwar,https://github.com/AnanyTanwar/Catalyst
+Myrddin,0.96,2026-06-08,2750,3046,3110,John Merlino,https://github.com/JVMerlino/Myrddin
+Laser,1.7,2019-02-07,2776,3047,3110,Jeffrey An,https://github.com/jeffreyan11/laser-chess-engine
+Monolith,3.0,2026-04-04,2770,3023,3106,Jonas Mayr,https://github.com/cimarronOST/Monolith
+Princhess,0.21.0,2025-10-13,2823,3067,3106,Lana Samson,https://github.com/princesslana/princhess
+Gyatso,1.4.0,2026-06-05,2692,3016,3104,Gyatso Neesham,https://github.com/GyatsoYT/GyatsoChess
+Gilipol,2.00,2026-06-06,2661,2982,3100,José Carlos Martínez Galán,https://github.com/Lacovipo/Gilipol
+Yakka,1.5,2026-01-22,2754,3020,3097,Christopher Crone,https://github.com/CJDalrymple/Yakka
+Tornado,9.0,2020-12-15,2128,2943,3093,Engin Ustun,
+Kobra,2.1,2026-03-03,2697,3004,3081,Jasper Sinclair,https://github.com/jasper-sinclair/kobra
+Dog,4.10.2,2025-12-05,2795,3021,3078,Folkert van Heusden,https://github.com/folkertvanheusden/Dog
+Gull,3,2015-11-18,2735,2986,3069,Demichev Vadim,https://github.com/basil00/Gull
+Pea,9.0,2026-06-01,2688,3044,3055,Warre Gevers,https://github.com/WGCodings/Pea
+Roc,1.11,2026-05-11,2745,2924,3024,Tom Hyer,https://github.com/TomHyer/Roc
+Anubis,3.0.6,2025-10-02,2473,2900,3021,Jose Carlos Martinez Galan,https://github.com/Lacovipo/Anubis-chess-engine
+NirvanaChess,2.5,2020-12-01,2670,2943,3019,Thomas Kolarik,
+Equinox,3.30,2014-12-01,2699,2955,3013,"Claudio del la Corte, Stefano Rocchi",
+Gecko,0.40,2026-06-11,2666,2982,3009,Bingwen Yang,https://github.com/sgtqwq/Gecko
+Ice4,6.1,2025-10-27,2539,2915,3001,Carlson Mark,https://github.com/MinusKelvin/ice4
+Pounce,3.0.0,2025-10-13,2707,2963,3001,Alex Flick,https://github.com/0xflick/pounce
+Sable,1.6,2026-06-13,2577,2966,2986,Dylan,https://github.com/dylan2554/sable
+4kc,9.0,2026-06-06,2531,2850,2948,Gediminas Masaitis,https://github.com/GediminasMasaitis/4k-dot-c
+Crafty,25.2.1,2026-06-20,2507,2770,2920,Robert M. Hyatt,https://github.com/stevemaughan/Crafty-Chess
+Weak,1.0.0,2025-08-11,2530,2870,2916,Ethan Pan,https://github.com/Dragjon/weak-chess-engine
+Meltdown,1.11,2025-11-15,2661,2850,2911,"Hans Binderup, Clara Shepherd",https://github.com/hansbinderup/meltdown-chess-engine
+FoxChess,1.2,2026-06-20,2556,2853,2901,Nathan Faltermeier,https://github.com/nfaltermeier/fox-chess
 ShallowGuess,1.1.0,2026-03-25,2283,2709,2896,Zixiao Han,https://github.com/buildingwheels/ShallowGuess
 Hakkapeliitta,3.0,2016-04-01,2514,2778,2886,Mikko Aarnos,https://github.com/mAarnos/Hakkapeliitta
-Chess3,4.0,2026-04-02,2499,2792,2881,Paul Sonkoly,https://github.com/paulsonkoly/chess-3
-Noggin,2.0,2026-06-14,2620,2817,2880,Jeremy Lim,https://github.com/jeremyylimmm/noggin
-Rudim,3.0.4,2026-06-20,2562,2847,2869,Vishnu Bhagyanath,https://github.com/znxftw/rudim
-tomitankChess,6.0,2026-03-31,2475,2799,2866,Tamas Kuzmics,https://github.com/tomitank/tomitankChess
-RuthIron,21.9.6.7,2026-02-28,2392,2727,2835,Emre Kalkan,https://github.com/themreKalkan/RuthIron
-Rybka,2.3.2a,2010-06-04,2304,2795,2830,Vasik Rajlich,
-Publius,1.1,2025-12-31,2468,2742,2816,Pawel Koziol,https://github.com/nescitus/publius
-Revolver,2.0,2026-05-01,2516,2765,2813,Deshawn Mohan-Smith,https://github.com/GoldenRare/Revolver
-RustyRival,1.0.43,2026-04-26,2383,2661,2804,Chris Moreton,https://github.com/chris-moreton/rusty-rival
-NiCimEngine,3.4.1,2020-10-28,2269,2610,2797,,https://github.com/yodatk/NiCimEngine
-DiscoCheck,5.2.1,2014-08-01,2461,2699,2788,Lucas Braesch,
-Basilisk,1.6.0,2026-06-20,2327,2618,2751,Miloslav Macůrek,https://github.com/maelic13/basilisk
-ByteKnight,4.0.0,2026-05-01,2377,2670,2750,Paul T,https://github.com/DeveloperPaul123/byte-knight
-JackyChess,25.12,2025-12-03,2236,2642,2746,Matthias Lang,https://github.com/matthiaslang/jackychess
-Facon,1.6,2026-06-11,2368,2614,2742,Carlos M. Canavessi,https://github.com/CMCanavessi/facon
-Askaig,20260616,2026-06-16,2454,2643,2732,Nguyen Van Thang,https://github.com/sophiathedev/askaig
-GreKo,2021.12,2021-12-01,2325,2580,2728,Vladimir Medvedev,
-Fruit,2.3.1,2007-08-01,2322,2574,2718,Fabien Letouzey,
-Eubos,4.5,2026-06-09,2323,2649,2700,Chris Bolt,https://github.com/cjbolt/EubosChess
-Aconcagua,5.2.0,2026-05-31,2336,2564,2695,Tarifa Gabriel,https://github.com/gabtar/aconcagua
+Noggin,2.0,2026-06-14,2626,2822,2880,Jeremy Lim,https://github.com/jeremyylimmm/noggin
+Chess3,4.0,2026-04-02,2498,2792,2878,Paul Sonkoly,https://github.com/paulsonkoly/chess-3
+tomitankChess,6.0,2026-03-31,2475,2800,2867,Tamas Kuzmics,https://github.com/tomitank/tomitankChess
+Rudim,3.0.4,2026-06-20,2614,2828,2857,Vishnu Bhagyanath,https://github.com/znxftw/rudim
+RuthIron,21.9.6.7,2026-02-28,2394,2727,2835,Emre Kalkan,https://github.com/themreKalkan/RuthIron
+Rybka,2.3.2a,2010-06-04,2304,2796,2830,Vasik Rajlich,
+Publius,1.1,2025-12-31,2468,2743,2817,Pawel Koziol,https://github.com/nescitus/publius
+Revolver,2.0,2026-05-01,2516,2768,2815,Deshawn Mohan-Smith,https://github.com/GoldenRare/Revolver
+Thrawn,3.0,2026-05-25,2214,2595,2807,Feiyu Lin,https://github.com/feftywacky/Thrawn
+RustyRival,1.0.43,2026-04-26,2383,2662,2804,Chris Moreton,https://github.com/chris-moreton/rusty-rival
+NiCimEngine,3.4.1,2020-10-28,2271,2611,2799,,https://github.com/yodatk/NiCimEngine
+DiscoCheck,5.2.1,2014-08-01,2462,2700,2788,Lucas Braesch,
+Basilisk,1.6.0,2026-06-20,2329,2624,2754,Miloslav Macůrek,https://github.com/maelic13/basilisk
+JackyChess,25.12,2025-12-03,2237,2642,2747,Matthias Lang,https://github.com/matthiaslang/jackychess
+ByteKnight,4.0.0,2026-05-01,2377,2670,2746,Paul T,https://github.com/DeveloperPaul123/byte-knight
+Facon,1.6,2026-06-11,2368,2612,2742,Carlos M. Canavessi,https://github.com/CMCanavessi/facon
+Askaig,20260616,2026-06-16,2454,2646,2732,Nguyen Van Thang,https://github.com/sophiathedev/askaig
+GreKo,2021.12,2021-12-01,2325,2580,2730,Vladimir Medvedev,
+Fruit,2.3.1,2007-08-01,2322,2576,2718,Fabien Letouzey,
+Eubos,4.5,2026-06-09,2323,2647,2701,Chris Bolt,https://github.com/cjbolt/EubosChess
+Aconcagua,5.2.0,2026-05-31,2337,2557,2695,Tarifa Gabriel,https://github.com/gabtar/aconcagua
 Lux,5.0,2026-04-10,2345,2634,2681,Sidhant Roymoulik,https://github.com/Sidhant-Roymoulik/Lux
-Gaviota,1.0,2014-03-01,2422,2651,2677,Miguel Ballicora,
+Gaviota,1.0,2014-03-01,2423,2653,2678,Miguel Ballicora,
 Critter,1.6a,2012-06-01,2479,2591,2654,Richard Vida,
 Chal,1.4.1,2026-04-26,2291,2565,2628,Naman Thanki,https://github.com/namanthanki/chal
-Aurora,1.27.0timehotfix,2026-05-28,2373,2595,2624,Winston Cai,https://github.com/kjljixx/Aurora-Chess-Engine
-Ratsu,2.0.0,2026-05-23,2148,2484,2622,Eetu Rantala,https://github.com/ranzuh/ratsu
-Amira,1.82,2026-01-02,2291,2526,2616,Fauzi Dabat Akram,https://github.com/FauziAkram/amira
-Potential,1.1.0,2026-05-16,2217,2469,2595,Eren Araz,https://github.com/ProgramciDusunur/Potential
-Houdini,1.5a,2017-11-20,2472,2546,2592,Robert Houdart,https://github.com/crossopterygian/Houdini_6
-Fatalii,0.10.1,2026-05-11,2260,2504,2583,Patrick Heck,https://github.com/FitzOReilly/fatalii
+Aurora,1.27.0timehotfix,2026-05-28,2373,2592,2626,Winston Cai,https://github.com/kjljixx/Aurora-Chess-Engine
+Amira,1.82,2026-01-02,2291,2526,2618,Fauzi Dabat Akram,https://github.com/FauziAkram/amira
+Ratsu,2.0.0,2026-05-23,2147,2504,2611,Eetu Rantala,https://github.com/ranzuh/ratsu
+Potential,1.1.0,2026-05-16,2218,2469,2596,Eren Araz,https://github.com/ProgramciDusunur/Potential
+Houdini,1.5a,2017-11-20,2473,2546,2593,Robert Houdart,https://github.com/crossopterygian/Houdini_6
+Fatalii,0.10.1,2026-05-11,2261,2502,2584,Patrick Heck,https://github.com/FitzOReilly/fatalii
 Reyna,1.0,2025-10-20,2273,2473,2580,Renz Targa,https://github.com/renztarga/Reyna
-TiltEngine,1.3,2026-03-15,2214,2475,2545,thealing,https://github.com/thealing/TiltEngine
-Erinn,1.0,2026-06-10,2076,2422,2520,Elias Niemann,https://github.com/NichtElias/Erinn
-Scuff,0.1,2026-03-02,2103,2410,2508,Kevin Lu,https://github.com/kevlu8/Scuff
-Tuna,1.0.0,2025-09-28,2120,2415,2504,Bill Chow,https://github.com/billchow98/chess
-Ruffian,2.1.0,2004-02-01,2141,2442,2495,Per-Ola Valfridsson,
-Prophet,5.2,2026-05-16,2087,2387,2491,James Swafford,https://github.com/jswaff/prophet
-Anodos,1.3.0,2026-02-16,2137,2418,2485,Tom Cant,https://github.com/tomcant/chess-rs
+TiltEngine,1.3,2026-03-15,2215,2476,2545,thealing,https://github.com/thealing/TiltEngine
+Erinn,1.0,2026-06-10,2076,2422,2523,Elias Niemann,https://github.com/NichtElias/Erinn
+Scuff,0.1,2026-03-02,2103,2411,2510,Kevin Lu,https://github.com/kevlu8/Scuff
+Tuna,1.0.0,2025-09-28,2121,2417,2506,Bill Chow,https://github.com/billchow98/chess
+Ruffian,2.1.0,2004-02-01,2140,2444,2495,Per-Ola Valfridsson,
+Prophet,5.2,2026-05-16,2087,2387,2487,James Swafford,https://github.com/jswaff/prophet
+Anodos,1.3.0,2026-02-16,2140,2418,2485,Tom Cant,https://github.com/tomcant/chess-rs
 Tofiks,1.5.0,2026-04-23,2175,2418,2484,Arturs Priede,https://github.com/likeawizard/tofiks
-Challenger,0.6.0,2025-10-02,2034,2354,2476,Simjanovski Nikola,https://github.com/SimjanovskiNikola/FRI_Challenger
-CeeChess,2.2,2025-11-05,2133,2392,2472,Tom Reinitz,https://github.com/bctboi23/CeeChess
-Hermann,2.8,2011-06-01,2129,2356,2454,Volker Annuss,
-Ares,2.5,2024-02-06,1958,2314,2433,Charles Roberson,
+Challenger,0.6.0,2025-10-02,2036,2356,2476,Simjanovski Nikola,https://github.com/SimjanovskiNikola/FRI_Challenger
+CeeChess,2.2,2025-11-05,2134,2392,2472,Tom Reinitz,https://github.com/bctboi23/CeeChess
+Hermann,2.8,2011-06-01,2129,2357,2454,Volker Annuss,
+Ares,2.5,2024-02-06,1959,2315,2433,Charles Roberson,
 Rexigon,1.0,2025-11-30,2034,2302,2433,,https://github.com/silentshark-uk/rexigon
 Lolbot,0.3.1,2026-04-13,2080,2387,2423,Lorentz Vedeler,https://github.com/loldot/lolbot
 Ufim,8.02,2006-07-01,2128,2345,2412,Niyaz Khasanov,
 AnMon,5.75,2009-07-01,2091,2344,2404,Christian Barreteau,
-Justbot,0.1.0,2026-06-09,2010,2306,2398,Hassan Fakih,https://github.com/HasanFakih21/JustBot
-LittleWing,0.8.0,2026-03-03,2049,2315,2380,Vincent Ollivier,https://github.com/vinc/littlewing
-Soomi,1.2.0B,2026-04-24,2025,2226,2368,Otto Laukkanen,https://github.com/Koma1867/Soomi-V1-Chess-engine-in-golang
-Viking,R5,2026-04-27,1920,2171,2345,Dario Pendic,https://github.com/nbqofficial/viking
-SOS,5.1,2005-02-01,1759,2242,2341,Rudolf Huber,
+Justbot,0.1.0,2026-06-09,2012,2306,2398,Hassan Fakih,https://github.com/HasanFakih21/JustBot
+LittleWing,0.8.0,2026-03-03,2051,2315,2381,Vincent Ollivier,https://github.com/vinc/littlewing
+Soomi,1.2.0B,2026-04-24,2025,2223,2368,Otto Laukkanen,https://github.com/Koma1867/Soomi-V1-Chess-engine-in-golang
+Viking,R5,2026-04-27,1920,2172,2345,Dario Pendic,https://github.com/nbqofficial/viking
+SOS,5.1,2005-02-01,1759,2242,2342,Rudolf Huber,
 Nejmet,3.07,2003-06-23,2028,2272,2331,Jean-Christophe Gabillard,
-chess4j,6.3,2026-06-06,1852,2145,2302,James Swafford,https://github.com/jswaff/chess4j
-Eeyore,1.52,2010-11-01,1978,2229,2300,Anton Maydell,
-Kreveta,2.3.1,2026-05-12,1943,2219,2298,Daniel Michna,https://github.com/ZlomenyMesic/Kreveta
-Akerbeltz,1.1.0,2026-04-14,1931,2182,2276,Julen Aristondo,https://github.com/neluj/Akerbeltz
+chess4j,6.3,2026-06-06,1854,2147,2303,James Swafford,https://github.com/jswaff/chess4j
+Eeyore,1.52,2010-11-01,1978,2230,2300,Anton Maydell,
+Kreveta,2.3.1,2026-05-12,1943,2221,2298,Daniel Michna,https://github.com/ZlomenyMesic/Kreveta
+Akerbeltz,1.1.0,2026-04-14,1931,2183,2280,Julen Aristondo,https://github.com/neluj/Akerbeltz
 Zeppelin,1.5.0,2026-03-27,1898,2171,2259,Jakub Szczerbinski,https://github.com/jszczerbinsky/zeppelin
-Zeno,2.0,2026-03-08,1906,2142,2248,Oswald Nounagnon,https://github.com/Toudonou/zeno
-Fktb,0.0.77,2026-01-18,1847,2141,2213,Landon Peng,https://github.com/lunbun/fktb
-Zugblitz,1.3.2,2026-06-13,1827,2076,2196,,https://github.com/P1X3R/zugblitz
-Radiance,4.4,2026-04-23,1709,2051,2183,Paul-Elie Pipelin,https://github.com/ppipelin/radiance
-Echekinator,1.0,2025-11-25,1770,2048,2147,,https://github.com/Tym972/Echekinator
-Chess-rs,0.7.0,2025-12-31,1686,1912,2014,Tom Cant,https://github.com/tomcant/chess-rs
-PurplePanda,20,2025-12-15,1642,1904,1975,Jakob Steininger,https://github.com/Jakob256/PurplePanda
-Laura,4.0.0,2026-05-09,1746,1889,1963,Hans Tibberio,https://github.com/HansTibberio/Laura
-Natto,0.1.9,2025-09-06,1585,1837,1929,,https://github.com/rglenister/natto
-Rustic,3.0.6,2025-09-24,1628,1827,1909,Marcel Vanthoor,https://github.com/mvanthoor/rustic
+Zeno,2.0,2026-03-08,1908,2145,2249,Oswald Nounagnon,https://github.com/Toudonou/zeno
+Fktb,0.0.77,2026-01-18,1848,2141,2213,Landon Peng,https://github.com/lunbun/fktb
+Zugblitz,1.3.2,2026-06-13,1827,2076,2194,,https://github.com/P1X3R/zugblitz
+Radiance,4.4,2026-04-23,1710,2051,2184,Paul-Elie Pipelin,https://github.com/ppipelin/radiance
+Echekinator,1.0,2025-11-25,1770,2048,2148,,https://github.com/Tym972/Echekinator
+Chess-rs,0.7.0,2025-12-31,1686,1913,2014,Tom Cant,https://github.com/tomcant/chess-rs
+PurplePanda,20,2025-12-15,1643,1904,1975,Jakob Steininger,https://github.com/Jakob256/PurplePanda
+Laura,4.0.0,2026-05-09,1747,1890,1963,Hans Tibberio,https://github.com/HansTibberio/Laura
+Natto,0.1.9,2025-09-06,1586,1837,1931,,https://github.com/rglenister/natto
+Rustic,3.0.6,2025-09-24,1629,1828,1909,Marcel Vanthoor,https://github.com/mvanthoor/rustic
 Clue,0.0.4,2026-01-05,1547,1781,1852,Jean-Marc Astesana,https://github.com/fathzer-games/chesslib-uci-engine
 Dinora,0.3.0,2025-05-22,,,1656,Zhubanyshev Alisher,https://github.com/Saegl/dinora
-Scoria,3.8.51,2025-08-10,1243,1515,1636,Ian Nathan Kusmiantoro,https://github.com/iannathan-k/scoria
-Gnome,2026.02.08,2026-02-08,1349,1547,1581,Thibor Raven,https://github.com/Thibor/Gnome
-Prometheus,0.2.1,2025-08-18,1381,1515,1542,Gisi Alex,https://github.com/AlexGisi/prometheus-chess
-Annie,1.2,2026-01-17,1322,1519,1512,Jost Triller,https://github.com/tsoj/Annie
-MihanSolo,9.0.0,2025-10-01,1200,1369,1474,Benaragama Mihan,https://github.com/montypylons/mihansolo_bot
+Scoria,3.8.51,2025-08-10,1245,1515,1636,Ian Nathan Kusmiantoro,https://github.com/iannathan-k/scoria
+Gnome,2026.02.08,2026-02-08,1349,1548,1581,Thibor Raven,https://github.com/Thibor/Gnome
+Prometheus,0.2.1,2025-08-18,1382,1515,1542,Gisi Alex,https://github.com/AlexGisi/prometheus-chess
+Annie,1.2,2026-01-17,1320,1519,1513,Jost Triller,https://github.com/tsoj/Annie
+MihanSolo,9.0.0,2025-10-01,1200,1370,1474,Benaragama Mihan,https://github.com/montypylons/mihansolo_bot
 Benbot,1.7.5,2026-03-06,1161,1310,1442,Ben Vining,https://github.com/benthevining/BenBot
 Abhinengine,1.0,2026-02-21,1011,1365,1358,Abhineet Kulkarni,https://github.com/abhineetabhaykulkarnikulkarni-cloud/AbhinEngine
-Quirky,3.0,2026-05-16,782,2018,1170,Anton Kernozhitsky,https://github.com/Wind-Eagle/Quirky
+Quirky,3.0,2026-05-16,788,2018,1173,Anton Kernozhitsky,https://github.com/Wind-Eagle/Quirky
+ChessCore,1.1.5,2026-05-25,643,1046,1075,Adam Berent,https://github.com/3583Bytes/ChessCore
 Whitespine,1.4.0,2026-04-29,689,869,1011,Miloslav Macůrek,https://github.com/maelic13/whitespine
-Beast,3.3.3,2026-04-29,628,822,938,Miloslav Macůrek,https://github.com/maelic13/beast
-Algae,1.0,2025-11-09,1337,959,817,Paul Jerome Filio,https://github.com/PaulJeFi/algae
+Beast,3.3.3,2026-04-29,624,822,938,Miloslav Macůrek,https://github.com/maelic13/beast
+Algae,1.0,2025-11-09,1338,959,815,Paul Jerome Filio,https://github.com/PaulJeFi/algae
 Leorik,3.2,2026-01-06,396,390,429,Thomas Jahn,https://github.com/lithander/Leorik
 Kociolek,2.1,2026-03-16,312,344,347,Kociolek,https://github.com/Koci0l/NNUE-Chess-engine
 RandomMover,0.1,2024-08-07,0,0,0,CCI,https://github.com/computer-chess-index/cci
