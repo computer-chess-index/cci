@@ -8,9 +8,9 @@ Home: https://github.com/kelseyde/hobbes-chess-engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1 | 2026-05-26 | 3359<sub>(+new) |  |  |  |
+| 2.1 | 2026-05-26 | 3360<sub>(+new) | 3455<sub>(+new) | 3514<sub>(+new) |  |
 | 2.0 | 2026-05-25 |  |  |  |  |
-| 1.0 | 2026-03-05 | 3356 | 3488 | 3502 |  |
+| 1.0 | 2026-03-05 | 3357 | 3490 | 3503 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Hobbes+<version>&body=###%20Engine%20name%0AHobbes%0A%0A###%20Version%0A2.1" target="_blank">Submit new version</a>
@@ -26,7 +26,58 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-22 06:25:28
+Generated: 2026-06-23 06:25:43
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["1.0", "2.1"]
+  y-axis "Elo Rating" 3300 --> 3600
+  line "STC (8.0+0.08s)" [3357, 3360]
+  line "STC (8.0+0.08s)" [3357, 3360]
+  line "LTC (60.0+0.60s)" [3490, 3455]
+  line "VLTC (2m24s+1.12s)" [3503, 3514]
+  line "VLTC (2m24s+1.12s)" [3503, 3514]
+```
+
+```mermaid
+%%{init: {"theme":"base"}}%%
+flowchart LR
+E[ ] --- A[STC 8.0+0.08s]
+A --- B[LTC 60.0+0.60s]
+B --- C[VLTC 2m24s+1.12s]
+C --- D[ ]
+linkStyle 0 stroke:#a3a3a3,stroke-width:0px
+linkStyle 1 stroke:#a3a3a3,stroke-width:4px
+linkStyle 2 stroke:#faa371,stroke-width:4px
+linkStyle 3 stroke:#4ef781,stroke-width:4px
+style A fill:none,stroke:none
+style B fill:none,stroke:none
+style C fill:none,stroke:none
+style D fill:none,stroke:none
+style E fill:none,stroke:none
+```
+
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["1.0", "2.1"]
+  y-axis "Elo Rating" 3300 --> 3600
+  line "STC (8.0+0.08s)" [3357, 3360]
+  line "STC (8.0+0.08s)" [3357, 3360]
+  line "LTC (60.0+0.60s)" [3490, 3455]
+  line "VLTC (2m24s+1.12s)" [3503, 3514]
+  line "VLTC (2m24s+1.12s)" [3503, 3514]
+```
+
+<p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
+<p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
+
 
 
 
@@ -34,9 +85,11 @@ Generated: 2026-06-22 06:25:28
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.1 | STC <sub>(8.0+0.08s)</sub> | 3359 | 118 | 16 | 53% | 3339 | 81% |
+| 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3514 | 78 | 36 | 53% | 3495 | 89% |
+| 2.1 | LTC <sub>(60.0+0.60s)</sub> | 3455 | 115 | 16 | 47% | 3472 | 94% |
+| 2.1 | STC <sub>(8.0+0.08s)</sub> | 3360 | 105 | 20 | 53% | 3344 | 85% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3502 | 25 | 378 | 51% | 3492 | 90% |
-| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 3488 | 26 | 350 | 51% | 3476 | 87% |
-| 1.0 | STC <sub>(8.0+0.08s)</sub> | 3356 | 23 | 484 | 53% | 3326 | 73% |
+| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3503 | 25 | 378 | 51% | 3494 | 90% |
+| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 3490 | 26 | 350 | 51% | 3478 | 87% |
+| 1.0 | STC <sub>(8.0+0.08s)</sub> | 3357 | 23 | 484 | 53% | 3328 | 73% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
