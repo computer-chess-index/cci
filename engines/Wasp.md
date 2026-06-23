@@ -9,7 +9,7 @@ Home:
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 7.0.0 | 2024-06-04 |  |  |  |  |
-| 6.5.0 | 2023-02-28 | 3043 | 3252 | 3310 |  |
+| 6.5.0 | 2023-02-28 | 3043 | 3254 | 3312 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Wasp+<version>&body=###%20Engine%20name%0AWasp%0A%0A###%20Version%0A7.0.0" target="_blank">Submit new version</a>
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-22 06:40:18
+Generated: 2026-06-23 06:31:59
 
 
 
@@ -33,7 +33,7 @@ Generated: 2026-06-22 06:40:18
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 6.5.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3310 | 12 | 1860 | 50% | 3309 | 66% |
-| 6.5.0 | LTC <sub>(60.0+0.60s)</sub> | 3252 | 12 | 1822 | 50% | 3256 | 64% |
-| 6.5.0 | STC <sub>(8.0+0.08s)</sub> | 3043 | 12 | 1908 | 50% | 3044 | 53% |
+| 6.5.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3312 | 12 | 1860 | 50% | 3310 | 66% |
+| 6.5.0 | LTC <sub>(60.0+0.60s)</sub> | 3254 | 12 | 1822 | 50% | 3258 | 64% |
+| 6.5.0 | STC <sub>(8.0+0.08s)</sub> | 3043 | 12 | 1912 | 50% | 3044 | 53% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
