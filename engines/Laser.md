@@ -8,7 +8,7 @@ Home: https://github.com/jeffreyan11/laser-chess-engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.7 | 2019-02-07 | 2774<sub>(+new) | 3046<sub>(+new) | 3109<sub>(+new) |  |
+| 1.7 | 2019-02-07 | 2776<sub>(+new) | 3047<sub>(+new) | 3110<sub>(+new) |  |
 | 1.6 | 2018-07-14 |  |  |  |  |
 | 1.5 | 2017-12-27 |  |  |  |  |
 | 1.4 | 2017-05-11 |  |  |  |  |
@@ -34,7 +34,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-22 06:26:04
+Generated: 2026-06-23 06:26:35
 
 
 
@@ -42,7 +42,7 @@ Generated: 2026-06-22 06:26:04
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.7 | VLTC <sub>(2m24s+1.12s)</sub> | 3109 | 13 | 1828 | 50% | 3108 | 47% |
-| 1.7 | LTC <sub>(60.0+0.60s)</sub> | 3046 | 13 | 1858 | 51% | 3036 | 44% |
-| 1.7 | STC <sub>(8.0+0.08s)</sub> | 2774 | 13 | 1910 | 50% | 2780 | 35% |
+| 1.7 | VLTC <sub>(2m24s+1.12s)</sub> | 3110 | 13 | 1828 | 50% | 3109 | 47% |
+| 1.7 | LTC <sub>(60.0+0.60s)</sub> | 3047 | 13 | 1858 | 51% | 3036 | 44% |
+| 1.7 | STC <sub>(8.0+0.08s)</sub> | 2776 | 13 | 1914 | 50% | 2780 | 35% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
