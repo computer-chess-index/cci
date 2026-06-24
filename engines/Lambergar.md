@@ -8,8 +8,8 @@ Home: https://github.com/jabolcni/Lambergar
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.5 | 2026-05-28 | 3017<sub>(+119) | 3191<sub>(-6) | 3359<sub>(+87) |  |
-| 1.3 | 2025-09-19 | 2898<sub>(+new) | 3197<sub>(+new) | 3272<sub>(+new) |  |
+| 1.5 | 2026-05-28 | 3040<sub>(+142) | 3194<sub>(-4) | 3328<sub>(+54) |  |
+| 1.3 | 2025-09-19 | 2898<sub>(+new) | 3198<sub>(+new) | 3274<sub>(+new) |  |
 | 1.2 | 2025-05-21 |  |  |  |  |
 | 1.1 | 2025-03-27 |  |  |  |  |
 | 1.0 | 2025-01-14 |  |  |  |  |
@@ -37,7 +37,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-23 06:26:33
+Generated: 2026-06-24 06:25:37
 
 ## Ratings Verlauf
 
@@ -46,11 +46,11 @@ Generated: 2026-06-23 06:26:33
 xychart-beta
   x-axis ["1.3", "1.5"]
   y-axis "Elo Rating" 2800 --> 3400
-  line "STC (8.0+0.08s)" [2898, 3017]
-  line "STC (8.0+0.08s)" [2898, 3017]
-  line "LTC (60.0+0.60s)" [3197, 3191]
-  line "VLTC (2m24s+1.12s)" [3272, 3359]
-  line "VLTC (2m24s+1.12s)" [3272, 3359]
+  line "STC (8.0+0.08s)" [2898, 3040]
+  line "STC (8.0+0.08s)" [2898, 3040]
+  line "LTC (60.0+0.60s)" [3198, 3194]
+  line "VLTC (2m24s+1.12s)" [3274, 3328]
+  line "VLTC (2m24s+1.12s)" [3274, 3328]
 ```
 
 ```mermaid
@@ -79,11 +79,11 @@ style E fill:none,stroke:none
 xychart-beta
   x-axis ["1.3", "1.5"]
   y-axis "Elo Rating" 2800 --> 3400
-  line "STC (8.0+0.08s)" [2898, 3017]
-  line "STC (8.0+0.08s)" [2898, 3017]
-  line "LTC (60.0+0.60s)" [3197, 3191]
-  line "VLTC (2m24s+1.12s)" [3272, 3359]
-  line "VLTC (2m24s+1.12s)" [3272, 3359]
+  line "STC (8.0+0.08s)" [2898, 3040]
+  line "STC (8.0+0.08s)" [2898, 3040]
+  line "LTC (60.0+0.60s)" [3198, 3194]
+  line "VLTC (2m24s+1.12s)" [3274, 3328]
+  line "VLTC (2m24s+1.12s)" [3274, 3328]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -96,11 +96,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.5 | VLTC <sub>(2m24s+1.12s)</sub> | 3359 | 92 | 28 | 55% | 3318 | 75% |
-| 1.5 | LTC <sub>(60.0+0.60s)</sub> | 3191 | 68 | 56 | 51% | 3187 | 63% |
-| 1.5 | STC <sub>(8.0+0.08s)</sub> | 3017 | 75 | 48 | 52% | 3000 | 54% |
+| 1.5 | VLTC <sub>(2m24s+1.12s)</sub> | 3328 | 50 | 96 | 49% | 3330 | 74% |
+| 1.5 | LTC <sub>(60.0+0.60s)</sub> | 3194 | 59 | 76 | 51% | 3190 | 62% |
+| 1.5 | STC <sub>(8.0+0.08s)</sub> | 3040 | 55 | 92 | 53% | 3019 | 51% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.3 | VLTC <sub>(2m24s+1.12s)</sub> | 3272 | 24 | 462 | 52% | 3259 | 66% |
-| 1.3 | LTC <sub>(60.0+0.60s)</sub> | 3197 | 26 | 398 | 51% | 3187 | 63% |
+| 1.3 | VLTC <sub>(2m24s+1.12s)</sub> | 3274 | 24 | 462 | 52% | 3259 | 66% |
+| 1.3 | LTC <sub>(60.0+0.60s)</sub> | 3198 | 26 | 398 | 51% | 3189 | 63% |
 | 1.3 | STC <sub>(8.0+0.08s)</sub> | 2898 | 22 | 640 | 53% | 2858 | 42% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
