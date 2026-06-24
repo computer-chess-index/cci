@@ -9,8 +9,8 @@ Home: https://github.com/sb2bg/sykora
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 0.2.2 | 2026-03-23 |  |  |  |  |
-| 0.2.1 | 2026-03-02 | 1983<sub>(+101) | 2342<sub>(+125) | 2435<sub>(+28) |  |
-| 0.1.0 | 2026-02-17 | 1882 | 2217 | 2407 |  |
+| 0.2.1 | 2026-03-02 | 1983<sub>(+101) | 2342<sub>(+125) | 2435<sub>(+27) |  |
+| 0.1.0 | 2026-02-17 | 1882 | 2217 | 2408 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Sykora+<version>&body=###%20Engine%20name%0ASykora%0A%0A###%20Version%0A0.2.2" target="_blank">Submit new version</a>
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-23 06:30:49
+Generated: 2026-06-24 06:29:03
 
 ## Ratings Verlauf
 
@@ -38,8 +38,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [1882, 1983]
   line "STC (8.0+0.08s)" [1882, 1983]
   line "LTC (60.0+0.60s)" [2217, 2342]
-  line "VLTC (2m24s+1.12s)" [2407, 2435]
-  line "VLTC (2m24s+1.12s)" [2407, 2435]
+  line "VLTC (2m24s+1.12s)" [2408, 2435]
+  line "VLTC (2m24s+1.12s)" [2408, 2435]
 ```
 
 ```mermaid
@@ -71,8 +71,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [1882, 1983]
   line "STC (8.0+0.08s)" [1882, 1983]
   line "LTC (60.0+0.60s)" [2217, 2342]
-  line "VLTC (2m24s+1.12s)" [2407, 2435]
-  line "VLTC (2m24s+1.12s)" [2407, 2435]
+  line "VLTC (2m24s+1.12s)" [2408, 2435]
+  line "VLTC (2m24s+1.12s)" [2408, 2435]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -89,7 +89,7 @@ xychart-beta
 | 0.2.1 | LTC <sub>(60.0+0.60s)</sub> | 2342 | 34 | 284 | 49% | 2349 | 27% |
 | 0.2.1 | STC <sub>(8.0+0.08s)</sub> | 1983 | 35 | 294 | 50% | 1982 | 21% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2407 | 126 | 28 | 21% | 2711 | 21% |
+| 0.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2408 | 126 | 28 | 21% | 2711 | 21% |
 | 0.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2217 | 70 | 70 | 46% | 2249 | 27% |
 | 0.1.0 | STC <sub>(8.0+0.08s)</sub> | 1882 | 97 | 40 | 41% | 2003 | 23% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
