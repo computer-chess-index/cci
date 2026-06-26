@@ -8,7 +8,7 @@ Home: https://github.com/Wind-Eagle/Quirky
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0 | 2026-05-16 | 788<sub>(-2158) | 2020<sub>(-1158) | 1173<sub>(-2067) |  |
+| 3.0 | 2026-05-16 | 788<sub>(-2158) | 2018<sub>(-1160) | 1170<sub>(-2070) |  |
 | 2.1 | 2025-11-25 | 2946<sub>(+new) | 3178<sub>(+new) | 3240<sub>(+new) |  |
 | 2.0 | 2025-08-30 |  |  |  |  |
 | 1.0 | 2025-05-04 |  |  |  |  |
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-24 06:27:38
+Generated: 2026-06-26 06:27:35
 
 ## Ratings Verlauf
 
@@ -38,9 +38,9 @@ xychart-beta
   y-axis "Elo Rating" 700 --> 3300
   line "STC (8.0+0.08s)" [2946, 788]
   line "STC (8.0+0.08s)" [2946, 788]
-  line "LTC (60.0+0.60s)" [3178, 2020]
-  line "VLTC (2m24s+1.12s)" [3240, 1173]
-  line "VLTC (2m24s+1.12s)" [3240, 1173]
+  line "LTC (60.0+0.60s)" [3178, 2018]
+  line "VLTC (2m24s+1.12s)" [3240, 1170]
+  line "VLTC (2m24s+1.12s)" [3240, 1170]
 ```
 
 ```mermaid
@@ -71,9 +71,9 @@ xychart-beta
   y-axis "Elo Rating" 700 --> 3300
   line "STC (8.0+0.08s)" [2946, 788]
   line "STC (8.0+0.08s)" [2946, 788]
-  line "LTC (60.0+0.60s)" [3178, 2020]
-  line "VLTC (2m24s+1.12s)" [3240, 1173]
-  line "VLTC (2m24s+1.12s)" [3240, 1173]
+  line "LTC (60.0+0.60s)" [3178, 2018]
+  line "VLTC (2m24s+1.12s)" [3240, 1170]
+  line "VLTC (2m24s+1.12s)" [3240, 1170]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -86,8 +86,8 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1173 | 22 | 1578 | 21% | 1706 | 3% |
-| 3.0 | LTC <sub>(60.0+0.60s)</sub> | 2020 | 25 | 824 | 37% | 2203 | 2% |
+| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1170 | 22 | 1582 | 21% | 1705 | 3% |
+| 3.0 | LTC <sub>(60.0+0.60s)</sub> | 2018 | 25 | 824 | 37% | 2202 | 2% |
 | 3.0 | STC <sub>(8.0+0.08s)</sub> | 788 | 38 | 372 | 46% | 965 | 17% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3240 | 22 | 564 | 54% | 3212 | 59% |
