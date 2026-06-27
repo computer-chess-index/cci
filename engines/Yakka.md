@@ -8,8 +8,8 @@ Home: https://github.com/CJDalrymple/Yakka
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.5 | 2026-01-22 | 2753<sub>(+112) | 3020<sub>(+113) | 3097<sub>(+150) |  |
-| 1.4 | 2025-11-11 | 2641<sub>(+new) | 2907<sub>(+new) | 2947<sub>(+new) |  |
+| 1.5 | 2026-01-22 | 2751<sub>(+110) | 3020<sub>(+113) | 3096<sub>(+150) |  |
+| 1.4 | 2025-11-11 | 2641<sub>(+new) | 2907<sub>(+new) | 2946<sub>(+new) |  |
 | 1.3 | 2025-08-10 |  |  |  |  |
 | 1.2 | 2025-02-11 |  |  |  |  |
 | 1.1 | 2024-09-16 |  |  |  |  |
@@ -29,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-26 06:29:52
+Generated: 2026-06-27 06:32:31
 
 ## Ratings Verlauf
 
@@ -38,11 +38,11 @@ Generated: 2026-06-26 06:29:52
 xychart-beta
   x-axis ["1.4", "1.5"]
   y-axis "Elo Rating" 2600 --> 3100
-  line "STC (8.0+0.08s)" [2641, 2753]
-  line "STC (8.0+0.08s)" [2641, 2753]
+  line "STC (8.0+0.08s)" [2641, 2751]
+  line "STC (8.0+0.08s)" [2641, 2751]
   line "LTC (60.0+0.60s)" [2907, 3020]
-  line "VLTC (2m24s+1.12s)" [2947, 3097]
-  line "VLTC (2m24s+1.12s)" [2947, 3097]
+  line "VLTC (2m24s+1.12s)" [2946, 3096]
+  line "VLTC (2m24s+1.12s)" [2946, 3096]
 ```
 
 ```mermaid
@@ -71,11 +71,11 @@ style E fill:none,stroke:none
 xychart-beta
   x-axis ["1.4", "1.5"]
   y-axis "Elo Rating" 2600 --> 3100
-  line "STC (8.0+0.08s)" [2641, 2753]
-  line "STC (8.0+0.08s)" [2641, 2753]
+  line "STC (8.0+0.08s)" [2641, 2751]
+  line "STC (8.0+0.08s)" [2641, 2751]
   line "LTC (60.0+0.60s)" [2907, 3020]
-  line "VLTC (2m24s+1.12s)" [2947, 3097]
-  line "VLTC (2m24s+1.12s)" [2947, 3097]
+  line "VLTC (2m24s+1.12s)" [2946, 3096]
+  line "VLTC (2m24s+1.12s)" [2946, 3096]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -88,11 +88,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.5 | VLTC <sub>(2m24s+1.12s)</sub> | 3097 | 24 | 500 | 49% | 3104 | 55% |
+| 1.5 | VLTC <sub>(2m24s+1.12s)</sub> | 3096 | 24 | 500 | 49% | 3102 | 55% |
 | 1.5 | LTC <sub>(60.0+0.60s)</sub> | 3020 | 27 | 380 | 48% | 3032 | 56% |
-| 1.5 | STC <sub>(8.0+0.08s)</sub> | 2753 | 24 | 516 | 50% | 2750 | 41% |
+| 1.5 | STC <sub>(8.0+0.08s)</sub> | 2751 | 24 | 516 | 50% | 2749 | 41% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.4 | VLTC <sub>(2m24s+1.12s)</sub> | 2947 | 34 | 260 | 52% | 2930 | 48% |
+| 1.4 | VLTC <sub>(2m24s+1.12s)</sub> | 2946 | 34 | 260 | 52% | 2930 | 48% |
 | 1.4 | LTC <sub>(60.0+0.60s)</sub> | 2907 | 30 | 336 | 56% | 2849 | 42% |
-| 1.4 | STC <sub>(8.0+0.08s)</sub> | 2641 | 36 | 264 | 53% | 2604 | 32% |
+| 1.4 | STC <sub>(8.0+0.08s)</sub> | 2641 | 36 | 264 | 53% | 2603 | 32% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
