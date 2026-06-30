@@ -8,7 +8,7 @@ Home: https://github.com/chris-moreton/rusty-rival
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.43 | 2026-04-26 | 2380<sub>(+new) | 2661<sub>(+new) | 2805<sub>(+new) |  |
+| 1.0.43 | 2026-04-26 | 2380<sub>(+new) | 2662<sub>(+new) | 2805<sub>(+new) |  |
 | 1.0.42 | 2026-04-24 |  |  |  | eval skipped |
 | 1.0.40 | 2026-04-02 |  |  |  | eval skipped |
 | 1.0.39 | 2026-03-30 | 2074<sub>(+new) | 2313<sub>(+new) | 2404<sub>(+new) |  |
@@ -61,7 +61,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-30 06:28:53
+Generated: 2026-06-30 09:34:40
 
 ## Ratings Verlauf
 
@@ -72,7 +72,7 @@ xychart-beta
   y-axis "Elo Rating" 1700 --> 2900
   line "STC (8.0+0.08s)" [1766, 1872, 1910, 1897, 2074, 2380]
   line "STC (8.0+0.08s)" [1766, 1872, 1910, 1897, 2074, 2380]
-  line "LTC (60.0+0.60s)" [2032, 2041, 2202, 2148, 2313, 2661]
+  line "LTC (60.0+0.60s)" [2032, 2041, 2202, 2148, 2313, 2662]
   line "VLTC (2m24s+1.12s)" [2221, 2161, 2229, 2257, 2404, 2805]
   line "VLTC (2m24s+1.12s)" [2221, 2161, 2229, 2257, 2404, 2805]
 ```
@@ -105,7 +105,7 @@ xychart-beta
   y-axis "Elo Rating" 1700 --> 2900
   line "STC (8.0+0.08s)" [1766, 1872, 1910, 1897, 2074, 2380]
   line "STC (8.0+0.08s)" [1766, 1872, 1910, 1897, 2074, 2380]
-  line "LTC (60.0+0.60s)" [2032, 2041, 2202, 2148, 2313, 2661]
+  line "LTC (60.0+0.60s)" [2032, 2041, 2202, 2148, 2313, 2662]
   line "VLTC (2m24s+1.12s)" [2221, 2161, 2229, 2257, 2404, 2805]
   line "VLTC (2m24s+1.12s)" [2221, 2161, 2229, 2257, 2404, 2805]
 ```
@@ -121,7 +121,7 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0.43 | VLTC <sub>(2m24s+1.12s)</sub> | 2805 | 42 | 184 | 52% | 2778 | 33% |
-| 1.0.43 | LTC <sub>(60.0+0.60s)</sub> | 2661 | 41 | 196 | 53% | 2628 | 29% |
+| 1.0.43 | LTC <sub>(60.0+0.60s)</sub> | 2662 | 41 | 196 | 53% | 2628 | 29% |
 | 1.0.43 | STC <sub>(8.0+0.08s)</sub> | 2380 | 46 | 168 | 52% | 2356 | 23% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0.39 | VLTC <sub>(2m24s+1.12s)</sub> | 2404 | 39 | 228 | 51% | 2398 | 24% |
