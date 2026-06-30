@@ -8,7 +8,7 @@ Home: https://github.com/sophiathedev/askaig
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 20260628 | 2026-06-28 | 2377<sub>(-22) | 2691<sub>(+48) | 2695<sub>(-40) |  |
+| 20260628 | 2026-06-28 | 2377<sub>(-22) | 2684<sub>(+41) | 2685<sub>(-50) |  |
 | 20260616 | 2026-06-16 | 2399<sub>(+new) | 2643<sub>(+new) | 2735<sub>(+new) |  |
 | 20260615 | 2026-06-15 |  |  |  |  |
 | 20260614 | 2026-06-14 |  |  |  |  |
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-30 09:24:26
+Generated: 2026-06-30 22:13:19
 
 ## Ratings Verlauf
 
@@ -38,9 +38,9 @@ xychart-beta
   y-axis "Elo Rating" 2300 --> 2800
   line "STC (8.0+0.08s)" [2399, 2377]
   line "STC (8.0+0.08s)" [2399, 2377]
-  line "LTC (60.0+0.60s)" [2643, 2691]
-  line "VLTC (2m24s+1.12s)" [2735, 2695]
-  line "VLTC (2m24s+1.12s)" [2735, 2695]
+  line "LTC (60.0+0.60s)" [2643, 2684]
+  line "VLTC (2m24s+1.12s)" [2735, 2685]
+  line "VLTC (2m24s+1.12s)" [2735, 2685]
 ```
 
 ```mermaid
@@ -71,9 +71,9 @@ xychart-beta
   y-axis "Elo Rating" 2300 --> 2800
   line "STC (8.0+0.08s)" [2399, 2377]
   line "STC (8.0+0.08s)" [2399, 2377]
-  line "LTC (60.0+0.60s)" [2643, 2691]
-  line "VLTC (2m24s+1.12s)" [2735, 2695]
-  line "VLTC (2m24s+1.12s)" [2735, 2695]
+  line "LTC (60.0+0.60s)" [2643, 2684]
+  line "VLTC (2m24s+1.12s)" [2735, 2685]
+  line "VLTC (2m24s+1.12s)" [2735, 2685]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -86,8 +86,8 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 20260628 | VLTC <sub>(2m24s+1.12s)</sub> | 2695 | 84 | 40 | 49% | 2704 | 48% |
-| 20260628 | LTC <sub>(60.0+0.60s)</sub> | 2691 | 75 | 56 | 52% | 2674 | 32% |
+| 20260628 | VLTC <sub>(2m24s+1.12s)</sub> | 2685 | 80 | 44 | 48% | 2703 | 50% |
+| 20260628 | LTC <sub>(60.0+0.60s)</sub> | 2684 | 73 | 60 | 51% | 2677 | 32% |
 | 20260628 | STC <sub>(8.0+0.08s)</sub> | 2377 | 73 | 56 | 48% | 2394 | 39% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 20260616 | VLTC <sub>(2m24s+1.12s)</sub> | 2735 | 47 | 144 | 51% | 2723 | 36% |
