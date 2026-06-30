@@ -8,7 +8,7 @@ Home: https://github.com/folkertvanheusden/Dog
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.10.2 | 2025-12-05 | 2796<sub>(+new) | 3021<sub>(+new) | 3079<sub>(+new) |  |
+| 4.10.2 | 2025-12-05 | 2795<sub>(+new) | 3021<sub>(+new) | 3079<sub>(+new) |  |
 | 3.51b | 2025-09-24 |  |  |  |  |
 | 3.11 | 2025-09-11 |  |  |  |  |
 | 3.4 | 2025-09-10 |  |  |  |  |
@@ -32,7 +32,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-30 09:26:32
+Generated: 2026-06-30 22:14:50
 
 
 
@@ -42,5 +42,5 @@ Generated: 2026-06-30 09:26:32
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4.10.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3079 | 24 | 482 | 53% | 3046 | 52% |
 | 4.10.2 | LTC <sub>(60.0+0.60s)</sub> | 3021 | 26 | 402 | 52% | 3005 | 54% |
-| 4.10.2 | STC <sub>(8.0+0.08s)</sub> | 2796 | 23 | 594 | 50% | 2793 | 40% |
+| 4.10.2 | STC <sub>(8.0+0.08s)</sub> | 2795 | 23 | 594 | 50% | 2792 | 40% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
