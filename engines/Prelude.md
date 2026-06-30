@@ -8,7 +8,7 @@ Home: https://github.com/Quinniboi10/Prelude
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1 | 2025-12-10 | 3028<sub>(+new) | 3251<sub>(+new) | 3293<sub>(+new) |  |
+| 2.1 | 2025-12-10 | 3029<sub>(+new) | 3252<sub>(+new) | 3293<sub>(+new) |  |
 | 2.0 | 2025-03-24 |  |  |  |  |
 | 1.0 | 2025-02-04 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-27 06:27:30
+Generated: 2026-06-30 06:27:41
 
 
 
@@ -34,7 +34,7 @@ Generated: 2026-06-27 06:27:30
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3293 | 25 | 420 | 51% | 3275 | 62% |
-| 2.1 | LTC <sub>(60.0+0.60s)</sub> | 3251 | 26 | 412 | 53% | 3213 | 62% |
-| 2.1 | STC <sub>(8.0+0.08s)</sub> | 3028 | 23 | 564 | 51% | 3013 | 49% |
+| 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3293 | 25 | 420 | 51% | 3276 | 62% |
+| 2.1 | LTC <sub>(60.0+0.60s)</sub> | 3252 | 26 | 412 | 53% | 3214 | 62% |
+| 2.1 | STC <sub>(8.0+0.08s)</sub> | 3029 | 23 | 564 | 51% | 3013 | 49% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
