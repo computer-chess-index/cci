@@ -8,14 +8,15 @@ Home: https://github.com/ranzuh/ratsu
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0.0 | 2026-05-23 | 2233<sub>(+346) | 2541<sub>(+381) | 2606<sub>(+380) |  |
-| 1.2.0 | 2026-05-07 | 1887<sub>(+167) | 2160<sub>(+161) | 2226<sub>(+143) |  |
+| 2.1.0 | 2026-06-29 |  |  |  |  |
+| 2.0.0 | 2026-05-23 | 2233<sub>(+346) | 2541<sub>(+381) | 2606<sub>(+381) |  |
+| 1.2.0 | 2026-05-07 | 1887<sub>(+167) | 2160<sub>(+161) | 2225<sub>(+142) |  |
 | 1.1.0 | 2026-04-21 | 1720<sub>(+81) | 1999<sub>(+127) | 2083<sub>(+140) |  |
 | 1.0.0 | 2026-02-20 | 1639<sub>(+101) | 1872<sub>(+75) | 1943<sub>(+88) |  |
 | 0.9.0 | 2026-01-21 | 1538 | 1797 | 1855 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Ratsu+<version>&body=###%20Engine%20name%0ARatsu%0A%0A###%20Version%0A2.0.0" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Ratsu+<version>&body=###%20Engine%20name%0ARatsu%0A%0A###%20Version%0A2.1.0" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -28,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-06-30 22:20:19
+Generated: 2026-07-01 06:28:16
 
 ## Ratings Verlauf
 
@@ -40,8 +41,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [1538, 1639, 1720, 1887, 2233]
   line "STC (8.0+0.08s)" [1538, 1639, 1720, 1887, 2233]
   line "LTC (60.0+0.60s)" [1797, 1872, 1999, 2160, 2541]
-  line "VLTC (2m24s+1.12s)" [1855, 1943, 2083, 2226, 2606]
-  line "VLTC (2m24s+1.12s)" [1855, 1943, 2083, 2226, 2606]
+  line "VLTC (2m24s+1.12s)" [1855, 1943, 2083, 2225, 2606]
+  line "VLTC (2m24s+1.12s)" [1855, 1943, 2083, 2225, 2606]
 ```
 
 ```mermaid
@@ -73,8 +74,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [1538, 1639, 1720, 1887, 2233]
   line "STC (8.0+0.08s)" [1538, 1639, 1720, 1887, 2233]
   line "LTC (60.0+0.60s)" [1797, 1872, 1999, 2160, 2541]
-  line "VLTC (2m24s+1.12s)" [1855, 1943, 2083, 2226, 2606]
-  line "VLTC (2m24s+1.12s)" [1855, 1943, 2083, 2226, 2606]
+  line "VLTC (2m24s+1.12s)" [1855, 1943, 2083, 2225, 2606]
+  line "VLTC (2m24s+1.12s)" [1855, 1943, 2083, 2225, 2606]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -91,7 +92,7 @@ xychart-beta
 | 2.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2541 | 45 | 164 | 54% | 2496 | 29% |
 | 2.0.0 | STC <sub>(8.0+0.08s)</sub> | 2233 | 44 | 182 | 55% | 2178 | 24% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2226 | 31 | 364 | 51% | 2219 | 26% |
+| 1.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2225 | 31 | 364 | 51% | 2219 | 26% |
 | 1.2.0 | LTC <sub>(60.0+0.60s)</sub> | 2160 | 34 | 292 | 50% | 2147 | 28% |
 | 1.2.0 | STC <sub>(8.0+0.08s)</sub> | 1887 | 32 | 356 | 51% | 1868 | 22% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
