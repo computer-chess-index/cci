@@ -8,8 +8,8 @@ Home: https://github.com/Lacovipo/Gilipol
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.00 | 2026-06-06 | 2661<sub>(+127) | 2978<sub>(+124) | 3098<sub>(+105) |  |
-| 1.00netbin | 2026-04-13 | 2534<sub>(+2147) | 2854<sub>(+2404) | 2993<sub>(+2534) |  |
+| 2.00 | 2026-06-06 | 2664<sub>(+130) | 2979<sub>(+124) | 3098<sub>(+105) |  |
+| 1.00netbin | 2026-04-13 | 2534<sub>(+2147) | 2855<sub>(+2405) | 2993<sub>(+2534) |  |
 | 1.00 | 2026-04-12 | 387 | 450 | 459 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-01 06:25:00
+Generated: 2026-07-02 06:25:04
 
 ## Ratings Verlauf
 
@@ -35,9 +35,9 @@ Generated: 2026-07-01 06:25:00
 xychart-beta
   x-axis ["1.00", "1.00netbin", "2.00"]
   y-axis "Elo Rating" 300 --> 3100
-  line "STC (8.0+0.08s)" [387, 2534, 2661]
-  line "STC (8.0+0.08s)" [387, 2534, 2661]
-  line "LTC (60.0+0.60s)" [450, 2854, 2978]
+  line "STC (8.0+0.08s)" [387, 2534, 2664]
+  line "STC (8.0+0.08s)" [387, 2534, 2664]
+  line "LTC (60.0+0.60s)" [450, 2855, 2979]
   line "VLTC (2m24s+1.12s)" [459, 2993, 3098]
   line "VLTC (2m24s+1.12s)" [459, 2993, 3098]
 ```
@@ -68,9 +68,9 @@ style E fill:none,stroke:none
 xychart-beta
   x-axis ["1.00", "1.00netbin", "2.00"]
   y-axis "Elo Rating" 300 --> 3100
-  line "STC (8.0+0.08s)" [387, 2534, 2661]
-  line "STC (8.0+0.08s)" [387, 2534, 2661]
-  line "LTC (60.0+0.60s)" [450, 2854, 2978]
+  line "STC (8.0+0.08s)" [387, 2534, 2664]
+  line "STC (8.0+0.08s)" [387, 2534, 2664]
+  line "LTC (60.0+0.60s)" [450, 2855, 2979]
   line "VLTC (2m24s+1.12s)" [459, 2993, 3098]
   line "VLTC (2m24s+1.12s)" [459, 2993, 3098]
 ```
@@ -85,12 +85,12 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.00 | VLTC <sub>(2m24s+1.12s)</sub> | 3098 | 29 | 342 | 54% | 3066 | 53% |
-| 2.00 | LTC <sub>(60.0+0.60s)</sub> | 2978 | 32 | 296 | 51% | 2958 | 46% |
-| 2.00 | STC <sub>(8.0+0.08s)</sub> | 2661 | 34 | 284 | 52% | 2637 | 32% |
+| 2.00 | VLTC <sub>(2m24s+1.12s)</sub> | 3098 | 29 | 342 | 54% | 3067 | 53% |
+| 2.00 | LTC <sub>(60.0+0.60s)</sub> | 2979 | 31 | 300 | 52% | 2959 | 46% |
+| 2.00 | STC <sub>(8.0+0.08s)</sub> | 2664 | 33 | 296 | 53% | 2638 | 32% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.00netbin | VLTC <sub>(2m24s+1.12s)</sub> | 2993 | 28 | 426 | 57% | 2776 | 41% |
-| 1.00netbin | LTC <sub>(60.0+0.60s)</sub> | 2854 | 25 | 546 | 59% | 2676 | 39% |
+| 1.00netbin | LTC <sub>(60.0+0.60s)</sub> | 2855 | 25 | 546 | 59% | 2677 | 39% |
 | 1.00netbin | STC <sub>(8.0+0.08s)</sub> | 2534 | 28 | 470 | 55% | 2372 | 28% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.00 | VLTC <sub>(2m24s+1.12s)</sub> | 459 | 58 | 176 | 24% | 1048 | 21% |
