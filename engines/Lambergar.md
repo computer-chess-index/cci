@@ -8,8 +8,8 @@ Home: https://github.com/jabolcni/Lambergar
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.5 | 2026-05-28 | 3042<sub>(+142) | 3249<sub>(+51) | 3335<sub>(+61) |  |
-| 1.3 | 2025-09-19 | 2900<sub>(+new) | 3198<sub>(+new) | 3274<sub>(+new) |  |
+| 1.5 | 2026-05-28 | 3042<sub>(+142) | 3251<sub>(+51) | 3335<sub>(+60) |  |
+| 1.3 | 2025-09-19 | 2900<sub>(+new) | 3200<sub>(+new) | 3275<sub>(+new) |  |
 | 1.2 | 2025-05-21 |  |  |  |  |
 | 1.1 | 2025-03-27 |  |  |  |  |
 | 1.0 | 2025-01-14 |  |  |  |  |
@@ -37,7 +37,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-01 06:26:00
+Generated: 2026-07-02 06:25:57
 
 ## Ratings Verlauf
 
@@ -48,9 +48,9 @@ xychart-beta
   y-axis "Elo Rating" 2900 --> 3400
   line "STC (8.0+0.08s)" [2900, 3042]
   line "STC (8.0+0.08s)" [2900, 3042]
-  line "LTC (60.0+0.60s)" [3198, 3249]
-  line "VLTC (2m24s+1.12s)" [3274, 3335]
-  line "VLTC (2m24s+1.12s)" [3274, 3335]
+  line "LTC (60.0+0.60s)" [3200, 3251]
+  line "VLTC (2m24s+1.12s)" [3275, 3335]
+  line "VLTC (2m24s+1.12s)" [3275, 3335]
 ```
 
 ```mermaid
@@ -81,9 +81,9 @@ xychart-beta
   y-axis "Elo Rating" 2900 --> 3400
   line "STC (8.0+0.08s)" [2900, 3042]
   line "STC (8.0+0.08s)" [2900, 3042]
-  line "LTC (60.0+0.60s)" [3198, 3249]
-  line "VLTC (2m24s+1.12s)" [3274, 3335]
-  line "VLTC (2m24s+1.12s)" [3274, 3335]
+  line "LTC (60.0+0.60s)" [3200, 3251]
+  line "VLTC (2m24s+1.12s)" [3275, 3335]
+  line "VLTC (2m24s+1.12s)" [3275, 3335]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -96,11 +96,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.5 | VLTC <sub>(2m24s+1.12s)</sub> | 3335 | 49 | 104 | 50% | 3333 | 71% |
-| 1.5 | LTC <sub>(60.0+0.60s)</sub> | 3249 | 38 | 190 | 55% | 3214 | 60% |
-| 1.5 | STC <sub>(8.0+0.08s)</sub> | 3042 | 52 | 104 | 52% | 3021 | 51% |
+| 1.5 | VLTC <sub>(2m24s+1.12s)</sub> | 3335 | 46 | 116 | 50% | 3335 | 72% |
+| 1.5 | LTC <sub>(60.0+0.60s)</sub> | 3251 | 37 | 194 | 55% | 3216 | 60% |
+| 1.5 | STC <sub>(8.0+0.08s)</sub> | 3042 | 52 | 104 | 52% | 3023 | 51% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.3 | VLTC <sub>(2m24s+1.12s)</sub> | 3274 | 24 | 462 | 52% | 3260 | 66% |
-| 1.3 | LTC <sub>(60.0+0.60s)</sub> | 3198 | 26 | 398 | 51% | 3189 | 63% |
-| 1.3 | STC <sub>(8.0+0.08s)</sub> | 2900 | 22 | 640 | 53% | 2858 | 42% |
+| 1.3 | VLTC <sub>(2m24s+1.12s)</sub> | 3275 | 24 | 462 | 52% | 3260 | 66% |
+| 1.3 | LTC <sub>(60.0+0.60s)</sub> | 3200 | 26 | 398 | 51% | 3190 | 63% |
+| 1.3 | STC <sub>(8.0+0.08s)</sub> | 2900 | 22 | 640 | 53% | 2859 | 42% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
