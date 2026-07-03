@@ -8,7 +8,7 @@ Home: https://github.com/enfmarinho/Minke
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.0.0 | 2026-04-25 | 3151<sub>(+30) | 3356<sub>(+53) | 3418<sub>(+44) |  |
+| 6.0.0 | 2026-04-25 | 3151<sub>(+30) | 3357<sub>(+54) | 3420<sub>(+46) |  |
 | 5.0.0 | 2026-02-13 | 3121<sub>(+61) | 3303<sub>(+41) | 3374<sub>(+89) |  |
 | 4.0.0 | 2025-12-29 | 3060<sub>(+93) | 3262<sub>(+64) | 3285<sub>(+50) |  |
 | 3.0.0 | 2025-10-20 | 2967<sub>(+new) | 3198<sub>(+new) | 3235<sub>(+new) |  |
@@ -29,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-02 06:26:37
+Generated: 2026-07-03 06:26:27
 
 ## Ratings Verlauf
 
@@ -40,9 +40,9 @@ xychart-beta
   y-axis "Elo Rating" 2900 --> 3500
   line "STC (8.0+0.08s)" [2967, 3060, 3121, 3151]
   line "STC (8.0+0.08s)" [2967, 3060, 3121, 3151]
-  line "LTC (60.0+0.60s)" [3198, 3262, 3303, 3356]
-  line "VLTC (2m24s+1.12s)" [3235, 3285, 3374, 3418]
-  line "VLTC (2m24s+1.12s)" [3235, 3285, 3374, 3418]
+  line "LTC (60.0+0.60s)" [3198, 3262, 3303, 3357]
+  line "VLTC (2m24s+1.12s)" [3235, 3285, 3374, 3420]
+  line "VLTC (2m24s+1.12s)" [3235, 3285, 3374, 3420]
 ```
 
 ```mermaid
@@ -73,9 +73,9 @@ xychart-beta
   y-axis "Elo Rating" 2900 --> 3500
   line "STC (8.0+0.08s)" [2967, 3060, 3121, 3151]
   line "STC (8.0+0.08s)" [2967, 3060, 3121, 3151]
-  line "LTC (60.0+0.60s)" [3198, 3262, 3303, 3356]
-  line "VLTC (2m24s+1.12s)" [3235, 3285, 3374, 3418]
-  line "VLTC (2m24s+1.12s)" [3235, 3285, 3374, 3418]
+  line "LTC (60.0+0.60s)" [3198, 3262, 3303, 3357]
+  line "VLTC (2m24s+1.12s)" [3235, 3285, 3374, 3420]
+  line "VLTC (2m24s+1.12s)" [3235, 3285, 3374, 3420]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -88,8 +88,8 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 6.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3418 | 26 | 370 | 50% | 3417 | 77% |
-| 6.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3356 | 26 | 370 | 50% | 3355 | 70% |
+| 6.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3420 | 25 | 374 | 50% | 3417 | 77% |
+| 6.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3357 | 26 | 374 | 50% | 3355 | 70% |
 | 6.0.0 | STC <sub>(8.0+0.08s)</sub> | 3151 | 29 | 326 | 50% | 3152 | 59% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 5.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3374 | 24 | 414 | 50% | 3374 | 73% |
