@@ -8,7 +8,7 @@ Home: https://github.com/sophiathedev/askaig
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 20260628 | 2026-06-28 | 2410<sub>(+11) | 2665<sub>(+22) | 2677<sub>(-58) |  |
+| 20260628 | 2026-06-28 | 2408<sub>(+9) | 2662<sub>(+19) | 2696<sub>(-39) |  |
 | 20260616 | 2026-06-16 | 2399<sub>(+new) | 2643<sub>(+new) | 2735<sub>(+new) |  |
 | 20260615 | 2026-06-15 |  |  |  |  |
 | 20260614 | 2026-06-14 |  |  |  |  |
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-02 06:22:48
+Generated: 2026-07-03 06:22:43
 
 ## Ratings Verlauf
 
@@ -36,11 +36,11 @@ Generated: 2026-07-02 06:22:48
 xychart-beta
   x-axis ["20260616", "20260628"]
   y-axis "Elo Rating" 2300 --> 2800
-  line "STC (8.0+0.08s)" [2399, 2410]
-  line "STC (8.0+0.08s)" [2399, 2410]
-  line "LTC (60.0+0.60s)" [2643, 2665]
-  line "VLTC (2m24s+1.12s)" [2735, 2677]
-  line "VLTC (2m24s+1.12s)" [2735, 2677]
+  line "STC (8.0+0.08s)" [2399, 2408]
+  line "STC (8.0+0.08s)" [2399, 2408]
+  line "LTC (60.0+0.60s)" [2643, 2662]
+  line "VLTC (2m24s+1.12s)" [2735, 2696]
+  line "VLTC (2m24s+1.12s)" [2735, 2696]
 ```
 
 ```mermaid
@@ -69,11 +69,11 @@ style E fill:none,stroke:none
 xychart-beta
   x-axis ["20260616", "20260628"]
   y-axis "Elo Rating" 2300 --> 2800
-  line "STC (8.0+0.08s)" [2399, 2410]
-  line "STC (8.0+0.08s)" [2399, 2410]
-  line "LTC (60.0+0.60s)" [2643, 2665]
-  line "VLTC (2m24s+1.12s)" [2735, 2677]
-  line "VLTC (2m24s+1.12s)" [2735, 2677]
+  line "STC (8.0+0.08s)" [2399, 2408]
+  line "STC (8.0+0.08s)" [2399, 2408]
+  line "LTC (60.0+0.60s)" [2643, 2662]
+  line "VLTC (2m24s+1.12s)" [2735, 2696]
+  line "VLTC (2m24s+1.12s)" [2735, 2696]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -86,9 +86,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 20260628 | VLTC <sub>(2m24s+1.12s)</sub> | 2677 | 66 | 68 | 48% | 2696 | 43% |
-| 20260628 | LTC <sub>(60.0+0.60s)</sub> | 2665 | 58 | 96 | 49% | 2674 | 29% |
-| 20260628 | STC <sub>(8.0+0.08s)</sub> | 2410 | 58 | 92 | 52% | 2394 | 34% |
+| 20260628 | VLTC <sub>(2m24s+1.12s)</sub> | 2696 | 61 | 80 | 51% | 2692 | 44% |
+| 20260628 | LTC <sub>(60.0+0.60s)</sub> | 2662 | 53 | 116 | 49% | 2672 | 31% |
+| 20260628 | STC <sub>(8.0+0.08s)</sub> | 2408 | 58 | 96 | 52% | 2394 | 32% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 20260616 | VLTC <sub>(2m24s+1.12s)</sub> | 2735 | 47 | 144 | 51% | 2724 | 36% |
 | 20260616 | LTC <sub>(60.0+0.60s)</sub> | 2643 | 47 | 148 | 46% | 2677 | 34% |
