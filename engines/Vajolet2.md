@@ -8,7 +8,7 @@ Home: https://github.com/elcabesa/vajolet
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.2 | 2026-05-17 | 2842<sub>(+22) | 3108<sub>(+69) | 3155<sub>(+36) |  |
+| 3.2 | 2026-05-17 | 2842<sub>(+22) | 3109<sub>(+70) | 3155<sub>(+36) |  |
 | 3.1 | 2026-04-03 | 2820<sub>(+101) | 3039<sub>(+58) | 3119<sub>(+63) |  |
 | 3.0 | 2025-12-21 | 2719<sub>(+new) | 2981<sub>(+new) | 3056<sub>(+new) |  |
 | 2.8 | 2019-11-01 |  |  |  |  |
@@ -34,7 +34,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-02 06:29:59
+Generated: 2026-07-03 06:29:41
 
 ## Ratings Verlauf
 
@@ -45,7 +45,7 @@ xychart-beta
   y-axis "Elo Rating" 2700 --> 3200
   line "STC (8.0+0.08s)" [2719, 2820, 2842]
   line "STC (8.0+0.08s)" [2719, 2820, 2842]
-  line "LTC (60.0+0.60s)" [2981, 3039, 3108]
+  line "LTC (60.0+0.60s)" [2981, 3039, 3109]
   line "VLTC (2m24s+1.12s)" [3056, 3119, 3155]
   line "VLTC (2m24s+1.12s)" [3056, 3119, 3155]
 ```
@@ -78,7 +78,7 @@ xychart-beta
   y-axis "Elo Rating" 2700 --> 3200
   line "STC (8.0+0.08s)" [2719, 2820, 2842]
   line "STC (8.0+0.08s)" [2719, 2820, 2842]
-  line "LTC (60.0+0.60s)" [2981, 3039, 3108]
+  line "LTC (60.0+0.60s)" [2981, 3039, 3109]
   line "VLTC (2m24s+1.12s)" [3056, 3119, 3155]
   line "VLTC (2m24s+1.12s)" [3056, 3119, 3155]
 ```
@@ -94,7 +94,7 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3155 | 30 | 302 | 48% | 3174 | 53% |
-| 3.2 | LTC <sub>(60.0+0.60s)</sub> | 3108 | 30 | 320 | 50% | 3112 | 48% |
+| 3.2 | LTC <sub>(60.0+0.60s)</sub> | 3109 | 30 | 320 | 50% | 3113 | 48% |
 | 3.2 | STC <sub>(8.0+0.08s)</sub> | 2842 | 30 | 344 | 49% | 2850 | 42% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3119 | 29 | 352 | 50% | 3120 | 47% |
