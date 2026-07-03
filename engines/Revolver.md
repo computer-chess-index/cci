@@ -8,7 +8,7 @@ Home: https://github.com/GoldenRare/Revolver
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0 | 2026-05-01 | 2516<sub>(+267) | 2763<sub>(+270) | 2820<sub>(+267) |  |
+| 2.0 | 2026-05-01 | 2515<sub>(+266) | 2765<sub>(+272) | 2819<sub>(+266) |  |
 | 1.0 | 2026-01-01 | 2249 | 2493 | 2553 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-02 06:28:18
+Generated: 2026-07-03 06:28:03
 
 ## Ratings Verlauf
 
@@ -34,11 +34,11 @@ Generated: 2026-07-02 06:28:18
 xychart-beta
   x-axis ["1.0", "2.0"]
   y-axis "Elo Rating" 2200 --> 2900
-  line "STC (8.0+0.08s)" [2249, 2516]
-  line "STC (8.0+0.08s)" [2249, 2516]
-  line "LTC (60.0+0.60s)" [2493, 2763]
-  line "VLTC (2m24s+1.12s)" [2553, 2820]
-  line "VLTC (2m24s+1.12s)" [2553, 2820]
+  line "STC (8.0+0.08s)" [2249, 2515]
+  line "STC (8.0+0.08s)" [2249, 2515]
+  line "LTC (60.0+0.60s)" [2493, 2765]
+  line "VLTC (2m24s+1.12s)" [2553, 2819]
+  line "VLTC (2m24s+1.12s)" [2553, 2819]
 ```
 
 ```mermaid
@@ -67,11 +67,11 @@ style E fill:none,stroke:none
 xychart-beta
   x-axis ["1.0", "2.0"]
   y-axis "Elo Rating" 2200 --> 2900
-  line "STC (8.0+0.08s)" [2249, 2516]
-  line "STC (8.0+0.08s)" [2249, 2516]
-  line "LTC (60.0+0.60s)" [2493, 2763]
-  line "VLTC (2m24s+1.12s)" [2553, 2820]
-  line "VLTC (2m24s+1.12s)" [2553, 2820]
+  line "STC (8.0+0.08s)" [2249, 2515]
+  line "STC (8.0+0.08s)" [2249, 2515]
+  line "LTC (60.0+0.60s)" [2493, 2765]
+  line "VLTC (2m24s+1.12s)" [2553, 2819]
+  line "VLTC (2m24s+1.12s)" [2553, 2819]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -84,9 +84,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2820 | 29 | 376 | 53% | 2795 | 40% |
-| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 2763 | 27 | 440 | 51% | 2755 | 39% |
-| 2.0 | STC <sub>(8.0+0.08s)</sub> | 2516 | 30 | 372 | 51% | 2506 | 28% |
+| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2819 | 29 | 380 | 52% | 2796 | 39% |
+| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 2765 | 27 | 444 | 51% | 2755 | 39% |
+| 2.0 | STC <sub>(8.0+0.08s)</sub> | 2515 | 30 | 376 | 51% | 2506 | 29% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2553 | 27 | 450 | 46% | 2595 | 32% |
 | 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2493 | 29 | 408 | 49% | 2504 | 25% |
