@@ -8,7 +8,7 @@ Home: https://github.com/codedeliveryservice/Reckless
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.9.0 | 2026-03-01 | 3470<sub>(+40) | 3560<sub>(+12) | 3586<sub>(+25) |  |
+| 0.9.0 | 2026-03-01 | 3470<sub>(+40) | 3560<sub>(+12) | 3584<sub>(+23) |  |
 | 0.8.0 | 2025-08-30 | 3430<sub>(+new) | 3548<sub>(+new) | 3561<sub>(+new) |  |
 | 0.7.0 | 2024-08-23 |  |  |  |  |
 | 0.6.0 | 2024-03-21 |  |  |  |  |
@@ -32,7 +32,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-03 06:27:59
+Generated: 2026-07-04 09:40:14
 
 ## Ratings Verlauf
 
@@ -44,8 +44,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [3430, 3470]
   line "STC (8.0+0.08s)" [3430, 3470]
   line "LTC (60.0+0.60s)" [3548, 3560]
-  line "VLTC (2m24s+1.12s)" [3561, 3586]
-  line "VLTC (2m24s+1.12s)" [3561, 3586]
+  line "VLTC (2m24s+1.12s)" [3561, 3584]
+  line "VLTC (2m24s+1.12s)" [3561, 3584]
 ```
 
 ```mermaid
@@ -77,8 +77,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [3430, 3470]
   line "STC (8.0+0.08s)" [3430, 3470]
   line "LTC (60.0+0.60s)" [3548, 3560]
-  line "VLTC (2m24s+1.12s)" [3561, 3586]
-  line "VLTC (2m24s+1.12s)" [3561, 3586]
+  line "VLTC (2m24s+1.12s)" [3561, 3584]
+  line "VLTC (2m24s+1.12s)" [3561, 3584]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -91,7 +91,7 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3586 | 36 | 174 | 53% | 3563 | 92% |
+| 0.9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3584 | 36 | 174 | 53% | 3561 | 92% |
 | 0.9.0 | LTC <sub>(60.0+0.60s)</sub> | 3560 | 29 | 256 | 51% | 3555 | 93% |
 | 0.9.0 | STC <sub>(8.0+0.08s)</sub> | 3470 | 22 | 490 | 50% | 3467 | 80% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
