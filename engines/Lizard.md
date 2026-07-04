@@ -8,7 +8,7 @@ Home: https://github.com/liamt19/Lizard
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 11.2 | 2025-01-08 | 3291<sub>(+16) | 3471<sub>(+22) | 3503<sub>(+9) |  |
+| 11.2 | 2025-01-08 | 3291<sub>(+16) | 3471<sub>(+22) | 3505<sub>(+11) |  |
 | 11.1.5 | 2024-12-30 | 3275<sub>(+new) | 3449<sub>(+new) | 3494<sub>(+new) |  |
 | 11.1 | 2024-11-11 |  |  |  |  |
 | 11.0 | 2024-09-26 | 3220<sub>(+10) | 3433<sub>(-14) | 3480<sub>(-4) |  |
@@ -39,7 +39,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-03 06:25:59
+Generated: 2026-07-04 09:38:08
 
 ## Ratings Verlauf
 
@@ -51,8 +51,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [3210, 3220, 3275, 3291]
   line "STC (8.0+0.08s)" [3210, 3220, 3275, 3291]
   line "LTC (60.0+0.60s)" [3447, 3433, 3449, 3471]
-  line "VLTC (2m24s+1.12s)" [3484, 3480, 3494, 3503]
-  line "VLTC (2m24s+1.12s)" [3484, 3480, 3494, 3503]
+  line "VLTC (2m24s+1.12s)" [3484, 3480, 3494, 3505]
+  line "VLTC (2m24s+1.12s)" [3484, 3480, 3494, 3505]
 ```
 
 ```mermaid
@@ -84,8 +84,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [3210, 3220, 3275, 3291]
   line "STC (8.0+0.08s)" [3210, 3220, 3275, 3291]
   line "LTC (60.0+0.60s)" [3447, 3433, 3449, 3471]
-  line "VLTC (2m24s+1.12s)" [3484, 3480, 3494, 3503]
-  line "VLTC (2m24s+1.12s)" [3484, 3480, 3494, 3503]
+  line "VLTC (2m24s+1.12s)" [3484, 3480, 3494, 3505]
+  line "VLTC (2m24s+1.12s)" [3484, 3480, 3494, 3505]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -98,7 +98,7 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3503 | 12 | 1588 | 50% | 3506 | 87% |
+| 11.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3505 | 12 | 1592 | 50% | 3506 | 87% |
 | 11.2 | LTC <sub>(60.0+0.60s)</sub> | 3471 | 12 | 1584 | 50% | 3468 | 82% |
 | 11.2 | STC <sub>(8.0+0.08s)</sub> | 3291 | 13 | 1604 | 51% | 3285 | 64% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
