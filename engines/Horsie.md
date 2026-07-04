@@ -8,7 +8,7 @@ Home: https://github.com/liamt19/Horsie
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1 | 2025-05-13 | 3339<sub>(+15) | 3486<sub>(+12) | 3517<sub>(-7) |  |
+| 1.1 | 2025-05-13 | 3339<sub>(+15) | 3486<sub>(+12) | 3518<sub>(-6) |  |
 | 1.0 | 2025-01-08 | 3324 | 3474 | 3524 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-03 06:25:17
+Generated: 2026-07-04 09:37:25
 
 ## Ratings Verlauf
 
@@ -37,8 +37,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [3324, 3339]
   line "STC (8.0+0.08s)" [3324, 3339]
   line "LTC (60.0+0.60s)" [3474, 3486]
-  line "VLTC (2m24s+1.12s)" [3524, 3517]
-  line "VLTC (2m24s+1.12s)" [3524, 3517]
+  line "VLTC (2m24s+1.12s)" [3524, 3518]
+  line "VLTC (2m24s+1.12s)" [3524, 3518]
 ```
 
 ```mermaid
@@ -70,8 +70,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [3324, 3339]
   line "STC (8.0+0.08s)" [3324, 3339]
   line "LTC (60.0+0.60s)" [3474, 3486]
-  line "VLTC (2m24s+1.12s)" [3524, 3517]
-  line "VLTC (2m24s+1.12s)" [3524, 3517]
+  line "VLTC (2m24s+1.12s)" [3524, 3518]
+  line "VLTC (2m24s+1.12s)" [3524, 3518]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -84,7 +84,7 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3517 | 16 | 848 | 50% | 3517 | 86% |
+| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3518 | 16 | 848 | 50% | 3517 | 86% |
 | 1.1 | LTC <sub>(60.0+0.60s)</sub> | 3486 | 17 | 846 | 51% | 3483 | 83% |
 | 1.1 | STC <sub>(8.0+0.08s)</sub> | 3339 | 16 | 982 | 50% | 3340 | 69% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
