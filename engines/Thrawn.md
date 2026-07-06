@@ -8,7 +8,7 @@ Home: https://github.com/feftywacky/Thrawn
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0 | 2026-05-25 | 2223<sub>(-238) | 2645<sub>(-177) | 2790<sub>(-100) |  |
+| 3.0 | 2026-05-25 | 2207<sub>(-254) | 2645<sub>(-177) | 2790<sub>(-100) |  |
 | 2.2 | 2025-10-08 | 2461<sub>(+new) | 2822<sub>(+new) | 2890<sub>(+new) |  |
 | 2.1 | 2024-07-16 |  |  |  |  |
 | 2.0 | 2024-01-01 |  |  |  |  |
@@ -33,7 +33,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-04 09:41:40
+Generated: 2026-07-06 06:29:36
 
 ## Ratings Verlauf
 
@@ -42,8 +42,8 @@ Generated: 2026-07-04 09:41:40
 xychart-beta
   x-axis ["2.2", "3.0"]
   y-axis "Elo Rating" 2200 --> 2900
-  line "STC (8.0+0.08s)" [2461, 2223]
-  line "STC (8.0+0.08s)" [2461, 2223]
+  line "STC (8.0+0.08s)" [2461, 2207]
+  line "STC (8.0+0.08s)" [2461, 2207]
   line "LTC (60.0+0.60s)" [2822, 2645]
   line "VLTC (2m24s+1.12s)" [2890, 2790]
   line "VLTC (2m24s+1.12s)" [2890, 2790]
@@ -75,8 +75,8 @@ style E fill:none,stroke:none
 xychart-beta
   x-axis ["2.2", "3.0"]
   y-axis "Elo Rating" 2200 --> 2900
-  line "STC (8.0+0.08s)" [2461, 2223]
-  line "STC (8.0+0.08s)" [2461, 2223]
+  line "STC (8.0+0.08s)" [2461, 2207]
+  line "STC (8.0+0.08s)" [2461, 2207]
   line "LTC (60.0+0.60s)" [2822, 2645]
   line "VLTC (2m24s+1.12s)" [2890, 2790]
   line "VLTC (2m24s+1.12s)" [2890, 2790]
@@ -94,7 +94,7 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2790 | 45 | 154 | 47% | 2817 | 35% |
 | 3.0 | LTC <sub>(60.0+0.60s)</sub> | 2645 | 46 | 148 | 51% | 2639 | 35% |
-| 3.0 | STC <sub>(8.0+0.08s)</sub> | 2223 | 59 | 92 | 47% | 2250 | 32% |
+| 3.0 | STC <sub>(8.0+0.08s)</sub> | 2207 | 53 | 116 | 46% | 2242 | 30% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2890 | 24 | 510 | 47% | 2917 | 48% |
 | 2.2 | LTC <sub>(60.0+0.60s)</sub> | 2822 | 27 | 434 | 50% | 2823 | 39% |
