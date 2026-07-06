@@ -8,7 +8,7 @@ Home: https://github.com/op12no2/cwtch
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 5 | 2026-04-06 | 2873<sub>(+35) | 3128<sub>(+51) | 3197<sub>(+76) |  |
+| 5 | 2026-04-06 | 2873<sub>(+35) | 3129<sub>(+52) | 3197<sub>(+76) |  |
 | 4 | 2025-12-05 | 2838<sub>(+new) | 3077<sub>(+new) | 3121<sub>(+new) |  |
 | 3 | 2025-09-27 |  |  |  |  |
 | 2 | 2025-09-19 |  |  |  |  |
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-04 09:36:06
+Generated: 2026-07-06 06:24:06
 
 ## Ratings Verlauf
 
@@ -38,7 +38,7 @@ xychart-beta
   y-axis "Elo Rating" 2800 --> 3200
   line "STC (8.0+0.08s)" [2838, 2873]
   line "STC (8.0+0.08s)" [2838, 2873]
-  line "LTC (60.0+0.60s)" [3077, 3128]
+  line "LTC (60.0+0.60s)" [3077, 3129]
   line "VLTC (2m24s+1.12s)" [3121, 3197]
   line "VLTC (2m24s+1.12s)" [3121, 3197]
 ```
@@ -71,7 +71,7 @@ xychart-beta
   y-axis "Elo Rating" 2800 --> 3200
   line "STC (8.0+0.08s)" [2838, 2873]
   line "STC (8.0+0.08s)" [2838, 2873]
-  line "LTC (60.0+0.60s)" [3077, 3128]
+  line "LTC (60.0+0.60s)" [3077, 3129]
   line "VLTC (2m24s+1.12s)" [3121, 3197]
   line "VLTC (2m24s+1.12s)" [3121, 3197]
 ```
@@ -87,7 +87,7 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 5 | VLTC <sub>(2m24s+1.12s)</sub> | 3197 | 25 | 438 | 48% | 3218 | 59% |
-| 5 | LTC <sub>(60.0+0.60s)</sub> | 3128 | 28 | 358 | 50% | 3127 | 56% |
+| 5 | LTC <sub>(60.0+0.60s)</sub> | 3129 | 28 | 358 | 50% | 3127 | 56% |
 | 5 | STC <sub>(8.0+0.08s)</sub> | 2873 | 28 | 392 | 49% | 2885 | 40% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4 | VLTC <sub>(2m24s+1.12s)</sub> | 3121 | 26 | 428 | 50% | 3121 | 50% |
