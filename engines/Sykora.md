@@ -9,7 +9,7 @@ Home: https://github.com/sb2bg/sykora
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 0.2.2 | 2026-03-23 |  |  |  |  |
-| 0.2.1 | 2026-03-02 | 1982<sub>(+101) | 2340<sub>(+123) | 2435<sub>(+25) |  |
+| 0.2.1 | 2026-03-02 | 1982<sub>(+101) | 2345<sub>(+128) | 2435<sub>(+25) |  |
 | 0.1.0 | 2026-02-17 | 1881 | 2217 | 2410 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-04 09:41:30
+Generated: 2026-07-06 06:29:26
 
 ## Ratings Verlauf
 
@@ -37,7 +37,7 @@ xychart-beta
   y-axis "Elo Rating" 1800 --> 2500
   line "STC (8.0+0.08s)" [1881, 1982]
   line "STC (8.0+0.08s)" [1881, 1982]
-  line "LTC (60.0+0.60s)" [2217, 2340]
+  line "LTC (60.0+0.60s)" [2217, 2345]
   line "VLTC (2m24s+1.12s)" [2410, 2435]
   line "VLTC (2m24s+1.12s)" [2410, 2435]
 ```
@@ -70,7 +70,7 @@ xychart-beta
   y-axis "Elo Rating" 1800 --> 2500
   line "STC (8.0+0.08s)" [1881, 1982]
   line "STC (8.0+0.08s)" [1881, 1982]
-  line "LTC (60.0+0.60s)" [2217, 2340]
+  line "LTC (60.0+0.60s)" [2217, 2345]
   line "VLTC (2m24s+1.12s)" [2410, 2435]
   line "VLTC (2m24s+1.12s)" [2410, 2435]
 ```
@@ -86,7 +86,7 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2435 | 36 | 246 | 53% | 2410 | 33% |
-| 0.2.1 | LTC <sub>(60.0+0.60s)</sub> | 2340 | 34 | 288 | 49% | 2348 | 28% |
+| 0.2.1 | LTC <sub>(60.0+0.60s)</sub> | 2345 | 34 | 292 | 49% | 2348 | 28% |
 | 0.2.1 | STC <sub>(8.0+0.08s)</sub> | 1982 | 35 | 294 | 50% | 1982 | 21% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2410 | 126 | 28 | 21% | 2714 | 21% |
