@@ -10,7 +10,7 @@ Home: https://github.com/op12no2/lozza
 | --- | --- | --- | --- | --- | --- |
 | 6 | 2026-02-13 |  |  |  |  |
 | 2 | 2026-02-13 |  |  |  |  |
-| 10 | 2026-01-17 | 2854<sub>(+254) | 3071<sub>(+179) | 3106<sub>(+117) |  |
+| 10 | 2026-01-17 | 2854<sub>(+254) | 3070<sub>(+178) | 3106<sub>(+117) |  |
 | 9 | 2026-01-10 | 2600<sub>(+16) | 2892<sub>(-15) | 2989<sub>(-32) |  |
 | 8 | 2025-09-25 | 2584<sub>(+new) | 2907<sub>(+new) | 3021<sub>(+new) |  |
 | 7 | 2025-07-12 |  |  |  |  |
@@ -34,7 +34,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-04 09:38:12
+Generated: 2026-07-06 06:26:11
 
 ## Ratings Verlauf
 
@@ -45,7 +45,7 @@ xychart-beta
   y-axis "Elo Rating" 2500 --> 3200
   line "STC (8.0+0.08s)" [2584, 2600, 2854]
   line "STC (8.0+0.08s)" [2584, 2600, 2854]
-  line "LTC (60.0+0.60s)" [2907, 2892, 3071]
+  line "LTC (60.0+0.60s)" [2907, 2892, 3070]
   line "VLTC (2m24s+1.12s)" [3021, 2989, 3106]
   line "VLTC (2m24s+1.12s)" [3021, 2989, 3106]
 ```
@@ -78,7 +78,7 @@ xychart-beta
   y-axis "Elo Rating" 2500 --> 3200
   line "STC (8.0+0.08s)" [2584, 2600, 2854]
   line "STC (8.0+0.08s)" [2584, 2600, 2854]
-  line "LTC (60.0+0.60s)" [2907, 2892, 3071]
+  line "LTC (60.0+0.60s)" [2907, 2892, 3070]
   line "VLTC (2m24s+1.12s)" [3021, 2989, 3106]
   line "VLTC (2m24s+1.12s)" [3021, 2989, 3106]
 ```
@@ -94,8 +94,8 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 10 | VLTC <sub>(2m24s+1.12s)</sub> | 3106 | 26 | 422 | 50% | 3101 | 51% |
-| 10 | LTC <sub>(60.0+0.60s)</sub> | 3071 | 27 | 404 | 52% | 3046 | 50% |
-| 10 | STC <sub>(8.0+0.08s)</sub> | 2854 | 23 | 584 | 48% | 2855 | 39% |
+| 10 | LTC <sub>(60.0+0.60s)</sub> | 3070 | 27 | 408 | 52% | 3046 | 50% |
+| 10 | STC <sub>(8.0+0.08s)</sub> | 2854 | 23 | 588 | 48% | 2855 | 39% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 9 | VLTC <sub>(2m24s+1.12s)</sub> | 2989 | 36 | 216 | 51% | 2978 | 52% |
 | 9 | LTC <sub>(60.0+0.60s)</sub> | 2892 | 40 | 182 | 48% | 2909 | 46% |
