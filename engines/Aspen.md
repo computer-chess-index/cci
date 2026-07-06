@@ -9,7 +9,7 @@ Home: https://github.com/ATheofanis/aspen-chess
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 2.3.0 | 2026-05-23 |  |  |  |  |
-| 2.2.0 | 2026-05-22 | 2673<sub>(-4) | 3082<sub>(+104) | 3121<sub>(+56) |  |
+| 2.2.0 | 2026-05-22 | 2673<sub>(-4) | 3083<sub>(+105) | 3120<sub>(+55) |  |
 | 2.1.0 | 2026-05-21 | 2677<sub>(+new) | 2978<sub>(+new) | 3065<sub>(+new) |  |
 | 2.0.0 | 2026-05-21 |  |  |  |  |
 | 1.3.0 | 2026-05-20 | 2352<sub>(+170) | 2692<sub>(+51) | 2834<sub>(+156) |  |
@@ -36,7 +36,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-04 09:34:51
+Generated: 2026-07-06 06:22:49
 
 ## Ratings Verlauf
 
@@ -47,9 +47,9 @@ xychart-beta
   y-axis "Elo Rating" 2100 --> 3200
   line "STC (8.0+0.08s)" [2352, 2182, 2677, 2673]
   line "STC (8.0+0.08s)" [2352, 2182, 2677, 2673]
-  line "LTC (60.0+0.60s)" [2692, 2641, 2978, 3082]
-  line "VLTC (2m24s+1.12s)" [2834, 2678, 3065, 3121]
-  line "VLTC (2m24s+1.12s)" [2834, 2678, 3065, 3121]
+  line "LTC (60.0+0.60s)" [2692, 2641, 2978, 3083]
+  line "VLTC (2m24s+1.12s)" [2834, 2678, 3065, 3120]
+  line "VLTC (2m24s+1.12s)" [2834, 2678, 3065, 3120]
 ```
 
 ```mermaid
@@ -80,9 +80,9 @@ xychart-beta
   y-axis "Elo Rating" 2100 --> 3200
   line "STC (8.0+0.08s)" [2352, 2182, 2677, 2673]
   line "STC (8.0+0.08s)" [2352, 2182, 2677, 2673]
-  line "LTC (60.0+0.60s)" [2692, 2641, 2978, 3082]
-  line "VLTC (2m24s+1.12s)" [2834, 2678, 3065, 3121]
-  line "VLTC (2m24s+1.12s)" [2834, 2678, 3065, 3121]
+  line "LTC (60.0+0.60s)" [2692, 2641, 2978, 3083]
+  line "VLTC (2m24s+1.12s)" [2834, 2678, 3065, 3120]
+  line "VLTC (2m24s+1.12s)" [2834, 2678, 3065, 3120]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -95,9 +95,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3121 | 49 | 118 | 51% | 3114 | 53% |
-| 2.2.0 | LTC <sub>(60.0+0.60s)</sub> | 3082 | 45 | 132 | 52% | 3070 | 59% |
-| 2.2.0 | STC <sub>(8.0+0.08s)</sub> | 2673 | 55 | 98 | 48% | 2682 | 42% |
+| 2.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3120 | 48 | 122 | 50% | 3117 | 53% |
+| 2.2.0 | LTC <sub>(60.0+0.60s)</sub> | 3083 | 45 | 132 | 52% | 3070 | 59% |
+| 2.2.0 | STC <sub>(8.0+0.08s)</sub> | 2673 | 54 | 102 | 49% | 2682 | 42% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3065 | 31 | 318 | 52% | 3051 | 45% |
 | 2.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2978 | 28 | 382 | 51% | 2970 | 47% |
