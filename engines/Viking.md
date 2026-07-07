@@ -8,7 +8,7 @@ Home: https://github.com/nbqofficial/viking
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| R5 | 2026-04-27 | 1917<sub>(+576) | 2174<sub>(+351) | 2346<sub>(+237) |  |
+| R5 | 2026-04-27 | 1916<sub>(+575) | 2174<sub>(+351) | 2346<sub>(+237) |  |
 | R4 | 2026-04-22 | 1341<sub>(+new) | 1823<sub>(+new) | 2109<sub>(+new) |  |
 | R3 | 2026-04-22 |  |  |  |  |
 | R2 | 2025-09-25 |  |  |  |  |
@@ -28,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-06 06:31:47
+Generated: 2026-07-07 06:30:44
 
 ## Ratings Verlauf
 
@@ -37,8 +37,8 @@ Generated: 2026-07-06 06:31:47
 xychart-beta
   x-axis ["R4", "R5"]
   y-axis "Elo Rating" 1300 --> 2400
-  line "STC (8.0+0.08s)" [1341, 1917]
-  line "STC (8.0+0.08s)" [1341, 1917]
+  line "STC (8.0+0.08s)" [1341, 1916]
+  line "STC (8.0+0.08s)" [1341, 1916]
   line "LTC (60.0+0.60s)" [1823, 2174]
   line "VLTC (2m24s+1.12s)" [2109, 2346]
   line "VLTC (2m24s+1.12s)" [2109, 2346]
@@ -70,8 +70,8 @@ style E fill:none,stroke:none
 xychart-beta
   x-axis ["R4", "R5"]
   y-axis "Elo Rating" 1300 --> 2400
-  line "STC (8.0+0.08s)" [1341, 1917]
-  line "STC (8.0+0.08s)" [1341, 1917]
+  line "STC (8.0+0.08s)" [1341, 1916]
+  line "STC (8.0+0.08s)" [1341, 1916]
   line "LTC (60.0+0.60s)" [1823, 2174]
   line "VLTC (2m24s+1.12s)" [2109, 2346]
   line "VLTC (2m24s+1.12s)" [2109, 2346]
@@ -89,7 +89,7 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | R5 | VLTC <sub>(2m24s+1.12s)</sub> | 2346 | 29 | 398 | 49% | 2356 | 34% |
 | R5 | LTC <sub>(60.0+0.60s)</sub> | 2174 | 29 | 406 | 51% | 2156 | 29% |
-| R5 | STC <sub>(8.0+0.08s)</sub> | 1917 | 29 | 446 | 51% | 1906 | 20% |
+| R5 | STC <sub>(8.0+0.08s)</sub> | 1916 | 29 | 446 | 51% | 1905 | 20% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | R4 | VLTC <sub>(2m24s+1.12s)</sub> | 2109 | 31 | 372 | 41% | 2219 | 28% |
 | R4 | LTC <sub>(60.0+0.60s)</sub> | 1823 | 36 | 298 | 46% | 1891 | 23% |
