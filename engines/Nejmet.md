@@ -8,7 +8,7 @@ Home:
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.07 | 2003-06-23 | 2026 | 2272 | 2331 |  |
+| 3.07 | 2003-06-23 | 2028 | 2272 | 2331 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Nejmet+<version>&body=###%20Engine%20name%0ANejmet%0A%0A###%20Version%0A3.07" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-06 06:26:50
+Generated: 2026-07-07 06:27:18
 
 
 
@@ -34,5 +34,5 @@ Generated: 2026-07-06 06:26:50
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.07 | VLTC <sub>(2m24s+1.12s)</sub> | 2331 | 40 | 240 | 43% | 2430 | 19% |
 | 3.07 | LTC <sub>(60.0+0.60s)</sub> | 2272 | 56 | 116 | 44% | 2326 | 20% |
-| 3.07 | STC <sub>(8.0+0.08s)</sub> | 2026 | 44 | 268 | 46% | 2203 | 11% |
+| 3.07 | STC <sub>(8.0+0.08s)</sub> | 2028 | 44 | 268 | 46% | 2203 | 11% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
