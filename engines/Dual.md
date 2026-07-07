@@ -8,6 +8,7 @@ Home: https://github.com/DSTGU/Dual
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
+| 0.3.2 | 2026-07-06 |  |  |  |  |
 | 0.3.1 | 2026-07-05 |  |  |  |  |
 | 0.3.0 | 2026-05-23 |  |  |  |  |
 | 0.2.9 | 2026-05-19 | 1914<sub>(+225) | 2101<sub>(+243) | 2214<sub>(+290) |  |
@@ -23,7 +24,7 @@ Home: https://github.com/DSTGU/Dual
 | 0.1.0 | 2024-11-19 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Dual+<version>&body=###%20Engine%20name%0ADual%0A%0A###%20Version%0A0.3.1" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Dual+<version>&body=###%20Engine%20name%0ADual%0A%0A###%20Version%0A0.3.2" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -36,7 +37,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-06 06:24:18
+Generated: 2026-07-07 06:24:27
 
 ## Ratings Verlauf
 
@@ -96,8 +97,8 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.2.9 | VLTC <sub>(2m24s+1.12s)</sub> | 2214 | 34 | 298 | 51% | 2213 | 23% |
-| 0.2.9 | LTC <sub>(60.0+0.60s)</sub> | 2101 | 37 | 254 | 52% | 2079 | 24% |
-| 0.2.9 | STC <sub>(8.0+0.08s)</sub> | 1914 | 35 | 288 | 51% | 1909 | 20% |
+| 0.2.9 | LTC <sub>(60.0+0.60s)</sub> | 2101 | 37 | 254 | 52% | 2078 | 24% |
+| 0.2.9 | STC <sub>(8.0+0.08s)</sub> | 1914 | 35 | 288 | 51% | 1908 | 20% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.2.8 | VLTC <sub>(2m24s+1.12s)</sub> | 1924 | 34 | 312 | 48% | 1937 | 21% |
 | 0.2.8 | LTC <sub>(60.0+0.60s)</sub> | 1858 | 35 | 276 | 51% | 1839 | 29% |
