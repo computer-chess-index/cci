@@ -8,6 +8,7 @@ Home: https://github.com/tomitank/tomitankChess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
+| 7.0 | 2026-07-06 |  |  |  |  |
 | 6.0 | 2026-03-31 | 2472<sub>(+92) | 2807<sub>(+96) | 2871<sub>(+74) |  |
 | 5.3 | 2025-09-26 | 2380<sub>(+new) | 2711<sub>(+new) | 2797<sub>(+new) |  |
 | 5.1 | 2024-03-24 |  |  |  |  |
@@ -20,7 +21,7 @@ Home: https://github.com/tomitank/tomitankChess
 | 1.5 | 2018-07-11 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+tomitankChess+<version>&body=###%20Engine%20name%0AtomitankChess%0A%0A###%20Version%0A6.0" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+tomitankChess+<version>&body=###%20Engine%20name%0AtomitankChess%0A%0A###%20Version%0A7.0" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -33,7 +34,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-06 06:29:42
+Generated: 2026-07-07 06:30:25
 
 ## Ratings Verlauf
 
