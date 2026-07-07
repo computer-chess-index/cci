@@ -8,7 +8,7 @@ Home: https://github.com/Quanticade/Quanticade
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0 | 2025-12-15 | 3332<sub>(+47) | 3503<sub>(+44) | 3532<sub>(+31) |  |
+| 3.0 | 2025-12-15 | 3332<sub>(+47) | 3503<sub>(+44) | 3533<sub>(+32) |  |
 | 2.0 | 2025-05-21 | 3285<sub>(+new) | 3459<sub>(+new) | 3501<sub>(+new) |  |
 | 1.0 Fenrir | 2025-03-10 |  |  |  |  |
 | 1.2 Chimera | 2025-01-06 |  |  |  |  |
@@ -34,7 +34,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-06 06:27:55
+Generated: 2026-07-07 06:28:26
 
 ## Ratings Verlauf
 
@@ -46,8 +46,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [3285, 3332]
   line "STC (8.0+0.08s)" [3285, 3332]
   line "LTC (60.0+0.60s)" [3459, 3503]
-  line "VLTC (2m24s+1.12s)" [3501, 3532]
-  line "VLTC (2m24s+1.12s)" [3501, 3532]
+  line "VLTC (2m24s+1.12s)" [3501, 3533]
+  line "VLTC (2m24s+1.12s)" [3501, 3533]
 ```
 
 ```mermaid
@@ -79,8 +79,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [3285, 3332]
   line "STC (8.0+0.08s)" [3285, 3332]
   line "LTC (60.0+0.60s)" [3459, 3503]
-  line "VLTC (2m24s+1.12s)" [3501, 3532]
-  line "VLTC (2m24s+1.12s)" [3501, 3532]
+  line "VLTC (2m24s+1.12s)" [3501, 3533]
+  line "VLTC (2m24s+1.12s)" [3501, 3533]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -93,9 +93,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3532 | 24 | 392 | 51% | 3528 | 90% |
-| 3.0 | LTC <sub>(60.0+0.60s)</sub> | 3503 | 24 | 394 | 50% | 3502 | 87% |
-| 3.0 | STC <sub>(8.0+0.08s)</sub> | 3332 | 21 | 570 | 50% | 3330 | 68% |
+| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3533 | 24 | 396 | 51% | 3529 | 90% |
+| 3.0 | LTC <sub>(60.0+0.60s)</sub> | 3503 | 24 | 402 | 50% | 3502 | 87% |
+| 3.0 | STC <sub>(8.0+0.08s)</sub> | 3332 | 21 | 574 | 50% | 3330 | 68% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3501 | 26 | 340 | 50% | 3497 | 84% |
 | 2.0 | LTC <sub>(60.0+0.60s)</sub> | 3459 | 26 | 352 | 50% | 3456 | 81% |
