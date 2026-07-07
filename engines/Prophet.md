@@ -8,7 +8,7 @@ Home: https://github.com/jswaff/prophet
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 5.2 | 2026-05-16 | 2084<sub>(-71) | 2387<sub>(-28) | 2495<sub>(+4) |  |
+| 5.2 | 2026-05-16 | 2084<sub>(-71) | 2387<sub>(-28) | 2493<sub>(+2) |  |
 | 5.1 | 2025-09-16 | 2155<sub>(+new) | 2415<sub>(+new) | 2491<sub>(+new) |  |
 | 5.0 | 2025-08-05 |  |  |  |  |
 | 4.4 | 2024-10-22 |  |  |  |  |
@@ -31,7 +31,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-06 06:27:43
+Generated: 2026-07-07 06:28:14
 
 ## Ratings Verlauf
 
@@ -43,8 +43,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [2155, 2084]
   line "STC (8.0+0.08s)" [2155, 2084]
   line "LTC (60.0+0.60s)" [2415, 2387]
-  line "VLTC (2m24s+1.12s)" [2491, 2495]
-  line "VLTC (2m24s+1.12s)" [2491, 2495]
+  line "VLTC (2m24s+1.12s)" [2491, 2493]
+  line "VLTC (2m24s+1.12s)" [2491, 2493]
 ```
 
 ```mermaid
@@ -76,8 +76,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [2155, 2084]
   line "STC (8.0+0.08s)" [2155, 2084]
   line "LTC (60.0+0.60s)" [2415, 2387]
-  line "VLTC (2m24s+1.12s)" [2491, 2495]
-  line "VLTC (2m24s+1.12s)" [2491, 2495]
+  line "VLTC (2m24s+1.12s)" [2491, 2493]
+  line "VLTC (2m24s+1.12s)" [2491, 2493]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -90,7 +90,7 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 5.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2495 | 31 | 342 | 50% | 2498 | 27% |
+| 5.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2493 | 31 | 346 | 50% | 2498 | 27% |
 | 5.2 | LTC <sub>(60.0+0.60s)</sub> | 2387 | 31 | 360 | 49% | 2392 | 29% |
 | 5.2 | STC <sub>(8.0+0.08s)</sub> | 2084 | 35 | 288 | 50% | 2075 | 22% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
