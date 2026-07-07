@@ -8,14 +8,15 @@ Home: https://github.com/AnanyTanwar/Catalyst
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.0 | 2026-04-23 | 2651<sub>(+85) | 3070<sub>(+128) | 3121<sub>(+78) |  |
-| 2.2.0 | 2026-04-03 | 2566<sub>(-18) | 2942<sub>(+31) | 3043<sub>(+136) |  |
+| 3.1.0 | 2026-07-07 |  |  |  |  |
+| 3.0.0 | 2026-04-23 | 2651<sub>(+83) | 3070<sub>(+128) | 3121<sub>(+78) |  |
+| 2.2.0 | 2026-04-03 | 2568<sub>(-16) | 2942<sub>(+31) | 3043<sub>(+136) |  |
 | 2.1.0 | 2026-04-02 | 2584<sub>(+5) | 2911<sub>(-28) | 2907<sub>(-66) |  |
 | 2.0.0 | 2026-03-29 | 2579<sub>(+276) | 2939<sub>(+182) | 2973<sub>(+107) |  |
 | 1.0.0 | 2026-03-26 | 2303 | 2757 | 2866 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Catalyst+<version>&body=###%20Engine%20name%0ACatalyst%0A%0A###%20Version%0A3.0.0" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Catalyst+<version>&body=###%20Engine%20name%0ACatalyst%0A%0A###%20Version%0A3.1.0" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -28,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-06 06:23:20
+Generated: 2026-07-07 06:23:26
 
 ## Ratings Verlauf
 
@@ -37,8 +38,8 @@ Generated: 2026-07-06 06:23:20
 xychart-beta
   x-axis ["1.0.0", "2.0.0", "2.1.0", "2.2.0", "3.0.0"]
   y-axis "Elo Rating" 2300 --> 3200
-  line "STC (8.0+0.08s)" [2303, 2579, 2584, 2566, 2651]
-  line "STC (8.0+0.08s)" [2303, 2579, 2584, 2566, 2651]
+  line "STC (8.0+0.08s)" [2303, 2579, 2584, 2568, 2651]
+  line "STC (8.0+0.08s)" [2303, 2579, 2584, 2568, 2651]
   line "LTC (60.0+0.60s)" [2757, 2939, 2911, 2942, 3070]
   line "VLTC (2m24s+1.12s)" [2866, 2973, 2907, 3043, 3121]
   line "VLTC (2m24s+1.12s)" [2866, 2973, 2907, 3043, 3121]
@@ -70,8 +71,8 @@ style E fill:none,stroke:none
 xychart-beta
   x-axis ["1.0.0", "2.0.0", "2.1.0", "2.2.0", "3.0.0"]
   y-axis "Elo Rating" 2300 --> 3200
-  line "STC (8.0+0.08s)" [2303, 2579, 2584, 2566, 2651]
-  line "STC (8.0+0.08s)" [2303, 2579, 2584, 2566, 2651]
+  line "STC (8.0+0.08s)" [2303, 2579, 2584, 2568, 2651]
+  line "STC (8.0+0.08s)" [2303, 2579, 2584, 2568, 2651]
   line "LTC (60.0+0.60s)" [2757, 2939, 2911, 2942, 3070]
   line "VLTC (2m24s+1.12s)" [2866, 2973, 2907, 3043, 3121]
   line "VLTC (2m24s+1.12s)" [2866, 2973, 2907, 3043, 3121]
@@ -93,7 +94,7 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3043 | 34 | 242 | 51% | 3038 | 56% |
 | 2.2.0 | LTC <sub>(60.0+0.60s)</sub> | 2942 | 35 | 238 | 50% | 2936 | 51% |
-| 2.2.0 | STC <sub>(8.0+0.08s)</sub> | 2566 | 34 | 274 | 50% | 2566 | 34% |
+| 2.2.0 | STC <sub>(8.0+0.08s)</sub> | 2568 | 34 | 274 | 50% | 2566 | 34% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2907 | 31 | 292 | 49% | 2917 | 52% |
 | 2.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2911 | 34 | 248 | 49% | 2915 | 50% |
