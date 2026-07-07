@@ -8,7 +8,7 @@ Home: https://github.com/liamt19/Horsie
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1 | 2025-05-13 | 3339<sub>(+15) | 3486<sub>(+12) | 3517<sub>(-5) |  |
+| 1.1 | 2025-05-13 | 3339<sub>(+15) | 3487<sub>(+13) | 3517<sub>(-5) |  |
 | 1.0 | 2025-01-08 | 3324 | 3474 | 3522 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-06 06:25:27
+Generated: 2026-07-07 06:25:46
 
 ## Ratings Verlauf
 
@@ -36,7 +36,7 @@ xychart-beta
   y-axis "Elo Rating" 3300 --> 3600
   line "STC (8.0+0.08s)" [3324, 3339]
   line "STC (8.0+0.08s)" [3324, 3339]
-  line "LTC (60.0+0.60s)" [3474, 3486]
+  line "LTC (60.0+0.60s)" [3474, 3487]
   line "VLTC (2m24s+1.12s)" [3522, 3517]
   line "VLTC (2m24s+1.12s)" [3522, 3517]
 ```
@@ -69,7 +69,7 @@ xychart-beta
   y-axis "Elo Rating" 3300 --> 3600
   line "STC (8.0+0.08s)" [3324, 3339]
   line "STC (8.0+0.08s)" [3324, 3339]
-  line "LTC (60.0+0.60s)" [3474, 3486]
+  line "LTC (60.0+0.60s)" [3474, 3487]
   line "VLTC (2m24s+1.12s)" [3522, 3517]
   line "VLTC (2m24s+1.12s)" [3522, 3517]
 ```
@@ -84,8 +84,8 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3517 | 16 | 852 | 50% | 3517 | 87% |
-| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 3486 | 17 | 850 | 51% | 3482 | 83% |
+| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3517 | 16 | 856 | 50% | 3517 | 87% |
+| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 3487 | 17 | 862 | 51% | 3482 | 83% |
 | 1.1 | STC <sub>(8.0+0.08s)</sub> | 3339 | 16 | 982 | 50% | 3340 | 69% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3522 | 28 | 304 | 49% | 3529 | 86% |
