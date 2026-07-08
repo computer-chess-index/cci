@@ -8,9 +8,9 @@ Home: https://github.com/kelseyde/hobbes-chess-engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1 | 2026-05-26 | 3387<sub>(+new) | 3507<sub>(+new) | 3530<sub>(+new) |  |
+| 2.1 | 2026-05-26 | 3387<sub>(+new) | 3509<sub>(+new) | 3530<sub>(+new) |  |
 | 2.0 | 2026-05-25 |  |  |  |  |
-| 1.0 | 2026-03-05 | 3359 | 3492 | 3506 |  |
+| 1.0 | 2026-03-05 | 3360 | 3492 | 3506 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Hobbes+<version>&body=###%20Engine%20name%0AHobbes%0A%0A###%20Version%0A2.1" target="_blank">Submit new version</a>
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-07 06:25:41
+Generated: 2026-07-08 06:25:50
 
 ## Ratings Verlauf
 
@@ -35,9 +35,9 @@ Generated: 2026-07-07 06:25:41
 xychart-beta
   x-axis ["1.0", "2.1"]
   y-axis "Elo Rating" 3300 --> 3600
-  line "STC (8.0+0.08s)" [3359, 3387]
-  line "STC (8.0+0.08s)" [3359, 3387]
-  line "LTC (60.0+0.60s)" [3492, 3507]
+  line "STC (8.0+0.08s)" [3360, 3387]
+  line "STC (8.0+0.08s)" [3360, 3387]
+  line "LTC (60.0+0.60s)" [3492, 3509]
   line "VLTC (2m24s+1.12s)" [3506, 3530]
   line "VLTC (2m24s+1.12s)" [3506, 3530]
 ```
@@ -68,9 +68,9 @@ style E fill:none,stroke:none
 xychart-beta
   x-axis ["1.0", "2.1"]
   y-axis "Elo Rating" 3300 --> 3600
-  line "STC (8.0+0.08s)" [3359, 3387]
-  line "STC (8.0+0.08s)" [3359, 3387]
-  line "LTC (60.0+0.60s)" [3492, 3507]
+  line "STC (8.0+0.08s)" [3360, 3387]
+  line "STC (8.0+0.08s)" [3360, 3387]
+  line "LTC (60.0+0.60s)" [3492, 3509]
   line "VLTC (2m24s+1.12s)" [3506, 3530]
   line "VLTC (2m24s+1.12s)" [3506, 3530]
 ```
@@ -86,10 +86,10 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3530 | 38 | 156 | 52% | 3519 | 89% |
-| 2.1 | LTC <sub>(60.0+0.60s)</sub> | 3507 | 40 | 144 | 52% | 3497 | 88% |
+| 2.1 | LTC <sub>(60.0+0.60s)</sub> | 3509 | 39 | 148 | 52% | 3497 | 89% |
 | 2.1 | STC <sub>(8.0+0.08s)</sub> | 3387 | 33 | 216 | 53% | 3370 | 80% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3506 | 25 | 378 | 51% | 3497 | 90% |
-| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 3492 | 26 | 350 | 51% | 3480 | 87% |
-| 1.0 | STC <sub>(8.0+0.08s)</sub> | 3359 | 23 | 484 | 53% | 3329 | 73% |
+| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 3492 | 26 | 350 | 51% | 3482 | 87% |
+| 1.0 | STC <sub>(8.0+0.08s)</sub> | 3360 | 23 | 484 | 53% | 3329 | 73% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
