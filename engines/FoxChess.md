@@ -8,9 +8,9 @@ Home: https://github.com/nfaltermeier/fox-chess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.2 | 2026-06-20 | 2534<sub>(+144) | 2831<sub>(+131) | 2931<sub>(+163) |  |
-| 1.1 | 2026-04-18 | 2390<sub>(+81) | 2700<sub>(+177) | 2768<sub>(+129) |  |
-| 1.0 | 2025-12-27 | 2309 | 2523 | 2639 |  |
+| 1.2 | 2026-06-20 | 2535<sub>(+144) | 2822<sub>(+122) | 2928<sub>(+159) |  |
+| 1.1 | 2026-04-18 | 2391<sub>(+82) | 2700<sub>(+177) | 2769<sub>(+128) |  |
+| 1.0 | 2025-12-27 | 2309 | 2523 | 2641 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+FoxChess+<version>&body=###%20Engine%20name%0AFoxChess%0A%0A###%20Version%0A1.2" target="_blank">Submit new version</a>
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-07 06:24:57
+Generated: 2026-07-08 06:25:13
 
 ## Ratings Verlauf
 
@@ -35,11 +35,11 @@ Generated: 2026-07-07 06:24:57
 xychart-beta
   x-axis ["1.0", "1.1", "1.2"]
   y-axis "Elo Rating" 2300 --> 3000
-  line "STC (8.0+0.08s)" [2309, 2390, 2534]
-  line "STC (8.0+0.08s)" [2309, 2390, 2534]
-  line "LTC (60.0+0.60s)" [2523, 2700, 2831]
-  line "VLTC (2m24s+1.12s)" [2639, 2768, 2931]
-  line "VLTC (2m24s+1.12s)" [2639, 2768, 2931]
+  line "STC (8.0+0.08s)" [2309, 2391, 2535]
+  line "STC (8.0+0.08s)" [2309, 2391, 2535]
+  line "LTC (60.0+0.60s)" [2523, 2700, 2822]
+  line "VLTC (2m24s+1.12s)" [2641, 2769, 2928]
+  line "VLTC (2m24s+1.12s)" [2641, 2769, 2928]
 ```
 
 ```mermaid
@@ -68,11 +68,11 @@ style E fill:none,stroke:none
 xychart-beta
   x-axis ["1.0", "1.1", "1.2"]
   y-axis "Elo Rating" 2300 --> 3000
-  line "STC (8.0+0.08s)" [2309, 2390, 2534]
-  line "STC (8.0+0.08s)" [2309, 2390, 2534]
-  line "LTC (60.0+0.60s)" [2523, 2700, 2831]
-  line "VLTC (2m24s+1.12s)" [2639, 2768, 2931]
-  line "VLTC (2m24s+1.12s)" [2639, 2768, 2931]
+  line "STC (8.0+0.08s)" [2309, 2391, 2535]
+  line "STC (8.0+0.08s)" [2309, 2391, 2535]
+  line "LTC (60.0+0.60s)" [2523, 2700, 2822]
+  line "VLTC (2m24s+1.12s)" [2641, 2769, 2928]
+  line "VLTC (2m24s+1.12s)" [2641, 2769, 2928]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -85,15 +85,15 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2931 | 47 | 132 | 53% | 2904 | 48% |
-| 1.2 | LTC <sub>(60.0+0.60s)</sub> | 2831 | 42 | 172 | 52% | 2816 | 41% |
-| 1.2 | STC <sub>(8.0+0.08s)</sub> | 2534 | 46 | 156 | 50% | 2541 | 30% |
+| 1.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2928 | 45 | 140 | 53% | 2907 | 48% |
+| 1.2 | LTC <sub>(60.0+0.60s)</sub> | 2822 | 41 | 180 | 50% | 2823 | 39% |
+| 1.2 | STC <sub>(8.0+0.08s)</sub> | 2535 | 46 | 156 | 50% | 2542 | 30% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2768 | 28 | 392 | 49% | 2774 | 36% |
-| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 2700 | 28 | 418 | 50% | 2695 | 34% |
-| 1.1 | STC <sub>(8.0+0.08s)</sub> | 2390 | 29 | 408 | 50% | 2385 | 26% |
+| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2769 | 28 | 392 | 49% | 2774 | 36% |
+| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 2700 | 28 | 418 | 50% | 2696 | 34% |
+| 1.1 | STC <sub>(8.0+0.08s)</sub> | 2391 | 29 | 408 | 50% | 2387 | 26% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2639 | 28 | 396 | 49% | 2645 | 40% |
-| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2523 | 31 | 328 | 52% | 2504 | 37% |
-| 1.0 | STC <sub>(8.0+0.08s)</sub> | 2309 | 27 | 480 | 50% | 2304 | 25% |
+| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2641 | 28 | 396 | 49% | 2645 | 40% |
+| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2523 | 31 | 328 | 52% | 2506 | 37% |
+| 1.0 | STC <sub>(8.0+0.08s)</sub> | 2309 | 27 | 480 | 50% | 2306 | 25% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
