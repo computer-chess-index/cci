@@ -8,8 +8,8 @@ Home: https://github.com/Lacovipo/Gilipol
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.00 | 2026-06-06 | 2664<sub>(+130) | 2975<sub>(+120) | 3098<sub>(+105) |  |
-| 1.00netbin | 2026-04-13 | 2534<sub>(+2147) | 2855<sub>(+2405) | 2993<sub>(+2534) |  |
+| 2.00 | 2026-06-06 | 2665<sub>(+130) | 2977<sub>(+122) | 3098<sub>(+104) |  |
+| 1.00netbin | 2026-04-13 | 2535<sub>(+2148) | 2855<sub>(+2405) | 2994<sub>(+2535) |  |
 | 1.00 | 2026-04-12 | 387 | 450 | 459 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-07 06:25:14
+Generated: 2026-07-08 06:25:29
 
 ## Ratings Verlauf
 
@@ -35,11 +35,11 @@ Generated: 2026-07-07 06:25:14
 xychart-beta
   x-axis ["1.00", "1.00netbin", "2.00"]
   y-axis "Elo Rating" 300 --> 3100
-  line "STC (8.0+0.08s)" [387, 2534, 2664]
-  line "STC (8.0+0.08s)" [387, 2534, 2664]
-  line "LTC (60.0+0.60s)" [450, 2855, 2975]
-  line "VLTC (2m24s+1.12s)" [459, 2993, 3098]
-  line "VLTC (2m24s+1.12s)" [459, 2993, 3098]
+  line "STC (8.0+0.08s)" [387, 2535, 2665]
+  line "STC (8.0+0.08s)" [387, 2535, 2665]
+  line "LTC (60.0+0.60s)" [450, 2855, 2977]
+  line "VLTC (2m24s+1.12s)" [459, 2994, 3098]
+  line "VLTC (2m24s+1.12s)" [459, 2994, 3098]
 ```
 
 ```mermaid
@@ -68,11 +68,11 @@ style E fill:none,stroke:none
 xychart-beta
   x-axis ["1.00", "1.00netbin", "2.00"]
   y-axis "Elo Rating" 300 --> 3100
-  line "STC (8.0+0.08s)" [387, 2534, 2664]
-  line "STC (8.0+0.08s)" [387, 2534, 2664]
-  line "LTC (60.0+0.60s)" [450, 2855, 2975]
-  line "VLTC (2m24s+1.12s)" [459, 2993, 3098]
-  line "VLTC (2m24s+1.12s)" [459, 2993, 3098]
+  line "STC (8.0+0.08s)" [387, 2535, 2665]
+  line "STC (8.0+0.08s)" [387, 2535, 2665]
+  line "LTC (60.0+0.60s)" [450, 2855, 2977]
+  line "VLTC (2m24s+1.12s)" [459, 2994, 3098]
+  line "VLTC (2m24s+1.12s)" [459, 2994, 3098]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -85,13 +85,13 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.00 | VLTC <sub>(2m24s+1.12s)</sub> | 3098 | 29 | 346 | 53% | 3067 | 52% |
-| 2.00 | LTC <sub>(60.0+0.60s)</sub> | 2975 | 31 | 308 | 51% | 2961 | 46% |
-| 2.00 | STC <sub>(8.0+0.08s)</sub> | 2664 | 33 | 300 | 53% | 2638 | 33% |
+| 2.00 | VLTC <sub>(2m24s+1.12s)</sub> | 3098 | 29 | 346 | 53% | 3069 | 52% |
+| 2.00 | LTC <sub>(60.0+0.60s)</sub> | 2977 | 31 | 316 | 51% | 2962 | 46% |
+| 2.00 | STC <sub>(8.0+0.08s)</sub> | 2665 | 33 | 304 | 53% | 2638 | 33% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.00netbin | VLTC <sub>(2m24s+1.12s)</sub> | 2993 | 28 | 426 | 57% | 2776 | 41% |
-| 1.00netbin | LTC <sub>(60.0+0.60s)</sub> | 2855 | 25 | 546 | 59% | 2677 | 39% |
-| 1.00netbin | STC <sub>(8.0+0.08s)</sub> | 2534 | 28 | 470 | 55% | 2372 | 28% |
+| 1.00netbin | VLTC <sub>(2m24s+1.12s)</sub> | 2994 | 28 | 426 | 57% | 2776 | 41% |
+| 1.00netbin | LTC <sub>(60.0+0.60s)</sub> | 2855 | 25 | 546 | 59% | 2678 | 39% |
+| 1.00netbin | STC <sub>(8.0+0.08s)</sub> | 2535 | 28 | 470 | 55% | 2373 | 28% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.00 | VLTC <sub>(2m24s+1.12s)</sub> | 459 | 58 | 176 | 24% | 1048 | 21% |
 | 1.00 | LTC <sub>(60.0+0.60s)</sub> | 450 | 59 | 148 | 27% | 941 | 30% |
