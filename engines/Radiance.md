@@ -8,7 +8,7 @@ Home: https://github.com/ppipelin/radiance
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.4 | 2026-04-23 | 1708<sub>(+42) | 2053<sub>(+109) | 2184<sub>(+96) |  |
+| 4.4 | 2026-04-23 | 1708<sub>(+42) | 2056<sub>(+112) | 2184<sub>(+96) |  |
 | 4.3 | 2026-03-25 | 1666<sub>(+91) | 1944<sub>(+104) | 2088<sub>(+201) |  |
 | 4.2 | 2026-01-17 | 1575<sub>(+new) | 1840<sub>(+new) | 1887<sub>(+new) |  |
 | 4.1 | 2025-08-16 |  |  |  |  |
@@ -29,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-08 06:28:34
+Generated: 2026-07-09 06:28:51
 
 ## Ratings Verlauf
 
@@ -40,7 +40,7 @@ xychart-beta
   y-axis "Elo Rating" 1500 --> 2200
   line "STC (8.0+0.08s)" [1575, 1666, 1708]
   line "STC (8.0+0.08s)" [1575, 1666, 1708]
-  line "LTC (60.0+0.60s)" [1840, 1944, 2053]
+  line "LTC (60.0+0.60s)" [1840, 1944, 2056]
   line "VLTC (2m24s+1.12s)" [1887, 2088, 2184]
   line "VLTC (2m24s+1.12s)" [1887, 2088, 2184]
 ```
@@ -73,7 +73,7 @@ xychart-beta
   y-axis "Elo Rating" 1500 --> 2200
   line "STC (8.0+0.08s)" [1575, 1666, 1708]
   line "STC (8.0+0.08s)" [1575, 1666, 1708]
-  line "LTC (60.0+0.60s)" [1840, 1944, 2053]
+  line "LTC (60.0+0.60s)" [1840, 1944, 2056]
   line "VLTC (2m24s+1.12s)" [1887, 2088, 2184]
   line "VLTC (2m24s+1.12s)" [1887, 2088, 2184]
 ```
@@ -89,7 +89,7 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4.4 | VLTC <sub>(2m24s+1.12s)</sub> | 2184 | 31 | 360 | 49% | 2182 | 22% |
-| 4.4 | LTC <sub>(60.0+0.60s)</sub> | 2053 | 30 | 402 | 51% | 2036 | 22% |
+| 4.4 | LTC <sub>(60.0+0.60s)</sub> | 2056 | 30 | 406 | 51% | 2036 | 22% |
 | 4.4 | STC <sub>(8.0+0.08s)</sub> | 1708 | 30 | 426 | 50% | 1702 | 19% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4.3 | VLTC <sub>(2m24s+1.12s)</sub> | 2088 | 30 | 412 | 54% | 2048 | 18% |
