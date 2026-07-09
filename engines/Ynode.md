@@ -8,7 +8,7 @@ Home: https://github.com/oozturk777/ynode
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0234 | 2026-03-22 | 3119<sub>(-12) | 3324<sub>(+14) | 3382<sub>(+23) |  |
+| 0234 | 2026-03-22 | 3117<sub>(-14) | 3324<sub>(+14) | 3382<sub>(+23) |  |
 | 0219 | 2025-11-16 | 3131<sub>(+new) | 3310<sub>(+new) | 3359<sub>(+new) |  |
 | 0215 | 2025-09-28 |  |  |  |  |
 | 0213 | 2025-08-24 |  |  |  |  |
@@ -32,7 +32,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-08 06:35:17
+Generated: 2026-07-09 06:50:17
 
 ## Ratings Verlauf
 
@@ -41,8 +41,8 @@ Generated: 2026-07-08 06:35:17
 xychart-beta
   x-axis ["0219", "0234"]
   y-axis "Elo Rating" 3100 --> 3400
-  line "STC (8.0+0.08s)" [3131, 3119]
-  line "STC (8.0+0.08s)" [3131, 3119]
+  line "STC (8.0+0.08s)" [3131, 3117]
+  line "STC (8.0+0.08s)" [3131, 3117]
   line "LTC (60.0+0.60s)" [3310, 3324]
   line "VLTC (2m24s+1.12s)" [3359, 3382]
   line "VLTC (2m24s+1.12s)" [3359, 3382]
@@ -74,8 +74,8 @@ style E fill:none,stroke:none
 xychart-beta
   x-axis ["0219", "0234"]
   y-axis "Elo Rating" 3100 --> 3400
-  line "STC (8.0+0.08s)" [3131, 3119]
-  line "STC (8.0+0.08s)" [3131, 3119]
+  line "STC (8.0+0.08s)" [3131, 3117]
+  line "STC (8.0+0.08s)" [3131, 3117]
   line "LTC (60.0+0.60s)" [3310, 3324]
   line "VLTC (2m24s+1.12s)" [3359, 3382]
   line "VLTC (2m24s+1.12s)" [3359, 3382]
@@ -93,7 +93,7 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0234 | VLTC <sub>(2m24s+1.12s)</sub> | 3382 | 27 | 330 | 50% | 3384 | 81% |
 | 0234 | LTC <sub>(60.0+0.60s)</sub> | 3324 | 27 | 332 | 50% | 3322 | 74% |
-| 0234 | STC <sub>(8.0+0.08s)</sub> | 3119 | 26 | 396 | 50% | 3121 | 57% |
+| 0234 | STC <sub>(8.0+0.08s)</sub> | 3117 | 26 | 400 | 50% | 3121 | 57% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0219 | VLTC <sub>(2m24s+1.12s)</sub> | 3359 | 27 | 336 | 52% | 3333 | 79% |
 | 0219 | LTC <sub>(60.0+0.60s)</sub> | 3310 | 25 | 406 | 49% | 3303 | 72% |
