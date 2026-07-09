@@ -8,8 +8,8 @@ Home: https://github.com/jeremyylimmm/noggin
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1 | 2026-07-04 |  |  |  |  |
-| 2.0 | 2026-06-14 | 2592<sub>(+new) | 2820<sub>(+new) | 2927<sub>(+new) |  |
+| 2.1 | 2026-07-04 | 2735<sub>(+142) | 2843<sub>(+23) | 2831<sub>(-96) |  |
+| 2.0 | 2026-06-14 | 2593<sub>(+new) | 2820<sub>(+new) | 2927<sub>(+new) |  |
 | 1.0 | 2026-06-09 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -26,7 +26,58 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-08 06:27:26
+Generated: 2026-07-09 06:27:37
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["2.0", "2.1"]
+  y-axis "Elo Rating" 2500 --> 3000
+  line "STC (8.0+0.08s)" [2593, 2735]
+  line "STC (8.0+0.08s)" [2593, 2735]
+  line "LTC (60.0+0.60s)" [2820, 2843]
+  line "VLTC (2m24s+1.12s)" [2927, 2831]
+  line "VLTC (2m24s+1.12s)" [2927, 2831]
+```
+
+```mermaid
+%%{init: {"theme":"base"}}%%
+flowchart LR
+E[ ] --- A[STC 8.0+0.08s]
+A --- B[LTC 60.0+0.60s]
+B --- C[VLTC 2m24s+1.12s]
+C --- D[ ]
+linkStyle 0 stroke:#a3a3a3,stroke-width:0px
+linkStyle 1 stroke:#a3a3a3,stroke-width:4px
+linkStyle 2 stroke:#faa371,stroke-width:4px
+linkStyle 3 stroke:#4ef781,stroke-width:4px
+style A fill:none,stroke:none
+style B fill:none,stroke:none
+style C fill:none,stroke:none
+style D fill:none,stroke:none
+style E fill:none,stroke:none
+```
+
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["2.0", "2.1"]
+  y-axis "Elo Rating" 2500 --> 3000
+  line "STC (8.0+0.08s)" [2593, 2735]
+  line "STC (8.0+0.08s)" [2593, 2735]
+  line "LTC (60.0+0.60s)" [2820, 2843]
+  line "VLTC (2m24s+1.12s)" [2927, 2831]
+  line "VLTC (2m24s+1.12s)" [2927, 2831]
+```
+
+<p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
+<p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
+
 
 
 
@@ -34,7 +85,11 @@ Generated: 2026-07-08 06:27:26
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2831 | 134 | 16 | 44% | 2881 | 38% |
+| 2.1 | LTC <sub>(60.0+0.60s)</sub> | 2843 | 120 | 16 | 50% | 2842 | 75% |
+| 2.1 | STC <sub>(8.0+0.08s)</sub> | 2735 | 144 | 16 | 53% | 2689 | 19% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2927 | 49 | 128 | 56% | 2880 | 41% |
 | 2.0 | LTC <sub>(60.0+0.60s)</sub> | 2820 | 56 | 92 | 51% | 2808 | 46% |
-| 2.0 | STC <sub>(8.0+0.08s)</sub> | 2592 | 52 | 124 | 44% | 2647 | 31% |
+| 2.0 | STC <sub>(8.0+0.08s)</sub> | 2593 | 51 | 124 | 44% | 2649 | 31% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
