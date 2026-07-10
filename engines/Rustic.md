@@ -8,7 +8,7 @@ Home: https://github.com/mvanthoor/rustic
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.6 | 2025-09-24 | 1628 | 1829 | 1909 |  |
+| 3.0.6 | 2025-09-24 | 1627 | 1829 | 1909 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Rustic+<version>&body=###%20Engine%20name%0ARustic%0A%0A###%20Version%0A3.0.6" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-09 06:29:32
+Generated: 2026-07-10 06:34:05
 
 
 
@@ -34,5 +34,5 @@ Generated: 2026-07-09 06:29:32
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.0.6 | VLTC <sub>(2m24s+1.12s)</sub> | 1909 | 25 | 584 | 47% | 1948 | 19% |
 | 3.0.6 | LTC <sub>(60.0+0.60s)</sub> | 1829 | 26 | 560 | 54% | 1791 | 19% |
-| 3.0.6 | STC <sub>(8.0+0.08s)</sub> | 1628 | 26 | 540 | 47% | 1661 | 21% |
+| 3.0.6 | STC <sub>(8.0+0.08s)</sub> | 1627 | 26 | 540 | 47% | 1661 | 21% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
