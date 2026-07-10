@@ -8,7 +8,7 @@ Home: https://github.com/P1X3R/zugblitz
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.3.2 | 2026-06-13 | 1827<sub>(-24) | 2079<sub>(-55) | 2190<sub>(+14) |  |
+| 1.3.2 | 2026-06-13 | 1827<sub>(-24) | 2079<sub>(-55) | 2187<sub>(+11) |  |
 | 1.3.1 | 2026-01-10 | 1851 | 2134 | 2176 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-09 06:50:29
+Generated: 2026-07-10 06:59:41
 
 ## Ratings Verlauf
 
@@ -37,8 +37,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [1851, 1827]
   line "STC (8.0+0.08s)" [1851, 1827]
   line "LTC (60.0+0.60s)" [2134, 2079]
-  line "VLTC (2m24s+1.12s)" [2176, 2190]
-  line "VLTC (2m24s+1.12s)" [2176, 2190]
+  line "VLTC (2m24s+1.12s)" [2176, 2187]
+  line "VLTC (2m24s+1.12s)" [2176, 2187]
 ```
 
 ```mermaid
@@ -70,8 +70,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [1851, 1827]
   line "STC (8.0+0.08s)" [1851, 1827]
   line "LTC (60.0+0.60s)" [2134, 2079]
-  line "VLTC (2m24s+1.12s)" [2176, 2190]
-  line "VLTC (2m24s+1.12s)" [2176, 2190]
+  line "VLTC (2m24s+1.12s)" [2176, 2187]
+  line "VLTC (2m24s+1.12s)" [2176, 2187]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -84,7 +84,7 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.3.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2190 | 34 | 288 | 49% | 2211 | 33% |
+| 1.3.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2187 | 34 | 288 | 49% | 2209 | 33% |
 | 1.3.2 | LTC <sub>(60.0+0.60s)</sub> | 2079 | 33 | 294 | 54% | 2044 | 34% |
 | 1.3.2 | STC <sub>(8.0+0.08s)</sub> | 1827 | 36 | 256 | 49% | 1836 | 27% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
