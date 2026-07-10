@@ -8,7 +8,7 @@ Home: https://github.com/FitzOReilly/fatalii
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.10.1 | 2026-05-11 | 2259<sub>(-8) | 2506<sub>(-27) | 2592<sub>(-4) |  |
+| 0.10.1 | 2026-05-11 | 2259<sub>(-8) | 2506<sub>(-27) | 2591<sub>(-5) |  |
 | 0.10.0 | 2026-03-09 | 2267<sub>(+new) | 2533<sub>(+new) | 2596<sub>(+new) |  |
 | 0.9.0 | 2025-02-08 |  |  |  |  |
 | 0.8.0 | 2024-10-17 |  |  |  |  |
@@ -39,7 +39,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-09 06:24:52
+Generated: 2026-07-10 06:25:31
 
 ## Ratings Verlauf
 
@@ -51,8 +51,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [2267, 2259]
   line "STC (8.0+0.08s)" [2267, 2259]
   line "LTC (60.0+0.60s)" [2533, 2506]
-  line "VLTC (2m24s+1.12s)" [2596, 2592]
-  line "VLTC (2m24s+1.12s)" [2596, 2592]
+  line "VLTC (2m24s+1.12s)" [2596, 2591]
+  line "VLTC (2m24s+1.12s)" [2596, 2591]
 ```
 
 ```mermaid
@@ -84,8 +84,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [2267, 2259]
   line "STC (8.0+0.08s)" [2267, 2259]
   line "LTC (60.0+0.60s)" [2533, 2506]
-  line "VLTC (2m24s+1.12s)" [2596, 2592]
-  line "VLTC (2m24s+1.12s)" [2596, 2592]
+  line "VLTC (2m24s+1.12s)" [2596, 2591]
+  line "VLTC (2m24s+1.12s)" [2596, 2591]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -98,7 +98,7 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.10.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2592 | 30 | 390 | 50% | 2595 | 27% |
+| 0.10.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2591 | 30 | 390 | 50% | 2593 | 27% |
 | 0.10.1 | LTC <sub>(60.0+0.60s)</sub> | 2506 | 31 | 352 | 50% | 2506 | 29% |
 | 0.10.1 | STC <sub>(8.0+0.08s)</sub> | 2259 | 31 | 344 | 48% | 2279 | 28% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
