@@ -8,7 +8,7 @@ Home: https://github.com/jeremyylimmm/noggin
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1 | 2026-07-04 | 2735<sub>(+142) | 2843<sub>(+23) | 2831<sub>(-96) |  |
+| 2.1 | 2026-07-04 | 2616<sub>(+23) | 2824<sub>(+4) | 2912<sub>(-15) |  |
 | 2.0 | 2026-06-14 | 2593<sub>(+new) | 2820<sub>(+new) | 2927<sub>(+new) |  |
 | 1.0 | 2026-06-09 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-09 06:27:37
+Generated: 2026-07-10 06:28:35
 
 ## Ratings Verlauf
 
@@ -35,11 +35,11 @@ Generated: 2026-07-09 06:27:37
 xychart-beta
   x-axis ["2.0", "2.1"]
   y-axis "Elo Rating" 2500 --> 3000
-  line "STC (8.0+0.08s)" [2593, 2735]
-  line "STC (8.0+0.08s)" [2593, 2735]
-  line "LTC (60.0+0.60s)" [2820, 2843]
-  line "VLTC (2m24s+1.12s)" [2927, 2831]
-  line "VLTC (2m24s+1.12s)" [2927, 2831]
+  line "STC (8.0+0.08s)" [2593, 2616]
+  line "STC (8.0+0.08s)" [2593, 2616]
+  line "LTC (60.0+0.60s)" [2820, 2824]
+  line "VLTC (2m24s+1.12s)" [2927, 2912]
+  line "VLTC (2m24s+1.12s)" [2927, 2912]
 ```
 
 ```mermaid
@@ -68,11 +68,11 @@ style E fill:none,stroke:none
 xychart-beta
   x-axis ["2.0", "2.1"]
   y-axis "Elo Rating" 2500 --> 3000
-  line "STC (8.0+0.08s)" [2593, 2735]
-  line "STC (8.0+0.08s)" [2593, 2735]
-  line "LTC (60.0+0.60s)" [2820, 2843]
-  line "VLTC (2m24s+1.12s)" [2927, 2831]
-  line "VLTC (2m24s+1.12s)" [2927, 2831]
+  line "STC (8.0+0.08s)" [2593, 2616]
+  line "STC (8.0+0.08s)" [2593, 2616]
+  line "LTC (60.0+0.60s)" [2820, 2824]
+  line "VLTC (2m24s+1.12s)" [2927, 2912]
+  line "VLTC (2m24s+1.12s)" [2927, 2912]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -85,11 +85,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2831 | 134 | 16 | 44% | 2881 | 38% |
-| 2.1 | LTC <sub>(60.0+0.60s)</sub> | 2843 | 120 | 16 | 50% | 2842 | 75% |
-| 2.1 | STC <sub>(8.0+0.08s)</sub> | 2735 | 144 | 16 | 53% | 2689 | 19% |
+| 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2912 | 63 | 76 | 53% | 2889 | 39% |
+| 2.1 | LTC <sub>(60.0+0.60s)</sub> | 2824 | 72 | 56 | 49% | 2830 | 45% |
+| 2.1 | STC <sub>(8.0+0.08s)</sub> | 2616 | 77 | 56 | 44% | 2668 | 27% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2927 | 49 | 128 | 56% | 2880 | 41% |
 | 2.0 | LTC <sub>(60.0+0.60s)</sub> | 2820 | 56 | 92 | 51% | 2808 | 46% |
-| 2.0 | STC <sub>(8.0+0.08s)</sub> | 2593 | 51 | 124 | 44% | 2649 | 31% |
+| 2.0 | STC <sub>(8.0+0.08s)</sub> | 2593 | 52 | 124 | 44% | 2649 | 31% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
