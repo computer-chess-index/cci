@@ -8,8 +8,8 @@ Home: https://github.com/paulsonkoly/chess-3
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.0 | 2026-04-02 | 2499<sub>(+37) | 2795<sub>(+49) | 2885<sub>(+95) |  |
-| 3.0 | 2026-01-17 | 2462<sub>(+new) | 2746<sub>(+new) | 2790<sub>(+new) |  |
+| 4.0 | 2026-04-02 | 2499<sub>(+38) | 2795<sub>(+49) | 2881<sub>(+91) |  |
+| 3.0 | 2026-01-17 | 2461<sub>(+new) | 2746<sub>(+new) | 2790<sub>(+new) |  |
 | 2.0 | 2025-08-14 |  |  |  |  |
 | 1.0 | 2025-05-15 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-09 06:23:41
+Generated: 2026-07-10 06:24:03
 
 ## Ratings Verlauf
 
@@ -36,11 +36,11 @@ Generated: 2026-07-09 06:23:41
 xychart-beta
   x-axis ["3.0", "4.0"]
   y-axis "Elo Rating" 2400 --> 2900
-  line "STC (8.0+0.08s)" [2462, 2499]
-  line "STC (8.0+0.08s)" [2462, 2499]
+  line "STC (8.0+0.08s)" [2461, 2499]
+  line "STC (8.0+0.08s)" [2461, 2499]
   line "LTC (60.0+0.60s)" [2746, 2795]
-  line "VLTC (2m24s+1.12s)" [2790, 2885]
-  line "VLTC (2m24s+1.12s)" [2790, 2885]
+  line "VLTC (2m24s+1.12s)" [2790, 2881]
+  line "VLTC (2m24s+1.12s)" [2790, 2881]
 ```
 
 ```mermaid
@@ -69,11 +69,11 @@ style E fill:none,stroke:none
 xychart-beta
   x-axis ["3.0", "4.0"]
   y-axis "Elo Rating" 2400 --> 2900
-  line "STC (8.0+0.08s)" [2462, 2499]
-  line "STC (8.0+0.08s)" [2462, 2499]
+  line "STC (8.0+0.08s)" [2461, 2499]
+  line "STC (8.0+0.08s)" [2461, 2499]
   line "LTC (60.0+0.60s)" [2746, 2795]
-  line "VLTC (2m24s+1.12s)" [2790, 2885]
-  line "VLTC (2m24s+1.12s)" [2790, 2885]
+  line "VLTC (2m24s+1.12s)" [2790, 2881]
+  line "VLTC (2m24s+1.12s)" [2790, 2881]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -86,11 +86,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2885 | 26 | 454 | 53% | 2863 | 40% |
+| 4.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2881 | 26 | 466 | 52% | 2863 | 40% |
 | 4.0 | LTC <sub>(60.0+0.60s)</sub> | 2795 | 25 | 482 | 50% | 2795 | 39% |
 | 4.0 | STC <sub>(8.0+0.08s)</sub> | 2499 | 27 | 472 | 51% | 2492 | 29% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2790 | 32 | 316 | 49% | 2804 | 34% |
 | 3.0 | LTC <sub>(60.0+0.60s)</sub> | 2746 | 32 | 320 | 50% | 2742 | 35% |
-| 3.0 | STC <sub>(8.0+0.08s)</sub> | 2462 | 27 | 440 | 49% | 2466 | 34% |
+| 3.0 | STC <sub>(8.0+0.08s)</sub> | 2461 | 27 | 440 | 49% | 2466 | 34% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
