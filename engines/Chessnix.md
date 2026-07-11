@@ -8,7 +8,7 @@ Home: https://github.com/ericlangedijk/chessnix/
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.4 | 2026-04-28 | 2867<sub>(+new) | 3128<sub>(+new) | 3220<sub>(+new) |  |
+| 1.4 | 2026-04-28 | 2869<sub>(+new) | 3128<sub>(+new) | 3220<sub>(+new) |  |
 | 0.0 | 2026-02-25 |  |  |  |  |
 | 1.3 | 2026-02-15 | 2858<sub>(+257) | 3055<sub>(+289) | 3155<sub>(+224) |  |
 | 1.2 | 2025-12-12 | 2601<sub>(+284) | 2766<sub>(+173) | 2931<sub>(+262) |  |
@@ -29,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-10 06:24:13
+Generated: 2026-07-11 06:23:54
 
 ## Ratings Verlauf
 
@@ -38,8 +38,8 @@ Generated: 2026-07-10 06:24:13
 xychart-beta
   x-axis ["1.0", "1.2", "1.3", "1.4"]
   y-axis "Elo Rating" 2300 --> 3300
-  line "STC (8.0+0.08s)" [2317, 2601, 2858, 2867]
-  line "STC (8.0+0.08s)" [2317, 2601, 2858, 2867]
+  line "STC (8.0+0.08s)" [2317, 2601, 2858, 2869]
+  line "STC (8.0+0.08s)" [2317, 2601, 2858, 2869]
   line "LTC (60.0+0.60s)" [2593, 2766, 3055, 3128]
   line "VLTC (2m24s+1.12s)" [2669, 2931, 3155, 3220]
   line "VLTC (2m24s+1.12s)" [2669, 2931, 3155, 3220]
@@ -71,8 +71,8 @@ style E fill:none,stroke:none
 xychart-beta
   x-axis ["1.0", "1.2", "1.3", "1.4"]
   y-axis "Elo Rating" 2300 --> 3300
-  line "STC (8.0+0.08s)" [2317, 2601, 2858, 2867]
-  line "STC (8.0+0.08s)" [2317, 2601, 2858, 2867]
+  line "STC (8.0+0.08s)" [2317, 2601, 2858, 2869]
+  line "STC (8.0+0.08s)" [2317, 2601, 2858, 2869]
   line "LTC (60.0+0.60s)" [2593, 2766, 3055, 3128]
   line "VLTC (2m24s+1.12s)" [2669, 2931, 3155, 3220]
   line "VLTC (2m24s+1.12s)" [2669, 2931, 3155, 3220]
@@ -90,7 +90,7 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.4 | VLTC <sub>(2m24s+1.12s)</sub> | 3220 | 41 | 160 | 53% | 3201 | 56% |
 | 1.4 | LTC <sub>(60.0+0.60s)</sub> | 3128 | 43 | 164 | 51% | 3119 | 43% |
-| 1.4 | STC <sub>(8.0+0.08s)</sub> | 2867 | 44 | 156 | 49% | 2880 | 40% |
+| 1.4 | STC <sub>(8.0+0.08s)</sub> | 2869 | 44 | 156 | 49% | 2880 | 40% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.3 | VLTC <sub>(2m24s+1.12s)</sub> | 3155 | 100 | 26 | 56% | 3113 | 58% |
 | 1.3 | LTC <sub>(60.0+0.60s)</sub> | 3055 | 75 | 52 | 46% | 3079 | 46% |
