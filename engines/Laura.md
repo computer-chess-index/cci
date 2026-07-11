@@ -8,7 +8,7 @@ Home: https://github.com/HansTibberio/Laura
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.0.0 | 2026-05-09 | 1748<sub>(+186) | 1897<sub>(+208) | 1970<sub>(+166) |  |
+| 4.0.0 | 2026-05-09 | 1748<sub>(+186) | 1898<sub>(+209) | 1970<sub>(+166) |  |
 | 3.0.0 | 2026-04-29 | 1562<sub>(+213) | 1689<sub>(+31) | 1804<sub>(+122) |  |
 | 2.0.0 | 2026-04-23 | 1349<sub>(+60) | 1658<sub>(+189) | 1682<sub>(+283) |  |
 | 1.1.0 | 2026-01-26 | 1289<sub>(+new) | 1469<sub>(+new) | 1399<sub>(+new) |  |
@@ -28,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-10 06:27:11
+Generated: 2026-07-11 06:26:48
 
 ## Ratings Verlauf
 
@@ -39,7 +39,7 @@ xychart-beta
   y-axis "Elo Rating" 1200 --> 2000
   line "STC (8.0+0.08s)" [1289, 1349, 1562, 1748]
   line "STC (8.0+0.08s)" [1289, 1349, 1562, 1748]
-  line "LTC (60.0+0.60s)" [1469, 1658, 1689, 1897]
+  line "LTC (60.0+0.60s)" [1469, 1658, 1689, 1898]
   line "VLTC (2m24s+1.12s)" [1399, 1682, 1804, 1970]
   line "VLTC (2m24s+1.12s)" [1399, 1682, 1804, 1970]
 ```
@@ -72,7 +72,7 @@ xychart-beta
   y-axis "Elo Rating" 1200 --> 2000
   line "STC (8.0+0.08s)" [1289, 1349, 1562, 1748]
   line "STC (8.0+0.08s)" [1289, 1349, 1562, 1748]
-  line "LTC (60.0+0.60s)" [1469, 1658, 1689, 1897]
+  line "LTC (60.0+0.60s)" [1469, 1658, 1689, 1898]
   line "VLTC (2m24s+1.12s)" [1399, 1682, 1804, 1970]
   line "VLTC (2m24s+1.12s)" [1399, 1682, 1804, 1970]
 ```
@@ -87,8 +87,8 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1970 | 47 | 164 | 49% | 1980 | 16% |
-| 4.0.0 | LTC <sub>(60.0+0.60s)</sub> | 1897 | 45 | 184 | 50% | 1898 | 15% |
+| 4.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1970 | 47 | 164 | 49% | 1979 | 16% |
+| 4.0.0 | LTC <sub>(60.0+0.60s)</sub> | 1898 | 45 | 184 | 50% | 1899 | 15% |
 | 4.0.0 | STC <sub>(8.0+0.08s)</sub> | 1748 | 49 | 164 | 54% | 1712 | 15% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1804 | 51 | 152 | 50% | 1783 | 13% |
