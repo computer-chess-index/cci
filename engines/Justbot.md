@@ -8,7 +8,7 @@ Home: https://github.com/HasanFakih21/JustBot
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.2.0 | 2026-06-24 | 2592<sub>(+580) | 2881<sub>(+574) | 2951<sub>(+548) |  |
+| 0.2.0 | 2026-06-24 | 2581<sub>(+569) | 2884<sub>(+577) | 2952<sub>(+549) |  |
 | 0.1.0 | 2026-06-09 | 2012 | 2307 | 2403 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-10 06:26:52
+Generated: 2026-07-11 06:26:28
 
 ## Ratings Verlauf
 
@@ -34,11 +34,11 @@ Generated: 2026-07-10 06:26:52
 xychart-beta
   x-axis ["0.1.0", "0.2.0"]
   y-axis "Elo Rating" 2000 --> 3000
-  line "STC (8.0+0.08s)" [2012, 2592]
-  line "STC (8.0+0.08s)" [2012, 2592]
-  line "LTC (60.0+0.60s)" [2307, 2881]
-  line "VLTC (2m24s+1.12s)" [2403, 2951]
-  line "VLTC (2m24s+1.12s)" [2403, 2951]
+  line "STC (8.0+0.08s)" [2012, 2581]
+  line "STC (8.0+0.08s)" [2012, 2581]
+  line "LTC (60.0+0.60s)" [2307, 2884]
+  line "VLTC (2m24s+1.12s)" [2403, 2952]
+  line "VLTC (2m24s+1.12s)" [2403, 2952]
 ```
 
 ```mermaid
@@ -67,11 +67,11 @@ style E fill:none,stroke:none
 xychart-beta
   x-axis ["0.1.0", "0.2.0"]
   y-axis "Elo Rating" 2000 --> 3000
-  line "STC (8.0+0.08s)" [2012, 2592]
-  line "STC (8.0+0.08s)" [2012, 2592]
-  line "LTC (60.0+0.60s)" [2307, 2881]
-  line "VLTC (2m24s+1.12s)" [2403, 2951]
-  line "VLTC (2m24s+1.12s)" [2403, 2951]
+  line "STC (8.0+0.08s)" [2012, 2581]
+  line "STC (8.0+0.08s)" [2012, 2581]
+  line "LTC (60.0+0.60s)" [2307, 2884]
+  line "VLTC (2m24s+1.12s)" [2403, 2952]
+  line "VLTC (2m24s+1.12s)" [2403, 2952]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -84,9 +84,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2951 | 40 | 184 | 51% | 2935 | 48% |
-| 0.2.0 | LTC <sub>(60.0+0.60s)</sub> | 2881 | 35 | 246 | 47% | 2904 | 43% |
-| 0.2.0 | STC <sub>(8.0+0.08s)</sub> | 2592 | 44 | 172 | 46% | 2626 | 32% |
+| 0.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2952 | 39 | 188 | 51% | 2936 | 48% |
+| 0.2.0 | LTC <sub>(60.0+0.60s)</sub> | 2884 | 35 | 248 | 47% | 2904 | 44% |
+| 0.2.0 | STC <sub>(8.0+0.08s)</sub> | 2581 | 43 | 180 | 45% | 2624 | 32% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2403 | 36 | 278 | 49% | 2423 | 22% |
 | 0.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2307 | 35 | 284 | 49% | 2314 | 26% |
