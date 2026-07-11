@@ -9,7 +9,7 @@ Home: https://github.com/brunocodutra/cinder
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 0.5.1 | 2026-07-08 |  |  |  |  |
-| 0.5.0 | 2026-07-04 | 3421<sub>(+81) | 3517<sub>(+53) | 3573<sub>(+78) |  |
+| 0.5.0 | 2026-07-04 | 3391<sub>(+51) | 3517<sub>(+53) | 3571<sub>(+76) |  |
 | 0.4.1 | 2025-12-05 | 3340<sub>(+42) | 3464<sub>(-3) | 3495<sub>(-20) |  |
 | 0.4.0 | 2025-12-04 | 3298<sub>(+new) | 3467<sub>(+new) | 3515<sub>(+new) |  |
 | 0.3.1 | 2025-08-16 |  |  |  |  |
@@ -35,7 +35,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-10 06:24:22
+Generated: 2026-07-11 06:23:59
 
 ## Ratings Verlauf
 
@@ -44,11 +44,11 @@ Generated: 2026-07-10 06:24:22
 xychart-beta
   x-axis ["0.4.0", "0.4.1", "0.5.0"]
   y-axis "Elo Rating" 3200 --> 3600
-  line "STC (8.0+0.08s)" [3298, 3340, 3421]
-  line "STC (8.0+0.08s)" [3298, 3340, 3421]
+  line "STC (8.0+0.08s)" [3298, 3340, 3391]
+  line "STC (8.0+0.08s)" [3298, 3340, 3391]
   line "LTC (60.0+0.60s)" [3467, 3464, 3517]
-  line "VLTC (2m24s+1.12s)" [3515, 3495, 3573]
-  line "VLTC (2m24s+1.12s)" [3515, 3495, 3573]
+  line "VLTC (2m24s+1.12s)" [3515, 3495, 3571]
+  line "VLTC (2m24s+1.12s)" [3515, 3495, 3571]
 ```
 
 ```mermaid
@@ -77,11 +77,11 @@ style E fill:none,stroke:none
 xychart-beta
   x-axis ["0.4.0", "0.4.1", "0.5.0"]
   y-axis "Elo Rating" 3200 --> 3600
-  line "STC (8.0+0.08s)" [3298, 3340, 3421]
-  line "STC (8.0+0.08s)" [3298, 3340, 3421]
+  line "STC (8.0+0.08s)" [3298, 3340, 3391]
+  line "STC (8.0+0.08s)" [3298, 3340, 3391]
   line "LTC (60.0+0.60s)" [3467, 3464, 3517]
-  line "VLTC (2m24s+1.12s)" [3515, 3495, 3573]
-  line "VLTC (2m24s+1.12s)" [3515, 3495, 3573]
+  line "VLTC (2m24s+1.12s)" [3515, 3495, 3571]
+  line "VLTC (2m24s+1.12s)" [3515, 3495, 3571]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -94,9 +94,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.5.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3573 | 52 | 82 | 51% | 3565 | 88% |
-| 0.5.0 | LTC <sub>(60.0+0.60s)</sub> | 3517 | 48 | 100 | 52% | 3503 | 86% |
-| 0.5.0 | STC <sub>(8.0+0.08s)</sub> | 3421 | 64 | 56 | 52% | 3409 | 82% |
+| 0.5.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3571 | 46 | 106 | 50% | 3567 | 88% |
+| 0.5.0 | LTC <sub>(60.0+0.60s)</sub> | 3517 | 47 | 104 | 52% | 3503 | 87% |
+| 0.5.0 | STC <sub>(8.0+0.08s)</sub> | 3391 | 36 | 188 | 48% | 3403 | 79% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.4.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3495 | 23 | 424 | 50% | 3494 | 86% |
 | 0.4.1 | LTC <sub>(60.0+0.60s)</sub> | 3464 | 25 | 368 | 50% | 3465 | 86% |
