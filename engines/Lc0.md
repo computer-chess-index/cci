@@ -8,13 +8,13 @@ Home: https://github.com/LeelaChessZero/lc0
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.32.1 | 2025-11-23 | 2400<sub>(+new) | 2994<sub>(+new) | 3163<sub>(+new) |  |
+| 0.32.1 | 2025-11-23 | 2400<sub>(+new) | 2996<sub>(+new) | 3163<sub>(+new) |  |
 | 0.32.0 | 2025-08-21 |  |  |  |  |
 | 0.31.2 | 2024-10-20 |  |  |  |  |
 | 0.31.1 | 2024-08-11 |  |  |  |  |
 | 0.31.0 | 2024-06-16 |  |  |  |  |
 | 0.30.0 | 2023-07-21 |  |  |  |  |
-| 0.29.0 | 2022-12-13 | 2371<sub>(+new) | 2985<sub>(+new) | 3217<sub>(+new) |  |
+| 0.29.0 | 2022-12-13 | 2371<sub>(+new) | 2985<sub>(+new) | 3218<sub>(+new) |  |
 | 0.28.2 | 2021-12-13 |  |  |  |  |
 | 0.28.0 | 2021-08-25 |  |  |  |  |
 | 0.27.0 | 2021-02-21 |  |  |  |  |
@@ -61,7 +61,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-10 06:27:19
+Generated: 2026-07-11 06:26:50
 
 ## Ratings Verlauf
 
@@ -72,9 +72,9 @@ xychart-beta
   y-axis "Elo Rating" 2300 --> 3300
   line "STC (8.0+0.08s)" [2371, 2400]
   line "STC (8.0+0.08s)" [2371, 2400]
-  line "LTC (60.0+0.60s)" [2985, 2994]
-  line "VLTC (2m24s+1.12s)" [3217, 3163]
-  line "VLTC (2m24s+1.12s)" [3217, 3163]
+  line "LTC (60.0+0.60s)" [2985, 2996]
+  line "VLTC (2m24s+1.12s)" [3218, 3163]
+  line "VLTC (2m24s+1.12s)" [3218, 3163]
 ```
 
 ```mermaid
@@ -105,9 +105,9 @@ xychart-beta
   y-axis "Elo Rating" 2300 --> 3300
   line "STC (8.0+0.08s)" [2371, 2400]
   line "STC (8.0+0.08s)" [2371, 2400]
-  line "LTC (60.0+0.60s)" [2985, 2994]
-  line "VLTC (2m24s+1.12s)" [3217, 3163]
-  line "VLTC (2m24s+1.12s)" [3217, 3163]
+  line "LTC (60.0+0.60s)" [2985, 2996]
+  line "VLTC (2m24s+1.12s)" [3218, 3163]
+  line "VLTC (2m24s+1.12s)" [3218, 3163]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -121,10 +121,10 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.32.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3163 | 24 | 480 | 49% | 3173 | 52% |
-| 0.32.1 | LTC <sub>(60.0+0.60s)</sub> | 2994 | 25 | 466 | 48% | 3006 | 45% |
-| 0.32.1 | STC <sub>(8.0+0.08s)</sub> | 2400 | 23 | 700 | 50% | 2396 | 24% |
+| 0.32.1 | LTC <sub>(60.0+0.60s)</sub> | 2996 | 25 | 470 | 49% | 3006 | 46% |
+| 0.32.1 | STC <sub>(8.0+0.08s)</sub> | 2400 | 23 | 700 | 50% | 2398 | 24% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.29.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3217 | 28 | 356 | 50% | 3217 | 54% |
+| 0.29.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3218 | 28 | 356 | 50% | 3217 | 54% |
 | 0.29.0 | LTC <sub>(60.0+0.60s)</sub> | 2985 | 30 | 328 | 48% | 2998 | 47% |
-| 0.29.0 | STC <sub>(8.0+0.08s)</sub> | 2371 | 32 | 400 | 42% | 2483 | 19% |
+| 0.29.0 | STC <sub>(8.0+0.08s)</sub> | 2371 | 32 | 400 | 42% | 2484 | 19% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
