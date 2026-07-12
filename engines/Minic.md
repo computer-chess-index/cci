@@ -12,7 +12,7 @@ Home: https://github.com/tryingsomestuff/Minic
 | 3.45 | 2026-04-16 |  |  |  |  |
 | 3.44 | 2025-05-17 |  |  |  |  |
 | 3.43 | 2025-04-09 |  |  |  |  |
-| 3.41 | 2024-01-18 | 2951<sub>(+new) | 3249<sub>(+new) | 3317<sub>(+new) |  |
+| 3.41 | 2024-01-18 | 2951<sub>(+new) | 3251<sub>(+new) | 3318<sub>(+new) |  |
 | 3.40 | 2024-01-14 |  |  |  |  |
 | 3.39 | 2023-10-29 |  |  |  |  |
 | 3.38 | 2023-06-17 |  |  |  |  |
@@ -134,7 +134,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-11 06:27:35
+Generated: 2026-07-12 06:27:47
 
 
 
@@ -142,7 +142,7 @@ Generated: 2026-07-11 06:27:35
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.41 | VLTC <sub>(2m24s+1.12s)</sub> | 3317 | 12 | 1880 | 51% | 3310 | 71% |
-| 3.41 | LTC <sub>(60.0+0.60s)</sub> | 3249 | 12 | 1810 | 50% | 3247 | 63% |
-| 3.41 | STC <sub>(8.0+0.08s)</sub> | 2951 | 12 | 1938 | 51% | 2938 | 50% |
+| 3.41 | VLTC <sub>(2m24s+1.12s)</sub> | 3318 | 12 | 1884 | 51% | 3312 | 71% |
+| 3.41 | LTC <sub>(60.0+0.60s)</sub> | 3251 | 12 | 1810 | 50% | 3248 | 63% |
+| 3.41 | STC <sub>(8.0+0.08s)</sub> | 2951 | 12 | 1938 | 51% | 2939 | 50% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
