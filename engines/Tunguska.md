@@ -8,7 +8,7 @@ Home: https://github.com/fernandotenorio/Tunguska
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1 | 2026-04-08 | 2809<sub>(+313) | 3129<sub>(+290) | 3200<sub>(+281) |  |
+| 2.1 | 2026-04-08 | 2809<sub>(+313) | 3129<sub>(+290) | 3201<sub>(+282) |  |
 | 2.0 | 2026-03-18 | 2496 | 2839 | 2919 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-10 06:46:09
+Generated: 2026-07-12 06:42:03
 
 ## Ratings Verlauf
 
@@ -33,12 +33,12 @@ Generated: 2026-07-10 06:46:09
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["2.0", "2.1"]
-  y-axis "Elo Rating" 2400 --> 3200
+  y-axis "Elo Rating" 2400 --> 3300
   line "STC (8.0+0.08s)" [2496, 2809]
   line "STC (8.0+0.08s)" [2496, 2809]
   line "LTC (60.0+0.60s)" [2839, 3129]
-  line "VLTC (2m24s+1.12s)" [2919, 3200]
-  line "VLTC (2m24s+1.12s)" [2919, 3200]
+  line "VLTC (2m24s+1.12s)" [2919, 3201]
+  line "VLTC (2m24s+1.12s)" [2919, 3201]
 ```
 
 ```mermaid
@@ -66,12 +66,12 @@ style E fill:none,stroke:none
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["2.0", "2.1"]
-  y-axis "Elo Rating" 2400 --> 3200
+  y-axis "Elo Rating" 2400 --> 3300
   line "STC (8.0+0.08s)" [2496, 2809]
   line "STC (8.0+0.08s)" [2496, 2809]
   line "LTC (60.0+0.60s)" [2839, 3129]
-  line "VLTC (2m24s+1.12s)" [2919, 3200]
-  line "VLTC (2m24s+1.12s)" [2919, 3200]
+  line "VLTC (2m24s+1.12s)" [2919, 3201]
+  line "VLTC (2m24s+1.12s)" [2919, 3201]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -84,11 +84,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3200 | 26 | 408 | 50% | 3195 | 59% |
+| 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3201 | 26 | 408 | 50% | 3195 | 59% |
 | 2.1 | LTC <sub>(60.0+0.60s)</sub> | 3129 | 26 | 394 | 52% | 3113 | 59% |
-| 2.1 | STC <sub>(8.0+0.08s)</sub> | 2809 | 26 | 428 | 48% | 2823 | 46% |
+| 2.1 | STC <sub>(8.0+0.08s)</sub> | 2809 | 26 | 436 | 48% | 2823 | 46% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2919 | 30 | 356 | 51% | 2903 | 37% |
-| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 2839 | 31 | 328 | 50% | 2831 | 36% |
+| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2919 | 30 | 356 | 51% | 2904 | 37% |
+| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 2839 | 31 | 328 | 50% | 2832 | 36% |
 | 2.0 | STC <sub>(8.0+0.08s)</sub> | 2496 | 31 | 368 | 50% | 2489 | 25% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
