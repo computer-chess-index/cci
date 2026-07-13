@@ -8,8 +8,8 @@ Home: https://github.com/nbqofficial/viking
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| R5 | 2026-04-27 | 1916<sub>(+575) | 2171<sub>(+348) | 2344<sub>(+235) |  |
-| R4 | 2026-04-22 | 1341<sub>(+new) | 1823<sub>(+new) | 2109<sub>(+new) |  |
+| R5 | 2026-04-27 | 1917<sub>(+576) | 2171<sub>(+348) | 2344<sub>(+234) |  |
+| R4 | 2026-04-22 | 1341<sub>(+new) | 1823<sub>(+new) | 2110<sub>(+new) |  |
 | R3 | 2026-04-22 |  |  |  |  |
 | R2 | 2025-09-25 |  |  |  |  |
 | R1 | 2025-09-24 |  |  |  |  |
@@ -28,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-12 06:42:15
+Generated: 2026-07-13 06:47:27
 
 ## Ratings Verlauf
 
@@ -37,11 +37,11 @@ Generated: 2026-07-12 06:42:15
 xychart-beta
   x-axis ["R4", "R5"]
   y-axis "Elo Rating" 1300 --> 2400
-  line "STC (8.0+0.08s)" [1341, 1916]
-  line "STC (8.0+0.08s)" [1341, 1916]
+  line "STC (8.0+0.08s)" [1341, 1917]
+  line "STC (8.0+0.08s)" [1341, 1917]
   line "LTC (60.0+0.60s)" [1823, 2171]
-  line "VLTC (2m24s+1.12s)" [2109, 2344]
-  line "VLTC (2m24s+1.12s)" [2109, 2344]
+  line "VLTC (2m24s+1.12s)" [2110, 2344]
+  line "VLTC (2m24s+1.12s)" [2110, 2344]
 ```
 
 ```mermaid
@@ -70,11 +70,11 @@ style E fill:none,stroke:none
 xychart-beta
   x-axis ["R4", "R5"]
   y-axis "Elo Rating" 1300 --> 2400
-  line "STC (8.0+0.08s)" [1341, 1916]
-  line "STC (8.0+0.08s)" [1341, 1916]
+  line "STC (8.0+0.08s)" [1341, 1917]
+  line "STC (8.0+0.08s)" [1341, 1917]
   line "LTC (60.0+0.60s)" [1823, 2171]
-  line "VLTC (2m24s+1.12s)" [2109, 2344]
-  line "VLTC (2m24s+1.12s)" [2109, 2344]
+  line "VLTC (2m24s+1.12s)" [2110, 2344]
+  line "VLTC (2m24s+1.12s)" [2110, 2344]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -88,10 +88,10 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | R5 | VLTC <sub>(2m24s+1.12s)</sub> | 2344 | 28 | 402 | 49% | 2356 | 34% |
-| R5 | LTC <sub>(60.0+0.60s)</sub> | 2171 | 29 | 410 | 51% | 2155 | 29% |
-| R5 | STC <sub>(8.0+0.08s)</sub> | 1916 | 28 | 458 | 50% | 1910 | 20% |
+| R5 | LTC <sub>(60.0+0.60s)</sub> | 2171 | 29 | 410 | 51% | 2156 | 29% |
+| R5 | STC <sub>(8.0+0.08s)</sub> | 1917 | 28 | 458 | 50% | 1910 | 20% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| R4 | VLTC <sub>(2m24s+1.12s)</sub> | 2109 | 31 | 372 | 41% | 2221 | 28% |
+| R4 | VLTC <sub>(2m24s+1.12s)</sub> | 2110 | 31 | 372 | 41% | 2221 | 28% |
 | R4 | LTC <sub>(60.0+0.60s)</sub> | 1823 | 36 | 298 | 46% | 1893 | 23% |
 | R4 | STC <sub>(8.0+0.08s)</sub> | 1341 | 38 | 288 | 47% | 1404 | 19% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
