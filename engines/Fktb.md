@@ -8,8 +8,8 @@ Home: https://github.com/lunbun/fktb
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.0.77 | 2026-01-18 | 1847<sub>(-59) | 2137<sub>(+11) | 2214<sub>(+11) |  |
-| 0.0.76 | 2026-01-05 | 1906 | 2126 | 2203 |  |
+| 0.0.77 | 2026-01-18 | 1847<sub>(-59) | 2137<sub>(+9) | 2215<sub>(+10) |  |
+| 0.0.76 | 2026-01-05 | 1906 | 2128 | 2205 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Fktb+<version>&body=###%20Engine%20name%0AFktb%0A%0A###%20Version%0A0.0.77" target="_blank">Submit new version</a>
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-12 06:25:22
+Generated: 2026-07-13 06:27:44
 
 ## Ratings Verlauf
 
@@ -36,9 +36,9 @@ xychart-beta
   y-axis "Elo Rating" 1800 --> 2300
   line "STC (8.0+0.08s)" [1906, 1847]
   line "STC (8.0+0.08s)" [1906, 1847]
-  line "LTC (60.0+0.60s)" [2126, 2137]
-  line "VLTC (2m24s+1.12s)" [2203, 2214]
-  line "VLTC (2m24s+1.12s)" [2203, 2214]
+  line "LTC (60.0+0.60s)" [2128, 2137]
+  line "VLTC (2m24s+1.12s)" [2205, 2215]
+  line "VLTC (2m24s+1.12s)" [2205, 2215]
 ```
 
 ```mermaid
@@ -69,9 +69,9 @@ xychart-beta
   y-axis "Elo Rating" 1800 --> 2300
   line "STC (8.0+0.08s)" [1906, 1847]
   line "STC (8.0+0.08s)" [1906, 1847]
-  line "LTC (60.0+0.60s)" [2126, 2137]
-  line "VLTC (2m24s+1.12s)" [2203, 2214]
-  line "VLTC (2m24s+1.12s)" [2203, 2214]
+  line "LTC (60.0+0.60s)" [2128, 2137]
+  line "VLTC (2m24s+1.12s)" [2205, 2215]
+  line "VLTC (2m24s+1.12s)" [2205, 2215]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -84,11 +84,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.0.77 | VLTC <sub>(2m24s+1.12s)</sub> | 2214 | 25 | 512 | 52% | 2198 | 31% |
-| 0.0.77 | LTC <sub>(60.0+0.60s)</sub> | 2137 | 26 | 476 | 50% | 2138 | 29% |
+| 0.0.77 | VLTC <sub>(2m24s+1.12s)</sub> | 2215 | 25 | 512 | 52% | 2199 | 31% |
+| 0.0.77 | LTC <sub>(60.0+0.60s)</sub> | 2137 | 26 | 476 | 50% | 2140 | 29% |
 | 0.0.77 | STC <sub>(8.0+0.08s)</sub> | 1847 | 23 | 632 | 49% | 1855 | 27% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.0.76 | VLTC <sub>(2m24s+1.12s)</sub> | 2203 | 52 | 132 | 48% | 2232 | 22% |
-| 0.0.76 | LTC <sub>(60.0+0.60s)</sub> | 2126 | 45 | 172 | 49% | 2137 | 23% |
+| 0.0.76 | VLTC <sub>(2m24s+1.12s)</sub> | 2205 | 52 | 132 | 48% | 2232 | 22% |
+| 0.0.76 | LTC <sub>(60.0+0.60s)</sub> | 2128 | 45 | 172 | 49% | 2137 | 23% |
 | 0.0.76 | STC <sub>(8.0+0.08s)</sub> | 1906 | 49 | 140 | 48% | 1924 | 27% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
