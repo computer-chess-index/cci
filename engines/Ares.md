@@ -8,7 +8,7 @@ Home:
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.5 | 2024-02-06 | 1953<sub>(+256) | 2317<sub>(+250) | 2437<sub>(+128) |  |
+| 2.5 | 2024-02-06 | 1953<sub>(+256) | 2318<sub>(+251) | 2437<sub>(+128) |  |
 | 1.004 | 2009-10-31 | 1697 | 2067 | 2309 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-12 06:22:49
+Generated: 2026-07-13 06:23:36
 
 ## Ratings Verlauf
 
@@ -36,7 +36,7 @@ xychart-beta
   y-axis "Elo Rating" 1600 --> 2500
   line "STC (8.0+0.08s)" [1697, 1953]
   line "STC (8.0+0.08s)" [1697, 1953]
-  line "LTC (60.0+0.60s)" [2067, 2317]
+  line "LTC (60.0+0.60s)" [2067, 2318]
   line "VLTC (2m24s+1.12s)" [2309, 2437]
   line "VLTC (2m24s+1.12s)" [2309, 2437]
 ```
@@ -69,7 +69,7 @@ xychart-beta
   y-axis "Elo Rating" 1600 --> 2500
   line "STC (8.0+0.08s)" [1697, 1953]
   line "STC (8.0+0.08s)" [1697, 1953]
-  line "LTC (60.0+0.60s)" [2067, 2317]
+  line "LTC (60.0+0.60s)" [2067, 2318]
   line "VLTC (2m24s+1.12s)" [2309, 2437]
   line "VLTC (2m24s+1.12s)" [2309, 2437]
 ```
@@ -85,8 +85,8 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.5 | VLTC <sub>(2m24s+1.12s)</sub> | 2437 | 29 | 398 | 51% | 2431 | 25% |
-| 2.5 | LTC <sub>(60.0+0.60s)</sub> | 2317 | 26 | 504 | 52% | 2292 | 25% |
-| 2.5 | STC <sub>(8.0+0.08s)</sub> | 1953 | 23 | 670 | 51% | 1945 | 23% |
+| 2.5 | LTC <sub>(60.0+0.60s)</sub> | 2318 | 26 | 504 | 52% | 2292 | 25% |
+| 2.5 | STC <sub>(8.0+0.08s)</sub> | 1953 | 23 | 674 | 50% | 1945 | 23% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.004 | VLTC <sub>(2m24s+1.12s)</sub> | 2309 | 45 | 176 | 47% | 2375 | 27% |
 | 1.004 | LTC <sub>(60.0+0.60s)</sub> | 2067 | 79 | 60 | 49% | 2082 | 15% |
