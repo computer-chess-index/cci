@@ -8,7 +8,7 @@ Home:
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.52 | 2010-11-01 | 1978 | 2230 | 2300 |  |
+| 1.52 | 2010-11-01 | 1978 | 2230 | 2302 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Eeyore+<version>&body=###%20Engine%20name%0AEeyore%0A%0A###%20Version%0A1.52" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-12 06:24:57
+Generated: 2026-07-13 06:27:04
 
 
 
@@ -32,7 +32,7 @@ Generated: 2026-07-12 06:24:57
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.52 | VLTC <sub>(2m24s+1.12s)</sub> | 2300 | 37 | 276 | 44% | 2398 | 24% |
-| 1.52 | LTC <sub>(60.0+0.60s)</sub> | 2230 | 66 | 84 | 46% | 2261 | 17% |
+| 1.52 | VLTC <sub>(2m24s+1.12s)</sub> | 2302 | 37 | 276 | 44% | 2398 | 24% |
+| 1.52 | LTC <sub>(60.0+0.60s)</sub> | 2230 | 66 | 84 | 46% | 2263 | 17% |
 | 1.52 | STC <sub>(8.0+0.08s)</sub> | 1978 | 14 | 2026 | 49% | 1999 | 19% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
