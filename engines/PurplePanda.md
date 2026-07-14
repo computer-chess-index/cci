@@ -8,8 +8,8 @@ Home: https://github.com/Jakob256/PurplePanda
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 21 | 2026-07-12 |  |  |  |  |
-| 20 | 2025-12-15 | 1639<sub>(+new) | 1904<sub>(+new) | 1972<sub>(+new) |  |
+| 21 | 2026-07-12 | 1669<sub>(+30) | 1999<sub>(+95) | 2080<sub>(+106) |  |
+| 20 | 2025-12-15 | 1639<sub>(+new) | 1904<sub>(+new) | 1974<sub>(+new) |  |
 | 19 | 2024-12-28 |  |  |  |  |
 | 18 | 2024-09-26 |  |  |  |  |
 | 17.0 | 2024-06-20 |  |  |  |  |
@@ -33,7 +33,58 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-13 06:41:16
+Generated: 2026-07-14 06:28:00
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["20", "21"]
+  y-axis "Elo Rating" 1600 --> 2100
+  line "STC (8.0+0.08s)" [1639, 1669]
+  line "STC (8.0+0.08s)" [1639, 1669]
+  line "LTC (60.0+0.60s)" [1904, 1999]
+  line "VLTC (2m24s+1.12s)" [1974, 2080]
+  line "VLTC (2m24s+1.12s)" [1974, 2080]
+```
+
+```mermaid
+%%{init: {"theme":"base"}}%%
+flowchart LR
+E[ ] --- A[STC 8.0+0.08s]
+A --- B[LTC 60.0+0.60s]
+B --- C[VLTC 2m24s+1.12s]
+C --- D[ ]
+linkStyle 0 stroke:#a3a3a3,stroke-width:0px
+linkStyle 1 stroke:#a3a3a3,stroke-width:4px
+linkStyle 2 stroke:#faa371,stroke-width:4px
+linkStyle 3 stroke:#4ef781,stroke-width:4px
+style A fill:none,stroke:none
+style B fill:none,stroke:none
+style C fill:none,stroke:none
+style D fill:none,stroke:none
+style E fill:none,stroke:none
+```
+
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["20", "21"]
+  y-axis "Elo Rating" 1600 --> 2100
+  line "STC (8.0+0.08s)" [1639, 1669]
+  line "STC (8.0+0.08s)" [1639, 1669]
+  line "LTC (60.0+0.60s)" [1904, 1999]
+  line "VLTC (2m24s+1.12s)" [1974, 2080]
+  line "VLTC (2m24s+1.12s)" [1974, 2080]
+```
+
+<p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
+<p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
+
 
 
 
@@ -41,7 +92,11 @@ Generated: 2026-07-13 06:41:16
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 20 | VLTC <sub>(2m24s+1.12s)</sub> | 1972 | 25 | 566 | 48% | 2003 | 21% |
+| 21 | VLTC <sub>(2m24s+1.12s)</sub> | 2080 | 58 | 108 | 51% | 2070 | 15% |
+| 21 | LTC <sub>(60.0+0.60s)</sub> | 1999 | 56 | 116 | 50% | 2001 | 15% |
+| 21 | STC <sub>(8.0+0.08s)</sub> | 1669 | 65 | 88 | 51% | 1656 | 14% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 20 | VLTC <sub>(2m24s+1.12s)</sub> | 1974 | 25 | 566 | 48% | 2003 | 21% |
 | 20 | LTC <sub>(60.0+0.60s)</sub> | 1904 | 25 | 580 | 50% | 1909 | 17% |
-| 20 | STC <sub>(8.0+0.08s)</sub> | 1639 | 25 | 640 | 47% | 1666 | 16% |
+| 20 | STC <sub>(8.0+0.08s)</sub> | 1639 | 25 | 640 | 47% | 1667 | 16% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
