@@ -8,7 +8,7 @@ Home: https://github.com/lithander/Leorik
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.2 | 2026-01-06 | 393<sub>(+new) | 390<sub>(+new) | 429<sub>(+new) |  |
+| 3.2 | 2026-01-06 | 392<sub>(+new) | 390<sub>(+new) | 429<sub>(+new) |  |
 | 3.1 | 2025-04-06 |  |  |  |  |
 | 3.0 | 2024-02-05 |  |  |  |  |
 | 2.5 | 2023-09-27 |  |  |  |  |
@@ -33,7 +33,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-14 06:26:15
+Generated: 2026-07-15 06:26:29
 
 
 
@@ -41,7 +41,7 @@ Generated: 2026-07-14 06:26:15
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.2 | VLTC <sub>(2m24s+1.12s)</sub> | 429 | 38 | 366 | 20% | 936 | 32% |
+| 3.2 | VLTC <sub>(2m24s+1.12s)</sub> | 429 | 38 | 366 | 20% | 934 | 32% |
 | 3.2 | LTC <sub>(60.0+0.60s)</sub> | 390 | 40 | 334 | 19% | 890 | 32% |
-| 3.2 | STC <sub>(8.0+0.08s)</sub> | 393 | 36 | 384 | 20% | 852 | 34% |
+| 3.2 | STC <sub>(8.0+0.08s)</sub> | 392 | 36 | 386 | 20% | 849 | 34% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
