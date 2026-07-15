@@ -8,7 +8,7 @@ Home: https://github.com/MinusKelvin/ice4
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.1 | 2025-10-27 | 2542<sub>(+new) | 2913<sub>(+new) | 3005<sub>(+new) |  |
+| 6.1 | 2025-10-27 | 2541<sub>(+new) | 2912<sub>(+new) | 3005<sub>(+new) |  |
 | 6 | 2025-03-27 |  |  |  |  |
 | 5 | 2024-08-04 |  |  |  |  |
 | 4 | 2023-12-27 |  |  |  |  |
@@ -31,7 +31,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-14 06:25:39
+Generated: 2026-07-15 06:25:56
 
 
 
@@ -39,7 +39,7 @@ Generated: 2026-07-14 06:25:39
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 6.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3005 | 25 | 496 | 49% | 3013 | 44% |
-| 6.1 | LTC <sub>(60.0+0.60s)</sub> | 2913 | 25 | 488 | 51% | 2904 | 41% |
-| 6.1 | STC <sub>(8.0+0.08s)</sub> | 2542 | 22 | 688 | 50% | 2526 | 33% |
+| 6.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3005 | 24 | 500 | 49% | 3012 | 44% |
+| 6.1 | LTC <sub>(60.0+0.60s)</sub> | 2912 | 25 | 488 | 51% | 2903 | 41% |
+| 6.1 | STC <sub>(8.0+0.08s)</sub> | 2541 | 22 | 692 | 50% | 2525 | 33% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
