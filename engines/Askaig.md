@@ -8,7 +8,7 @@ Home: https://github.com/sophiathedev/askaig
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 20260704 | 2026-07-04 | 3004<sub>(+609) | 3206<sub>(+546) | 3244<sub>(+535) |  |
+| 20260704 | 2026-07-04 | 3005<sub>(+610) | 3198<sub>(+538) | 3244<sub>(+535) |  |
 | 20260628 | 2026-06-28 | 2395<sub>(-1) | 2660<sub>(+22) | 2709<sub>(-23) |  |
 | 20260616 | 2026-06-16 | 2396<sub>(+new) | 2638<sub>(+new) | 2732<sub>(+new) |  |
 | 20260615 | 2026-06-15 |  |  |  |  |
@@ -28,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-16 06:22:44
+Generated: 2026-07-17 06:22:49
 
 ## Ratings Verlauf
 
@@ -37,9 +37,9 @@ Generated: 2026-07-16 06:22:44
 xychart-beta
   x-axis ["20260616", "20260628", "20260704"]
   y-axis "Elo Rating" 2300 --> 3300
-  line "STC (8.0+0.08s)" [2396, 2395, 3004]
-  line "STC (8.0+0.08s)" [2396, 2395, 3004]
-  line "LTC (60.0+0.60s)" [2638, 2660, 3206]
+  line "STC (8.0+0.08s)" [2396, 2395, 3005]
+  line "STC (8.0+0.08s)" [2396, 2395, 3005]
+  line "LTC (60.0+0.60s)" [2638, 2660, 3198]
   line "VLTC (2m24s+1.12s)" [2732, 2709, 3244]
   line "VLTC (2m24s+1.12s)" [2732, 2709, 3244]
 ```
@@ -70,9 +70,9 @@ style E fill:none,stroke:none
 xychart-beta
   x-axis ["20260616", "20260628", "20260704"]
   y-axis "Elo Rating" 2300 --> 3300
-  line "STC (8.0+0.08s)" [2396, 2395, 3004]
-  line "STC (8.0+0.08s)" [2396, 2395, 3004]
-  line "LTC (60.0+0.60s)" [2638, 2660, 3206]
+  line "STC (8.0+0.08s)" [2396, 2395, 3005]
+  line "STC (8.0+0.08s)" [2396, 2395, 3005]
+  line "LTC (60.0+0.60s)" [2638, 2660, 3198]
   line "VLTC (2m24s+1.12s)" [2732, 2709, 3244]
   line "VLTC (2m24s+1.12s)" [2732, 2709, 3244]
 ```
@@ -88,8 +88,8 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 20260704 | VLTC <sub>(2m24s+1.12s)</sub> | 3244 | 36 | 232 | 56% | 3193 | 49% |
-| 20260704 | LTC <sub>(60.0+0.60s)</sub> | 3206 | 43 | 164 | 56% | 3147 | 50% |
-| 20260704 | STC <sub>(8.0+0.08s)</sub> | 3004 | 39 | 216 | 54% | 2955 | 31% |
+| 20260704 | LTC <sub>(60.0+0.60s)</sub> | 3198 | 41 | 176 | 55% | 3152 | 50% |
+| 20260704 | STC <sub>(8.0+0.08s)</sub> | 3005 | 39 | 220 | 55% | 2957 | 31% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 20260628 | VLTC <sub>(2m24s+1.12s)</sub> | 2709 | 46 | 148 | 51% | 2699 | 35% |
 | 20260628 | LTC <sub>(60.0+0.60s)</sub> | 2660 | 53 | 116 | 49% | 2669 | 31% |
