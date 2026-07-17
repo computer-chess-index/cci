@@ -8,7 +8,7 @@ Home: https://github.com/princesslana/princhess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.21.0 | 2025-10-13 | 2822<sub>(+new) | 3065<sub>(+new) | 3105<sub>(+new) |  |
+| 0.21.0 | 2025-10-13 | 2822<sub>(+new) | 3063<sub>(+new) | 3105<sub>(+new) |  |
 | 0.20.0 | 2025-03-05 |  |  |  |  |
 | 0.19.0 | 2024-09-29 |  |  |  |  |
 | 0.18.0 | 2024-07-09 |  |  |  |  |
@@ -56,7 +56,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-16 06:27:36
+Generated: 2026-07-17 06:27:49
 
 
 
@@ -65,6 +65,6 @@ Generated: 2026-07-16 06:27:36
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.21.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3105 | 25 | 468 | 51% | 3101 | 51% |
-| 0.21.0 | LTC <sub>(60.0+0.60s)</sub> | 3065 | 24 | 496 | 50% | 3058 | 50% |
-| 0.21.0 | STC <sub>(8.0+0.08s)</sub> | 2822 | 22 | 676 | 51% | 2812 | 37% |
+| 0.21.0 | LTC <sub>(60.0+0.60s)</sub> | 3063 | 24 | 500 | 50% | 3059 | 51% |
+| 0.21.0 | STC <sub>(8.0+0.08s)</sub> | 2822 | 22 | 676 | 51% | 2813 | 37% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
