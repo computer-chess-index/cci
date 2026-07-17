@@ -8,7 +8,7 @@ Home: https://github.com/Jakob256/PurplePanda
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 21 | 2026-07-12 | 1702<sub>(+66) | 1986<sub>(+85) | 2101<sub>(+131) |  |
+| 21 | 2026-07-12 | 1702<sub>(+66) | 1986<sub>(+85) | 2098<sub>(+128) |  |
 | 20 | 2025-12-15 | 1636<sub>(+new) | 1901<sub>(+new) | 1970<sub>(+new) |  |
 | 19 | 2024-12-28 |  |  |  |  |
 | 18 | 2024-09-26 |  |  |  |  |
@@ -33,7 +33,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-16 06:27:47
+Generated: 2026-07-17 06:28:00
 
 ## Ratings Verlauf
 
@@ -41,12 +41,12 @@ Generated: 2026-07-16 06:27:47
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["20", "21"]
-  y-axis "Elo Rating" 1600 --> 2200
+  y-axis "Elo Rating" 1600 --> 2100
   line "STC (8.0+0.08s)" [1636, 1702]
   line "STC (8.0+0.08s)" [1636, 1702]
   line "LTC (60.0+0.60s)" [1901, 1986]
-  line "VLTC (2m24s+1.12s)" [1970, 2101]
-  line "VLTC (2m24s+1.12s)" [1970, 2101]
+  line "VLTC (2m24s+1.12s)" [1970, 2098]
+  line "VLTC (2m24s+1.12s)" [1970, 2098]
 ```
 
 ```mermaid
@@ -74,12 +74,12 @@ style E fill:none,stroke:none
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["20", "21"]
-  y-axis "Elo Rating" 1600 --> 2200
+  y-axis "Elo Rating" 1600 --> 2100
   line "STC (8.0+0.08s)" [1636, 1702]
   line "STC (8.0+0.08s)" [1636, 1702]
   line "LTC (60.0+0.60s)" [1901, 1986]
-  line "VLTC (2m24s+1.12s)" [1970, 2101]
-  line "VLTC (2m24s+1.12s)" [1970, 2101]
+  line "VLTC (2m24s+1.12s)" [1970, 2098]
+  line "VLTC (2m24s+1.12s)" [1970, 2098]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -92,7 +92,7 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 21 | VLTC <sub>(2m24s+1.12s)</sub> | 2101 | 48 | 158 | 52% | 2082 | 16% |
+| 21 | VLTC <sub>(2m24s+1.12s)</sub> | 2098 | 48 | 162 | 51% | 2083 | 16% |
 | 21 | LTC <sub>(60.0+0.60s)</sub> | 1986 | 46 | 176 | 48% | 2007 | 18% |
 | 21 | STC <sub>(8.0+0.08s)</sub> | 1702 | 50 | 152 | 52% | 1677 | 15% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
