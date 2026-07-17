@@ -8,8 +8,8 @@ Home: https://github.com/stevemaughan/Crafty-Chess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 25.6.1 | 2026-06-24 | 2445<sub>(-53) | 2769<sub>(+1) | 2834<sub>(-85) |  |
-| 25.2.1 | 2026-06-20 | 2498 | 2768 | 2919 |  |
+| 25.6.1 | 2026-06-24 | 2445<sub>(-53) | 2769<sub>(0) | 2835<sub>(-84) |  |
+| 25.2.1 | 2026-06-20 | 2498 | 2769 | 2919 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Crafty+<version>&body=###%20Engine%20name%0ACrafty%0A%0A###%20Version%0A25.6.1" target="_blank">Submit new version</a>
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-16 06:23:53
+Generated: 2026-07-17 06:24:06
 
 ## Ratings Verlauf
 
@@ -36,9 +36,9 @@ xychart-beta
   y-axis "Elo Rating" 2400 --> 3000
   line "STC (8.0+0.08s)" [2498, 2445]
   line "STC (8.0+0.08s)" [2498, 2445]
-  line "LTC (60.0+0.60s)" [2768, 2769]
-  line "VLTC (2m24s+1.12s)" [2919, 2834]
-  line "VLTC (2m24s+1.12s)" [2919, 2834]
+  line "LTC (60.0+0.60s)" [2769, 2769]
+  line "VLTC (2m24s+1.12s)" [2919, 2835]
+  line "VLTC (2m24s+1.12s)" [2919, 2835]
 ```
 
 ```mermaid
@@ -69,9 +69,9 @@ xychart-beta
   y-axis "Elo Rating" 2400 --> 3000
   line "STC (8.0+0.08s)" [2498, 2445]
   line "STC (8.0+0.08s)" [2498, 2445]
-  line "LTC (60.0+0.60s)" [2768, 2769]
-  line "VLTC (2m24s+1.12s)" [2919, 2834]
-  line "VLTC (2m24s+1.12s)" [2919, 2834]
+  line "LTC (60.0+0.60s)" [2769, 2769]
+  line "VLTC (2m24s+1.12s)" [2919, 2835]
+  line "VLTC (2m24s+1.12s)" [2919, 2835]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -84,11 +84,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 25.6.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2834 | 36 | 242 | 48% | 2855 | 33% |
+| 25.6.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2835 | 36 | 242 | 48% | 2855 | 33% |
 | 25.6.1 | LTC <sub>(60.0+0.60s)</sub> | 2769 | 43 | 176 | 52% | 2753 | 28% |
-| 25.6.1 | STC <sub>(8.0+0.08s)</sub> | 2445 | 41 | 196 | 51% | 2438 | 30% |
+| 25.6.1 | STC <sub>(8.0+0.08s)</sub> | 2445 | 41 | 200 | 51% | 2439 | 29% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 25.2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2919 | 51 | 130 | 50% | 2921 | 28% |
-| 25.2.1 | LTC <sub>(60.0+0.60s)</sub> | 2768 | 56 | 112 | 49% | 2782 | 24% |
+| 25.2.1 | LTC <sub>(60.0+0.60s)</sub> | 2769 | 56 | 112 | 49% | 2782 | 24% |
 | 25.2.1 | STC <sub>(8.0+0.08s)</sub> | 2498 | 59 | 96 | 52% | 2480 | 26% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
