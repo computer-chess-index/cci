@@ -8,7 +8,7 @@ Home: https://github.com/HasanFakih21/JustBot
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.2.0 | 2026-06-24 | 2561<sub>(+554) | 2877<sub>(+575) | 2950<sub>(+552) |  |
+| 0.2.0 | 2026-06-24 | 2561<sub>(+554) | 2877<sub>(+575) | 2947<sub>(+549) |  |
 | 0.1.0 | 2026-06-09 | 2007 | 2302 | 2398 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-16 06:25:40
+Generated: 2026-07-17 06:25:51
 
 ## Ratings Verlauf
 
@@ -37,8 +37,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [2007, 2561]
   line "STC (8.0+0.08s)" [2007, 2561]
   line "LTC (60.0+0.60s)" [2302, 2877]
-  line "VLTC (2m24s+1.12s)" [2398, 2950]
-  line "VLTC (2m24s+1.12s)" [2398, 2950]
+  line "VLTC (2m24s+1.12s)" [2398, 2947]
+  line "VLTC (2m24s+1.12s)" [2398, 2947]
 ```
 
 ```mermaid
@@ -70,8 +70,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [2007, 2561]
   line "STC (8.0+0.08s)" [2007, 2561]
   line "LTC (60.0+0.60s)" [2302, 2877]
-  line "VLTC (2m24s+1.12s)" [2398, 2950]
-  line "VLTC (2m24s+1.12s)" [2398, 2950]
+  line "VLTC (2m24s+1.12s)" [2398, 2947]
+  line "VLTC (2m24s+1.12s)" [2398, 2947]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -84,9 +84,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2950 | 39 | 196 | 51% | 2934 | 49% |
+| 0.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2947 | 38 | 200 | 51% | 2934 | 50% |
 | 0.2.0 | LTC <sub>(60.0+0.60s)</sub> | 2877 | 33 | 288 | 47% | 2896 | 42% |
-| 0.2.0 | STC <sub>(8.0+0.08s)</sub> | 2561 | 38 | 232 | 45% | 2607 | 32% |
+| 0.2.0 | STC <sub>(8.0+0.08s)</sub> | 2561 | 37 | 236 | 45% | 2607 | 32% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2398 | 36 | 278 | 49% | 2419 | 22% |
 | 0.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2302 | 35 | 284 | 49% | 2310 | 26% |
