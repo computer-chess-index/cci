@@ -8,7 +8,7 @@ Home: https://github.com/nbqofficial/viking
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| R5 | 2026-04-27 | 1913<sub>(+575) | 2163<sub>(+343) | 2337<sub>(+231) |  |
+| R5 | 2026-04-27 | 1913<sub>(+575) | 2164<sub>(+344) | 2337<sub>(+231) |  |
 | R4 | 2026-04-22 | 1338<sub>(+new) | 1820<sub>(+new) | 2106<sub>(+new) |  |
 | R3 | 2026-04-22 |  |  |  |  |
 | R2 | 2025-09-25 |  |  |  |  |
@@ -28,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-16 06:29:59
+Generated: 2026-07-17 06:31:05
 
 ## Ratings Verlauf
 
@@ -39,7 +39,7 @@ xychart-beta
   y-axis "Elo Rating" 1300 --> 2400
   line "STC (8.0+0.08s)" [1338, 1913]
   line "STC (8.0+0.08s)" [1338, 1913]
-  line "LTC (60.0+0.60s)" [1820, 2163]
+  line "LTC (60.0+0.60s)" [1820, 2164]
   line "VLTC (2m24s+1.12s)" [2106, 2337]
   line "VLTC (2m24s+1.12s)" [2106, 2337]
 ```
@@ -72,7 +72,7 @@ xychart-beta
   y-axis "Elo Rating" 1300 --> 2400
   line "STC (8.0+0.08s)" [1338, 1913]
   line "STC (8.0+0.08s)" [1338, 1913]
-  line "LTC (60.0+0.60s)" [1820, 2163]
+  line "LTC (60.0+0.60s)" [1820, 2164]
   line "VLTC (2m24s+1.12s)" [2106, 2337]
   line "VLTC (2m24s+1.12s)" [2106, 2337]
 ```
@@ -87,8 +87,8 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| R5 | VLTC <sub>(2m24s+1.12s)</sub> | 2337 | 28 | 406 | 49% | 2350 | 34% |
-| R5 | LTC <sub>(60.0+0.60s)</sub> | 2163 | 29 | 414 | 50% | 2153 | 28% |
+| R5 | VLTC <sub>(2m24s+1.12s)</sub> | 2337 | 28 | 406 | 49% | 2352 | 34% |
+| R5 | LTC <sub>(60.0+0.60s)</sub> | 2164 | 29 | 414 | 50% | 2153 | 28% |
 | R5 | STC <sub>(8.0+0.08s)</sub> | 1913 | 28 | 466 | 50% | 1916 | 20% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | R4 | VLTC <sub>(2m24s+1.12s)</sub> | 2106 | 31 | 372 | 41% | 2217 | 28% |
