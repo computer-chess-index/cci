@@ -8,8 +8,8 @@ Home: https://github.com/KierenP/Halogen
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 16.0.0 | 2026-02-10 | 3344<sub>(+72) | 3509<sub>(+53) | 3537<sub>(+26) |  |
-| 15.0.0 | 2025-09-01 | 3272<sub>(+new) | 3456<sub>(+new) | 3511<sub>(+new) |  |
+| 16.0.0 | 2026-02-10 | 3345<sub>(+73) | 3509<sub>(+53) | 3538<sub>(+25) |  |
+| 15.0.0 | 2025-09-01 | 3272<sub>(+new) | 3456<sub>(+new) | 3513<sub>(+new) |  |
 | 14 | 2025-07-28 |  |  |  |  |
 | 13 | 2025-06-24 |  |  |  |  |
 | 12 | 2024-08-01 |  |  |  |  |
@@ -43,7 +43,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-16 06:25:10
+Generated: 2026-07-17 06:25:24
 
 ## Ratings Verlauf
 
@@ -52,11 +52,11 @@ Generated: 2026-07-16 06:25:10
 xychart-beta
   x-axis ["15.0.0", "16.0.0"]
   y-axis "Elo Rating" 3200 --> 3600
-  line "STC (8.0+0.08s)" [3272, 3344]
-  line "STC (8.0+0.08s)" [3272, 3344]
+  line "STC (8.0+0.08s)" [3272, 3345]
+  line "STC (8.0+0.08s)" [3272, 3345]
   line "LTC (60.0+0.60s)" [3456, 3509]
-  line "VLTC (2m24s+1.12s)" [3511, 3537]
-  line "VLTC (2m24s+1.12s)" [3511, 3537]
+  line "VLTC (2m24s+1.12s)" [3513, 3538]
+  line "VLTC (2m24s+1.12s)" [3513, 3538]
 ```
 
 ```mermaid
@@ -85,11 +85,11 @@ style E fill:none,stroke:none
 xychart-beta
   x-axis ["15.0.0", "16.0.0"]
   y-axis "Elo Rating" 3200 --> 3600
-  line "STC (8.0+0.08s)" [3272, 3344]
-  line "STC (8.0+0.08s)" [3272, 3344]
+  line "STC (8.0+0.08s)" [3272, 3345]
+  line "STC (8.0+0.08s)" [3272, 3345]
   line "LTC (60.0+0.60s)" [3456, 3509]
-  line "VLTC (2m24s+1.12s)" [3511, 3537]
-  line "VLTC (2m24s+1.12s)" [3511, 3537]
+  line "VLTC (2m24s+1.12s)" [3513, 3538]
+  line "VLTC (2m24s+1.12s)" [3513, 3538]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -102,11 +102,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 16.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3537 | 22 | 458 | 50% | 3536 | 87% |
-| 16.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3509 | 22 | 480 | 50% | 3509 | 86% |
-| 16.0.0 | STC <sub>(8.0+0.08s)</sub> | 3344 | 22 | 518 | 49% | 3349 | 75% |
+| 16.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3538 | 22 | 462 | 50% | 3536 | 87% |
+| 16.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3509 | 22 | 484 | 50% | 3509 | 86% |
+| 16.0.0 | STC <sub>(8.0+0.08s)</sub> | 3345 | 22 | 518 | 49% | 3349 | 75% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 15.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3511 | 27 | 324 | 52% | 3494 | 83% |
+| 15.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3513 | 27 | 324 | 52% | 3495 | 83% |
 | 15.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3456 | 30 | 276 | 52% | 3437 | 79% |
-| 15.0.0 | STC <sub>(8.0+0.08s)</sub> | 3272 | 32 | 256 | 54% | 3233 | 64% |
+| 15.0.0 | STC <sub>(8.0+0.08s)</sub> | 3272 | 32 | 256 | 54% | 3235 | 64% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
