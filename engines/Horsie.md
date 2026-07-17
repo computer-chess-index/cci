@@ -8,7 +8,7 @@ Home: https://github.com/liamt19/Horsie
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1 | 2025-05-13 | 3336<sub>(+15) | 3484<sub>(+13) | 3514<sub>(-7) |  |
+| 1.1 | 2025-05-13 | 3336<sub>(+15) | 3484<sub>(+13) | 3515<sub>(-6) |  |
 | 1.0 | 2025-01-08 | 3321 | 3471 | 3521 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-16 06:25:23
+Generated: 2026-07-17 06:25:35
 
 ## Ratings Verlauf
 
@@ -37,8 +37,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [3321, 3336]
   line "STC (8.0+0.08s)" [3321, 3336]
   line "LTC (60.0+0.60s)" [3471, 3484]
-  line "VLTC (2m24s+1.12s)" [3521, 3514]
-  line "VLTC (2m24s+1.12s)" [3521, 3514]
+  line "VLTC (2m24s+1.12s)" [3521, 3515]
+  line "VLTC (2m24s+1.12s)" [3521, 3515]
 ```
 
 ```mermaid
@@ -70,8 +70,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [3321, 3336]
   line "STC (8.0+0.08s)" [3321, 3336]
   line "LTC (60.0+0.60s)" [3471, 3484]
-  line "VLTC (2m24s+1.12s)" [3521, 3514]
-  line "VLTC (2m24s+1.12s)" [3521, 3514]
+  line "VLTC (2m24s+1.12s)" [3521, 3515]
+  line "VLTC (2m24s+1.12s)" [3521, 3515]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -84,11 +84,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3514 | 16 | 876 | 50% | 3514 | 87% |
-| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 3484 | 16 | 874 | 51% | 3480 | 83% |
-| 1.1 | STC <sub>(8.0+0.08s)</sub> | 3336 | 16 | 994 | 50% | 3337 | 69% |
+| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3515 | 16 | 876 | 50% | 3515 | 87% |
+| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 3484 | 16 | 878 | 51% | 3480 | 83% |
+| 1.1 | STC <sub>(8.0+0.08s)</sub> | 3336 | 16 | 994 | 50% | 3339 | 69% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3521 | 28 | 304 | 49% | 3526 | 86% |
 | 1.0 | LTC <sub>(60.0+0.60s)</sub> | 3471 | 26 | 348 | 51% | 3463 | 85% |
-| 1.0 | STC <sub>(8.0+0.08s)</sub> | 3321 | 29 | 292 | 49% | 3325 | 75% |
+| 1.0 | STC <sub>(8.0+0.08s)</sub> | 3321 | 29 | 292 | 49% | 3326 | 75% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
