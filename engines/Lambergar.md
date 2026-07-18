@@ -8,7 +8,7 @@ Home: https://github.com/jabolcni/Lambergar
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.5 | 2026-05-28 | 3036<sub>(+139) | 3254<sub>(+57) | 3344<sub>(+72) |  |
+| 1.5 | 2026-05-28 | 3036<sub>(+139) | 3256<sub>(+59) | 3344<sub>(+72) |  |
 | 1.3 | 2025-09-19 | 2897<sub>(+new) | 3197<sub>(+new) | 3272<sub>(+new) |  |
 | 1.2 | 2025-05-21 |  |  |  |  |
 | 1.1 | 2025-03-27 |  |  |  |  |
@@ -37,7 +37,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-17 06:26:02
+Generated: 2026-07-18 06:26:09
 
 ## Ratings Verlauf
 
@@ -48,7 +48,7 @@ xychart-beta
   y-axis "Elo Rating" 2800 --> 3400
   line "STC (8.0+0.08s)" [2897, 3036]
   line "STC (8.0+0.08s)" [2897, 3036]
-  line "LTC (60.0+0.60s)" [3197, 3254]
+  line "LTC (60.0+0.60s)" [3197, 3256]
   line "VLTC (2m24s+1.12s)" [3272, 3344]
   line "VLTC (2m24s+1.12s)" [3272, 3344]
 ```
@@ -81,7 +81,7 @@ xychart-beta
   y-axis "Elo Rating" 2800 --> 3400
   line "STC (8.0+0.08s)" [2897, 3036]
   line "STC (8.0+0.08s)" [2897, 3036]
-  line "LTC (60.0+0.60s)" [3197, 3254]
+  line "LTC (60.0+0.60s)" [3197, 3256]
   line "VLTC (2m24s+1.12s)" [3272, 3344]
   line "VLTC (2m24s+1.12s)" [3272, 3344]
 ```
@@ -97,7 +97,7 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.5 | VLTC <sub>(2m24s+1.12s)</sub> | 3344 | 36 | 190 | 51% | 3335 | 72% |
-| 1.5 | LTC <sub>(60.0+0.60s)</sub> | 3254 | 29 | 324 | 53% | 3231 | 61% |
+| 1.5 | LTC <sub>(60.0+0.60s)</sub> | 3256 | 28 | 328 | 53% | 3231 | 62% |
 | 1.5 | STC <sub>(8.0+0.08s)</sub> | 3036 | 39 | 184 | 51% | 3033 | 50% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.3 | VLTC <sub>(2m24s+1.12s)</sub> | 3272 | 24 | 462 | 52% | 3258 | 66% |
