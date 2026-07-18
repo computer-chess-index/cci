@@ -1,6 +1,6 @@
 # Engine: Aether
 
-Author: 
+Author: Mohamed
 
 Home: https://github.com/ma787/aether
 
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-18 06:22:10
+Generated: 2026-07-18 08:14:18
 
 
 
