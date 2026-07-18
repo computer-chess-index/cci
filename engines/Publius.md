@@ -8,7 +8,7 @@ Home: https://github.com/nescitus/publius
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1 | 2025-12-31 | 2461<sub>(-362) | 2742<sub>(-352) | 2815<sub>(-305) |  |
+| 1.1 | 2025-12-31 | 2461<sub>(-362) | 2738<sub>(-356) | 2815<sub>(-305) |  |
 | 1.0 | 2025-10-19 | 2823 | 3094 | 3120 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-17 06:27:58
+Generated: 2026-07-18 06:28:08
 
 ## Ratings Verlauf
 
@@ -36,7 +36,7 @@ xychart-beta
   y-axis "Elo Rating" 2400 --> 3200
   line "STC (8.0+0.08s)" [2823, 2461]
   line "STC (8.0+0.08s)" [2823, 2461]
-  line "LTC (60.0+0.60s)" [3094, 2742]
+  line "LTC (60.0+0.60s)" [3094, 2738]
   line "VLTC (2m24s+1.12s)" [3120, 2815]
   line "VLTC (2m24s+1.12s)" [3120, 2815]
 ```
@@ -69,7 +69,7 @@ xychart-beta
   y-axis "Elo Rating" 2400 --> 3200
   line "STC (8.0+0.08s)" [2823, 2461]
   line "STC (8.0+0.08s)" [2823, 2461]
-  line "LTC (60.0+0.60s)" [3094, 2742]
+  line "LTC (60.0+0.60s)" [3094, 2738]
   line "VLTC (2m24s+1.12s)" [3120, 2815]
   line "VLTC (2m24s+1.12s)" [3120, 2815]
 ```
@@ -85,7 +85,7 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2815 | 26 | 456 | 48% | 2835 | 36% |
-| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 2742 | 27 | 448 | 50% | 2742 | 33% |
+| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 2738 | 27 | 456 | 50% | 2742 | 33% |
 | 1.1 | STC <sub>(8.0+0.08s)</sub> | 2461 | 24 | 610 | 50% | 2449 | 29% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3120 | 34 | 232 | 49% | 3132 | 57% |
