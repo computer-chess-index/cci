@@ -8,7 +8,7 @@ Home: https://github.com/Lacovipo/Gilipol
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.00 | 2026-06-06 | 2658<sub>(+127) | 2967<sub>(+114) | 3096<sub>(+104) |  |
+| 2.00 | 2026-06-06 | 2658<sub>(+127) | 2967<sub>(+114) | 3097<sub>(+105) |  |
 | 1.00netbin | 2026-04-13 | 2531<sub>(+2142) | 2853<sub>(+2403) | 2992<sub>(+2533) |  |
 | 1.00 | 2026-04-12 | 389 | 450 | 459 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-17 06:25:10
+Generated: 2026-07-18 06:25:14
 
 ## Ratings Verlauf
 
@@ -38,8 +38,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [389, 2531, 2658]
   line "STC (8.0+0.08s)" [389, 2531, 2658]
   line "LTC (60.0+0.60s)" [450, 2853, 2967]
-  line "VLTC (2m24s+1.12s)" [459, 2992, 3096]
-  line "VLTC (2m24s+1.12s)" [459, 2992, 3096]
+  line "VLTC (2m24s+1.12s)" [459, 2992, 3097]
+  line "VLTC (2m24s+1.12s)" [459, 2992, 3097]
 ```
 
 ```mermaid
@@ -71,8 +71,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [389, 2531, 2658]
   line "STC (8.0+0.08s)" [389, 2531, 2658]
   line "LTC (60.0+0.60s)" [450, 2853, 2967]
-  line "VLTC (2m24s+1.12s)" [459, 2992, 3096]
-  line "VLTC (2m24s+1.12s)" [459, 2992, 3096]
+  line "VLTC (2m24s+1.12s)" [459, 2992, 3097]
+  line "VLTC (2m24s+1.12s)" [459, 2992, 3097]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -85,7 +85,7 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.00 | VLTC <sub>(2m24s+1.12s)</sub> | 3096 | 28 | 370 | 53% | 3067 | 53% |
+| 2.00 | VLTC <sub>(2m24s+1.12s)</sub> | 3097 | 27 | 374 | 53% | 3067 | 53% |
 | 2.00 | LTC <sub>(60.0+0.60s)</sub> | 2967 | 30 | 340 | 50% | 2959 | 45% |
 | 2.00 | STC <sub>(8.0+0.08s)</sub> | 2658 | 32 | 324 | 52% | 2635 | 32% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
