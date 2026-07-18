@@ -57,40 +57,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-18 06:33:03
-
-## Ratings Verlauf
-
-```mermaid
-%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
-xychart-beta
-  x-axis ["12.0.0", "13.0.0", "14.0.1", "15.0.0", "16.0.0", "17.0.0", "18.0.0", "19.0.0", "19.0.1", "20.0.0"]
-  y-axis "Elo Rating" 3100 --> 3600
-  line "STC (8.0+0.08s)" [3193, 3235, 3247, 3278, 3316, 3317, 3374, 3393, 3391, 3436]
-  line "STC (8.0+0.08s)" [3193, 3235, 3247, 3278, 3316, 3317, 3374, 3393, 3391, 3436]
-  line "LTC (60.0+0.60s)" [3370, 3418, 3440, 3467, 3476, 3468, 3499, 3521, 3515, 3551]
-  line "VLTC (2m24s+1.12s)" [3378, 3421, 3482, 3499, 3501, 3505, 3519, 3559, 3541, 3583]
-  line "VLTC (2m24s+1.12s)" [3378, 3421, 3482, 3499, 3501, 3505, 3519, 3559, 3541, 3583]
-```
-
-```mermaid
-%%{init: {"theme":"base"}}%%
-flowchart LR
-E[ ] --- A[STC 8.0+0.08s]
-A --- B[LTC 60.0+0.60s]
-B --- C[VLTC 2m24s+1.12s]
-C --- D[ ]
-linkStyle 0 stroke:#a3a3a3,stroke-width:0px
-linkStyle 1 stroke:#a3a3a3,stroke-width:4px
-linkStyle 2 stroke:#faa371,stroke-width:4px
-linkStyle 3 stroke:#4ef781,stroke-width:4px
-style A fill:none,stroke:none
-style B fill:none,stroke:none
-style C fill:none,stroke:none
-style D fill:none,stroke:none
-style E fill:none,stroke:none
-```
-
+Generated: 2026-07-18 08:22:01
 
 ## Ratings Verlauf
 
