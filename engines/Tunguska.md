@@ -8,7 +8,7 @@ Home: https://github.com/fernandotenorio/Tunguska
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1 | 2026-04-08 | 2804<sub>(+312) | 3127<sub>(+292) | 3202<sub>(+287) |  |
+| 2.1 | 2026-04-08 | 2804<sub>(+312) | 3129<sub>(+294) | 3205<sub>(+290) |  |
 | 2.0 | 2026-03-18 | 2492 | 2835 | 2915 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-17 06:29:58
+Generated: 2026-07-18 06:32:48
 
 ## Ratings Verlauf
 
@@ -36,9 +36,9 @@ xychart-beta
   y-axis "Elo Rating" 2400 --> 3300
   line "STC (8.0+0.08s)" [2492, 2804]
   line "STC (8.0+0.08s)" [2492, 2804]
-  line "LTC (60.0+0.60s)" [2835, 3127]
-  line "VLTC (2m24s+1.12s)" [2915, 3202]
-  line "VLTC (2m24s+1.12s)" [2915, 3202]
+  line "LTC (60.0+0.60s)" [2835, 3129]
+  line "VLTC (2m24s+1.12s)" [2915, 3205]
+  line "VLTC (2m24s+1.12s)" [2915, 3205]
 ```
 
 ```mermaid
@@ -69,9 +69,9 @@ xychart-beta
   y-axis "Elo Rating" 2400 --> 3300
   line "STC (8.0+0.08s)" [2492, 2804]
   line "STC (8.0+0.08s)" [2492, 2804]
-  line "LTC (60.0+0.60s)" [2835, 3127]
-  line "VLTC (2m24s+1.12s)" [2915, 3202]
-  line "VLTC (2m24s+1.12s)" [2915, 3202]
+  line "LTC (60.0+0.60s)" [2835, 3129]
+  line "VLTC (2m24s+1.12s)" [2915, 3205]
+  line "VLTC (2m24s+1.12s)" [2915, 3205]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -84,8 +84,8 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3202 | 25 | 444 | 51% | 3193 | 59% |
-| 2.1 | LTC <sub>(60.0+0.60s)</sub> | 3127 | 26 | 398 | 52% | 3112 | 59% |
+| 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3205 | 25 | 448 | 51% | 3193 | 59% |
+| 2.1 | LTC <sub>(60.0+0.60s)</sub> | 3129 | 26 | 402 | 52% | 3110 | 58% |
 | 2.1 | STC <sub>(8.0+0.08s)</sub> | 2804 | 26 | 440 | 48% | 2819 | 46% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2915 | 30 | 356 | 51% | 2900 | 37% |
