@@ -8,20 +8,13 @@
 
 A growing reference list and documentation project for computer chess engines.
 
-To get a quick impression, see <a href="https://github.com/computer-chess-index/cci/releases/latest" target="_blank">current releases</a>
+Keeping track of the latest engine releases, see <a href="https://github.com/computer-chess-index/cci/releases/latest" target="_blank">current releases</a>
 
 A complete list can be found here: <a href="https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.md" target="_blank">CCI Ratings</a> or <a href="https://computer-chess-index.github.io/cci/" target="_blank">here</a>
 
-To get an impression of a single engine page, see: <a href="https://github.com/computer-chess-index/cci/blob/main/engines/Stockfish.md" target="_blank">Stockfish</a> or <a href="https://github.com/computer-chess-index/cci/blob/main/engines/Raphael.md" target="_blank">Raphael</a>
+The development of an engine over time is displayed here, e.g.: <a href="https://github.com/computer-chess-index/cci/blob/main/engines/Stockfish.md" target="_blank">Stockfish</a> or <a href="https://github.com/computer-chess-index/cci/blob/main/engines/Raphael.md" target="_blank">Raphael</a>
 
-I am also experimenting with <a href="https://computer-chess-index.github.io/cci/Lichess-CCI-Bots.html" target="_blank">Lichess Bots</a>
-
-
-
-
-
-
-
+In the effort to improve the (external) calibration, I made experiments with <a href="https://computer-chess-index.github.io/cci/Lichess-CCI-Bots.html" target="_blank">Lichess Bots</a>. These experiments are currently halted - my calibration efforts are not yet finished, but consider this an insight of the direction I'm thinking about calibration. 
 
 ---
 
@@ -36,6 +29,7 @@ the technical and historical landscape of computer chess.
 
 This repository begins as a **personal initiative**,  
 built around data collection, normalization routines, and transparent reporting.
+
 
 ---
 
