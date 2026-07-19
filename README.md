@@ -8,11 +8,11 @@
 
 A growing reference list and documentation project for computer chess engines.
 
-One of the main targets is keeping track of the <a href="https://github.com/computer-chess-index/cci/releases/latest" target="_blank">latest engine releases</a>
-
-A complete list can be found here: <a href="https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.md" target="_blank">CCI Ratings</a> or <a href="https://computer-chess-index.github.io/cci/" target="_blank">here</a>
+One of the main targets is keeping track of the <a href="https://github.com/computer-chess-index/cci/releases/latest" target="_blank">latest engine releases</a>. This also includes Elo ratings for three different Time Controls that are meant to be representative - Short, Long and Very Long. These ratings are calculated in one big, endless tournament that started in 2024.09.18. Engines are playing direct neighbour engines in the rating table until they have found their place, then they are play two engines up and down, and so on. Note that the several TCs are all playing the same tournament to calibrate them against each other, so we can directly compare them and see, how the engines perform over the various TCs.
 
 The development of an engine over time is displayed here, e.g.: <a href="https://github.com/computer-chess-index/cci/blob/main/engines/Stockfish.md" target="_blank">Stockfish</a> or <a href="https://github.com/computer-chess-index/cci/blob/main/engines/Raphael.md" target="_blank">Raphael</a>
+
+A complete list of engines can be found here: <a href="https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.md" target="_blank">CCI Ratings</a> or <a href="https://computer-chess-index.github.io/cci/" target="_blank">here</a>. I didn't spend much time on that though, as it is not the main focus of my work.
 
 In the effort to improve the (external) calibration, I made experiments with <a href="https://computer-chess-index.github.io/cci/Lichess-CCI-Bots.html" target="_blank">Lichess Bots</a>. These experiments are currently halted - my calibration efforts are not yet finished, but consider this an insight of the direction I'm thinking about calibration. 
 
