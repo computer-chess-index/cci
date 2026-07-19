@@ -10,8 +10,8 @@ Home: https://github.com/ericlangedijk/chessnix/
 | --- | --- | --- | --- | --- | --- |
 | 1.4 | 2026-04-28 | 2865<sub>(+new) | 3125<sub>(+new) | 3217<sub>(+new) |  |
 | 0.0 | 2026-02-25 |  |  |  |  |
-| 1.3 | 2026-02-15 | 2853<sub>(+256) | 3052<sub>(+290) | 3152<sub>(+224) |  |
-| 1.2 | 2025-12-12 | 2597<sub>(+284) | 2762<sub>(+171) | 2928<sub>(+264) |  |
+| 1.3 | 2026-02-15 | 2853<sub>(+256) | 3052<sub>(+290) | 3152<sub>(+222) |  |
+| 1.2 | 2025-12-12 | 2597<sub>(+284) | 2762<sub>(+171) | 2930<sub>(+266) |  |
 | 1.0 | 2025-11-08 | 2313<sub>(+new) | 2591<sub>(+new) | 2664<sub>(+new) | too many irregular games |
 | 0.1 | 2025-10-03 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -29,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-18 08:15:50
+Generated: 2026-07-19 06:23:45
 
 ## Ratings Verlauf
 
@@ -41,8 +41,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [2313, 2597, 2853, 2865]
   line "STC (8.0+0.08s)" [2313, 2597, 2853, 2865]
   line "LTC (60.0+0.60s)" [2591, 2762, 3052, 3125]
-  line "VLTC (2m24s+1.12s)" [2664, 2928, 3152, 3217]
-  line "VLTC (2m24s+1.12s)" [2664, 2928, 3152, 3217]
+  line "VLTC (2m24s+1.12s)" [2664, 2930, 3152, 3217]
+  line "VLTC (2m24s+1.12s)" [2664, 2930, 3152, 3217]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -63,7 +63,7 @@ xychart-beta
 | 1.3 | LTC <sub>(60.0+0.60s)</sub> | 3052 | 75 | 52 | 46% | 3077 | 46% |
 | 1.3 | STC <sub>(8.0+0.08s)</sub> | 2853 | 123 | 22 | 52% | 2830 | 23% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2928 | 158 | 12 | 46% | 2966 | 25% |
+| 1.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2930 | 158 | 12 | 46% | 2966 | 25% |
 | 1.2 | LTC <sub>(60.0+0.60s)</sub> | 2762 | 79 | 52 | 52% | 2745 | 31% |
 | 1.2 | STC <sub>(8.0+0.08s)</sub> | 2597 | 150 | 16 | 63% | 2477 | 13% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
