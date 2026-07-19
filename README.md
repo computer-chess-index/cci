@@ -8,7 +8,7 @@
 
 A growing reference list and documentation project for computer chess engines.
 
-Keeping track of the latest engine releases, see <a href="https://github.com/computer-chess-index/cci/releases/latest" target="_blank">current releases</a>
+One of the main targets is keeping track of the <a href="https://github.com/computer-chess-index/cci/releases/latest" target="_blank">latest engine releases</a>
 
 A complete list can be found here: <a href="https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.md" target="_blank">CCI Ratings</a> or <a href="https://computer-chess-index.github.io/cci/" target="_blank">here</a>
 
