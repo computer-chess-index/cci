@@ -8,7 +8,7 @@ Home: https://github.com/zzzzz151/Starzix
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.1 | 2025-04-06 | 3316<sub>(+6) | 3476<sub>(+6) | 3497<sub>(-2) |  |
+| 6.1 | 2025-04-06 | 3316<sub>(+6) | 3478<sub>(+8) | 3497<sub>(-2) |  |
 | 6.0 | 2024-10-24 | 3310<sub>(+112) | 3470<sub>(+75) | 3499<sub>(+78) |  |
 | 5.0 | 2024-05-23 | 3198<sub>(+new) | 3395<sub>(+new) | 3421<sub>(+new) |  |
 | 4.0 | 2024-01-22 |  |  |  |  |
@@ -30,7 +30,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-18 08:21:13
+Generated: 2026-07-19 06:29:18
 
 ## Ratings Verlauf
 
@@ -41,7 +41,7 @@ xychart-beta
   y-axis "Elo Rating" 3100 --> 3500
   line "STC (8.0+0.08s)" [3198, 3310, 3316]
   line "STC (8.0+0.08s)" [3198, 3310, 3316]
-  line "LTC (60.0+0.60s)" [3395, 3470, 3476]
+  line "LTC (60.0+0.60s)" [3395, 3470, 3478]
   line "VLTC (2m24s+1.12s)" [3421, 3499, 3497]
   line "VLTC (2m24s+1.12s)" [3421, 3499, 3497]
 ```
@@ -56,12 +56,12 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 6.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3497 | 24 | 396 | 49% | 3499 | 88% |
-| 6.1 | LTC <sub>(60.0+0.60s)</sub> | 3476 | 24 | 396 | 50% | 3478 | 87% |
+| 6.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3497 | 24 | 400 | 50% | 3499 | 88% |
+| 6.1 | LTC <sub>(60.0+0.60s)</sub> | 3478 | 24 | 400 | 50% | 3478 | 87% |
 | 6.1 | STC <sub>(8.0+0.08s)</sub> | 3316 | 22 | 530 | 49% | 3320 | 70% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3499 | 12 | 1620 | 50% | 3498 | 85% |
-| 6.0 | LTC <sub>(60.0+0.60s)</sub> | 3470 | 12 | 1600 | 50% | 3468 | 82% |
+| 6.0 | LTC <sub>(60.0+0.60s)</sub> | 3470 | 12 | 1600 | 50% | 3470 | 82% |
 | 6.0 | STC <sub>(8.0+0.08s)</sub> | 3310 | 13 | 1628 | 50% | 3312 | 68% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 5.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3421 | 32 | 236 | 51% | 3416 | 76% |
