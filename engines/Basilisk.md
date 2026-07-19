@@ -8,7 +8,8 @@ Home: https://github.com/maelic13/basilisk
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.8.0 | 2026-07-08 | 2503<sub>(-30) | 2774<sub>(+24) | 2908<sub>(+72) |  |
+| 1.9.0 | 2026-07-18 | 2500<sub>(-11) | 2923<sub>(+154) | 2936<sub>(+28) |  |
+| 1.8.0 | 2026-07-08 | 2511<sub>(-22) | 2769<sub>(+19) | 2908<sub>(+72) |  |
 | 1.7.0 | 2026-06-29 | 2533<sub>(+177) | 2750<sub>(+126) | 2836<sub>(+75) |  |
 | 1.6.0 | 2026-06-20 | 2356<sub>(+20) | 2624<sub>(+41) | 2761<sub>(+56) |  |
 | 1.5.0 | 2026-06-10 | 2336<sub>(-4) | 2583<sub>(+15) | 2705<sub>(+35) |  |
@@ -31,7 +32,7 @@ Home: https://github.com/maelic13/basilisk
 | 1.0.0 | 2026-05-20 | 2028 | 2338 | 2452 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Basilisk+<version>&body=###%20Engine%20name%0ABasilisk%0A%0A###%20Version%0A1.8.0" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Basilisk+<version>&body=###%20Engine%20name%0ABasilisk%0A%0A###%20Version%0A1.9.0" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -44,20 +45,20 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-18 08:15:03
+Generated: 2026-07-19 06:22:54
 
 ## Ratings Verlauf
 
 ```mermaid
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
-  x-axis ["1.0.0", "1.2.0", "1.4.9", "1.5.0", "1.6.0", "1.7.0", "1.8.0"]
+  x-axis ["1.0.0", "1.2.0", "1.4.9", "1.5.0", "1.6.0", "1.7.0", "1.8.0", "1.9.0"]
   y-axis "Elo Rating" 2000 --> 3000
-  line "STC (8.0+0.08s)" [2028, 2036, 2340, 2336, 2356, 2533, 2503]
-  line "STC (8.0+0.08s)" [2028, 2036, 2340, 2336, 2356, 2533, 2503]
-  line "LTC (60.0+0.60s)" [2338, 2373, 2568, 2583, 2624, 2750, 2774]
-  line "VLTC (2m24s+1.12s)" [2452, 2444, 2670, 2705, 2761, 2836, 2908]
-  line "VLTC (2m24s+1.12s)" [2452, 2444, 2670, 2705, 2761, 2836, 2908]
+  line "STC (8.0+0.08s)" [2028, 2036, 2340, 2336, 2356, 2533, 2511, 2500]
+  line "STC (8.0+0.08s)" [2028, 2036, 2340, 2336, 2356, 2533, 2511, 2500]
+  line "LTC (60.0+0.60s)" [2338, 2373, 2568, 2583, 2624, 2750, 2769, 2923]
+  line "VLTC (2m24s+1.12s)" [2452, 2444, 2670, 2705, 2761, 2836, 2908, 2936]
+  line "VLTC (2m24s+1.12s)" [2452, 2444, 2670, 2705, 2761, 2836, 2908, 2936]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -70,11 +71,15 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.8.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2908 | 45 | 148 | 51% | 2903 | 41% |
-| 1.8.0 | LTC <sub>(60.0+0.60s)</sub> | 2774 | 45 | 156 | 51% | 2768 | 32% |
-| 1.8.0 | STC <sub>(8.0+0.08s)</sub> | 2503 | 45 | 160 | 50% | 2503 | 34% |
+| 1.9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2936 | 58 | 90 | 48% | 2957 | 40% |
+| 1.9.0 | LTC <sub>(60.0+0.60s)</sub> | 2923 | 63 | 72 | 54% | 2890 | 47% |
+| 1.9.0 | STC <sub>(8.0+0.08s)</sub> | 2500 | 71 | 64 | 50% | 2495 | 28% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.7.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2836 | 45 | 148 | 48% | 2854 | 43% |
+| 1.8.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2908 | 45 | 148 | 51% | 2903 | 41% |
+| 1.8.0 | LTC <sub>(60.0+0.60s)</sub> | 2769 | 45 | 160 | 50% | 2768 | 33% |
+| 1.8.0 | STC <sub>(8.0+0.08s)</sub> | 2511 | 44 | 164 | 51% | 2503 | 34% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.7.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2836 | 45 | 148 | 48% | 2853 | 43% |
 | 1.7.0 | LTC <sub>(60.0+0.60s)</sub> | 2750 | 45 | 156 | 48% | 2769 | 33% |
 | 1.7.0 | STC <sub>(8.0+0.08s)</sub> | 2533 | 45 | 170 | 51% | 2519 | 26% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
