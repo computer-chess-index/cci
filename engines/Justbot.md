@@ -8,7 +8,7 @@ Home: https://github.com/HasanFakih21/JustBot
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.2.0 | 2026-06-24 | 2562<sub>(+555) | 2877<sub>(+575) | 2943<sub>(+545) |  |
+| 0.2.0 | 2026-06-24 | 2562<sub>(+555) | 2880<sub>(+578) | 2943<sub>(+545) |  |
 | 0.1.0 | 2026-06-09 | 2007 | 2302 | 2398 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-18 08:17:47
+Generated: 2026-07-19 06:25:50
 
 ## Ratings Verlauf
 
@@ -36,7 +36,7 @@ xychart-beta
   y-axis "Elo Rating" 2000 --> 3000
   line "STC (8.0+0.08s)" [2007, 2562]
   line "STC (8.0+0.08s)" [2007, 2562]
-  line "LTC (60.0+0.60s)" [2302, 2877]
+  line "LTC (60.0+0.60s)" [2302, 2880]
   line "VLTC (2m24s+1.12s)" [2398, 2943]
   line "VLTC (2m24s+1.12s)" [2398, 2943]
 ```
@@ -52,7 +52,7 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2943 | 38 | 204 | 50% | 2934 | 50% |
-| 0.2.0 | LTC <sub>(60.0+0.60s)</sub> | 2877 | 33 | 288 | 47% | 2896 | 42% |
+| 0.2.0 | LTC <sub>(60.0+0.60s)</sub> | 2880 | 32 | 292 | 48% | 2894 | 42% |
 | 0.2.0 | STC <sub>(8.0+0.08s)</sub> | 2562 | 37 | 240 | 45% | 2606 | 33% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2398 | 36 | 278 | 49% | 2419 | 22% |
