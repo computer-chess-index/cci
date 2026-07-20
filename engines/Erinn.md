@@ -8,7 +8,7 @@ Home: https://github.com/NichtElias/Erinn
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1 | 2026-07-11 | 2391<sub>(+315) | 2673<sub>(+258) | 2703<sub>(+183) |  |
+| 1.1 | 2026-07-11 | 2388<sub>(+312) | 2680<sub>(+265) | 2703<sub>(+183) |  |
 | 1.0 | 2026-06-10 | 2076 | 2415 | 2520 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-19 06:24:39
+Generated: 2026-07-20 06:24:44
 
 ## Ratings Verlauf
 
@@ -34,9 +34,9 @@ Generated: 2026-07-19 06:24:39
 xychart-beta
   x-axis ["1.0", "1.1"]
   y-axis "Elo Rating" 2000 --> 2800
-  line "STC (8.0+0.08s)" [2076, 2391]
-  line "STC (8.0+0.08s)" [2076, 2391]
-  line "LTC (60.0+0.60s)" [2415, 2673]
+  line "STC (8.0+0.08s)" [2076, 2388]
+  line "STC (8.0+0.08s)" [2076, 2388]
+  line "LTC (60.0+0.60s)" [2415, 2680]
   line "VLTC (2m24s+1.12s)" [2520, 2703]
   line "VLTC (2m24s+1.12s)" [2520, 2703]
 ```
@@ -52,8 +52,8 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2703 | 44 | 150 | 50% | 2705 | 49% |
-| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 2673 | 43 | 166 | 52% | 2660 | 40% |
-| 1.1 | STC <sub>(8.0+0.08s)</sub> | 2391 | 37 | 220 | 47% | 2417 | 40% |
+| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 2680 | 42 | 170 | 52% | 2660 | 40% |
+| 1.1 | STC <sub>(8.0+0.08s)</sub> | 2388 | 37 | 224 | 47% | 2417 | 40% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2520 | 32 | 316 | 50% | 2514 | 35% |
 | 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2415 | 30 | 368 | 56% | 2350 | 37% |
