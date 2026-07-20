@@ -8,7 +8,7 @@ Home: https://github.com/Jakob256/PurplePanda
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 21 | 2026-07-12 | 1702<sub>(+66) | 1986<sub>(+85) | 2106<sub>(+136) |  |
+| 21 | 2026-07-12 | 1700<sub>(+64) | 1989<sub>(+88) | 2106<sub>(+136) |  |
 | 20 | 2025-12-15 | 1636<sub>(+new) | 1901<sub>(+new) | 1970<sub>(+new) |  |
 | 19 | 2024-12-28 |  |  |  |  |
 | 18 | 2024-09-26 |  |  |  |  |
@@ -33,7 +33,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-19 06:27:58
+Generated: 2026-07-20 06:28:14
 
 ## Ratings Verlauf
 
@@ -42,9 +42,9 @@ Generated: 2026-07-19 06:27:58
 xychart-beta
   x-axis ["20", "21"]
   y-axis "Elo Rating" 1600 --> 2200
-  line "STC (8.0+0.08s)" [1636, 1702]
-  line "STC (8.0+0.08s)" [1636, 1702]
-  line "LTC (60.0+0.60s)" [1901, 1986]
+  line "STC (8.0+0.08s)" [1636, 1700]
+  line "STC (8.0+0.08s)" [1636, 1700]
+  line "LTC (60.0+0.60s)" [1901, 1989]
   line "VLTC (2m24s+1.12s)" [1970, 2106]
   line "VLTC (2m24s+1.12s)" [1970, 2106]
 ```
@@ -60,8 +60,8 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 21 | VLTC <sub>(2m24s+1.12s)</sub> | 2106 | 47 | 166 | 52% | 2084 | 16% |
-| 21 | LTC <sub>(60.0+0.60s)</sub> | 1986 | 46 | 176 | 48% | 2007 | 18% |
-| 21 | STC <sub>(8.0+0.08s)</sub> | 1702 | 50 | 152 | 52% | 1677 | 15% |
+| 21 | LTC <sub>(60.0+0.60s)</sub> | 1989 | 45 | 180 | 48% | 2009 | 18% |
+| 21 | STC <sub>(8.0+0.08s)</sub> | 1700 | 48 | 160 | 52% | 1678 | 16% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 20 | VLTC <sub>(2m24s+1.12s)</sub> | 1970 | 25 | 566 | 48% | 2001 | 21% |
 | 20 | LTC <sub>(60.0+0.60s)</sub> | 1901 | 25 | 580 | 50% | 1906 | 17% |
