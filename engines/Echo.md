@@ -8,7 +8,7 @@ Home: https://github.com/AM-ML/Echo
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.1 | 2026-07-04 | 1978<sub>(+new) | 2230<sub>(+new) | 2261<sub>(+new) |  |
+| 1.0.1 | 2026-07-04 | 1979<sub>(+new) | 2236<sub>(+new) | 2260<sub>(+new) |  |
 | 1.0.0 | 2025-12-20 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-19 06:24:27
+Generated: 2026-07-20 06:24:32
 
 
 
@@ -33,7 +33,7 @@ Generated: 2026-07-19 06:24:27
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2261 | 43 | 172 | 48% | 2282 | 35% |
-| 1.0.1 | LTC <sub>(60.0+0.60s)</sub> | 2230 | 44 | 182 | 51% | 2217 | 24% |
-| 1.0.1 | STC <sub>(8.0+0.08s)</sub> | 1978 | 46 | 168 | 54% | 1940 | 21% |
+| 1.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2260 | 43 | 176 | 47% | 2282 | 35% |
+| 1.0.1 | LTC <sub>(60.0+0.60s)</sub> | 2236 | 43 | 186 | 52% | 2217 | 25% |
+| 1.0.1 | STC <sub>(8.0+0.08s)</sub> | 1979 | 46 | 168 | 54% | 1940 | 21% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
