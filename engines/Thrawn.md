@@ -8,7 +8,7 @@ Home: https://github.com/feftywacky/Thrawn
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.1 | 2026-07-07 | 2857<sub>(+642) | 3168<sub>(+540) | 3245<sub>(+457) |  |
+| 3.1 | 2026-07-07 | 2857<sub>(+642) | 3166<sub>(+538) | 3244<sub>(+456) |  |
 | 3.0 | 2026-05-25 | 2215<sub>(-242) | 2628<sub>(-191) | 2788<sub>(-100) |  |
 | 2.2 | 2025-10-08 | 2457<sub>(+new) | 2819<sub>(+new) | 2888<sub>(+new) |  |
 | 2.1 | 2024-07-16 |  |  |  |  |
@@ -34,7 +34,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-19 06:29:42
+Generated: 2026-07-20 06:32:50
 
 ## Ratings Verlauf
 
@@ -45,9 +45,9 @@ xychart-beta
   y-axis "Elo Rating" 2200 --> 3300
   line "STC (8.0+0.08s)" [2457, 2215, 2857]
   line "STC (8.0+0.08s)" [2457, 2215, 2857]
-  line "LTC (60.0+0.60s)" [2819, 2628, 3168]
-  line "VLTC (2m24s+1.12s)" [2888, 2788, 3245]
-  line "VLTC (2m24s+1.12s)" [2888, 2788, 3245]
+  line "LTC (60.0+0.60s)" [2819, 2628, 3166]
+  line "VLTC (2m24s+1.12s)" [2888, 2788, 3244]
+  line "VLTC (2m24s+1.12s)" [2888, 2788, 3244]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -60,8 +60,8 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3245 | 37 | 190 | 53% | 3204 | 66% |
-| 3.1 | LTC <sub>(60.0+0.60s)</sub> | 3168 | 40 | 168 | 54% | 3127 | 60% |
+| 3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3244 | 37 | 198 | 53% | 3205 | 66% |
+| 3.1 | LTC <sub>(60.0+0.60s)</sub> | 3166 | 39 | 176 | 54% | 3128 | 60% |
 | 3.1 | STC <sub>(8.0+0.08s)</sub> | 2857 | 39 | 200 | 50% | 2847 | 42% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2788 | 44 | 162 | 47% | 2812 | 35% |
