@@ -8,7 +8,7 @@ Home: https://github.com/casanche/casanchess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2026-07-14 | 2322<sub>(+new) | 2614<sub>(+new) | 2718<sub>(+new) |  |
+| 1.0 | 2026-07-14 | 2311<sub>(+new) | 2614<sub>(+new) | 2701<sub>(+new) |  |
 | 0.9 | 2025-07-29 |  |  |  | Virustotal detections |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-19 06:23:18
+Generated: 2026-07-20 06:23:23
 
 
 
@@ -33,7 +33,7 @@ Generated: 2026-07-19 06:23:18
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2718 | 42 | 210 | 65% | 2361 | 36% |
-| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2614 | 43 | 200 | 65% | 2321 | 36% |
-| 1.0 | STC <sub>(8.0+0.08s)</sub> | 2322 | 41 | 232 | 66% | 1972 | 35% |
+| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2701 | 40 | 234 | 62% | 2395 | 36% |
+| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2614 | 42 | 208 | 64% | 2331 | 36% |
+| 1.0 | STC <sub>(8.0+0.08s)</sub> | 2311 | 39 | 256 | 64% | 2003 | 34% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
