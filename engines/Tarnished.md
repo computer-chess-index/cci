@@ -8,7 +8,7 @@ Home: https://github.com/Bobingstern/Tarnished
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.0 | 2026-06-10 | 3337<sub>(-12) | 3522<sub>(+8) | 3545<sub>(+8) |  |
+| 6.0 | 2026-06-10 | 3337<sub>(-12) | 3521<sub>(+7) | 3546<sub>(+9) |  |
 | 5.0 | 2026-02-07 | 3349<sub>(+109) | 3514<sub>(+94) | 3537<sub>(+70) |  |
 | 4.0 | 2025-08-23 | 3240<sub>(+new) | 3420<sub>(+new) | 3467<sub>(+new) |  |
 | 3.0 | 2025-06-30 |  |  |  |  |
@@ -30,7 +30,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-20 06:29:58
+Generated: 2026-07-21 06:30:40
 
 ## Ratings Verlauf
 
@@ -41,9 +41,9 @@ xychart-beta
   y-axis "Elo Rating" 3200 --> 3600
   line "STC (8.0+0.08s)" [3240, 3349, 3337]
   line "STC (8.0+0.08s)" [3240, 3349, 3337]
-  line "LTC (60.0+0.60s)" [3420, 3514, 3522]
-  line "VLTC (2m24s+1.12s)" [3467, 3537, 3545]
-  line "VLTC (2m24s+1.12s)" [3467, 3537, 3545]
+  line "LTC (60.0+0.60s)" [3420, 3514, 3521]
+  line "VLTC (2m24s+1.12s)" [3467, 3537, 3546]
+  line "VLTC (2m24s+1.12s)" [3467, 3537, 3546]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -56,9 +56,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3545 | 28 | 296 | 51% | 3538 | 87% |
-| 6.0 | LTC <sub>(60.0+0.60s)</sub> | 3522 | 27 | 316 | 49% | 3529 | 85% |
-| 6.0 | STC <sub>(8.0+0.08s)</sub> | 3337 | 28 | 324 | 49% | 3345 | 73% |
+| 6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3546 | 28 | 300 | 51% | 3537 | 87% |
+| 6.0 | LTC <sub>(60.0+0.60s)</sub> | 3521 | 27 | 328 | 49% | 3528 | 85% |
+| 6.0 | STC <sub>(8.0+0.08s)</sub> | 3337 | 28 | 328 | 49% | 3345 | 72% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 5.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3537 | 23 | 442 | 50% | 3537 | 86% |
 | 5.0 | LTC <sub>(60.0+0.60s)</sub> | 3514 | 23 | 442 | 51% | 3507 | 85% |
