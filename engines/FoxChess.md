@@ -8,7 +8,7 @@ Home: https://github.com/nfaltermeier/fox-chess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.2 | 2026-06-20 | 2503<sub>(+118) | 2827<sub>(+130) | 2917<sub>(+152) |  |
+| 1.2 | 2026-06-20 | 2503<sub>(+118) | 2827<sub>(+130) | 2920<sub>(+155) |  |
 | 1.1 | 2026-04-18 | 2385<sub>(+81) | 2697<sub>(+178) | 2765<sub>(+128) |  |
 | 1.0 | 2025-12-27 | 2304 | 2519 | 2637 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-20 06:25:01
+Generated: 2026-07-21 06:25:15
 
 ## Ratings Verlauf
 
@@ -38,8 +38,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [2304, 2385, 2503]
   line "STC (8.0+0.08s)" [2304, 2385, 2503]
   line "LTC (60.0+0.60s)" [2519, 2697, 2827]
-  line "VLTC (2m24s+1.12s)" [2637, 2765, 2917]
-  line "VLTC (2m24s+1.12s)" [2637, 2765, 2917]
+  line "VLTC (2m24s+1.12s)" [2637, 2765, 2920]
+  line "VLTC (2m24s+1.12s)" [2637, 2765, 2920]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -52,9 +52,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2917 | 35 | 236 | 50% | 2916 | 46% |
+| 1.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2920 | 35 | 240 | 51% | 2915 | 46% |
 | 1.2 | LTC <sub>(60.0+0.60s)</sub> | 2827 | 37 | 228 | 51% | 2826 | 37% |
-| 1.2 | STC <sub>(8.0+0.08s)</sub> | 2503 | 38 | 232 | 48% | 2527 | 31% |
+| 1.2 | STC <sub>(8.0+0.08s)</sub> | 2503 | 38 | 236 | 48% | 2527 | 30% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2765 | 28 | 392 | 49% | 2772 | 36% |
 | 1.1 | LTC <sub>(60.0+0.60s)</sub> | 2697 | 28 | 418 | 50% | 2692 | 34% |
