@@ -8,7 +8,7 @@ Home: https://github.com/JVMerlino/Myrddin
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.96 | 2026-06-08 | 2741<sub>(+125) | 3039<sub>(+108) | 3110<sub>(+101) |  |
+| 0.96 | 2026-06-08 | 2742<sub>(+126) | 3039<sub>(+108) | 3110<sub>(+101) |  |
 | 0.95 | 2026-04-23 | 2616<sub>(+33) | 2931<sub>(+14) | 3009<sub>(-37) |  |
 | 0.94 | 2025-12-11 | 2583<sub>(+new) | 2917<sub>(+new) | 3046<sub>(+new) |  |
 | 0.93 | 2025-04-23 |  |  |  |  |
@@ -31,7 +31,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-20 06:26:59
+Generated: 2026-07-21 06:27:18
 
 ## Ratings Verlauf
 
@@ -40,8 +40,8 @@ Generated: 2026-07-20 06:26:59
 xychart-beta
   x-axis ["0.94", "0.95", "0.96"]
   y-axis "Elo Rating" 2500 --> 3200
-  line "STC (8.0+0.08s)" [2583, 2616, 2741]
-  line "STC (8.0+0.08s)" [2583, 2616, 2741]
+  line "STC (8.0+0.08s)" [2583, 2616, 2742]
+  line "STC (8.0+0.08s)" [2583, 2616, 2742]
   line "LTC (60.0+0.60s)" [2917, 2931, 3039]
   line "VLTC (2m24s+1.12s)" [3046, 3009, 3110]
   line "VLTC (2m24s+1.12s)" [3046, 3009, 3110]
@@ -58,8 +58,8 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.96 | VLTC <sub>(2m24s+1.12s)</sub> | 3110 | 32 | 282 | 50% | 3108 | 53% |
-| 0.96 | LTC <sub>(60.0+0.60s)</sub> | 3039 | 32 | 284 | 50% | 3040 | 48% |
-| 0.96 | STC <sub>(8.0+0.08s)</sub> | 2741 | 31 | 328 | 49% | 2750 | 34% |
+| 0.96 | LTC <sub>(60.0+0.60s)</sub> | 3039 | 32 | 284 | 50% | 3039 | 48% |
+| 0.96 | STC <sub>(8.0+0.08s)</sub> | 2742 | 31 | 332 | 49% | 2750 | 34% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.95 | VLTC <sub>(2m24s+1.12s)</sub> | 3009 | 29 | 370 | 51% | 3000 | 43% |
 | 0.95 | LTC <sub>(60.0+0.60s)</sub> | 2931 | 29 | 366 | 49% | 2939 | 41% |
