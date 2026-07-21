@@ -9,8 +9,8 @@ Home: https://github.com/chris-moreton/rusty-rival
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 1.0.45 | 2026-07-20 |  |  |  |  |
-| 1.0.44 | 2026-07-20 | 2439<sub>(+74) |  | 2546<sub>(-259) |  |
-| 1.0.43 | 2026-04-26 | 2365<sub>(+new) | 2681<sub>(+new) | 2805<sub>(+new) |  |
+| 1.0.44 | 2026-07-20 | 2439<sub>(+74) | 2769<sub>(+89) | 2795<sub>(-10) |  |
+| 1.0.43 | 2026-04-26 | 2365<sub>(+new) | 2680<sub>(+new) | 2805<sub>(+new) |  |
 | 1.0.42 | 2026-04-24 |  |  |  | eval skipped |
 | 1.0.40 | 2026-04-02 |  |  |  | eval skipped |
 | 1.0.39 | 2026-03-30 | 2071<sub>(+new) | 2310<sub>(+new) | 2402<sub>(+new) |  |
@@ -22,7 +22,7 @@ Home: https://github.com/chris-moreton/rusty-rival
 | 1.0.32 | 2026-03-09 |  |  |  |  |
 | 1.0.31 | 2026-03-06 |  |  |  | eval skipped |
 | 1.0.30 | 2026-03-06 |  |  |  |  |
-| 1.0.29 | 2026-02-10 | 1893<sub>(+new) | 2145<sub>(+new) | 2255<sub>(+new) |  |
+| 1.0.29 | 2026-02-10 | 1893<sub>(+new) | 2145<sub>(+new) | 2256<sub>(+new) |  |
 | 1.0.28 | 2026-02-10 |  |  |  |  |
 | 1.0.27 | 2026-02-09 |  |  |  |  |
 | 1.0.26 | 2026-02-01 |  |  |  |  |
@@ -63,20 +63,20 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-21 17:54:01
+Generated: 2026-07-21 19:09:24
 
 ## Ratings Verlauf
 
 ```mermaid
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
-  x-axis ["1.0.13", "1.0.23", "1.0.24", "1.0.29", "1.0.39", "1.0.43"]
+  x-axis ["1.0.13", "1.0.23", "1.0.24", "1.0.29", "1.0.39", "1.0.43", "1.0.44"]
   y-axis "Elo Rating" 1700 --> 2900
-  line "STC (8.0+0.08s)" [1762, 1870, 1908, 1893, 2071, 2365]
-  line "STC (8.0+0.08s)" [1762, 1870, 1908, 1893, 2071, 2365]
-  line "LTC (60.0+0.60s)" [2029, 2039, 2199, 2145, 2310, 2681]
-  line "VLTC (2m24s+1.12s)" [2218, 2159, 2226, 2255, 2402, 2805]
-  line "VLTC (2m24s+1.12s)" [2218, 2159, 2226, 2255, 2402, 2805]
+  line "STC (8.0+0.08s)" [1762, 1870, 1908, 1893, 2071, 2365, 2439]
+  line "STC (8.0+0.08s)" [1762, 1870, 1908, 1893, 2071, 2365, 2439]
+  line "LTC (60.0+0.60s)" [2029, 2039, 2199, 2145, 2310, 2680, 2769]
+  line "VLTC (2m24s+1.12s)" [2218, 2159, 2226, 2256, 2402, 2805, 2795]
+  line "VLTC (2m24s+1.12s)" [2218, 2159, 2226, 2256, 2402, 2805, 2795]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
