@@ -8,7 +8,7 @@ Home: https://github.com/Firefather/fire
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 10.0 | 2025-08-09 | 3137<sub>(+4) | 3363<sub>(+3) | 3413<sub>(0) |  |
+| 10.0 | 2025-08-09 | 3137<sub>(+4) | 3363<sub>(+3) | 3414<sub>(+1) |  |
 | 9.3 | 2024-03-10 | 3133<sub>(+new) | 3360<sub>(+new) | 3413<sub>(+new) |  |
 | 9.2 | 2023-11-12 |  |  |  |  |
 | 9.1 | 2023-11-08 |  |  |  |  |
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-21 06:25:09
+Generated: 2026-07-22 06:25:08
 
 ## Ratings Verlauf
 
@@ -52,8 +52,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [3133, 3137]
   line "STC (8.0+0.08s)" [3133, 3137]
   line "LTC (60.0+0.60s)" [3360, 3363]
-  line "VLTC (2m24s+1.12s)" [3413, 3413]
-  line "VLTC (2m24s+1.12s)" [3413, 3413]
+  line "VLTC (2m24s+1.12s)" [3413, 3414]
+  line "VLTC (2m24s+1.12s)" [3413, 3414]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -66,8 +66,8 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3413 | 19 | 664 | 49% | 3420 | 76% |
-| 10.0 | LTC <sub>(60.0+0.60s)</sub> | 3363 | 19 | 668 | 49% | 3367 | 71% |
+| 10.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3414 | 19 | 664 | 49% | 3420 | 76% |
+| 10.0 | LTC <sub>(60.0+0.60s)</sub> | 3363 | 19 | 668 | 49% | 3368 | 71% |
 | 10.0 | STC <sub>(8.0+0.08s)</sub> | 3137 | 18 | 860 | 51% | 3127 | 59% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 9.3 | VLTC <sub>(2m24s+1.12s)</sub> | 3413 | 13 | 1520 | 49% | 3414 | 75% |
