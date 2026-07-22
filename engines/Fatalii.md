@@ -8,7 +8,7 @@ Home: https://github.com/FitzOReilly/fatalii
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.10.1 | 2026-05-11 | 2260<sub>(-3) | 2500<sub>(-29) | 2591<sub>(-1) |  |
+| 0.10.1 | 2026-05-11 | 2260<sub>(-3) | 2502<sub>(-27) | 2589<sub>(-3) |  |
 | 0.10.0 | 2026-03-09 | 2263<sub>(+new) | 2529<sub>(+new) | 2592<sub>(+new) |  |
 | 0.9.0 | 2025-02-08 |  |  |  |  |
 | 0.8.0 | 2024-10-17 |  |  |  |  |
@@ -39,7 +39,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-21 06:25:07
+Generated: 2026-07-22 06:25:06
 
 ## Ratings Verlauf
 
@@ -50,9 +50,9 @@ xychart-beta
   y-axis "Elo Rating" 2200 --> 2600
   line "STC (8.0+0.08s)" [2263, 2260]
   line "STC (8.0+0.08s)" [2263, 2260]
-  line "LTC (60.0+0.60s)" [2529, 2500]
-  line "VLTC (2m24s+1.12s)" [2592, 2591]
-  line "VLTC (2m24s+1.12s)" [2592, 2591]
+  line "LTC (60.0+0.60s)" [2529, 2502]
+  line "VLTC (2m24s+1.12s)" [2592, 2589]
+  line "VLTC (2m24s+1.12s)" [2592, 2589]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -65,8 +65,8 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.10.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2591 | 29 | 402 | 50% | 2589 | 27% |
-| 0.10.1 | LTC <sub>(60.0+0.60s)</sub> | 2500 | 29 | 388 | 50% | 2502 | 31% |
+| 0.10.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2589 | 29 | 406 | 50% | 2589 | 27% |
+| 0.10.1 | LTC <sub>(60.0+0.60s)</sub> | 2502 | 29 | 388 | 50% | 2502 | 31% |
 | 0.10.1 | STC <sub>(8.0+0.08s)</sub> | 2260 | 31 | 356 | 48% | 2275 | 28% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.10.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2592 | 29 | 424 | 48% | 2616 | 25% |
