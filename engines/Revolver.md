@@ -8,7 +8,7 @@ Home: https://github.com/GoldenRare/Revolver
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0 | 2026-05-01 | 2515<sub>(+270) | 2759<sub>(+268) | 2815<sub>(+265) |  |
+| 2.0 | 2026-05-01 | 2516<sub>(+271) | 2757<sub>(+266) | 2815<sub>(+265) |  |
 | 1.0 | 2026-01-01 | 2245 | 2491 | 2550 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-21 06:29:01
+Generated: 2026-07-22 06:29:04
 
 ## Ratings Verlauf
 
@@ -34,9 +34,9 @@ Generated: 2026-07-21 06:29:01
 xychart-beta
   x-axis ["1.0", "2.0"]
   y-axis "Elo Rating" 2200 --> 2900
-  line "STC (8.0+0.08s)" [2245, 2515]
-  line "STC (8.0+0.08s)" [2245, 2515]
-  line "LTC (60.0+0.60s)" [2491, 2759]
+  line "STC (8.0+0.08s)" [2245, 2516]
+  line "STC (8.0+0.08s)" [2245, 2516]
+  line "LTC (60.0+0.60s)" [2491, 2757]
   line "VLTC (2m24s+1.12s)" [2550, 2815]
   line "VLTC (2m24s+1.12s)" [2550, 2815]
 ```
@@ -51,9 +51,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2815 | 28 | 408 | 52% | 2797 | 39% |
-| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 2759 | 26 | 460 | 51% | 2751 | 39% |
-| 2.0 | STC <sub>(8.0+0.08s)</sub> | 2515 | 29 | 400 | 51% | 2503 | 29% |
+| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2815 | 28 | 412 | 52% | 2797 | 39% |
+| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 2757 | 26 | 468 | 50% | 2753 | 38% |
+| 2.0 | STC <sub>(8.0+0.08s)</sub> | 2516 | 29 | 400 | 51% | 2503 | 29% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2550 | 27 | 450 | 46% | 2592 | 32% |
 | 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2491 | 29 | 408 | 49% | 2500 | 25% |
