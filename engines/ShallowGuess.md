@@ -8,7 +8,7 @@ Home: https://github.com/buildingwheels/ShallowGuess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1.0 | 2026-03-25 | 2279<sub>(-38) | 2708<sub>(+61) | 2896<sub>(+165) |  |
+| 1.1.0 | 2026-03-25 | 2279<sub>(-38) | 2708<sub>(+61) | 2897<sub>(+166) |  |
 | 1.0.0 | 2026-02-24 | 2317<sub>(+new) | 2647<sub>(+new) | 2731<sub>(+new) |  |
 | 0.4.0 | 2025-04-27 |  |  |  |  |
 | 0.3.0 | 2025-03-25 |  |  |  |  |
@@ -29,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-21 06:29:46
+Generated: 2026-07-22 06:29:49
 
 ## Ratings Verlauf
 
@@ -41,8 +41,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [2317, 2279]
   line "STC (8.0+0.08s)" [2317, 2279]
   line "LTC (60.0+0.60s)" [2647, 2708]
-  line "VLTC (2m24s+1.12s)" [2731, 2896]
-  line "VLTC (2m24s+1.12s)" [2731, 2896]
+  line "VLTC (2m24s+1.12s)" [2731, 2897]
+  line "VLTC (2m24s+1.12s)" [2731, 2897]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -55,7 +55,7 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2896 | 55 | 98 | 54% | 2869 | 42% |
+| 1.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2897 | 55 | 98 | 54% | 2869 | 42% |
 | 1.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2708 | 56 | 92 | 51% | 2699 | 48% |
 | 1.1.0 | STC <sub>(8.0+0.08s)</sub> | 2279 | 66 | 80 | 53% | 2252 | 21% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
