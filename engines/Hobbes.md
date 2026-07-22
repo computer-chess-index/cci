@@ -8,7 +8,7 @@ Home: https://github.com/kelseyde/hobbes-chess-engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1 | 2026-05-26 | 3386<sub>(+new) | 3518<sub>(+new) | 3530<sub>(+new) |  |
+| 2.1 | 2026-05-26 | 3387<sub>(+new) | 3518<sub>(+new) | 3530<sub>(+new) |  |
 | 2.0 | 2026-05-25 |  |  |  |  |
 | 1.0 | 2026-03-05 | 3357 | 3491 | 3505 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-21 06:25:53
+Generated: 2026-07-22 06:25:51
 
 ## Ratings Verlauf
 
@@ -35,8 +35,8 @@ Generated: 2026-07-21 06:25:53
 xychart-beta
   x-axis ["1.0", "2.1"]
   y-axis "Elo Rating" 3300 --> 3600
-  line "STC (8.0+0.08s)" [3357, 3386]
-  line "STC (8.0+0.08s)" [3357, 3386]
+  line "STC (8.0+0.08s)" [3357, 3387]
+  line "STC (8.0+0.08s)" [3357, 3387]
   line "LTC (60.0+0.60s)" [3491, 3518]
   line "VLTC (2m24s+1.12s)" [3505, 3530]
   line "VLTC (2m24s+1.12s)" [3505, 3530]
@@ -53,8 +53,8 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3530 | 31 | 228 | 51% | 3524 | 89% |
-| 2.1 | LTC <sub>(60.0+0.60s)</sub> | 3518 | 30 | 252 | 52% | 3505 | 88% |
-| 2.1 | STC <sub>(8.0+0.08s)</sub> | 3386 | 30 | 268 | 52% | 3371 | 79% |
+| 2.1 | LTC <sub>(60.0+0.60s)</sub> | 3518 | 30 | 260 | 52% | 3505 | 88% |
+| 2.1 | STC <sub>(8.0+0.08s)</sub> | 3387 | 28 | 296 | 52% | 3375 | 80% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3505 | 25 | 378 | 51% | 3495 | 90% |
 | 1.0 | LTC <sub>(60.0+0.60s)</sub> | 3491 | 26 | 350 | 51% | 3479 | 87% |
