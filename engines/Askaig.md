@@ -8,7 +8,7 @@ Home: https://github.com/sophiathedev/askaig
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 20260704 | 2026-07-04 | 3015<sub>(+621) | 3194<sub>(+536) | 3245<sub>(+537) |  |
+| 20260704 | 2026-07-04 | 3013<sub>(+619) | 3190<sub>(+532) | 3245<sub>(+537) |  |
 | 20260628 | 2026-06-28 | 2394<sub>(-2) | 2658<sub>(+20) | 2708<sub>(-24) |  |
 | 20260616 | 2026-06-16 | 2396<sub>(+new) | 2638<sub>(+new) | 2732<sub>(+new) |  |
 | 20260615 | 2026-06-15 |  |  |  |  |
@@ -28,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-21 06:22:51
+Generated: 2026-07-22 06:22:54
 
 ## Ratings Verlauf
 
@@ -37,9 +37,9 @@ Generated: 2026-07-21 06:22:51
 xychart-beta
   x-axis ["20260616", "20260628", "20260704"]
   y-axis "Elo Rating" 2300 --> 3300
-  line "STC (8.0+0.08s)" [2396, 2394, 3015]
-  line "STC (8.0+0.08s)" [2396, 2394, 3015]
-  line "LTC (60.0+0.60s)" [2638, 2658, 3194]
+  line "STC (8.0+0.08s)" [2396, 2394, 3013]
+  line "STC (8.0+0.08s)" [2396, 2394, 3013]
+  line "LTC (60.0+0.60s)" [2638, 2658, 3190]
   line "VLTC (2m24s+1.12s)" [2732, 2708, 3245]
   line "VLTC (2m24s+1.12s)" [2732, 2708, 3245]
 ```
@@ -55,8 +55,8 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 20260704 | VLTC <sub>(2m24s+1.12s)</sub> | 3245 | 34 | 248 | 55% | 3197 | 49% |
-| 20260704 | LTC <sub>(60.0+0.60s)</sub> | 3194 | 35 | 232 | 53% | 3163 | 51% |
-| 20260704 | STC <sub>(8.0+0.08s)</sub> | 3015 | 36 | 252 | 55% | 2965 | 32% |
+| 20260704 | LTC <sub>(60.0+0.60s)</sub> | 3190 | 35 | 244 | 52% | 3163 | 50% |
+| 20260704 | STC <sub>(8.0+0.08s)</sub> | 3013 | 35 | 268 | 54% | 2969 | 34% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 20260628 | VLTC <sub>(2m24s+1.12s)</sub> | 2708 | 46 | 148 | 51% | 2699 | 35% |
 | 20260628 | LTC <sub>(60.0+0.60s)</sub> | 2658 | 53 | 116 | 49% | 2668 | 31% |
