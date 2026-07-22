@@ -8,7 +8,7 @@ Home: https://github.com/TomHyer/Roc
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.11 | 2026-05-11 | 2734<sub>(+8) | 2934<sub>(-10) | 3024<sub>(+9) |  |
+| 1.11 | 2026-05-11 | 2735<sub>(+9) | 2934<sub>(-10) | 3024<sub>(+9) |  |
 | 1.10 | 2026-02-21 | 2726<sub>(+new) | 2944<sub>(+new) | 3015<sub>(+new) |  |
 | 1.9.1 | 2022-08-19 |  |  |  |  |
 | 1.9 | 2022-07-23 |  |  |  |  |
@@ -58,7 +58,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-21 06:29:13
+Generated: 2026-07-22 06:29:17
 
 ## Ratings Verlauf
 
@@ -67,8 +67,8 @@ Generated: 2026-07-21 06:29:13
 xychart-beta
   x-axis ["1.10", "1.11"]
   y-axis "Elo Rating" 2700 --> 3100
-  line "STC (8.0+0.08s)" [2726, 2734]
-  line "STC (8.0+0.08s)" [2726, 2734]
+  line "STC (8.0+0.08s)" [2726, 2735]
+  line "STC (8.0+0.08s)" [2726, 2735]
   line "LTC (60.0+0.60s)" [2944, 2934]
   line "VLTC (2m24s+1.12s)" [3015, 3024]
   line "VLTC (2m24s+1.12s)" [3015, 3024]
@@ -84,11 +84,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.11 | VLTC <sub>(2m24s+1.12s)</sub> | 3024 | 26 | 460 | 49% | 3029 | 38% |
-| 1.11 | LTC <sub>(60.0+0.60s)</sub> | 2934 | 27 | 420 | 52% | 2916 | 36% |
-| 1.11 | STC <sub>(8.0+0.08s)</sub> | 2734 | 28 | 398 | 51% | 2724 | 37% |
+| 1.11 | VLTC <sub>(2m24s+1.12s)</sub> | 3024 | 26 | 464 | 49% | 3029 | 38% |
+| 1.11 | LTC <sub>(60.0+0.60s)</sub> | 2934 | 27 | 424 | 52% | 2916 | 36% |
+| 1.11 | STC <sub>(8.0+0.08s)</sub> | 2735 | 28 | 398 | 51% | 2724 | 37% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.10 | VLTC <sub>(2m24s+1.12s)</sub> | 3015 | 26 | 454 | 52% | 3001 | 40% |
-| 1.10 | LTC <sub>(60.0+0.60s)</sub> | 2944 | 28 | 386 | 50% | 2944 | 41% |
+| 1.10 | LTC <sub>(60.0+0.60s)</sub> | 2944 | 28 | 386 | 50% | 2946 | 41% |
 | 1.10 | STC <sub>(8.0+0.08s)</sub> | 2726 | 27 | 446 | 53% | 2691 | 38% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
