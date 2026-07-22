@@ -8,7 +8,7 @@ Home: https://github.com/GyatsoYT/GyatsoChess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.4.0 | 2026-06-05 | 2687<sub>(+208) | 3016<sub>(+211) | 3101<sub>(+193) |  |
+| 1.4.0 | 2026-06-05 | 2685<sub>(+206) | 3013<sub>(+208) | 3102<sub>(+194) |  |
 | 1.3.0 | 2026-03-30 | 2479<sub>(+365) | 2805<sub>(+382) | 2908<sub>(+400) |  |
 | 1.2.0 | 2026-01-24 | 2114<sub>(+163) | 2423<sub>(+121) | 2508<sub>(+117) |  |
 | 1.1.0 | 2026-01-09 | 1951<sub>(+new) | 2302<sub>(+new) | 2391<sub>(+new) |  |
@@ -28,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-21 06:25:40
+Generated: 2026-07-22 06:25:39
 
 ## Ratings Verlauf
 
@@ -37,11 +37,11 @@ Generated: 2026-07-21 06:25:40
 xychart-beta
   x-axis ["1.1.0", "1.2.0", "1.3.0", "1.4.0"]
   y-axis "Elo Rating" 1900 --> 3200
-  line "STC (8.0+0.08s)" [1951, 2114, 2479, 2687]
-  line "STC (8.0+0.08s)" [1951, 2114, 2479, 2687]
-  line "LTC (60.0+0.60s)" [2302, 2423, 2805, 3016]
-  line "VLTC (2m24s+1.12s)" [2391, 2508, 2908, 3101]
-  line "VLTC (2m24s+1.12s)" [2391, 2508, 2908, 3101]
+  line "STC (8.0+0.08s)" [1951, 2114, 2479, 2685]
+  line "STC (8.0+0.08s)" [1951, 2114, 2479, 2685]
+  line "LTC (60.0+0.60s)" [2302, 2423, 2805, 3013]
+  line "VLTC (2m24s+1.12s)" [2391, 2508, 2908, 3102]
+  line "VLTC (2m24s+1.12s)" [2391, 2508, 2908, 3102]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -54,9 +54,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.4.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3101 | 32 | 280 | 50% | 3100 | 48% |
-| 1.4.0 | LTC <sub>(60.0+0.60s)</sub> | 3016 | 31 | 300 | 51% | 3006 | 45% |
-| 1.4.0 | STC <sub>(8.0+0.08s)</sub> | 2687 | 32 | 316 | 50% | 2688 | 32% |
+| 1.4.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3102 | 32 | 280 | 50% | 3100 | 48% |
+| 1.4.0 | LTC <sub>(60.0+0.60s)</sub> | 3013 | 31 | 304 | 51% | 3008 | 45% |
+| 1.4.0 | STC <sub>(8.0+0.08s)</sub> | 2685 | 32 | 320 | 50% | 2689 | 32% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2908 | 25 | 492 | 47% | 2931 | 39% |
 | 1.3.0 | LTC <sub>(60.0+0.60s)</sub> | 2805 | 30 | 358 | 50% | 2799 | 39% |
