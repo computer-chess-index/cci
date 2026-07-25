@@ -8,7 +8,7 @@ Home: https://github.com/GoldenRare/Revolver
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0 | 2026-05-01 | 2518<sub>(+270) | 2762<sub>(+270) | 2815<sub>(+262) |  |
+| 2.0 | 2026-05-01 | 2518<sub>(+270) | 2762<sub>(+270) | 2819<sub>(+266) |  |
 | 1.0 | 2026-01-01 | 2248 | 2492 | 2553 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-24 06:29:31
+Generated: 2026-07-25 06:28:28
 
 ## Ratings Verlauf
 
@@ -37,8 +37,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [2248, 2518]
   line "STC (8.0+0.08s)" [2248, 2518]
   line "LTC (60.0+0.60s)" [2492, 2762]
-  line "VLTC (2m24s+1.12s)" [2553, 2815]
-  line "VLTC (2m24s+1.12s)" [2553, 2815]
+  line "VLTC (2m24s+1.12s)" [2553, 2819]
+  line "VLTC (2m24s+1.12s)" [2553, 2819]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -51,11 +51,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2815 | 27 | 416 | 51% | 2800 | 39% |
+| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2819 | 27 | 420 | 52% | 2800 | 39% |
 | 2.0 | LTC <sub>(60.0+0.60s)</sub> | 2762 | 26 | 476 | 51% | 2755 | 39% |
 | 2.0 | STC <sub>(8.0+0.08s)</sub> | 2518 | 29 | 400 | 51% | 2506 | 29% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2553 | 27 | 450 | 46% | 2593 | 32% |
+| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2553 | 27 | 450 | 46% | 2595 | 32% |
 | 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2492 | 29 | 408 | 49% | 2503 | 25% |
-| 1.0 | STC <sub>(8.0+0.08s)</sub> | 2248 | 26 | 516 | 51% | 2234 | 29% |
+| 1.0 | STC <sub>(8.0+0.08s)</sub> | 2248 | 26 | 516 | 51% | 2236 | 29% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
