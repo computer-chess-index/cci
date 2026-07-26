@@ -8,7 +8,7 @@ Home: https://github.com/mhonert/velvet-chess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 8.1.1 | 2024-11-06 | 3270<sub>(+14) | 3436<sub>(+6) | 3459<sub>(-2) |  |
+| 8.1.1 | 2024-11-06 | 3270<sub>(+14) | 3436<sub>(+6) | 3460<sub>(-1) |  |
 | 8.1.0 | 2024-10-28 | 3256<sub>(+25) | 3430<sub>(+19) | 3461<sub>(0) |  |
 | 8.0.0 | 2024-08-17 | 3231<sub>(+new) | 3411<sub>(+new) | 3461<sub>(+new) |  |
 | 7.3.0 | 2024-04-08 |  |  |  |  |
@@ -50,7 +50,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-25 06:31:10
+Generated: 2026-07-26 06:31:22
 
 ## Ratings Verlauf
 
@@ -62,8 +62,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [3231, 3256, 3270]
   line "STC (8.0+0.08s)" [3231, 3256, 3270]
   line "LTC (60.0+0.60s)" [3411, 3430, 3436]
-  line "VLTC (2m24s+1.12s)" [3461, 3461, 3459]
-  line "VLTC (2m24s+1.12s)" [3461, 3461, 3459]
+  line "VLTC (2m24s+1.12s)" [3461, 3461, 3460]
+  line "VLTC (2m24s+1.12s)" [3461, 3461, 3460]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -76,9 +76,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 8.1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3459 | 12 | 1656 | 50% | 3460 | 79% |
+| 8.1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3460 | 12 | 1656 | 50% | 3460 | 79% |
 | 8.1.1 | LTC <sub>(60.0+0.60s)</sub> | 3436 | 12 | 1704 | 50% | 3432 | 77% |
-| 8.1.1 | STC <sub>(8.0+0.08s)</sub> | 3270 | 12 | 1730 | 50% | 3272 | 65% |
+| 8.1.1 | STC <sub>(8.0+0.08s)</sub> | 3270 | 12 | 1734 | 50% | 3272 | 65% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 8.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3461 | 32 | 228 | 46% | 3488 | 82% |
 | 8.1.0 | LTC <sub>(60.0+0.60s)</sub> | 3430 | 38 | 172 | 51% | 3422 | 77% |
