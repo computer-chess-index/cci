@@ -8,7 +8,7 @@ Home: https://github.com/GediminasMasaitis/4k-dot-c
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.0 | 2026-06-06 | 2526<sub>(-51) | 2851<sub>(+44) | 2958<sub>(+23) |  |
+| 9.0 | 2026-06-06 | 2527<sub>(-50) | 2853<sub>(+46) | 2958<sub>(+23) |  |
 | 8.0 | 2026-03-10 | 2577<sub>(+new) | 2807<sub>(+new) | 2935<sub>(+new) |  |
 | 6.0 | 2026-03-10 |  |  |  |  |
 | 5.0 | 2025-10-30 | 2473<sub>(+new) | 2780<sub>(+new) | 2850<sub>(+new) |  |
@@ -35,7 +35,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-25 06:22:02
+Generated: 2026-07-26 06:22:02
 
 ## Ratings Verlauf
 
@@ -44,9 +44,9 @@ Generated: 2026-07-25 06:22:02
 xychart-beta
   x-axis ["5.0", "8.0", "9.0"]
   y-axis "Elo Rating" 2400 --> 3000
-  line "STC (8.0+0.08s)" [2473, 2577, 2526]
-  line "STC (8.0+0.08s)" [2473, 2577, 2526]
-  line "LTC (60.0+0.60s)" [2780, 2807, 2851]
+  line "STC (8.0+0.08s)" [2473, 2577, 2527]
+  line "STC (8.0+0.08s)" [2473, 2577, 2527]
+  line "LTC (60.0+0.60s)" [2780, 2807, 2853]
   line "VLTC (2m24s+1.12s)" [2850, 2935, 2958]
   line "VLTC (2m24s+1.12s)" [2850, 2935, 2958]
 ```
@@ -62,8 +62,8 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2958 | 30 | 338 | 49% | 2965 | 41% |
-| 9.0 | LTC <sub>(60.0+0.60s)</sub> | 2851 | 30 | 344 | 52% | 2839 | 42% |
-| 9.0 | STC <sub>(8.0+0.08s)</sub> | 2526 | 28 | 416 | 51% | 2516 | 33% |
+| 9.0 | LTC <sub>(60.0+0.60s)</sub> | 2853 | 30 | 344 | 52% | 2839 | 42% |
+| 9.0 | STC <sub>(8.0+0.08s)</sub> | 2527 | 28 | 420 | 51% | 2516 | 33% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 8.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2935 | 28 | 402 | 52% | 2913 | 39% |
 | 8.0 | LTC <sub>(60.0+0.60s)</sub> | 2807 | 29 | 374 | 51% | 2797 | 40% |
