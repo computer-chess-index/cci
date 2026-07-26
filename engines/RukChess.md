@@ -8,7 +8,7 @@ Home: https://github.com/Ilya-Ruk/RukChess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.2.0 | 2026-01-11 | 2813<sub>(+new) | 3114<sub>(+new) | 3183<sub>(+new) |  |
+| 4.2.0 | 2026-01-11 | 2815<sub>(+new) | 3114<sub>(+new) | 3183<sub>(+new) |  |
 | 4.1.0 | 2025-06-08 |  |  |  |  |
 | 4.0.2 | 2025-02-15 |  |  |  |  |
 | 4.0.1 | 2024-12-19 |  |  |  |  |
@@ -36,7 +36,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-25 06:28:51
+Generated: 2026-07-26 06:28:48
 
 
 
@@ -45,6 +45,6 @@ Generated: 2026-07-25 06:28:51
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3183 | 25 | 478 | 50% | 3177 | 51% |
-| 4.2.0 | LTC <sub>(60.0+0.60s)</sub> | 3114 | 25 | 446 | 50% | 3110 | 51% |
-| 4.2.0 | STC <sub>(8.0+0.08s)</sub> | 2813 | 23 | 586 | 52% | 2792 | 35% |
+| 4.2.0 | LTC <sub>(60.0+0.60s)</sub> | 3114 | 25 | 452 | 50% | 3112 | 51% |
+| 4.2.0 | STC <sub>(8.0+0.08s)</sub> | 2815 | 23 | 586 | 52% | 2792 | 35% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
