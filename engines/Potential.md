@@ -8,7 +8,7 @@ Home: https://github.com/ProgramciDusunur/Potential
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1.0 | 2026-05-16 | 2210<sub>(-319) | 2469<sub>(-378) | 2595<sub>(-340) |  |
+| 1.1.0 | 2026-05-16 | 2210<sub>(-319) | 2469<sub>(-378) | 2596<sub>(-339) |  |
 | 3.0.0 | 2025-08-28 | 2529<sub>(+new) | 2847<sub>(+new) | 2935<sub>(+new) |  |
 | 2.0.0 | 2025-04-08 |  |  |  |  |
 | 1.0.0 | 2025-01-28 |  |  |  |  |
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-25 06:27:43
+Generated: 2026-07-26 06:27:39
 
 ## Ratings Verlauf
 
@@ -39,8 +39,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [2529, 2210]
   line "STC (8.0+0.08s)" [2529, 2210]
   line "LTC (60.0+0.60s)" [2847, 2469]
-  line "VLTC (2m24s+1.12s)" [2935, 2595]
-  line "VLTC (2m24s+1.12s)" [2935, 2595]
+  line "VLTC (2m24s+1.12s)" [2935, 2596]
+  line "VLTC (2m24s+1.12s)" [2935, 2596]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -53,7 +53,7 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2595 | 29 | 406 | 49% | 2610 | 27% |
+| 1.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2596 | 29 | 406 | 49% | 2610 | 27% |
 | 1.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2469 | 28 | 412 | 50% | 2469 | 32% |
 | 1.1.0 | STC <sub>(8.0+0.08s)</sub> | 2210 | 31 | 352 | 49% | 2207 | 26% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
