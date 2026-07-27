@@ -23,7 +23,7 @@ Home: https://github.com/PS-Wizard/OopsMate
 | 5.0 | 2026-01-31 |  |  |  |  |
 | 4.0 | 2026-01-31 |  |  |  |  |
 | 3.0 | 2026-01-31 |  |  |  |  |
-| 2.0 | 2026-01-30 | 1276<sub>(+new) | 1453<sub>(+new) | 1465<sub>(+new) |  |
+| 2.0 | 2026-01-30 | 1274<sub>(+new) | 1453<sub>(+new) | 1463<sub>(+new) |  |
 | 1.0 | 2026-01-30 |  |  |  |  |
 | 0.0.4 | 2025-11-23 | 1127<sub>(+new) | 1353<sub>(+new) | 1403<sub>(+new) |  |
 | 0.0.3 | 2025-11-13 |  |  |  |  |
@@ -45,7 +45,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-26 06:27:12
+Generated: 2026-07-27 06:27:35
 
 ## Ratings Verlauf
 
@@ -54,11 +54,11 @@ Generated: 2026-07-26 06:27:12
 xychart-beta
   x-axis ["0.0.4", "2.0"]
   y-axis "Elo Rating" 1100 --> 1500
-  line "STC (8.0+0.08s)" [1127, 1276]
-  line "STC (8.0+0.08s)" [1127, 1276]
+  line "STC (8.0+0.08s)" [1127, 1274]
+  line "STC (8.0+0.08s)" [1127, 1274]
   line "LTC (60.0+0.60s)" [1353, 1453]
-  line "VLTC (2m24s+1.12s)" [1403, 1465]
-  line "VLTC (2m24s+1.12s)" [1403, 1465]
+  line "VLTC (2m24s+1.12s)" [1403, 1463]
+  line "VLTC (2m24s+1.12s)" [1403, 1463]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -71,9 +71,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1465 | 29 | 412 | 52% | 1440 | 30% |
+| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1463 | 29 | 412 | 52% | 1440 | 30% |
 | 2.0 | LTC <sub>(60.0+0.60s)</sub> | 1453 | 28 | 466 | 51% | 1430 | 27% |
-| 2.0 | STC <sub>(8.0+0.08s)</sub> | 1276 | 28 | 510 | 57% | 1156 | 27% |
+| 2.0 | STC <sub>(8.0+0.08s)</sub> | 1274 | 28 | 510 | 57% | 1154 | 27% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.0.4 | VLTC <sub>(2m24s+1.12s)</sub> | 1403 | 43 | 190 | 42% | 1546 | 34% |
 | 0.0.4 | LTC <sub>(60.0+0.60s)</sub> | 1353 | 41 | 200 | 45% | 1440 | 32% |
