@@ -8,7 +8,7 @@ Home: https://github.com/LarsAur/Arcanum
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.8 | 2026-05-16 | 2907<sub>(+18) | 3217<sub>(+26) | 3281<sub>(+30) |  |
+| 2.8 | 2026-05-16 | 2907<sub>(+18) | 3216<sub>(+25) | 3281<sub>(+30) |  |
 | 2.7 | 2025-10-18 | 2889<sub>(+new) | 3191<sub>(+new) | 3251<sub>(+new) |  |
 | 2.6 | 2025-07-19 |  |  |  |  |
 | 2.5 | 2025-03-03 |  |  |  |  |
@@ -37,7 +37,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-26 06:22:42
+Generated: 2026-07-27 06:22:45
 
 ## Ratings Verlauf
 
@@ -48,7 +48,7 @@ xychart-beta
   y-axis "Elo Rating" 2800 --> 3300
   line "STC (8.0+0.08s)" [2889, 2907]
   line "STC (8.0+0.08s)" [2889, 2907]
-  line "LTC (60.0+0.60s)" [3191, 3217]
+  line "LTC (60.0+0.60s)" [3191, 3216]
   line "VLTC (2m24s+1.12s)" [3251, 3281]
   line "VLTC (2m24s+1.12s)" [3251, 3281]
 ```
@@ -63,11 +63,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.8 | VLTC <sub>(2m24s+1.12s)</sub> | 3281 | 27 | 362 | 51% | 3275 | 64% |
-| 2.8 | LTC <sub>(60.0+0.60s)</sub> | 3217 | 27 | 368 | 50% | 3213 | 55% |
-| 2.8 | STC <sub>(8.0+0.08s)</sub> | 2907 | 28 | 392 | 50% | 2907 | 44% |
+| 2.8 | VLTC <sub>(2m24s+1.12s)</sub> | 3281 | 27 | 362 | 51% | 3274 | 64% |
+| 2.8 | LTC <sub>(60.0+0.60s)</sub> | 3216 | 27 | 368 | 50% | 3213 | 55% |
+| 2.8 | STC <sub>(8.0+0.08s)</sub> | 2907 | 27 | 396 | 50% | 2905 | 44% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.7 | VLTC <sub>(2m24s+1.12s)</sub> | 3251 | 27 | 394 | 54% | 3217 | 56% |
-| 2.7 | LTC <sub>(60.0+0.60s)</sub> | 3191 | 26 | 424 | 50% | 3174 | 57% |
+| 2.7 | LTC <sub>(60.0+0.60s)</sub> | 3191 | 26 | 424 | 50% | 3173 | 57% |
 | 2.7 | STC <sub>(8.0+0.08s)</sub> | 2889 | 23 | 554 | 49% | 2888 | 44% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
