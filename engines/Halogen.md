@@ -8,7 +8,7 @@ Home: https://github.com/KierenP/Halogen
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 16.0.0 | 2026-02-10 | 3349<sub>(+73) | 3513<sub>(+53) | 3540<sub>(+25) |  |
+| 16.0.0 | 2026-02-10 | 3349<sub>(+73) | 3513<sub>(+53) | 3538<sub>(+23) |  |
 | 15.0.0 | 2025-09-01 | 3276<sub>(+new) | 3460<sub>(+new) | 3515<sub>(+new) |  |
 | 14 | 2025-07-28 |  |  |  |  |
 | 13 | 2025-06-24 |  |  |  |  |
@@ -43,7 +43,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-27 06:25:41
+Generated: 2026-07-28 06:27:10
 
 ## Ratings Verlauf
 
@@ -55,8 +55,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [3276, 3349]
   line "STC (8.0+0.08s)" [3276, 3349]
   line "LTC (60.0+0.60s)" [3460, 3513]
-  line "VLTC (2m24s+1.12s)" [3515, 3540]
-  line "VLTC (2m24s+1.12s)" [3515, 3540]
+  line "VLTC (2m24s+1.12s)" [3515, 3538]
+  line "VLTC (2m24s+1.12s)" [3515, 3538]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -69,9 +69,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 16.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3540 | 22 | 490 | 50% | 3540 | 88% |
+| 16.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3538 | 22 | 494 | 50% | 3540 | 87% |
 | 16.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3513 | 21 | 504 | 50% | 3513 | 86% |
-| 16.0.0 | STC <sub>(8.0+0.08s)</sub> | 3349 | 21 | 534 | 49% | 3353 | 75% |
+| 16.0.0 | STC <sub>(8.0+0.08s)</sub> | 3349 | 21 | 538 | 49% | 3353 | 75% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 15.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3515 | 27 | 324 | 52% | 3498 | 83% |
 | 15.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3460 | 30 | 276 | 52% | 3441 | 79% |
