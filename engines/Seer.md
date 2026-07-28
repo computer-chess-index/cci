@@ -37,7 +37,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-27 06:29:32
+Generated: 2026-07-28 06:33:02
 
 
 
@@ -45,7 +45,7 @@ Generated: 2026-07-27 06:29:32
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.8 | VLTC <sub>(2m24s+1.12s)</sub> | 3459 | 11 | 2017 | 51% | 3449 | 80% |
-| 2.8 | LTC <sub>(60.0+0.60s)</sub> | 3426 | 11 | 1908 | 50% | 3426 | 76% |
+| 2.8 | VLTC <sub>(2m24s+1.12s)</sub> | 3459 | 11 | 2021 | 51% | 3449 | 80% |
+| 2.8 | LTC <sub>(60.0+0.60s)</sub> | 3426 | 11 | 1912 | 50% | 3426 | 76% |
 | 2.8 | STC <sub>(8.0+0.08s)</sub> | 3256 | 11 | 2132 | 51% | 3233 | 65% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
