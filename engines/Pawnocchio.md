@@ -8,7 +8,7 @@ Home: https://github.com/JonathanHallstrom/pawnocchio
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0.1 | 2026-06-29 | 3440<sub>(+new) | 3545<sub>(+new) | 3582<sub>(+new) |  |
+| 2.0.1 | 2026-06-29 | 3440<sub>(+new) | 3545<sub>(+new) | 3579<sub>(+new) |  |
 | 2.0.0 | 2026-06-27 |  |  |  |  |
 | 1.9.2 | 2026-01-15 | 3363<sub>(+8) | 3529<sub>(+8) | 3538<sub>(+9) |  |
 | 1.9.1 | 2026-01-12 | 3355<sub>(-9) | 3521<sub>(+18) | 3529<sub>(-11) |  |
@@ -43,7 +43,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-27 06:27:40
+Generated: 2026-07-28 06:30:34
 
 ## Ratings Verlauf
 
@@ -55,8 +55,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [3364, 3355, 3363, 3440]
   line "STC (8.0+0.08s)" [3364, 3355, 3363, 3440]
   line "LTC (60.0+0.60s)" [3503, 3521, 3529, 3545]
-  line "VLTC (2m24s+1.12s)" [3540, 3529, 3538, 3582]
-  line "VLTC (2m24s+1.12s)" [3540, 3529, 3538, 3582]
+  line "VLTC (2m24s+1.12s)" [3540, 3529, 3538, 3579]
+  line "VLTC (2m24s+1.12s)" [3540, 3529, 3538, 3579]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -69,9 +69,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3582 | 32 | 214 | 53% | 3564 | 90% |
-| 2.0.1 | LTC <sub>(60.0+0.60s)</sub> | 3545 | 30 | 248 | 50% | 3546 | 90% |
-| 2.0.1 | STC <sub>(8.0+0.08s)</sub> | 3440 | 32 | 240 | 51% | 3436 | 79% |
+| 2.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3579 | 32 | 226 | 53% | 3561 | 90% |
+| 2.0.1 | LTC <sub>(60.0+0.60s)</sub> | 3545 | 29 | 268 | 50% | 3545 | 91% |
+| 2.0.1 | STC <sub>(8.0+0.08s)</sub> | 3440 | 31 | 252 | 51% | 3436 | 79% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.9.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3538 | 25 | 380 | 51% | 3536 | 88% |
 | 1.9.2 | LTC <sub>(60.0+0.60s)</sub> | 3529 | 25 | 372 | 51% | 3525 | 88% |
