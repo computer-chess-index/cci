@@ -8,7 +8,7 @@ Home: https://github.com/LeelaChessZero/lc0
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.32.1 | 2025-11-23 | 2400<sub>(+new) | 2990<sub>(+new) | 3163<sub>(+new) |  |
+| 0.32.1 | 2025-11-23 | 2399<sub>(+new) | 2989<sub>(+new) | 3163<sub>(+new) |  |
 | 0.32.0 | 2025-08-21 |  |  |  |  |
 | 0.31.2 | 2024-10-20 |  |  |  |  |
 | 0.31.1 | 2024-08-11 |  |  |  |  |
@@ -61,7 +61,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-27 06:26:30
+Generated: 2026-07-28 06:28:22
 
 ## Ratings Verlauf
 
@@ -70,9 +70,9 @@ Generated: 2026-07-27 06:26:30
 xychart-beta
   x-axis ["0.29.0", "0.32.1"]
   y-axis "Elo Rating" 2300 --> 3300
-  line "STC (8.0+0.08s)" [2368, 2400]
-  line "STC (8.0+0.08s)" [2368, 2400]
-  line "LTC (60.0+0.60s)" [2985, 2990]
+  line "STC (8.0+0.08s)" [2368, 2399]
+  line "STC (8.0+0.08s)" [2368, 2399]
+  line "LTC (60.0+0.60s)" [2985, 2989]
   line "VLTC (2m24s+1.12s)" [3218, 3163]
   line "VLTC (2m24s+1.12s)" [3218, 3163]
 ```
@@ -88,8 +88,8 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.32.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3163 | 24 | 500 | 49% | 3173 | 53% |
-| 0.32.1 | LTC <sub>(60.0+0.60s)</sub> | 2990 | 24 | 502 | 48% | 3006 | 46% |
-| 0.32.1 | STC <sub>(8.0+0.08s)</sub> | 2400 | 22 | 724 | 50% | 2395 | 25% |
+| 0.32.1 | LTC <sub>(60.0+0.60s)</sub> | 2989 | 24 | 506 | 48% | 3006 | 46% |
+| 0.32.1 | STC <sub>(8.0+0.08s)</sub> | 2399 | 22 | 724 | 50% | 2395 | 25% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.29.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3218 | 28 | 356 | 50% | 3218 | 54% |
 | 0.29.0 | LTC <sub>(60.0+0.60s)</sub> | 2985 | 30 | 328 | 48% | 2998 | 47% |
