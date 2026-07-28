@@ -8,7 +8,7 @@ Home: https://github.com/renztarga/Reyna
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2025-10-20 | 2268 | 2473 | 2589 |  |
+| 1.0 | 2025-10-20 | 2268 | 2473 | 2588 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Reyna+<version>&body=###%20Engine%20name%0AReyna%0A%0A###%20Version%0A1.0" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-27 06:28:57
+Generated: 2026-07-28 06:32:24
 
 
 
@@ -32,7 +32,7 @@ Generated: 2026-07-27 06:28:57
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2589 | 24 | 556 | 49% | 2593 | 32% |
-| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2473 | 27 | 480 | 49% | 2472 | 28% |
+| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2588 | 24 | 560 | 49% | 2593 | 32% |
+| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2473 | 27 | 484 | 49% | 2472 | 27% |
 | 1.0 | STC <sub>(8.0+0.08s)</sub> | 2268 | 23 | 684 | 48% | 2295 | 23% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
