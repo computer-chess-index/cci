@@ -8,8 +8,8 @@ Home: https://github.com/NichtElias/Erinn
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1 | 2026-07-11 | 2387<sub>(+309) | 2676<sub>(+259) | 2716<sub>(+194) |  |
-| 1.0 | 2026-06-10 | 2078 | 2417 | 2522 |  |
+| 1.1 | 2026-07-11 | 2388<sub>(+309) | 2676<sub>(+259) | 2716<sub>(+194) |  |
+| 1.0 | 2026-06-10 | 2079 | 2417 | 2522 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Erinn+<version>&body=###%20Engine%20name%0AErinn%0A%0A###%20Version%0A1.1" target="_blank">Submit new version</a>
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-27 06:24:51
+Generated: 2026-07-28 06:26:14
 
 ## Ratings Verlauf
 
@@ -34,8 +34,8 @@ Generated: 2026-07-27 06:24:51
 xychart-beta
   x-axis ["1.0", "1.1"]
   y-axis "Elo Rating" 2000 --> 2800
-  line "STC (8.0+0.08s)" [2078, 2387]
-  line "STC (8.0+0.08s)" [2078, 2387]
+  line "STC (8.0+0.08s)" [2079, 2388]
+  line "STC (8.0+0.08s)" [2079, 2388]
   line "LTC (60.0+0.60s)" [2417, 2676]
   line "VLTC (2m24s+1.12s)" [2522, 2716]
   line "VLTC (2m24s+1.12s)" [2522, 2716]
@@ -52,10 +52,10 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2716 | 39 | 188 | 50% | 2712 | 49% |
-| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 2676 | 39 | 200 | 51% | 2668 | 42% |
-| 1.1 | STC <sub>(8.0+0.08s)</sub> | 2387 | 33 | 288 | 48% | 2395 | 41% |
+| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 2676 | 38 | 208 | 51% | 2665 | 43% |
+| 1.1 | STC <sub>(8.0+0.08s)</sub> | 2388 | 32 | 300 | 49% | 2392 | 41% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2522 | 32 | 316 | 50% | 2516 | 35% |
 | 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2417 | 30 | 368 | 56% | 2352 | 37% |
-| 1.0 | STC <sub>(8.0+0.08s)</sub> | 2078 | 36 | 276 | 52% | 2047 | 25% |
+| 1.0 | STC <sub>(8.0+0.08s)</sub> | 2079 | 36 | 276 | 52% | 2047 | 25% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
