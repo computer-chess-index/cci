@@ -8,7 +8,7 @@ Home: https://github.com/akanalytics/odonata
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1.0 | 2026-02-07 | 2824<sub>(+new) | 3141<sub>(+new) | 3185<sub>(+new) |  |
+| 1.1.0 | 2026-02-07 | 2823<sub>(+new) | 3141<sub>(+new) | 3183<sub>(+new) |  |
 | 1.0.0 | 2024-07-22 |  |  |  |  |
 | 0.9.0 | 2024-06-06 |  |  |  |  |
 | 0.8.0 | 2024-02-06 |  |  |  |  |
@@ -35,7 +35,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-27 06:27:31
+Generated: 2026-07-28 06:29:52
 
 
 
@@ -43,7 +43,7 @@ Generated: 2026-07-27 06:27:31
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3185 | 59 | 78 | 56% | 3136 | 59% |
+| 1.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3183 | 59 | 78 | 56% | 3135 | 59% |
 | 1.1.0 | LTC <sub>(60.0+0.60s)</sub> | 3141 | 58 | 92 | 52% | 3113 | 42% |
-| 1.1.0 | STC <sub>(8.0+0.08s)</sub> | 2824 | 77 | 60 | 54% | 2739 | 28% |
+| 1.1.0 | STC <sub>(8.0+0.08s)</sub> | 2823 | 77 | 60 | 54% | 2738 | 28% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
