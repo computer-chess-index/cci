@@ -8,7 +8,7 @@ Home: https://github.com/Jakob256/PurplePanda
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 21 | 2026-07-12 | 1686<sub>(+50) | 1986<sub>(+85) | 2098<sub>(+126) |  |
+| 21 | 2026-07-12 | 1686<sub>(+50) | 1987<sub>(+86) | 2098<sub>(+126) |  |
 | 20 | 2025-12-15 | 1636<sub>(+new) | 1901<sub>(+new) | 1972<sub>(+new) |  |
 | 19 | 2024-12-28 |  |  |  |  |
 | 18 | 2024-09-26 |  |  |  |  |
@@ -33,7 +33,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-28 06:31:43
+Generated: 2026-07-29 06:28:22
 
 ## Ratings Verlauf
 
@@ -44,7 +44,7 @@ xychart-beta
   y-axis "Elo Rating" 1600 --> 2100
   line "STC (8.0+0.08s)" [1636, 1686]
   line "STC (8.0+0.08s)" [1636, 1686]
-  line "LTC (60.0+0.60s)" [1901, 1986]
+  line "LTC (60.0+0.60s)" [1901, 1987]
   line "VLTC (2m24s+1.12s)" [1972, 2098]
   line "VLTC (2m24s+1.12s)" [1972, 2098]
 ```
@@ -60,7 +60,7 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 21 | VLTC <sub>(2m24s+1.12s)</sub> | 2098 | 43 | 198 | 51% | 2084 | 16% |
-| 21 | LTC <sub>(60.0+0.60s)</sub> | 1986 | 40 | 228 | 47% | 2034 | 18% |
+| 21 | LTC <sub>(60.0+0.60s)</sub> | 1987 | 40 | 232 | 47% | 2034 | 19% |
 | 21 | STC <sub>(8.0+0.08s)</sub> | 1686 | 43 | 204 | 50% | 1693 | 16% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 20 | VLTC <sub>(2m24s+1.12s)</sub> | 1972 | 25 | 566 | 48% | 2002 | 21% |
