@@ -23,7 +23,7 @@
 </head>
 <body>
     <h1>CCI Ratings (ELO VLTC Ranking)</h1>
-    <p>Generated: 2026-07-29 22:48:34</p>
+    <p>Generated: 2026-07-29 22:57:31</p>
     <p>Click on a column header to sort by that column.</p>
     <p>Click on an engine version to view the engine's detail page. You will find more information about each engine there, including number of games, error margins and so on.</p>
     <div class="toolbar">
@@ -289,15 +289,28 @@
             const tbody = table.querySelector("tbody");
             const searchInput = document.getElementById("searchInput");
             const getCellValue = (row, index) => row.cells[index].innerText.trim();
-            const compareValues = (a, b, asc) => {
-                const numA = parseFloat(a.replace(",", "."));
-                const numB = parseFloat(b.replace(",", "."));
-                if (!isNaN(numA) && !isNaN(numB)) { return asc ? numA - numB : numB - numA; }
+            const columnTypes = ["string", "string", "date", "string", "number", "number", "number"];
+            const compareValues = (a, b, asc, index) => {
+                const type = columnTypes[index] || "string";
+                if (type === "date") {
+                    const dateA = Date.parse(a);
+                    const dateB = Date.parse(b);
+                    if (!isNaN(dateA) && !isNaN(dateB)) { return asc ? dateA - dateB : dateB - dateA; }
+                    if (isNaN(dateA) && isNaN(dateB)) { return 0; }
+                    return asc ? (isNaN(dateA) ? 1 : -1) : (isNaN(dateA) ? -1 : 1);
+                }
+                if (type === "number") {
+                    const numA = parseFloat(a.replace(",", "."));
+                    const numB = parseFloat(b.replace(",", "."));
+                    if (!isNaN(numA) && !isNaN(numB)) { return asc ? numA - numB : numB - numA; }
+                    if (isNaN(numA) && isNaN(numB)) { return 0; }
+                    return asc ? (isNaN(numA) ? 1 : -1) : (isNaN(numA) ? -1 : 1);
+                }
                 return asc ? a.localeCompare(b, undefined, {numeric: true, sensitivity: "base"}) : b.localeCompare(a, undefined, {numeric: true, sensitivity: "base"});
             };
             const sortTable = (index, asc) => {
                 const rows = Array.from(tbody.querySelectorAll("tr"));
-                rows.sort((rowA, rowB) => compareValues(getCellValue(rowA, index), getCellValue(rowB, index), asc));
+                rows.sort((rowA, rowB) => compareValues(getCellValue(rowA, index), getCellValue(rowB, index), asc, index));
                 rows.forEach(row => tbody.appendChild(row));
             };
             table.querySelectorAll("th").forEach((th, index) => {
