@@ -8,7 +8,7 @@ Home: https://github.com/TomHyer/Roc
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.11 | 2026-05-11 | 2734<sub>(+6) | 2935<sub>(-12) | 3027<sub>(+10) |  |
+| 1.11 | 2026-05-11 | 2734<sub>(+6) | 2935<sub>(-12) | 3025<sub>(+8) |  |
 | 1.10 | 2026-02-21 | 2728<sub>(+new) | 2947<sub>(+new) | 3017<sub>(+new) |  |
 | 1.9.1 | 2022-08-19 |  |  |  |  |
 | 1.9 | 2022-07-23 |  |  |  |  |
@@ -58,7 +58,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-28 06:32:32
+Generated: 2026-07-29 06:28:59
 
 ## Ratings Verlauf
 
@@ -70,8 +70,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [2728, 2734]
   line "STC (8.0+0.08s)" [2728, 2734]
   line "LTC (60.0+0.60s)" [2947, 2935]
-  line "VLTC (2m24s+1.12s)" [3017, 3027]
-  line "VLTC (2m24s+1.12s)" [3017, 3027]
+  line "VLTC (2m24s+1.12s)" [3017, 3025]
+  line "VLTC (2m24s+1.12s)" [3017, 3025]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -84,7 +84,7 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.11 | VLTC <sub>(2m24s+1.12s)</sub> | 3027 | 26 | 464 | 49% | 3032 | 38% |
+| 1.11 | VLTC <sub>(2m24s+1.12s)</sub> | 3025 | 26 | 468 | 49% | 3032 | 38% |
 | 1.11 | LTC <sub>(60.0+0.60s)</sub> | 2935 | 27 | 440 | 52% | 2920 | 36% |
 | 1.11 | STC <sub>(8.0+0.08s)</sub> | 2734 | 28 | 402 | 51% | 2727 | 37% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
