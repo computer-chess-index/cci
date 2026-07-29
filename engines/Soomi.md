@@ -8,7 +8,7 @@ Home: https://github.com/Koma1867/Soomi-V1-Chess-engine-in-golang
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.2.0B | 2026-04-24 | 2024<sub>(+3) | 2219<sub>(-87) | 2368<sub>(-50) |  |
+| 1.2.0B | 2026-04-24 | 2024<sub>(+3) | 2219<sub>(-87) | 2369<sub>(-49) |  |
 | 1.2.0 | 2025-12-31 | 2021<sub>(+196) | 2306<sub>(+170) | 2418<sub>(+235) |  |
 | 1.1.8 | 2025-12-16 | 1825<sub>(-11) | 2136<sub>(+45) | 2183<sub>(+41) |  |
 | 1.1.7 | 2025-12-07 | 1836<sub>(+53) | 2091<sub>(-46) | 2142<sub>(-7) |  |
@@ -28,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-28 06:33:35
+Generated: 2026-07-29 06:29:38
 
 ## Ratings Verlauf
 
@@ -40,8 +40,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [1783, 1836, 1825, 2021, 2024]
   line "STC (8.0+0.08s)" [1783, 1836, 1825, 2021, 2024]
   line "LTC (60.0+0.60s)" [2137, 2091, 2136, 2306, 2219]
-  line "VLTC (2m24s+1.12s)" [2149, 2142, 2183, 2418, 2368]
-  line "VLTC (2m24s+1.12s)" [2149, 2142, 2183, 2418, 2368]
+  line "VLTC (2m24s+1.12s)" [2149, 2142, 2183, 2418, 2369]
+  line "VLTC (2m24s+1.12s)" [2149, 2142, 2183, 2418, 2369]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -54,9 +54,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.2.0B | VLTC <sub>(2m24s+1.12s)</sub> | 2368 | 29 | 400 | 50% | 2361 | 27% |
+| 1.2.0B | VLTC <sub>(2m24s+1.12s)</sub> | 2369 | 29 | 404 | 51% | 2361 | 27% |
 | 1.2.0B | LTC <sub>(60.0+0.60s)</sub> | 2219 | 29 | 420 | 48% | 2233 | 23% |
-| 1.2.0B | STC <sub>(8.0+0.08s)</sub> | 2024 | 28 | 440 | 50% | 2017 | 23% |
+| 1.2.0B | STC <sub>(8.0+0.08s)</sub> | 2024 | 28 | 444 | 50% | 2017 | 24% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2418 | 26 | 516 | 54% | 2384 | 23% |
 | 1.2.0 | LTC <sub>(60.0+0.60s)</sub> | 2306 | 27 | 460 | 50% | 2309 | 26% |
