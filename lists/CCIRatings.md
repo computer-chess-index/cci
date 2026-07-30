@@ -1,6 +1,6 @@
 # CCI Ratings (ELO VLTC Ranking)
 
-Generated: 2026-07-30 16:23:43
+Generated: 2026-07-30 16:24:37
 
 | Engine | Version | Published | Author | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -274,7 +274,7 @@ Generated: 2026-07-30 16:23:43
 | <sub><a href="https://github.com/ruicoelhopedro/pawn" target="_blank">Pawn</a> | <sub>4.0 | <sub>2025-05-05 | <sub>Rui Coelho | <sub> | <sub> | <sub> |
 | <sub><a href="https://github.com/taperihn0/Leaf-Engine" target="_blank">Leaf</a> | <sub>1.0.1 | <sub>2026-07-29 | <sub> | <sub> | <sub> | <sub> |
 | <sub><a href="https://github.com/giuliano-ippoliti/GiuChess" target="_blank">GiuChess</a> | <sub>2.0.0 | <sub>2025-08-08 | <sub>Giuliano Ippoliti | <sub> | <sub> | <sub> |
-| <sub>SlowChess | <sub>2.9 | <sub>2022-06-01 | <sub>Jonathan Kreuzer | <sub> | <sub> | <sub> |
+| <sub>SlowChess | <sub>2.9 | <sub>2022-07-05 | <sub>Jonathan Kreuzer | <sub> | <sub> | <sub> |
 | <sub><a href="https://github.com/Williamguttn/Sloth" target="_blank">Sloth</a> | <sub>2.1 | <sub>2025-02-26 | <sub>William Sj�lund | <sub> | <sub> | <sub> |
 | <sub><a href="https://github.com/SebLague/Chess-Coding-Adventure" target="_blank">Coding-Adventure</a> | <sub>2.0 | <sub>2023-07-31 | <sub>Lague Sebastian | <sub> | <sub> | <sub> |
 | <sub><a href="https://github.com/dykstrom/ronja" target="_blank">Ronja</a> | <sub>0.9.1 | <sub>2024-06-15 | <sub>Johan Dykstrom | <sub> | <sub> | <sub> |
