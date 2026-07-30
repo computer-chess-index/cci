@@ -8,7 +8,7 @@ Home: https://github.com/mrgwbland/Cepimetheus
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 13.0.0 | 2026-07-23 | 2064<sub>(+98) | 2346<sub>(+163) | 2442<sub>(+97) |  |
+| 13.0.0 | 2026-07-23 | 2064<sub>(+98) | 2346<sub>(+163) | 2450<sub>(+105) |  |
 | 12.0.0 | 2026-07-19 | 1966<sub>(+new) | 2183<sub>(+new) | 2345<sub>(+new) |  |
 | 11.0.0 | 2026-07-08 |  |  |  |  |
 | 10.0.0 | 2026-07-01 |  |  |  |  |
@@ -57,7 +57,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-29 06:23:35
+Generated: 2026-07-30 06:23:30
 
 ## Ratings Verlauf
 
@@ -69,8 +69,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [1966, 2064]
   line "STC (8.0+0.08s)" [1966, 2064]
   line "LTC (60.0+0.60s)" [2183, 2346]
-  line "VLTC (2m24s+1.12s)" [2345, 2442]
-  line "VLTC (2m24s+1.12s)" [2345, 2442]
+  line "VLTC (2m24s+1.12s)" [2345, 2450]
+  line "VLTC (2m24s+1.12s)" [2345, 2450]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -83,11 +83,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 13.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2442 | 37 | 248 | 48% | 2460 | 26% |
-| 13.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2346 | 43 | 188 | 49% | 2350 | 23% |
-| 13.0.0 | STC <sub>(8.0+0.08s)</sub> | 2064 | 40 | 220 | 53% | 2036 | 20% |
+| 13.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2450 | 36 | 260 | 49% | 2457 | 25% |
+| 13.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2346 | 40 | 224 | 50% | 2349 | 21% |
+| 13.0.0 | STC <sub>(8.0+0.08s)</sub> | 2064 | 39 | 230 | 53% | 2040 | 21% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 12.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2345 | 40 | 216 | 51% | 2331 | 26% |
-| 12.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2183 | 37 | 256 | 48% | 2190 | 25% |
+| 12.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2183 | 37 | 256 | 48% | 2191 | 25% |
 | 12.0.0 | STC <sub>(8.0+0.08s)</sub> | 1966 | 44 | 186 | 52% | 1944 | 18% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
