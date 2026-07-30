@@ -8,7 +8,7 @@ Home: https://github.com/Bobingstern/Tarnished
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.0 | 2026-06-10 | 3344<sub>(-9) | 3525<sub>(+8) | 3549<sub>(+9) |  |
+| 6.0 | 2026-06-10 | 3343<sub>(-10) | 3525<sub>(+8) | 3549<sub>(+9) |  |
 | 5.0 | 2026-02-07 | 3353<sub>(+110) | 3517<sub>(+95) | 3540<sub>(+70) |  |
 | 4.0 | 2025-08-23 | 3243<sub>(+new) | 3422<sub>(+new) | 3470<sub>(+new) |  |
 | 3.0 | 2025-06-30 |  |  |  |  |
@@ -30,7 +30,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-29 06:30:21
+Generated: 2026-07-30 06:31:56
 
 ## Ratings Verlauf
 
@@ -39,8 +39,8 @@ Generated: 2026-07-29 06:30:21
 xychart-beta
   x-axis ["4.0", "5.0", "6.0"]
   y-axis "Elo Rating" 3200 --> 3600
-  line "STC (8.0+0.08s)" [3243, 3353, 3344]
-  line "STC (8.0+0.08s)" [3243, 3353, 3344]
+  line "STC (8.0+0.08s)" [3243, 3353, 3343]
+  line "STC (8.0+0.08s)" [3243, 3353, 3343]
   line "LTC (60.0+0.60s)" [3422, 3517, 3525]
   line "VLTC (2m24s+1.12s)" [3470, 3540, 3549]
   line "VLTC (2m24s+1.12s)" [3470, 3540, 3549]
@@ -56,9 +56,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3549 | 27 | 316 | 51% | 3541 | 87% |
-| 6.0 | LTC <sub>(60.0+0.60s)</sub> | 3525 | 26 | 332 | 49% | 3530 | 85% |
-| 6.0 | STC <sub>(8.0+0.08s)</sub> | 3344 | 26 | 364 | 49% | 3348 | 73% |
+| 6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3549 | 27 | 320 | 51% | 3541 | 86% |
+| 6.0 | LTC <sub>(60.0+0.60s)</sub> | 3525 | 26 | 336 | 49% | 3530 | 85% |
+| 6.0 | STC <sub>(8.0+0.08s)</sub> | 3343 | 26 | 368 | 49% | 3349 | 73% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 5.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3540 | 23 | 442 | 50% | 3540 | 86% |
 | 5.0 | LTC <sub>(60.0+0.60s)</sub> | 3517 | 23 | 442 | 51% | 3510 | 85% |
