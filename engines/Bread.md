@@ -8,9 +8,9 @@ Home: https://github.com/Nonlinear2/Bread-Engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
+| 4.0.0 | 2026-07-29 |  |  |  |  |
 | 3.1.0 | 2026-05-22 |  |  |  |  |
-| 3.1.0 | 2026-05-22 |  |  |  |  |
-| 3.0.0 | 2026-03-15 | 3092<sub>(+106) | 3301<sub>(+107) | 3375<sub>(+131) |  |
+| 3.0.0 | 2026-03-15 | 3092<sub>(+106) | 3301<sub>(+107) | 3376<sub>(+132) |  |
 | 2.1.1 | 2025-12-22 | 2986<sub>(+new) | 3194<sub>(+new) | 3244<sub>(+new) |  |
 | 2.1.0 | 2025-12-21 |  |  |  | always disconnects |
 | 2.0.0 | 2025-10-18 | 2853<sub>(+new) | 3106<sub>(+new) | 3141<sub>(+new) |  |
@@ -33,7 +33,7 @@ Home: https://github.com/Nonlinear2/Bread-Engine
 | 0.0.1 | 2024-06-05 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Bread+<version>&body=###%20Engine%20name%0ABread%0A%0A###%20Version%0A3.1.0" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Bread+<version>&body=###%20Engine%20name%0ABread%0A%0A###%20Version%0A4.0.0" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -46,7 +46,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-29 06:23:18
+Generated: 2026-07-30 06:23:13
 
 ## Ratings Verlauf
 
@@ -58,8 +58,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [2853, 2986, 3092]
   line "STC (8.0+0.08s)" [2853, 2986, 3092]
   line "LTC (60.0+0.60s)" [3106, 3194, 3301]
-  line "VLTC (2m24s+1.12s)" [3141, 3244, 3375]
-  line "VLTC (2m24s+1.12s)" [3141, 3244, 3375]
+  line "VLTC (2m24s+1.12s)" [3141, 3244, 3376]
+  line "VLTC (2m24s+1.12s)" [3141, 3244, 3376]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -72,7 +72,7 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3375 | 24 | 444 | 50% | 3378 | 73% |
+| 3.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3376 | 24 | 444 | 50% | 3378 | 73% |
 | 3.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3301 | 25 | 394 | 51% | 3294 | 73% |
 | 3.0.0 | STC <sub>(8.0+0.08s)</sub> | 3092 | 24 | 492 | 50% | 3090 | 57% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
