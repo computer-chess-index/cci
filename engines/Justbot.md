@@ -8,7 +8,7 @@ Home: https://github.com/HasanFakih21/JustBot
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.3.0 | 2026-07-19 | 3032<sub>(+467) | 3266<sub>(+386) | 3290<sub>(+342) |  |
+| 0.3.0 | 2026-07-19 | 3036<sub>(+471) | 3266<sub>(+386) | 3289<sub>(+341) |  |
 | 0.2.0 | 2026-06-24 | 2565<sub>(+555) | 2880<sub>(+576) | 2948<sub>(+548) |  |
 | 0.1.0 | 2026-06-09 | 2010 | 2304 | 2400 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-29 06:26:11
+Generated: 2026-07-30 06:26:05
 
 ## Ratings Verlauf
 
@@ -35,11 +35,11 @@ Generated: 2026-07-29 06:26:11
 xychart-beta
   x-axis ["0.1.0", "0.2.0", "0.3.0"]
   y-axis "Elo Rating" 2000 --> 3300
-  line "STC (8.0+0.08s)" [2010, 2565, 3032]
-  line "STC (8.0+0.08s)" [2010, 2565, 3032]
+  line "STC (8.0+0.08s)" [2010, 2565, 3036]
+  line "STC (8.0+0.08s)" [2010, 2565, 3036]
   line "LTC (60.0+0.60s)" [2304, 2880, 3266]
-  line "VLTC (2m24s+1.12s)" [2400, 2948, 3290]
-  line "VLTC (2m24s+1.12s)" [2400, 2948, 3290]
+  line "VLTC (2m24s+1.12s)" [2400, 2948, 3289]
+  line "VLTC (2m24s+1.12s)" [2400, 2948, 3289]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -52,9 +52,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3290 | 35 | 212 | 52% | 3270 | 65% |
-| 0.3.0 | LTC <sub>(60.0+0.60s)</sub> | 3266 | 32 | 248 | 52% | 3245 | 68% |
-| 0.3.0 | STC <sub>(8.0+0.08s)</sub> | 3032 | 33 | 268 | 50% | 3028 | 52% |
+| 0.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3289 | 35 | 216 | 52% | 3271 | 65% |
+| 0.3.0 | LTC <sub>(60.0+0.60s)</sub> | 3266 | 32 | 252 | 52% | 3245 | 68% |
+| 0.3.0 | STC <sub>(8.0+0.08s)</sub> | 3036 | 32 | 276 | 50% | 3029 | 51% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2948 | 37 | 212 | 50% | 2936 | 50% |
 | 0.2.0 | LTC <sub>(60.0+0.60s)</sub> | 2880 | 32 | 296 | 47% | 2898 | 42% |
@@ -62,5 +62,5 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2400 | 36 | 278 | 49% | 2421 | 22% |
 | 0.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2304 | 35 | 284 | 49% | 2313 | 26% |
-| 0.1.0 | STC <sub>(8.0+0.08s)</sub> | 2010 | 37 | 266 | 48% | 2024 | 21% |
+| 0.1.0 | STC <sub>(8.0+0.08s)</sub> | 2010 | 37 | 266 | 48% | 2025 | 21% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
