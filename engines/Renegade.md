@@ -8,7 +8,7 @@ Home: https://github.com/pkrisz99/Renegade
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.3.1 | 2026-07-14 | 3324<sub>(-8) | 3502<sub>(0) | 3529<sub>(+1) |  |
+| 1.3.1 | 2026-07-14 | 3326<sub>(-6) | 3502<sub>(0) | 3529<sub>(+1) |  |
 | 1.3.0 | 2026-06-17 | 3332<sub>(+new) | 3502<sub>(+new) | 3528<sub>(+new) |  |
 | 1.2.0 | 2025-05-05 |  |  |  |  |
 | 1.1.0 | 2024-06-26 |  |  |  |  |
@@ -35,7 +35,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-29 06:28:43
+Generated: 2026-07-30 06:28:40
 
 ## Ratings Verlauf
 
@@ -44,8 +44,8 @@ Generated: 2026-07-29 06:28:43
 xychart-beta
   x-axis ["1.3.0", "1.3.1"]
   y-axis "Elo Rating" 3300 --> 3600
-  line "STC (8.0+0.08s)" [3332, 3324]
-  line "STC (8.0+0.08s)" [3332, 3324]
+  line "STC (8.0+0.08s)" [3332, 3326]
+  line "STC (8.0+0.08s)" [3332, 3326]
   line "LTC (60.0+0.60s)" [3502, 3502]
   line "VLTC (2m24s+1.12s)" [3528, 3529]
   line "VLTC (2m24s+1.12s)" [3528, 3529]
@@ -61,11 +61,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3529 | 38 | 160 | 50% | 3532 | 88% |
+| 1.3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3529 | 37 | 164 | 50% | 3532 | 88% |
 | 1.3.1 | LTC <sub>(60.0+0.60s)</sub> | 3502 | 35 | 188 | 49% | 3511 | 86% |
-| 1.3.1 | STC <sub>(8.0+0.08s)</sub> | 3324 | 33 | 232 | 52% | 3312 | 69% |
+| 1.3.1 | STC <sub>(8.0+0.08s)</sub> | 3326 | 32 | 240 | 52% | 3313 | 69% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3528 | 33 | 226 | 54% | 3488 | 81% |
+| 1.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3528 | 33 | 226 | 54% | 3490 | 81% |
 | 1.3.0 | LTC <sub>(60.0+0.60s)</sub> | 3502 | 31 | 260 | 53% | 3451 | 77% |
 | 1.3.0 | STC <sub>(8.0+0.08s)</sub> | 3332 | 35 | 218 | 53% | 3275 | 66% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
