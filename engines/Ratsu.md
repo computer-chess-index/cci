@@ -8,12 +8,12 @@ Home: https://github.com/ranzuh/ratsu
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1.0 | 2026-06-29 | 2368<sub>(+136) | 2646<sub>(+107) | 2812<sub>(+211) |  |
+| 2.1.0 | 2026-06-29 | 2368<sub>(+136) | 2646<sub>(+107) | 2813<sub>(+212) |  |
 | 2.0.0 | 2026-05-23 | 2232<sub>(+346) | 2539<sub>(+378) | 2601<sub>(+375) |  |
 | 1.2.0 | 2026-05-07 | 1886<sub>(+167) | 2161<sub>(+163) | 2226<sub>(+142) |  |
 | 1.1.0 | 2026-04-21 | 1719<sub>(+80) | 1998<sub>(+126) | 2084<sub>(+141) |  |
-| 1.0.0 | 2026-02-20 | 1639<sub>(+103) | 1872<sub>(+76) | 1943<sub>(+89) |  |
-| 0.9.0 | 2026-01-21 | 1536 | 1796 | 1854 |  |
+| 1.0.0 | 2026-02-20 | 1639<sub>(+103) | 1872<sub>(+76) | 1943<sub>(+88) |  |
+| 0.9.0 | 2026-01-21 | 1536 | 1796 | 1855 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Ratsu+<version>&body=###%20Engine%20name%0ARatsu%0A%0A###%20Version%0A2.1.0" target="_blank">Submit new version</a>
@@ -29,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-30 06:28:33
+Generated: 2026-07-31 06:28:58
 
 ## Ratings Verlauf
 
@@ -41,8 +41,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [1536, 1639, 1719, 1886, 2232, 2368]
   line "STC (8.0+0.08s)" [1536, 1639, 1719, 1886, 2232, 2368]
   line "LTC (60.0+0.60s)" [1796, 1872, 1998, 2161, 2539, 2646]
-  line "VLTC (2m24s+1.12s)" [1854, 1943, 2084, 2226, 2601, 2812]
-  line "VLTC (2m24s+1.12s)" [1854, 1943, 2084, 2226, 2601, 2812]
+  line "VLTC (2m24s+1.12s)" [1855, 1943, 2084, 2226, 2601, 2813]
+  line "VLTC (2m24s+1.12s)" [1855, 1943, 2084, 2226, 2601, 2813]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -55,7 +55,7 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2812 | 38 | 208 | 50% | 2805 | 39% |
+| 2.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2813 | 38 | 212 | 50% | 2807 | 40% |
 | 2.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2646 | 41 | 190 | 49% | 2651 | 32% |
 | 2.1.0 | STC <sub>(8.0+0.08s)</sub> | 2368 | 37 | 246 | 49% | 2380 | 26% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -75,7 +75,7 @@ xychart-beta
 | 1.0.0 | LTC <sub>(60.0+0.60s)</sub> | 1872 | 31 | 384 | 51% | 1866 | 18% |
 | 1.0.0 | STC <sub>(8.0+0.08s)</sub> | 1639 | 30 | 394 | 48% | 1656 | 23% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1854 | 41 | 208 | 50% | 1859 | 25% |
+| 0.9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1855 | 41 | 208 | 50% | 1859 | 25% |
 | 0.9.0 | LTC <sub>(60.0+0.60s)</sub> | 1796 | 36 | 280 | 53% | 1766 | 17% |
 | 0.9.0 | STC <sub>(8.0+0.08s)</sub> | 1536 | 39 | 242 | 49% | 1544 | 18% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
