@@ -8,7 +8,8 @@ Home: https://github.com/mrgwbland/Cepimetheus
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 13.0.0 | 2026-07-23 | 2064<sub>(+98) | 2346<sub>(+163) | 2450<sub>(+105) |  |
+| 14.0.0 | 2026-07-31 |  |  |  |  |
+| 13.0.0 | 2026-07-23 | 2061<sub>(+95) | 2346<sub>(+163) | 2449<sub>(+104) |  |
 | 12.0.0 | 2026-07-19 | 1966<sub>(+new) | 2183<sub>(+new) | 2345<sub>(+new) |  |
 | 11.0.0 | 2026-07-08 |  |  |  |  |
 | 10.0.0 | 2026-07-01 |  |  |  |  |
@@ -44,7 +45,7 @@ Home: https://github.com/mrgwbland/Cepimetheus
 | 1.0.0 | 2026-04-07 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Cepimetheus+<version>&body=###%20Engine%20name%0ACepimetheus%0A%0A###%20Version%0A13.0.0" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Cepimetheus+<version>&body=###%20Engine%20name%0ACepimetheus%0A%0A###%20Version%0A14.0.0" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -57,7 +58,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-30 06:23:30
+Generated: 2026-07-31 06:23:33
 
 ## Ratings Verlauf
 
@@ -66,11 +67,11 @@ Generated: 2026-07-30 06:23:30
 xychart-beta
   x-axis ["12.0.0", "13.0.0"]
   y-axis "Elo Rating" 1900 --> 2500
-  line "STC (8.0+0.08s)" [1966, 2064]
-  line "STC (8.0+0.08s)" [1966, 2064]
+  line "STC (8.0+0.08s)" [1966, 2061]
+  line "STC (8.0+0.08s)" [1966, 2061]
   line "LTC (60.0+0.60s)" [2183, 2346]
-  line "VLTC (2m24s+1.12s)" [2345, 2450]
-  line "VLTC (2m24s+1.12s)" [2345, 2450]
+  line "VLTC (2m24s+1.12s)" [2345, 2449]
+  line "VLTC (2m24s+1.12s)" [2345, 2449]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -83,9 +84,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 13.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2450 | 36 | 260 | 49% | 2457 | 25% |
+| 13.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2449 | 36 | 264 | 49% | 2457 | 25% |
 | 13.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2346 | 40 | 224 | 50% | 2349 | 21% |
-| 13.0.0 | STC <sub>(8.0+0.08s)</sub> | 2064 | 39 | 230 | 53% | 2040 | 21% |
+| 13.0.0 | STC <sub>(8.0+0.08s)</sub> | 2061 | 39 | 234 | 52% | 2041 | 21% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 12.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2345 | 40 | 216 | 51% | 2331 | 26% |
 | 12.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2183 | 37 | 256 | 48% | 2191 | 25% |
