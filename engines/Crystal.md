@@ -15,7 +15,7 @@ Home: https://github.com/jhellis3/Stockfish
 | 7 | 2023-11-09 |  |  |  |  |
 | 6 | 2023-05-14 |  |  |  |  |
 | 6 | 2023-05-14 |  |  |  |  |
-| 5 | 2022-11-05 | 3368<sub>(+new) | 3511<sub>(+new) | 3532<sub>(+new) |  |
+| 5 | 2022-11-05 | 3370<sub>(+new) | 3511<sub>(+new) | 3532<sub>(+new) |  |
 | 4.1 | 2022-07-03 |  |  |  |  |
 | 4.0 | 2021-12-25 |  |  |  |  |
 | 4.0 | 2021-12-25 |  |  |  |  |
@@ -53,7 +53,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-31 06:24:23
+Generated: 2026-08-01 06:24:19
 
 ## Ratings Verlauf
 
@@ -62,8 +62,8 @@ Generated: 2026-07-31 06:24:23
 xychart-beta
   x-axis ["5", "9"]
   y-axis "Elo Rating" 3300 --> 3600
-  line "STC (8.0+0.08s)" [3368, 3414]
-  line "STC (8.0+0.08s)" [3368, 3414]
+  line "STC (8.0+0.08s)" [3370, 3414]
+  line "STC (8.0+0.08s)" [3370, 3414]
   line "LTC (60.0+0.60s)" [3511, 3559]
   line "VLTC (2m24s+1.12s)" [3532, 3587]
   line "VLTC (2m24s+1.12s)" [3532, 3587]
@@ -85,5 +85,5 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 5 | VLTC <sub>(2m24s+1.12s)</sub> | 3532 | 27 | 320 | 55% | 3488 | 85% |
 | 5 | LTC <sub>(60.0+0.60s)</sub> | 3511 | 12 | 1640 | 50% | 3511 | 86% |
-| 5 | STC <sub>(8.0+0.08s)</sub> | 3368 | 12 | 1796 | 52% | 3357 | 73% |
+| 5 | STC <sub>(8.0+0.08s)</sub> | 3370 | 12 | 1796 | 52% | 3357 | 73% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
