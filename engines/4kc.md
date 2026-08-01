@@ -8,7 +8,7 @@ Home: https://github.com/GediminasMasaitis/4k-dot-c
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.0 | 2026-06-06 | 2530<sub>(-47) | 2846<sub>(+41) | 2957<sub>(+22) |  |
+| 9.0 | 2026-06-06 | 2530<sub>(-47) | 2846<sub>(+41) | 2955<sub>(+20) |  |
 | 8.0 | 2026-03-10 | 2577<sub>(+new) | 2805<sub>(+new) | 2935<sub>(+new) |  |
 | 6.0 | 2026-03-10 |  |  |  |  |
 | 5.0 | 2025-10-30 | 2472<sub>(+new) | 2778<sub>(+new) | 2850<sub>(+new) |  |
@@ -35,7 +35,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-31 06:22:03
+Generated: 2026-08-01 06:22:03
 
 ## Ratings Verlauf
 
@@ -47,8 +47,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [2472, 2577, 2530]
   line "STC (8.0+0.08s)" [2472, 2577, 2530]
   line "LTC (60.0+0.60s)" [2778, 2805, 2846]
-  line "VLTC (2m24s+1.12s)" [2850, 2935, 2957]
-  line "VLTC (2m24s+1.12s)" [2850, 2935, 2957]
+  line "VLTC (2m24s+1.12s)" [2850, 2935, 2955]
+  line "VLTC (2m24s+1.12s)" [2850, 2935, 2955]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -61,9 +61,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2957 | 30 | 346 | 49% | 2965 | 41% |
-| 9.0 | LTC <sub>(60.0+0.60s)</sub> | 2846 | 29 | 372 | 51% | 2842 | 42% |
-| 9.0 | STC <sub>(8.0+0.08s)</sub> | 2530 | 27 | 440 | 51% | 2519 | 34% |
+| 9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2955 | 30 | 350 | 49% | 2965 | 41% |
+| 9.0 | LTC <sub>(60.0+0.60s)</sub> | 2846 | 28 | 380 | 51% | 2842 | 42% |
+| 9.0 | STC <sub>(8.0+0.08s)</sub> | 2530 | 27 | 448 | 51% | 2519 | 33% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 8.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2935 | 28 | 402 | 52% | 2913 | 39% |
 | 8.0 | LTC <sub>(60.0+0.60s)</sub> | 2805 | 29 | 374 | 51% | 2797 | 40% |
