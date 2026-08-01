@@ -8,7 +8,7 @@ Home:
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1.0 | 2004-02-01 | 2142<sub>(+9) | 2435<sub>(+6) | 2493<sub>(+21) |  |
+| 2.1.0 | 2004-02-01 | 2147<sub>(+14) | 2433<sub>(+4) | 2493<sub>(+21) |  |
 | 1.0.5 | 2003-03-19 | 2133 | 2429 | 2472 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-31 06:29:32
+Generated: 2026-08-01 06:29:10
 
 ## Ratings Verlauf
 
@@ -34,9 +34,9 @@ Generated: 2026-07-31 06:29:32
 xychart-beta
   x-axis ["1.0.5", "2.1.0"]
   y-axis "Elo Rating" 2100 --> 2500
-  line "STC (8.0+0.08s)" [2133, 2142]
-  line "STC (8.0+0.08s)" [2133, 2142]
-  line "LTC (60.0+0.60s)" [2429, 2435]
+  line "STC (8.0+0.08s)" [2133, 2147]
+  line "STC (8.0+0.08s)" [2133, 2147]
+  line "LTC (60.0+0.60s)" [2429, 2433]
   line "VLTC (2m24s+1.12s)" [2472, 2493]
   line "VLTC (2m24s+1.12s)" [2472, 2493]
 ```
@@ -52,10 +52,10 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2493 | 51 | 132 | 50% | 2492 | 26% |
-| 2.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2435 | 31 | 378 | 48% | 2456 | 21% |
-| 2.1.0 | STC <sub>(8.0+0.08s)</sub> | 2142 | 25 | 598 | 50% | 2140 | 21% |
+| 2.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2433 | 30 | 382 | 48% | 2456 | 21% |
+| 2.1.0 | STC <sub>(8.0+0.08s)</sub> | 2147 | 24 | 606 | 50% | 2141 | 21% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0.5 | VLTC <sub>(2m24s+1.12s)</sub> | 2472 | 38 | 260 | 48% | 2495 | 22% |
 | 1.0.5 | LTC <sub>(60.0+0.60s)</sub> | 2429 | 15 | 1464 | 50% | 2430 | 24% |
-| 1.0.5 | STC <sub>(8.0+0.08s)</sub> | 2133 | 16 | 1560 | 47% | 2194 | 20% |
+| 1.0.5 | STC <sub>(8.0+0.08s)</sub> | 2133 | 16 | 1560 | 47% | 2195 | 20% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
