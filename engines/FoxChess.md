@@ -8,7 +8,7 @@ Home: https://github.com/nfaltermeier/fox-chess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.2 | 2026-06-20 | 2506<sub>(+118) | 2830<sub>(+131) | 2923<sub>(+155) |  |
+| 1.2 | 2026-06-20 | 2503<sub>(+115) | 2830<sub>(+131) | 2923<sub>(+155) |  |
 | 1.1 | 2026-04-18 | 2388<sub>(+81) | 2699<sub>(+177) | 2768<sub>(+129) |  |
 | 1.0 | 2025-12-27 | 2307 | 2522 | 2639 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-07-31 06:25:14
+Generated: 2026-08-01 06:25:08
 
 ## Ratings Verlauf
 
@@ -35,8 +35,8 @@ Generated: 2026-07-31 06:25:14
 xychart-beta
   x-axis ["1.0", "1.1", "1.2"]
   y-axis "Elo Rating" 2300 --> 3000
-  line "STC (8.0+0.08s)" [2307, 2388, 2506]
-  line "STC (8.0+0.08s)" [2307, 2388, 2506]
+  line "STC (8.0+0.08s)" [2307, 2388, 2503]
+  line "STC (8.0+0.08s)" [2307, 2388, 2503]
   line "LTC (60.0+0.60s)" [2522, 2699, 2830]
   line "VLTC (2m24s+1.12s)" [2639, 2768, 2923]
   line "VLTC (2m24s+1.12s)" [2639, 2768, 2923]
@@ -53,8 +53,8 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2923 | 34 | 256 | 50% | 2920 | 47% |
-| 1.2 | LTC <sub>(60.0+0.60s)</sub> | 2830 | 35 | 252 | 50% | 2830 | 36% |
-| 1.2 | STC <sub>(8.0+0.08s)</sub> | 2506 | 35 | 276 | 48% | 2523 | 28% |
+| 1.2 | LTC <sub>(60.0+0.60s)</sub> | 2830 | 35 | 256 | 50% | 2830 | 36% |
+| 1.2 | STC <sub>(8.0+0.08s)</sub> | 2503 | 35 | 280 | 48% | 2523 | 28% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2768 | 28 | 392 | 49% | 2773 | 36% |
 | 1.1 | LTC <sub>(60.0+0.60s)</sub> | 2699 | 28 | 418 | 50% | 2693 | 34% |
