@@ -8,7 +8,7 @@ Home: https://github.com/cristivlas/sturddle-2
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.5.0 | 2026-02-04 | 2689<sub>(+79) | 3016<sub>(+20) | 3156<sub>(+75) |  |
+| 2.5.0 | 2026-02-04 | 2689<sub>(+79) | 3016<sub>(+20) | 3155<sub>(+74) |  |
 | 2.4.0 | 2025-12-06 | 2610<sub>(+new) | 2996<sub>(+new) | 3081<sub>(+new) |  |
 | 2.3.1 | 2025-09-04 |  |  |  |  |
 | 2.3 | 2025-09-01 |  |  |  |  |
@@ -30,7 +30,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-01 06:29:57
+Generated: 2026-08-02 06:29:36
 
 ## Ratings Verlauf
 
@@ -42,8 +42,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [2610, 2689]
   line "STC (8.0+0.08s)" [2610, 2689]
   line "LTC (60.0+0.60s)" [2996, 3016]
-  line "VLTC (2m24s+1.12s)" [3081, 3156]
-  line "VLTC (2m24s+1.12s)" [3081, 3156]
+  line "VLTC (2m24s+1.12s)" [3081, 3155]
+  line "VLTC (2m24s+1.12s)" [3081, 3155]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -56,11 +56,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.5.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3156 | 24 | 502 | 52% | 3136 | 52% |
+| 2.5.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3155 | 24 | 506 | 52% | 3136 | 52% |
 | 2.5.0 | LTC <sub>(60.0+0.60s)</sub> | 3016 | 25 | 474 | 49% | 3025 | 45% |
 | 2.5.0 | STC <sub>(8.0+0.08s)</sub> | 2689 | 23 | 614 | 50% | 2682 | 33% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.4.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3081 | 34 | 236 | 49% | 3087 | 53% |
+| 2.4.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3081 | 34 | 236 | 49% | 3086 | 53% |
 | 2.4.0 | LTC <sub>(60.0+0.60s)</sub> | 2996 | 37 | 224 | 51% | 2978 | 45% |
 | 2.4.0 | STC <sub>(8.0+0.08s)</sub> | 2610 | 36 | 248 | 50% | 2607 | 30% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
