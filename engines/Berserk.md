@@ -9,7 +9,7 @@ Home: https://github.com/jhonnold/berserk
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 4.7.0 | 2026-05-24 |  |  |  |  |
-| 14 | 2026-05-24 | 3420<sub>(+1838) | 3533<sub>(+16) | 3565<sub>(+24) |  |
+| 14 | 2026-05-24 | 3418<sub>(+1836) | 3533<sub>(+16) | 3565<sub>(+24) |  |
 | 13 | 2024-03-31 | 1582<sub>(+new) | 3517<sub>(+new) | 3541<sub>(+new) |  |
 | 12.1 | 2023-11-12 |  |  |  |  |
 | 12 | 2023-10-26 |  |  |  |  |
@@ -56,7 +56,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-01 06:23:02
+Generated: 2026-08-02 06:22:56
 
 ## Ratings Verlauf
 
@@ -65,8 +65,8 @@ Generated: 2026-08-01 06:23:02
 xychart-beta
   x-axis ["13", "14"]
   y-axis "Elo Rating" 1500 --> 3600
-  line "STC (8.0+0.08s)" [1582, 3420]
-  line "STC (8.0+0.08s)" [1582, 3420]
+  line "STC (8.0+0.08s)" [1582, 3418]
+  line "STC (8.0+0.08s)" [1582, 3418]
   line "LTC (60.0+0.60s)" [3517, 3533]
   line "VLTC (2m24s+1.12s)" [3541, 3565]
   line "VLTC (2m24s+1.12s)" [3541, 3565]
@@ -82,9 +82,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 14 | VLTC <sub>(2m24s+1.12s)</sub> | 3565 | 31 | 224 | 51% | 3560 | 93% |
+| 14 | VLTC <sub>(2m24s+1.12s)</sub> | 3565 | 31 | 224 | 51% | 3559 | 93% |
 | 14 | LTC <sub>(60.0+0.60s)</sub> | 3533 | 33 | 208 | 50% | 3533 | 89% |
-| 14 | STC <sub>(8.0+0.08s)</sub> | 3420 | 28 | 326 | 53% | 3330 | 76% |
+| 14 | STC <sub>(8.0+0.08s)</sub> | 3418 | 28 | 330 | 53% | 3330 | 76% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 13 | VLTC <sub>(2m24s+1.12s)</sub> | 3541 | 13 | 1458 | 53% | 3467 | 84% |
 | 13 | LTC <sub>(60.0+0.60s)</sub> | 3517 | 12 | 1740 | 51% | 3511 | 87% |
