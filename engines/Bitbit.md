@@ -8,7 +8,8 @@ Home: https://github.com/Spinojara/bitbit
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.6 | 2025-10-18 | 2897<sub>(+new) | 3133<sub>(+new) | 3198<sub>(+new) |  |
+| 1.7 | 2026-08-01 |  |  |  |  |
+| 1.6 | 2025-10-18 | 2894<sub>(+new) | 3133<sub>(+new) | 3197<sub>(+new) |  |
 | 1.5 | 2025-09-19 |  |  |  |  |
 | 1.4 | 2025-07-13 |  |  |  |  |
 | 1.3 | 2025-02-08 |  |  |  |  |
@@ -16,7 +17,7 @@ Home: https://github.com/Spinojara/bitbit
 | 1.1 | 2024-04-28 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Bitbit+<version>&body=###%20Engine%20name%0ABitbit%0A%0A###%20Version%0A1.6" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Bitbit+<version>&body=###%20Engine%20name%0ABitbit%0A%0A###%20Version%0A1.7" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -29,7 +30,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-01 06:23:05
+Generated: 2026-08-02 06:22:59
 
 
 
@@ -37,7 +38,7 @@ Generated: 2026-08-01 06:23:05
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.6 | VLTC <sub>(2m24s+1.12s)</sub> | 3198 | 24 | 472 | 52% | 3173 | 54% |
+| 1.6 | VLTC <sub>(2m24s+1.12s)</sub> | 3197 | 24 | 472 | 52% | 3173 | 54% |
 | 1.6 | LTC <sub>(60.0+0.60s)</sub> | 3133 | 24 | 506 | 52% | 3104 | 52% |
-| 1.6 | STC <sub>(8.0+0.08s)</sub> | 2897 | 21 | 688 | 51% | 2882 | 40% |
+| 1.6 | STC <sub>(8.0+0.08s)</sub> | 2894 | 21 | 692 | 50% | 2882 | 40% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
