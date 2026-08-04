@@ -8,7 +8,7 @@ Home: https://github.com/mcthouacbb/Sirius
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.0 | 2025-07-04 | 3082<sub>(+new) | 3313<sub>(+new) | 3353<sub>(+new) |  |
+| 9.0 | 2025-07-04 | 3077<sub>(+new) | 3314<sub>(+new) | 3352<sub>(+new) |  |
 | 8.0 | 2024-10-05 |  |  |  |  |
 | 7.0 | 2024-07-09 |  |  |  |  |
 | 6.0 | 2024-02-17 |  |  |  |  |
@@ -28,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-03 06:29:32
+Generated: 2026-08-04 06:29:57
 
 
 
@@ -36,7 +36,7 @@ Generated: 2026-08-03 06:29:32
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3353 | 30 | 278 | 51% | 3343 | 67% |
-| 9.0 | LTC <sub>(60.0+0.60s)</sub> | 3313 | 35 | 220 | 50% | 3314 | 61% |
-| 9.0 | STC <sub>(8.0+0.08s)</sub> | 3082 | 31 | 300 | 48% | 3104 | 52% |
+| 9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3352 | 30 | 282 | 51% | 3341 | 66% |
+| 9.0 | LTC <sub>(60.0+0.60s)</sub> | 3314 | 34 | 228 | 50% | 3312 | 61% |
+| 9.0 | STC <sub>(8.0+0.08s)</sub> | 3077 | 29 | 340 | 48% | 3097 | 52% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
