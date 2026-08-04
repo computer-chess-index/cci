@@ -12,7 +12,7 @@ One of the main targets is keeping track of the <a href="https://github.com/comp
 
 The development of an engine over time is displayed here, e.g.: <a href="https://github.com/computer-chess-index/cci/blob/main/engines/Stockfish.md" target="_blank">Stockfish</a> or <a href="https://github.com/computer-chess-index/cci/blob/main/engines/Raphael.md" target="_blank">Raphael</a>
 
-A complete list of engines can be found here: <a href="https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.md" target="_blank">CCI Ratings</a> or <a href="https://computer-chess-index.github.io/cci/" target="_blank">here</a>. I didn't spend much time on that though, as it is not the main focus of my work.
+A complete list of engines can be found here: <a href="https://computer-chess-index.github.io/cci/" target="_blank">CCI Ratings per Release</a> or <a href="https://computer-chess-index.github.io/cci/CCIRatings2.html" target="_blank">CCI Ratings per TC</a>.
 
 In the effort to improve the (external) calibration, I made experiments with <a href="https://computer-chess-index.github.io/cci/Lichess-CCI-Bots.html" target="_blank">Lichess Bots</a>. These experiments are currently halted - my calibration efforts are not yet finished, but consider this an insight of the direction I'm thinking about calibration. 
 
