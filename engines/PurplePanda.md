@@ -8,8 +8,8 @@ Home: https://github.com/Jakob256/PurplePanda
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 21 | 2026-07-12 | 1697<sub>(+59) | 1990<sub>(+88) | 2094<sub>(+122) |  |
-| 20 | 2025-12-15 | 1638<sub>(+new) | 1902<sub>(+new) | 1972<sub>(+new) |  |
+| 21 | 2026-07-12 | 1712<sub>(+76) | 1991<sub>(+90) | 2080<sub>(+109) |  |
+| 20 | 2025-12-15 | 1636<sub>(+new) | 1901<sub>(+new) | 1971<sub>(+new) |  |
 | 19 | 2024-12-28 |  |  |  |  |
 | 18 | 2024-09-26 |  |  |  |  |
 | 17.0 | 2024-06-20 |  |  |  |  |
@@ -33,7 +33,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-03 06:28:19
+Generated: 2026-08-04 06:28:41
 
 ## Ratings Verlauf
 
@@ -42,11 +42,11 @@ Generated: 2026-08-03 06:28:19
 xychart-beta
   x-axis ["20", "21"]
   y-axis "Elo Rating" 1600 --> 2100
-  line "STC (8.0+0.08s)" [1638, 1697]
-  line "STC (8.0+0.08s)" [1638, 1697]
-  line "LTC (60.0+0.60s)" [1902, 1990]
-  line "VLTC (2m24s+1.12s)" [1972, 2094]
-  line "VLTC (2m24s+1.12s)" [1972, 2094]
+  line "STC (8.0+0.08s)" [1636, 1712]
+  line "STC (8.0+0.08s)" [1636, 1712]
+  line "LTC (60.0+0.60s)" [1901, 1991]
+  line "VLTC (2m24s+1.12s)" [1971, 2080]
+  line "VLTC (2m24s+1.12s)" [1971, 2080]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -59,11 +59,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 21 | VLTC <sub>(2m24s+1.12s)</sub> | 2094 | 41 | 214 | 51% | 2083 | 18% |
-| 21 | LTC <sub>(60.0+0.60s)</sub> | 1990 | 38 | 248 | 48% | 2028 | 20% |
-| 21 | STC <sub>(8.0+0.08s)</sub> | 1697 | 41 | 224 | 51% | 1688 | 16% |
+| 21 | VLTC <sub>(2m24s+1.12s)</sub> | 2080 | 40 | 222 | 50% | 2082 | 18% |
+| 21 | LTC <sub>(60.0+0.60s)</sub> | 1991 | 38 | 252 | 48% | 2025 | 19% |
+| 21 | STC <sub>(8.0+0.08s)</sub> | 1712 | 40 | 240 | 52% | 1694 | 16% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 20 | VLTC <sub>(2m24s+1.12s)</sub> | 1972 | 25 | 566 | 48% | 2003 | 21% |
-| 20 | LTC <sub>(60.0+0.60s)</sub> | 1902 | 25 | 580 | 50% | 1908 | 17% |
-| 20 | STC <sub>(8.0+0.08s)</sub> | 1638 | 25 | 640 | 47% | 1666 | 16% |
+| 20 | VLTC <sub>(2m24s+1.12s)</sub> | 1971 | 25 | 566 | 48% | 2002 | 21% |
+| 20 | LTC <sub>(60.0+0.60s)</sub> | 1901 | 25 | 580 | 50% | 1906 | 17% |
+| 20 | STC <sub>(8.0+0.08s)</sub> | 1636 | 25 | 640 | 47% | 1665 | 16% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
