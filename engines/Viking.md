@@ -8,8 +8,8 @@ Home: https://github.com/nbqofficial/viking
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| R5 | 2026-04-27 | 1912<sub>(+573) | 2163<sub>(+343) | 2338<sub>(+231) |  |
-| R4 | 2026-04-22 | 1339<sub>(+new) | 1820<sub>(+new) | 2107<sub>(+new) |  |
+| R5 | 2026-04-27 | 1912<sub>(+573) | 2165<sub>(+344) | 2338<sub>(+231) |  |
+| R4 | 2026-04-22 | 1339<sub>(+new) | 1821<sub>(+new) | 2107<sub>(+new) |  |
 | R3 | 2026-04-22 |  |  |  |  |
 | R2 | 2025-09-25 |  |  |  |  |
 | R1 | 2025-09-24 |  |  |  |  |
@@ -28,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-04 06:34:23
+Generated: 2026-08-05 06:34:35
 
 ## Ratings Verlauf
 
@@ -39,7 +39,7 @@ xychart-beta
   y-axis "Elo Rating" 1300 --> 2400
   line "STC (8.0+0.08s)" [1339, 1912]
   line "STC (8.0+0.08s)" [1339, 1912]
-  line "LTC (60.0+0.60s)" [1820, 2163]
+  line "LTC (60.0+0.60s)" [1821, 2165]
   line "VLTC (2m24s+1.12s)" [2107, 2338]
   line "VLTC (2m24s+1.12s)" [2107, 2338]
 ```
@@ -55,10 +55,10 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | R5 | VLTC <sub>(2m24s+1.12s)</sub> | 2338 | 27 | 446 | 49% | 2352 | 33% |
-| R5 | LTC <sub>(60.0+0.60s)</sub> | 2163 | 28 | 430 | 50% | 2155 | 30% |
+| R5 | LTC <sub>(60.0+0.60s)</sub> | 2165 | 28 | 434 | 50% | 2156 | 30% |
 | R5 | STC <sub>(8.0+0.08s)</sub> | 1912 | 28 | 486 | 49% | 1920 | 21% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | R4 | VLTC <sub>(2m24s+1.12s)</sub> | 2107 | 31 | 372 | 41% | 2218 | 28% |
-| R4 | LTC <sub>(60.0+0.60s)</sub> | 1820 | 36 | 298 | 46% | 1890 | 23% |
+| R4 | LTC <sub>(60.0+0.60s)</sub> | 1821 | 36 | 298 | 46% | 1890 | 23% |
 | R4 | STC <sub>(8.0+0.08s)</sub> | 1339 | 38 | 288 | 47% | 1403 | 19% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
