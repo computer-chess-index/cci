@@ -8,7 +8,7 @@ Home:
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.30 | 2014-12-01 | 2697 | 2957 | 3015 |  |
+| 3.30 | 2014-12-01 | 2697 | 2957 | 3016 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Equinox+<version>&body=###%20Engine%20name%0AEquinox%0A%0A###%20Version%0A3.30" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-04 06:24:47
+Generated: 2026-08-05 06:24:58
 
 
 
@@ -32,7 +32,7 @@ Generated: 2026-08-04 06:24:47
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.30 | VLTC <sub>(2m24s+1.12s)</sub> | 3015 | 39 | 200 | 48% | 3032 | 41% |
+| 3.30 | VLTC <sub>(2m24s+1.12s)</sub> | 3016 | 39 | 200 | 48% | 3032 | 41% |
 | 3.30 | LTC <sub>(60.0+0.60s)</sub> | 2957 | 13 | 1774 | 50% | 2958 | 40% |
 | 3.30 | STC <sub>(8.0+0.08s)</sub> | 2697 | 13 | 1958 | 51% | 2682 | 30% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
