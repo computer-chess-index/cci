@@ -8,7 +8,7 @@ Home: https://github.com/Carbecq/Zangdar
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7 | 2026-07-13 | 3289<sub>(+98) | 3448<sub>(+82) | 3488<sub>(+97) |  |
+| 7 | 2026-07-13 | 3289<sub>(+98) | 3448<sub>(+82) | 3487<sub>(+96) |  |
 | 6.1.1 | 2026-02-25 | 3191<sub>(+55) | 3366<sub>(+6) | 3391<sub>(-31) |  |
 | 6.1 | 2026-02-10 | 3136<sub>(+1) | 3360<sub>(+17) | 3422<sub>(+27) |  |
 | 6 | 2026-02-07 | 3135<sub>(+12) | 3343<sub>(+4) | 3395<sub>(+15) |  |
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-05 06:35:01
+Generated: 2026-08-06 06:36:23
 
 ## Ratings Verlauf
 
@@ -52,8 +52,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [3123, 3135, 3136, 3191, 3289]
   line "STC (8.0+0.08s)" [3123, 3135, 3136, 3191, 3289]
   line "LTC (60.0+0.60s)" [3339, 3343, 3360, 3366, 3448]
-  line "VLTC (2m24s+1.12s)" [3380, 3395, 3422, 3391, 3488]
-  line "VLTC (2m24s+1.12s)" [3380, 3395, 3422, 3391, 3488]
+  line "VLTC (2m24s+1.12s)" [3380, 3395, 3422, 3391, 3487]
+  line "VLTC (2m24s+1.12s)" [3380, 3395, 3422, 3391, 3487]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -66,7 +66,7 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 7 | VLTC <sub>(2m24s+1.12s)</sub> | 3488 | 42 | 136 | 49% | 3494 | 79% |
+| 7 | VLTC <sub>(2m24s+1.12s)</sub> | 3487 | 42 | 136 | 49% | 3491 | 79% |
 | 7 | LTC <sub>(60.0+0.60s)</sub> | 3448 | 41 | 142 | 51% | 3445 | 80% |
 | 7 | STC <sub>(8.0+0.08s)</sub> | 3289 | 30 | 276 | 49% | 3293 | 69% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
