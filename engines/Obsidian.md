@@ -11,16 +11,7 @@ Home: https://github.com/gab8192/Obsidian
 | 16.0 | 2025-05-21 | 3426<sub>(+28) | 3546<sub>(+24) | 3573<sub>(+28) |  |
 | 15.0 | 2025-01-31 | 3398<sub>(-7) | 3522<sub>(-7) | 3545<sub>(-3) |  |
 | 14.0 | 2024-10-22 | 3405<sub>(+23) | 3529<sub>(+28) | 3548<sub>(+8) |  |
-| 13.0 | 2024-07-01 | 3382<sub>(+new) | 3501<sub>(+new) | 3540<sub>(+new) |  |
-| 12.0 | 2024-04-11 |  |  |  |  |
-| 11.0 | 2024-03-02 |  |  |  |  |
-| 10.0 | 2024-01-16 |  |  |  |  |
-| 9.0 | 2023-12-17 |  |  |  |  |
-| 8.0 | 2023-11-30 |  |  |  |  |
-| 7.0 | 2023-11-07 |  |  |  |  |
-| 6.0 | 2023-10-21 |  |  |  |  |
-| 5.0 | 2023-10-01 |  |  |  |  |
-| 4.0 | 2023-09-23 |  |  |  |  |
+| 13.0 | 2024-07-01 | 3382 | 3501 | 3540 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Obsidian+<version>&body=###%20Engine%20name%0AObsidian%0A%0A###%20Version%0A16.0" target="_blank">Submit new version</a>
@@ -36,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:27:26
+Generated: 2026-08-06 08:28:20
 
 ## Ratings Verlauf
 
