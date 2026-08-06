@@ -8,7 +8,7 @@ Home: https://github.com/FauziAkram/Malika-releases
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.685 | 2026-07-17 | 3100<sub>(+77) | 3281<sub>(+48) | 3345<sub>(+81) |  |
+| 1.685 | 2026-07-17 | 3100<sub>(+77) | 3281<sub>(+48) | 3347<sub>(+83) |  |
 | 1.116 | 2026-05-07 | 3023<sub>(+54) | 3233<sub>(+62) | 3264<sub>(+19) |  |
 | 1.0 | 2026-03-26 | 2969<sub>(+314) | 3171<sub>(+293) | 3245<sub>(+359) |  |
 | 0.892 | 2026-02-23 | 2655<sub>(-45) | 2878<sub>(-103) | 2886<sub>(-204) |  |
@@ -28,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-05 06:27:23
+Generated: 2026-08-06 06:26:48
 
 ## Ratings Verlauf
 
@@ -40,8 +40,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [2700, 2655, 2969, 3023, 3100]
   line "STC (8.0+0.08s)" [2700, 2655, 2969, 3023, 3100]
   line "LTC (60.0+0.60s)" [2981, 2878, 3171, 3233, 3281]
-  line "VLTC (2m24s+1.12s)" [3090, 2886, 3245, 3264, 3345]
-  line "VLTC (2m24s+1.12s)" [3090, 2886, 3245, 3264, 3345]
+  line "VLTC (2m24s+1.12s)" [3090, 2886, 3245, 3264, 3347]
+  line "VLTC (2m24s+1.12s)" [3090, 2886, 3245, 3264, 3347]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -54,8 +54,8 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.685 | VLTC <sub>(2m24s+1.12s)</sub> | 3345 | 28 | 332 | 49% | 3352 | 61% |
-| 1.685 | LTC <sub>(60.0+0.60s)</sub> | 3281 | 30 | 304 | 51% | 3274 | 61% |
+| 1.685 | VLTC <sub>(2m24s+1.12s)</sub> | 3347 | 28 | 340 | 49% | 3352 | 61% |
+| 1.685 | LTC <sub>(60.0+0.60s)</sub> | 3281 | 29 | 312 | 51% | 3274 | 61% |
 | 1.685 | STC <sub>(8.0+0.08s)</sub> | 3100 | 34 | 244 | 50% | 3101 | 49% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.116 | VLTC <sub>(2m24s+1.12s)</sub> | 3264 | 28 | 366 | 48% | 3282 | 49% |
