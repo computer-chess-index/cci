@@ -11,9 +11,7 @@ Home: https://github.com/op12no2/cwtch
 | 2to6 | 2026-07-09 |  |  |  |  |
 | 6 | 2026-07-06 | 3002<sub>(+131) | 3231<sub>(+103) | 3281<sub>(+84) |  |
 | 5 | 2026-04-06 | 2871<sub>(+35) | 3128<sub>(+51) | 3197<sub>(+76) |  |
-| 4 | 2025-12-05 | 2836<sub>(+new) | 3077<sub>(+new) | 3121<sub>(+new) |  |
-| 3 | 2025-09-27 |  |  |  |  |
-| 2 | 2025-09-19 |  |  |  |  |
+| 4 | 2025-12-05 | 2836 | 3077 | 3121 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Cwtch+<version>&body=###%20Engine%20name%0ACwtch%0A%0A###%20Version%0A2to6" target="_blank">Submit new version</a>
@@ -29,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:24:25
+Generated: 2026-08-06 08:25:35
 
 ## Ratings Verlauf
 
