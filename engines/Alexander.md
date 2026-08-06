@@ -11,21 +11,7 @@ Home: https://github.com/amchess/Alexander
 | 8.3 | 2026-04-01 | 3141<sub>(+1) | 3372<sub>(+23) | 3418<sub>(+13) |  |
 | 8.2 | 2026-03-23 | 3140<sub>(-26) | 3349<sub>(-8) | 3405<sub>(-12) |  |
 | 8.1 | 2026-03-16 | 3166<sub>(+39) | 3357<sub>(-11) | 3417<sub>(+11) |  |
-| 8.0 | 2026-03-10 | 3127<sub>(+new) | 3368<sub>(+new) | 3406<sub>(+new) |  |
-| 7.0 | 2025-10-20 |  |  |  |  |
-| 6.1 | 2025-10-07 |  |  |  |  |
-| 6.0 | 2025-09-20 |  |  |  |  |
-| 5.0 | 2025-02-14 |  |  |  |  |
-| 4.1 | 2025-02-07 |  |  |  |  |
-| 4.0 | 2025-01-17 |  |  |  |  |
-| 3.1 | 2024-11-11 |  |  |  |  |
-| 3.0 | 2024-10-24 |  |  |  |  |
-| Santiago | 2024-10-17 |  |  |  |  |
-| 2.0 | 2024-09-19 |  |  |  |  |
-| 1.3 | 2024-05-03 |  |  |  |  |
-| 1.2 | 2024-04-19 |  |  |  |  |
-| 1.1 | 2024-04-11 |  |  |  |  |
-| 1.0 | 2024-03-30 |  |  |  |  |
+| 8.0 | 2026-03-10 | 3127 | 3368 | 3406 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Alexander+<version>&body=###%20Engine%20name%0AAlexander%0A%0A###%20Version%0A8.3" target="_blank">Submit new version</a>
@@ -41,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:22:18
+Generated: 2026-08-06 08:23:43
 
 ## Ratings Verlauf
 
