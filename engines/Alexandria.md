@@ -13,26 +13,7 @@ Home: https://github.com/PGG106/Alexandria
 | 8.1 | 2025-08-16 | 3409<sub>(+30) | 3534<sub>(+24) | 3555<sub>(+10) |  |
 | 8.0 | 2025-03-03 | 3379<sub>(+43) | 3510<sub>(+15) | 3545<sub>(+17) |  |
 | 7.1 | 2024-10-26 | 3336<sub>(+12) | 3495<sub>(+16) | 3528<sub>(+6) |  |
-| 7.0 | 2024-05-25 | 3324<sub>(+new) | 3479<sub>(+new) | 3522<sub>(+new) |  |
-| 6.1.0 | 2024-03-24 |  |  |  |  |
-| 6.0.0 | 2024-02-01 |  |  |  |  |
-| 5.1.0 | 2023-11-29 |  |  |  |  |
-| 5.0.0 | 2023-09-24 |  |  |  |  |
-| 4.0.0 | 2023-07-28 |  |  |  |  |
-| 3.5.0 | 2023-02-12 |  |  |  |  |
-| 3.1.0 | 2022-12-06 |  |  |  |  |
-| 3.0.2 | 2022-11-20 |  |  |  |  |
-| 3.0.1 | 2022-11-10 |  |  |  |  |
-| 2.4.0 | 2022-08-27 |  |  |  |  |
-| 2.3.2 | 2022-08-10 |  |  |  |  |
-| 2.3.1 | 2022-07-24 |  |  |  |  |
-| 2.3.0 | 2022-07-13 |  |  |  |  |
-| 2.2.0 | 2022-06-28 |  |  |  |  |
-| 2.1.0 | 2022-06-19 |  |  |  |  |
-| 2.0.0 | 2022-06-18 |  |  |  |  |
-| 1.1.0 | 2022-06-10 |  |  |  |  |
-| 1.0.0 | 2022-06-03 |  |  |  |  |
-| 0.9.0 | 2022-05-30 |  |  |  |  |
+| 7.0 | 2024-05-25 | 3324 | 3479 | 3522 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Alexandria+<version>&body=###%20Engine%20name%0AAlexandria%0A%0A###%20Version%0A9.0" target="_blank">Submit new version</a>
@@ -48,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:22:21
+Generated: 2026-08-06 08:23:46
 
 ## Ratings Verlauf
 
