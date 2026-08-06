@@ -9,7 +9,6 @@ Home: https://github.com/AM-ML/Echo
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 1.0.1 | 2026-07-04 | 1982<sub>(+new) | 2236<sub>(+new) | 2268<sub>(+new) |  |
-| release-1.0.2 | 2026-07-04 |  |  |  |  |
 | 1.0.0 | 2025-12-20 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -26,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:24:41
+Generated: 2026-08-06 08:25:49
 
 
 
