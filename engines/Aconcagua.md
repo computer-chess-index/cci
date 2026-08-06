@@ -12,16 +12,7 @@ Home: https://github.com/gabtar/aconcagua
 | 5.1.0 | 2026-03-01 | 2179<sub>(+31) | 2439<sub>(+2) | 2557<sub>(+116) |  |
 | 5.0.0 | 2026-01-25 | 2148<sub>(+197) | 2437<sub>(+188) | 2441<sub>(+88) |  |
 | 4.1.0 | 2025-12-14 | 1951<sub>(+52) | 2249<sub>(+77) | 2353<sub>(+57) |  |
-| 4.0.0 | 2025-11-09 | 1899<sub>(+new) | 2172<sub>(+new) | 2296<sub>(+new) |  |
-| 3.4.0 | 2025-10-04 |  |  |  |  |
-| 3.3.0 | 2025-09-14 |  |  |  |  |
-| 3.2.0 | 2025-08-31 |  |  |  |  |
-| 3.1.0 | 2025-08-16 |  |  |  |  |
-| 3.0.0 | 2025-07-20 |  |  |  |  |
-| 2.1.0 | 2025-06-28 |  |  |  |  |
-| 2.0.0 | 2025-05-31 |  |  |  |  |
-| 1.1.0 | 2025-05-17 |  |  |  |  |
-| 1.0.0 | 2025-05-17 |  |  |  |  |
+| 4.0.0 | 2025-11-09 | 1899 | 2172 | 2296 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Aconcagua+<version>&body=###%20Engine%20name%0AAconcagua%0A%0A###%20Version%0A5.2.0" target="_blank">Submit new version</a>
@@ -37,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:22:09
+Generated: 2026-08-06 08:23:34
 
 ## Ratings Verlauf
 
