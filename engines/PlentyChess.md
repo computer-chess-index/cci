@@ -12,18 +12,9 @@ Home: https://github.com/Yoshie2000/PlentyChess
 | 7.0.0 | 2025-09-25 | 3425<sub>(+new) | 3552<sub>(+new) | 3551<sub>(+6) |  |
 | 6.0.2 | 2025-06-06 |  |  | 3545<sub>(+1) |  |
 | 5.0.0 | 2025-03-23 | 3355<sub>(+6) | 3519<sub>(+new) | 3544<sub>(+25) |  |
-| 4.0.1 | 2025-01-18 | 3349<sub>(+new) |  | 3519<sub>(+new) |  |
-| 4.0.0 | 2025-01-18 |  |  |  |  |
-| 3.0.2 | 2024-11-26 |  |  |  |  |
-| 3.0.1 | 2024-11-22 | 3283<sub>(+new) | 3425<sub>(+new) | 3515<sub>(+new) |  |
-| 3.0.0 | 2024-11-21 |  |  |  |  |
-| 2.1.0 | 2024-07-02 | 3314<sub>(+new) | 3457<sub>(+new) | 3492<sub>(+new) |  |
-| 2.0.0 | 2024-06-12 |  |  |  |  |
-| 1.0.0 | 2024-04-01 |  |  |  |  |
-| 0.3.0 | 2024-02-04 |  |  |  |  |
-| 0.2.1 | 2024-01-21 |  |  |  |  |
-| 0.2.0 | 2024-01-20 |  |  |  |  |
-| 0.1.0 | 2024-01-12 |  |  |  |  |
+| 4.0.1 | 2025-01-18 | 3349<sub>(+66) |  | 3519<sub>(+4) |  |
+| 3.0.1 | 2024-11-22 | 3283<sub>(-31) | 3425<sub>(-32) | 3515<sub>(+23) |  |
+| 2.1.0 | 2024-07-02 | 3314 | 3457 | 3492 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+PlentyChess+<version>&body=###%20Engine%20name%0APlentyChess%0A%0A###%20Version%0A8.0.0" target="_blank">Submit new version</a>
@@ -39,7 +30,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:27:53
+Generated: 2026-08-06 08:28:44
 
 ## Ratings Verlauf
 
