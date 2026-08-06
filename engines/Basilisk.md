@@ -24,7 +24,6 @@ Home: https://github.com/maelic13/basilisk
 | 1.4.4 | 2026-05-28 |  |  |  |  |
 | 1.4.3 | 2026-05-27 |  |  |  |  |
 | 1.4.2 | 2026-05-26 |  |  |  |  |
-| 1.4.1 | 2026-05-26 |  |  |  |  |
 | 1.4.0 | 2026-05-25 |  |  |  |  |
 | 1.3.0 | 2026-05-25 |  |  |  |  |
 | 1.2.3 | 2026-05-24 |  |  |  |  |
@@ -48,7 +47,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:23:02
+Generated: 2026-08-06 08:24:22
 
 ## Ratings Verlauf
 
