@@ -11,9 +11,7 @@ Home: https://github.com/enfmarinho/Minke
 | 6.0.0 | 2026-04-25 | 3146<sub>(+25) | 3359<sub>(+54) | 3418<sub>(+43) |  |
 | 5.0.0 | 2026-02-13 | 3121<sub>(+61) | 3305<sub>(+43) | 3375<sub>(+89) |  |
 | 4.0.0 | 2025-12-29 | 3060<sub>(+93) | 3262<sub>(+64) | 3286<sub>(+50) |  |
-| 3.0.0 | 2025-10-20 | 2967<sub>(+new) | 3198<sub>(+new) | 3236<sub>(+new) |  |
-| 2.0.0 | 2025-09-14 |  |  |  |  |
-| 1.0.0 | 2025-08-26 |  |  |  |  |
+| 3.0.0 | 2025-10-20 | 2967 | 3198 | 3236 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Minke+<version>&body=###%20Engine%20name%0AMinke%0A%0A###%20Version%0A6.0.0" target="_blank">Submit new version</a>
@@ -29,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:27:02
+Generated: 2026-08-06 08:28:01
 
 ## Ratings Verlauf
 
