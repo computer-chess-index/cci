@@ -8,20 +8,12 @@ Home: https://github.com/op12no2/lozza
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6 | 2026-02-13 |  |  |  |  |
-| 2 | 2026-02-13 |  |  |  |  |
 | 10 | 2026-01-17 | 2843<sub>(+244) | 3069<sub>(+177) | 3110<sub>(+121) |  |
 | 9 | 2026-01-10 | 2599<sub>(+16) | 2892<sub>(-13) | 2989<sub>(-32) |  |
-| 8 | 2025-09-25 | 2583<sub>(+new) | 2905<sub>(+new) | 3021<sub>(+new) |  |
-| 7 | 2025-07-12 |  |  |  |  |
-| 5.1 | 2025-06-02 |  |  |  |  |
-| 5 | 2025-02-25 |  |  |  |  |
-| 4 | 2025-01-06 |  |  |  |  |
-| 3 | 2024-10-06 |  |  |  |  |
-| 2.5 | 2023-02-10 |  |  |  |  |
+| 8 | 2025-09-25 | 2583 | 2905 | 3021 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Lozza+<version>&body=###%20Engine%20name%0ALozza%0A%0A###%20Version%0A6" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Lozza+<version>&body=###%20Engine%20name%0ALozza%0A%0A###%20Version%0A10" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -34,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:26:38
+Generated: 2026-08-06 08:27:39
 
 ## Ratings Verlauf
 
