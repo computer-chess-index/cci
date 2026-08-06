@@ -10,15 +10,7 @@ Home: https://github.com/feftywacky/Thrawn
 | --- | --- | --- | --- | --- | --- |
 | 3.1 | 2026-07-07 | 2878<sub>(+659) | 3170<sub>(+540) | 3258<sub>(+469) |  |
 | 3.0 | 2026-05-25 | 2219<sub>(-239) | 2630<sub>(-190) | 2789<sub>(-101) |  |
-| 2.2 | 2025-10-08 | 2458<sub>(+new) | 2820<sub>(+new) | 2890<sub>(+new) |  |
-| 2.1 | 2024-07-16 |  |  |  |  |
-| 2.0 | 2024-01-01 |  |  |  |  |
-| 1.1 | 2023-12-28 |  |  |  |  |
-| 1.0 | 2023-12-27 |  |  |  |  |
-| 0.6-beta | 2023-12-26 |  |  |  |  |
-| 0.5-beta | 2023-12-24 |  |  |  |  |
-| 0.4-beta | 2023-12-24 |  |  |  |  |
-| 0.3-beta | 2023-12-16 |  |  |  |  |
+| 2.2 | 2025-10-08 | 2458 | 2820 | 2890 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Thrawn+<version>&body=###%20Engine%20name%0AThrawn%0A%0A###%20Version%0A3.1" target="_blank">Submit new version</a>
@@ -34,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:33:32
+Generated: 2026-08-06 08:31:02
 
 ## Ratings Verlauf
 
