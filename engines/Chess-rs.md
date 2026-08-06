@@ -9,16 +9,8 @@ Home: https://github.com/tomcant/chess-rs
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 0.7.0 | 2025-12-31 | 1679<sub>(+10) | 1908<sub>(+57) | 2012<sub>(+40) |  |
-| 0.6.0 | 2025-11-11 | 1669<sub>(+new) | 1851<sub>(+new) | 1972<sub>(+new) |  |
-| 0.5.1 | 2025-11-04 |  |  |  | no public available .exe |
-| 0.5.0 | 2025-11-03 | 1570<sub>(+new) | 1782<sub>(+new) | 1879<sub>(+new) |  |
-| 0.4.2 | 2025-10-13 |  |  |  |  |
-| 0.4.1 | 2025-10-09 |  |  |  |  |
-| 0.4.0 | 2025-10-09 |  |  |  |  |
-| 0.3.0 | 2025-10-05 |  |  |  |  |
-| 0.2.0 | 2023-03-12 |  |  |  |  |
-| 0.1.1 | 2022-12-03 |  |  |  |  |
-| 0.1.0 | 2022-12-03 |  |  |  |  |
+| 0.6.0 | 2025-11-11 | 1669<sub>(+99) | 1851<sub>(+69) | 1972<sub>(+93) |  |
+| 0.5.0 | 2025-11-03 | 1570 | 1782 | 1879 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Chess-rs+<version>&body=###%20Engine%20name%0AChess-rs%0A%0A###%20Version%0A0.7.0" target="_blank">Submit new version</a>
@@ -34,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:23:46
+Generated: 2026-08-06 08:25:00
 
 ## Ratings Verlauf
 
