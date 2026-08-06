@@ -8,7 +8,7 @@ Home: https://github.com/amchess/Alexander
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 8.3 | 2026-04-01 | 3141<sub>(+1) | 3374<sub>(+25) | 3418<sub>(+13) |  |
+| 8.3 | 2026-04-01 | 3141<sub>(+1) | 3372<sub>(+23) | 3418<sub>(+13) |  |
 | 8.2 | 2026-03-23 | 3140<sub>(-26) | 3349<sub>(-8) | 3405<sub>(-12) |  |
 | 8.1 | 2026-03-16 | 3166<sub>(+39) | 3357<sub>(-11) | 3417<sub>(+11) |  |
 | 8.0 | 2026-03-10 | 3127<sub>(+new) | 3368<sub>(+new) | 3406<sub>(+new) |  |
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-05 06:22:18
+Generated: 2026-08-06 06:22:18
 
 ## Ratings Verlauf
 
@@ -52,7 +52,7 @@ xychart-beta
   y-axis "Elo Rating" 3100 --> 3500
   line "STC (8.0+0.08s)" [3127, 3166, 3140, 3141]
   line "STC (8.0+0.08s)" [3127, 3166, 3140, 3141]
-  line "LTC (60.0+0.60s)" [3368, 3357, 3349, 3374]
+  line "LTC (60.0+0.60s)" [3368, 3357, 3349, 3372]
   line "VLTC (2m24s+1.12s)" [3406, 3417, 3405, 3418]
   line "VLTC (2m24s+1.12s)" [3406, 3417, 3405, 3418]
 ```
@@ -67,9 +67,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 8.3 | VLTC <sub>(2m24s+1.12s)</sub> | 3418 | 23 | 486 | 49% | 3425 | 68% |
-| 8.3 | LTC <sub>(60.0+0.60s)</sub> | 3374 | 24 | 458 | 49% | 3383 | 67% |
-| 8.3 | STC <sub>(8.0+0.08s)</sub> | 3141 | 26 | 436 | 52% | 3128 | 48% |
+| 8.3 | VLTC <sub>(2m24s+1.12s)</sub> | 3418 | 23 | 490 | 49% | 3424 | 68% |
+| 8.3 | LTC <sub>(60.0+0.60s)</sub> | 3372 | 24 | 462 | 49% | 3383 | 67% |
+| 8.3 | STC <sub>(8.0+0.08s)</sub> | 3141 | 26 | 440 | 52% | 3128 | 48% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 8.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3405 | 26 | 380 | 49% | 3413 | 70% |
 | 8.2 | LTC <sub>(60.0+0.60s)</sub> | 3349 | 31 | 284 | 50% | 3348 | 62% |
