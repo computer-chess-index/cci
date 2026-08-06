@@ -9,16 +9,7 @@ Home: https://github.com/Quanticade/Quanticade
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 3.0 | 2025-12-15 | 3333<sub>(+47) | 3505<sub>(+45) | 3536<sub>(+35) |  |
-| 2.0 | 2025-05-21 | 3286<sub>(+new) | 3460<sub>(+new) | 3501<sub>(+new) |  |
-| 1.0 Fenrir | 2025-03-10 |  |  |  |  |
-| 1.2 Chimera | 2025-01-06 |  |  |  |  |
-| 1.1 Chimera | 2025-01-02 |  |  |  |  |
-| 1.0 Chimera | 2025-01-01 |  |  |  |  |
-| 0.9 Electra | 2024-10-26 |  |  |  |  |
-| 0.8.1 Aurora | 2024-09-11 |  |  |  |  |
-| 0.8 Aurora | 2024-08-23 |  |  |  |  |
-| 0.7 | 2024-07-19 |  |  |  |  |
-| 0.6b | 2024-07-09 |  |  |  |  |
+| 2.0 | 2025-05-21 | 3286 | 3460 | 3501 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Quanticade+<version>&body=###%20Engine%20name%0AQuanticade%0A%0A###%20Version%0A3.0" target="_blank">Submit new version</a>
@@ -34,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:28:29
+Generated: 2026-08-06 08:29:14
 
 ## Ratings Verlauf
 
