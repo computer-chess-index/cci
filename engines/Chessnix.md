@@ -8,12 +8,10 @@ Home: https://github.com/ericlangedijk/chessnix/
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.4 | 2026-04-28 | 2866<sub>(+new) | 3128<sub>(+new) | 3220<sub>(+new) |  |
-| 0.0 | 2026-02-25 |  |  |  |  |
+| 1.4 | 2026-04-28 | 2866<sub>(+12) | 3128<sub>(+74) | 3220<sub>(+66) |  |
 | 1.3 | 2026-02-15 | 2854<sub>(+255) | 3054<sub>(+292) | 3154<sub>(+224) |  |
 | 1.2 | 2025-12-12 | 2599<sub>(+285) | 2762<sub>(+169) | 2930<sub>(+264) |  |
-| 1.0 | 2025-11-08 | 2314<sub>(+new) | 2593<sub>(+new) | 2666<sub>(+new) | too many irregular games |
-| 0.1 | 2025-10-03 |  |  |  |  |
+| 1.0 | 2025-11-08 | 2314 | 2593 | 2666 | too many irregular games |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Chessnix+<version>&body=###%20Engine%20name%0AChessnix%0A%0A###%20Version%0A1.4" target="_blank">Submit new version</a>
@@ -29,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:23:55
+Generated: 2026-08-06 08:25:10
 
 ## Ratings Verlauf
 
