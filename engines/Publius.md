@@ -8,7 +8,7 @@ Home: https://github.com/nescitus/publius
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1 | 2025-12-31 | 2461<sub>(-365) | 2735<sub>(-362) | 2809<sub>(-314) |  |
+| 1.1 | 2025-12-31 | 2462<sub>(-364) | 2735<sub>(-362) | 2809<sub>(-314) |  |
 | 1.0 | 2025-10-19 | 2826 | 3097 | 3123 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-05 06:29:04
+Generated: 2026-08-06 06:28:22
 
 ## Ratings Verlauf
 
@@ -34,8 +34,8 @@ Generated: 2026-08-05 06:29:04
 xychart-beta
   x-axis ["1.0", "1.1"]
   y-axis "Elo Rating" 2400 --> 3200
-  line "STC (8.0+0.08s)" [2826, 2461]
-  line "STC (8.0+0.08s)" [2826, 2461]
+  line "STC (8.0+0.08s)" [2826, 2462]
+  line "STC (8.0+0.08s)" [2826, 2462]
   line "LTC (60.0+0.60s)" [3097, 2735]
   line "VLTC (2m24s+1.12s)" [3123, 2809]
   line "VLTC (2m24s+1.12s)" [3123, 2809]
@@ -53,9 +53,9 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2809 | 25 | 500 | 47% | 2835 | 36% |
 | 1.1 | LTC <sub>(60.0+0.60s)</sub> | 2735 | 26 | 488 | 49% | 2742 | 34% |
-| 1.1 | STC <sub>(8.0+0.08s)</sub> | 2461 | 23 | 642 | 50% | 2452 | 29% |
+| 1.1 | STC <sub>(8.0+0.08s)</sub> | 2462 | 23 | 646 | 50% | 2452 | 29% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3123 | 34 | 232 | 49% | 3133 | 57% |
 | 1.0 | LTC <sub>(60.0+0.60s)</sub> | 3097 | 34 | 248 | 52% | 3070 | 55% |
-| 1.0 | STC <sub>(8.0+0.08s)</sub> | 2826 | 36 | 232 | 53% | 2792 | 41% |
+| 1.0 | STC <sub>(8.0+0.08s)</sub> | 2826 | 36 | 232 | 53% | 2790 | 41% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
