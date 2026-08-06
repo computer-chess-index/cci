@@ -13,8 +13,6 @@ Home: https://github.com/CMCanavessi/facon
 | 1.4 | 2026-04-25 | 1993<sub>(+488) | 2280<sub>(+435) | 2340<sub>(+380) |  |
 | 1.3 | 2026-04-11 | 1505<sub>(+new) | 1845<sub>(+new) | 1960<sub>(+new) |  |
 | 1.2 | 2026-03-24 |  |  |  |  |
-| 1.1 | 2026-03-11 |  |  |  |  |
-| 1.0 | 2026-03-05 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Facon+<version>&body=###%20Engine%20name%0AFacon%0A%0A###%20Version%0A1.6" target="_blank">Submit new version</a>
@@ -30,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:25:00
+Generated: 2026-08-06 08:26:07
 
 ## Ratings Verlauf
 
