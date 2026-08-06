@@ -10,9 +10,7 @@ Home: https://github.com/all-c-a-p-s/Panda
 | --- | --- | --- | --- | --- | --- |
 | 2.0 | 2026-07-12 |  |  |  |  |
 | 1.2 | 2026-06-10 |  |  |  |  |
-| 1.1.1 | 2025-08-18 | 2705<sub>(+new) | 3060<sub>(+new) | 3047<sub>(+new) |  |
-| 1.1 | 2025-08-05 |  |  |  |  |
-| 1.0 | 2025-04-19 |  |  |  |  |
+| 1.1.1 | 2025-08-18 | 2705 | 3060 | 3047 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Panda+<version>&body=###%20Engine%20name%0APanda%0A%0A###%20Version%0A2.0" target="_blank">Submit new version</a>
@@ -28,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:27:36
+Generated: 2026-08-06 08:28:30
 
 
 
