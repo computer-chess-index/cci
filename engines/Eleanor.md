@@ -10,9 +10,7 @@ Home: https://github.com/rektdie/Eleanor
 | --- | --- | --- | --- | --- | --- |
 | 4.1 | 2026-04-21 | 3151<sub>(+39) | 3383<sub>(+21) | 3411<sub>(+25) |  |
 | 4.0 | 2026-04-18 | 3112<sub>(+95) | 3362<sub>(+119) | 3386<sub>(+74) |  |
-| 3.0 | 2025-12-05 | 3017<sub>(+new) | 3243<sub>(+new) | 3312<sub>(+new) |  |
-| 2.0 | 2025-08-23 |  |  |  |  |
-| 1.0 | 2025-06-02 |  |  |  |  |
+| 3.0 | 2025-12-05 | 3017 | 3243 | 3312 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Eleanor+<version>&body=###%20Engine%20name%0AEleanor%0A%0A###%20Version%0A4.1" target="_blank">Submit new version</a>
@@ -28,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:24:45
+Generated: 2026-08-06 08:25:53
 
 ## Ratings Verlauf
 
