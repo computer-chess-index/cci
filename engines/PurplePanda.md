@@ -9,15 +9,7 @@ Home: https://github.com/Jakob256/PurplePanda
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 21 | 2026-07-12 | 1705<sub>(+69) | 1991<sub>(+90) | 2075<sub>(+104) |  |
-| 20 | 2025-12-15 | 1636<sub>(+new) | 1901<sub>(+new) | 1971<sub>(+new) |  |
-| 19 | 2024-12-28 |  |  |  |  |
-| 18 | 2024-09-26 |  |  |  |  |
-| 17.0 | 2024-06-20 |  |  |  |  |
-| 16.0 | 2024-04-12 |  |  |  |  |
-| 15.0 | 2024-03-29 |  |  |  |  |
-| 14.0 | 2024-01-20 |  |  |  |  |
-| 13.0 | 2023-09-04 |  |  |  |  |
-| 12.0 | 2023-08-16 |  |  |  |  |
+| 20 | 2025-12-15 | 1636 | 1901 | 1971 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+PurplePanda+<version>&body=###%20Engine%20name%0APurplePanda%0A%0A###%20Version%0A21" target="_blank">Submit new version</a>
@@ -33,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:28:24
+Generated: 2026-08-06 08:29:10
 
 ## Ratings Verlauf
 
