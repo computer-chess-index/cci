@@ -16,9 +16,7 @@ Home: https://github.com/jszczerbinsky/zeppelin
 | 1.2.0 | 2026-02-09 | 1555<sub>(+66) | 1775<sub>(+98) | 1924<sub>(+120) |  |
 | 1.1.0 | 2026-02-03 | 1489<sub>(+323) | 1677<sub>(+118) | 1804<sub>(+187) |  |
 | 1.0.0 | 2026-02-01 | 1166<sub>(-30) | 1559<sub>(+148) | 1617<sub>(+110) |  |
-| 0.2.0 | 2025-11-16 | 1196<sub>(+new) | 1411<sub>(+new) | 1507<sub>(+new) |  |
-| 0.1.1 | 2025-10-12 |  |  |  |  |
-| 0.1.0 | 2025-10-11 |  |  |  |  |
+| 0.2.0 | 2025-11-16 | 1196 | 1411 | 1507 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Zeppelin+<version>&body=###%20Engine%20name%0AZeppelin%0A%0A###%20Version%0A1.5.0" target="_blank">Submit new version</a>
@@ -34,7 +32,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:36:28
+Generated: 2026-08-06 08:31:55
 
 ## Ratings Verlauf
 
