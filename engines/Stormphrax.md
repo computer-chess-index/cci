@@ -11,12 +11,7 @@ Home: https://github.com/Ciekce/Stormphrax
 | 8.0.0 | 2026-06-27 | 3380<sub>(+41) | 3536<sub>(+31) | 3569<sub>(+27) |  |
 | 7.0.0 | 2025-06-24 | 3339<sub>(+52) | 3505<sub>(+41) | 3542<sub>(+48) |  |
 | 6.0.0 | 2024-10-29 | 3287<sub>(+97) | 3464<sub>(+75) | 3494<sub>(+69) |  |
-| 5.0.0 | 2024-06-26 | 3190<sub>(+new) | 3389<sub>(+new) | 3425<sub>(+new) |  |
-| 4.1.0 | 2024-03-11 |  |  |  |  |
-| 4.0.0 | 2023-12-17 |  |  |  |  |
-| 3.0.0 | 2023-11-02 |  |  |  |  |
-| 2.0.0 | 2023-09-24 |  |  |  |  |
-| 1.0.0 | 2023-07-25 |  |  |  |  |
+| 5.0.0 | 2024-06-26 | 3190 | 3389 | 3425 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Stormphrax+<version>&body=###%20Engine%20name%0AStormphrax%0A%0A###%20Version%0A8.0.0" target="_blank">Submit new version</a>
@@ -32,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:29:59
+Generated: 2026-08-06 08:30:43
 
 ## Ratings Verlauf
 
