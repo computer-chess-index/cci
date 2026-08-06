@@ -10,15 +10,7 @@ Home: https://github.com/elcabesa/vajolet
 | --- | --- | --- | --- | --- | --- |
 | 3.2 | 2026-05-17 | 2849<sub>(+30) | 3114<sub>(+74) | 3160<sub>(+41) |  |
 | 3.1 | 2026-04-03 | 2819<sub>(+101) | 3040<sub>(+59) | 3119<sub>(+63) |  |
-| 3.0 | 2025-12-21 | 2718<sub>(+new) | 2981<sub>(+new) | 3056<sub>(+new) |  |
-| 2.8 | 2019-11-01 |  |  |  |  |
-| 2.7 | 2019-04-03 |  |  |  |  |
-| 2.6.2 | 2018-11-30 |  |  |  |  |
-| 2.6.1 | 2018-09-04 |  |  |  |  |
-| 2.6 | 2018-06-26 |  |  |  |  |
-| 2.5 | 2018-01-25 |  |  |  |  |
-| 2.4 | 2017-11-19 |  |  |  |  |
-| 2.3 | 2017-02-28 |  |  |  |  |
+| 3.0 | 2025-12-21 | 2718 | 2981 | 3056 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Vajolet2+<version>&body=###%20Engine%20name%0AVajolet2%0A%0A###%20Version%0A3.2" target="_blank">Submit new version</a>
@@ -34,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:33:53
+Generated: 2026-08-06 08:31:24
 
 ## Ratings Verlauf
 
