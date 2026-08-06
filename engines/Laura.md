@@ -11,8 +11,7 @@ Home: https://github.com/HansTibberio/Laura
 | 4.0.0 | 2026-05-09 | 1743<sub>(+181) | 1886<sub>(+198) | 1986<sub>(+185) |  |
 | 3.0.0 | 2026-04-29 | 1562<sub>(+213) | 1688<sub>(+32) | 1801<sub>(+120) |  |
 | 2.0.0 | 2026-04-23 | 1349<sub>(+60) | 1656<sub>(+187) | 1681<sub>(+281) |  |
-| 1.1.0 | 2026-01-26 | 1289<sub>(+new) | 1469<sub>(+new) | 1400<sub>(+new) |  |
-| 1.0.0 | 2025-05-30 |  |  |  |  |
+| 1.1.0 | 2026-01-26 | 1289 | 1469 | 1400 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Laura+<version>&body=###%20Engine%20name%0ALaura%0A%0A###%20Version%0A4.0.0" target="_blank">Submit new version</a>
@@ -28,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:26:27
+Generated: 2026-08-06 08:27:27
 
 ## Ratings Verlauf
 
