@@ -9,14 +9,6 @@ Home: https://github.com/Disservin/Smallbrain
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 7.0.0 | 2023-01-29 |  |  |  |  |
-| 6.0.0 | 2022-10-15 |  |  |  |  |
-| 5.0.0 | 2022-07-13 |  |  |  |  |
-| 4.0.0 | 2022-06-23 |  |  |  |  |
-| 3.0.0 | 2022-06-15 |  |  |  |  |
-| 2.0.0 | 2022-06-01 |  |  |  |  |
-| 1.2.0 | 2022-05-28 |  |  |  |  |
-| 1.1.0 | 2022-05-24 |  |  |  |  |
-| 1.0.0 | 2022-05-19 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Smallbrain+<version>&body=###%20Engine%20name%0ASmallbrain%0A%0A###%20Version%0A7.0.0" target="_blank">Submit new version</a>
@@ -32,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:29:40
+Generated: 2026-08-06 08:30:24
 
 
 
