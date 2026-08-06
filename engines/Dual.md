@@ -15,15 +15,7 @@ Home: https://github.com/DSTGU/Dual
 | 0.3.0 | 2026-05-23 |  |  |  |  |
 | 0.2.9 | 2026-05-19 | 1914<sub>(+226) | 2097<sub>(+242) | 2213<sub>(+291) |  |
 | 0.2.8 | 2026-05-15 | 1688<sub>(+99) | 1855<sub>(+32) | 1922<sub>(+71) |  |
-| 0.2.7 | 2026-05-11 | 1589<sub>(+new) | 1823<sub>(+new) | 1851<sub>(+new) |  |
-| 0.2.6 | 2024-11-29 |  |  |  |  |
-| 0.2.5 | 2024-11-26 |  |  |  |  |
-| 0.2.4 | 2024-11-24 |  |  |  |  |
-| 0.2.3 | 2024-11-22 |  |  |  |  |
-| 0.2.2 | 2024-11-22 |  |  |  |  |
-| 0.2.1 | 2024-11-20 |  |  |  |  |
-| 0.2.0 | 2024-11-19 |  |  |  |  |
-| 0.1.0 | 2024-11-19 |  |  |  |  |
+| 0.2.7 | 2026-05-11 | 1589 | 1823 | 1851 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Dual+<version>&body=###%20Engine%20name%0ADual%0A%0A###%20Version%0A0.4.1" target="_blank">Submit new version</a>
@@ -39,7 +31,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:24:36
+Generated: 2026-08-06 08:25:44
 
 ## Ratings Verlauf
 
