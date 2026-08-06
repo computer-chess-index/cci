@@ -12,16 +12,7 @@ Home: https://github.com/kevlu8/PZChessBot
 | 7.0 | 2026-05-07 | 3285<sub>(+95) | 3472<sub>(+61) | 3519<sub>(+52) |  |
 | 6.1 | 2026-02-01 | 3190<sub>(+34) | 3411<sub>(+62) | 3467<sub>(+57) |  |
 | 6.0 | 2026-01-01 | 3156<sub>(+120) | 3349<sub>(+122) | 3410<sub>(+152) |  |
-| 5.0 | 2025-10-19 | 3036<sub>(+new) | 3227<sub>(+new) | 3258<sub>(+new) |  |
-| 4.0 | 2025-10-03 |  |  |  |  |
-| 3.0 | 2025-07-02 |  |  |  |  |
-| 2.0 | 2025-06-17 |  |  |  |  |
-| 1.0 | 2025-04-20 |  |  |  |  |
-| 20250318T22 | 2025-03-19 |  |  |  |  |
-| 20250311T07 | 2025-03-11 |  |  |  |  |
-| 20250307T21 | 2025-03-08 |  |  |  |  |
-| 20250306T21 | 2025-03-07 |  |  |  |  |
-| 20250302T22 | 2025-03-04 |  |  |  |  |
+| 5.0 | 2025-10-19 | 3036 | 3227 | 3258 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+PZChessBot+<version>&body=###%20Engine%20name%0APZChessBot%0A%0A###%20Version%0A7.1" target="_blank">Submit new version</a>
@@ -37,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:28:27
+Generated: 2026-08-06 08:29:12
 
 ## Ratings Verlauf
 
