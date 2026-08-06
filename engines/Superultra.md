@@ -9,8 +9,7 @@ Home: https://github.com/A1exL1ang/Superultra
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 2.1 | 2025-04-10 |  |  |  |  |
-| 2.0 | 2024-02-02 | 3035<sub>(+new) | 3291<sub>(+new) | 3355<sub>(+new) |  |
-| 1.0 | 2023-06-12 |  |  |  |  |
+| 2.0 | 2024-02-02 | 3035 | 3291 | 3355 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Superultra+<version>&body=###%20Engine%20name%0ASuperultra%0A%0A###%20Version%0A2.1" target="_blank">Submit new version</a>
@@ -26,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:33:20
+Generated: 2026-08-06 08:30:51
 
 
 
