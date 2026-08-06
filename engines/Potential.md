@@ -10,9 +10,7 @@ Home: https://github.com/ProgramciDusunur/Potential
 | --- | --- | --- | --- | --- | --- |
 | unlocked | 2026-07-27 | 2743<sub>(+534) | 3086<sub>(+618) | 3129<sub>(+538) |  |
 | 1.1.0 | 2026-05-16 | 2209<sub>(-318) | 2468<sub>(-378) | 2591<sub>(-343) |  |
-| 3.0.0 | 2025-08-28 | 2527<sub>(+new) | 2846<sub>(+new) | 2934<sub>(+new) |  |
-| 2.0.0 | 2025-04-08 |  |  |  |  |
-| 1.0.0 | 2025-01-28 |  |  |  |  |
+| 3.0.0 | 2025-08-28 | 2527 | 2846 | 2934 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Potential+<version>&body=###%20Engine%20name%0APotential%0A%0A###%20Version%0Aunlocked" target="_blank">Submit new version</a>
@@ -28,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:28:03
+Generated: 2026-08-06 08:28:51
 
 ## Ratings Verlauf
 
