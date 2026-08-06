@@ -23,7 +23,7 @@ Home: https://github.com/PS-Wizard/OopsMate
 | 5.0 | 2026-01-31 |  |  |  |  |
 | 4.0 | 2026-01-31 |  |  |  |  |
 | 3.0 | 2026-01-31 |  |  |  |  |
-| 2.0 | 2026-01-30 | 1273<sub>(+new) | 1447<sub>(+new) | 1470<sub>(+new) |  |
+| 2.0 | 2026-01-30 | 1273<sub>(+new) | 1447<sub>(+new) | 1473<sub>(+new) |  |
 | 1.0 | 2026-01-30 |  |  |  |  |
 | 0.0.4 | 2025-11-23 | 1127<sub>(+new) | 1351<sub>(+new) | 1401<sub>(+new) |  |
 | 0.0.3 | 2025-11-13 |  |  |  |  |
@@ -45,7 +45,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-05 06:28:12
+Generated: 2026-08-06 06:27:34
 
 ## Ratings Verlauf
 
@@ -57,8 +57,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [1127, 1273]
   line "STC (8.0+0.08s)" [1127, 1273]
   line "LTC (60.0+0.60s)" [1351, 1447]
-  line "VLTC (2m24s+1.12s)" [1401, 1470]
-  line "VLTC (2m24s+1.12s)" [1401, 1470]
+  line "VLTC (2m24s+1.12s)" [1401, 1473]
+  line "VLTC (2m24s+1.12s)" [1401, 1473]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -71,9 +71,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1470 | 29 | 428 | 53% | 1440 | 30% |
+| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1473 | 28 | 430 | 53% | 1440 | 30% |
 | 2.0 | LTC <sub>(60.0+0.60s)</sub> | 1447 | 27 | 486 | 51% | 1430 | 28% |
-| 2.0 | STC <sub>(8.0+0.08s)</sub> | 1273 | 27 | 522 | 56% | 1158 | 27% |
+| 2.0 | STC <sub>(8.0+0.08s)</sub> | 1273 | 27 | 522 | 56% | 1160 | 27% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.0.4 | VLTC <sub>(2m24s+1.12s)</sub> | 1401 | 43 | 190 | 42% | 1546 | 34% |
 | 0.0.4 | LTC <sub>(60.0+0.60s)</sub> | 1351 | 41 | 200 | 45% | 1440 | 32% |
