@@ -14,20 +14,6 @@ Home: https://github.com/JonathanHallstrom/pawnocchio
 | 1.9.1 | 2026-01-12 | 3353<sub>(-11) | 3521<sub>(+18) | 3529<sub>(-11) |  |
 | 1.9 | 2026-01-03 | 3364<sub>(+new) | 3503<sub>(+new) | 3540<sub>(+new) |  |
 | 1.8.1 | 2025-07-25 |  |  |  |  |
-| 1.8 | 2025-07-22 |  |  |  |  |
-| 1.7.2 | 2025-06-15 |  |  |  |  |
-| 1.7.1 | 2025-06-02 |  |  |  |  |
-| 1.7 | 2025-05-31 |  |  |  |  |
-| 1.6.1 | 2025-05-15 |  |  |  |  |
-| 1.6 | 2025-04-27 |  |  |  |  |
-| 1.5 | 2025-04-18 |  |  |  |  |
-| 1.4.1 | 2025-04-05 |  |  |  |  |
-| 1.3.1415 | 2025-03-14 |  |  |  |  |
-| 1.3 | 2025-03-07 |  |  |  |  |
-| 1.2 | 2025-02-21 |  |  |  |  |
-| 1.1 | 2025-01-24 |  |  |  |  |
-| 1.0 | 2025-01-20 |  |  |  |  |
-| 0.9 | 2025-01-12 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Pawnocchio+<version>&body=###%20Engine%20name%0APawnocchio%0A%0A###%20Version%0A2.0.1" target="_blank">Submit new version</a>
@@ -43,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:27:38
+Generated: 2026-08-06 08:28:33
 
 ## Ratings Verlauf
 
