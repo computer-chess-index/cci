@@ -11,18 +11,7 @@ Home: https://github.com/tomcant/chess-rs
 | 1.3.0 | 2026-02-16 | 2142<sub>(+157) | 2417<sub>(+122) | 2485<sub>(+108) |  |
 | 1.2.0 | 2026-02-01 | 1985<sub>(+192) | 2295<sub>(+274) | 2377<sub>(+235) |  |
 | 1.1.0 | 2026-01-16 | 1793<sub>(+56) | 2021<sub>(+65) | 2142<sub>(+126) |  |
-| 1.0.0 | 2026-01-02 | 1737<sub>(+new) | 1956<sub>(+new) | 2016<sub>(+new) | Previously: chess-rs |
-| 0.7.0 | 2025-12-31 |  |  |  |  |
-| 0.6.0 | 2025-11-11 |  |  |  |  |
-| 0.5.1 | 2025-11-04 |  |  |  |  |
-| 0.5.0 | 2025-11-03 |  |  |  |  |
-| 0.4.2 | 2025-10-13 |  |  |  |  |
-| 0.4.1 | 2025-10-09 |  |  |  |  |
-| 0.4.0 | 2025-10-09 |  |  |  |  |
-| 0.3.0 | 2025-10-05 |  |  |  |  |
-| 0.2.0 | 2023-03-12 |  |  |  |  |
-| 0.1.1 | 2022-12-03 |  |  |  |  |
-| 0.1.0 | 2022-12-03 |  |  |  |  |
+| 1.0.0 | 2026-01-02 | 1737 | 1956 | 2016 | Previously: chess-rs |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Anodos+<version>&body=###%20Engine%20name%0AAnodos%0A%0A###%20Version%0A1.3.0" target="_blank">Submit new version</a>
@@ -38,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:22:36
+Generated: 2026-08-06 08:23:59
 
 ## Ratings Verlauf
 
