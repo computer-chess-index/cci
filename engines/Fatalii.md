@@ -9,21 +9,7 @@ Home: https://github.com/FitzOReilly/fatalii
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 0.10.1 | 2026-05-11 | 2267<sub>(+3) | 2510<sub>(-20) | 2588<sub>(-5) |  |
-| 0.10.0 | 2026-03-09 | 2264<sub>(+new) | 2530<sub>(+new) | 2593<sub>(+new) |  |
-| 0.9.0 | 2025-02-08 |  |  |  |  |
-| 0.8.0 | 2024-10-17 |  |  |  |  |
-| 0.7.0 | 2024-05-06 |  |  |  |  |
-| 0.6.1 | 2024-04-05 |  |  |  |  |
-| 0.6.0 | 2024-01-10 |  |  |  |  |
-| 0.5.0 | 2023-10-11 |  |  |  |  |
-| 0.4.0 | 2023-03-06 |  |  |  |  |
-| 0.3.1 | 2022-10-05 |  |  |  |  |
-| 0.3.0 | 2022-09-10 |  |  |  |  |
-| 0.2.1 | 2022-09-03 |  |  |  |  |
-| 0.2.0 | 2022-05-15 |  |  |  |  |
-| 0.1.2 | 2022-04-16 |  |  |  |  |
-| 0.1.1 | 2022-02-21 |  |  |  |  |
-| 0.1.0 | 2022-02-12 |  |  |  |  |
+| 0.10.0 | 2026-03-09 | 2264 | 2530 | 2593 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Fatalii+<version>&body=###%20Engine%20name%0AFatalii%0A%0A###%20Version%0A0.10.1" target="_blank">Submit new version</a>
@@ -39,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:25:02
+Generated: 2026-08-06 08:26:10
 
 ## Ratings Verlauf
 
