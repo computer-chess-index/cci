@@ -9,10 +9,7 @@ Home: https://github.com/FauziAkram/amira
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 1.82 | 2026-01-02 | 2286<sub>(+110) | 2520<sub>(+102) | 2616<sub>(+158) |  |
-| 1.71 | 2025-10-30 | 2176<sub>(+new) | 2418<sub>(+new) | 2458<sub>(+new) |  |
-| 1.61 | 2025-09-08 |  |  |  |  |
-| 1.4 | 2025-07-24 |  |  |  |  |
-| 1.00 | 2025-06-29 |  |  |  |  |
+| 1.71 | 2025-10-30 | 2176 | 2418 | 2458 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Amira+<version>&body=###%20Engine%20name%0AAmira%0A%0A###%20Version%0A1.82" target="_blank">Submit new version</a>
@@ -28,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:22:28
+Generated: 2026-08-06 08:23:53
 
 ## Ratings Verlauf
 
