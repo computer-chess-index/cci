@@ -10,12 +10,7 @@ Home: https://github.com/JVMerlino/Myrddin
 | --- | --- | --- | --- | --- | --- |
 | 0.96 | 2026-06-08 | 2742<sub>(+126) | 3050<sub>(+118) | 3108<sub>(+97) |  |
 | 0.95 | 2026-04-23 | 2616<sub>(+32) | 2932<sub>(+13) | 3011<sub>(-36) |  |
-| 0.94 | 2025-12-11 | 2584<sub>(+new) | 2919<sub>(+new) | 3047<sub>(+new) |  |
-| 0.93 | 2025-04-23 |  |  |  |  |
-| 0.92 | 2024-12-08 |  |  |  |  |
-| 0.91 | 2024-10-19 |  |  |  |  |
-| 0.90 | 2023-06-12 |  |  |  |  |
-| 0.89 | 2023-03-10 |  |  |  |  |
+| 0.94 | 2025-12-11 | 2584 | 2919 | 3047 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Myrddin+<version>&body=###%20Engine%20name%0AMyrddin%0A%0A###%20Version%0A0.96" target="_blank">Submit new version</a>
@@ -31,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:27:10
+Generated: 2026-08-06 08:28:06
 
 ## Ratings Verlauf
 
