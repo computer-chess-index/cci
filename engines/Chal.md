@@ -13,10 +13,7 @@ Home: https://github.com/namanthanki/chal
 | 1.3.2 | 2026-03-14 | 2037<sub>(+28) | 2349<sub>(+26) | 2375<sub>(+3) |  |
 | 1.3.1 | 2026-03-10 | 2009<sub>(+153) | 2323<sub>(+112) | 2372<sub>(+135) |  |
 | 1.3.0 | 2026-03-08 | 1856<sub>(+185) | 2211<sub>(+309) | 2237<sub>(+238) |  |
-| 1.2.1 | 2026-03-07 | 1671<sub>(+new) | 1902<sub>(+new) | 1999<sub>(+new) |  |
-| 1.2.0 | 2026-03-05 |  |  |  |  |
-| 1.1.0 | 2026-03-05 |  |  |  |  |
-| 1.0.0 | 2026-03-05 |  |  |  |  |
+| 1.2.1 | 2026-03-07 | 1671 | 1902 | 1999 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Chal+<version>&body=###%20Engine%20name%0AChal%0A%0A###%20Version%0A1.4.1" target="_blank">Submit new version</a>
@@ -32,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:23:37
+Generated: 2026-08-06 08:24:53
 
 ## Ratings Verlauf
 
