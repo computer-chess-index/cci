@@ -10,10 +10,7 @@ Home: https://github.com/ppipelin/radiance
 | --- | --- | --- | --- | --- | --- |
 | 4.4 | 2026-04-23 | 1706<sub>(+41) | 2061<sub>(+118) | 2184<sub>(+97) |  |
 | 4.3 | 2026-03-25 | 1665<sub>(+91) | 1943<sub>(+104) | 2087<sub>(+201) |  |
-| 4.2 | 2026-01-17 | 1574<sub>(+new) | 1839<sub>(+new) | 1886<sub>(+new) |  |
-| 4.1 | 2025-08-16 |  |  |  |  |
-| 4.0.1 | 2025-04-17 |  |  |  |  |
-| 4.0 | 2025-04-16 |  |  |  |  |
+| 4.2 | 2026-01-17 | 1574 | 1839 | 1886 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Radiance+<version>&body=###%20Engine%20name%0ARadiance%0A%0A###%20Version%0A4.4" target="_blank">Submit new version</a>
@@ -29,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:28:34
+Generated: 2026-08-06 08:29:19
 
 ## Ratings Verlauf
 
