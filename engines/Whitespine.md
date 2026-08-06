@@ -10,10 +10,7 @@ Home: https://github.com/maelic13/whitespine
 | --- | --- | --- | --- | --- | --- |
 | 1.4.0 | 2026-04-29 | 679<sub>(-174) | 876<sub>(-138) | 1011<sub>(-7) |  |
 | 1.3.3 | 2026-03-26 | 853<sub>(+70) | 1014<sub>(-40) | 1018<sub>(-17) |  |
-| 1.3.2 | 2025-09-16 | 783<sub>(+new) | 1054<sub>(+new) | 1035<sub>(+new) |  |
-| 1.3.1 | 2025-06-08 |  |  |  |  |
-| 1.3.0 | 2025-05-11 |  |  |  |  |
-| 1.2.0 | 2025-05-11 |  |  |  |  |
+| 1.3.2 | 2025-09-16 | 783 | 1054 | 1035 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Whitespine+<version>&body=###%20Engine%20name%0AWhitespine%0A%0A###%20Version%0A1.4.0" target="_blank">Submit new version</a>
@@ -29,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:36:11
+Generated: 2026-08-06 08:31:38
 
 ## Ratings Verlauf
 
