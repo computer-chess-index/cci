@@ -9,15 +9,6 @@ Home: https://github.com/chris-moreton/rivalchess-uci
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 40.0.0 | 2026-01-11 |  |  |  | Loses on time |
-| 37.0.0 | 2026-01-11 |  |  |  |  |
-| 39.0.0-1 | 2020-11-15 |  |  |  |  |
-| 36.0.0-1 | 2020-10-31 |  |  |  |  |
-| 32.0.11-1 | 2020-09-30 |  |  |  |  |
-| 32.0.0-1 | 2020-09-24 |  |  |  |  |
-| 31.0.5-1 | 2020-09-12 |  |  |  |  |
-| 31.0.4-1 | 2020-09-11 |  |  |  |  |
-| 31.0.2-1 | 2020-09-11 |  |  |  |  |
-| 31.0.0 | 2020-09-09 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+RivalChess+<version>&body=###%20Engine%20name%0ARivalChess%0A%0A###%20Version%0A40.0.0" target="_blank">Submit new version</a>
@@ -33,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:29:01
+Generated: 2026-08-06 08:29:45
 
 
 
