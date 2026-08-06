@@ -9,12 +9,6 @@ Home: https://github.com/xu-shawn/Serendipity
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 1.0 | 2025-01-09 |  |  |  |  |
-| 0.4.1 | 2024-08-21 |  |  |  |  |
-| 0.4 | 2024-08-15 |  |  |  |  |
-| 0.3.1 | 2024-07-07 |  |  |  |  |
-| 0.3 | 2024-07-02 |  |  |  |  |
-| 0.2 | 2024-05-31 |  |  |  |  |
-| 0.1 | 2024-03-28 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Serendipity+<version>&body=###%20Engine%20name%0ASerendipity%0A%0A###%20Version%0A1.0" target="_blank">Submit new version</a>
@@ -30,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:29:32
+Generated: 2026-08-06 08:30:16
 
 
 
