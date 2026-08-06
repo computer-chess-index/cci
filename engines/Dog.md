@@ -10,13 +10,6 @@ Home: https://github.com/folkertvanheusden/Dog
 | --- | --- | --- | --- | --- | --- |
 | 4.10.2 | 2025-12-05 | 2795<sub>(+new) | 3024<sub>(+new) | 3083<sub>(+new) |  |
 | 3.51b | 2025-09-24 |  |  |  |  |
-| 3.11 | 2025-09-11 |  |  |  |  |
-| 3.4 | 2025-09-10 |  |  |  |  |
-| 3.0 | 2025-01-20 |  |  |  |  |
-| 2.8 | 2025-01-09 |  |  |  |  |
-| 2.7 | 2025-01-05 |  |  |  |  |
-| 2.4 | 2024-12-16 |  |  |  |  |
-| 2.0 | 2023-08-16 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Dog+<version>&body=###%20Engine%20name%0ADog%0A%0A###%20Version%0A4.10.2" target="_blank">Submit new version</a>
@@ -32,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:24:31
+Generated: 2026-08-06 08:25:42
 
 
 
