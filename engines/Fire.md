@@ -9,22 +9,7 @@ Home: https://github.com/Firefather/fire
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 10.0 | 2025-08-09 | 3139<sub>(+3) | 3367<sub>(+5) | 3417<sub>(+1) |  |
-| 9.3 | 2024-03-10 | 3136<sub>(+new) | 3362<sub>(+new) | 3416<sub>(+new) |  |
-| 9.2 | 2023-11-12 |  |  |  |  |
-| 9.1 | 2023-11-08 |  |  |  |  |
-| 9.0 | 2023-06-05 |  |  |  |  |
-| 05192023 | 2023-05-20 |  |  |  |  |
-| 05172023 | 2023-05-17 |  |  |  |  |
-| 10262022 | 2022-10-26 |  |  |  |  |
-| 10072022 | 2022-10-07 |  |  |  |  |
-| 09282022 | 2022-09-28 |  |  |  |  |
-| 09202022 | 2022-09-20 |  |  |  |  |
-| 09112022 | 2022-09-11 |  |  |  |  |
-| 09022022 | 2022-09-02 |  |  |  |  |
-| 08222022 | 2022-08-23 |  |  |  |  |
-| 08132022 | 2022-08-14 |  |  |  |  |
-| 08072022 | 2022-08-10 |  |  |  |  |
-| 08032022 | 2022-08-04 |  |  |  |  |
+| 9.3 | 2024-03-10 | 3136 | 3362 | 3416 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Fire+<version>&body=###%20Engine%20name%0AFire%0A%0A###%20Version%0A10.0" target="_blank">Submit new version</a>
@@ -40,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:25:05
+Generated: 2026-08-06 08:26:12
 
 ## Ratings Verlauf
 
