@@ -22,12 +22,7 @@ Home: https://github.com/znxftw/rudim
 | 2.1.1 | 2026-05-16 | 1716<sub>(-12) | 1972<sub>(+31) | 2071<sub>(+130) |  |
 | 2.1.0 | 2026-05-14 | 1728<sub>(+81) | 1941<sub>(+33) | 1941<sub>(-7) |  |
 | 2.0.0 | 2026-05-03 | 1647<sub>(+61) | 1908<sub>(+71) | 1948<sub>(-3) |  |
-| 1.5 | 2026-04-28 | 1586<sub>(+new) | 1837<sub>(+new) | 1951<sub>(+new) |  |
-| 1.4.1 | 2024-12-18 |  |  |  |  |
-| 1.3 | 2024-12-05 |  |  |  |  |
-| 1.2 | 2022-02-24 |  |  |  |  |
-| 1.1 | 2022-02-07 |  |  |  |  |
-| 1.0 | 2022-02-06 |  |  |  |  |
+| 1.5 | 2026-04-28 | 1586 | 1837 | 1951 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Rudim+<version>&body=###%20Engine%20name%0ARudim%0A%0A###%20Version%0A3.0.5" target="_blank">Submit new version</a>
@@ -43,7 +38,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:29:11
+Generated: 2026-08-06 08:29:55
 
 ## Ratings Verlauf
 
