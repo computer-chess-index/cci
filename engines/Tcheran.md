@@ -14,21 +14,7 @@ Home: https://github.com/tcheran-chess/tcheran
 | 10.0 | 2025-12-28 | 3128<sub>(+117) | 3313<sub>(+131) | 3375<sub>(+140) |  |
 | 9.0 | 2025-12-08 | 3011<sub>(+77) | 3182<sub>(+50) | 3235<sub>(+53) |  |
 | 8.0 | 2025-11-27 | 2934<sub>(+180) | 3132<sub>(+148) | 3182<sub>(+126) |  |
-| 7.0 | 2025-11-07 | 2754<sub>(+new) | 2984<sub>(+new) | 3056<sub>(+new) |  |
-| 6.0 | 2025-10-21 |  |  |  |  |
-| 5.1 | 2025-01-01 |  |  |  |  |
-| 5.0 | 2024-12-05 |  |  |  |  |
-| 4.1 | 2024-11-24 |  |  |  |  |
-| 4.0 | 2024-10-18 |  |  |  |  |
-| 3.0 | 2024-09-09 |  |  |  |  |
-| 2.5 | 2024-07-25 |  |  |  |  |
-| 2.4 | 2024-07-08 |  |  |  |  |
-| 2.3 | 2024-05-09 |  |  |  |  |
-| 2.2 | 2024-04-09 |  |  |  |  |
-| 2.1 | 2024-01-25 |  |  |  |  |
-| 2.0 | 2024-01-18 |  |  |  |  |
-| 1.1 | 2024-01-08 |  |  |  |  |
-| 1.0 | 2023-12-07 |  |  |  |  |
+| 7.0 | 2025-11-07 | 2754 | 2984 | 3056 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Tcheran+<version>&body=###%20Engine%20name%0ATcheran%0A%0A###%20Version%0A13.0" target="_blank">Submit new version</a>
@@ -44,7 +30,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:33:28
+Generated: 2026-08-06 08:30:58
 
 ## Ratings Verlauf
 
