@@ -9,17 +9,8 @@ Home: https://github.com/GediminasMasaitis/4k-dot-c
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 9.0 | 2026-06-06 | 2529<sub>(-47) | 2846<sub>(+42) | 2951<sub>(+17) |  |
-| 8.0 | 2026-03-10 | 2576<sub>(+new) | 2804<sub>(+new) | 2934<sub>(+new) |  |
-| 6.0 | 2026-03-10 |  |  |  |  |
-| 5.0 | 2025-10-30 | 2472<sub>(+new) | 2777<sub>(+new) | 2849<sub>(+new) |  |
-| 4.41 | 2025-08-15 |  |  |  |  |
-| 4.0 | 2025-08-15 |  |  |  |  |
-| 3.0 | 2025-08-15 |  |  |  |  |
-| 2.0 | 2025-08-15 |  |  |  |  |
-| 1.0 | 2025-08-15 |  |  |  |  |
-| 0.99 | 2025-02-09 |  |  |  |  |
-| 0.69 | 2024-11-06 |  |  |  |  |
-| 0.50 | 2024-10-15 |  |  |  |  |
+| 8.0 | 2026-03-10 | 2576<sub>(+104) | 2804<sub>(+27) | 2934<sub>(+85) |  |
+| 5.0 | 2025-10-30 | 2472 | 2777 | 2849 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+4kc+<version>&body=###%20Engine%20name%0A4kc%0A%0A###%20Version%0A9.0" target="_blank">Submit new version</a>
@@ -35,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:22:03
+Generated: 2026-08-06 08:23:31
 
 ## Ratings Verlauf
 
