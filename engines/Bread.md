@@ -10,7 +10,7 @@ Home: https://github.com/Nonlinear2/Bread-Engine
 | --- | --- | --- | --- | --- | --- |
 | 4.0.0 | 2026-07-29 |  |  |  |  |
 | 3.1.0 | 2026-05-22 |  |  |  |  |
-| 3.0.0 | 2026-03-15 | 3093<sub>(+108) | 3299<sub>(+105) | 3375<sub>(+131) |  |
+| 3.0.0 | 2026-03-15 | 3093<sub>(+108) | 3301<sub>(+107) | 3375<sub>(+131) |  |
 | 2.1.1 | 2025-12-22 | 2985<sub>(+new) | 3194<sub>(+new) | 3244<sub>(+new) |  |
 | 2.1.0 | 2025-12-21 |  |  |  | always disconnects |
 | 2.0.0 | 2025-10-18 | 2851<sub>(+new) | 3105<sub>(+new) | 3141<sub>(+new) |  |
@@ -46,7 +46,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-05 06:23:19
+Generated: 2026-08-06 06:23:17
 
 ## Ratings Verlauf
 
@@ -57,7 +57,7 @@ xychart-beta
   y-axis "Elo Rating" 2800 --> 3400
   line "STC (8.0+0.08s)" [2851, 2985, 3093]
   line "STC (8.0+0.08s)" [2851, 2985, 3093]
-  line "LTC (60.0+0.60s)" [3105, 3194, 3299]
+  line "LTC (60.0+0.60s)" [3105, 3194, 3301]
   line "VLTC (2m24s+1.12s)" [3141, 3244, 3375]
   line "VLTC (2m24s+1.12s)" [3141, 3244, 3375]
 ```
@@ -72,8 +72,8 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3375 | 24 | 444 | 50% | 3376 | 73% |
-| 3.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3299 | 25 | 404 | 51% | 3293 | 73% |
+| 3.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3375 | 23 | 448 | 50% | 3376 | 74% |
+| 3.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3301 | 25 | 408 | 51% | 3293 | 73% |
 | 3.0.0 | STC <sub>(8.0+0.08s)</sub> | 3093 | 23 | 508 | 50% | 3092 | 58% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3244 | 30 | 294 | 50% | 3241 | 61% |
