@@ -9,14 +9,7 @@ Home: https://github.com/oozturk777/ynode
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 0234 | 2026-03-22 | 3121<sub>(-10) | 3335<sub>(+25) | 3384<sub>(+25) |  |
-| 0219 | 2025-11-16 | 3131<sub>(+new) | 3310<sub>(+new) | 3359<sub>(+new) |  |
-| 0215 | 2025-09-28 |  |  |  |  |
-| 0213 | 2025-08-24 |  |  |  |  |
-| 0144 | 2025-08-01 |  |  |  |  |
-| 0177 | 2025-08-01 |  |  |  |  |
-| 0189 | 2025-08-01 |  |  |  |  |
-| 0194 | 2025-08-01 |  |  |  |  |
-| 0204 | 2025-08-01 |  |  |  |  |
+| 0219 | 2025-11-16 | 3131 | 3310 | 3359 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Ynode+<version>&body=###%20Engine%20name%0AYnode%0A%0A###%20Version%0A0234" target="_blank">Submit new version</a>
@@ -32,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:36:18
+Generated: 2026-08-06 08:31:45
 
 ## Ratings Verlauf
 
