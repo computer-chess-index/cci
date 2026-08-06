@@ -10,13 +10,7 @@ Home: https://github.com/aywrite/arche
 | --- | --- | --- | --- | --- | --- |
 | 0.3.9 | 2026-08-04 |  |  |  |  |
 | 0.3.8 | 2026-08-01 | 1443<sub>(+66) | 1586<sub>(-16) | 1648<sub>(0) |  |
-| 0.3.7 | 2026-07-31 | 1377<sub>(+new) | 1602<sub>(+new) | 1648<sub>(+new) |  |
-| 0.3.6 | 2022-10-04 |  |  |  |  |
-| 0.3.5 | 2022-09-25 |  |  |  |  |
-| 0.3.4 | 2022-09-20 |  |  |  |  |
-| 0.3.3 | 2022-09-17 |  |  |  |  |
-| 0.3.2 | 2022-09-17 |  |  |  |  |
-| 0.3.0 | 2022-09-16 |  |  |  |  |
+| 0.3.7 | 2026-07-31 | 1377 | 1602 | 1648 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Arche+<version>&body=###%20Engine%20name%0AArche%0A%0A###%20Version%0A0.3.9" target="_blank">Submit new version</a>
@@ -32,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:22:48
+Generated: 2026-08-06 08:24:09
 
 ## Ratings Verlauf
 
