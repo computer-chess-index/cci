@@ -9,14 +9,8 @@ Home: https://github.com/martinnovaak/motor
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 0.9.0 | 2025-06-02 | 3324<sub>(+11) | 3487<sub>(+22) | 3521<sub>(+22) |  |
-| 0.8.0 | 2024-10-28 | 3313<sub>(+new) | 3465<sub>(+new) | 3499<sub>(+new) |  |
-| 0.7.0 | 2024-08-11 |  |  |  |  |
-| 0.60 | 2024-06-30 | 3198<sub>(+new) | 3399<sub>(+new) | 3428<sub>(+new) |  |
-| 0.5.0 | 2024-05-23 |  |  |  |  |
-| 0.4.0 | 2024-04-18 |  |  |  |  |
-| 0.3.0 | 2024-03-30 |  |  |  |  |
-| 0.2.0 | 2024-03-09 |  |  |  |  |
-| 0.1.0 | 2024-02-18 |  |  |  |  |
+| 0.8.0 | 2024-10-28 | 3313<sub>(+115) | 3465<sub>(+66) | 3499<sub>(+71) |  |
+| 0.60 | 2024-06-30 | 3198 | 3399 | 3428 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Motor+<version>&body=###%20Engine%20name%0AMotor%0A%0A###%20Version%0A0.9.0" target="_blank">Submit new version</a>
@@ -32,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:27:07
+Generated: 2026-08-06 08:28:04
 
 ## Ratings Verlauf
 
