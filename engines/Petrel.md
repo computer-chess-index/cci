@@ -8,28 +8,14 @@ Home: https://github.com/AleksPeshkov/petrel
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.0 | 2026-08-04 |  |  |  |  |
-| 4.0 | 2026-08-04 | 3125<sub>(+new) | 3343<sub>(+new) | 3349<sub>(+new) |  |
-| 4.0 | 2026-08-04 |  |  |  |  |
-| 4.0 | 2026-08-04 |  |  |  |  |
-| 4.0 | 2026-08-04 |  |  |  |  |
-| 4.0 | 2026-08-04 |  |  |  |  |
-| 3.5 | 2026-06-02 | 3009<sub>(+new) | 3182<sub>(+new) | 3258<sub>(+new) |  |
-| 3.4 | 2026-03-19 |  |  |  |  |
-| 2.4 | 2026-03-19 |  |  |  |  |
-| 3.3.1 | 2026-02-10 | 2912<sub>(+new) | 3131<sub>(+new) | 3162<sub>(+new) |  |
-| 2.3.1 | 2026-02-10 |  |  |  |  |
-| 3.3 | 2026-02-09 | 2938<sub>(+new) | 3159<sub>(+new) | 3181<sub>(+new) |  |
-| 2.3 | 2026-02-09 |  |  |  |  |
-| 2.2 | 2025-12-27 |  |  |  | Rerelease |
+| 4.0 | 2026-08-04 | 3125<sub>(+116) | 3343<sub>(+161) | 3349<sub>(+91) |  |
+| 3.5 | 2026-06-02 | 3009<sub>(+97) | 3182<sub>(+51) | 3258<sub>(+96) |  |
+| 3.3.1 | 2026-02-10 | 2912<sub>(-26) | 3131<sub>(-28) | 3162<sub>(-19) |  |
+| 3.3 | 2026-02-09 | 2938<sub>(+31) | 3159<sub>(+58) | 3181<sub>(+26) |  |
 | 3.2 | 2025-12-21 | 2907<sub>(+87) | 3101<sub>(+99) | 3155<sub>(+68) |  |
 | 3.1 | 2025-11-28 | 2820<sub>(+75) | 3002<sub>(+71) | 3087<sub>(+133) |  |
 | 3.0 | 2025-11-26 | 2745<sub>(+534) | 2931<sub>(+533) | 2954<sub>(+483) |  |
-| 2.1 | 2025-10-13 | 2211<sub>(+new) | 2398<sub>(+new) | 2471<sub>(+new) |  |
-| 1,4.1 | 2025-10-10 |  |  |  |  |
-| 1,3,1 | 2025-09-13 |  |  |  |  |
-| 1,2 | 2025-09-08 |  |  |  |  |
-| 1.0 | 2025-08-14 |  |  |  |  |
+| 2.1 | 2025-10-13 | 2211 | 2398 | 2471 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Petrel+<version>&body=###%20Engine%20name%0APetrel%0A%0A###%20Version%0A4.0" target="_blank">Submit new version</a>
@@ -45,7 +31,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:27:50
+Generated: 2026-08-06 08:28:42
 
 ## Ratings Verlauf
 
