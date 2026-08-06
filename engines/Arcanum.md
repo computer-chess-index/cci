@@ -9,19 +9,7 @@ Home: https://github.com/LarsAur/Arcanum
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 2.8 | 2026-05-16 | 2904<sub>(+16) | 3214<sub>(+24) | 3278<sub>(+27) |  |
-| 2.7 | 2025-10-18 | 2888<sub>(+new) | 3190<sub>(+new) | 3251<sub>(+new) |  |
-| 2.6 | 2025-07-19 |  |  |  |  |
-| 2.5 | 2025-03-03 |  |  |  |  |
-| 2.4 | 2024-11-30 |  |  |  |  |
-| 2.3.1 | 2024-09-25 |  |  |  |  |
-| 2.3 | 2024-09-18 |  |  |  |  |
-| 2.2 | 2024-07-20 |  |  |  |  |
-| 2.1 | 2024-05-17 |  |  |  |  |
-| 2.0 | 2024-05-02 |  |  |  |  |
-| 1.12 | 2024-01-31 |  |  |  |  |
-| 1.11.1 | 2023-11-21 |  |  |  |  |
-| 1.11 | 2023-11-17 |  |  |  |  |
-| 1.10 | 2023-10-22 |  |  |  |  |
+| 2.7 | 2025-10-18 | 2888 | 3190 | 3251 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Arcanum+<version>&body=###%20Engine%20name%0AArcanum%0A%0A###%20Version%0A2.8" target="_blank">Submit new version</a>
@@ -37,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:22:45
+Generated: 2026-08-06 08:24:06
 
 ## Ratings Verlauf
 
