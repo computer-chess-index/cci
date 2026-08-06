@@ -9,7 +9,6 @@ Home: https://github.com/KristianEkman/ZeroG
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 1.0.2 | 2026-07-14 | 2152<sub>(+new) | 2484<sub>(+new) | 2572<sub>(+new) |  |
-| 1.0.1 | 2026-07-12 |  |  |  |  |
 | 1.0.0 | 2026-06-27 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -26,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:36:31
+Generated: 2026-08-06 08:31:57
 
 
 
