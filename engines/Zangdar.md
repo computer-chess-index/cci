@@ -12,19 +12,7 @@ Home: https://github.com/Carbecq/Zangdar
 | 6.1.1 | 2026-02-25 | 3191<sub>(+55) | 3366<sub>(+6) | 3391<sub>(-31) |  |
 | 6.1 | 2026-02-10 | 3136<sub>(+1) | 3360<sub>(+17) | 3422<sub>(+27) |  |
 | 6 | 2026-02-07 | 3135<sub>(+12) | 3343<sub>(+4) | 3395<sub>(+15) |  |
-| 5.00.02 | 2025-09-24 | 3123<sub>(+new) | 3339<sub>(+new) | 3380<sub>(+new) |  |
-| 5.00.01 | 2025-09-23 |  |  |  |  |
-| 5 | 2025-09-22 |  |  |  |  |
-| 4.04.01 | 2025-08-31 |  |  |  |  |
-| 4.04 | 2025-06-16 |  |  |  |  |
-| 4.01 | 2025-05-17 |  |  |  |  |
-| 3.04 | 2024-12-27 |  |  |  |  |
-| 2.31.04 | 2024-12-08 |  |  |  |  |
-| 2.31 | 2024-11-15 |  |  |  |  |
-| 2.30 | 2024-08-25 |  |  |  |  |
-| 2.29.01 | 2024-05-11 |  |  |  |  |
-| 2.29 | 2024-05-07 |  |  |  |  |
-| 2.27.08 | 2024-03-10 |  |  |  |  |
+| 5.00.02 | 2025-09-24 | 3123 | 3339 | 3380 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Zangdar+<version>&body=###%20Engine%20name%0AZangdar%0A%0A###%20Version%0A7" target="_blank">Submit new version</a>
@@ -40,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:36:23
+Generated: 2026-08-06 08:31:50
 
 ## Ratings Verlauf
 
