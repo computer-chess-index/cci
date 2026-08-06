@@ -8,28 +8,9 @@ Home: https://github.com/PS-Wizard/OopsMate
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0 | 2026-05-12 |  |  |  |  |
-| 16.0 | 2026-02-06 |  |  |  |  |
-| 15.0 | 2026-02-06 |  |  |  | eval pending* |
-| 14.0 | 2026-02-06 |  |  |  |  |
-| 13.0 | 2026-02-05 |  |  |  |  |
-| 12.0 | 2026-02-05 |  |  |  |  |
-| 11.0 | 2026-02-04 |  |  |  |  |
-| 10.0 | 2026-02-03 |  |  |  |  |
-| 9.0 | 2026-02-03 |  |  |  |  |
-| 8.0 | 2026-02-02 |  |  |  |  |
-| 7.0 | 2026-02-02 |  |  |  |  |
-| 6.0 | 2026-02-02 |  |  |  |  |
-| 5.0 | 2026-01-31 |  |  |  |  |
-| 4.0 | 2026-01-31 |  |  |  |  |
-| 3.0 | 2026-01-31 |  |  |  |  |
-| 2.0 | 2026-01-30 | 1273<sub>(+new) | 1447<sub>(+new) | 1473<sub>(+new) |  |
-| 1.0 | 2026-01-30 |  |  |  |  |
+| 2.0 | 2026-01-30 | 1273<sub>(+146) | 1447<sub>(+96) | 1473<sub>(+72) |  |
 | 0.0.4 | 2025-11-23 | 1127<sub>(+new) | 1351<sub>(+new) | 1401<sub>(+new) |  |
 | 0.0.3 | 2025-11-13 |  |  |  |  |
-| 0.0.2 | 2025-11-04 |  |  |  |  |
-| 0.0.1 | 2025-11-04 |  |  |  |  |
-| 0.0.0 | 2025-11-02 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Oops!Mate+<version>&body=###%20Engine%20name%0AOops!Mate%0A%0A###%20Version%0A2.0" target="_blank">Submit new version</a>
@@ -45,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:27:34
+Generated: 2026-08-06 08:28:27
 
 ## Ratings Verlauf
 
