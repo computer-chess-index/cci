@@ -8,36 +8,8 @@ Home: https://github.com/jhellis3/Stockfish
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9 | 2025-05-09 | 3414<sub>(+new) | 3556<sub>(+new) | 3583<sub>(+new) |  |
-| 8 | 2024-04-05 |  |  |  |  |
-| 8 | 2024-04-05 |  |  |  |  |
-| 7 | 2023-11-09 |  |  |  |  |
-| 7 | 2023-11-09 |  |  |  |  |
-| 6 | 2023-05-14 |  |  |  |  |
-| 6 | 2023-05-14 |  |  |  |  |
-| 5 | 2022-11-05 | 3367<sub>(+new) | 3509<sub>(+new) | 3530<sub>(+new) |  |
-| 4.1 | 2022-07-03 |  |  |  |  |
-| 4.0 | 2021-12-25 |  |  |  |  |
-| 4.0 | 2021-12-25 |  |  |  |  |
-| 3.2 | 2021-06-23 |  |  |  |  |
-| 3.1 | 2021-01-14 |  |  |  |  |
-| 3.0 | 2020-09-10 |  |  |  |  |
-| 2.0 | 2020-04-08 |  |  |  |  |
-| 2.0 | 2020-04-08 |  |  |  |  |
-| 1.1 | 2019-08-27 |  |  |  |  |
-| 1.1 | 2019-08-27 |  |  |  |  |
-| 1.1 | 2019-08-27 |  |  |  |  |
-| MF_10 | 2018-12-04 |  |  |  |  |
-| MF_10 | 2018-12-04 |  |  |  |  |
-| MF_10 | 2018-12-04 |  |  |  |  |
-| MF_9 | 2018-02-12 |  |  |  |  |
-| MF_9 | 2018-02-12 |  |  |  |  |
-| MF_9 | 2018-02-12 |  |  |  |  |
-| MF_1 | 2017-11-20 |  |  |  |  |
-| MF_1 | 2017-11-20 |  |  |  |  |
-| MF_1 | 2017-11-20 |  |  |  |  |
-| MF_1 | 2017-11-20 |  |  |  |  |
-| MF_1 | 2017-11-20 |  |  |  |  |
+| 9 | 2025-05-09 | 3414<sub>(+47) | 3556<sub>(+47) | 3583<sub>(+53) |  |
+| 5 | 2022-11-05 | 3367 | 3509 | 3530 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Crystal+<version>&body=###%20Engine%20name%0ACrystal%0A%0A###%20Version%0A9" target="_blank">Submit new version</a>
@@ -53,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:24:22
+Generated: 2026-08-06 08:25:33
 
 ## Ratings Verlauf
 
