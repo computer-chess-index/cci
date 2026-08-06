@@ -9,13 +9,7 @@ Home: https://github.com/jswaff/chess4j
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 6.3 | 2026-06-06 | 1848<sub>(+4) | 2167<sub>(-31) | 2294<sub>(+8) |  |
-| 6.2 | 2025-09-16 | 1844<sub>(+new) | 2198<sub>(+new) | 2286<sub>(+new) |  |
-| 6.1 | 2025-08-05 |  |  |  |  |
-| 6.0 | 2024-10-22 |  |  |  |  |
-| 5.1 | 2022-10-22 |  |  |  |  |
-| 5.0 | 2022-06-24 |  |  |  |  |
-| 4.0 | 2021-10-02 |  |  |  |  |
-| 3.5 | 2019-06-18 |  |  |  |  |
+| 6.2 | 2025-09-16 | 1844 | 2198 | 2286 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+chess4j+<version>&body=###%20Engine%20name%0Achess4j%0A%0A###%20Version%0A6.3" target="_blank">Submit new version</a>
@@ -31,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:23:51
+Generated: 2026-08-06 08:25:05
 
 ## Ratings Verlauf
 
