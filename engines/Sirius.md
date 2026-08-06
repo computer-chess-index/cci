@@ -8,11 +8,7 @@ Home: https://github.com/mcthouacbb/Sirius
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.0 | 2025-07-04 | 3077<sub>(+new) | 3316<sub>(+new) | 3353<sub>(+new) |  |
-| 8.0 | 2024-10-05 |  |  |  |  |
-| 7.0 | 2024-07-09 |  |  |  |  |
-| 6.0 | 2024-02-17 |  |  |  |  |
-| 5.0 | 2023-10-27 |  |  |  |  |
+| 9.0 | 2025-07-04 | 3077 | 3316 | 3353 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Sirius+<version>&body=###%20Engine%20name%0ASirius%0A%0A###%20Version%0A9.0" target="_blank">Submit new version</a>
@@ -28,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:29:37
+Generated: 2026-08-06 08:30:21
 
 
 
