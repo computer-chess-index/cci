@@ -8,7 +8,7 @@ Home: https://github.com/oozturk777/ynode
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0234 | 2026-03-22 | 3121<sub>(-10) | 3335<sub>(+25) | 3382<sub>(+23) |  |
+| 0234 | 2026-03-22 | 3121<sub>(-10) | 3335<sub>(+25) | 3384<sub>(+25) |  |
 | 0219 | 2025-11-16 | 3131<sub>(+new) | 3310<sub>(+new) | 3359<sub>(+new) |  |
 | 0215 | 2025-09-28 |  |  |  |  |
 | 0213 | 2025-08-24 |  |  |  |  |
@@ -32,7 +32,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-05 06:34:57
+Generated: 2026-08-06 06:36:18
 
 ## Ratings Verlauf
 
@@ -44,8 +44,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [3131, 3121]
   line "STC (8.0+0.08s)" [3131, 3121]
   line "LTC (60.0+0.60s)" [3310, 3335]
-  line "VLTC (2m24s+1.12s)" [3359, 3382]
-  line "VLTC (2m24s+1.12s)" [3359, 3382]
+  line "VLTC (2m24s+1.12s)" [3359, 3384]
+  line "VLTC (2m24s+1.12s)" [3359, 3384]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -58,11 +58,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0234 | VLTC <sub>(2m24s+1.12s)</sub> | 3382 | 26 | 346 | 49% | 3386 | 81% |
+| 0234 | VLTC <sub>(2m24s+1.12s)</sub> | 3384 | 26 | 350 | 50% | 3386 | 81% |
 | 0234 | LTC <sub>(60.0+0.60s)</sub> | 3335 | 26 | 372 | 51% | 3324 | 74% |
-| 0234 | STC <sub>(8.0+0.08s)</sub> | 3121 | 25 | 428 | 50% | 3119 | 57% |
+| 0234 | STC <sub>(8.0+0.08s)</sub> | 3121 | 25 | 432 | 50% | 3119 | 57% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0219 | VLTC <sub>(2m24s+1.12s)</sub> | 3359 | 27 | 336 | 52% | 3335 | 79% |
 | 0219 | LTC <sub>(60.0+0.60s)</sub> | 3310 | 25 | 406 | 49% | 3303 | 72% |
-| 0219 | STC <sub>(8.0+0.08s)</sub> | 3131 | 24 | 490 | 53% | 3086 | 57% |
+| 0219 | STC <sub>(8.0+0.08s)</sub> | 3131 | 24 | 490 | 53% | 3085 | 57% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
