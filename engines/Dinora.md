@@ -8,12 +8,7 @@ Home: https://github.com/Saegl/dinora
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.3.0 | 2025-05-22 |  |  | 1654<sub>(+new) |  |
-| 0.2.3 | 2025-02-01 |  |  |  |  |
-| 0.2.2 | 2023-12-21 |  |  |  |  |
-| 0.2.1 | 2023-08-21 |  |  |  |  |
-| 0.2.0 | 2023-08-10 |  |  |  |  |
-| 0.1.0 | 2022-08-28 |  |  |  |  |
+| 0.3.0 | 2025-05-22 |  |  | 1654 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Dinora+<version>&body=###%20Engine%20name%0ADinora%0A%0A###%20Version%0A0.3.0" target="_blank">Submit new version</a>
@@ -29,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:24:27
+Generated: 2026-08-06 08:25:37
 
 
 
