@@ -10,11 +10,7 @@ Home: https://github.com/likeawizard/tofiks
 | --- | --- | --- | --- | --- | --- |
 | 1.5.0 | 2026-04-23 | 2174<sub>(+140) | 2422<sub>(+112) | 2468<sub>(+81) |  |
 | 1.4.1 | 2026-04-11 | 2034<sub>(-40) | 2310<sub>(+30) | 2387<sub>(+15) |  |
-| 1.4.0 | 2026-04-09 | 2074<sub>(+new) | 2280<sub>(+new) | 2372<sub>(+new) |  |
-| 1.3.0 | 2023-10-22 |  |  |  |  |
-| 1.2.0 | 2023-09-29 |  |  |  |  |
-| 1.1.0 | 2023-08-17 |  |  |  |  |
-| 1.0.0 | 2022-11-19 |  |  |  |  |
+| 1.4.0 | 2026-04-09 | 2074 | 2280 | 2372 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Tofiks+<version>&body=###%20Engine%20name%0ATofiks%0A%0A###%20Version%0A1.5.0" target="_blank">Submit new version</a>
@@ -30,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:33:37
+Generated: 2026-08-06 08:31:07
 
 ## Ratings Verlauf
 
