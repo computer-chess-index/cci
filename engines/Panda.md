@@ -10,7 +10,7 @@ Home: https://github.com/all-c-a-p-s/Panda
 | --- | --- | --- | --- | --- | --- |
 | 2.0 | 2026-07-12 |  |  |  |  |
 | 1.2 | 2026-06-10 |  |  |  |  |
-| 1.1.1 | 2025-08-18 | 2704<sub>(+new) | 3060<sub>(+new) | 3047<sub>(+new) |  |
+| 1.1.1 | 2025-08-18 | 2705<sub>(+new) | 3060<sub>(+new) | 3047<sub>(+new) |  |
 | 1.1 | 2025-08-05 |  |  |  |  |
 | 1.0 | 2025-04-19 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -28,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-05 06:28:14
+Generated: 2026-08-06 06:27:36
 
 
 
@@ -38,5 +38,5 @@ Generated: 2026-08-05 06:28:14
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3047 | 58 | 84 | 46% | 3086 | 54% |
 | 1.1.1 | LTC <sub>(60.0+0.60s)</sub> | 3060 | 67 | 66 | 57% | 2990 | 47% |
-| 1.1.1 | STC <sub>(8.0+0.08s)</sub> | 2704 | 65 | 80 | 48% | 2701 | 33% |
+| 1.1.1 | STC <sub>(8.0+0.08s)</sub> | 2705 | 65 | 80 | 48% | 2701 | 33% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
