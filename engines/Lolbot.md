@@ -12,8 +12,7 @@ Home: https://github.com/loldot/lolbot
 | 0.2.3 | 2025-12-08 | 2013<sub>(+30) | 2228<sub>(-24) | 2304<sub>(+16) |  |
 | 0.2.2 | 2025-11-29 | 1983<sub>(+63) | 2252<sub>(+80) | 2288<sub>(-21) |  |
 | 0.2.1 | 2025-11-16 | 1920<sub>(-69) | 2172<sub>(-29) | 2309<sub>(-51) |  |
-| 0.2 | 2025-11-15 | 1989<sub>(+new) | 2201<sub>(+new) | 2360<sub>(+new) |  |
-| 0.1-alpha | 2025-03-29 |  |  |  |  |
+| 0.2 | 2025-11-15 | 1989 | 2201 | 2360 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Lolbot+<version>&body=###%20Engine%20name%0ALolbot%0A%0A###%20Version%0A0.3.1" target="_blank">Submit new version</a>
@@ -29,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:26:36
+Generated: 2026-08-06 08:27:36
 
 ## Ratings Verlauf
 
