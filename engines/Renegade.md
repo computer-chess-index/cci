@@ -11,15 +11,6 @@ Home: https://github.com/pkrisz99/Renegade
 | 1.3.1 | 2026-07-14 | 3339<sub>(+7) | 3501<sub>(-1) | 3528<sub>(+2) |  |
 | 1.3.0 | 2026-06-17 | 3332<sub>(+new) | 3502<sub>(+new) | 3526<sub>(+new) |  |
 | 1.2.0 | 2025-05-05 |  |  |  |  |
-| 1.1.0 | 2024-06-26 |  |  |  |  |
-| 1.0.0 | 2024-01-13 |  |  |  |  |
-| 0.12.0 | 2023-10-12 |  |  |  |  |
-| 0.11.0 | 2023-05-29 |  |  |  |  |
-| 0.10.0 | 2023-04-06 |  |  |  |  |
-| 0.9.0 | 2023-03-15 |  |  |  |  |
-| 0.8.1 | 2023-02-13 |  |  |  |  |
-| 0.8.0 | 2023-02-12 |  |  |  |  |
-| 0.7.0 | 2023-01-15 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Renegade+<version>&body=###%20Engine%20name%0ARenegade%0A%0A###%20Version%0A1.3.1" target="_blank">Submit new version</a>
@@ -35,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:28:46
+Generated: 2026-08-06 08:29:32
 
 ## Ratings Verlauf
 
