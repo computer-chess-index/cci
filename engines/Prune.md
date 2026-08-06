@@ -17,11 +17,7 @@ Home: https://github.com/tgirolami09/Prune
 | 2.2.0 | 2025-11-20 | 2674<sub>(+159) | 2896<sub>(+124) | 3012<sub>(+153) |  |
 | 2.1.2 | 2025-11-06 | 2515<sub>(+47) | 2772<sub>(-5) | 2859<sub>(-2) |  |
 | 2.1.1 | 2025-11-05 | 2468<sub>(-51) | 2777<sub>(+31) | 2861<sub>(+49) |  |
-| 2.1.0 | 2025-11-02 | 2519<sub>(+new) | 2746<sub>(+new) | 2812<sub>(+new) |  |
-| 2.0.1 | 2025-10-21 |  |  |  |  |
-| 2.0.0 | 2025-10-19 |  |  |  |  |
-| 1.0.1 | 2025-10-15 |  |  |  |  |
-| 1.0.0 | 2025-10-05 |  |  |  |  |
+| 2.1.0 | 2025-11-02 | 2519 | 2746 | 2812 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Prune+<version>&body=###%20Engine%20name%0APrune%0A%0A###%20Version%0A4.0.1" target="_blank">Submit new version</a>
@@ -37,7 +33,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:28:19
+Generated: 2026-08-06 08:29:05
 
 ## Ratings Verlauf
 
