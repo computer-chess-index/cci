@@ -18,19 +18,7 @@ Home: https://github.com/Orbital-Web/Raphael
 | 2.3.0 | 2026-01-26 | 2554<sub>(+51) | 2897<sub>(+135) | 2944<sub>(+82) |  |
 | 2.2.0 | 2026-01-08 | 2503<sub>(+209) | 2762<sub>(+278) | 2862<sub>(+267) |  |
 | 2.1.0 | 2026-01-01 | 2294<sub>(+184) | 2484<sub>(+138) | 2595<sub>(+274) |  |
-| 2.0.0 | 2025-12-23 | 2110<sub>(+new) | 2346<sub>(+new) | 2321<sub>(+new) |  |
-| 1.8.0 | 2024-12-27 |  |  |  |  |
-| 1.7.6 | 2024-12-16 |  |  |  |  |
-| 1.7.0 | 2023-08-27 |  |  |  |  |
-| 1.6.0 | 2023-08-21 |  |  |  |  |
-| 1.5.0 | 2023-08-16 |  |  |  |  |
-| 1.4.0 | 2023-08-10 |  |  |  |  |
-| 1.3.0 | 2023-08-05 |  |  |  |  |
-| 1.2.0 | 2023-07-24 |  |  |  |  |
-| 1.1.0 | 2023-07-23 |  |  |  |  |
-| 1.0.0 | 2023-07-19 |  |  |  |  |
-| 0.5.1 | 2023-07-17 |  |  |  |  |
-| 0.5.0 | 2023-07-07 |  |  |  |  |
+| 2.0.0 | 2025-12-23 | 2110 | 2346 | 2321 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Raphael+<version>&body=###%20Engine%20name%0ARaphael%0A%0A###%20Version%0A4.2.0" target="_blank">Submit new version</a>
@@ -46,7 +34,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:28:37
+Generated: 2026-08-06 08:29:21
 
 ## Ratings Verlauf
 
