@@ -10,11 +10,7 @@ Home: https://github.com/Bobingstern/Tarnished
 | --- | --- | --- | --- | --- | --- |
 | 6.0 | 2026-06-10 | 3341<sub>(-11) | 3524<sub>(+9) | 3546<sub>(+6) |  |
 | 5.0 | 2026-02-07 | 3352<sub>(+109) | 3515<sub>(+93) | 3540<sub>(+70) |  |
-| 4.0 | 2025-08-23 | 3243<sub>(+new) | 3422<sub>(+new) | 3470<sub>(+new) |  |
-| 3.0 | 2025-06-30 |  |  |  |  |
-| 2.1 | 2025-05-25 |  |  |  |  |
-| 2.0 | 2025-05-14 |  |  |  |  |
-| 1.0 | 2025-05-07 |  |  |  |  |
+| 4.0 | 2025-08-23 | 3243 | 3422 | 3470 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Tarnished+<version>&body=###%20Engine%20name%0ATarnished%0A%0A###%20Version%0A6.0" target="_blank">Submit new version</a>
@@ -30,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 06:33:25
+Generated: 2026-08-06 08:30:55
 
 ## Ratings Verlauf
 
