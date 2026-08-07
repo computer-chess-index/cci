@@ -8,8 +8,8 @@ Home: https://github.com/dylan2554/onyx
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0 | 2026-07-12 | 2892<sub>(+274) | 3152<sub>(+231) | 3209<sub>(+198) |  |
-| 1.6 | 2026-06-13 | 2618 | 2921 | 3011 |  |
+| 2.0 | 2026-07-12 | 2889<sub>(+273) | 3152<sub>(+231) | 3209<sub>(+200) |  |
+| 1.6 | 2026-06-13 | 2616 | 2921 | 3009 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Onyx+<version>&body=###%20Engine%20name%0AOnyx%0A%0A###%20Version%0A2.0" target="_blank">Submit new version</a>
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 08:28:25
+Generated: 2026-08-07 08:49:10
 
 ## Ratings Verlauf
 
@@ -34,11 +34,11 @@ Generated: 2026-08-06 08:28:25
 xychart-beta
   x-axis ["1.6", "2.0"]
   y-axis "Elo Rating" 2600 --> 3300
-  line "STC (8.0+0.08s)" [2618, 2892]
-  line "STC (8.0+0.08s)" [2618, 2892]
+  line "STC (8.0+0.08s)" [2616, 2889]
+  line "STC (8.0+0.08s)" [2616, 2889]
   line "LTC (60.0+0.60s)" [2921, 3152]
-  line "VLTC (2m24s+1.12s)" [3011, 3209]
-  line "VLTC (2m24s+1.12s)" [3011, 3209]
+  line "VLTC (2m24s+1.12s)" [3009, 3209]
+  line "VLTC (2m24s+1.12s)" [3009, 3209]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -53,9 +53,9 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3209 | 32 | 272 | 49% | 3214 | 57% |
 | 2.0 | LTC <sub>(60.0+0.60s)</sub> | 3152 | 33 | 266 | 51% | 3147 | 53% |
-| 2.0 | STC <sub>(8.0+0.08s)</sub> | 2892 | 34 | 270 | 51% | 2878 | 40% |
+| 2.0 | STC <sub>(8.0+0.08s)</sub> | 2889 | 33 | 274 | 51% | 2880 | 41% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.6 | VLTC <sub>(2m24s+1.12s)</sub> | 3011 | 32 | 296 | 48% | 3025 | 40% |
+| 1.6 | VLTC <sub>(2m24s+1.12s)</sub> | 3009 | 32 | 296 | 48% | 3025 | 40% |
 | 1.6 | LTC <sub>(60.0+0.60s)</sub> | 2921 | 34 | 264 | 46% | 2952 | 41% |
-| 1.6 | STC <sub>(8.0+0.08s)</sub> | 2618 | 34 | 276 | 50% | 2623 | 33% |
+| 1.6 | STC <sub>(8.0+0.08s)</sub> | 2616 | 34 | 276 | 50% | 2622 | 33% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
