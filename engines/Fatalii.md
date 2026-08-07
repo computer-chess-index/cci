@@ -8,7 +8,7 @@ Home: https://github.com/FitzOReilly/fatalii
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.10.1 | 2026-05-11 | 2267<sub>(+3) | 2510<sub>(-20) | 2588<sub>(-5) |  |
+| 0.10.1 | 2026-05-11 | 2267<sub>(+3) | 2512<sub>(-18) | 2588<sub>(-5) |  |
 | 0.10.0 | 2026-03-09 | 2264 | 2530 | 2593 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 08:26:10
+Generated: 2026-08-07 08:44:01
 
 ## Ratings Verlauf
 
@@ -36,7 +36,7 @@ xychart-beta
   y-axis "Elo Rating" 2200 --> 2600
   line "STC (8.0+0.08s)" [2264, 2267]
   line "STC (8.0+0.08s)" [2264, 2267]
-  line "LTC (60.0+0.60s)" [2530, 2510]
+  line "LTC (60.0+0.60s)" [2530, 2512]
   line "VLTC (2m24s+1.12s)" [2593, 2588]
   line "VLTC (2m24s+1.12s)" [2593, 2588]
 ```
