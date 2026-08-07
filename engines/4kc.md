@@ -8,9 +8,9 @@ Home: https://github.com/GediminasMasaitis/4k-dot-c
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.0 | 2026-06-06 | 2529<sub>(-47) | 2846<sub>(+42) | 2951<sub>(+17) |  |
-| 8.0 | 2026-03-10 | 2576<sub>(+104) | 2804<sub>(+27) | 2934<sub>(+85) |  |
-| 5.0 | 2025-10-30 | 2472 | 2777 | 2849 |  |
+| 9.0 | 2026-06-06 | 2529<sub>(-47) | 2847<sub>(+43) | 2951<sub>(+17) |  |
+| 8.0 | 2026-03-10 | 2576<sub>(+105) | 2804<sub>(+27) | 2934<sub>(+85) |  |
+| 5.0 | 2025-10-30 | 2471 | 2777 | 2849 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+4kc+<version>&body=###%20Engine%20name%0A4kc%0A%0A###%20Version%0A9.0" target="_blank">Submit new version</a>
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-07 08:36:33
+Generated: 2026-08-07 08:37:28
 
 ## Ratings Verlauf
 
@@ -35,9 +35,9 @@ Generated: 2026-08-07 08:36:33
 xychart-beta
   x-axis ["5.0", "8.0", "9.0"]
   y-axis "Elo Rating" 2400 --> 3000
-  line "STC (8.0+0.08s)" [2472, 2576, 2529]
-  line "STC (8.0+0.08s)" [2472, 2576, 2529]
-  line "LTC (60.0+0.60s)" [2777, 2804, 2846]
+  line "STC (8.0+0.08s)" [2471, 2576, 2529]
+  line "STC (8.0+0.08s)" [2471, 2576, 2529]
+  line "LTC (60.0+0.60s)" [2777, 2804, 2847]
   line "VLTC (2m24s+1.12s)" [2849, 2934, 2951]
   line "VLTC (2m24s+1.12s)" [2849, 2934, 2951]
 ```
