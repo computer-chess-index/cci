@@ -9,8 +9,8 @@ Home: https://github.com/martinnovaak/motor
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 0.9.0 | 2025-06-02 | 3324<sub>(+11) | 3487<sub>(+22) | 3521<sub>(+22) |  |
-| 0.8.0 | 2024-10-28 | 3313<sub>(+115) | 3465<sub>(+66) | 3499<sub>(+71) |  |
-| 0.60 | 2024-06-30 | 3198 | 3399 | 3428 |  |
+| 0.8.0 | 2024-10-28 | 3313<sub>(+115) | 3465<sub>(+66) | 3499<sub>(+73) |  |
+| 0.60 | 2024-06-30 | 3198 | 3399 | 3426 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Motor+<version>&body=###%20Engine%20name%0AMotor%0A%0A###%20Version%0A0.9.0" target="_blank">Submit new version</a>
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 08:28:04
+Generated: 2026-08-07 08:48:46
 
 ## Ratings Verlauf
 
@@ -38,8 +38,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [3198, 3313, 3324]
   line "STC (8.0+0.08s)" [3198, 3313, 3324]
   line "LTC (60.0+0.60s)" [3399, 3465, 3487]
-  line "VLTC (2m24s+1.12s)" [3428, 3499, 3521]
-  line "VLTC (2m24s+1.12s)" [3428, 3499, 3521]
+  line "VLTC (2m24s+1.12s)" [3426, 3499, 3521]
+  line "VLTC (2m24s+1.12s)" [3426, 3499, 3521]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -58,9 +58,9 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.8.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3499 | 13 | 1468 | 51% | 3495 | 86% |
 | 0.8.0 | LTC <sub>(60.0+0.60s)</sub> | 3465 | 13 | 1484 | 50% | 3465 | 83% |
-| 0.8.0 | STC <sub>(8.0+0.08s)</sub> | 3313 | 13 | 1460 | 49% | 3317 | 71% |
+| 0.8.0 | STC <sub>(8.0+0.08s)</sub> | 3312 | 13 | 1460 | 49% | 3317 | 71% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.60 | VLTC <sub>(2m24s+1.12s)</sub> | 3428 | 28 | 304 | 50% | 3429 | 80% |
+| 0.60 | VLTC <sub>(2m24s+1.12s)</sub> | 3426 | 28 | 304 | 50% | 3429 | 80% |
 | 0.60 | LTC <sub>(60.0+0.60s)</sub> | 3399 | 28 | 316 | 52% | 3383 | 74% |
 | 0.60 | STC <sub>(8.0+0.08s)</sub> | 3198 | 29 | 352 | 56% | 3062 | 59% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
