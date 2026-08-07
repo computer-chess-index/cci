@@ -8,7 +8,7 @@ Home: https://github.com/stevemaughan/Crafty-Chess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 25.6.1 | 2026-06-24 | 2464<sub>(-35) | 2776<sub>(+7) | 2840<sub>(-80) |  |
+| 25.6.1 | 2026-06-24 | 2464<sub>(-35) | 2776<sub>(+7) | 2835<sub>(-85) |  |
 | 25.2.1 | 2026-06-20 | 2499 | 2769 | 2920 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 08:25:29
+Generated: 2026-08-07 08:40:33
 
 ## Ratings Verlauf
 
@@ -37,8 +37,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [2499, 2464]
   line "STC (8.0+0.08s)" [2499, 2464]
   line "LTC (60.0+0.60s)" [2769, 2776]
-  line "VLTC (2m24s+1.12s)" [2920, 2840]
-  line "VLTC (2m24s+1.12s)" [2920, 2840]
+  line "VLTC (2m24s+1.12s)" [2920, 2835]
+  line "VLTC (2m24s+1.12s)" [2920, 2835]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -51,9 +51,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 25.6.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2840 | 32 | 312 | 49% | 2851 | 33% |
+| 25.6.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2835 | 32 | 324 | 48% | 2850 | 33% |
 | 25.6.1 | LTC <sub>(60.0+0.60s)</sub> | 2776 | 35 | 276 | 51% | 2766 | 29% |
-| 25.6.1 | STC <sub>(8.0+0.08s)</sub> | 2464 | 34 | 284 | 52% | 2448 | 28% |
+| 25.6.1 | STC <sub>(8.0+0.08s)</sub> | 2464 | 34 | 288 | 52% | 2448 | 27% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 25.2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2920 | 51 | 130 | 50% | 2924 | 28% |
 | 25.2.1 | LTC <sub>(60.0+0.60s)</sub> | 2769 | 56 | 112 | 49% | 2784 | 24% |
