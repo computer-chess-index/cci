@@ -8,7 +8,7 @@ Home: https://github.com/Koma1867/Soomi-V1-Chess-engine-in-golang
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.2.0B | 2026-04-24 | 2022<sub>(+2) | 2223<sub>(-83) | 2369<sub>(-49) |  |
+| 1.2.0B | 2026-04-24 | 2022<sub>(+2) | 2223<sub>(-83) | 2367<sub>(-51) |  |
 | 1.2.0 | 2025-12-31 | 2020<sub>(+196) | 2306<sub>(+170) | 2418<sub>(+235) |  |
 | 1.1.8 | 2025-12-16 | 1824<sub>(-12) | 2136<sub>(+45) | 2183<sub>(+42) |  |
 | 1.1.7 | 2025-12-07 | 1836<sub>(+53) | 2091<sub>(-45) | 2141<sub>(-7) |  |
@@ -28,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 08:30:28
+Generated: 2026-08-07 08:51:34
 
 ## Ratings Verlauf
 
@@ -40,8 +40,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [1783, 1836, 1824, 2020, 2022]
   line "STC (8.0+0.08s)" [1783, 1836, 1824, 2020, 2022]
   line "LTC (60.0+0.60s)" [2136, 2091, 2136, 2306, 2223]
-  line "VLTC (2m24s+1.12s)" [2148, 2141, 2183, 2418, 2369]
-  line "VLTC (2m24s+1.12s)" [2148, 2141, 2183, 2418, 2369]
+  line "VLTC (2m24s+1.12s)" [2148, 2141, 2183, 2418, 2367]
+  line "VLTC (2m24s+1.12s)" [2148, 2141, 2183, 2418, 2367]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -54,7 +54,7 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.2.0B | VLTC <sub>(2m24s+1.12s)</sub> | 2369 | 29 | 408 | 51% | 2360 | 27% |
+| 1.2.0B | VLTC <sub>(2m24s+1.12s)</sub> | 2367 | 29 | 412 | 50% | 2361 | 27% |
 | 1.2.0B | LTC <sub>(60.0+0.60s)</sub> | 2223 | 29 | 424 | 48% | 2232 | 22% |
 | 1.2.0B | STC <sub>(8.0+0.08s)</sub> | 2022 | 28 | 444 | 50% | 2017 | 24% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
