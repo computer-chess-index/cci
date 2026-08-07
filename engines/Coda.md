@@ -8,7 +8,7 @@ Home: https://github.com/adamtwiss/coda
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.9.3 | 2026-07-26 | 3422<sub>(+1) | 3544<sub>(-13) | 3583<sub>(+27) |  |
+| 0.9.3 | 2026-07-26 | 3421<sub>(0) | 3544<sub>(-13) | 3583<sub>(+27) |  |
 | 0.9.2 | 2026-07-16 | 3421<sub>(+232) | 3557<sub>(+163) | 3556<sub>(+96) |  |
 | 0.9.1 | 2026-07-14 | 3189 | 3394 | 3460 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 08:25:26
+Generated: 2026-08-07 08:40:30
 
 ## Ratings Verlauf
 
@@ -35,8 +35,8 @@ Generated: 2026-08-06 08:25:26
 xychart-beta
   x-axis ["0.9.1", "0.9.2", "0.9.3"]
   y-axis "Elo Rating" 3100 --> 3600
-  line "STC (8.0+0.08s)" [3189, 3421, 3422]
-  line "STC (8.0+0.08s)" [3189, 3421, 3422]
+  line "STC (8.0+0.08s)" [3189, 3421, 3421]
+  line "STC (8.0+0.08s)" [3189, 3421, 3421]
   line "LTC (60.0+0.60s)" [3394, 3557, 3544]
   line "VLTC (2m24s+1.12s)" [3460, 3556, 3583]
   line "VLTC (2m24s+1.12s)" [3460, 3556, 3583]
@@ -54,7 +54,7 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.9.3 | VLTC <sub>(2m24s+1.12s)</sub> | 3583 | 46 | 108 | 53% | 3563 | 89% |
 | 0.9.3 | LTC <sub>(60.0+0.60s)</sub> | 3544 | 34 | 204 | 50% | 3540 | 86% |
-| 0.9.3 | STC <sub>(8.0+0.08s)</sub> | 3422 | 31 | 248 | 51% | 3416 | 75% |
+| 0.9.3 | STC <sub>(8.0+0.08s)</sub> | 3421 | 31 | 248 | 51% | 3416 | 75% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.9.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3556 | 32 | 214 | 51% | 3549 | 91% |
 | 0.9.2 | LTC <sub>(60.0+0.60s)</sub> | 3557 | 36 | 178 | 50% | 3556 | 89% |
