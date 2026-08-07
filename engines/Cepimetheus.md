@@ -8,9 +8,6 @@ Home: https://github.com/mrgwbland/Cepimetheus
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 14.0.1 | 2026-08-02 |  |  |  |  |
-| 14.0.1 | 2026-08-02 |  |  |  |  |
-| 14.0.1 | 2026-08-02 |  |  |  |  |
 | 14.0.1 | 2026-08-02 | 2120<sub>(0) | 2381<sub>(0) | 2479<sub>(0) |  |
 | 14.0.1 | 2026-08-02 | 2120<sub>(0) | 2381<sub>(0) | 2479<sub>(0) |  |
 | 14.0.1 | 2026-08-02 | 2120<sub>(-31) | 2381<sub>(-44) | 2479<sub>(-52) |  |
@@ -53,7 +50,6 @@ Home: https://github.com/mrgwbland/Cepimetheus
 | 2.2.0 | 2026-04-23 |  |  |  |  |
 | 2.1.0 | 2026-04-15 |  |  |  |  |
 | 2.0.0 | 2026-04-14 |  |  |  |  |
-| 1.1.0 | 2026-04-13 |  |  |  |  |
 | 1.0.0 | 2026-04-07 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -70,7 +66,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-07 09:37:47
+Generated: 2026-08-07 13:06:43
 
 ## Ratings Verlauf
 
