@@ -8,7 +8,7 @@ Home: https://github.com/montypylons/mihansolo_bot
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.0.0 | 2025-10-01 | 1197 | 1374 | 1470 |  |
+| 9.0.0 | 2025-10-01 | 1197 | 1374 | 1472 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+MihanSolo+<version>&body=###%20Engine%20name%0AMihanSolo%0A%0A###%20Version%0A9.0.0" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 08:27:56
+Generated: 2026-08-07 08:48:38
 
 
 
@@ -32,7 +32,7 @@ Generated: 2026-08-06 08:27:56
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 9.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1470 | 27 | 504 | 51% | 1488 | 30% |
+| 9.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1472 | 27 | 504 | 51% | 1488 | 30% |
 | 9.0.0 | LTC <sub>(60.0+0.60s)</sub> | 1374 | 27 | 506 | 54% | 1334 | 29% |
 | 9.0.0 | STC <sub>(8.0+0.08s)</sub> | 1197 | 25 | 610 | 52% | 1157 | 29% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
