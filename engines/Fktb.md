@@ -8,7 +8,7 @@ Home: https://github.com/lunbun/fktb
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.0.77 | 2026-01-18 | 1847<sub>(-57) | 2126<sub>(+1) | 2217<sub>(+15) |  |
+| 0.0.77 | 2026-01-18 | 1848<sub>(-56) | 2126<sub>(+1) | 2217<sub>(+15) |  |
 | 0.0.76 | 2026-01-05 | 1904 | 2125 | 2202 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 08:26:14
+Generated: 2026-08-07 08:44:06
 
 ## Ratings Verlauf
 
@@ -34,8 +34,8 @@ Generated: 2026-08-06 08:26:14
 xychart-beta
   x-axis ["0.0.76", "0.0.77"]
   y-axis "Elo Rating" 1800 --> 2300
-  line "STC (8.0+0.08s)" [1904, 1847]
-  line "STC (8.0+0.08s)" [1904, 1847]
+  line "STC (8.0+0.08s)" [1904, 1848]
+  line "STC (8.0+0.08s)" [1904, 1848]
   line "LTC (60.0+0.60s)" [2125, 2126]
   line "VLTC (2m24s+1.12s)" [2202, 2217]
   line "VLTC (2m24s+1.12s)" [2202, 2217]
@@ -53,7 +53,7 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.0.77 | VLTC <sub>(2m24s+1.12s)</sub> | 2217 | 25 | 540 | 52% | 2199 | 31% |
 | 0.0.77 | LTC <sub>(60.0+0.60s)</sub> | 2126 | 26 | 504 | 49% | 2137 | 29% |
-| 0.0.77 | STC <sub>(8.0+0.08s)</sub> | 1847 | 23 | 652 | 49% | 1851 | 27% |
+| 0.0.77 | STC <sub>(8.0+0.08s)</sub> | 1848 | 23 | 656 | 50% | 1851 | 27% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.0.76 | VLTC <sub>(2m24s+1.12s)</sub> | 2202 | 52 | 132 | 48% | 2229 | 22% |
 | 0.0.76 | LTC <sub>(60.0+0.60s)</sub> | 2125 | 45 | 172 | 49% | 2136 | 23% |
