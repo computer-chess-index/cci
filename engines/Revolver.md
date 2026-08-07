@@ -8,8 +8,8 @@ Home: https://github.com/GoldenRare/Revolver
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0 | 2026-05-01 | 2511<sub>(+263) | 2762<sub>(+270) | 2815<sub>(+263) |  |
-| 1.0 | 2026-01-01 | 2248 | 2492 | 2552 |  |
+| 2.0 | 2026-05-01 | 2511<sub>(+263) | 2759<sub>(+268) | 2815<sub>(+263) |  |
+| 1.0 | 2026-01-01 | 2248 | 2491 | 2552 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Revolver+<version>&body=###%20Engine%20name%0ARevolver%0A%0A###%20Version%0A2.0" target="_blank">Submit new version</a>
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-06 08:29:36
+Generated: 2026-08-07 08:50:29
 
 ## Ratings Verlauf
 
@@ -36,7 +36,7 @@ xychart-beta
   y-axis "Elo Rating" 2200 --> 2900
   line "STC (8.0+0.08s)" [2248, 2511]
   line "STC (8.0+0.08s)" [2248, 2511]
-  line "LTC (60.0+0.60s)" [2492, 2762]
+  line "LTC (60.0+0.60s)" [2491, 2759]
   line "VLTC (2m24s+1.12s)" [2552, 2815]
   line "VLTC (2m24s+1.12s)" [2552, 2815]
 ```
@@ -51,11 +51,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2815 | 26 | 456 | 52% | 2799 | 39% |
-| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 2762 | 25 | 484 | 51% | 2754 | 38% |
-| 2.0 | STC <sub>(8.0+0.08s)</sub> | 2511 | 28 | 428 | 51% | 2506 | 28% |
+| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2815 | 26 | 460 | 52% | 2799 | 39% |
+| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 2759 | 25 | 488 | 50% | 2755 | 38% |
+| 2.0 | STC <sub>(8.0+0.08s)</sub> | 2511 | 28 | 432 | 51% | 2504 | 28% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2552 | 27 | 450 | 46% | 2593 | 32% |
-| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2492 | 29 | 408 | 49% | 2502 | 25% |
+| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2552 | 27 | 450 | 46% | 2592 | 32% |
+| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2491 | 29 | 408 | 49% | 2502 | 25% |
 | 1.0 | STC <sub>(8.0+0.08s)</sub> | 2248 | 26 | 516 | 51% | 2234 | 29% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
