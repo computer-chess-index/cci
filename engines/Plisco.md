@@ -9,8 +9,8 @@ Home: https://github.com/gflohr/Chess-Plisco
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 1.0.3 | 2026-02-04 |  |  |  |  |
-| 1.0.2 | 2026-01-06 | 1006<sub>(-455) |  |  | Connection stalls |
-| 1.0.1 | 2025-12-21 | 1461 | 1909 | 1825 | Connection stalls |
+| 1.0.2 | 2026-01-06 | 1006<sub>(-456) |  |  | Connection stalls |
+| 1.0.1 | 2025-12-21 | 1462 | 1912 | 1827 | Connection stalls |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Plisco+<version>&body=###%20Engine%20name%0APlisco%0A%0A###%20Version%0A1.0.3" target="_blank">Submit new version</a>
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-07 08:49:34
+Generated: 2026-08-09 06:27:35
 
 
 
@@ -34,9 +34,9 @@ Generated: 2026-08-07 08:49:34
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0.2 | STC <sub>(8.0+0.08s)</sub> | 1006 | 348 | 4 | 0% | 1449 | 0% |
+| 1.0.2 | STC <sub>(8.0+0.08s)</sub> | 1006 | 348 | 4 | 0% | 1450 | 0% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 1825 | 343 | 8 | 0% | 2492 | 0% |
-| 1.0.1 | LTC <sub>(60.0+0.60s)</sub> | 1909 | 347 | 4 | 0% | 2352 | 0% |
-| 1.0.1 | STC <sub>(8.0+0.08s)</sub> | 1461 | 234 | 14 | 7% | 2195 | 14% |
+| 1.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 1827 | 343 | 8 | 0% | 2493 | 0% |
+| 1.0.1 | LTC <sub>(60.0+0.60s)</sub> | 1912 | 347 | 4 | 0% | 2354 | 0% |
+| 1.0.1 | STC <sub>(8.0+0.08s)</sub> | 1462 | 234 | 14 | 7% | 2196 | 14% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
