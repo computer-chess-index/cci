@@ -8,7 +8,7 @@ Home: https://github.com/billchow98/chess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | 2025-09-28 | 2124 | 2415 | 2495 |  |
+| 1.0.0 | 2025-09-28 | 2126 | 2415 | 2496 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Tuna+<version>&body=###%20Engine%20name%0ATuna%0A%0A###%20Version%0A1.0.0" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-07 08:52:31
+Generated: 2026-08-09 06:32:27
 
 
 
@@ -32,7 +32,7 @@ Generated: 2026-08-07 08:52:31
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2495 | 28 | 434 | 46% | 2534 | 27% |
-| 1.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2415 | 27 | 446 | 50% | 2415 | 29% |
-| 1.0.0 | STC <sub>(8.0+0.08s)</sub> | 2124 | 24 | 592 | 52% | 2105 | 28% |
+| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2496 | 28 | 434 | 46% | 2535 | 27% |
+| 1.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2415 | 27 | 450 | 50% | 2415 | 29% |
+| 1.0.0 | STC <sub>(8.0+0.08s)</sub> | 2126 | 24 | 592 | 52% | 2106 | 28% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
