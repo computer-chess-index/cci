@@ -8,9 +8,9 @@ Home: https://github.com/martinnovaak/motor
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.9.0 | 2025-06-02 | 3324<sub>(+11) | 3487<sub>(+22) | 3521<sub>(+22) |  |
-| 0.8.0 | 2024-10-28 | 3313<sub>(+115) | 3465<sub>(+66) | 3499<sub>(+73) |  |
-| 0.60 | 2024-06-30 | 3198 | 3399 | 3426 |  |
+| 0.9.0 | 2025-06-02 | 3325<sub>(+11) | 3488<sub>(+21) | 3522<sub>(+21) |  |
+| 0.8.0 | 2024-10-28 | 3314<sub>(+114) | 3467<sub>(+66) | 3501<sub>(+72) |  |
+| 0.60 | 2024-06-30 | 3200 | 3401 | 3429 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Motor+<version>&body=###%20Engine%20name%0AMotor%0A%0A###%20Version%0A0.9.0" target="_blank">Submit new version</a>
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-07 08:48:46
+Generated: 2026-08-09 06:26:51
 
 ## Ratings Verlauf
 
@@ -34,12 +34,12 @@ Generated: 2026-08-07 08:48:46
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["0.60", "0.8.0", "0.9.0"]
-  y-axis "Elo Rating" 3100 --> 3600
-  line "STC (8.0+0.08s)" [3198, 3313, 3324]
-  line "STC (8.0+0.08s)" [3198, 3313, 3324]
-  line "LTC (60.0+0.60s)" [3399, 3465, 3487]
-  line "VLTC (2m24s+1.12s)" [3426, 3499, 3521]
-  line "VLTC (2m24s+1.12s)" [3426, 3499, 3521]
+  y-axis "Elo Rating" 3200 --> 3600
+  line "STC (8.0+0.08s)" [3200, 3314, 3325]
+  line "STC (8.0+0.08s)" [3200, 3314, 3325]
+  line "LTC (60.0+0.60s)" [3401, 3467, 3488]
+  line "VLTC (2m24s+1.12s)" [3429, 3501, 3522]
+  line "VLTC (2m24s+1.12s)" [3429, 3501, 3522]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -52,15 +52,15 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3521 | 21 | 494 | 49% | 3526 | 88% |
-| 0.9.0 | LTC <sub>(60.0+0.60s)</sub> | 3487 | 23 | 448 | 50% | 3484 | 83% |
-| 0.9.0 | STC <sub>(8.0+0.08s)</sub> | 3324 | 20 | 604 | 50% | 3324 | 72% |
+| 0.9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3522 | 21 | 498 | 49% | 3528 | 89% |
+| 0.9.0 | LTC <sub>(60.0+0.60s)</sub> | 3488 | 23 | 448 | 50% | 3486 | 83% |
+| 0.9.0 | STC <sub>(8.0+0.08s)</sub> | 3325 | 20 | 608 | 50% | 3325 | 72% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.8.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3499 | 13 | 1468 | 51% | 3495 | 86% |
-| 0.8.0 | LTC <sub>(60.0+0.60s)</sub> | 3465 | 13 | 1484 | 50% | 3465 | 83% |
-| 0.8.0 | STC <sub>(8.0+0.08s)</sub> | 3312 | 13 | 1460 | 49% | 3317 | 71% |
+| 0.8.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3501 | 13 | 1468 | 51% | 3497 | 86% |
+| 0.8.0 | LTC <sub>(60.0+0.60s)</sub> | 3467 | 13 | 1484 | 50% | 3467 | 83% |
+| 0.8.0 | STC <sub>(8.0+0.08s)</sub> | 3314 | 13 | 1460 | 49% | 3318 | 71% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.60 | VLTC <sub>(2m24s+1.12s)</sub> | 3426 | 28 | 304 | 50% | 3429 | 80% |
-| 0.60 | LTC <sub>(60.0+0.60s)</sub> | 3399 | 28 | 316 | 52% | 3383 | 74% |
-| 0.60 | STC <sub>(8.0+0.08s)</sub> | 3198 | 29 | 352 | 56% | 3062 | 59% |
+| 0.60 | VLTC <sub>(2m24s+1.12s)</sub> | 3429 | 28 | 304 | 50% | 3430 | 80% |
+| 0.60 | LTC <sub>(60.0+0.60s)</sub> | 3401 | 28 | 316 | 52% | 3384 | 74% |
+| 0.60 | STC <sub>(8.0+0.08s)</sub> | 3200 | 29 | 352 | 56% | 3063 | 59% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
