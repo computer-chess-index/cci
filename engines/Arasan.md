@@ -10,8 +10,8 @@ Home: https://github.com/jdart1/arasan-chess
 | --- | --- | --- | --- | --- | --- |
 | 26.0 | 2026-07-24 | 3236<sub>(+7) | 3420<sub>(-6) | 3460<sub>(-18) |  |
 | 25.4 | 2026-04-15 | 3229<sub>(0) | 3426<sub>(0) | 3478<sub>(0) |  |
-| 25.4 | 2026-04-15 | 3229<sub>(-4) | 3426<sub>(+6) | 3478<sub>(+15) |  |
-| 25.3 | 2025-12-28 | 3233 | 3420 | 3463 |  |
+| 25.4 | 2026-04-15 | 3229<sub>(-4) | 3426<sub>(+6) | 3478<sub>(+14) |  |
+| 25.3 | 2025-12-28 | 3233 | 3420 | 3464 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Arasan+<version>&body=###%20Engine%20name%0AArasan%0A%0A###%20Version%0A26.0" target="_blank">Submit new version</a>
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-09 06:22:38
+Generated: 2026-08-10 06:59:17
 
 ## Ratings Verlauf
 
@@ -39,8 +39,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [3233, 3229, 3229, 3236]
   line "STC (8.0+0.08s)" [3233, 3229, 3229, 3236]
   line "LTC (60.0+0.60s)" [3420, 3426, 3426, 3420]
-  line "VLTC (2m24s+1.12s)" [3463, 3478, 3478, 3460]
-  line "VLTC (2m24s+1.12s)" [3463, 3478, 3478, 3460]
+  line "VLTC (2m24s+1.12s)" [3464, 3478, 3478, 3460]
+  line "VLTC (2m24s+1.12s)" [3464, 3478, 3478, 3460]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -55,7 +55,7 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 26.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3460 | 32 | 228 | 50% | 3461 | 83% |
 | 26.0 | LTC <sub>(60.0+0.60s)</sub> | 3420 | 31 | 248 | 50% | 3420 | 78% |
-| 26.0 | STC <sub>(8.0+0.08s)</sub> | 3236 | 29 | 312 | 49% | 3247 | 65% |
+| 26.0 | STC <sub>(8.0+0.08s)</sub> | 3236 | 29 | 312 | 49% | 3248 | 65% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 25.4 | VLTC <sub>(2m24s+1.12s)</sub> | 3478 | 24 | 408 | 49% | 3482 | 86% |
 | 25.4 | LTC <sub>(60.0+0.60s)</sub> | 3426 | 24 | 404 | 50% | 3428 | 78% |
@@ -65,7 +65,7 @@ xychart-beta
 | 25.4 | LTC <sub>(60.0+0.60s)</sub> | 3425 | 24 | 404 | 50% | 3426 | 78% |
 | 25.4 | STC <sub>(8.0+0.08s)</sub> | 3228 | 24 | 450 | 51% | 3212 | 63% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 25.3 | VLTC <sub>(2m24s+1.12s)</sub> | 3463 | 26 | 356 | 51% | 3457 | 82% |
+| 25.3 | VLTC <sub>(2m24s+1.12s)</sub> | 3464 | 26 | 356 | 51% | 3459 | 82% |
 | 25.3 | LTC <sub>(60.0+0.60s)</sub> | 3420 | 26 | 360 | 51% | 3413 | 78% |
-| 25.3 | STC <sub>(8.0+0.08s)</sub> | 3233 | 24 | 488 | 52% | 3216 | 59% |
+| 25.3 | STC <sub>(8.0+0.08s)</sub> | 3233 | 24 | 488 | 52% | 3217 | 59% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
