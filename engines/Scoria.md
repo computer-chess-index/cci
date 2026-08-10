@@ -8,7 +8,7 @@ Home: https://github.com/iannathan-k/scoria
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.8.51 | 2025-08-10 | 1243 | 1517 | 1642 |  |
+| 3.8.51 | 2025-08-10 | 1242 | 1517 | 1642 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Scoria+<version>&body=###%20Engine%20name%0AScoria%0A%0A###%20Version%0A3.8.51" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-09 06:29:03
+Generated: 2026-08-10 07:06:38
 
 
 
@@ -34,5 +34,5 @@ Generated: 2026-08-09 06:29:03
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.8.51 | VLTC <sub>(2m24s+1.12s)</sub> | 1642 | 24 | 554 | 45% | 1710 | 42% |
 | 3.8.51 | LTC <sub>(60.0+0.60s)</sub> | 1517 | 26 | 498 | 49% | 1553 | 38% |
-| 3.8.51 | STC <sub>(8.0+0.08s)</sub> | 1243 | 25 | 574 | 54% | 1181 | 34% |
+| 3.8.51 | STC <sub>(8.0+0.08s)</sub> | 1242 | 25 | 576 | 54% | 1181 | 34% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
