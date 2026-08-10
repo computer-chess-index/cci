@@ -8,10 +8,10 @@ Home: https://github.com/cjbolt/EubosChess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.5 | 2026-06-09 | 2307<sub>(+131) | 2627<sub>(+131) | 2696<sub>(+104) |  |
+| 4.5 | 2026-06-09 | 2311<sub>(+135) | 2631<sub>(+135) | 2696<sub>(+104) |  |
 | 4.4 | 2026-05-06 | 2176<sub>(+85) | 2496<sub>(+52) | 2592<sub>(+32) |  |
-| 4.3 | 2026-01-29 | 2091<sub>(-58) | 2444<sub>(+33) | 2560<sub>(+23) |  |
-| 4.2 | 2025-10-16 | 2149 | 2411 | 2537 |  |
+| 4.3 | 2026-01-29 | 2091<sub>(-58) | 2444<sub>(+33) | 2560<sub>(+22) |  |
+| 4.2 | 2025-10-16 | 2149 | 2411 | 2538 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Eubos+<version>&body=###%20Engine%20name%0AEubos%0A%0A###%20Version%0A4.5" target="_blank">Submit new version</a>
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-09 06:24:43
+Generated: 2026-08-10 07:01:57
 
 ## Ratings Verlauf
 
@@ -36,11 +36,11 @@ Generated: 2026-08-09 06:24:43
 xychart-beta
   x-axis ["4.2", "4.3", "4.4", "4.5"]
   y-axis "Elo Rating" 2000 --> 2700
-  line "STC (8.0+0.08s)" [2149, 2091, 2176, 2307]
-  line "STC (8.0+0.08s)" [2149, 2091, 2176, 2307]
-  line "LTC (60.0+0.60s)" [2411, 2444, 2496, 2627]
-  line "VLTC (2m24s+1.12s)" [2537, 2560, 2592, 2696]
-  line "VLTC (2m24s+1.12s)" [2537, 2560, 2592, 2696]
+  line "STC (8.0+0.08s)" [2149, 2091, 2176, 2311]
+  line "STC (8.0+0.08s)" [2149, 2091, 2176, 2311]
+  line "LTC (60.0+0.60s)" [2411, 2444, 2496, 2631]
+  line "VLTC (2m24s+1.12s)" [2538, 2560, 2592, 2696]
+  line "VLTC (2m24s+1.12s)" [2538, 2560, 2592, 2696]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -53,9 +53,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4.5 | VLTC <sub>(2m24s+1.12s)</sub> | 2696 | 31 | 322 | 49% | 2705 | 35% |
-| 4.5 | LTC <sub>(60.0+0.60s)</sub> | 2627 | 31 | 352 | 49% | 2642 | 28% |
-| 4.5 | STC <sub>(8.0+0.08s)</sub> | 2307 | 30 | 384 | 47% | 2346 | 23% |
+| 4.5 | VLTC <sub>(2m24s+1.12s)</sub> | 2696 | 31 | 326 | 49% | 2705 | 36% |
+| 4.5 | LTC <sub>(60.0+0.60s)</sub> | 2631 | 31 | 356 | 49% | 2641 | 28% |
+| 4.5 | STC <sub>(8.0+0.08s)</sub> | 2311 | 30 | 392 | 47% | 2345 | 23% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4.4 | VLTC <sub>(2m24s+1.12s)</sub> | 2592 | 32 | 320 | 48% | 2611 | 30% |
 | 4.4 | LTC <sub>(60.0+0.60s)</sub> | 2496 | 32 | 334 | 49% | 2500 | 27% |
@@ -65,7 +65,7 @@ xychart-beta
 | 4.3 | LTC <sub>(60.0+0.60s)</sub> | 2444 | 31 | 368 | 49% | 2449 | 24% |
 | 4.3 | STC <sub>(8.0+0.08s)</sub> | 2091 | 28 | 452 | 50% | 2078 | 21% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2537 | 36 | 266 | 52% | 2519 | 24% |
+| 4.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2538 | 36 | 266 | 52% | 2519 | 24% |
 | 4.2 | LTC <sub>(60.0+0.60s)</sub> | 2411 | 35 | 272 | 50% | 2407 | 26% |
 | 4.2 | STC <sub>(8.0+0.08s)</sub> | 2149 | 34 | 310 | 52% | 2122 | 22% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
