@@ -2,32 +2,16 @@
 
 Author: Oleg Smirnov
 
-Home: https://github.com/sovaz1997/Zevra
+Home: https://github.com/sovaz1997/Zevra2
 
-## Ratings nach Version
+## Elo Ratings
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.8.6_r672 | 2018-09-01 |  |  |  |  |
-| 1.8.5_r664 | 2018-06-23 |  |  |  |  |
-| 1.8.4_r650 | 2018-03-12 |  |  |  |  |
-| 1.8.3_r636 | 2018-03-10 |  |  |  |  |
-| 1.8.2_r612 | 2018-02-19 |  |  |  |  |
-| 1.8.1_r594 | 2018-01-27 |  |  |  |  |
-| 1.8_r583 | 2018-01-24 |  |  |  |  |
-| 1.7.1_r563 | 2018-01-13 |  |  |  |  |
-| 1.7_r560 | 2018-01-12 |  |  |  |  |
-| 1.6.2_r536 | 2017-11-30 |  |  |  |  |
-| 1.6.1_r512 | 2017-09-28 |  |  |  |  |
-| 1.6_r497 | 2017-08-23 |  |  |  |  |
-| 1.5_r446 | 2017-06-12 |  |  |  |  |
-| 1.4_r426 | 2017-05-29 |  |  |  |  |
-| 1.3.1_r340 | 2017-02-20 |  |  |  |  |
-| 1.3_r326 | 2017-02-06 |  |  |  |  |
-| 1.2.1_r290 | 2016-12-04 |  |  |  |  |
-| 1.2_r246 | 2016-11-20 |  |  |  |  |
-| 1.1_b227 | 2016-11-13 |  |  |  |  |
+| 2.5 | 2021-09-20 | 2210 | 2483 | 2554 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
+
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Zevra+<version>&body=###%20Engine%20name%0AZevra%0A%0A###%20Version%0A2.5" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -40,4 +24,15 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-02-17 07:51:08
+Generated: 2026-08-10 07:55:52
+
+
+
+## Detailed Evaluation Results
+
+| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.5 | VLTC <sub>(2m24s+1.12s)</sub> | 2554 | 35 | 284 | 53% | 2504 | 30% |
+| 2.5 | LTC <sub>(60.0+0.60s)</sub> | 2483 | 14 | 1804 | 51% | 2473 | 27% |
+| 2.5 | STC <sub>(8.0+0.08s)</sub> | 2210 | 14 | 1866 | 51% | 2199 | 23% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
