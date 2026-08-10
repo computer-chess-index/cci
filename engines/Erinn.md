@@ -8,7 +8,7 @@ Home: https://github.com/NichtElias/Erinn
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1 | 2026-07-11 | 2377<sub>(+297) | 2657<sub>(+239) | 2716<sub>(+193) |  |
+| 1.1 | 2026-07-11 | 2377<sub>(+297) | 2654<sub>(+236) | 2719<sub>(+196) |  |
 | 1.0 | 2026-06-10 | 2080 | 2418 | 2523 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-09 06:24:38
+Generated: 2026-08-10 07:01:49
 
 ## Ratings Verlauf
 
@@ -36,9 +36,9 @@ xychart-beta
   y-axis "Elo Rating" 2000 --> 2800
   line "STC (8.0+0.08s)" [2080, 2377]
   line "STC (8.0+0.08s)" [2080, 2377]
-  line "LTC (60.0+0.60s)" [2418, 2657]
-  line "VLTC (2m24s+1.12s)" [2523, 2716]
-  line "VLTC (2m24s+1.12s)" [2523, 2716]
+  line "LTC (60.0+0.60s)" [2418, 2654]
+  line "VLTC (2m24s+1.12s)" [2523, 2719]
+  line "VLTC (2m24s+1.12s)" [2523, 2719]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -51,9 +51,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2716 | 37 | 208 | 50% | 2711 | 49% |
-| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 2657 | 32 | 296 | 50% | 2666 | 43% |
-| 1.1 | STC <sub>(8.0+0.08s)</sub> | 2377 | 30 | 348 | 48% | 2390 | 40% |
+| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2719 | 37 | 212 | 51% | 2711 | 49% |
+| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 2654 | 32 | 304 | 49% | 2666 | 44% |
+| 1.1 | STC <sub>(8.0+0.08s)</sub> | 2377 | 30 | 352 | 48% | 2399 | 39% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2523 | 32 | 316 | 50% | 2516 | 35% |
 | 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2418 | 30 | 368 | 56% | 2352 | 37% |
