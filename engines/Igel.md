@@ -8,8 +8,8 @@ Home: https://github.com/vshcherbyna/igel
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.6.0 | 2024-12-28 | 3170<sub>(+15) | 3398<sub>(+4) | 3449<sub>(+19) |  |
-| 3.5.0 | 2023-06-22 | 3155 | 3394 | 3430 |  |
+| 3.6.0 | 2024-12-28 | 3166<sub>(+14) | 3395<sub>(+4) | 3447<sub>(+19) |  |
+| 3.5.0 | 2023-06-22 | 3152 | 3391 | 3428 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Igel+<version>&body=###%20Engine%20name%0AIgel%0A%0A###%20Version%0A3.6.0" target="_blank">Submit new version</a>
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-10 07:50:45
+Generated: 2026-08-12 07:53:50
 
 ## Ratings Verlauf
 
@@ -34,11 +34,11 @@ Generated: 2026-08-10 07:50:45
 xychart-beta
   x-axis ["3.5.0", "3.6.0"]
   y-axis "Elo Rating" 3100 --> 3500
-  line "STC (8.0+0.08s)" [3155, 3170]
-  line "STC (8.0+0.08s)" [3155, 3170]
-  line "LTC (60.0+0.60s)" [3394, 3398]
-  line "VLTC (2m24s+1.12s)" [3430, 3449]
-  line "VLTC (2m24s+1.12s)" [3430, 3449]
+  line "STC (8.0+0.08s)" [3152, 3166]
+  line "STC (8.0+0.08s)" [3152, 3166]
+  line "LTC (60.0+0.60s)" [3391, 3395]
+  line "VLTC (2m24s+1.12s)" [3428, 3447]
+  line "VLTC (2m24s+1.12s)" [3428, 3447]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -51,11 +51,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3449 | 12 | 1658 | 50% | 3452 | 82% |
-| 3.6.0 | LTC <sub>(60.0+0.60s)</sub> | 3398 | 12 | 1600 | 50% | 3395 | 76% |
-| 3.6.0 | STC <sub>(8.0+0.08s)</sub> | 3170 | 13 | 1688 | 49% | 3179 | 63% |
+| 3.6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3447 | 12 | 1658 | 50% | 3449 | 82% |
+| 3.6.0 | LTC <sub>(60.0+0.60s)</sub> | 3395 | 12 | 1604 | 50% | 3393 | 76% |
+| 3.6.0 | STC <sub>(8.0+0.08s)</sub> | 3166 | 13 | 1688 | 49% | 3177 | 63% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.5.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3430 | 17 | 800 | 50% | 3428 | 78% |
-| 3.5.0 | LTC <sub>(60.0+0.60s)</sub> | 3394 | 17 | 828 | 49% | 3397 | 78% |
-| 3.5.0 | STC <sub>(8.0+0.08s)</sub> | 3155 | 18 | 872 | 52% | 3114 | 58% |
+| 3.5.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3428 | 17 | 800 | 50% | 3425 | 78% |
+| 3.5.0 | LTC <sub>(60.0+0.60s)</sub> | 3391 | 17 | 828 | 49% | 3394 | 78% |
+| 3.5.0 | STC <sub>(8.0+0.08s)</sub> | 3152 | 18 | 872 | 52% | 3112 | 58% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
