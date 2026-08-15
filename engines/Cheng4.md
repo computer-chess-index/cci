@@ -8,7 +8,7 @@ Home: https://github.com/kmar/cheng4_releases
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.48 | 2026-07-12 | 2963 | 3231 | 3267 |  |
+| 4.48 | 2026-07-12 | 2965 | 3232 | 3267 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Cheng4+<version>&body=###%20Engine%20name%0ACheng4%0A%0A###%20Version%0A4.48" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-12 07:47:55
+Generated: 2026-08-15 06:23:37
 
 
 
@@ -32,7 +32,7 @@ Generated: 2026-08-12 07:47:55
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4.48 | VLTC <sub>(2m24s+1.12s)</sub> | 3267 | 27 | 376 | 54% | 3225 | 61% |
-| 4.48 | LTC <sub>(60.0+0.60s)</sub> | 3231 | 32 | 272 | 53% | 3179 | 57% |
-| 4.48 | STC <sub>(8.0+0.08s)</sub> | 2963 | 30 | 346 | 53% | 2917 | 41% |
+| 4.48 | VLTC <sub>(2m24s+1.12s)</sub> | 3267 | 27 | 380 | 54% | 3227 | 61% |
+| 4.48 | LTC <sub>(60.0+0.60s)</sub> | 3232 | 32 | 272 | 53% | 3181 | 57% |
+| 4.48 | STC <sub>(8.0+0.08s)</sub> | 2965 | 30 | 346 | 53% | 2919 | 41% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
