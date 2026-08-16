@@ -8,7 +8,7 @@ Home: https://github.com/enfmarinho/Minke
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.0.0 | 2026-04-25 | 3146<sub>(+25) | 3357<sub>(+51) | 3418<sub>(+43) |  |
+| 6.0.0 | 2026-04-25 | 3144<sub>(+23) | 3357<sub>(+51) | 3418<sub>(+43) |  |
 | 5.0.0 | 2026-02-13 | 3121<sub>(+61) | 3306<sub>(+44) | 3375<sub>(+89) |  |
 | 4.0.0 | 2025-12-29 | 3060<sub>(+94) | 3262<sub>(+64) | 3286<sub>(+50) |  |
 | 3.0.0 | 2025-10-20 | 2966 | 3198 | 3236 |  |
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-15 06:26:46
+Generated: 2026-08-16 06:26:49
 
 ## Ratings Verlauf
 
@@ -36,8 +36,8 @@ Generated: 2026-08-15 06:26:46
 xychart-beta
   x-axis ["3.0.0", "4.0.0", "5.0.0", "6.0.0"]
   y-axis "Elo Rating" 2900 --> 3500
-  line "STC (8.0+0.08s)" [2966, 3060, 3121, 3146]
-  line "STC (8.0+0.08s)" [2966, 3060, 3121, 3146]
+  line "STC (8.0+0.08s)" [2966, 3060, 3121, 3144]
+  line "STC (8.0+0.08s)" [2966, 3060, 3121, 3144]
   line "LTC (60.0+0.60s)" [3198, 3262, 3306, 3357]
   line "VLTC (2m24s+1.12s)" [3236, 3286, 3375, 3418]
   line "VLTC (2m24s+1.12s)" [3236, 3286, 3375, 3418]
@@ -53,9 +53,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 6.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3418 | 24 | 426 | 50% | 3418 | 77% |
+| 6.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3418 | 24 | 430 | 50% | 3418 | 77% |
 | 6.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3357 | 24 | 420 | 50% | 3357 | 71% |
-| 6.0.0 | STC <sub>(8.0+0.08s)</sub> | 3146 | 27 | 370 | 49% | 3154 | 59% |
+| 6.0.0 | STC <sub>(8.0+0.08s)</sub> | 3144 | 27 | 378 | 49% | 3154 | 59% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 5.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3375 | 24 | 414 | 50% | 3375 | 73% |
 | 5.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3306 | 26 | 382 | 51% | 3298 | 69% |
