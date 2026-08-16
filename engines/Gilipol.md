@@ -9,8 +9,8 @@ Home: https://github.com/Lacovipo/Gilipol
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 2.00 | 2026-06-06 | 2668<sub>(+137) | 2979<sub>(+125) | 3094<sub>(+101) |  |
-| 1.00netbin | 2026-04-13 | 2531<sub>(+2139) | 2854<sub>(+2402) | 2993<sub>(+2530) |  |
-| 1.00 | 2026-04-12 | 392 | 452 | 463 |  |
+| 1.00netbin | 2026-04-13 | 2531<sub>(+2141) | 2854<sub>(+2403) | 2993<sub>(+2531) |  |
+| 1.00 | 2026-04-12 | 390 | 451 | 462 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Gilipol+<version>&body=###%20Engine%20name%0AGilipol%0A%0A###%20Version%0A2.00" target="_blank">Submit new version</a>
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-15 06:25:14
+Generated: 2026-08-16 06:25:16
 
 ## Ratings Verlauf
 
@@ -35,11 +35,11 @@ Generated: 2026-08-15 06:25:14
 xychart-beta
   x-axis ["1.00", "1.00netbin", "2.00"]
   y-axis "Elo Rating" 300 --> 3100
-  line "STC (8.0+0.08s)" [392, 2531, 2668]
-  line "STC (8.0+0.08s)" [392, 2531, 2668]
-  line "LTC (60.0+0.60s)" [452, 2854, 2979]
-  line "VLTC (2m24s+1.12s)" [463, 2993, 3094]
-  line "VLTC (2m24s+1.12s)" [463, 2993, 3094]
+  line "STC (8.0+0.08s)" [390, 2531, 2668]
+  line "STC (8.0+0.08s)" [390, 2531, 2668]
+  line "LTC (60.0+0.60s)" [451, 2854, 2979]
+  line "VLTC (2m24s+1.12s)" [462, 2993, 3094]
+  line "VLTC (2m24s+1.12s)" [462, 2993, 3094]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -52,7 +52,7 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.00 | VLTC <sub>(2m24s+1.12s)</sub> | 3094 | 26 | 418 | 52% | 3071 | 52% |
+| 2.00 | VLTC <sub>(2m24s+1.12s)</sub> | 3094 | 26 | 422 | 52% | 3071 | 53% |
 | 2.00 | LTC <sub>(60.0+0.60s)</sub> | 2979 | 28 | 384 | 51% | 2962 | 45% |
 | 2.00 | STC <sub>(8.0+0.08s)</sub> | 2668 | 30 | 352 | 53% | 2637 | 33% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -60,7 +60,7 @@ xychart-beta
 | 1.00netbin | LTC <sub>(60.0+0.60s)</sub> | 2854 | 25 | 546 | 59% | 2676 | 39% |
 | 1.00netbin | STC <sub>(8.0+0.08s)</sub> | 2531 | 28 | 470 | 55% | 2371 | 28% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.00 | VLTC <sub>(2m24s+1.12s)</sub> | 463 | 58 | 176 | 24% | 1049 | 21% |
-| 1.00 | LTC <sub>(60.0+0.60s)</sub> | 452 | 59 | 148 | 27% | 942 | 30% |
-| 1.00 | STC <sub>(8.0+0.08s)</sub> | 392 | 56 | 132 | 34% | 732 | 40% |
+| 1.00 | VLTC <sub>(2m24s+1.12s)</sub> | 462 | 58 | 176 | 24% | 1049 | 21% |
+| 1.00 | LTC <sub>(60.0+0.60s)</sub> | 451 | 59 | 148 | 27% | 942 | 30% |
+| 1.00 | STC <sub>(8.0+0.08s)</sub> | 390 | 56 | 132 | 34% | 730 | 40% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
