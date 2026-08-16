@@ -8,7 +8,7 @@ Home: https://github.com/Bobingstern/Tarnished
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.0 | 2026-06-10 | 3341<sub>(-12) | 3525<sub>(+8) | 3548<sub>(+8) |  |
+| 6.0 | 2026-06-10 | 3341<sub>(-12) | 3525<sub>(+8) | 3549<sub>(+9) |  |
 | 5.0 | 2026-02-07 | 3353<sub>(+110) | 3517<sub>(+95) | 3540<sub>(+70) |  |
 | 4.0 | 2025-08-23 | 3243 | 3422 | 3470 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-15 06:29:42
+Generated: 2026-08-16 06:29:47
 
 ## Ratings Verlauf
 
@@ -38,8 +38,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [3243, 3353, 3341]
   line "STC (8.0+0.08s)" [3243, 3353, 3341]
   line "LTC (60.0+0.60s)" [3422, 3517, 3525]
-  line "VLTC (2m24s+1.12s)" [3470, 3540, 3548]
-  line "VLTC (2m24s+1.12s)" [3470, 3540, 3548]
+  line "VLTC (2m24s+1.12s)" [3470, 3540, 3549]
+  line "VLTC (2m24s+1.12s)" [3470, 3540, 3549]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -52,7 +52,7 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3548 | 26 | 344 | 51% | 3542 | 86% |
+| 6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3549 | 26 | 344 | 51% | 3542 | 86% |
 | 6.0 | LTC <sub>(60.0+0.60s)</sub> | 3525 | 25 | 356 | 49% | 3530 | 85% |
 | 6.0 | STC <sub>(8.0+0.08s)</sub> | 3341 | 25 | 388 | 49% | 3349 | 72% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
