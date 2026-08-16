@@ -8,7 +8,7 @@ Home: https://github.com/jdart1/arasan-chess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 26.0 | 2026-07-24 | 3237<sub>(+9) | 3418<sub>(-7) | 3460<sub>(-16) |  |
+| 26.0 | 2026-07-24 | 3236<sub>(+8) | 3418<sub>(-7) | 3460<sub>(-16) |  |
 | 25.4 | 2026-04-15 | 3228<sub>(0) | 3425<sub>(0) | 3476<sub>(0) |  |
 | 25.4 | 2026-04-15 | 3228<sub>(-4) | 3425<sub>(+7) | 3476<sub>(+13) |  |
 | 25.3 | 2025-12-28 | 3232 | 3418 | 3463 |  |
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-15 06:22:38
+Generated: 2026-08-16 06:22:39
 
 ## Ratings Verlauf
 
@@ -36,8 +36,8 @@ Generated: 2026-08-15 06:22:38
 xychart-beta
   x-axis ["25.3", "25.4", "25.4", "26.0"]
   y-axis "Elo Rating" 3200 --> 3500
-  line "STC (8.0+0.08s)" [3232, 3228, 3228, 3237]
-  line "STC (8.0+0.08s)" [3232, 3228, 3228, 3237]
+  line "STC (8.0+0.08s)" [3232, 3228, 3228, 3236]
+  line "STC (8.0+0.08s)" [3232, 3228, 3228, 3236]
   line "LTC (60.0+0.60s)" [3418, 3425, 3425, 3418]
   line "VLTC (2m24s+1.12s)" [3463, 3476, 3476, 3460]
   line "VLTC (2m24s+1.12s)" [3463, 3476, 3476, 3460]
@@ -53,9 +53,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 26.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3460 | 32 | 232 | 50% | 3459 | 83% |
-| 26.0 | LTC <sub>(60.0+0.60s)</sub> | 3418 | 31 | 248 | 50% | 3418 | 78% |
-| 26.0 | STC <sub>(8.0+0.08s)</sub> | 3237 | 28 | 320 | 49% | 3245 | 65% |
+| 26.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3460 | 31 | 240 | 50% | 3459 | 83% |
+| 26.0 | LTC <sub>(60.0+0.60s)</sub> | 3418 | 31 | 252 | 50% | 3418 | 79% |
+| 26.0 | STC <sub>(8.0+0.08s)</sub> | 3236 | 28 | 320 | 49% | 3245 | 65% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 25.4 | VLTC <sub>(2m24s+1.12s)</sub> | 3476 | 24 | 408 | 49% | 3480 | 86% |
 | 25.4 | LTC <sub>(60.0+0.60s)</sub> | 3425 | 24 | 404 | 50% | 3426 | 78% |
