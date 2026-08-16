@@ -8,7 +8,7 @@ Home: https://github.com/LarsAur/Arcanum
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.8 | 2026-05-16 | 2896<sub>(+8) | 3216<sub>(+26) | 3275<sub>(+24) |  |
+| 2.8 | 2026-05-16 | 2898<sub>(+10) | 3216<sub>(+26) | 3272<sub>(+21) |  |
 | 2.7 | 2025-10-18 | 2888 | 3190 | 3251 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-15 06:22:40
+Generated: 2026-08-16 06:22:41
 
 ## Ratings Verlauf
 
@@ -34,11 +34,11 @@ Generated: 2026-08-15 06:22:40
 xychart-beta
   x-axis ["2.7", "2.8"]
   y-axis "Elo Rating" 2800 --> 3300
-  line "STC (8.0+0.08s)" [2888, 2896]
-  line "STC (8.0+0.08s)" [2888, 2896]
+  line "STC (8.0+0.08s)" [2888, 2898]
+  line "STC (8.0+0.08s)" [2888, 2898]
   line "LTC (60.0+0.60s)" [3190, 3216]
-  line "VLTC (2m24s+1.12s)" [3251, 3275]
-  line "VLTC (2m24s+1.12s)" [3251, 3275]
+  line "VLTC (2m24s+1.12s)" [3251, 3272]
+  line "VLTC (2m24s+1.12s)" [3251, 3272]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -51,9 +51,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.8 | VLTC <sub>(2m24s+1.12s)</sub> | 3275 | 26 | 392 | 50% | 3275 | 64% |
+| 2.8 | VLTC <sub>(2m24s+1.12s)</sub> | 3272 | 26 | 396 | 50% | 3275 | 64% |
 | 2.8 | LTC <sub>(60.0+0.60s)</sub> | 3216 | 27 | 388 | 50% | 3213 | 56% |
-| 2.8 | STC <sub>(8.0+0.08s)</sub> | 2896 | 26 | 448 | 49% | 2911 | 44% |
+| 2.8 | STC <sub>(8.0+0.08s)</sub> | 2898 | 26 | 452 | 49% | 2911 | 44% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.7 | VLTC <sub>(2m24s+1.12s)</sub> | 3251 | 27 | 394 | 54% | 3216 | 56% |
 | 2.7 | LTC <sub>(60.0+0.60s)</sub> | 3190 | 26 | 424 | 50% | 3173 | 57% |
