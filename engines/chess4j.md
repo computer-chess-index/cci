@@ -8,8 +8,8 @@ Home: https://github.com/jswaff/chess4j
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.3 | 2026-06-06 | 1854<sub>(+9) | 2168<sub>(-30) | 2298<sub>(+12) |  |
-| 6.2 | 2025-09-16 | 1845 | 2198 | 2286 |  |
+| 6.3 | 2026-06-06 | 1854<sub>(+9) | 2168<sub>(-31) | 2298<sub>(+12) |  |
+| 6.2 | 2025-09-16 | 1845 | 2199 | 2286 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+chess4j+<version>&body=###%20Engine%20name%0Achess4j%0A%0A###%20Version%0A6.3" target="_blank">Submit new version</a>
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-15 06:23:45
+Generated: 2026-08-16 06:23:46
 
 ## Ratings Verlauf
 
@@ -36,7 +36,7 @@ xychart-beta
   y-axis "Elo Rating" 1800 --> 2300
   line "STC (8.0+0.08s)" [1845, 1854]
   line "STC (8.0+0.08s)" [1845, 1854]
-  line "LTC (60.0+0.60s)" [2198, 2168]
+  line "LTC (60.0+0.60s)" [2199, 2168]
   line "VLTC (2m24s+1.12s)" [2286, 2298]
   line "VLTC (2m24s+1.12s)" [2286, 2298]
 ```
@@ -52,10 +52,10 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 6.3 | VLTC <sub>(2m24s+1.12s)</sub> | 2298 | 31 | 340 | 51% | 2290 | 29% |
-| 6.3 | LTC <sub>(60.0+0.60s)</sub> | 2168 | 33 | 318 | 50% | 2163 | 23% |
+| 6.3 | LTC <sub>(60.0+0.60s)</sub> | 2168 | 33 | 318 | 50% | 2164 | 23% |
 | 6.3 | STC <sub>(8.0+0.08s)</sub> | 1854 | 31 | 370 | 48% | 1875 | 21% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 6.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2286 | 27 | 468 | 49% | 2295 | 30% |
-| 6.2 | LTC <sub>(60.0+0.60s)</sub> | 2198 | 27 | 452 | 50% | 2191 | 28% |
+| 6.2 | LTC <sub>(60.0+0.60s)</sub> | 2199 | 27 | 452 | 50% | 2191 | 28% |
 | 6.2 | STC <sub>(8.0+0.08s)</sub> | 1845 | 25 | 584 | 51% | 1835 | 20% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
