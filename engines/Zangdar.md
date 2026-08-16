@@ -8,7 +8,7 @@ Home: https://github.com/Carbecq/Zangdar
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7 | 2026-07-13 | 3289<sub>(+98) | 3447<sub>(+80) | 3486<sub>(+95) |  |
+| 7 | 2026-07-13 | 3290<sub>(+99) | 3447<sub>(+80) | 3486<sub>(+95) |  |
 | 6.1.1 | 2026-02-25 | 3191<sub>(+55) | 3367<sub>(+7) | 3391<sub>(-31) |  |
 | 6.1 | 2026-02-10 | 3136<sub>(+1) | 3360<sub>(+16) | 3422<sub>(+27) |  |
 | 6 | 2026-02-07 | 3135<sub>(+12) | 3344<sub>(+5) | 3395<sub>(+15) |  |
@@ -28,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-15 06:34:18
+Generated: 2026-08-16 06:36:06
 
 ## Ratings Verlauf
 
@@ -37,8 +37,8 @@ Generated: 2026-08-15 06:34:18
 xychart-beta
   x-axis ["5.00.02", "6", "6.1", "6.1.1", "7"]
   y-axis "Elo Rating" 3100 --> 3500
-  line "STC (8.0+0.08s)" [3123, 3135, 3136, 3191, 3289]
-  line "STC (8.0+0.08s)" [3123, 3135, 3136, 3191, 3289]
+  line "STC (8.0+0.08s)" [3123, 3135, 3136, 3191, 3290]
+  line "STC (8.0+0.08s)" [3123, 3135, 3136, 3191, 3290]
   line "LTC (60.0+0.60s)" [3339, 3344, 3360, 3367, 3447]
   line "VLTC (2m24s+1.12s)" [3380, 3395, 3422, 3391, 3486]
   line "VLTC (2m24s+1.12s)" [3380, 3395, 3422, 3391, 3486]
@@ -54,9 +54,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 7 | VLTC <sub>(2m24s+1.12s)</sub> | 3486 | 41 | 144 | 49% | 3491 | 78% |
+| 7 | VLTC <sub>(2m24s+1.12s)</sub> | 3486 | 41 | 144 | 49% | 3492 | 78% |
 | 7 | LTC <sub>(60.0+0.60s)</sub> | 3447 | 40 | 150 | 50% | 3445 | 78% |
-| 7 | STC <sub>(8.0+0.08s)</sub> | 3289 | 30 | 284 | 49% | 3293 | 68% |
+| 7 | STC <sub>(8.0+0.08s)</sub> | 3290 | 30 | 288 | 49% | 3293 | 68% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 6.1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3391 | 25 | 394 | 50% | 3390 | 75% |
 | 6.1.1 | LTC <sub>(60.0+0.60s)</sub> | 3367 | 26 | 364 | 51% | 3363 | 70% |
