@@ -8,9 +8,9 @@ Home: https://github.com/likeawizard/tofiks
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.5.0 | 2026-04-23 | 2175<sub>(+141) | 2421<sub>(+112) | 2465<sub>(+78) |  |
-| 1.4.1 | 2026-04-11 | 2034<sub>(-40) | 2309<sub>(+29) | 2387<sub>(+15) |  |
-| 1.4.0 | 2026-04-09 | 2074 | 2280 | 2372 |  |
+| 1.5.0 | 2026-04-23 | 2175<sub>(+139) | 2422<sub>(+112) | 2465<sub>(+78) |  |
+| 1.4.1 | 2026-04-11 | 2036<sub>(-39) | 2310<sub>(+30) | 2387<sub>(+15) |  |
+| 1.4.0 | 2026-04-09 | 2075 | 2280 | 2372 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Tofiks+<version>&body=###%20Engine%20name%0ATofiks%0A%0A###%20Version%0A1.5.0" target="_blank">Submit new version</a>
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-15 06:29:55
+Generated: 2026-08-16 06:29:59
 
 ## Ratings Verlauf
 
@@ -35,9 +35,9 @@ Generated: 2026-08-15 06:29:55
 xychart-beta
   x-axis ["1.4.0", "1.4.1", "1.5.0"]
   y-axis "Elo Rating" 2000 --> 2500
-  line "STC (8.0+0.08s)" [2074, 2034, 2175]
-  line "STC (8.0+0.08s)" [2074, 2034, 2175]
-  line "LTC (60.0+0.60s)" [2280, 2309, 2421]
+  line "STC (8.0+0.08s)" [2075, 2036, 2175]
+  line "STC (8.0+0.08s)" [2075, 2036, 2175]
+  line "LTC (60.0+0.60s)" [2280, 2310, 2422]
   line "VLTC (2m24s+1.12s)" [2372, 2387, 2465]
   line "VLTC (2m24s+1.12s)" [2372, 2387, 2465]
 ```
@@ -53,14 +53,14 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.5.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2465 | 26 | 492 | 49% | 2472 | 34% |
-| 1.5.0 | LTC <sub>(60.0+0.60s)</sub> | 2421 | 26 | 480 | 51% | 2414 | 33% |
+| 1.5.0 | LTC <sub>(60.0+0.60s)</sub> | 2422 | 26 | 480 | 51% | 2414 | 33% |
 | 1.5.0 | STC <sub>(8.0+0.08s)</sub> | 2175 | 26 | 516 | 47% | 2194 | 22% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.4.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2387 | 33 | 292 | 50% | 2383 | 33% |
-| 1.4.1 | LTC <sub>(60.0+0.60s)</sub> | 2309 | 34 | 296 | 50% | 2307 | 29% |
-| 1.4.1 | STC <sub>(8.0+0.08s)</sub> | 2034 | 34 | 302 | 51% | 2022 | 26% |
+| 1.4.1 | LTC <sub>(60.0+0.60s)</sub> | 2310 | 34 | 296 | 50% | 2307 | 29% |
+| 1.4.1 | STC <sub>(8.0+0.08s)</sub> | 2036 | 34 | 302 | 51% | 2022 | 26% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.4.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2372 | 40 | 216 | 47% | 2400 | 29% |
 | 1.4.0 | LTC <sub>(60.0+0.60s)</sub> | 2280 | 39 | 226 | 53% | 2257 | 29% |
-| 1.4.0 | STC <sub>(8.0+0.08s)</sub> | 2074 | 43 | 184 | 50% | 2070 | 23% |
+| 1.4.0 | STC <sub>(8.0+0.08s)</sub> | 2075 | 43 | 184 | 50% | 2070 | 23% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
