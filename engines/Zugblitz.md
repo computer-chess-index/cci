@@ -8,7 +8,7 @@ Home: https://github.com/P1X3R/zugblitz
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.3.2 | 2026-06-13 | 1840<sub>(-10) | 2083<sub>(-51) | 2203<sub>(+28) |  |
+| 1.3.2 | 2026-06-13 | 1839<sub>(-11) | 2084<sub>(-50) | 2203<sub>(+28) |  |
 | 1.3.1 | 2026-01-10 | 1850 | 2134 | 2175 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-16 06:37:43
+Generated: 2026-08-17 06:51:12
 
 ## Ratings Verlauf
 
@@ -34,9 +34,9 @@ Generated: 2026-08-16 06:37:43
 xychart-beta
   x-axis ["1.3.1", "1.3.2"]
   y-axis "Elo Rating" 1800 --> 2300
-  line "STC (8.0+0.08s)" [1850, 1840]
-  line "STC (8.0+0.08s)" [1850, 1840]
-  line "LTC (60.0+0.60s)" [2134, 2083]
+  line "STC (8.0+0.08s)" [1850, 1839]
+  line "STC (8.0+0.08s)" [1850, 1839]
+  line "LTC (60.0+0.60s)" [2134, 2084]
   line "VLTC (2m24s+1.12s)" [2175, 2203]
   line "VLTC (2m24s+1.12s)" [2175, 2203]
 ```
@@ -52,8 +52,8 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.3.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2203 | 31 | 336 | 51% | 2205 | 33% |
-| 1.3.2 | LTC <sub>(60.0+0.60s)</sub> | 2083 | 30 | 358 | 53% | 2060 | 33% |
-| 1.3.2 | STC <sub>(8.0+0.08s)</sub> | 1840 | 32 | 328 | 52% | 1825 | 28% |
+| 1.3.2 | LTC <sub>(60.0+0.60s)</sub> | 2084 | 30 | 362 | 53% | 2060 | 33% |
+| 1.3.2 | STC <sub>(8.0+0.08s)</sub> | 1839 | 32 | 328 | 52% | 1824 | 28% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2175 | 27 | 456 | 49% | 2183 | 35% |
 | 1.3.1 | LTC <sub>(60.0+0.60s)</sub> | 2134 | 28 | 422 | 49% | 2141 | 28% |
