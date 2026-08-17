@@ -8,7 +8,7 @@ Home: https://github.com/Lacovipo/Gilipol
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.00 | 2026-06-06 | 2668<sub>(+137) | 2979<sub>(+125) | 3094<sub>(+101) |  |
+| 2.00 | 2026-06-06 | 2668<sub>(+137) | 2978<sub>(+124) | 3092<sub>(+99) |  |
 | 1.00netbin | 2026-04-13 | 2531<sub>(+2141) | 2854<sub>(+2403) | 2993<sub>(+2531) |  |
 | 1.00 | 2026-04-12 | 390 | 451 | 462 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-16 06:25:16
+Generated: 2026-08-17 06:25:41
 
 ## Ratings Verlauf
 
@@ -37,9 +37,9 @@ xychart-beta
   y-axis "Elo Rating" 300 --> 3100
   line "STC (8.0+0.08s)" [390, 2531, 2668]
   line "STC (8.0+0.08s)" [390, 2531, 2668]
-  line "LTC (60.0+0.60s)" [451, 2854, 2979]
-  line "VLTC (2m24s+1.12s)" [462, 2993, 3094]
-  line "VLTC (2m24s+1.12s)" [462, 2993, 3094]
+  line "LTC (60.0+0.60s)" [451, 2854, 2978]
+  line "VLTC (2m24s+1.12s)" [462, 2993, 3092]
+  line "VLTC (2m24s+1.12s)" [462, 2993, 3092]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -52,8 +52,8 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.00 | VLTC <sub>(2m24s+1.12s)</sub> | 3094 | 26 | 422 | 52% | 3071 | 53% |
-| 2.00 | LTC <sub>(60.0+0.60s)</sub> | 2979 | 28 | 384 | 51% | 2962 | 45% |
+| 2.00 | VLTC <sub>(2m24s+1.12s)</sub> | 3092 | 26 | 430 | 52% | 3073 | 53% |
+| 2.00 | LTC <sub>(60.0+0.60s)</sub> | 2978 | 28 | 388 | 51% | 2962 | 45% |
 | 2.00 | STC <sub>(8.0+0.08s)</sub> | 2668 | 30 | 352 | 53% | 2637 | 33% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.00netbin | VLTC <sub>(2m24s+1.12s)</sub> | 2993 | 28 | 426 | 57% | 2776 | 41% |
