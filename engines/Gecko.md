@@ -12,8 +12,8 @@ Home: https://github.com/sgtqwq/Gecko
 | 0.35 | 2026-05-13 | 2600<sub>(+112) | 2935<sub>(+70) | 3016<sub>(+100) |  |
 | 0.30 | 2026-05-01 | 2488<sub>(+16) | 2865<sub>(+120) | 2916<sub>(+93) |  |
 | 0.25.1 | 2026-04-12 | 2472<sub>(+88) | 2745<sub>(+98) | 2823<sub>(+116) |  |
-| 0.25 | 2026-04-06 | 2384<sub>(+514) | 2647<sub>(+592) | 2707<sub>(+562) |  |
-| 0.08 | 2026-02-05 | 1870 | 2055 | 2145 |  |
+| 0.25 | 2026-04-06 | 2384<sub>(+514) | 2647<sub>(+591) | 2707<sub>(+562) |  |
+| 0.08 | 2026-02-05 | 1870 | 2056 | 2145 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Gecko+<version>&body=###%20Engine%20name%0AGecko%0A%0A###%20Version%0A0.40" target="_blank">Submit new version</a>
@@ -29,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-16 06:25:13
+Generated: 2026-08-17 06:25:39
 
 ## Ratings Verlauf
 
@@ -40,7 +40,7 @@ xychart-beta
   y-axis "Elo Rating" 1800 --> 3100
   line "STC (8.0+0.08s)" [1870, 2384, 2472, 2488, 2600, 2665]
   line "STC (8.0+0.08s)" [1870, 2384, 2472, 2488, 2600, 2665]
-  line "LTC (60.0+0.60s)" [2055, 2647, 2745, 2865, 2935, 2965]
+  line "LTC (60.0+0.60s)" [2056, 2647, 2745, 2865, 2935, 2965]
   line "VLTC (2m24s+1.12s)" [2145, 2707, 2823, 2916, 3016, 3035]
   line "VLTC (2m24s+1.12s)" [2145, 2707, 2823, 2916, 3016, 3035]
 ```
@@ -76,6 +76,6 @@ xychart-beta
 | 0.25 | STC <sub>(8.0+0.08s)</sub> | 2384 | 37 | 236 | 55% | 2338 | 36% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.08 | VLTC <sub>(2m24s+1.12s)</sub> | 2145 | 28 | 392 | 46% | 2194 | 40% |
-| 0.08 | LTC <sub>(60.0+0.60s)</sub> | 2055 | 29 | 384 | 48% | 2083 | 35% |
+| 0.08 | LTC <sub>(60.0+0.60s)</sub> | 2056 | 29 | 384 | 48% | 2083 | 35% |
 | 0.08 | STC <sub>(8.0+0.08s)</sub> | 1870 | 31 | 356 | 48% | 1894 | 31% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
