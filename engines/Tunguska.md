@@ -8,7 +8,7 @@ Home: https://github.com/fernandotenorio/Tunguska
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1 | 2026-04-08 | 2804<sub>(+312) | 3133<sub>(+295) | 3200<sub>(+283) |  |
+| 2.1 | 2026-04-08 | 2804<sub>(+312) | 3136<sub>(+298) | 3200<sub>(+283) |  |
 | 2.0 | 2026-03-18 | 2492 | 2838 | 2917 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-16 06:32:50
+Generated: 2026-08-17 06:46:14
 
 ## Ratings Verlauf
 
@@ -36,7 +36,7 @@ xychart-beta
   y-axis "Elo Rating" 2400 --> 3200
   line "STC (8.0+0.08s)" [2492, 2804]
   line "STC (8.0+0.08s)" [2492, 2804]
-  line "LTC (60.0+0.60s)" [2838, 3133]
+  line "LTC (60.0+0.60s)" [2838, 3136]
   line "VLTC (2m24s+1.12s)" [2917, 3200]
   line "VLTC (2m24s+1.12s)" [2917, 3200]
 ```
@@ -52,7 +52,7 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3200 | 24 | 472 | 50% | 3197 | 58% |
-| 2.1 | LTC <sub>(60.0+0.60s)</sub> | 3133 | 25 | 426 | 52% | 3114 | 59% |
+| 2.1 | LTC <sub>(60.0+0.60s)</sub> | 3136 | 25 | 430 | 52% | 3114 | 58% |
 | 2.1 | STC <sub>(8.0+0.08s)</sub> | 2804 | 24 | 516 | 48% | 2820 | 47% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2917 | 30 | 356 | 51% | 2901 | 37% |
