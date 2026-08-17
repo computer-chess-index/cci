@@ -8,8 +8,8 @@ Home: https://github.com/KierenP/Halogen
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 16.0.0 | 2026-02-10 | 3351<sub>(+75) | 3514<sub>(+54) | 3540<sub>(+25) |  |
-| 15.0.0 | 2025-09-01 | 3276 | 3460 | 3515 |  |
+| 16.0.0 | 2026-02-10 | 3351<sub>(+75) | 3514<sub>(+54) | 3541<sub>(+24) |  |
+| 15.0.0 | 2025-09-01 | 3276 | 3460 | 3517 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Halogen+<version>&body=###%20Engine%20name%0AHalogen%0A%0A###%20Version%0A16.0.0" target="_blank">Submit new version</a>
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-16 06:25:28
+Generated: 2026-08-17 06:25:55
 
 ## Ratings Verlauf
 
@@ -37,8 +37,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [3276, 3351]
   line "STC (8.0+0.08s)" [3276, 3351]
   line "LTC (60.0+0.60s)" [3460, 3514]
-  line "VLTC (2m24s+1.12s)" [3515, 3540]
-  line "VLTC (2m24s+1.12s)" [3515, 3540]
+  line "VLTC (2m24s+1.12s)" [3517, 3541]
+  line "VLTC (2m24s+1.12s)" [3517, 3541]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -51,11 +51,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 16.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3540 | 21 | 506 | 50% | 3540 | 87% |
-| 16.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3514 | 21 | 520 | 50% | 3513 | 86% |
+| 16.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3541 | 21 | 506 | 50% | 3541 | 87% |
+| 16.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3514 | 21 | 520 | 50% | 3514 | 86% |
 | 16.0.0 | STC <sub>(8.0+0.08s)</sub> | 3351 | 21 | 582 | 49% | 3353 | 75% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 15.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3515 | 27 | 324 | 52% | 3498 | 83% |
+| 15.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3517 | 27 | 324 | 52% | 3499 | 83% |
 | 15.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3460 | 30 | 276 | 52% | 3441 | 79% |
 | 15.0.0 | STC <sub>(8.0+0.08s)</sub> | 3276 | 32 | 256 | 54% | 3237 | 64% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
