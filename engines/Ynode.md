@@ -8,8 +8,8 @@ Home: https://github.com/oozturk777/ynode
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0234 | 2026-03-22 | 3120<sub>(-11) | 3333<sub>(+23) | 3384<sub>(+24) |  |
-| 0219 | 2025-11-16 | 3131 | 3310 | 3360 |  |
+| 0234 | 2026-03-22 | 3121<sub>(-10) | 3333<sub>(+21) | 3384<sub>(+24) |  |
+| 0219 | 2025-11-16 | 3131 | 3312 | 3360 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Ynode+<version>&body=###%20Engine%20name%0AYnode%0A%0A###%20Version%0A0234" target="_blank">Submit new version</a>
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-16 06:35:10
+Generated: 2026-08-17 06:48:27
 
 ## Ratings Verlauf
 
@@ -34,9 +34,9 @@ Generated: 2026-08-16 06:35:10
 xychart-beta
   x-axis ["0219", "0234"]
   y-axis "Elo Rating" 3100 --> 3400
-  line "STC (8.0+0.08s)" [3131, 3120]
-  line "STC (8.0+0.08s)" [3131, 3120]
-  line "LTC (60.0+0.60s)" [3310, 3333]
+  line "STC (8.0+0.08s)" [3131, 3121]
+  line "STC (8.0+0.08s)" [3131, 3121]
+  line "LTC (60.0+0.60s)" [3312, 3333]
   line "VLTC (2m24s+1.12s)" [3360, 3384]
   line "VLTC (2m24s+1.12s)" [3360, 3384]
 ```
@@ -52,10 +52,10 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0234 | VLTC <sub>(2m24s+1.12s)</sub> | 3384 | 26 | 350 | 50% | 3386 | 81% |
-| 0234 | LTC <sub>(60.0+0.60s)</sub> | 3333 | 25 | 380 | 51% | 3324 | 75% |
-| 0234 | STC <sub>(8.0+0.08s)</sub> | 3120 | 25 | 440 | 50% | 3120 | 57% |
+| 0234 | LTC <sub>(60.0+0.60s)</sub> | 3333 | 25 | 380 | 51% | 3325 | 75% |
+| 0234 | STC <sub>(8.0+0.08s)</sub> | 3121 | 25 | 444 | 50% | 3120 | 57% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0219 | VLTC <sub>(2m24s+1.12s)</sub> | 3360 | 27 | 336 | 52% | 3335 | 79% |
-| 0219 | LTC <sub>(60.0+0.60s)</sub> | 3310 | 25 | 406 | 49% | 3303 | 72% |
-| 0219 | STC <sub>(8.0+0.08s)</sub> | 3131 | 24 | 490 | 53% | 3085 | 57% |
+| 0219 | LTC <sub>(60.0+0.60s)</sub> | 3312 | 25 | 406 | 49% | 3303 | 72% |
+| 0219 | STC <sub>(8.0+0.08s)</sub> | 3131 | 24 | 490 | 53% | 3086 | 57% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
