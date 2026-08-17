@@ -8,7 +8,7 @@ Home: https://github.com/tomcant/chess-rs
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.3.0 | 2026-02-16 | 2142<sub>(+156) | 2415<sub>(+120) | 2480<sub>(+103) |  |
+| 1.3.0 | 2026-02-16 | 2144<sub>(+158) | 2415<sub>(+120) | 2480<sub>(+103) |  |
 | 1.2.0 | 2026-02-01 | 1986<sub>(+192) | 2295<sub>(+274) | 2377<sub>(+235) |  |
 | 1.1.0 | 2026-01-16 | 1794<sub>(+55) | 2021<sub>(+63) | 2142<sub>(+125) |  |
 | 1.0.0 | 2026-01-02 | 1739 | 1958 | 2017 | Previously: chess-rs |
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-16 06:22:34
+Generated: 2026-08-17 06:22:35
 
 ## Ratings Verlauf
 
@@ -36,8 +36,8 @@ Generated: 2026-08-16 06:22:34
 xychart-beta
   x-axis ["1.0.0", "1.1.0", "1.2.0", "1.3.0"]
   y-axis "Elo Rating" 1700 --> 2500
-  line "STC (8.0+0.08s)" [1739, 1794, 1986, 2142]
-  line "STC (8.0+0.08s)" [1739, 1794, 1986, 2142]
+  line "STC (8.0+0.08s)" [1739, 1794, 1986, 2144]
+  line "STC (8.0+0.08s)" [1739, 1794, 1986, 2144]
   line "LTC (60.0+0.60s)" [1958, 2021, 2295, 2415]
   line "VLTC (2m24s+1.12s)" [2017, 2142, 2377, 2480]
   line "VLTC (2m24s+1.12s)" [2017, 2142, 2377, 2480]
@@ -53,9 +53,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2480 | 27 | 466 | 49% | 2489 | 26% |
+| 1.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2480 | 27 | 470 | 49% | 2489 | 26% |
 | 1.3.0 | LTC <sub>(60.0+0.60s)</sub> | 2415 | 27 | 480 | 51% | 2408 | 27% |
-| 1.3.0 | STC <sub>(8.0+0.08s)</sub> | 2142 | 25 | 572 | 49% | 2149 | 24% |
+| 1.3.0 | STC <sub>(8.0+0.08s)</sub> | 2144 | 25 | 572 | 49% | 2149 | 24% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2377 | 38 | 244 | 52% | 2357 | 25% |
 | 1.2.0 | LTC <sub>(60.0+0.60s)</sub> | 2295 | 41 | 196 | 49% | 2304 | 28% |
