@@ -8,7 +8,7 @@ Home: https://github.com/tomitank/tomitankChess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7.0 | 2026-07-06 | 2518<sub>(+49) | 2827<sub>(+24) | 2900<sub>(+30) |  |
+| 7.0 | 2026-07-06 | 2519<sub>(+50) | 2826<sub>(+23) | 2900<sub>(+30) |  |
 | 6.0 | 2026-03-31 | 2469<sub>(+92) | 2803<sub>(+95) | 2870<sub>(+74) |  |
 | 5.3 | 2025-09-26 | 2377 | 2708 | 2796 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-16 06:30:48
+Generated: 2026-08-17 06:43:19
 
 ## Ratings Verlauf
 
@@ -35,9 +35,9 @@ Generated: 2026-08-16 06:30:48
 xychart-beta
   x-axis ["5.3", "6.0", "7.0"]
   y-axis "Elo Rating" 2300 --> 2900
-  line "STC (8.0+0.08s)" [2377, 2469, 2518]
-  line "STC (8.0+0.08s)" [2377, 2469, 2518]
-  line "LTC (60.0+0.60s)" [2708, 2803, 2827]
+  line "STC (8.0+0.08s)" [2377, 2469, 2519]
+  line "STC (8.0+0.08s)" [2377, 2469, 2519]
+  line "LTC (60.0+0.60s)" [2708, 2803, 2826]
   line "VLTC (2m24s+1.12s)" [2796, 2870, 2900]
   line "VLTC (2m24s+1.12s)" [2796, 2870, 2900]
 ```
@@ -53,8 +53,8 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 7.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2900 | 30 | 328 | 52% | 2881 | 45% |
-| 7.0 | LTC <sub>(60.0+0.60s)</sub> | 2827 | 31 | 308 | 50% | 2823 | 44% |
-| 7.0 | STC <sub>(8.0+0.08s)</sub> | 2518 | 32 | 328 | 48% | 2539 | 28% |
+| 7.0 | LTC <sub>(60.0+0.60s)</sub> | 2826 | 31 | 316 | 50% | 2824 | 45% |
+| 7.0 | STC <sub>(8.0+0.08s)</sub> | 2519 | 32 | 332 | 48% | 2538 | 28% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2870 | 27 | 406 | 50% | 2871 | 43% |
 | 6.0 | LTC <sub>(60.0+0.60s)</sub> | 2803 | 29 | 362 | 50% | 2800 | 38% |
