@@ -8,7 +8,7 @@ Home: https://github.com/Dragjon/weak-chess-engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | 2025-08-11 | 2520 | 2865 | 2916 |  |
+| 1.0.0 | 2025-08-11 | 2519 | 2865 | 2916 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Weak+<version>&body=###%20Engine%20name%0AWeak%0A%0A###%20Version%0A1.0.0" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-16 06:33:10
+Generated: 2026-08-17 06:47:18
 
 
 
@@ -33,6 +33,6 @@ Generated: 2026-08-16 06:33:10
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2916 | 26 | 442 | 51% | 2900 | 44% |
-| 1.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2865 | 24 | 574 | 51% | 2836 | 36% |
-| 1.0.0 | STC <sub>(8.0+0.08s)</sub> | 2520 | 22 | 668 | 50% | 2496 | 32% |
+| 1.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2865 | 24 | 578 | 51% | 2836 | 36% |
+| 1.0.0 | STC <sub>(8.0+0.08s)</sub> | 2519 | 22 | 672 | 50% | 2496 | 32% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
