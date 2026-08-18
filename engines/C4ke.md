@@ -8,7 +8,7 @@ Home: https://github.com/citrus610/c4ke
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0 | 2026-01-05 | 2730 | 3078 | 3127 |  |
+| 3.0 | 2026-01-05 | 2734 | 3082 | 3132 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+C4ke+<version>&body=###%20Engine%20name%0AC4ke%0A%0A###%20Version%0A3.0" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-17 06:23:18
+Generated: 2026-08-18 06:23:17
 
 
 
@@ -32,7 +32,7 @@ Generated: 2026-08-17 06:23:18
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3127 | 25 | 476 | 49% | 3137 | 49% |
-| 3.0 | LTC <sub>(60.0+0.60s)</sub> | 3078 | 25 | 500 | 51% | 3069 | 42% |
-| 3.0 | STC <sub>(8.0+0.08s)</sub> | 2730 | 23 | 604 | 48% | 2745 | 36% |
+| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3132 | 25 | 480 | 49% | 3141 | 49% |
+| 3.0 | LTC <sub>(60.0+0.60s)</sub> | 3082 | 25 | 504 | 51% | 3073 | 42% |
+| 3.0 | STC <sub>(8.0+0.08s)</sub> | 2734 | 23 | 608 | 48% | 2749 | 36% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
