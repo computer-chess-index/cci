@@ -10,7 +10,7 @@ Home: https://github.com/all-c-a-p-s/Panda
 | --- | --- | --- | --- | --- | --- |
 | 2.0 | 2026-07-12 |  |  |  |  |
 | 1.2 | 2026-06-10 |  |  |  |  |
-| 1.1.1 | 2025-08-18 | 2704 | 3059 | 3047 |  |
+| 1.1.1 | 2025-08-18 | 2708 | 3063 | 3051 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Panda+<version>&body=###%20Engine%20name%0APanda%0A%0A###%20Version%0A2.0" target="_blank">Submit new version</a>
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-17 06:27:53
+Generated: 2026-08-18 06:27:35
 
 
 
@@ -34,7 +34,7 @@ Generated: 2026-08-17 06:27:53
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3047 | 58 | 84 | 46% | 3085 | 54% |
-| 1.1.1 | LTC <sub>(60.0+0.60s)</sub> | 3059 | 67 | 66 | 57% | 2990 | 47% |
-| 1.1.1 | STC <sub>(8.0+0.08s)</sub> | 2704 | 65 | 80 | 48% | 2701 | 33% |
+| 1.1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3051 | 58 | 84 | 46% | 3090 | 54% |
+| 1.1.1 | LTC <sub>(60.0+0.60s)</sub> | 3063 | 67 | 66 | 57% | 2994 | 47% |
+| 1.1.1 | STC <sub>(8.0+0.08s)</sub> | 2708 | 65 | 80 | 48% | 2705 | 33% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
