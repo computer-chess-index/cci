@@ -8,7 +8,7 @@ Home: https://github.com/paulsonkoly/chess-3
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.0 | 2026-04-02 | 2495<sub>(+33) | 2799<sub>(+52) | 2884<sub>(+91) |  |
+| 4.0 | 2026-04-02 | 2495<sub>(+33) | 2799<sub>(+52) | 2885<sub>(+92) |  |
 | 3.0 | 2026-01-17 | 2462 | 2747 | 2793 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-18 06:23:43
+Generated: 2026-08-19 06:23:49
 
 ## Ratings Verlauf
 
@@ -37,8 +37,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [2462, 2495]
   line "STC (8.0+0.08s)" [2462, 2495]
   line "LTC (60.0+0.60s)" [2747, 2799]
-  line "VLTC (2m24s+1.12s)" [2793, 2884]
-  line "VLTC (2m24s+1.12s)" [2793, 2884]
+  line "VLTC (2m24s+1.12s)" [2793, 2885]
+  line "VLTC (2m24s+1.12s)" [2793, 2885]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -51,11 +51,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2884 | 24 | 536 | 52% | 2867 | 40% |
+| 4.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2885 | 24 | 536 | 52% | 2867 | 40% |
 | 4.0 | LTC <sub>(60.0+0.60s)</sub> | 2799 | 24 | 542 | 50% | 2797 | 37% |
-| 4.0 | STC <sub>(8.0+0.08s)</sub> | 2495 | 24 | 560 | 50% | 2499 | 29% |
+| 4.0 | STC <sub>(8.0+0.08s)</sub> | 2495 | 24 | 568 | 50% | 2499 | 29% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2793 | 32 | 316 | 49% | 2805 | 34% |
+| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2793 | 32 | 316 | 49% | 2807 | 34% |
 | 3.0 | LTC <sub>(60.0+0.60s)</sub> | 2747 | 32 | 320 | 50% | 2743 | 35% |
 | 3.0 | STC <sub>(8.0+0.08s)</sub> | 2462 | 27 | 440 | 49% | 2466 | 34% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
