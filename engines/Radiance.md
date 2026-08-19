@@ -8,7 +8,7 @@ Home: https://github.com/ppipelin/radiance
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.4 | 2026-04-23 | 1706<sub>(+36) | 2059<sub>(+111) | 2190<sub>(+97) |  |
+| 4.4 | 2026-04-23 | 1706<sub>(+36) | 2059<sub>(+111) | 2191<sub>(+98) |  |
 | 4.3 | 2026-03-25 | 1670<sub>(+90) | 1948<sub>(+104) | 2093<sub>(+202) |  |
 | 4.2 | 2026-01-17 | 1580 | 1844 | 1891 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-18 06:28:26
+Generated: 2026-08-19 06:28:24
 
 ## Ratings Verlauf
 
@@ -38,8 +38,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [1580, 1670, 1706]
   line "STC (8.0+0.08s)" [1580, 1670, 1706]
   line "LTC (60.0+0.60s)" [1844, 1948, 2059]
-  line "VLTC (2m24s+1.12s)" [1891, 2093, 2190]
-  line "VLTC (2m24s+1.12s)" [1891, 2093, 2190]
+  line "VLTC (2m24s+1.12s)" [1891, 2093, 2191]
+  line "VLTC (2m24s+1.12s)" [1891, 2093, 2191]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -52,8 +52,8 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4.4 | VLTC <sub>(2m24s+1.12s)</sub> | 2190 | 30 | 396 | 49% | 2188 | 21% |
-| 4.4 | LTC <sub>(60.0+0.60s)</sub> | 2059 | 28 | 450 | 51% | 2043 | 22% |
+| 4.4 | VLTC <sub>(2m24s+1.12s)</sub> | 2191 | 30 | 396 | 49% | 2190 | 21% |
+| 4.4 | LTC <sub>(60.0+0.60s)</sub> | 2059 | 28 | 450 | 51% | 2044 | 22% |
 | 4.4 | STC <sub>(8.0+0.08s)</sub> | 1706 | 27 | 506 | 49% | 1710 | 18% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4.3 | VLTC <sub>(2m24s+1.12s)</sub> | 2093 | 30 | 412 | 54% | 2051 | 18% |
