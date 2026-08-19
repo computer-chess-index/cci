@@ -8,7 +8,7 @@ Home: https://github.com/tryingsomestuff/Minic
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.41 | 2024-01-18 | 2957 | 3255 | 3324 |  |
+| 3.41 | 2024-01-18 | 2957 | 3256 | 3324 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Minic+<version>&body=###%20Engine%20name%0AMinic%0A%0A###%20Version%0A3.41" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-18 06:27:01
+Generated: 2026-08-19 06:27:01
 
 
 
@@ -32,7 +32,7 @@ Generated: 2026-08-18 06:27:01
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.41 | VLTC <sub>(2m24s+1.12s)</sub> | 3324 | 11 | 1932 | 51% | 3316 | 71% |
-| 3.41 | LTC <sub>(60.0+0.60s)</sub> | 3255 | 12 | 1862 | 50% | 3252 | 63% |
+| 3.41 | VLTC <sub>(2m24s+1.12s)</sub> | 3324 | 11 | 1932 | 51% | 3317 | 71% |
+| 3.41 | LTC <sub>(60.0+0.60s)</sub> | 3256 | 12 | 1862 | 50% | 3252 | 63% |
 | 3.41 | STC <sub>(8.0+0.08s)</sub> | 2957 | 12 | 2002 | 51% | 2942 | 50% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
