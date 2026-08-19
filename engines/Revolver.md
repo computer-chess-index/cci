@@ -8,7 +8,7 @@ Home: https://github.com/GoldenRare/Revolver
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0 | 2026-05-01 | 2514<sub>(+262) | 2766<sub>(+271) | 2817<sub>(+261) |  |
+| 2.0 | 2026-05-01 | 2512<sub>(+260) | 2766<sub>(+271) | 2817<sub>(+261) |  |
 | 1.0 | 2026-01-01 | 2252 | 2495 | 2556 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-18 06:28:44
+Generated: 2026-08-19 06:28:42
 
 ## Ratings Verlauf
 
@@ -34,8 +34,8 @@ Generated: 2026-08-18 06:28:44
 xychart-beta
   x-axis ["1.0", "2.0"]
   y-axis "Elo Rating" 2200 --> 2900
-  line "STC (8.0+0.08s)" [2252, 2514]
-  line "STC (8.0+0.08s)" [2252, 2514]
+  line "STC (8.0+0.08s)" [2252, 2512]
+  line "STC (8.0+0.08s)" [2252, 2512]
   line "LTC (60.0+0.60s)" [2495, 2766]
   line "VLTC (2m24s+1.12s)" [2556, 2817]
   line "VLTC (2m24s+1.12s)" [2556, 2817]
@@ -51,9 +51,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2817 | 26 | 468 | 51% | 2803 | 39% |
+| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2817 | 26 | 468 | 51% | 2804 | 39% |
 | 2.0 | LTC <sub>(60.0+0.60s)</sub> | 2766 | 25 | 496 | 51% | 2759 | 38% |
-| 2.0 | STC <sub>(8.0+0.08s)</sub> | 2514 | 27 | 456 | 51% | 2508 | 28% |
+| 2.0 | STC <sub>(8.0+0.08s)</sub> | 2512 | 27 | 472 | 51% | 2508 | 28% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2556 | 27 | 450 | 46% | 2596 | 32% |
 | 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2495 | 29 | 408 | 49% | 2506 | 25% |
