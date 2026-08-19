@@ -9,9 +9,9 @@ Home: https://github.com/HansTibberio/Laura
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 4.0.0 | 2026-05-09 | 1723<sub>(+157) | 1897<sub>(+204) | 1990<sub>(+184) |  |
-| 3.0.0 | 2026-04-29 | 1566<sub>(+211) | 1693<sub>(+31) | 1806<sub>(+120) |  |
-| 2.0.0 | 2026-04-23 | 1355<sub>(+59) | 1662<sub>(+188) | 1686<sub>(+281) |  |
-| 1.1.0 | 2026-01-26 | 1296 | 1474 | 1405 |  |
+| 3.0.0 | 2026-04-29 | 1566<sub>(+212) | 1693<sub>(+31) | 1806<sub>(+120) |  |
+| 2.0.0 | 2026-04-23 | 1354<sub>(+59) | 1662<sub>(+188) | 1686<sub>(+281) |  |
+| 1.1.0 | 2026-01-26 | 1295 | 1474 | 1405 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Laura+<version>&body=###%20Engine%20name%0ALaura%0A%0A###%20Version%0A4.0.0" target="_blank">Submit new version</a>
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-18 06:26:28
+Generated: 2026-08-19 06:26:26
 
 ## Ratings Verlauf
 
@@ -36,8 +36,8 @@ Generated: 2026-08-18 06:26:28
 xychart-beta
   x-axis ["1.1.0", "2.0.0", "3.0.0", "4.0.0"]
   y-axis "Elo Rating" 1200 --> 2000
-  line "STC (8.0+0.08s)" [1296, 1355, 1566, 1723]
-  line "STC (8.0+0.08s)" [1296, 1355, 1566, 1723]
+  line "STC (8.0+0.08s)" [1295, 1354, 1566, 1723]
+  line "STC (8.0+0.08s)" [1295, 1354, 1566, 1723]
   line "LTC (60.0+0.60s)" [1474, 1662, 1693, 1897]
   line "VLTC (2m24s+1.12s)" [1405, 1686, 1806, 1990]
   line "VLTC (2m24s+1.12s)" [1405, 1686, 1806, 1990]
@@ -63,9 +63,9 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1686 | 56 | 98 | 53% | 1666 | 45% |
 | 2.0.0 | LTC <sub>(60.0+0.60s)</sub> | 1662 | 55 | 104 | 48% | 1688 | 39% |
-| 2.0.0 | STC <sub>(8.0+0.08s)</sub> | 1355 | 56 | 108 | 55% | 1285 | 37% |
+| 2.0.0 | STC <sub>(8.0+0.08s)</sub> | 1354 | 56 | 108 | 55% | 1285 | 37% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1405 | 52 | 132 | 43% | 1580 | 37% |
 | 1.1.0 | LTC <sub>(60.0+0.60s)</sub> | 1474 | 51 | 134 | 43% | 1601 | 34% |
-| 1.1.0 | STC <sub>(8.0+0.08s)</sub> | 1296 | 62 | 134 | 47% | 1339 | 25% |
+| 1.1.0 | STC <sub>(8.0+0.08s)</sub> | 1295 | 62 | 134 | 47% | 1339 | 25% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
