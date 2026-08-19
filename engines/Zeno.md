@@ -8,7 +8,7 @@ Home: https://github.com/Toudonou/zeno
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0 | 2026-08-14 | 2087<sub>(+192) | 2361<sub>(+213) | 2391<sub>(+145) |  |
+| 3.0 | 2026-08-14 | 2087<sub>(+192) | 2360<sub>(+212) | 2394<sub>(+148) |  |
 | 2.0 | 2026-03-08 | 1895 | 2148 | 2246 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-18 06:33:27
+Generated: 2026-08-19 06:33:21
 
 ## Ratings Verlauf
 
@@ -36,9 +36,9 @@ xychart-beta
   y-axis "Elo Rating" 1800 --> 2400
   line "STC (8.0+0.08s)" [1895, 2087]
   line "STC (8.0+0.08s)" [1895, 2087]
-  line "LTC (60.0+0.60s)" [2148, 2361]
-  line "VLTC (2m24s+1.12s)" [2246, 2391]
-  line "VLTC (2m24s+1.12s)" [2246, 2391]
+  line "LTC (60.0+0.60s)" [2148, 2360]
+  line "VLTC (2m24s+1.12s)" [2246, 2394]
+  line "VLTC (2m24s+1.12s)" [2246, 2394]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -51,8 +51,8 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2391 | 43 | 180 | 51% | 2381 | 28% |
-| 3.0 | LTC <sub>(60.0+0.60s)</sub> | 2361 | 41 | 212 | 49% | 2376 | 18% |
+| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2394 | 43 | 184 | 51% | 2381 | 28% |
+| 3.0 | LTC <sub>(60.0+0.60s)</sub> | 2360 | 40 | 224 | 49% | 2373 | 18% |
 | 3.0 | STC <sub>(8.0+0.08s)</sub> | 2087 | 44 | 176 | 50% | 2086 | 23% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2246 | 30 | 384 | 49% | 2267 | 24% |
