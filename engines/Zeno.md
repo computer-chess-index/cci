@@ -8,7 +8,7 @@ Home: https://github.com/Toudonou/zeno
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0 | 2026-08-14 | 2087<sub>(+192) | 2360<sub>(+212) | 2394<sub>(+148) |  |
+| 3.0 | 2026-08-14 | 2094<sub>(+199) | 2356<sub>(+208) | 2399<sub>(+153) |  |
 | 2.0 | 2026-03-08 | 1895 | 2148 | 2246 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-19 06:33:21
+Generated: 2026-08-20 06:32:02
 
 ## Ratings Verlauf
 
@@ -34,11 +34,11 @@ Generated: 2026-08-19 06:33:21
 xychart-beta
   x-axis ["2.0", "3.0"]
   y-axis "Elo Rating" 1800 --> 2400
-  line "STC (8.0+0.08s)" [1895, 2087]
-  line "STC (8.0+0.08s)" [1895, 2087]
-  line "LTC (60.0+0.60s)" [2148, 2360]
-  line "VLTC (2m24s+1.12s)" [2246, 2394]
-  line "VLTC (2m24s+1.12s)" [2246, 2394]
+  line "STC (8.0+0.08s)" [1895, 2094]
+  line "STC (8.0+0.08s)" [1895, 2094]
+  line "LTC (60.0+0.60s)" [2148, 2356]
+  line "VLTC (2m24s+1.12s)" [2246, 2399]
+  line "VLTC (2m24s+1.12s)" [2246, 2399]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -51,9 +51,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2394 | 43 | 184 | 51% | 2381 | 28% |
-| 3.0 | LTC <sub>(60.0+0.60s)</sub> | 2360 | 40 | 224 | 49% | 2373 | 18% |
-| 3.0 | STC <sub>(8.0+0.08s)</sub> | 2087 | 44 | 176 | 50% | 2086 | 23% |
+| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2399 | 41 | 196 | 52% | 2385 | 29% |
+| 3.0 | LTC <sub>(60.0+0.60s)</sub> | 2356 | 39 | 236 | 49% | 2372 | 19% |
+| 3.0 | STC <sub>(8.0+0.08s)</sub> | 2094 | 44 | 184 | 51% | 2084 | 22% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2246 | 30 | 384 | 49% | 2267 | 24% |
 | 2.0 | LTC <sub>(60.0+0.60s)</sub> | 2148 | 28 | 460 | 49% | 2155 | 21% |
