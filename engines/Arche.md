@@ -8,7 +8,7 @@ Home: https://github.com/aywrite/arche
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.3.9 | 2026-08-04 | 1588<sub>(+135) | 1758<sub>(+168) | 1870<sub>(+218) |  |
+| 0.3.9 | 2026-08-04 | 1588<sub>(+135) | 1758<sub>(+168) | 1868<sub>(+216) |  |
 | 0.3.8 | 2026-08-01 | 1453<sub>(+69) | 1590<sub>(-17) | 1652<sub>(+1) |  |
 | 0.3.7 | 2026-07-31 | 1384 | 1607 | 1651 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-19 06:22:45
+Generated: 2026-08-20 06:22:47
 
 ## Ratings Verlauf
 
@@ -38,8 +38,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [1384, 1453, 1588]
   line "STC (8.0+0.08s)" [1384, 1453, 1588]
   line "LTC (60.0+0.60s)" [1607, 1590, 1758]
-  line "VLTC (2m24s+1.12s)" [1651, 1652, 1870]
-  line "VLTC (2m24s+1.12s)" [1651, 1652, 1870]
+  line "VLTC (2m24s+1.12s)" [1651, 1652, 1868]
+  line "VLTC (2m24s+1.12s)" [1651, 1652, 1868]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -52,11 +52,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.3.9 | VLTC <sub>(2m24s+1.12s)</sub> | 1870 | 34 | 318 | 55% | 1816 | 19% |
-| 0.3.9 | LTC <sub>(60.0+0.60s)</sub> | 1758 | 40 | 228 | 50% | 1759 | 17% |
+| 0.3.9 | VLTC <sub>(2m24s+1.12s)</sub> | 1868 | 34 | 322 | 55% | 1816 | 19% |
+| 0.3.9 | LTC <sub>(60.0+0.60s)</sub> | 1758 | 40 | 228 | 50% | 1760 | 17% |
 | 0.3.9 | STC <sub>(8.0+0.08s)</sub> | 1588 | 35 | 290 | 51% | 1567 | 22% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.3.8 | VLTC <sub>(2m24s+1.12s)</sub> | 1652 | 44 | 178 | 52% | 1634 | 23% |
+| 0.3.8 | VLTC <sub>(2m24s+1.12s)</sub> | 1652 | 44 | 178 | 52% | 1635 | 23% |
 | 0.3.8 | LTC <sub>(60.0+0.60s)</sub> | 1590 | 54 | 120 | 50% | 1588 | 23% |
 | 0.3.8 | STC <sub>(8.0+0.08s)</sub> | 1453 | 48 | 156 | 53% | 1422 | 20% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
