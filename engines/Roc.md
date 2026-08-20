@@ -8,7 +8,7 @@ Home: https://github.com/TomHyer/Roc
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.11 | 2026-05-11 | 2731<sub>(0) | 2939<sub>(-12) | 3029<sub>(+8) |  |
+| 1.11 | 2026-05-11 | 2731<sub>(0) | 2940<sub>(-11) | 3029<sub>(+8) |  |
 | 1.10 | 2026-02-21 | 2731<sub>(+new) | 2951<sub>(+new) | 3021<sub>(+new) |  |
 | TCEC19_1 | 2020-08-05 |  |  |  |  |
 | 1.0 | 2019-01-02 |  |  |  |  |
@@ -35,7 +35,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-19 06:28:53
+Generated: 2026-08-20 06:29:26
 
 ## Ratings Verlauf
 
@@ -46,7 +46,7 @@ xychart-beta
   y-axis "Elo Rating" 2700 --> 3100
   line "STC (8.0+0.08s)" [2731, 2731]
   line "STC (8.0+0.08s)" [2731, 2731]
-  line "LTC (60.0+0.60s)" [2951, 2939]
+  line "LTC (60.0+0.60s)" [2951, 2940]
   line "VLTC (2m24s+1.12s)" [3021, 3029]
   line "VLTC (2m24s+1.12s)" [3021, 3029]
 ```
@@ -62,10 +62,10 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.11 | VLTC <sub>(2m24s+1.12s)</sub> | 3029 | 26 | 468 | 49% | 3036 | 38% |
-| 1.11 | LTC <sub>(60.0+0.60s)</sub> | 2939 | 26 | 472 | 52% | 2925 | 37% |
+| 1.11 | LTC <sub>(60.0+0.60s)</sub> | 2940 | 26 | 476 | 52% | 2925 | 37% |
 | 1.11 | STC <sub>(8.0+0.08s)</sub> | 2731 | 27 | 430 | 50% | 2731 | 37% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.10 | VLTC <sub>(2m24s+1.12s)</sub> | 3021 | 26 | 454 | 52% | 3006 | 40% |
+| 1.10 | VLTC <sub>(2m24s+1.12s)</sub> | 3021 | 26 | 454 | 52% | 3008 | 40% |
 | 1.10 | LTC <sub>(60.0+0.60s)</sub> | 2951 | 28 | 386 | 50% | 2951 | 41% |
-| 1.10 | STC <sub>(8.0+0.08s)</sub> | 2731 | 27 | 446 | 53% | 2695 | 38% |
+| 1.10 | STC <sub>(8.0+0.08s)</sub> | 2731 | 27 | 446 | 53% | 2696 | 38% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
