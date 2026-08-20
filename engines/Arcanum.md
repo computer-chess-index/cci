@@ -8,7 +8,7 @@ Home: https://github.com/LarsAur/Arcanum
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.8 | 2026-05-16 | 2904<sub>(+12) | 3222<sub>(+27) | 3278<sub>(+22) |  |
+| 2.8 | 2026-05-16 | 2903<sub>(+11) | 3222<sub>(+27) | 3278<sub>(+22) |  |
 | 2.7 | 2025-10-18 | 2892 | 3195 | 3256 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-19 06:22:42
+Generated: 2026-08-20 06:22:44
 
 ## Ratings Verlauf
 
@@ -34,8 +34,8 @@ Generated: 2026-08-19 06:22:42
 xychart-beta
   x-axis ["2.7", "2.8"]
   y-axis "Elo Rating" 2800 --> 3300
-  line "STC (8.0+0.08s)" [2892, 2904]
-  line "STC (8.0+0.08s)" [2892, 2904]
+  line "STC (8.0+0.08s)" [2892, 2903]
+  line "STC (8.0+0.08s)" [2892, 2903]
   line "LTC (60.0+0.60s)" [3195, 3222]
   line "VLTC (2m24s+1.12s)" [3256, 3278]
   line "VLTC (2m24s+1.12s)" [3256, 3278]
@@ -51,11 +51,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.8 | VLTC <sub>(2m24s+1.12s)</sub> | 3278 | 26 | 396 | 50% | 3279 | 64% |
+| 2.8 | VLTC <sub>(2m24s+1.12s)</sub> | 3278 | 26 | 396 | 50% | 3281 | 64% |
 | 2.8 | LTC <sub>(60.0+0.60s)</sub> | 3222 | 27 | 392 | 50% | 3218 | 56% |
-| 2.8 | STC <sub>(8.0+0.08s)</sub> | 2904 | 26 | 456 | 49% | 2915 | 44% |
+| 2.8 | STC <sub>(8.0+0.08s)</sub> | 2903 | 26 | 460 | 49% | 2915 | 44% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.7 | VLTC <sub>(2m24s+1.12s)</sub> | 3256 | 27 | 394 | 54% | 3221 | 56% |
+| 2.7 | VLTC <sub>(2m24s+1.12s)</sub> | 3256 | 27 | 394 | 54% | 3222 | 56% |
 | 2.7 | LTC <sub>(60.0+0.60s)</sub> | 3195 | 26 | 424 | 50% | 3178 | 57% |
-| 2.7 | STC <sub>(8.0+0.08s)</sub> | 2892 | 23 | 554 | 49% | 2890 | 44% |
+| 2.7 | STC <sub>(8.0+0.08s)</sub> | 2892 | 23 | 554 | 49% | 2892 | 44% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
