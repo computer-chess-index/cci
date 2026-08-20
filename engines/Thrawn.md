@@ -8,7 +8,7 @@ Home: https://github.com/feftywacky/Thrawn
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.1 | 2026-07-07 | 2878<sub>(+655) | 3181<sub>(+547) | 3264<sub>(+471) |  |
+| 3.1 | 2026-07-07 | 2878<sub>(+655) | 3182<sub>(+548) | 3264<sub>(+471) |  |
 | 3.0 | 2026-05-25 | 2223<sub>(-239) | 2634<sub>(-190) | 2793<sub>(-101) |  |
 | 2.2 | 2025-10-08 | 2462 | 2824 | 2894 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-19 06:31:21
+Generated: 2026-08-20 06:31:00
 
 ## Ratings Verlauf
 
@@ -37,7 +37,7 @@ xychart-beta
   y-axis "Elo Rating" 2200 --> 3300
   line "STC (8.0+0.08s)" [2462, 2223, 2878]
   line "STC (8.0+0.08s)" [2462, 2223, 2878]
-  line "LTC (60.0+0.60s)" [2824, 2634, 3181]
+  line "LTC (60.0+0.60s)" [2824, 2634, 3182]
   line "VLTC (2m24s+1.12s)" [2894, 2793, 3264]
   line "VLTC (2m24s+1.12s)" [2894, 2793, 3264]
 ```
@@ -52,8 +52,8 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3264 | 28 | 326 | 53% | 3231 | 67% |
-| 3.1 | LTC <sub>(60.0+0.60s)</sub> | 3181 | 30 | 288 | 53% | 3151 | 63% |
+| 3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3264 | 28 | 326 | 53% | 3232 | 67% |
+| 3.1 | LTC <sub>(60.0+0.60s)</sub> | 3182 | 30 | 296 | 53% | 3152 | 62% |
 | 3.1 | STC <sub>(8.0+0.08s)</sub> | 2878 | 29 | 344 | 49% | 2878 | 47% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2793 | 44 | 162 | 47% | 2817 | 35% |
