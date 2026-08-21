@@ -8,8 +8,8 @@ Home: https://github.com/vshcherbyna/igel
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.6.0 | 2024-12-28 | 3174<sub>(+15) | 3402<sub>(+4) | 3455<sub>(+19) |  |
-| 3.5.0 | 2023-06-22 | 3159 | 3398 | 3436 |  |
+| 3.6.0 | 2024-12-28 | 3174<sub>(+15) | 3403<sub>(+4) | 3455<sub>(+19) |  |
+| 3.5.0 | 2023-06-22 | 3159 | 3399 | 3436 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Igel+<version>&body=###%20Engine%20name%0AIgel%0A%0A###%20Version%0A3.6.0" target="_blank">Submit new version</a>
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-20 06:26:09
+Generated: 2026-08-21 06:26:36
 
 ## Ratings Verlauf
 
@@ -36,7 +36,7 @@ xychart-beta
   y-axis "Elo Rating" 3100 --> 3500
   line "STC (8.0+0.08s)" [3159, 3174]
   line "STC (8.0+0.08s)" [3159, 3174]
-  line "LTC (60.0+0.60s)" [3398, 3402]
+  line "LTC (60.0+0.60s)" [3399, 3403]
   line "VLTC (2m24s+1.12s)" [3436, 3455]
   line "VLTC (2m24s+1.12s)" [3436, 3455]
 ```
@@ -51,11 +51,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3455 | 12 | 1662 | 50% | 3456 | 82% |
-| 3.6.0 | LTC <sub>(60.0+0.60s)</sub> | 3402 | 12 | 1612 | 50% | 3401 | 76% |
+| 3.6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3455 | 12 | 1666 | 50% | 3457 | 82% |
+| 3.6.0 | LTC <sub>(60.0+0.60s)</sub> | 3403 | 12 | 1616 | 50% | 3401 | 76% |
 | 3.6.0 | STC <sub>(8.0+0.08s)</sub> | 3174 | 12 | 1700 | 49% | 3183 | 63% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.5.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3436 | 17 | 800 | 50% | 3432 | 78% |
-| 3.5.0 | LTC <sub>(60.0+0.60s)</sub> | 3398 | 17 | 828 | 49% | 3402 | 78% |
-| 3.5.0 | STC <sub>(8.0+0.08s)</sub> | 3159 | 18 | 872 | 52% | 3119 | 58% |
+| 3.5.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3436 | 17 | 800 | 50% | 3433 | 78% |
+| 3.5.0 | LTC <sub>(60.0+0.60s)</sub> | 3399 | 17 | 828 | 49% | 3402 | 78% |
+| 3.5.0 | STC <sub>(8.0+0.08s)</sub> | 3159 | 18 | 872 | 52% | 3120 | 58% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
