@@ -8,7 +8,7 @@ Home: https://github.com/jnlt3/blackmarlin
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.0 | 2024-02-28 | 3179 | 3374 | 3411 |  |
+| 9.0 | 2024-02-28 | 3179 | 3375 | 3413 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Blackmarlin+<version>&body=###%20Engine%20name%0ABlackmarlin%0A%0A###%20Version%0A9.0" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-20 06:23:14
+Generated: 2026-08-21 06:23:14
 
 
 
@@ -32,7 +32,7 @@ Generated: 2026-08-20 06:23:14
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3411 | 11 | 1981 | 50% | 3410 | 73% |
-| 9.0 | LTC <sub>(60.0+0.60s)</sub> | 3374 | 11 | 2020 | 49% | 3378 | 72% |
+| 9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3413 | 11 | 1985 | 50% | 3411 | 74% |
+| 9.0 | LTC <sub>(60.0+0.60s)</sub> | 3375 | 11 | 2020 | 49% | 3379 | 72% |
 | 9.0 | STC <sub>(8.0+0.08s)</sub> | 3179 | 11 | 2156 | 51% | 3152 | 56% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
