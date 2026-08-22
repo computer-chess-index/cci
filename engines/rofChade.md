@@ -8,7 +8,7 @@ Home: https://rofchade.nl/
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.1 | 2023-10-01 | 3214 | 3416 | 3457 |  |
+| 3.1 | 2023-10-01 | 3216 | 3417 | 3459 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+rofChade+<version>&body=###%20Engine%20name%0ArofChade%0A%0A###%20Version%0A3.1" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-21 06:30:38
+Generated: 2026-08-22 06:29:22
 
 
 
@@ -32,7 +32,7 @@ Generated: 2026-08-21 06:30:38
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3457 | 11 | 1969 | 51% | 3451 | 80% |
-| 3.1 | LTC <sub>(60.0+0.60s)</sub> | 3416 | 11 | 1944 | 50% | 3413 | 77% |
-| 3.1 | STC <sub>(8.0+0.08s)</sub> | 3214 | 11 | 2064 | 50% | 3210 | 64% |
+| 3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3459 | 11 | 1969 | 51% | 3452 | 80% |
+| 3.1 | LTC <sub>(60.0+0.60s)</sub> | 3417 | 11 | 1944 | 50% | 3414 | 77% |
+| 3.1 | STC <sub>(8.0+0.08s)</sub> | 3216 | 11 | 2068 | 50% | 3212 | 64% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
