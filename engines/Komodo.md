@@ -8,7 +8,7 @@ Home:
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 14.1 | 2020-11-01 | 3001 | 3260 | 3318 |  |
+| 14.1 | 2020-11-01 | 3004 | 3262 | 3320 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Komodo+<version>&body=###%20Engine%20name%0AKomodo%0A%0A###%20Version%0A14.1" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-21 06:26:55
+Generated: 2026-08-22 06:26:23
 
 
 
@@ -32,7 +32,7 @@ Generated: 2026-08-21 06:26:55
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 14.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3318 | 12 | 1924 | 51% | 3312 | 61% |
-| 14.1 | LTC <sub>(60.0+0.60s)</sub> | 3260 | 12 | 1888 | 50% | 3260 | 55% |
-| 14.1 | STC <sub>(8.0+0.08s)</sub> | 3001 | 12 | 1918 | 50% | 2993 | 46% |
+| 14.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3320 | 12 | 1924 | 51% | 3314 | 61% |
+| 14.1 | LTC <sub>(60.0+0.60s)</sub> | 3262 | 12 | 1888 | 50% | 3262 | 55% |
+| 14.1 | STC <sub>(8.0+0.08s)</sub> | 3004 | 12 | 1918 | 50% | 2994 | 46% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
