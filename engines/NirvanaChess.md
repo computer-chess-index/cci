@@ -8,7 +8,7 @@ Home:
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.5 | 2020-12-01 | 2674 | 2948 | 3025 |  |
+| 2.5 | 2020-12-01 | 2676 | 2950 | 3027 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+NirvanaChess+<version>&body=###%20Engine%20name%0ANirvanaChess%0A%0A###%20Version%0A2.5" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-21 06:28:14
+Generated: 2026-08-22 06:27:28
 
 
 
@@ -32,7 +32,7 @@ Generated: 2026-08-21 06:28:14
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.5 | VLTC <sub>(2m24s+1.12s)</sub> | 3025 | 33 | 268 | 49% | 3032 | 46% |
-| 2.5 | LTC <sub>(60.0+0.60s)</sub> | 2948 | 13 | 1802 | 49% | 2954 | 39% |
-| 2.5 | STC <sub>(8.0+0.08s)</sub> | 2674 | 13 | 2102 | 51% | 2668 | 32% |
+| 2.5 | VLTC <sub>(2m24s+1.12s)</sub> | 3027 | 33 | 268 | 49% | 3033 | 46% |
+| 2.5 | LTC <sub>(60.0+0.60s)</sub> | 2950 | 13 | 1802 | 49% | 2957 | 39% |
+| 2.5 | STC <sub>(8.0+0.08s)</sub> | 2676 | 13 | 2106 | 51% | 2669 | 32% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
