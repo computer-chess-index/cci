@@ -9,7 +9,7 @@ Home: https://github.com/AndyGrant/Ethereal
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 14.00 | 2023-02-08 |  |  |  |  |
-| 13.07 | 2021-07-11 | 2942 | 3202 | 3272 |  |
+| 13.07 | 2021-07-11 | 2943 | 3204 | 3274 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Ethereal+<version>&body=###%20Engine%20name%0AEthereal%0A%0A###%20Version%0A14.00" target="_blank">Submit new version</a>
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-21 06:25:16
+Generated: 2026-08-22 06:24:57
 
 
 
@@ -33,7 +33,7 @@ Generated: 2026-08-21 06:25:16
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 13.07 | VLTC <sub>(2m24s+1.12s)</sub> | 3272 | 12 | 1964 | 51% | 3268 | 61% |
-| 13.07 | LTC <sub>(60.0+0.60s)</sub> | 3202 | 12 | 1900 | 50% | 3204 | 54% |
-| 13.07 | STC <sub>(8.0+0.08s)</sub> | 2942 | 12 | 2020 | 51% | 2932 | 43% |
+| 13.07 | VLTC <sub>(2m24s+1.12s)</sub> | 3274 | 12 | 1968 | 51% | 3270 | 61% |
+| 13.07 | LTC <sub>(60.0+0.60s)</sub> | 3204 | 12 | 1904 | 50% | 3205 | 54% |
+| 13.07 | STC <sub>(8.0+0.08s)</sub> | 2943 | 12 | 2020 | 51% | 2934 | 43% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
