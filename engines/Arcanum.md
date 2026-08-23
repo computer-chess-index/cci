@@ -8,7 +8,7 @@ Home: https://github.com/LarsAur/Arcanum
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.8 | 2026-05-16 | 2905<sub>(+11) | 3225<sub>(+27) | 3281<sub>(+22) |  |
+| 2.8 | 2026-05-16 | 2908<sub>(+14) | 3225<sub>(+27) | 3281<sub>(+22) |  |
 | 2.7 | 2025-10-18 | 2894 | 3198 | 3259 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-22 06:22:42
+Generated: 2026-08-23 06:22:38
 
 ## Ratings Verlauf
 
@@ -34,8 +34,8 @@ Generated: 2026-08-22 06:22:42
 xychart-beta
   x-axis ["2.7", "2.8"]
   y-axis "Elo Rating" 2800 --> 3300
-  line "STC (8.0+0.08s)" [2894, 2905]
-  line "STC (8.0+0.08s)" [2894, 2905]
+  line "STC (8.0+0.08s)" [2894, 2908]
+  line "STC (8.0+0.08s)" [2894, 2908]
   line "LTC (60.0+0.60s)" [3198, 3225]
   line "VLTC (2m24s+1.12s)" [3259, 3281]
   line "VLTC (2m24s+1.12s)" [3259, 3281]
@@ -53,9 +53,9 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.8 | VLTC <sub>(2m24s+1.12s)</sub> | 3281 | 26 | 396 | 50% | 3283 | 64% |
 | 2.8 | LTC <sub>(60.0+0.60s)</sub> | 3225 | 27 | 392 | 50% | 3221 | 56% |
-| 2.8 | STC <sub>(8.0+0.08s)</sub> | 2905 | 26 | 460 | 49% | 2917 | 44% |
+| 2.8 | STC <sub>(8.0+0.08s)</sub> | 2908 | 25 | 464 | 49% | 2917 | 44% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.7 | VLTC <sub>(2m24s+1.12s)</sub> | 3259 | 27 | 394 | 54% | 3224 | 56% |
+| 2.7 | VLTC <sub>(2m24s+1.12s)</sub> | 3259 | 27 | 394 | 54% | 3225 | 56% |
 | 2.7 | LTC <sub>(60.0+0.60s)</sub> | 3198 | 26 | 424 | 50% | 3181 | 57% |
-| 2.7 | STC <sub>(8.0+0.08s)</sub> | 2894 | 23 | 554 | 49% | 2893 | 44% |
+| 2.7 | STC <sub>(8.0+0.08s)</sub> | 2894 | 23 | 554 | 49% | 2894 | 44% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
