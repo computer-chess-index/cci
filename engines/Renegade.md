@@ -8,7 +8,7 @@ Home: https://github.com/pkrisz99/Renegade
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.3.1 | 2026-07-14 | 3344<sub>(+4) | 3509<sub>(-1) | 3536<sub>(0) |  |
+| 1.3.1 | 2026-07-14 | 3344<sub>(+4) | 3510<sub>(0) | 3537<sub>(+1) |  |
 | 1.3.0 | 2026-06-17 | 3340<sub>(+new) | 3510<sub>(+new) | 3536<sub>(+new) |  |
 | 1.2.0 | 2025-05-05 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-22 06:28:55
+Generated: 2026-08-23 06:28:11
 
 ## Ratings Verlauf
 
@@ -37,9 +37,9 @@ xychart-beta
   y-axis "Elo Rating" 3300 --> 3600
   line "STC (8.0+0.08s)" [3340, 3344]
   line "STC (8.0+0.08s)" [3340, 3344]
-  line "LTC (60.0+0.60s)" [3510, 3509]
-  line "VLTC (2m24s+1.12s)" [3536, 3536]
-  line "VLTC (2m24s+1.12s)" [3536, 3536]
+  line "LTC (60.0+0.60s)" [3510, 3510]
+  line "VLTC (2m24s+1.12s)" [3536, 3537]
+  line "VLTC (2m24s+1.12s)" [3536, 3537]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -52,11 +52,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3536 | 36 | 174 | 50% | 3538 | 89% |
-| 1.3.1 | LTC <sub>(60.0+0.60s)</sub> | 3509 | 34 | 200 | 49% | 3518 | 87% |
+| 1.3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3537 | 36 | 174 | 50% | 3538 | 89% |
+| 1.3.1 | LTC <sub>(60.0+0.60s)</sub> | 3510 | 34 | 200 | 49% | 3518 | 87% |
 | 1.3.1 | STC <sub>(8.0+0.08s)</sub> | 3344 | 27 | 336 | 52% | 3333 | 69% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3536 | 33 | 226 | 54% | 3497 | 81% |
+| 1.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3536 | 33 | 226 | 54% | 3498 | 81% |
 | 1.3.0 | LTC <sub>(60.0+0.60s)</sub> | 3510 | 31 | 260 | 53% | 3459 | 77% |
 | 1.3.0 | STC <sub>(8.0+0.08s)</sub> | 3340 | 35 | 218 | 53% | 3283 | 66% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
