@@ -8,7 +8,7 @@ Home: https://github.com/AlexGisi/prometheus-chess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.2.1 | 2025-08-18 | 1395 | 1521 | 1539 |  |
+| 0.2.1 | 2025-08-18 | 1395 | 1519 | 1539 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Prometheus+<version>&body=###%20Engine%20name%0APrometheus%0A%0A###%20Version%0A0.2.1" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-22 06:28:19
+Generated: 2026-08-23 06:27:41
 
 
 
@@ -33,6 +33,6 @@ Generated: 2026-08-22 06:28:19
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 1539 | 26 | 564 | 42% | 1652 | 20% |
-| 0.2.1 | LTC <sub>(60.0+0.60s)</sub> | 1521 | 27 | 514 | 48% | 1566 | 18% |
-| 0.2.1 | STC <sub>(8.0+0.08s)</sub> | 1395 | 28 | 536 | 52% | 1374 | 18% |
+| 0.2.1 | LTC <sub>(60.0+0.60s)</sub> | 1519 | 27 | 518 | 48% | 1567 | 18% |
+| 0.2.1 | STC <sub>(8.0+0.08s)</sub> | 1395 | 28 | 536 | 52% | 1376 | 18% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
