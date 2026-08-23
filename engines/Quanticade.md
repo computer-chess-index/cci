@@ -8,7 +8,7 @@ Home: https://github.com/Quanticade/Quanticade
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0 | 2025-12-15 | 3343<sub>(+49) | 3513<sub>(+43) | 3545<sub>(+35) |  |
+| 3.0 | 2025-12-15 | 3344<sub>(+50) | 3513<sub>(+43) | 3545<sub>(+35) |  |
 | 2.0 | 2025-05-21 | 3294 | 3470 | 3510 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-22 06:28:36
+Generated: 2026-08-23 06:27:55
 
 ## Ratings Verlauf
 
@@ -34,8 +34,8 @@ Generated: 2026-08-22 06:28:36
 xychart-beta
   x-axis ["2.0", "3.0"]
   y-axis "Elo Rating" 3200 --> 3600
-  line "STC (8.0+0.08s)" [3294, 3343]
-  line "STC (8.0+0.08s)" [3294, 3343]
+  line "STC (8.0+0.08s)" [3294, 3344]
+  line "STC (8.0+0.08s)" [3294, 3344]
   line "LTC (60.0+0.60s)" [3470, 3513]
   line "VLTC (2m24s+1.12s)" [3510, 3545]
   line "VLTC (2m24s+1.12s)" [3510, 3545]
@@ -53,9 +53,9 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3545 | 22 | 468 | 51% | 3540 | 89% |
 | 3.0 | LTC <sub>(60.0+0.60s)</sub> | 3513 | 22 | 454 | 50% | 3513 | 87% |
-| 3.0 | STC <sub>(8.0+0.08s)</sub> | 3343 | 20 | 642 | 50% | 3341 | 70% |
+| 3.0 | STC <sub>(8.0+0.08s)</sub> | 3344 | 20 | 642 | 50% | 3341 | 70% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3510 | 26 | 340 | 50% | 3506 | 84% |
-| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 3470 | 26 | 352 | 50% | 3465 | 81% |
-| 2.0 | STC <sub>(8.0+0.08s)</sub> | 3294 | 25 | 414 | 52% | 3281 | 64% |
+| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3510 | 26 | 340 | 50% | 3507 | 84% |
+| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 3470 | 26 | 352 | 50% | 3467 | 81% |
+| 2.0 | STC <sub>(8.0+0.08s)</sub> | 3294 | 25 | 414 | 52% | 3282 | 64% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
