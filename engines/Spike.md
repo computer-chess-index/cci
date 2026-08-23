@@ -8,7 +8,7 @@ Home: https://github.com/Mangar2/Spike
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.4 | 2011-02-01 | 2336 | 2727 | 2817 |  |
+| 1.4 | 2011-02-01 | 2337 | 2730 | 2819 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Spike+<version>&body=###%20Engine%20name%0ASpike%0A%0A###%20Version%0A1.4" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-21 06:31:26
+Generated: 2026-08-23 06:29:16
 
 
 
@@ -32,7 +32,7 @@ Generated: 2026-08-21 06:31:26
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.4 | VLTC <sub>(2m24s+1.12s)</sub> | 2817 | 45 | 164 | 51% | 2816 | 32% |
-| 1.4 | LTC <sub>(60.0+0.60s)</sub> | 2727 | 48 | 144 | 50% | 2726 | 27% |
-| 1.4 | STC <sub>(8.0+0.08s)</sub> | 2336 | 32 | 404 | 45% | 2404 | 23% |
+| 1.4 | VLTC <sub>(2m24s+1.12s)</sub> | 2819 | 45 | 164 | 51% | 2817 | 32% |
+| 1.4 | LTC <sub>(60.0+0.60s)</sub> | 2730 | 48 | 144 | 50% | 2727 | 27% |
+| 1.4 | STC <sub>(8.0+0.08s)</sub> | 2337 | 32 | 404 | 45% | 2407 | 23% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
