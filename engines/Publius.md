@@ -8,7 +8,7 @@ Home: https://github.com/nescitus/publius
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1 | 2025-12-31 | 2462<sub>(-370) | 2746<sub>(-359) | 2815<sub>(-316) |  |
+| 1.1 | 2025-12-31 | 2464<sub>(-368) | 2746<sub>(-359) | 2815<sub>(-316) |  |
 | 1.0 | 2025-10-19 | 2832 | 3105 | 3131 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-23 06:27:48
+Generated: 2026-08-24 06:27:55
 
 ## Ratings Verlauf
 
@@ -34,8 +34,8 @@ Generated: 2026-08-23 06:27:48
 xychart-beta
   x-axis ["1.0", "1.1"]
   y-axis "Elo Rating" 2400 --> 3200
-  line "STC (8.0+0.08s)" [2832, 2462]
-  line "STC (8.0+0.08s)" [2832, 2462]
+  line "STC (8.0+0.08s)" [2832, 2464]
+  line "STC (8.0+0.08s)" [2832, 2464]
   line "LTC (60.0+0.60s)" [3105, 2746]
   line "VLTC (2m24s+1.12s)" [3131, 2815]
   line "VLTC (2m24s+1.12s)" [3131, 2815]
@@ -52,10 +52,10 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2815 | 25 | 516 | 47% | 2842 | 36% |
-| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 2746 | 25 | 504 | 50% | 2749 | 34% |
-| 1.1 | STC <sub>(8.0+0.08s)</sub> | 2462 | 23 | 670 | 49% | 2458 | 29% |
+| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 2746 | 25 | 508 | 50% | 2749 | 34% |
+| 1.1 | STC <sub>(8.0+0.08s)</sub> | 2464 | 23 | 670 | 49% | 2460 | 29% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3131 | 34 | 232 | 49% | 3141 | 57% |
-| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 3105 | 34 | 248 | 52% | 3078 | 55% |
+| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3131 | 34 | 232 | 49% | 3143 | 57% |
+| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 3105 | 34 | 248 | 52% | 3079 | 55% |
 | 1.0 | STC <sub>(8.0+0.08s)</sub> | 2832 | 36 | 232 | 53% | 2799 | 41% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
