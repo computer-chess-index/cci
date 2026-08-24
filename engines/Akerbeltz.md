@@ -8,7 +8,7 @@ Home: https://github.com/neluj/Akerbeltz
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1.0 | 2026-04-14 | 1937<sub>(+551) | 2196<sub>(+562) | 2295<sub>(+529) |  |
+| 1.1.0 | 2026-04-14 | 1937<sub>(+551) | 2198<sub>(+564) | 2295<sub>(+529) |  |
 | 1.0.0 | 2025-12-31 | 1386 | 1634 | 1766 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-23 06:22:10
+Generated: 2026-08-24 06:22:10
 
 ## Ratings Verlauf
 
@@ -36,7 +36,7 @@ xychart-beta
   y-axis "Elo Rating" 1300 --> 2300
   line "STC (8.0+0.08s)" [1386, 1937]
   line "STC (8.0+0.08s)" [1386, 1937]
-  line "LTC (60.0+0.60s)" [1634, 2196]
+  line "LTC (60.0+0.60s)" [1634, 2198]
   line "VLTC (2m24s+1.12s)" [1766, 2295]
   line "VLTC (2m24s+1.12s)" [1766, 2295]
 ```
@@ -51,9 +51,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2295 | 27 | 492 | 51% | 2299 | 21% |
-| 1.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2196 | 27 | 476 | 48% | 2209 | 23% |
-| 1.1.0 | STC <sub>(8.0+0.08s)</sub> | 1937 | 26 | 540 | 48% | 1960 | 21% |
+| 1.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2295 | 27 | 496 | 50% | 2300 | 21% |
+| 1.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2198 | 27 | 476 | 48% | 2209 | 23% |
+| 1.1.0 | STC <sub>(8.0+0.08s)</sub> | 1937 | 26 | 544 | 48% | 1960 | 21% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1766 | 41 | 230 | 41% | 1898 | 22% |
 | 1.0.0 | LTC <sub>(60.0+0.60s)</sub> | 1634 | 48 | 164 | 43% | 1725 | 21% |
