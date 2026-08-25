@@ -8,8 +8,8 @@ Home: https://github.com/jhellis3/Stockfish
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9 | 2025-05-09 | 3425<sub>(+49) | 3565<sub>(+47) | 3588<sub>(+48) |  |
-| 5 | 2022-11-05 | 3376 | 3518 | 3540 |  |
+| 9 | 2025-05-09 | 3426<sub>(+48) | 3565<sub>(+46) | 3588<sub>(+48) |  |
+| 5 | 2022-11-05 | 3378 | 3519 | 3540 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Crystal+<version>&body=###%20Engine%20name%0ACrystal%0A%0A###%20Version%0A9" target="_blank">Submit new version</a>
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-24 06:24:08
+Generated: 2026-08-25 06:24:27
 
 ## Ratings Verlauf
 
@@ -34,9 +34,9 @@ Generated: 2026-08-24 06:24:08
 xychart-beta
   x-axis ["5", "9"]
   y-axis "Elo Rating" 3300 --> 3600
-  line "STC (8.0+0.08s)" [3376, 3425]
-  line "STC (8.0+0.08s)" [3376, 3425]
-  line "LTC (60.0+0.60s)" [3518, 3565]
+  line "STC (8.0+0.08s)" [3378, 3426]
+  line "STC (8.0+0.08s)" [3378, 3426]
+  line "LTC (60.0+0.60s)" [3519, 3565]
   line "VLTC (2m24s+1.12s)" [3540, 3588]
   line "VLTC (2m24s+1.12s)" [3540, 3588]
 ```
@@ -51,11 +51,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 9 | VLTC <sub>(2m24s+1.12s)</sub> | 3588 | 34 | 200 | 53% | 3569 | 89% |
+| 9 | VLTC <sub>(2m24s+1.12s)</sub> | 3588 | 33 | 204 | 53% | 3569 | 88% |
 | 9 | LTC <sub>(60.0+0.60s)</sub> | 3565 | 21 | 528 | 51% | 3557 | 87% |
-| 9 | STC <sub>(8.0+0.08s)</sub> | 3425 | 19 | 710 | 51% | 3420 | 77% |
+| 9 | STC <sub>(8.0+0.08s)</sub> | 3426 | 18 | 714 | 51% | 3420 | 77% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 5 | VLTC <sub>(2m24s+1.12s)</sub> | 3540 | 27 | 320 | 55% | 3497 | 85% |
-| 5 | LTC <sub>(60.0+0.60s)</sub> | 3518 | 12 | 1640 | 50% | 3519 | 86% |
-| 5 | STC <sub>(8.0+0.08s)</sub> | 3376 | 12 | 1796 | 52% | 3364 | 73% |
+| 5 | LTC <sub>(60.0+0.60s)</sub> | 3519 | 12 | 1640 | 50% | 3519 | 86% |
+| 5 | STC <sub>(8.0+0.08s)</sub> | 3378 | 12 | 1796 | 52% | 3366 | 73% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
