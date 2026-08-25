@@ -8,7 +8,7 @@ Home: https://github.com/nescitus/Rodent-V
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1 | 2026-08-06 | 2979<sub>(+48) | 3241<sub>(+50) | 3295<sub>(+14) |  |
+| 1.1 | 2026-08-06 | 2981<sub>(+50) | 3241<sub>(+50) | 3294<sub>(+13) |  |
 | 1.0 | 2026-08-02 | 2931 | 3191 | 3281 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-24 06:28:38
+Generated: 2026-08-25 06:29:21
 
 ## Ratings Verlauf
 
@@ -34,11 +34,11 @@ Generated: 2026-08-24 06:28:38
 xychart-beta
   x-axis ["1.0", "1.1"]
   y-axis "Elo Rating" 2900 --> 3300
-  line "STC (8.0+0.08s)" [2931, 2979]
-  line "STC (8.0+0.08s)" [2931, 2979]
+  line "STC (8.0+0.08s)" [2931, 2981]
+  line "STC (8.0+0.08s)" [2931, 2981]
   line "LTC (60.0+0.60s)" [3191, 3241]
-  line "VLTC (2m24s+1.12s)" [3281, 3295]
-  line "VLTC (2m24s+1.12s)" [3281, 3295]
+  line "VLTC (2m24s+1.12s)" [3281, 3294]
+  line "VLTC (2m24s+1.12s)" [3281, 3294]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -51,11 +51,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3295 | 33 | 236 | 50% | 3294 | 69% |
-| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 3241 | 29 | 314 | 53% | 3221 | 60% |
-| 1.1 | STC <sub>(8.0+0.08s)</sub> | 2979 | 29 | 338 | 53% | 2955 | 50% |
+| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3294 | 32 | 240 | 50% | 3294 | 69% |
+| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 3241 | 29 | 318 | 53% | 3222 | 61% |
+| 1.1 | STC <sub>(8.0+0.08s)</sub> | 2981 | 29 | 338 | 53% | 2957 | 50% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3281 | 33 | 250 | 49% | 3285 | 61% |
-| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 3191 | 32 | 260 | 51% | 3182 | 57% |
+| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 3191 | 32 | 260 | 51% | 3183 | 57% |
 | 1.0 | STC <sub>(8.0+0.08s)</sub> | 2931 | 37 | 224 | 53% | 2903 | 43% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
