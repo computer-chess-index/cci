@@ -8,7 +8,7 @@ Home: https://github.com/matthiaslang/jackychess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 25.12 | 2025-12-03 | 2242 | 2647 | 2761 |  |
+| 25.12 | 2025-12-03 | 2244 | 2649 | 2762 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+JackyChess+<version>&body=###%20Engine%20name%0AJackyChess%0A%0A###%20Version%0A25.12" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-25 06:26:16
+Generated: 2026-08-26 06:26:04
 
 
 
@@ -32,7 +32,7 @@ Generated: 2026-08-25 06:26:16
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 25.12 | VLTC <sub>(2m24s+1.12s)</sub> | 2761 | 25 | 510 | 50% | 2765 | 33% |
-| 25.12 | LTC <sub>(60.0+0.60s)</sub> | 2647 | 24 | 576 | 52% | 2631 | 35% |
-| 25.12 | STC <sub>(8.0+0.08s)</sub> | 2242 | 44 | 180 | 54% | 2210 | 25% |
+| 25.12 | VLTC <sub>(2m24s+1.12s)</sub> | 2762 | 25 | 510 | 50% | 2766 | 33% |
+| 25.12 | LTC <sub>(60.0+0.60s)</sub> | 2649 | 24 | 576 | 52% | 2633 | 35% |
+| 25.12 | STC <sub>(8.0+0.08s)</sub> | 2244 | 44 | 180 | 54% | 2211 | 25% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
