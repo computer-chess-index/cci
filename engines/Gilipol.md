@@ -8,9 +8,9 @@ Home: https://github.com/Lacovipo/Gilipol
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.00 | 2026-06-06 | 2670<sub>(+131) | 2986<sub>(+124) | 3100<sub>(+99) |  |
-| 1.00netbin | 2026-04-13 | 2539<sub>(+2146) | 2862<sub>(+2408) | 3001<sub>(+2535) |  |
-| 1.00 | 2026-04-12 | 393 | 454 | 466 |  |
+| 2.00 | 2026-06-06 | 2664<sub>(+123) | 2988<sub>(+126) | 3101<sub>(+99) |  |
+| 1.00netbin | 2026-04-13 | 2541<sub>(+2147) | 2862<sub>(+2407) | 3002<sub>(+2536) |  |
+| 1.00 | 2026-04-12 | 394 | 455 | 466 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Gilipol+<version>&body=###%20Engine%20name%0AGilipol%0A%0A###%20Version%0A2.00" target="_blank">Submit new version</a>
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-25 06:25:34
+Generated: 2026-08-26 06:25:24
 
 ## Ratings Verlauf
 
@@ -34,12 +34,12 @@ Generated: 2026-08-25 06:25:34
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["1.00", "1.00netbin", "2.00"]
-  y-axis "Elo Rating" 300 --> 3100
-  line "STC (8.0+0.08s)" [393, 2539, 2670]
-  line "STC (8.0+0.08s)" [393, 2539, 2670]
-  line "LTC (60.0+0.60s)" [454, 2862, 2986]
-  line "VLTC (2m24s+1.12s)" [466, 3001, 3100]
-  line "VLTC (2m24s+1.12s)" [466, 3001, 3100]
+  y-axis "Elo Rating" 300 --> 3200
+  line "STC (8.0+0.08s)" [394, 2541, 2664]
+  line "STC (8.0+0.08s)" [394, 2541, 2664]
+  line "LTC (60.0+0.60s)" [455, 2862, 2988]
+  line "VLTC (2m24s+1.12s)" [466, 3002, 3101]
+  line "VLTC (2m24s+1.12s)" [466, 3002, 3101]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -52,15 +52,15 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.00 | VLTC <sub>(2m24s+1.12s)</sub> | 3100 | 25 | 442 | 52% | 3081 | 54% |
-| 2.00 | LTC <sub>(60.0+0.60s)</sub> | 2986 | 28 | 392 | 51% | 2970 | 45% |
-| 2.00 | STC <sub>(8.0+0.08s)</sub> | 2670 | 30 | 368 | 52% | 2645 | 33% |
+| 2.00 | VLTC <sub>(2m24s+1.12s)</sub> | 3101 | 25 | 442 | 52% | 3082 | 54% |
+| 2.00 | LTC <sub>(60.0+0.60s)</sub> | 2988 | 28 | 392 | 51% | 2971 | 45% |
+| 2.00 | STC <sub>(8.0+0.08s)</sub> | 2664 | 29 | 376 | 52% | 2647 | 32% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.00netbin | VLTC <sub>(2m24s+1.12s)</sub> | 3001 | 28 | 426 | 57% | 2784 | 41% |
-| 1.00netbin | LTC <sub>(60.0+0.60s)</sub> | 2862 | 25 | 546 | 59% | 2684 | 39% |
-| 1.00netbin | STC <sub>(8.0+0.08s)</sub> | 2539 | 28 | 470 | 55% | 2379 | 28% |
+| 1.00netbin | VLTC <sub>(2m24s+1.12s)</sub> | 3002 | 28 | 426 | 57% | 2785 | 41% |
+| 1.00netbin | LTC <sub>(60.0+0.60s)</sub> | 2862 | 25 | 546 | 59% | 2685 | 39% |
+| 1.00netbin | STC <sub>(8.0+0.08s)</sub> | 2541 | 28 | 470 | 55% | 2380 | 28% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.00 | VLTC <sub>(2m24s+1.12s)</sub> | 466 | 58 | 176 | 24% | 1054 | 21% |
-| 1.00 | LTC <sub>(60.0+0.60s)</sub> | 454 | 59 | 148 | 27% | 946 | 30% |
-| 1.00 | STC <sub>(8.0+0.08s)</sub> | 393 | 56 | 132 | 34% | 734 | 40% |
+| 1.00 | LTC <sub>(60.0+0.60s)</sub> | 455 | 59 | 148 | 27% | 948 | 30% |
+| 1.00 | STC <sub>(8.0+0.08s)</sub> | 394 | 56 | 132 | 34% | 736 | 40% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
