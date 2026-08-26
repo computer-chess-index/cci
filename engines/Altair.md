@@ -8,7 +8,7 @@ Home: https://github.com/Alex2262/AltairChessEngine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7.0.0 | 2024-02-17 | 3154 | 3353 | 3371 |  |
+| 7.0.0 | 2024-02-17 | 3155 | 3355 | 3372 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Altair+<version>&body=###%20Engine%20name%0AAltair%0A%0A###%20Version%0A7.0.0" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-25 06:22:24
+Generated: 2026-08-26 06:22:24
 
 
 
@@ -32,7 +32,7 @@ Generated: 2026-08-25 06:22:24
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 7.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3371 | 10 | 2288 | 50% | 3368 | 71% |
-| 7.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3353 | 11 | 2104 | 50% | 3349 | 70% |
-| 7.0.0 | STC <sub>(8.0+0.08s)</sub> | 3154 | 11 | 2164 | 53% | 3114 | 56% |
+| 7.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3372 | 10 | 2288 | 50% | 3370 | 71% |
+| 7.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3355 | 11 | 2104 | 50% | 3351 | 70% |
+| 7.0.0 | STC <sub>(8.0+0.08s)</sub> | 3155 | 11 | 2164 | 53% | 3114 | 56% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
