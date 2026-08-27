@@ -9,7 +9,7 @@ Home: https://github.com/jhonnold/berserk
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 4.7.0 | 2026-05-24 |  |  |  |  |
-| 14 | 2026-05-24 | 3433<sub>(+1840) | 3544<sub>(+18) | 3572<sub>(+21) |  |
+| 14 | 2026-05-24 | 3433<sub>(+1840) | 3545<sub>(+19) | 3572<sub>(+21) |  |
 | 13 | 2024-03-31 | 1593 | 3526 | 3551 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-26 06:23:03
+Generated: 2026-08-27 06:23:02
 
 ## Ratings Verlauf
 
@@ -37,7 +37,7 @@ xychart-beta
   y-axis "Elo Rating" 1500 --> 3600
   line "STC (8.0+0.08s)" [1593, 3433]
   line "STC (8.0+0.08s)" [1593, 3433]
-  line "LTC (60.0+0.60s)" [3526, 3544]
+  line "LTC (60.0+0.60s)" [3526, 3545]
   line "VLTC (2m24s+1.12s)" [3551, 3572]
   line "VLTC (2m24s+1.12s)" [3551, 3572]
 ```
@@ -52,11 +52,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 14 | VLTC <sub>(2m24s+1.12s)</sub> | 3572 | 30 | 248 | 50% | 3569 | 93% |
-| 14 | LTC <sub>(60.0+0.60s)</sub> | 3544 | 31 | 232 | 50% | 3542 | 90% |
-| 14 | STC <sub>(8.0+0.08s)</sub> | 3433 | 25 | 394 | 53% | 3353 | 76% |
+| 14 | VLTC <sub>(2m24s+1.12s)</sub> | 3572 | 30 | 252 | 50% | 3569 | 93% |
+| 14 | LTC <sub>(60.0+0.60s)</sub> | 3545 | 31 | 236 | 50% | 3544 | 90% |
+| 14 | STC <sub>(8.0+0.08s)</sub> | 3433 | 25 | 394 | 53% | 3355 | 76% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 13 | VLTC <sub>(2m24s+1.12s)</sub> | 3551 | 13 | 1458 | 53% | 3476 | 84% |
-| 13 | LTC <sub>(60.0+0.60s)</sub> | 3526 | 12 | 1740 | 51% | 3521 | 87% |
+| 13 | LTC <sub>(60.0+0.60s)</sub> | 3526 | 12 | 1740 | 51% | 3522 | 87% |
 | 13 | STC <sub>(8.0+0.08s)</sub> | 1593 | 15 | 1932 | 53% | 1553 | 10% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
