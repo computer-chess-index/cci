@@ -8,7 +8,7 @@ Home:
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 5.1 | 2005-02-01 | 1766 | 2249 | 2348 |  |
+| 5.1 | 2005-02-01 | 1767 | 2249 | 2348 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+SOS+<version>&body=###%20Engine%20name%0ASOS%0A%0A###%20Version%0A5.1" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-26 06:29:42
+Generated: 2026-08-27 06:29:32
 
 
 
@@ -32,7 +32,7 @@ Generated: 2026-08-26 06:29:42
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 5.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2348 | 43 | 200 | 51% | 2356 | 23% |
+| 5.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2348 | 43 | 200 | 51% | 2357 | 23% |
 | 5.1 | LTC <sub>(60.0+0.60s)</sub> | 2249 | 70 | 76 | 43% | 2321 | 16% |
-| 5.1 | STC <sub>(8.0+0.08s)</sub> | 1766 | 14 | 2038 | 53% | 1754 | 18% |
+| 5.1 | STC <sub>(8.0+0.08s)</sub> | 1767 | 14 | 2044 | 53% | 1754 | 18% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
