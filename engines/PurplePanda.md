@@ -8,7 +8,7 @@ Home: https://github.com/Jakob256/PurplePanda
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 21 | 2026-07-12 | 1701<sub>(+55) | 1999<sub>(+89) | 2088<sub>(+106) |  |
+| 21 | 2026-07-12 | 1702<sub>(+56) | 2001<sub>(+91) | 2090<sub>(+108) |  |
 | 20 | 2025-12-15 | 1646 | 1910 | 1982 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-26 06:28:15
+Generated: 2026-08-27 06:28:07
 
 ## Ratings Verlauf
 
@@ -34,11 +34,11 @@ Generated: 2026-08-26 06:28:15
 xychart-beta
   x-axis ["20", "21"]
   y-axis "Elo Rating" 1600 --> 2100
-  line "STC (8.0+0.08s)" [1646, 1701]
-  line "STC (8.0+0.08s)" [1646, 1701]
-  line "LTC (60.0+0.60s)" [1910, 1999]
-  line "VLTC (2m24s+1.12s)" [1982, 2088]
-  line "VLTC (2m24s+1.12s)" [1982, 2088]
+  line "STC (8.0+0.08s)" [1646, 1702]
+  line "STC (8.0+0.08s)" [1646, 1702]
+  line "LTC (60.0+0.60s)" [1910, 2001]
+  line "VLTC (2m24s+1.12s)" [1982, 2090]
+  line "VLTC (2m24s+1.12s)" [1982, 2090]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -51,9 +51,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 21 | VLTC <sub>(2m24s+1.12s)</sub> | 2088 | 36 | 278 | 49% | 2098 | 17% |
-| 21 | LTC <sub>(60.0+0.60s)</sub> | 1999 | 37 | 272 | 48% | 2030 | 19% |
-| 21 | STC <sub>(8.0+0.08s)</sub> | 1701 | 36 | 284 | 51% | 1696 | 17% |
+| 21 | VLTC <sub>(2m24s+1.12s)</sub> | 2090 | 36 | 278 | 49% | 2098 | 17% |
+| 21 | LTC <sub>(60.0+0.60s)</sub> | 2001 | 36 | 280 | 49% | 2029 | 19% |
+| 21 | STC <sub>(8.0+0.08s)</sub> | 1702 | 36 | 296 | 51% | 1692 | 17% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 20 | VLTC <sub>(2m24s+1.12s)</sub> | 1982 | 25 | 566 | 48% | 2012 | 21% |
 | 20 | LTC <sub>(60.0+0.60s)</sub> | 1910 | 25 | 580 | 50% | 1916 | 17% |
