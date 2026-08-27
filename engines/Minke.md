@@ -8,13 +8,14 @@ Home: https://github.com/enfmarinho/Minke
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
+| 7.0.0 | 2026-08-27 |  |  |  |  |
 | 6.0.0 | 2026-04-25 | 3155<sub>(+23) | 3368<sub>(+51) | 3426<sub>(+40) |  |
 | 5.0.0 | 2026-02-13 | 3132<sub>(+62) | 3317<sub>(+43) | 3386<sub>(+89) |  |
 | 4.0.0 | 2025-12-29 | 3070<sub>(+93) | 3274<sub>(+65) | 3297<sub>(+52) |  |
 | 3.0.0 | 2025-10-20 | 2977 | 3209 | 3245 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Minke+<version>&body=###%20Engine%20name%0AMinke%0A%0A###%20Version%0A6.0.0" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Minke+<version>&body=###%20Engine%20name%0AMinke%0A%0A###%20Version%0A7.0.0" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -27,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-27 06:26:55
+Generated: 2026-08-27 07:36:41
 
 ## Ratings Verlauf
 
@@ -36,15 +37,13 @@ Generated: 2026-08-27 06:26:55
 xychart-beta
   x-axis ["3.0.0", "4.0.0", "5.0.0", "6.0.0"]
   y-axis "Elo Rating" 2900 --> 3500
-  line "STC (8.0+0.08s)" [2977, 3070, 3132, 3155]
+  line "" [2977, 3070, 3132, 3155]
   line "STC (8.0+0.08s)" [2977, 3070, 3132, 3155]
   line "LTC (60.0+0.60s)" [3209, 3274, 3317, 3368]
-  line "VLTC (2m24s+1.12s)" [3245, 3297, 3386, 3426]
+  line "" [3245, 3297, 3386, 3426]
   line "VLTC (2m24s+1.12s)" [3245, 3297, 3386, 3426]
 ```
 
-<p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
-<p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
 
 
 
