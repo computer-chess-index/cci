@@ -8,7 +8,7 @@ Home: https://github.com/likeawizard/tofiks
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.5.0 | 2026-04-23 | 2182<sub>(+138) | 2430<sub>(+111) | 2476<sub>(+80) |  |
+| 1.5.0 | 2026-04-23 | 2183<sub>(+139) | 2431<sub>(+112) | 2476<sub>(+80) |  |
 | 1.4.1 | 2026-04-11 | 2044<sub>(-39) | 2319<sub>(+28) | 2396<sub>(+15) |  |
 | 1.4.0 | 2026-04-09 | 2083 | 2291 | 2381 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-26 06:35:56
+Generated: 2026-08-27 06:34:10
 
 ## Ratings Verlauf
 
@@ -35,9 +35,9 @@ Generated: 2026-08-26 06:35:56
 xychart-beta
   x-axis ["1.4.0", "1.4.1", "1.5.0"]
   y-axis "Elo Rating" 2000 --> 2500
-  line "STC (8.0+0.08s)" [2083, 2044, 2182]
-  line "STC (8.0+0.08s)" [2083, 2044, 2182]
-  line "LTC (60.0+0.60s)" [2291, 2319, 2430]
+  line "STC (8.0+0.08s)" [2083, 2044, 2183]
+  line "STC (8.0+0.08s)" [2083, 2044, 2183]
+  line "LTC (60.0+0.60s)" [2291, 2319, 2431]
   line "VLTC (2m24s+1.12s)" [2381, 2396, 2476]
   line "VLTC (2m24s+1.12s)" [2381, 2396, 2476]
 ```
@@ -53,12 +53,12 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.5.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2476 | 25 | 500 | 49% | 2481 | 34% |
-| 1.5.0 | LTC <sub>(60.0+0.60s)</sub> | 2430 | 26 | 492 | 51% | 2423 | 33% |
-| 1.5.0 | STC <sub>(8.0+0.08s)</sub> | 2182 | 26 | 536 | 47% | 2203 | 22% |
+| 1.5.0 | LTC <sub>(60.0+0.60s)</sub> | 2431 | 26 | 492 | 51% | 2423 | 33% |
+| 1.5.0 | STC <sub>(8.0+0.08s)</sub> | 2183 | 26 | 540 | 47% | 2203 | 22% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.4.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2396 | 33 | 292 | 50% | 2392 | 33% |
 | 1.4.1 | LTC <sub>(60.0+0.60s)</sub> | 2319 | 34 | 296 | 50% | 2318 | 29% |
-| 1.4.1 | STC <sub>(8.0+0.08s)</sub> | 2044 | 34 | 302 | 51% | 2030 | 26% |
+| 1.4.1 | STC <sub>(8.0+0.08s)</sub> | 2044 | 34 | 302 | 51% | 2032 | 26% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.4.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2381 | 40 | 216 | 47% | 2410 | 29% |
 | 1.4.0 | LTC <sub>(60.0+0.60s)</sub> | 2291 | 39 | 226 | 53% | 2267 | 29% |
