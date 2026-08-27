@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-27 06:25:01
+Generated: 2026-08-27 07:34:44
 
 ## Ratings Verlauf
 
@@ -34,15 +34,13 @@ Generated: 2026-08-27 06:25:01
 xychart-beta
   x-axis ["0.0.76", "0.0.77"]
   y-axis "Elo Rating" 1800 --> 2300
-  line "STC (8.0+0.08s)" [1913, 1854]
+  line "" [1913, 1854]
   line "STC (8.0+0.08s)" [1913, 1854]
   line "LTC (60.0+0.60s)" [2136, 2140]
-  line "VLTC (2m24s+1.12s)" [2211, 2230]
+  line "" [2211, 2230]
   line "VLTC (2m24s+1.12s)" [2211, 2230]
 ```
 
-<p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
-<p>dark mode: 🟩STC (8.0+0.08s) 🟧LTC (60.0+0.60s) ⬜VLTC (2m24s+1.12s)</p>
 
 
 
