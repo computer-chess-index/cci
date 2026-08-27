@@ -8,7 +8,7 @@ Home: https://github.com/NichtElias/Erinn
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1 | 2026-07-11 | 2376<sub>(+286) | 2665<sub>(+240) | 2728<sub>(+198) |  |
+| 1.1 | 2026-07-11 | 2376<sub>(+286) | 2665<sub>(+240) | 2724<sub>(+194) |  |
 | 1.0 | 2026-06-10 | 2090 | 2425 | 2530 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-26 06:24:52
+Generated: 2026-08-27 06:24:46
 
 ## Ratings Verlauf
 
@@ -37,8 +37,8 @@ xychart-beta
   line "STC (8.0+0.08s)" [2090, 2376]
   line "STC (8.0+0.08s)" [2090, 2376]
   line "LTC (60.0+0.60s)" [2425, 2665]
-  line "VLTC (2m24s+1.12s)" [2530, 2728]
-  line "VLTC (2m24s+1.12s)" [2530, 2728]
+  line "VLTC (2m24s+1.12s)" [2530, 2724]
+  line "VLTC (2m24s+1.12s)" [2530, 2724]
 ```
 
 <p>⬛ STC (8.0+0.08s) &nbsp;&nbsp; 🟧 LTC (60.0+0.60s) &nbsp;&nbsp; 🟩 VLTC (2m24s+1.12s)</p>
@@ -51,11 +51,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2728 | 34 | 244 | 51% | 2722 | 50% |
-| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 2665 | 30 | 328 | 50% | 2672 | 44% |
-| 1.1 | STC <sub>(8.0+0.08s)</sub> | 2376 | 28 | 412 | 47% | 2402 | 40% |
+| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2724 | 33 | 256 | 50% | 2722 | 51% |
+| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 2665 | 30 | 328 | 50% | 2673 | 44% |
+| 1.1 | STC <sub>(8.0+0.08s)</sub> | 2376 | 27 | 420 | 47% | 2400 | 40% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2530 | 32 | 316 | 50% | 2525 | 35% |
 | 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2425 | 30 | 368 | 56% | 2360 | 37% |
-| 1.0 | STC <sub>(8.0+0.08s)</sub> | 2090 | 36 | 276 | 52% | 2057 | 25% |
+| 1.0 | STC <sub>(8.0+0.08s)</sub> | 2090 | 36 | 276 | 52% | 2059 | 25% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
