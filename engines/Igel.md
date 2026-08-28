@@ -8,7 +8,7 @@ Home: https://github.com/vshcherbyna/igel
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.7.0 | 2026-08-27 |  |  |  |  |
+| 3.7.0 | 2026-08-27 | 3293<sub>(+114) | 3488<sub>(+81) | 3497<sub>(+38) |  |
 | 3.6.0 | 2024-12-28 | 3179<sub>(+16) | 3407<sub>(+4) | 3459<sub>(+18) |  |
 | 3.5.0 | 2023-06-22 | 3163 | 3403 | 3441 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,20 +26,20 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-27 07:35:35
+Generated: 2026-08-28 06:26:02
 
 ## Ratings Verlauf
 
 ```mermaid
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
-  x-axis ["3.5.0", "3.6.0"]
+  x-axis ["3.5.0", "3.6.0", "3.7.0"]
   y-axis "Elo Rating" 3100 --> 3500
-  line "" [3163, 3179]
-  line "STC (8.0+0.08s)" [3163, 3179]
-  line "LTC (60.0+0.60s)" [3403, 3407]
-  line "" [3441, 3459]
-  line "VLTC (2m24s+1.12s)" [3441, 3459]
+  line "" [3163, 3179, 3293]
+  line "STC (8.0+0.08s)" [3163, 3179, 3293]
+  line "LTC (60.0+0.60s)" [3403, 3407, 3488]
+  line "" [3441, 3459, 3497]
+  line "VLTC (2m24s+1.12s)" [3441, 3459, 3497]
 ```
 
 
@@ -49,6 +49,10 @@ xychart-beta
 ## Detailed Evaluation Results
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 3.7.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3497 | 58 | 68 | 51% | 3491 | 84% |
+| 3.7.0 | LTC <sub>(60.0+0.60s)</sub> | 3488 | 46 | 112 | 50% | 3491 | 83% |
+| 3.7.0 | STC <sub>(8.0+0.08s)</sub> | 3293 | 46 | 120 | 50% | 3291 | 70% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3459 | 12 | 1674 | 50% | 3461 | 82% |
 | 3.6.0 | LTC <sub>(60.0+0.60s)</sub> | 3407 | 12 | 1616 | 50% | 3405 | 76% |
