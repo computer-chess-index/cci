@@ -8,7 +8,7 @@ Home: https://github.com/adamtwiss/coda
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.9.4 | 2026-08-22 | 3480<sub>(+51) | 3553<sub>(-6) | 3580<sub>(-11) |  |
+| 0.9.4 | 2026-08-22 | 3482<sub>(+53) | 3553<sub>(-6) | 3580<sub>(-11) |  |
 | 0.9.3 | 2026-07-26 | 3429<sub>(-4) | 3559<sub>(-10) | 3591<sub>(+24) |  |
 | 0.9.2 | 2026-07-16 | 3433<sub>(+233) | 3569<sub>(+164) | 3567<sub>(+95) |  |
 | 0.9.1 | 2026-07-14 | 3200 | 3405 | 3472 |  |
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-27 07:33:47
+Generated: 2026-08-28 06:24:14
 
 ## Ratings Verlauf
 
@@ -36,8 +36,8 @@ Generated: 2026-08-27 07:33:47
 xychart-beta
   x-axis ["0.9.1", "0.9.2", "0.9.3", "0.9.4"]
   y-axis "Elo Rating" 3200 --> 3600
-  line "" [3200, 3433, 3429, 3480]
-  line "STC (8.0+0.08s)" [3200, 3433, 3429, 3480]
+  line "" [3200, 3433, 3429, 3482]
+  line "STC (8.0+0.08s)" [3200, 3433, 3429, 3482]
   line "LTC (60.0+0.60s)" [3405, 3569, 3559, 3553]
   line "" [3472, 3567, 3591, 3580]
   line "VLTC (2m24s+1.12s)" [3472, 3567, 3591, 3580]
@@ -52,8 +52,8 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.9.4 | VLTC <sub>(2m24s+1.12s)</sub> | 3580 | 41 | 132 | 52% | 3571 | 89% |
-| 0.9.4 | LTC <sub>(60.0+0.60s)</sub> | 3553 | 35 | 194 | 50% | 3553 | 84% |
-| 0.9.4 | STC <sub>(8.0+0.08s)</sub> | 3480 | 29 | 268 | 51% | 3474 | 84% |
+| 0.9.4 | LTC <sub>(60.0+0.60s)</sub> | 3553 | 34 | 196 | 50% | 3553 | 84% |
+| 0.9.4 | STC <sub>(8.0+0.08s)</sub> | 3482 | 29 | 272 | 51% | 3474 | 85% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.9.3 | VLTC <sub>(2m24s+1.12s)</sub> | 3591 | 43 | 124 | 53% | 3572 | 90% |
 | 0.9.3 | LTC <sub>(60.0+0.60s)</sub> | 3559 | 32 | 228 | 51% | 3551 | 86% |
