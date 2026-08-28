@@ -8,7 +8,7 @@ Home: https://github.com/lynx-chess/Lynx
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.11.0 | 2025-10-01 | 2828 | 3140 | 3208 |  |
+| 1.11.0 | 2025-10-01 | 2827 | 3140 | 3208 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Lynx+<version>&body=###%20Engine%20name%0ALynx%0A%0A###%20Version%0A1.11.0" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-27 07:36:20
+Generated: 2026-08-28 06:26:47
 
 
 
@@ -34,5 +34,5 @@ Generated: 2026-08-27 07:36:20
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.11.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3208 | 23 | 532 | 51% | 3191 | 53% |
 | 1.11.0 | LTC <sub>(60.0+0.60s)</sub> | 3140 | 23 | 546 | 52% | 3102 | 54% |
-| 1.11.0 | STC <sub>(8.0+0.08s)</sub> | 2828 | 20 | 772 | 50% | 2822 | 39% |
+| 1.11.0 | STC <sub>(8.0+0.08s)</sub> | 2827 | 20 | 776 | 49% | 2822 | 39% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
