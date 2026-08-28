@@ -9,8 +9,8 @@ Home: https://github.com/zzzzz151/Starzix
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 6.1 | 2025-04-06 | 3330<sub>(+6) | 3491<sub>(+7) | 3511<sub>(-2) |  |
-| 6.0 | 2024-10-24 | 3324<sub>(+112) | 3484<sub>(+75) | 3513<sub>(+79) |  |
-| 5.0 | 2024-05-23 | 3212 | 3409 | 3434 |  |
+| 6.0 | 2024-10-24 | 3324<sub>(+112) | 3484<sub>(+74) | 3513<sub>(+79) |  |
+| 5.0 | 2024-05-23 | 3212 | 3410 | 3434 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Starzix+<version>&body=###%20Engine%20name%0AStarzix%0A%0A###%20Version%0A6.1" target="_blank">Submit new version</a>
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-27 07:39:38
+Generated: 2026-08-28 06:29:58
 
 ## Ratings Verlauf
 
@@ -37,7 +37,7 @@ xychart-beta
   y-axis "Elo Rating" 3200 --> 3600
   line "" [3212, 3324, 3330]
   line "STC (8.0+0.08s)" [3212, 3324, 3330]
-  line "LTC (60.0+0.60s)" [3409, 3484, 3491]
+  line "LTC (60.0+0.60s)" [3410, 3484, 3491]
   line "" [3434, 3513, 3511]
   line "VLTC (2m24s+1.12s)" [3434, 3513, 3511]
 ```
@@ -51,7 +51,7 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 6.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3511 | 23 | 426 | 50% | 3513 | 87% |
-| 6.1 | LTC <sub>(60.0+0.60s)</sub> | 3491 | 23 | 436 | 50% | 3492 | 86% |
+| 6.1 | LTC <sub>(60.0+0.60s)</sub> | 3491 | 23 | 440 | 50% | 3492 | 87% |
 | 6.1 | STC <sub>(8.0+0.08s)</sub> | 3330 | 21 | 594 | 49% | 3333 | 70% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3513 | 12 | 1620 | 50% | 3513 | 85% |
@@ -59,6 +59,6 @@ xychart-beta
 | 6.0 | STC <sub>(8.0+0.08s)</sub> | 3324 | 13 | 1628 | 50% | 3326 | 68% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 5.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3434 | 32 | 236 | 51% | 3430 | 76% |
-| 5.0 | LTC <sub>(60.0+0.60s)</sub> | 3409 | 32 | 240 | 48% | 3421 | 78% |
+| 5.0 | LTC <sub>(60.0+0.60s)</sub> | 3410 | 32 | 240 | 48% | 3421 | 78% |
 | 5.0 | STC <sub>(8.0+0.08s)</sub> | 3212 | 27 | 408 | 53% | 3125 | 56% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
