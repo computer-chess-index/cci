@@ -8,7 +8,7 @@ Home: https://github.com/sovaz1997/Zevra2
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.5 | 2021-09-20 | 2219 | 2491 | 2562 |  |
+| 2.5 | 2021-09-20 | 2219 | 2489 | 2561 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Zevra+<version>&body=###%20Engine%20name%0AZevra%0A%0A###%20Version%0A2.5" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-27 07:41:10
+Generated: 2026-08-28 06:47:22
 
 
 
@@ -32,7 +32,7 @@ Generated: 2026-08-27 07:41:10
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.5 | VLTC <sub>(2m24s+1.12s)</sub> | 2562 | 35 | 284 | 53% | 2512 | 30% |
-| 2.5 | LTC <sub>(60.0+0.60s)</sub> | 2491 | 14 | 1812 | 51% | 2480 | 27% |
+| 2.5 | VLTC <sub>(2m24s+1.12s)</sub> | 2561 | 35 | 284 | 53% | 2512 | 30% |
+| 2.5 | LTC <sub>(60.0+0.60s)</sub> | 2489 | 14 | 1812 | 51% | 2480 | 27% |
 | 2.5 | STC <sub>(8.0+0.08s)</sub> | 2219 | 14 | 1890 | 51% | 2207 | 23% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
