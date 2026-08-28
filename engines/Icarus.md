@@ -8,7 +8,7 @@ Home: https://github.com/Sp00ph/icarus
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1.1 | 2026-07-17 | 3328<sub>(-9) | 3497<sub>(+5) | 3522<sub>(-12) |  |
+| 1.1.1 | 2026-07-17 | 3328<sub>(-9) | 3495<sub>(+3) | 3522<sub>(-12) |  |
 | 1.1 | 2026-06-05 | 3337<sub>(+23) | 3492<sub>(+35) | 3534<sub>(+31) |  |
 | 1.0 | 2026-04-26 | 3314 | 3457 | 3503 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-27 07:35:29
+Generated: 2026-08-28 06:25:57
 
 ## Ratings Verlauf
 
@@ -37,7 +37,7 @@ xychart-beta
   y-axis "Elo Rating" 3300 --> 3600
   line "" [3314, 3337, 3328]
   line "STC (8.0+0.08s)" [3314, 3337, 3328]
-  line "LTC (60.0+0.60s)" [3457, 3492, 3497]
+  line "LTC (60.0+0.60s)" [3457, 3492, 3495]
   line "" [3503, 3534, 3522]
   line "VLTC (2m24s+1.12s)" [3503, 3534, 3522]
 ```
@@ -50,9 +50,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3522 | 27 | 328 | 50% | 3519 | 85% |
-| 1.1.1 | LTC <sub>(60.0+0.60s)</sub> | 3497 | 29 | 272 | 50% | 3495 | 83% |
-| 1.1.1 | STC <sub>(8.0+0.08s)</sub> | 3328 | 31 | 256 | 49% | 3335 | 76% |
+| 1.1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3522 | 26 | 336 | 50% | 3519 | 86% |
+| 1.1.1 | LTC <sub>(60.0+0.60s)</sub> | 3495 | 29 | 284 | 50% | 3497 | 84% |
+| 1.1.1 | STC <sub>(8.0+0.08s)</sub> | 3328 | 31 | 260 | 49% | 3335 | 75% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3534 | 28 | 300 | 50% | 3532 | 86% |
 | 1.1 | LTC <sub>(60.0+0.60s)</sub> | 3492 | 24 | 404 | 52% | 3479 | 81% |
