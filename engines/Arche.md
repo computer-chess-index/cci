@@ -8,13 +8,14 @@ Home: https://github.com/aywrite/arche
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.3.10 | 2026-08-22 | 1592<sub>(-1) | 1775<sub>(+11) | 1893<sub>(+16) |  |
-| 0.3.9 | 2026-08-04 | 1593<sub>(+136) | 1764<sub>(+172) | 1877<sub>(+222) |  |
+| 0.4.0 | 2026-08-28 | 1775<sub>(+186) | 1959<sub>(+182) | 2005<sub>(+112) |  |
+| 0.3.10 | 2026-08-22 | 1589<sub>(-4) | 1777<sub>(+13) | 1893<sub>(+15) |  |
+| 0.3.9 | 2026-08-04 | 1593<sub>(+136) | 1764<sub>(+172) | 1878<sub>(+223) |  |
 | 0.3.8 | 2026-08-01 | 1457<sub>(+69) | 1592<sub>(-16) | 1655<sub>(+1) |  |
 | 0.3.7 | 2026-07-31 | 1388 | 1608 | 1654 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Arche+<version>&body=###%20Engine%20name%0AArche%0A%0A###%20Version%0A0.3.10" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Arche+<version>&body=###%20Engine%20name%0AArche%0A%0A###%20Version%0A0.4.0" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -27,20 +28,20 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-28 06:22:46
+Generated: 2026-08-29 06:22:43
 
 ## Ratings Verlauf
 
 ```mermaid
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
-  x-axis ["0.3.7", "0.3.8", "0.3.9", "0.3.10"]
-  y-axis "Elo Rating" 1300 --> 1900
-  line "" [1388, 1457, 1593, 1592]
-  line "STC (8.0+0.08s)" [1388, 1457, 1593, 1592]
-  line "LTC (60.0+0.60s)" [1608, 1592, 1764, 1775]
-  line "" [1654, 1655, 1877, 1893]
-  line "VLTC (2m24s+1.12s)" [1654, 1655, 1877, 1893]
+  x-axis ["0.3.7", "0.3.8", "0.3.9", "0.3.10", "0.4.0"]
+  y-axis "Elo Rating" 1300 --> 2100
+  line "" [1388, 1457, 1593, 1589, 1775]
+  line "STC (8.0+0.08s)" [1388, 1457, 1593, 1589, 1775]
+  line "LTC (60.0+0.60s)" [1608, 1592, 1764, 1777, 1959]
+  line "" [1654, 1655, 1878, 1893, 2005]
+  line "VLTC (2m24s+1.12s)" [1654, 1655, 1878, 1893, 2005]
 ```
 
 
@@ -51,12 +52,16 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.3.10 | VLTC <sub>(2m24s+1.12s)</sub> | 1893 | 38 | 242 | 50% | 1887 | 25% |
-| 0.3.10 | LTC <sub>(60.0+0.60s)</sub> | 1775 | 37 | 260 | 51% | 1764 | 20% |
-| 0.3.10 | STC <sub>(8.0+0.08s)</sub> | 1592 | 36 | 276 | 47% | 1624 | 23% |
+| 0.4.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2005 | 71 | 64 | 45% | 2044 | 31% |
+| 0.4.0 | LTC <sub>(60.0+0.60s)</sub> | 1959 | 72 | 68 | 54% | 1924 | 19% |
+| 0.4.0 | STC <sub>(8.0+0.08s)</sub> | 1775 | 73 | 68 | 54% | 1740 | 16% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.3.9 | VLTC <sub>(2m24s+1.12s)</sub> | 1877 | 33 | 334 | 55% | 1823 | 18% |
-| 0.3.9 | LTC <sub>(60.0+0.60s)</sub> | 1764 | 38 | 248 | 50% | 1767 | 16% |
+| 0.3.10 | VLTC <sub>(2m24s+1.12s)</sub> | 1893 | 38 | 242 | 50% | 1889 | 25% |
+| 0.3.10 | LTC <sub>(60.0+0.60s)</sub> | 1777 | 37 | 260 | 51% | 1764 | 20% |
+| 0.3.10 | STC <sub>(8.0+0.08s)</sub> | 1589 | 36 | 280 | 46% | 1624 | 23% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0.3.9 | VLTC <sub>(2m24s+1.12s)</sub> | 1878 | 33 | 334 | 55% | 1824 | 18% |
+| 0.3.9 | LTC <sub>(60.0+0.60s)</sub> | 1764 | 39 | 248 | 50% | 1767 | 16% |
 | 0.3.9 | STC <sub>(8.0+0.08s)</sub> | 1593 | 34 | 302 | 51% | 1573 | 22% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.3.8 | VLTC <sub>(2m24s+1.12s)</sub> | 1655 | 44 | 178 | 52% | 1638 | 23% |
