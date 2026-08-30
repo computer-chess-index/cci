@@ -8,7 +8,7 @@ Home: https://github.com/SnowballSH/Avalanche
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.0.0 | 2026-08-08 | 3185<sub>(+289) | 3380<sub>(+189) | 3436<sub>(+209) |  |
+| 4.0.0 | 2026-08-08 | 3183<sub>(+287) | 3380<sub>(+189) | 3436<sub>(+209) |  |
 | 3.0.0 | 2026-06-25 | 2896 | 3191 | 3227 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-29 06:22:55
+Generated: 2026-08-30 06:22:57
 
 ## Ratings Verlauf
 
@@ -34,8 +34,8 @@ Generated: 2026-08-29 06:22:55
 xychart-beta
   x-axis ["3.0.0", "4.0.0"]
   y-axis "Elo Rating" 2800 --> 3500
-  line "" [2896, 3185]
-  line "STC (8.0+0.08s)" [2896, 3185]
+  line "" [2896, 3183]
+  line "STC (8.0+0.08s)" [2896, 3183]
   line "LTC (60.0+0.60s)" [3191, 3380]
   line "" [3227, 3436]
   line "VLTC (2m24s+1.12s)" [3227, 3436]
@@ -49,9 +49,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3436 | 27 | 342 | 52% | 3420 | 79% |
+| 4.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3436 | 26 | 346 | 52% | 3420 | 79% |
 | 4.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3380 | 32 | 244 | 51% | 3371 | 75% |
-| 4.0.0 | STC <sub>(8.0+0.08s)</sub> | 3185 | 33 | 252 | 49% | 3191 | 60% |
+| 4.0.0 | STC <sub>(8.0+0.08s)</sub> | 3183 | 33 | 256 | 49% | 3191 | 60% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3227 | 32 | 262 | 53% | 3198 | 59% |
 | 3.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3191 | 34 | 240 | 53% | 3155 | 56% |
