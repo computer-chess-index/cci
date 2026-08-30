@@ -8,6 +8,7 @@ Home: https://github.com/jromang/gaiachess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
+| 4.2.6 | 2026-08-29 |  |  |  |  |
 | 4.2.5 | 2026-08-24 | 3272<sub>(+20) | 3457<sub>(+21) | 3501<sub>(+7) |  |
 | 4.2.4 | 2026-08-23 | 3252<sub>(+1) | 3436<sub>(+3) | 3494<sub>(+4) |  |
 | 4.2.4 | 2026-08-23 | 3251<sub>(+11) | 3433<sub>(-24) | 3490<sub>(-2) |  |
@@ -20,7 +21,7 @@ Home: https://github.com/jromang/gaiachess
 | 4.1.0 | 2026-02-22 |  |  |  | Skipped for 4.1.1 |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Gaia+<version>&body=###%20Engine%20name%0AGaia%0A%0A###%20Version%0A4.2.5" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Gaia+<version>&body=###%20Engine%20name%0AGaia%0A%0A###%20Version%0A4.2.6" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -33,7 +34,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-30 06:25:18
+Generated: 2026-08-30 13:09:07
 
 ## Ratings Verlauf
 
@@ -65,9 +66,9 @@ xychart-beta
 | 4.2.4 | VLTC <sub>(2m24s+1.12s)</sub> | 3490 | 31 | 244 | 49% | 3498 | 79% |
 | 4.2.4 | LTC <sub>(60.0+0.60s)</sub> | 3436 | 33 | 226 | 51% | 3432 | 77% |
 | 4.2.4 | LTC <sub>(60.0+0.60s)</sub> | 3433 | 33 | 222 | 51% | 3430 | 78% |
-| 4.2.4 | STC <sub>(8.0+0.08s)</sub> | 3251 | 33 | 234 | 47% | 3270 | 66% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | 4.2.4 | STC <sub>(8.0+0.08s)</sub> | 3252 | 33 | 238 | 47% | 3271 | 66% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 4.2.4 | STC <sub>(8.0+0.08s)</sub> | 3251 | 33 | 234 | 47% | 3270 | 66% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4.2.3 | VLTC <sub>(2m24s+1.12s)</sub> | 3492 | 36 | 190 | 51% | 3487 | 77% |
 | 4.2.3 | LTC <sub>(60.0+0.60s)</sub> | 3457 | 30 | 266 | 48% | 3471 | 80% |
