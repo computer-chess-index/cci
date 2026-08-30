@@ -8,7 +8,7 @@ Home: https://github.com/dylan2554/onyx
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0 | 2026-07-12 | 2890<sub>(+263) | 3158<sub>(+226) | 3221<sub>(+201) |  |
+| 2.0 | 2026-07-12 | 2892<sub>(+265) | 3158<sub>(+226) | 3221<sub>(+201) |  |
 | 1.6 | 2026-06-13 | 2627 | 2932 | 3020 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-29 06:27:27
+Generated: 2026-08-30 06:27:32
 
 ## Ratings Verlauf
 
@@ -34,8 +34,8 @@ Generated: 2026-08-29 06:27:27
 xychart-beta
   x-axis ["1.6", "2.0"]
   y-axis "Elo Rating" 2600 --> 3300
-  line "" [2627, 2890]
-  line "STC (8.0+0.08s)" [2627, 2890]
+  line "" [2627, 2892]
+  line "STC (8.0+0.08s)" [2627, 2892]
   line "LTC (60.0+0.60s)" [2932, 3158]
   line "" [3020, 3221]
   line "VLTC (2m24s+1.12s)" [3020, 3221]
@@ -49,9 +49,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3221 | 30 | 304 | 50% | 3224 | 58% |
+| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3221 | 30 | 304 | 50% | 3225 | 58% |
 | 2.0 | LTC <sub>(60.0+0.60s)</sub> | 3158 | 30 | 314 | 50% | 3156 | 51% |
-| 2.0 | STC <sub>(8.0+0.08s)</sub> | 2890 | 31 | 326 | 50% | 2894 | 40% |
+| 2.0 | STC <sub>(8.0+0.08s)</sub> | 2892 | 30 | 330 | 50% | 2893 | 40% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.6 | VLTC <sub>(2m24s+1.12s)</sub> | 3020 | 32 | 296 | 48% | 3035 | 40% |
 | 1.6 | LTC <sub>(60.0+0.60s)</sub> | 2932 | 34 | 264 | 46% | 2963 | 41% |
