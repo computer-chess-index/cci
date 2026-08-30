@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-29 06:23:18
+Generated: 2026-08-30 06:23:23
 
 
 
@@ -34,5 +34,5 @@ Generated: 2026-08-29 06:23:18
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3339 | 11 | 2094 | 49% | 3341 | 70% |
 | 3.0.1 | LTC <sub>(60.0+0.60s)</sub> | 3272 | 12 | 1946 | 50% | 3275 | 63% |
-| 3.0.1 | STC <sub>(8.0+0.08s)</sub> | 3012 | 12 | 1984 | 51% | 3001 | 47% |
+| 3.0.1 | STC <sub>(8.0+0.08s)</sub> | 3012 | 12 | 1988 | 51% | 3001 | 47% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
