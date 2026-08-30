@@ -8,7 +8,7 @@ Home: https://github.com/pkrisz99/Renegade
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.3.1 | 2026-07-14 | 3348<sub>(+5) | 3509<sub>(-5) | 3541<sub>(+3) |  |
+| 1.3.1 | 2026-07-14 | 3348<sub>(+5) | 3510<sub>(-4) | 3541<sub>(+3) |  |
 | 1.3.0 | 2026-06-17 | 3343<sub>(+new) | 3514<sub>(+new) | 3538<sub>(+new) |  |
 | 1.2.0 | 2025-05-05 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-29 06:28:44
+Generated: 2026-08-30 06:28:43
 
 ## Ratings Verlauf
 
@@ -37,7 +37,7 @@ xychart-beta
   y-axis "Elo Rating" 3300 --> 3600
   line "" [3343, 3348]
   line "STC (8.0+0.08s)" [3343, 3348]
-  line "LTC (60.0+0.60s)" [3514, 3509]
+  line "LTC (60.0+0.60s)" [3514, 3510]
   line "" [3538, 3541]
   line "VLTC (2m24s+1.12s)" [3538, 3541]
 ```
@@ -51,7 +51,7 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3541 | 35 | 190 | 50% | 3542 | 88% |
-| 1.3.1 | LTC <sub>(60.0+0.60s)</sub> | 3509 | 33 | 216 | 48% | 3521 | 86% |
+| 1.3.1 | LTC <sub>(60.0+0.60s)</sub> | 3510 | 33 | 216 | 48% | 3521 | 86% |
 | 1.3.1 | STC <sub>(8.0+0.08s)</sub> | 3348 | 27 | 348 | 52% | 3337 | 70% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3538 | 33 | 226 | 54% | 3501 | 81% |
