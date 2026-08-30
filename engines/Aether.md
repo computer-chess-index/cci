@@ -8,7 +8,7 @@ Home: https://github.com/ma787/aether
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2026-07-05 | 1751 | 1985 | 2037 |  |
+| 1.0 | 2026-07-05 | 1747 | 1983 | 2040 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Aether+<version>&body=###%20Engine%20name%0AAether%0A%0A###%20Version%0A1.0" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-29 06:22:08
+Generated: 2026-08-30 06:22:09
 
 
 
@@ -32,7 +32,7 @@ Generated: 2026-08-29 06:22:08
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2037 | 33 | 328 | 46% | 2084 | 21% |
-| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 1985 | 35 | 302 | 49% | 2002 | 18% |
-| 1.0 | STC <sub>(8.0+0.08s)</sub> | 1751 | 34 | 316 | 50% | 1759 | 19% |
+| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2040 | 33 | 332 | 47% | 2084 | 20% |
+| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 1983 | 35 | 306 | 48% | 2002 | 18% |
+| 1.0 | STC <sub>(8.0+0.08s)</sub> | 1747 | 34 | 320 | 50% | 1759 | 19% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
