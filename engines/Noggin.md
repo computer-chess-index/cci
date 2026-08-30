@@ -8,7 +8,7 @@ Home: https://github.com/jeremyylimmm/noggin
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1 | 2026-07-04 | 2662<sub>(+66) | 2878<sub>(+48) | 2942<sub>(+8) |  |
+| 2.1 | 2026-07-04 | 2662<sub>(+66) | 2878<sub>(+48) | 2943<sub>(+9) |  |
 | 2.0 | 2026-06-14 | 2596<sub>(+new) | 2830<sub>(+new) | 2934<sub>(+new) |  |
 | 1.0 | 2026-06-09 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-29 06:27:18
+Generated: 2026-08-30 06:27:25
 
 ## Ratings Verlauf
 
@@ -38,8 +38,8 @@ xychart-beta
   line "" [2596, 2662]
   line "STC (8.0+0.08s)" [2596, 2662]
   line "LTC (60.0+0.60s)" [2830, 2878]
-  line "" [2934, 2942]
-  line "VLTC (2m24s+1.12s)" [2934, 2942]
+  line "" [2934, 2943]
+  line "VLTC (2m24s+1.12s)" [2934, 2943]
 ```
 
 
@@ -50,8 +50,8 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2942 | 36 | 232 | 52% | 2923 | 46% |
-| 2.1 | LTC <sub>(60.0+0.60s)</sub> | 2878 | 40 | 188 | 51% | 2866 | 44% |
+| 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2943 | 35 | 236 | 52% | 2923 | 45% |
+| 2.1 | LTC <sub>(60.0+0.60s)</sub> | 2878 | 39 | 192 | 51% | 2866 | 43% |
 | 2.1 | STC <sub>(8.0+0.08s)</sub> | 2662 | 43 | 180 | 50% | 2655 | 28% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2934 | 49 | 128 | 56% | 2886 | 41% |
