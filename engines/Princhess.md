@@ -8,7 +8,7 @@ Home: https://github.com/princesslana/princhess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.22.0 | 2026-08-16 | 2867<sub>(+32) | 3102<sub>(+25) | 3163<sub>(+49) |  |
+| 0.22.0 | 2026-08-16 | 2866<sub>(+31) | 3102<sub>(+25) | 3163<sub>(+49) |  |
 | 0.21.0 | 2025-10-13 | 2835 | 3077 | 3114 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-29 06:28:07
+Generated: 2026-08-30 06:28:07
 
 ## Ratings Verlauf
 
@@ -34,8 +34,8 @@ Generated: 2026-08-29 06:28:07
 xychart-beta
   x-axis ["0.21.0", "0.22.0"]
   y-axis "Elo Rating" 2800 --> 3200
-  line "" [2835, 2867]
-  line "STC (8.0+0.08s)" [2835, 2867]
+  line "" [2835, 2866]
+  line "STC (8.0+0.08s)" [2835, 2866]
   line "LTC (60.0+0.60s)" [3077, 3102]
   line "" [3114, 3163]
   line "VLTC (2m24s+1.12s)" [3114, 3163]
@@ -51,7 +51,7 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.22.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3163 | 36 | 212 | 50% | 3159 | 55% |
 | 0.22.0 | LTC <sub>(60.0+0.60s)</sub> | 3102 | 34 | 242 | 51% | 3096 | 55% |
-| 0.22.0 | STC <sub>(8.0+0.08s)</sub> | 2867 | 35 | 252 | 49% | 2873 | 40% |
+| 0.22.0 | STC <sub>(8.0+0.08s)</sub> | 2866 | 34 | 264 | 49% | 2877 | 41% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.21.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3114 | 24 | 504 | 50% | 3114 | 51% |
 | 0.21.0 | LTC <sub>(60.0+0.60s)</sub> | 3077 | 23 | 542 | 50% | 3073 | 50% |
