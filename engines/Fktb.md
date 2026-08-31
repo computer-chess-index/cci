@@ -8,7 +8,7 @@ Home: https://github.com/lunbun/fktb
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.0.77 | 2026-01-18 | 1855<sub>(-59) | 2141<sub>(+5) | 2230<sub>(+19) |  |
+| 0.0.77 | 2026-01-18 | 1854<sub>(-60) | 2141<sub>(+5) | 2230<sub>(+19) |  |
 | 0.0.76 | 2026-01-05 | 1914 | 2136 | 2211 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-30 15:49:17
+Generated: 2026-08-31 04:35:07
 
 ## Ratings Verlauf
 
@@ -34,8 +34,8 @@ Generated: 2026-08-30 15:49:17
 xychart-beta
   x-axis ["0.0.76", "0.0.77"]
   y-axis "Elo Rating" 1800 --> 2300
-  line "" [1914, 1855]
-  line "STC (8.0+0.08s)" [1914, 1855]
+  line "" [1914, 1854]
+  line "STC (8.0+0.08s)" [1914, 1854]
   line "LTC (60.0+0.60s)" [2136, 2141]
   line "" [2211, 2230]
   line "VLTC (2m24s+1.12s)" [2211, 2230]
@@ -51,7 +51,7 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.0.77 | VLTC <sub>(2m24s+1.12s)</sub> | 2230 | 24 | 560 | 52% | 2214 | 31% |
 | 0.0.77 | LTC <sub>(60.0+0.60s)</sub> | 2141 | 25 | 528 | 49% | 2147 | 29% |
-| 0.0.77 | STC <sub>(8.0+0.08s)</sub> | 1855 | 22 | 692 | 49% | 1860 | 28% |
+| 0.0.77 | STC <sub>(8.0+0.08s)</sub> | 1854 | 22 | 696 | 49% | 1860 | 27% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.0.76 | VLTC <sub>(2m24s+1.12s)</sub> | 2211 | 52 | 132 | 48% | 2238 | 22% |
 | 0.0.76 | LTC <sub>(60.0+0.60s)</sub> | 2136 | 45 | 172 | 49% | 2145 | 23% |
