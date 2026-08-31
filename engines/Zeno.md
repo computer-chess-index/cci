@@ -8,7 +8,7 @@ Home: https://github.com/Toudonou/zeno
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0 | 2026-08-14 | 2113<sub>(+214) | 2372<sub>(+217) | 2412<sub>(+160) |  |
+| 3.0 | 2026-08-14 | 2111<sub>(+212) | 2372<sub>(+217) | 2412<sub>(+160) |  |
 | 2.0 | 2026-03-08 | 1899 | 2155 | 2252 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-30 15:54:57
+Generated: 2026-08-31 04:40:51
 
 ## Ratings Verlauf
 
@@ -34,8 +34,8 @@ Generated: 2026-08-30 15:54:57
 xychart-beta
   x-axis ["2.0", "3.0"]
   y-axis "Elo Rating" 1800 --> 2500
-  line "" [1899, 2113]
-  line "STC (8.0+0.08s)" [1899, 2113]
+  line "" [1899, 2111]
+  line "STC (8.0+0.08s)" [1899, 2111]
   line "LTC (60.0+0.60s)" [2155, 2372]
   line "" [2252, 2412]
   line "VLTC (2m24s+1.12s)" [2252, 2412]
@@ -51,7 +51,7 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2412 | 36 | 264 | 51% | 2402 | 29% |
 | 3.0 | LTC <sub>(60.0+0.60s)</sub> | 2372 | 36 | 280 | 50% | 2376 | 20% |
-| 3.0 | STC <sub>(8.0+0.08s)</sub> | 2113 | 38 | 248 | 52% | 2088 | 22% |
+| 3.0 | STC <sub>(8.0+0.08s)</sub> | 2111 | 37 | 252 | 52% | 2087 | 22% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2252 | 30 | 384 | 49% | 2272 | 24% |
 | 2.0 | LTC <sub>(60.0+0.60s)</sub> | 2155 | 28 | 460 | 49% | 2161 | 21% |
