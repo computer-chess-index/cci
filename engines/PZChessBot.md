@@ -8,11 +8,11 @@ Home: https://github.com/kevlu8/PZChessBot
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7.1 | 2026-06-27 | 3321<sub>(+24) | 3522<sub>(+38) | 3530<sub>(-2) |  |
+| 7.1 | 2026-06-27 | 3321<sub>(+24) | 3524<sub>(+40) | 3530<sub>(-2) |  |
 | 7.0 | 2026-05-07 | 3297<sub>(+96) | 3484<sub>(+60) | 3532<sub>(+53) |  |
 | 6.1 | 2026-02-01 | 3201<sub>(+34) | 3424<sub>(+62) | 3479<sub>(+57) |  |
-| 6.0 | 2026-01-01 | 3167<sub>(+120) | 3362<sub>(+123) | 3422<sub>(+152) |  |
-| 5.0 | 2025-10-19 | 3047 | 3239 | 3270 |  |
+| 6.0 | 2026-01-01 | 3167<sub>(+121) | 3362<sub>(+123) | 3422<sub>(+152) |  |
+| 5.0 | 2025-10-19 | 3046 | 3239 | 3270 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+PZChessBot+<version>&body=###%20Engine%20name%0APZChessBot%0A%0A###%20Version%0A7.1" target="_blank">Submit new version</a>
@@ -28,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-30 15:52:14
+Generated: 2026-08-31 04:38:02
 
 ## Ratings Verlauf
 
@@ -37,9 +37,9 @@ Generated: 2026-08-30 15:52:14
 xychart-beta
   x-axis ["5.0", "6.0", "6.1", "7.0", "7.1"]
   y-axis "Elo Rating" 3000 --> 3600
-  line "" [3047, 3167, 3201, 3297, 3321]
-  line "STC (8.0+0.08s)" [3047, 3167, 3201, 3297, 3321]
-  line "LTC (60.0+0.60s)" [3239, 3362, 3424, 3484, 3522]
+  line "" [3046, 3167, 3201, 3297, 3321]
+  line "STC (8.0+0.08s)" [3046, 3167, 3201, 3297, 3321]
+  line "LTC (60.0+0.60s)" [3239, 3362, 3424, 3484, 3524]
   line "" [3270, 3422, 3479, 3532, 3530]
   line "VLTC (2m24s+1.12s)" [3270, 3422, 3479, 3532, 3530]
 ```
@@ -53,7 +53,7 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 7.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3530 | 32 | 230 | 51% | 3526 | 86% |
-| 7.1 | LTC <sub>(60.0+0.60s)</sub> | 3522 | 31 | 248 | 50% | 3521 | 84% |
+| 7.1 | LTC <sub>(60.0+0.60s)</sub> | 3524 | 30 | 256 | 50% | 3521 | 84% |
 | 7.1 | STC <sub>(8.0+0.08s)</sub> | 3321 | 28 | 318 | 50% | 3321 | 71% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 7.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3532 | 25 | 362 | 50% | 3532 | 84% |
@@ -70,5 +70,5 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 5.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3270 | 32 | 254 | 50% | 3259 | 65% |
 | 5.0 | LTC <sub>(60.0+0.60s)</sub> | 3239 | 38 | 184 | 53% | 3193 | 64% |
-| 5.0 | STC <sub>(8.0+0.08s)</sub> | 3047 | 35 | 236 | 55% | 2963 | 52% |
+| 5.0 | STC <sub>(8.0+0.08s)</sub> | 3046 | 35 | 236 | 55% | 2963 | 52% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
