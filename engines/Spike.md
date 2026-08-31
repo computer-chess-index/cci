@@ -8,7 +8,7 @@ Home: https://github.com/Mangar2/Spike
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.4.2 | 2026-08-28 | 2407<sub>(+67) | 2712<sub>(-20) | 2817<sub>(-5) |  |
+| 1.4.2 | 2026-08-28 | 2404<sub>(+64) | 2715<sub>(-17) | 2824<sub>(+2) |  |
 | 1.4 | 2011-02-01 | 2340 | 2732 | 2822 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-30 15:53:35
+Generated: 2026-08-31 04:39:27
 
 ## Ratings Verlauf
 
@@ -34,11 +34,11 @@ Generated: 2026-08-30 15:53:35
 xychart-beta
   x-axis ["1.4", "1.4.2"]
   y-axis "Elo Rating" 2300 --> 2900
-  line "" [2340, 2407]
-  line "STC (8.0+0.08s)" [2340, 2407]
-  line "LTC (60.0+0.60s)" [2732, 2712]
-  line "" [2822, 2817]
-  line "VLTC (2m24s+1.12s)" [2822, 2817]
+  line "" [2340, 2404]
+  line "STC (8.0+0.08s)" [2340, 2404]
+  line "LTC (60.0+0.60s)" [2732, 2715]
+  line "" [2822, 2824]
+  line "VLTC (2m24s+1.12s)" [2822, 2824]
 ```
 
 
@@ -49,9 +49,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.4.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2817 | 51 | 114 | 52% | 2803 | 40% |
-| 1.4.2 | LTC <sub>(60.0+0.60s)</sub> | 2712 | 46 | 156 | 52% | 2695 | 30% |
-| 1.4.2 | STC <sub>(8.0+0.08s)</sub> | 2407 | 39 | 216 | 53% | 2383 | 32% |
+| 1.4.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2824 | 45 | 154 | 52% | 2809 | 39% |
+| 1.4.2 | LTC <sub>(60.0+0.60s)</sub> | 2715 | 41 | 196 | 51% | 2708 | 29% |
+| 1.4.2 | STC <sub>(8.0+0.08s)</sub> | 2404 | 38 | 220 | 52% | 2383 | 33% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.4 | VLTC <sub>(2m24s+1.12s)</sub> | 2822 | 45 | 164 | 51% | 2820 | 32% |
 | 1.4 | LTC <sub>(60.0+0.60s)</sub> | 2732 | 48 | 144 | 50% | 2730 | 27% |
