@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-30 15:50:30
+Generated: 2026-08-31 04:36:20
 
 ## Ratings Verlauf
 
@@ -51,7 +51,7 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.32.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3173 | 23 | 532 | 49% | 3183 | 53% |
 | 0.32.1 | LTC <sub>(60.0+0.60s)</sub> | 3001 | 24 | 534 | 48% | 3015 | 45% |
-| 0.32.1 | STC <sub>(8.0+0.08s)</sub> | 2402 | 21 | 778 | 49% | 2403 | 25% |
+| 0.32.1 | STC <sub>(8.0+0.08s)</sub> | 2402 | 21 | 782 | 49% | 2407 | 25% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.29.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3229 | 28 | 356 | 50% | 3229 | 54% |
 | 0.29.0 | LTC <sub>(60.0+0.60s)</sub> | 2994 | 30 | 328 | 48% | 3009 | 47% |
