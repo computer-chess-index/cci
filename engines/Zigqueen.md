@@ -8,8 +8,8 @@ Home: https://github.com/stierms/zigqueen
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.0.0 | 2026-08-19 | 3117<sub>(+119) | 3352<sub>(+36) | 3393<sub>(+18) |  |
-| 5.8.3 | 2026-07-25 | 2998<sub>(+new) | 3316<sub>(+new) | 3375<sub>(+new) |  |
+| 6.0.0 | 2026-08-19 | 3117<sub>(+117) | 3352<sub>(+36) | 3393<sub>(+18) |  |
+| 5.8.3 | 2026-07-25 | 3000<sub>(+new) | 3316<sub>(+new) | 3375<sub>(+new) |  |
 | 5.8.2 | 2026-07-24 |  |  |  |  |
 | 5.8.1 | 2026-07-23 |  |  |  |  |
 | 5.8.0 | 2026-07-19 |  |  |  |  |
@@ -28,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-30 15:55:06
+Generated: 2026-08-31 04:41:01
 
 ## Ratings Verlauf
 
@@ -36,9 +36,9 @@ Generated: 2026-08-30 15:55:06
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["5.8.3", "6.0.0"]
-  y-axis "Elo Rating" 2900 --> 3400
-  line "" [2998, 3117]
-  line "STC (8.0+0.08s)" [2998, 3117]
+  y-axis "Elo Rating" 3000 --> 3400
+  line "" [3000, 3117]
+  line "STC (8.0+0.08s)" [3000, 3117]
   line "LTC (60.0+0.60s)" [3316, 3352]
   line "" [3375, 3393]
   line "VLTC (2m24s+1.12s)" [3375, 3393]
@@ -58,5 +58,5 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 5.8.3 | VLTC <sub>(2m24s+1.12s)</sub> | 3375 | 33 | 228 | 48% | 3389 | 76% |
 | 5.8.3 | LTC <sub>(60.0+0.60s)</sub> | 3316 | 40 | 160 | 51% | 3308 | 67% |
-| 5.8.3 | STC <sub>(8.0+0.08s)</sub> | 2998 | 38 | 188 | 54% | 2967 | 57% |
+| 5.8.3 | STC <sub>(8.0+0.08s)</sub> | 3000 | 38 | 188 | 54% | 2967 | 57% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
