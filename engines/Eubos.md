@@ -8,10 +8,10 @@ Home: https://github.com/cjbolt/EubosChess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.5 | 2026-06-09 | 2321<sub>(+134) | 2642<sub>(+136) | 2709<sub>(+108) |  |
+| 4.5 | 2026-06-09 | 2321<sub>(+134) | 2643<sub>(+137) | 2709<sub>(+108) |  |
 | 4.4 | 2026-05-06 | 2187<sub>(+86) | 2506<sub>(+53) | 2601<sub>(+32) |  |
-| 4.3 | 2026-01-29 | 2101<sub>(-58) | 2453<sub>(+32) | 2569<sub>(+23) |  |
-| 4.2 | 2025-10-16 | 2159 | 2421 | 2546 |  |
+| 4.3 | 2026-01-29 | 2101<sub>(-59) | 2453<sub>(+32) | 2569<sub>(+23) |  |
+| 4.2 | 2025-10-16 | 2160 | 2421 | 2546 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Eubos+<version>&body=###%20Engine%20name%0AEubos%0A%0A###%20Version%0A4.5" target="_blank">Submit new version</a>
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-01 04:34:53
+Generated: 2026-09-01 15:53:59
 
 ## Ratings Verlauf
 
@@ -36,9 +36,9 @@ Generated: 2026-09-01 04:34:53
 xychart-beta
   x-axis ["4.2", "4.3", "4.4", "4.5"]
   y-axis "Elo Rating" 2100 --> 2800
-  line "" [2159, 2101, 2187, 2321]
-  line "STC (8.0+0.08s)" [2159, 2101, 2187, 2321]
-  line "LTC (60.0+0.60s)" [2421, 2453, 2506, 2642]
+  line "" [2160, 2101, 2187, 2321]
+  line "STC (8.0+0.08s)" [2160, 2101, 2187, 2321]
+  line "LTC (60.0+0.60s)" [2421, 2453, 2506, 2643]
   line "" [2546, 2569, 2601, 2709]
   line "VLTC (2m24s+1.12s)" [2546, 2569, 2601, 2709]
 ```
@@ -52,7 +52,7 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4.5 | VLTC <sub>(2m24s+1.12s)</sub> | 2709 | 30 | 354 | 49% | 2714 | 36% |
-| 4.5 | LTC <sub>(60.0+0.60s)</sub> | 2642 | 29 | 396 | 49% | 2649 | 27% |
+| 4.5 | LTC <sub>(60.0+0.60s)</sub> | 2643 | 29 | 396 | 49% | 2649 | 27% |
 | 4.5 | STC <sub>(8.0+0.08s)</sub> | 2321 | 29 | 412 | 47% | 2356 | 23% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4.4 | VLTC <sub>(2m24s+1.12s)</sub> | 2601 | 32 | 320 | 48% | 2620 | 30% |
@@ -65,5 +65,5 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2546 | 36 | 266 | 52% | 2529 | 24% |
 | 4.2 | LTC <sub>(60.0+0.60s)</sub> | 2421 | 35 | 272 | 50% | 2417 | 26% |
-| 4.2 | STC <sub>(8.0+0.08s)</sub> | 2159 | 34 | 310 | 52% | 2132 | 22% |
+| 4.2 | STC <sub>(8.0+0.08s)</sub> | 2160 | 34 | 310 | 52% | 2132 | 22% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
