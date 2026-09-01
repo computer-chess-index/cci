@@ -8,7 +8,7 @@ Home: https://github.com/Lacovipo/Gilipol
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.00 | 2026-06-06 | 2660<sub>(+117) | 2992<sub>(+127) | 3106<sub>(+101) |  |
+| 2.00 | 2026-06-06 | 2660<sub>(+117) | 2992<sub>(+127) | 3108<sub>(+103) |  |
 | 1.00netbin | 2026-04-13 | 2543<sub>(+2149) | 2865<sub>(+2410) | 3005<sub>(+2538) |  |
 | 1.00 | 2026-04-12 | 394 | 455 | 467 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-01 04:35:19
+Generated: 2026-09-01 15:54:31
 
 ## Ratings Verlauf
 
@@ -38,8 +38,8 @@ xychart-beta
   line "" [394, 2543, 2660]
   line "STC (8.0+0.08s)" [394, 2543, 2660]
   line "LTC (60.0+0.60s)" [455, 2865, 2992]
-  line "" [467, 3005, 3106]
-  line "VLTC (2m24s+1.12s)" [467, 3005, 3106]
+  line "" [467, 3005, 3108]
+  line "VLTC (2m24s+1.12s)" [467, 3005, 3108]
 ```
 
 
@@ -50,11 +50,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.00 | VLTC <sub>(2m24s+1.12s)</sub> | 3106 | 25 | 458 | 52% | 3085 | 54% |
-| 2.00 | LTC <sub>(60.0+0.60s)</sub> | 2992 | 27 | 404 | 51% | 2975 | 46% |
+| 2.00 | VLTC <sub>(2m24s+1.12s)</sub> | 3108 | 25 | 462 | 53% | 3083 | 54% |
+| 2.00 | LTC <sub>(60.0+0.60s)</sub> | 2992 | 27 | 408 | 51% | 2975 | 47% |
 | 2.00 | STC <sub>(8.0+0.08s)</sub> | 2660 | 28 | 404 | 51% | 2650 | 33% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.00netbin | VLTC <sub>(2m24s+1.12s)</sub> | 3005 | 28 | 426 | 57% | 2788 | 41% |
+| 1.00netbin | VLTC <sub>(2m24s+1.12s)</sub> | 3005 | 28 | 426 | 57% | 2786 | 41% |
 | 1.00netbin | LTC <sub>(60.0+0.60s)</sub> | 2865 | 25 | 546 | 59% | 2687 | 39% |
 | 1.00netbin | STC <sub>(8.0+0.08s)</sub> | 2543 | 28 | 470 | 55% | 2381 | 28% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
