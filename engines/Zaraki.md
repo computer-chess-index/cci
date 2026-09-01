@@ -8,7 +8,7 @@ Home: https://github.com/timojokinen/zaraki-zig
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.0.1 | 2026-07-02 | 2053 | 2272 | 2353 |  |
+| 0.0.1 | 2026-07-02 | 2053 | 2273 | 2353 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Zaraki+<version>&body=###%20Engine%20name%0AZaraki%0A%0A###%20Version%0A0.0.1" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-01 04:40:37
+Generated: 2026-09-01 16:00:30
 
 
 
@@ -33,6 +33,6 @@ Generated: 2026-09-01 04:40:37
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2353 | 34 | 276 | 44% | 2425 | 42% |
-| 0.0.1 | LTC <sub>(60.0+0.60s)</sub> | 2272 | 37 | 240 | 45% | 2345 | 38% |
+| 0.0.1 | LTC <sub>(60.0+0.60s)</sub> | 2273 | 36 | 244 | 45% | 2344 | 39% |
 | 0.0.1 | STC <sub>(8.0+0.08s)</sub> | 2053 | 30 | 368 | 43% | 2122 | 33% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
