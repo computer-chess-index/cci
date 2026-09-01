@@ -8,7 +8,7 @@ Home:
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2014-03-01 | 2427 | 2664 | 2687 |  |
+| 1.0 | 2014-03-01 | 2427 | 2665 | 2688 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Gaviota+<version>&body=###%20Engine%20name%0AGaviota%0A%0A###%20Version%0A1.0" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-31 04:35:18
+Generated: 2026-09-01 04:35:14
 
 
 
@@ -32,7 +32,7 @@ Generated: 2026-08-31 04:35:18
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2687 | 41 | 208 | 49% | 2704 | 25% |
-| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2664 | 13 | 1886 | 51% | 2647 | 31% |
-| 1.0 | STC <sub>(8.0+0.08s)</sub> | 2427 | 13 | 2132 | 51% | 2422 | 25% |
+| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2688 | 41 | 208 | 49% | 2705 | 25% |
+| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2665 | 13 | 1886 | 51% | 2649 | 31% |
+| 1.0 | STC <sub>(8.0+0.08s)</sub> | 2427 | 13 | 2140 | 51% | 2423 | 25% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
