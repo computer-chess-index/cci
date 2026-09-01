@@ -8,7 +8,8 @@ Home: https://github.com/chris-moreton/rusty-rival
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.56 | 2026-08-30 | 2718<sub>(+7) | 3017<sub>(-27) | 3104<sub>(+8) |  |
+| 1.0.57 | 2026-09-01 |  |  |  |  |
+| 1.0.56 | 2026-08-30 | 2718<sub>(+7) | 3001<sub>(-43) | 3104<sub>(+8) |  |
 | 1.0.54 | 2026-08-25 | 2711<sub>(+77) | 3044<sub>(+98) | 3096<sub>(+17) |  |
 | 1.0.53 | 2026-08-07 | 2634<sub>(+126) | 2946<sub>(+115) | 3079<sub>(+122) |  |
 | 1.0.52 | 2026-08-03 | 2508<sub>(+new) | 2831<sub>(+new) | 2957<sub>(+new) |  |
@@ -36,7 +37,7 @@ Home: https://github.com/chris-moreton/rusty-rival
 | 1.0.7 | 2025-12-30 |  |  |  | thread 'main' (10808) panicked at src\main.rs:17:36: |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+RustyRival+<version>&body=###%20Engine%20name%0ARustyRival%0A%0A###%20Version%0A1.0.56" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+RustyRival+<version>&body=###%20Engine%20name%0ARustyRival%0A%0A###%20Version%0A1.0.57" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -49,7 +50,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-01 15:58:31
+Generated: 2026-09-01 19:05:19
 
 ## Ratings Verlauf
 
@@ -60,7 +61,7 @@ xychart-beta
   y-axis "Elo Rating" 1700 --> 3200
   line "" [1774, 1881, 1918, 1906, 2084, 2376, 2441, 2529, 2508, 2634, 2711, 2718]
   line "STC (8.0+0.08s)" [1774, 1881, 1918, 1906, 2084, 2376, 2441, 2529, 2508, 2634, 2711, 2718]
-  line "LTC (60.0+0.60s)" [2041, 2053, 2213, 2160, 2323, 2692, 2786, 2854, 2831, 2946, 3044, 3017]
+  line "LTC (60.0+0.60s)" [2041, 2053, 2213, 2160, 2323, 2692, 2786, 2854, 2831, 2946, 3044, 3001]
   line "" [2230, 2171, 2240, 2268, 2414, 2817, 2827, 2975, 2957, 3079, 3096, 3104]
   line "VLTC (2m24s+1.12s)" [2230, 2171, 2240, 2268, 2414, 2817, 2827, 2975, 2957, 3079, 3096, 3104]
 ```
@@ -74,7 +75,7 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0.56 | VLTC <sub>(2m24s+1.12s)</sub> | 3104 | 45 | 128 | 47% | 3128 | 61% |
-| 1.0.56 | LTC <sub>(60.0+0.60s)</sub> | 3017 | 50 | 120 | 55% | 2977 | 43% |
+| 1.0.56 | LTC <sub>(60.0+0.60s)</sub> | 3001 | 48 | 132 | 53% | 2979 | 40% |
 | 1.0.56 | STC <sub>(8.0+0.08s)</sub> | 2718 | 66 | 64 | 48% | 2734 | 52% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0.54 | VLTC <sub>(2m24s+1.12s)</sub> | 3096 | 49 | 114 | 53% | 3073 | 54% |
@@ -101,7 +102,7 @@ xychart-beta
 | 1.0.43 | LTC <sub>(60.0+0.60s)</sub> | 2692 | 37 | 240 | 54% | 2647 | 29% |
 | 1.0.43 | STC <sub>(8.0+0.08s)</sub> | 2376 | 43 | 192 | 50% | 2373 | 23% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0.39 | VLTC <sub>(2m24s+1.12s)</sub> | 2414 | 39 | 228 | 51% | 2406 | 24% |
+| 1.0.39 | VLTC <sub>(2m24s+1.12s)</sub> | 2414 | 39 | 228 | 51% | 2407 | 24% |
 | 1.0.39 | LTC <sub>(60.0+0.60s)</sub> | 2323 | 41 | 208 | 52% | 2309 | 25% |
 | 1.0.39 | STC <sub>(8.0+0.08s)</sub> | 2084 | 42 | 208 | 52% | 2051 | 16% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
