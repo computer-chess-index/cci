@@ -8,7 +8,7 @@ Home: https://github.com/KierenP/Halogen
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 16.0.0 | 2026-02-10 | 3364<sub>(+75) | 3526<sub>(+52) | 3552<sub>(+23) |  |
+| 16.0.0 | 2026-02-10 | 3363<sub>(+74) | 3526<sub>(+52) | 3552<sub>(+23) |  |
 | 15.0.0 | 2025-09-01 | 3289 | 3474 | 3529 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-01 15:54:44
+Generated: 2026-09-01 19:01:18
 
 ## Ratings Verlauf
 
@@ -34,8 +34,8 @@ Generated: 2026-09-01 15:54:44
 xychart-beta
   x-axis ["15.0.0", "16.0.0"]
   y-axis "Elo Rating" 3200 --> 3600
-  line "" [3289, 3364]
-  line "STC (8.0+0.08s)" [3289, 3364]
+  line "" [3289, 3363]
+  line "STC (8.0+0.08s)" [3289, 3363]
   line "LTC (60.0+0.60s)" [3474, 3526]
   line "" [3529, 3552]
   line "VLTC (2m24s+1.12s)" [3529, 3552]
@@ -51,9 +51,9 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 16.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3552 | 21 | 522 | 50% | 3552 | 87% |
 | 16.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3526 | 21 | 532 | 50% | 3526 | 86% |
-| 16.0.0 | STC <sub>(8.0+0.08s)</sub> | 3364 | 20 | 610 | 50% | 3366 | 75% |
+| 16.0.0 | STC <sub>(8.0+0.08s)</sub> | 3363 | 20 | 614 | 50% | 3366 | 75% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 15.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3529 | 27 | 324 | 52% | 3511 | 83% |
-| 15.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3472 | 30 | 276 | 52% | 3453 | 79% |
+| 15.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3474 | 30 | 276 | 52% | 3453 | 79% |
 | 15.0.0 | STC <sub>(8.0+0.08s)</sub> | 3289 | 32 | 256 | 54% | 3249 | 64% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
