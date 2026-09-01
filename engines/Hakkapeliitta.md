@@ -8,7 +8,7 @@ Home: https://github.com/mAarnos/Hakkapeliitta
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0 | 2016-04-01 | 2523 | 2793 | 2898 |  |
+| 3.0 | 2016-04-01 | 2525 | 2795 | 2900 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Hakkapeliitta+<version>&body=###%20Engine%20name%0AHakkapeliitta%0A%0A###%20Version%0A3.0" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-08-31 04:35:32
+Generated: 2026-09-01 04:35:28
 
 
 
@@ -32,7 +32,7 @@ Generated: 2026-08-31 04:35:32
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2898 | 39 | 208 | 53% | 2870 | 37% |
-| 3.0 | LTC <sub>(60.0+0.60s)</sub> | 2793 | 13 | 1864 | 48% | 2811 | 33% |
-| 3.0 | STC <sub>(8.0+0.08s)</sub> | 2523 | 13 | 1972 | 52% | 2504 | 25% |
+| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2900 | 39 | 208 | 53% | 2871 | 37% |
+| 3.0 | LTC <sub>(60.0+0.60s)</sub> | 2795 | 13 | 1864 | 48% | 2812 | 33% |
+| 3.0 | STC <sub>(8.0+0.08s)</sub> | 2525 | 13 | 1976 | 52% | 2506 | 25% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
