@@ -8,7 +8,7 @@ Home: https://github.com/HansTibberio/Laura
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.0.0 | 2026-05-09 | 1732<sub>(+162) | 1913<sub>(+216) | 1974<sub>(+162) |  |
+| 4.0.0 | 2026-05-09 | 1732<sub>(+162) | 1910<sub>(+213) | 1974<sub>(+162) |  |
 | 3.0.0 | 2026-04-29 | 1570<sub>(+213) | 1697<sub>(+32) | 1812<sub>(+123) |  |
 | 2.0.0 | 2026-04-23 | 1357<sub>(+60) | 1665<sub>(+188) | 1689<sub>(+281) |  |
 | 1.1.0 | 2026-01-26 | 1297 | 1477 | 1408 |  |
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-01 04:36:14
+Generated: 2026-09-01 15:55:34
 
 ## Ratings Verlauf
 
@@ -38,7 +38,7 @@ xychart-beta
   y-axis "Elo Rating" 1200 --> 2000
   line "" [1297, 1357, 1570, 1732]
   line "STC (8.0+0.08s)" [1297, 1357, 1570, 1732]
-  line "LTC (60.0+0.60s)" [1477, 1665, 1697, 1913]
+  line "LTC (60.0+0.60s)" [1477, 1665, 1697, 1910]
   line "" [1408, 1689, 1812, 1974]
   line "VLTC (2m24s+1.12s)" [1408, 1689, 1812, 1974]
 ```
@@ -52,8 +52,8 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1974 | 40 | 222 | 48% | 1991 | 20% |
-| 4.0.0 | LTC <sub>(60.0+0.60s)</sub> | 1913 | 39 | 244 | 51% | 1908 | 14% |
-| 4.0.0 | STC <sub>(8.0+0.08s)</sub> | 1732 | 39 | 252 | 51% | 1720 | 14% |
+| 4.0.0 | LTC <sub>(60.0+0.60s)</sub> | 1910 | 39 | 248 | 50% | 1908 | 15% |
+| 4.0.0 | STC <sub>(8.0+0.08s)</sub> | 1732 | 39 | 252 | 51% | 1719 | 14% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1812 | 51 | 152 | 50% | 1791 | 13% |
 | 3.0.0 | LTC <sub>(60.0+0.60s)</sub> | 1697 | 53 | 136 | 50% | 1705 | 15% |
