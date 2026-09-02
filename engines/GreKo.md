@@ -8,7 +8,7 @@ Home:
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2021.12 | 2021-12-01 | 2331 | 2587 | 2741 |  |
+| 2021.12 | 2021-12-01 | 2333 | 2587 | 2741 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+GreKo+<version>&body=###%20Engine%20name%0AGreKo%0A%0A###%20Version%0A2021.12" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-01 19:01:11
+Generated: 2026-09-02 04:35:36
 
 
 
@@ -33,6 +33,6 @@ Generated: 2026-09-01 19:01:11
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021.12 | VLTC <sub>(2m24s+1.12s)</sub> | 2741 | 38 | 248 | 50% | 2755 | 27% |
-| 2021.12 | LTC <sub>(60.0+0.60s)</sub> | 2587 | 13 | 1844 | 50% | 2584 | 31% |
-| 2021.12 | STC <sub>(8.0+0.08s)</sub> | 2331 | 13 | 2132 | 49% | 2349 | 25% |
+| 2021.12 | LTC <sub>(60.0+0.60s)</sub> | 2587 | 13 | 1848 | 50% | 2584 | 31% |
+| 2021.12 | STC <sub>(8.0+0.08s)</sub> | 2333 | 13 | 2132 | 49% | 2349 | 25% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
