@@ -8,7 +8,7 @@ Home: https://github.com/Mangar2/Spike
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.4.2 | 2026-08-28 | 2406<sub>(+65) | 2716<sub>(-18) | 2826<sub>(+3) |  |
+| 1.4.2 | 2026-08-28 | 2406<sub>(+65) | 2718<sub>(-16) | 2826<sub>(+3) |  |
 | 1.4 | 2011-02-01 | 2341 | 2734 | 2823 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-01 19:05:56
+Generated: 2026-09-02 04:39:48
 
 ## Ratings Verlauf
 
@@ -36,7 +36,7 @@ xychart-beta
   y-axis "Elo Rating" 2300 --> 2900
   line "" [2341, 2406]
   line "STC (8.0+0.08s)" [2341, 2406]
-  line "LTC (60.0+0.60s)" [2734, 2716]
+  line "LTC (60.0+0.60s)" [2734, 2718]
   line "" [2823, 2826]
   line "VLTC (2m24s+1.12s)" [2823, 2826]
 ```
@@ -50,10 +50,10 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.4.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2826 | 45 | 154 | 52% | 2811 | 39% |
-| 1.4.2 | LTC <sub>(60.0+0.60s)</sub> | 2716 | 41 | 200 | 51% | 2711 | 29% |
+| 1.4.2 | LTC <sub>(60.0+0.60s)</sub> | 2718 | 41 | 200 | 51% | 2711 | 29% |
 | 1.4.2 | STC <sub>(8.0+0.08s)</sub> | 2406 | 38 | 220 | 52% | 2384 | 33% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.4 | VLTC <sub>(2m24s+1.12s)</sub> | 2823 | 45 | 164 | 51% | 2822 | 32% |
 | 1.4 | LTC <sub>(60.0+0.60s)</sub> | 2734 | 48 | 144 | 50% | 2731 | 27% |
-| 1.4 | STC <sub>(8.0+0.08s)</sub> | 2341 | 32 | 404 | 45% | 2410 | 23% |
+| 1.4 | STC <sub>(8.0+0.08s)</sub> | 2341 | 32 | 404 | 45% | 2411 | 23% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
