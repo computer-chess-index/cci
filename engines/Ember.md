@@ -8,7 +8,7 @@ Home: https://github.com/ExxDreamerCode/Ember
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.3.0 | 2026-08-28 | 2637<sub>(+new) | 2948<sub>(+new) | 3033<sub>(+new) |  |
+| 1.3.0 | 2026-08-28 | 2637<sub>(+new) | 2948<sub>(+new) | 3035<sub>(+new) |  |
 | 1.2.0 | 2026-07-30 |  |  |  |  |
 | 1.1.2 | 2026-07-08 | 2349<sub>(+new) | 2789<sub>(+new) | 2865<sub>(+new) |  |
 | 1.1.1 | 2026-07-04 |  |  |  |  |
@@ -34,7 +34,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-01 19:00:19
+Generated: 2026-09-02 04:34:53
 
 ## Ratings Verlauf
 
@@ -46,8 +46,8 @@ xychart-beta
   line "" [2349, 2637]
   line "STC (8.0+0.08s)" [2349, 2637]
   line "LTC (60.0+0.60s)" [2789, 2948]
-  line "" [2865, 3033]
-  line "VLTC (2m24s+1.12s)" [2865, 3033]
+  line "" [2865, 3035]
+  line "VLTC (2m24s+1.12s)" [2865, 3035]
 ```
 
 
@@ -58,7 +58,7 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3033 | 38 | 200 | 51% | 3029 | 50% |
+| 1.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3035 | 37 | 204 | 51% | 3029 | 50% |
 | 1.3.0 | LTC <sub>(60.0+0.60s)</sub> | 2948 | 40 | 184 | 54% | 2913 | 46% |
 | 1.3.0 | STC <sub>(8.0+0.08s)</sub> | 2637 | 38 | 220 | 53% | 2606 | 33% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
