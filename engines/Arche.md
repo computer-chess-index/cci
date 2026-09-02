@@ -8,7 +8,7 @@ Home: https://github.com/aywrite/arche
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.4.0 | 2026-08-28 | 1789<sub>(+200) | 1975<sub>(+198) | 2018<sub>(+125) |  |
+| 0.4.0 | 2026-08-28 | 1789<sub>(+200) | 1979<sub>(+202) | 2018<sub>(+125) |  |
 | 0.3.10 | 2026-08-22 | 1589<sub>(-4) | 1777<sub>(+13) | 1893<sub>(+15) |  |
 | 0.3.9 | 2026-08-04 | 1593<sub>(+136) | 1764<sub>(+172) | 1878<sub>(+223) |  |
 | 0.3.8 | 2026-08-01 | 1457<sub>(+69) | 1592<sub>(-16) | 1655<sub>(+1) |  |
@@ -28,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-01 18:58:08
+Generated: 2026-09-02 04:32:52
 
 ## Ratings Verlauf
 
@@ -39,7 +39,7 @@ xychart-beta
   y-axis "Elo Rating" 1300 --> 2100
   line "" [1388, 1457, 1593, 1589, 1789]
   line "STC (8.0+0.08s)" [1388, 1457, 1593, 1589, 1789]
-  line "LTC (60.0+0.60s)" [1608, 1592, 1764, 1777, 1975]
+  line "LTC (60.0+0.60s)" [1608, 1592, 1764, 1777, 1979]
   line "" [1654, 1655, 1878, 1893, 2018]
   line "VLTC (2m24s+1.12s)" [1654, 1655, 1878, 1893, 2018]
 ```
@@ -53,8 +53,8 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.4.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2018 | 43 | 174 | 49% | 2026 | 36% |
-| 0.4.0 | LTC <sub>(60.0+0.60s)</sub> | 1975 | 48 | 156 | 53% | 1944 | 20% |
-| 0.4.0 | STC <sub>(8.0+0.08s)</sub> | 1789 | 44 | 192 | 52% | 1766 | 18% |
+| 0.4.0 | LTC <sub>(60.0+0.60s)</sub> | 1979 | 44 | 180 | 53% | 1952 | 21% |
+| 0.4.0 | STC <sub>(8.0+0.08s)</sub> | 1789 | 44 | 192 | 52% | 1767 | 18% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.3.10 | VLTC <sub>(2m24s+1.12s)</sub> | 1893 | 38 | 242 | 50% | 1889 | 25% |
 | 0.3.10 | LTC <sub>(60.0+0.60s)</sub> | 1777 | 37 | 260 | 51% | 1764 | 20% |
