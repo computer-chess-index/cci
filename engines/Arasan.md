@@ -10,8 +10,8 @@ Home: https://github.com/jdart1/arasan-chess
 | --- | --- | --- | --- | --- | --- |
 | 26.0 | 2026-07-24 | 3248<sub>(+8) | 3440<sub>(+3) | 3476<sub>(-14) |  |
 | 25.4 | 2026-04-15 | 3240<sub>(0) | 3437<sub>(0) | 3490<sub>(0) |  |
-| 25.4 | 2026-04-15 | 3240<sub>(-4) | 3437<sub>(+7) | 3490<sub>(+15) |  |
-| 25.3 | 2025-12-28 | 3244 | 3430 | 3475 |  |
+| 25.4 | 2026-04-15 | 3240<sub>(-4) | 3437<sub>(+5) | 3490<sub>(+15) |  |
+| 25.3 | 2025-12-28 | 3244 | 3432 | 3475 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Arasan+<version>&body=###%20Engine%20name%0AArasan%0A%0A###%20Version%0A26.0" target="_blank">Submit new version</a>
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-01 18:58:03
+Generated: 2026-09-02 04:32:48
 
 ## Ratings Verlauf
 
@@ -38,7 +38,7 @@ xychart-beta
   y-axis "Elo Rating" 3200 --> 3500
   line "" [3244, 3240, 3240, 3248]
   line "STC (8.0+0.08s)" [3244, 3240, 3240, 3248]
-  line "LTC (60.0+0.60s)" [3430, 3437, 3437, 3440]
+  line "LTC (60.0+0.60s)" [3432, 3437, 3437, 3440]
   line "" [3475, 3490, 3490, 3476]
   line "VLTC (2m24s+1.12s)" [3475, 3490, 3490, 3476]
 ```
@@ -64,6 +64,6 @@ xychart-beta
 | 25.4 | STC <sub>(8.0+0.08s)</sub> | 3228 | 24 | 450 | 51% | 3212 | 63% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 25.3 | VLTC <sub>(2m24s+1.12s)</sub> | 3475 | 26 | 356 | 51% | 3470 | 82% |
-| 25.3 | LTC <sub>(60.0+0.60s)</sub> | 3430 | 26 | 360 | 51% | 3425 | 78% |
+| 25.3 | LTC <sub>(60.0+0.60s)</sub> | 3432 | 26 | 360 | 51% | 3425 | 78% |
 | 25.3 | STC <sub>(8.0+0.08s)</sub> | 3244 | 24 | 488 | 52% | 3228 | 59% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
