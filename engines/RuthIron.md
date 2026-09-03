@@ -8,7 +8,7 @@ Home: https://github.com/themreKalkan/RuthIron
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 21.9.6.7 | 2026-02-28 | 2410<sub>(+new) | 2746<sub>(+new) | 2853<sub>(+new) |  |
+| 21.9.6.7 | 2026-02-28 | 2410<sub>(+new) | 2745<sub>(+new) | 2853<sub>(+new) |  |
 | 21.9.5.2 | 2026-02-22 |  |  |  |  |
 | 18.9 | 2026-01-16 |  |  |  | Loses on time |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-02 04:39:21
+Generated: 2026-09-03 04:38:55
 
 
 
@@ -34,7 +34,7 @@ Generated: 2026-09-02 04:39:21
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 21.9.6.7 | VLTC <sub>(2m24s+1.12s)</sub> | 2853 | 25 | 502 | 50% | 2854 | 41% |
-| 21.9.6.7 | LTC <sub>(60.0+0.60s)</sub> | 2746 | 24 | 556 | 49% | 2751 | 38% |
+| 21.9.6.7 | VLTC <sub>(2m24s+1.12s)</sub> | 2853 | 25 | 502 | 50% | 2853 | 41% |
+| 21.9.6.7 | LTC <sub>(60.0+0.60s)</sub> | 2745 | 24 | 556 | 49% | 2751 | 38% |
 | 21.9.6.7 | STC <sub>(8.0+0.08s)</sub> | 2410 | 23 | 654 | 49% | 2427 | 28% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
