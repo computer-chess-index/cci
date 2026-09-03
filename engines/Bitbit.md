@@ -8,8 +8,8 @@ Home: https://github.com/Spinojara/bitbit
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.7 | 2026-08-01 | 2948<sub>(+43) | 3201<sub>(+58) | 3268<sub>(+60) |  |
-| 1.6 | 2025-10-18 | 2905 | 3143 | 3208 |  |
+| 1.7 | 2026-08-01 | 2952<sub>(+48) | 3201<sub>(+58) | 3268<sub>(+60) |  |
+| 1.6 | 2025-10-18 | 2904 | 3143 | 3208 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Bitbit+<version>&body=###%20Engine%20name%0ABitbit%0A%0A###%20Version%0A1.7" target="_blank">Submit new version</a>
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-02 04:33:15
+Generated: 2026-09-03 04:33:12
 
 ## Ratings Verlauf
 
@@ -34,8 +34,8 @@ Generated: 2026-09-02 04:33:15
 xychart-beta
   x-axis ["1.6", "1.7"]
   y-axis "Elo Rating" 2900 --> 3300
-  line "" [2905, 2948]
-  line "STC (8.0+0.08s)" [2905, 2948]
+  line "" [2904, 2952]
+  line "STC (8.0+0.08s)" [2904, 2952]
   line "LTC (60.0+0.60s)" [3143, 3201]
   line "" [3208, 3268]
   line "VLTC (2m24s+1.12s)" [3208, 3268]
@@ -51,9 +51,9 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.7 | VLTC <sub>(2m24s+1.12s)</sub> | 3268 | 28 | 334 | 50% | 3270 | 65% |
 | 1.7 | LTC <sub>(60.0+0.60s)</sub> | 3201 | 30 | 304 | 50% | 3201 | 61% |
-| 1.7 | STC <sub>(8.0+0.08s)</sub> | 2948 | 30 | 320 | 51% | 2938 | 48% |
+| 1.7 | STC <sub>(8.0+0.08s)</sub> | 2952 | 30 | 332 | 52% | 2938 | 47% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.6 | VLTC <sub>(2m24s+1.12s)</sub> | 3208 | 24 | 478 | 52% | 3183 | 54% |
 | 1.6 | LTC <sub>(60.0+0.60s)</sub> | 3143 | 24 | 510 | 52% | 3114 | 52% |
-| 1.6 | STC <sub>(8.0+0.08s)</sub> | 2905 | 21 | 692 | 50% | 2892 | 40% |
+| 1.6 | STC <sub>(8.0+0.08s)</sub> | 2904 | 21 | 692 | 50% | 2892 | 40% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
