@@ -8,7 +8,7 @@ Home: https://github.com/PaulJeFi/algae
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2025-11-09 | 1347 | 968 | 825 |  |
+| 1.0 | 2025-11-09 | 1343 | 968 | 825 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Algae+<version>&body=###%20Engine%20name%0AAlgae%0A%0A###%20Version%0A1.0" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-02 04:32:31
+Generated: 2026-09-03 04:32:30
 
 
 
@@ -34,5 +34,5 @@ Generated: 2026-09-02 04:32:31
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 825 | 116 | 56 | 17% | 1678 | 9% |
 | 1.0 | LTC <sub>(60.0+0.60s)</sub> | 968 | 92 | 60 | 33% | 1297 | 12% |
-| 1.0 | STC <sub>(8.0+0.08s)</sub> | 1347 | 24 | 720 | 58% | 1231 | 13% |
+| 1.0 | STC <sub>(8.0+0.08s)</sub> | 1343 | 24 | 724 | 58% | 1233 | 13% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
