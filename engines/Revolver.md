@@ -8,7 +8,7 @@ Home: https://github.com/GoldenRare/Revolver
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0 | 2026-05-01 | 2520<sub>(+261) | 2774<sub>(+272) | 2832<sub>(+270) |  |
+| 2.0 | 2026-05-01 | 2523<sub>(+264) | 2774<sub>(+272) | 2830<sub>(+268) |  |
 | 1.0 | 2026-01-01 | 2259 | 2502 | 2562 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-02 04:38:48
+Generated: 2026-09-03 04:38:24
 
 ## Ratings Verlauf
 
@@ -34,11 +34,11 @@ Generated: 2026-09-02 04:38:48
 xychart-beta
   x-axis ["1.0", "2.0"]
   y-axis "Elo Rating" 2200 --> 2900
-  line "" [2259, 2520]
-  line "STC (8.0+0.08s)" [2259, 2520]
+  line "" [2259, 2523]
+  line "STC (8.0+0.08s)" [2259, 2523]
   line "LTC (60.0+0.60s)" [2502, 2774]
-  line "" [2562, 2832]
-  line "VLTC (2m24s+1.12s)" [2562, 2832]
+  line "" [2562, 2830]
+  line "VLTC (2m24s+1.12s)" [2562, 2830]
 ```
 
 
@@ -49,11 +49,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2832 | 25 | 488 | 52% | 2811 | 39% |
+| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2830 | 25 | 492 | 52% | 2811 | 39% |
 | 2.0 | LTC <sub>(60.0+0.60s)</sub> | 2774 | 25 | 504 | 51% | 2768 | 38% |
-| 2.0 | STC <sub>(8.0+0.08s)</sub> | 2520 | 26 | 480 | 51% | 2516 | 28% |
+| 2.0 | STC <sub>(8.0+0.08s)</sub> | 2523 | 26 | 484 | 51% | 2516 | 28% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2562 | 27 | 450 | 46% | 2604 | 32% |
+| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2562 | 27 | 450 | 46% | 2603 | 32% |
 | 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2502 | 29 | 408 | 49% | 2512 | 25% |
 | 1.0 | STC <sub>(8.0+0.08s)</sub> | 2259 | 26 | 516 | 51% | 2245 | 29% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
