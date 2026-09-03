@@ -8,7 +8,7 @@ Home: https://github.com/mkyl/cicada
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.1 | 2017-03-22 | 1305 | 1503 | 1542 |  |
+| 0.1 | 2017-03-22 | 1300 | 1503 | 1540 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Cicada+<version>&body=###%20Engine%20name%0ACicada%0A%0A###%20Version%0A0.1" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-02 04:34:05
+Generated: 2026-09-03 04:34:04
 
 
 
@@ -32,7 +32,7 @@ Generated: 2026-09-02 04:34:05
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 1542 | 33 | 330 | 46% | 1590 | 20% |
-| 0.1 | LTC <sub>(60.0+0.60s)</sub> | 1503 | 34 | 300 | 49% | 1517 | 24% |
-| 0.1 | STC <sub>(8.0+0.08s)</sub> | 1305 | 34 | 332 | 49% | 1310 | 18% |
+| 0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 1540 | 33 | 330 | 46% | 1589 | 20% |
+| 0.1 | LTC <sub>(60.0+0.60s)</sub> | 1503 | 34 | 304 | 49% | 1517 | 24% |
+| 0.1 | STC <sub>(8.0+0.08s)</sub> | 1300 | 34 | 336 | 49% | 1310 | 18% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
