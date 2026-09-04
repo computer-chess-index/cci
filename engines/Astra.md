@@ -8,7 +8,7 @@ Home: https://github.com/h1me01/Astra
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7.0 | 2026-05-26 | 3391<sub>(+106) | 3540<sub>(+64) | 3548<sub>(+34) |  |
+| 7.0 | 2026-05-26 | 3394<sub>(+109) | 3540<sub>(+64) | 3549<sub>(+35) |  |
 | 6.1.1 | 2025-07-21 | 3285 | 3476 | 3514 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-03 04:33:02
+Generated: 2026-09-04 04:33:00
 
 ## Ratings Verlauf
 
@@ -34,11 +34,11 @@ Generated: 2026-09-03 04:33:02
 xychart-beta
   x-axis ["6.1.1", "7.0"]
   y-axis "Elo Rating" 3200 --> 3600
-  line "" [3285, 3391]
-  line "STC (8.0+0.08s)" [3285, 3391]
+  line "" [3285, 3394]
+  line "STC (8.0+0.08s)" [3285, 3394]
   line "LTC (60.0+0.60s)" [3476, 3540]
-  line "" [3514, 3548]
-  line "VLTC (2m24s+1.12s)" [3514, 3548]
+  line "" [3514, 3549]
+  line "VLTC (2m24s+1.12s)" [3514, 3549]
 ```
 
 
@@ -49,9 +49,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 7.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3548 | 29 | 280 | 49% | 3557 | 89% |
+| 7.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3549 | 29 | 280 | 49% | 3557 | 89% |
 | 7.0 | LTC <sub>(60.0+0.60s)</sub> | 3540 | 29 | 268 | 51% | 3537 | 87% |
-| 7.0 | STC <sub>(8.0+0.08s)</sub> | 3391 | 26 | 362 | 50% | 3393 | 76% |
+| 7.0 | STC <sub>(8.0+0.08s)</sub> | 3394 | 26 | 366 | 50% | 3393 | 76% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 6.1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3514 | 23 | 420 | 52% | 3498 | 87% |
 | 6.1.1 | LTC <sub>(60.0+0.60s)</sub> | 3476 | 25 | 400 | 51% | 3464 | 81% |
