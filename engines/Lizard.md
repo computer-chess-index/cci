@@ -8,7 +8,7 @@ Home: https://github.com/liamt19/Lizard
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 11.2 | 2025-01-08 | 3305<sub>(+16) | 3486<sub>(+23) | 3518<sub>(+9) |  |
+| 11.2 | 2025-01-08 | 3305<sub>(+16) | 3486<sub>(+23) | 3519<sub>(+10) |  |
 | 11.1.5 | 2024-12-30 | 3289<sub>(+56) | 3463<sub>(+16) | 3509<sub>(+15) |  |
 | 11.0 | 2024-09-26 | 3233<sub>(+9) | 3447<sub>(-13) | 3494<sub>(-5) |  |
 | 10.5 | 2024-07-13 | 3224 | 3460 | 3499 |  |
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-03 04:36:27
+Generated: 2026-09-04 04:36:25
 
 ## Ratings Verlauf
 
@@ -39,8 +39,8 @@ xychart-beta
   line "" [3224, 3233, 3289, 3305]
   line "STC (8.0+0.08s)" [3224, 3233, 3289, 3305]
   line "LTC (60.0+0.60s)" [3460, 3447, 3463, 3486]
-  line "" [3499, 3494, 3509, 3518]
-  line "VLTC (2m24s+1.12s)" [3499, 3494, 3509, 3518]
+  line "" [3499, 3494, 3509, 3519]
+  line "VLTC (2m24s+1.12s)" [3499, 3494, 3509, 3519]
 ```
 
 
@@ -51,9 +51,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3518 | 12 | 1680 | 50% | 3521 | 87% |
+| 11.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3519 | 12 | 1680 | 50% | 3521 | 87% |
 | 11.2 | LTC <sub>(60.0+0.60s)</sub> | 3486 | 12 | 1666 | 50% | 3483 | 82% |
-| 11.2 | STC <sub>(8.0+0.08s)</sub> | 3305 | 12 | 1696 | 51% | 3298 | 64% |
+| 11.2 | STC <sub>(8.0+0.08s)</sub> | 3305 | 12 | 1700 | 51% | 3298 | 63% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11.1.5 | VLTC <sub>(2m24s+1.12s)</sub> | 3509 | 21 | 544 | 50% | 3505 | 85% |
 | 11.1.5 | LTC <sub>(60.0+0.60s)</sub> | 3463 | 21 | 544 | 50% | 3464 | 83% |
