@@ -8,7 +8,7 @@ Home: https://github.com/jasper-sinclair/kobra
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1 | 2026-03-03 | 2711 | 3019 | 3102 |  |
+| 2.1 | 2026-03-03 | 2711 | 3019 | 3101 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Kobra+<version>&body=###%20Engine%20name%0AKobra%0A%0A###%20Version%0A2.1" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-03 04:36:07
+Generated: 2026-09-04 04:36:04
 
 
 
@@ -32,7 +32,7 @@ Generated: 2026-09-03 04:36:07
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3102 | 23 | 532 | 50% | 3097 | 59% |
+| 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3101 | 23 | 536 | 50% | 3097 | 59% |
 | 2.1 | LTC <sub>(60.0+0.60s)</sub> | 3019 | 24 | 510 | 53% | 2988 | 50% |
-| 2.1 | STC <sub>(8.0+0.08s)</sub> | 2711 | 23 | 590 | 54% | 2672 | 38% |
+| 2.1 | STC <sub>(8.0+0.08s)</sub> | 2711 | 23 | 594 | 54% | 2672 | 38% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
