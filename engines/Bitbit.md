@@ -8,7 +8,7 @@ Home: https://github.com/Spinojara/bitbit
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.7 | 2026-08-01 | 2952<sub>(+48) | 3201<sub>(+58) | 3268<sub>(+60) |  |
+| 1.7 | 2026-08-01 | 2951<sub>(+47) | 3200<sub>(+57) | 3268<sub>(+60) |  |
 | 1.6 | 2025-10-18 | 2904 | 3143 | 3208 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-03 04:33:12
+Generated: 2026-09-04 04:33:10
 
 ## Ratings Verlauf
 
@@ -34,9 +34,9 @@ Generated: 2026-09-03 04:33:12
 xychart-beta
   x-axis ["1.6", "1.7"]
   y-axis "Elo Rating" 2900 --> 3300
-  line "" [2904, 2952]
-  line "STC (8.0+0.08s)" [2904, 2952]
-  line "LTC (60.0+0.60s)" [3143, 3201]
+  line "" [2904, 2951]
+  line "STC (8.0+0.08s)" [2904, 2951]
+  line "LTC (60.0+0.60s)" [3143, 3200]
   line "" [3208, 3268]
   line "VLTC (2m24s+1.12s)" [3208, 3268]
 ```
@@ -50,8 +50,8 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.7 | VLTC <sub>(2m24s+1.12s)</sub> | 3268 | 28 | 334 | 50% | 3270 | 65% |
-| 1.7 | LTC <sub>(60.0+0.60s)</sub> | 3201 | 30 | 304 | 50% | 3201 | 61% |
-| 1.7 | STC <sub>(8.0+0.08s)</sub> | 2952 | 30 | 332 | 52% | 2938 | 47% |
+| 1.7 | LTC <sub>(60.0+0.60s)</sub> | 3200 | 29 | 308 | 50% | 3201 | 60% |
+| 1.7 | STC <sub>(8.0+0.08s)</sub> | 2951 | 29 | 336 | 52% | 2938 | 47% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.6 | VLTC <sub>(2m24s+1.12s)</sub> | 3208 | 24 | 478 | 52% | 3183 | 54% |
 | 1.6 | LTC <sub>(60.0+0.60s)</sub> | 3143 | 24 | 510 | 52% | 3114 | 52% |
