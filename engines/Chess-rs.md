@@ -8,7 +8,7 @@ Home: https://github.com/tomcant/chess-rs
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.7.0 | 2025-12-31 | 1692<sub>(+13) | 1920<sub>(+60) | 2021<sub>(+38) |  |
+| 0.7.0 | 2025-12-31 | 1693<sub>(+14) | 1922<sub>(+62) | 2022<sub>(+39) |  |
 | 0.6.0 | 2025-11-11 | 1679<sub>(+98) | 1860<sub>(+67) | 1983<sub>(+94) |  |
 | 0.5.0 | 2025-11-03 | 1581 | 1793 | 1889 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-03 04:33:49
+Generated: 2026-09-04 04:33:47
 
 ## Ratings Verlauf
 
@@ -35,11 +35,11 @@ Generated: 2026-09-03 04:33:49
 xychart-beta
   x-axis ["0.5.0", "0.6.0", "0.7.0"]
   y-axis "Elo Rating" 1500 --> 2100
-  line "" [1581, 1679, 1692]
-  line "STC (8.0+0.08s)" [1581, 1679, 1692]
-  line "LTC (60.0+0.60s)" [1793, 1860, 1920]
-  line "" [1889, 1983, 2021]
-  line "VLTC (2m24s+1.12s)" [1889, 1983, 2021]
+  line "" [1581, 1679, 1693]
+  line "STC (8.0+0.08s)" [1581, 1679, 1693]
+  line "LTC (60.0+0.60s)" [1793, 1860, 1922]
+  line "" [1889, 1983, 2022]
+  line "VLTC (2m24s+1.12s)" [1889, 1983, 2022]
 ```
 
 
@@ -50,9 +50,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.7.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2021 | 24 | 632 | 48% | 2036 | 21% |
-| 0.7.0 | LTC <sub>(60.0+0.60s)</sub> | 1920 | 24 | 630 | 49% | 1929 | 22% |
-| 0.7.0 | STC <sub>(8.0+0.08s)</sub> | 1692 | 23 | 726 | 49% | 1692 | 18% |
+| 0.7.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2022 | 24 | 636 | 48% | 2036 | 21% |
+| 0.7.0 | LTC <sub>(60.0+0.60s)</sub> | 1922 | 24 | 638 | 49% | 1929 | 22% |
+| 0.7.0 | STC <sub>(8.0+0.08s)</sub> | 1693 | 23 | 730 | 50% | 1692 | 18% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1983 | 44 | 184 | 49% | 1991 | 21% |
 | 0.6.0 | LTC <sub>(60.0+0.60s)</sub> | 1860 | 50 | 146 | 50% | 1863 | 21% |
