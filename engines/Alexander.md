@@ -8,7 +8,7 @@ Home: https://github.com/amchess/Alexander
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 8.3 | 2026-04-01 | 3155<sub>(+3) | 3382<sub>(+19) | 3433<sub>(+15) |  |
+| 8.3 | 2026-04-01 | 3155<sub>(+3) | 3383<sub>(+20) | 3433<sub>(+15) |  |
 | 8.2 | 2026-03-23 | 3152<sub>(-25) | 3363<sub>(-7) | 3418<sub>(-12) |  |
 | 8.1 | 2026-03-16 | 3177<sub>(+38) | 3370<sub>(-10) | 3430<sub>(+12) |  |
 | 8.0 | 2026-03-10 | 3139 | 3380 | 3418 |  |
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-03 04:32:25
+Generated: 2026-09-04 04:32:23
 
 ## Ratings Verlauf
 
@@ -38,7 +38,7 @@ xychart-beta
   y-axis "Elo Rating" 3100 --> 3500
   line "" [3139, 3177, 3152, 3155]
   line "STC (8.0+0.08s)" [3139, 3177, 3152, 3155]
-  line "LTC (60.0+0.60s)" [3380, 3370, 3363, 3382]
+  line "LTC (60.0+0.60s)" [3380, 3370, 3363, 3383]
   line "" [3418, 3430, 3418, 3433]
   line "VLTC (2m24s+1.12s)" [3418, 3430, 3418, 3433]
 ```
@@ -52,7 +52,7 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 8.3 | VLTC <sub>(2m24s+1.12s)</sub> | 3433 | 22 | 530 | 49% | 3437 | 68% |
-| 8.3 | LTC <sub>(60.0+0.60s)</sub> | 3382 | 23 | 498 | 48% | 3394 | 66% |
+| 8.3 | LTC <sub>(60.0+0.60s)</sub> | 3383 | 23 | 502 | 49% | 3394 | 66% |
 | 8.3 | STC <sub>(8.0+0.08s)</sub> | 3155 | 25 | 472 | 52% | 3140 | 47% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 8.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3418 | 26 | 380 | 49% | 3425 | 70% |
