@@ -8,8 +8,8 @@ Home: https://github.com/FitzOReilly/fatalii
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.10.1 | 2026-05-11 | 2273<sub>(-3) | 2514<sub>(-27) | 2608<sub>(+4) |  |
-| 0.10.0 | 2026-03-09 | 2276 | 2541 | 2604 |  |
+| 0.10.1 | 2026-05-11 | 2273<sub>(-2) | 2514<sub>(-27) | 2608<sub>(+4) |  |
+| 0.10.0 | 2026-03-09 | 2275 | 2541 | 2604 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Fatalii+<version>&body=###%20Engine%20name%0AFatalii%0A%0A###%20Version%0A0.10.1" target="_blank">Submit new version</a>
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-03 04:35:06
+Generated: 2026-09-04 04:35:03
 
 ## Ratings Verlauf
 
@@ -34,8 +34,8 @@ Generated: 2026-09-03 04:35:06
 xychart-beta
   x-axis ["0.10.0", "0.10.1"]
   y-axis "Elo Rating" 2200 --> 2700
-  line "" [2276, 2273]
-  line "STC (8.0+0.08s)" [2276, 2273]
+  line "" [2275, 2273]
+  line "STC (8.0+0.08s)" [2275, 2273]
   line "LTC (60.0+0.60s)" [2541, 2514]
   line "" [2604, 2608]
   line "VLTC (2m24s+1.12s)" [2604, 2608]
@@ -55,5 +55,5 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.10.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2604 | 29 | 424 | 48% | 2628 | 25% |
 | 0.10.0 | LTC <sub>(60.0+0.60s)</sub> | 2541 | 28 | 454 | 51% | 2537 | 25% |
-| 0.10.0 | STC <sub>(8.0+0.08s)</sub> | 2276 | 27 | 464 | 52% | 2250 | 25% |
+| 0.10.0 | STC <sub>(8.0+0.08s)</sub> | 2275 | 27 | 464 | 52% | 2250 | 25% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
