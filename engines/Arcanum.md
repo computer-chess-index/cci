@@ -8,7 +8,7 @@ Home: https://github.com/LarsAur/Arcanum
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.8 | 2026-05-16 | 2909<sub>(+11) | 3228<sub>(+26) | 3285<sub>(+22) |  |
+| 2.8 | 2026-05-16 | 2909<sub>(+11) | 3227<sub>(+25) | 3285<sub>(+22) |  |
 | 2.7 | 2025-10-18 | 2898 | 3202 | 3263 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-03 04:32:49
+Generated: 2026-09-04 04:32:47
 
 ## Ratings Verlauf
 
@@ -36,7 +36,7 @@ xychart-beta
   y-axis "Elo Rating" 2800 --> 3300
   line "" [2898, 2909]
   line "STC (8.0+0.08s)" [2898, 2909]
-  line "LTC (60.0+0.60s)" [3202, 3228]
+  line "LTC (60.0+0.60s)" [3202, 3227]
   line "" [3263, 3285]
   line "VLTC (2m24s+1.12s)" [3263, 3285]
 ```
@@ -50,10 +50,10 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.8 | VLTC <sub>(2m24s+1.12s)</sub> | 3285 | 25 | 420 | 50% | 3286 | 65% |
-| 2.8 | LTC <sub>(60.0+0.60s)</sub> | 3228 | 26 | 396 | 50% | 3224 | 56% |
+| 2.8 | LTC <sub>(60.0+0.60s)</sub> | 3227 | 26 | 400 | 50% | 3224 | 56% |
 | 2.8 | STC <sub>(8.0+0.08s)</sub> | 2909 | 25 | 476 | 49% | 2921 | 44% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.7 | VLTC <sub>(2m24s+1.12s)</sub> | 3263 | 27 | 394 | 54% | 3228 | 56% |
+| 2.7 | VLTC <sub>(2m24s+1.12s)</sub> | 3263 | 27 | 394 | 54% | 3229 | 56% |
 | 2.7 | LTC <sub>(60.0+0.60s)</sub> | 3202 | 26 | 424 | 50% | 3185 | 57% |
 | 2.7 | STC <sub>(8.0+0.08s)</sub> | 2898 | 23 | 554 | 49% | 2897 | 44% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
