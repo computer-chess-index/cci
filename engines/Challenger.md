@@ -8,7 +8,7 @@ Home: https://github.com/SimjanovskiNikola/FRI_Challenger
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.6.0 | 2025-10-02 | 2055 | 2364 | 2475 |  |
+| 0.6.0 | 2025-10-02 | 2057 | 2364 | 2475 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Challenger+<version>&body=###%20Engine%20name%0AChallenger%0A%0A###%20Version%0A0.6.0" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-03 04:33:44
+Generated: 2026-09-04 04:33:42
 
 
 
@@ -34,5 +34,5 @@ Generated: 2026-09-03 04:33:44
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2475 | 27 | 460 | 47% | 2506 | 29% |
 | 0.6.0 | LTC <sub>(60.0+0.60s)</sub> | 2364 | 25 | 570 | 50% | 2372 | 27% |
-| 0.6.0 | STC <sub>(8.0+0.08s)</sub> | 2055 | 22 | 742 | 49% | 2055 | 23% |
+| 0.6.0 | STC <sub>(8.0+0.08s)</sub> | 2057 | 22 | 746 | 49% | 2055 | 23% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
