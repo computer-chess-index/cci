@@ -8,7 +8,7 @@ Home: https://github.com/stierms/zigqueen
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.1.0 | 2026-08-31 | 3190<sub>(+73) | 3340<sub>(-12) | 3480<sub>(+87) |  |
+| 6.1.0 | 2026-08-31 | 3190<sub>(+73) | 3341<sub>(-11) | 3482<sub>(+89) |  |
 | 6.0.0 | 2026-08-19 | 3117<sub>(+117) | 3352<sub>(+35) | 3393<sub>(+17) |  |
 | 5.8.3 | 2026-07-25 | 3000<sub>(+new) | 3317<sub>(+new) | 3376<sub>(+new) |  |
 | 5.8.2 | 2026-07-24 |  |  |  |  |
@@ -29,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-03 04:40:48
+Generated: 2026-09-04 04:40:58
 
 ## Ratings Verlauf
 
@@ -40,9 +40,9 @@ xychart-beta
   y-axis "Elo Rating" 3000 --> 3500
   line "" [3000, 3117, 3190]
   line "STC (8.0+0.08s)" [3000, 3117, 3190]
-  line "LTC (60.0+0.60s)" [3317, 3352, 3340]
-  line "" [3376, 3393, 3480]
-  line "VLTC (2m24s+1.12s)" [3376, 3393, 3480]
+  line "LTC (60.0+0.60s)" [3317, 3352, 3341]
+  line "" [3376, 3393, 3482]
+  line "VLTC (2m24s+1.12s)" [3376, 3393, 3482]
 ```
 
 
@@ -53,9 +53,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 6.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3480 | 42 | 136 | 53% | 3461 | 81% |
-| 6.1.0 | LTC <sub>(60.0+0.60s)</sub> | 3340 | 47 | 112 | 49% | 3347 | 73% |
-| 6.1.0 | STC <sub>(8.0+0.08s)</sub> | 3190 | 45 | 132 | 48% | 3200 | 59% |
+| 6.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3482 | 41 | 140 | 53% | 3463 | 81% |
+| 6.1.0 | LTC <sub>(60.0+0.60s)</sub> | 3341 | 47 | 112 | 49% | 3347 | 73% |
+| 6.1.0 | STC <sub>(8.0+0.08s)</sub> | 3190 | 44 | 136 | 49% | 3200 | 60% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 6.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3393 | 45 | 120 | 50% | 3390 | 73% |
 | 6.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3352 | 39 | 160 | 50% | 3351 | 74% |
