@@ -8,7 +8,7 @@ Home: https://github.com/jswaff/prophet
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 5.2 | 2026-05-16 | 2125<sub>(-40) | 2384<sub>(-41) | 2498<sub>(-1) |  |
+| 5.2 | 2026-05-16 | 2124<sub>(-41) | 2384<sub>(-41) | 2498<sub>(-1) |  |
 | 5.1 | 2025-09-16 | 2165 | 2425 | 2499 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-04 04:37:56
+Generated: 2026-09-05 04:37:47
 
 ## Ratings Verlauf
 
@@ -34,8 +34,8 @@ Generated: 2026-09-04 04:37:56
 xychart-beta
   x-axis ["5.1", "5.2"]
   y-axis "Elo Rating" 2100 --> 2500
-  line "" [2165, 2125]
-  line "STC (8.0+0.08s)" [2165, 2125]
+  line "" [2165, 2124]
+  line "STC (8.0+0.08s)" [2165, 2124]
   line "LTC (60.0+0.60s)" [2425, 2384]
   line "" [2499, 2498]
   line "VLTC (2m24s+1.12s)" [2499, 2498]
@@ -51,7 +51,7 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 5.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2498 | 28 | 434 | 49% | 2510 | 26% |
 | 5.2 | LTC <sub>(60.0+0.60s)</sub> | 2384 | 28 | 424 | 49% | 2396 | 30% |
-| 5.2 | STC <sub>(8.0+0.08s)</sub> | 2125 | 31 | 384 | 52% | 2103 | 22% |
+| 5.2 | STC <sub>(8.0+0.08s)</sub> | 2124 | 30 | 388 | 52% | 2106 | 22% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 5.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2499 | 30 | 380 | 48% | 2530 | 26% |
 | 5.1 | LTC <sub>(60.0+0.60s)</sub> | 2425 | 28 | 416 | 49% | 2438 | 30% |
