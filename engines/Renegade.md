@@ -8,8 +8,8 @@ Home: https://github.com/pkrisz99/Renegade
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.3.1 | 2026-07-14 | 3347<sub>(+3) | 3513<sub>(-1) | 3542<sub>(+2) |  |
-| 1.3.0 | 2026-06-17 | 3344<sub>(+new) | 3514<sub>(+new) | 3540<sub>(+new) |  |
+| 1.3.1 | 2026-07-14 | 3347<sub>(+3) | 3513<sub>(-2) | 3542<sub>(+2) |  |
+| 1.3.0 | 2026-06-17 | 3344<sub>(+new) | 3515<sub>(+new) | 3540<sub>(+new) |  |
 | 1.2.0 | 2025-05-05 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-04 04:38:23
+Generated: 2026-09-05 04:38:13
 
 ## Ratings Verlauf
 
@@ -37,7 +37,7 @@ xychart-beta
   y-axis "Elo Rating" 3300 --> 3600
   line "" [3344, 3347]
   line "STC (8.0+0.08s)" [3344, 3347]
-  line "LTC (60.0+0.60s)" [3514, 3513]
+  line "LTC (60.0+0.60s)" [3515, 3513]
   line "" [3540, 3542]
   line "VLTC (2m24s+1.12s)" [3540, 3542]
 ```
@@ -54,7 +54,7 @@ xychart-beta
 | 1.3.1 | LTC <sub>(60.0+0.60s)</sub> | 3513 | 32 | 220 | 49% | 3522 | 85% |
 | 1.3.1 | STC <sub>(8.0+0.08s)</sub> | 3347 | 26 | 360 | 51% | 3339 | 70% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3540 | 33 | 226 | 54% | 3501 | 81% |
-| 1.3.0 | LTC <sub>(60.0+0.60s)</sub> | 3514 | 31 | 260 | 53% | 3463 | 77% |
+| 1.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3540 | 33 | 226 | 54% | 3502 | 81% |
+| 1.3.0 | LTC <sub>(60.0+0.60s)</sub> | 3515 | 31 | 260 | 53% | 3463 | 77% |
 | 1.3.0 | STC <sub>(8.0+0.08s)</sub> | 3344 | 35 | 218 | 53% | 3287 | 66% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
