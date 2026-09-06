@@ -8,9 +8,9 @@ Home: https://github.com/ExxDreamerCode/Ember
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.3.0 | 2026-08-28 | 2626<sub>(+new) | 2961<sub>(+new) | 3031<sub>(+new) |  |
+| 1.3.0 | 2026-08-28 | 2626<sub>(+new) | 2961<sub>(+new) | 3032<sub>(+new) |  |
 | 1.2.0 | 2026-07-30 |  |  |  |  |
-| 1.1.2 | 2026-07-08 | 2349<sub>(+new) | 2789<sub>(+new) | 2865<sub>(+new) |  |
+| 1.1.2 | 2026-07-08 | 2349<sub>(+new) | 2789<sub>(+new) | 2866<sub>(+new) |  |
 | 1.1.1 | 2026-07-04 |  |  |  |  |
 | 1.1.0 | 2026-06-26 |  |  |  |  |
 | 1.0.0 | 2026-06-17 |  |  |  |  |
@@ -34,7 +34,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-06 04:34:41
+Generated: 2026-09-06 06:24:11
 
 ## Ratings Verlauf
 
@@ -46,8 +46,8 @@ xychart-beta
   line "" [2349, 2626]
   line "STC (8.0+0.08s)" [2349, 2626]
   line "LTC (60.0+0.60s)" [2789, 2961]
-  line "" [2865, 3031]
-  line "VLTC (2m24s+1.12s)" [2865, 3031]
+  line "" [2866, 3032]
+  line "VLTC (2m24s+1.12s)" [2866, 3032]
 ```
 
 
@@ -58,11 +58,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3031 | 36 | 220 | 50% | 3031 | 51% |
+| 1.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3032 | 36 | 220 | 50% | 3031 | 51% |
 | 1.3.0 | LTC <sub>(60.0+0.60s)</sub> | 2961 | 33 | 264 | 53% | 2932 | 46% |
 | 1.3.0 | STC <sub>(8.0+0.08s)</sub> | 2626 | 37 | 240 | 52% | 2607 | 33% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.1.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2865 | 31 | 330 | 50% | 2861 | 41% |
+| 1.1.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2866 | 31 | 330 | 50% | 2861 | 41% |
 | 1.1.2 | LTC <sub>(60.0+0.60s)</sub> | 2789 | 31 | 332 | 51% | 2766 | 38% |
 | 1.1.2 | STC <sub>(8.0+0.08s)</sub> | 2349 | 33 | 316 | 49% | 2353 | 25% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
