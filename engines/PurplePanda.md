@@ -8,7 +8,7 @@ Home: https://github.com/Jakob256/PurplePanda
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 21 | 2026-07-12 | 1693<sub>(+47) | 2014<sub>(+102) | 2075<sub>(+92) |  |
+| 21 | 2026-07-12 | 1694<sub>(+48) | 2016<sub>(+104) | 2070<sub>(+87) |  |
 | 20 | 2025-12-15 | 1646 | 1912 | 1983 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-05 04:37:53
+Generated: 2026-09-06 04:37:51
 
 ## Ratings Verlauf
 
@@ -34,11 +34,11 @@ Generated: 2026-09-05 04:37:53
 xychart-beta
   x-axis ["20", "21"]
   y-axis "Elo Rating" 1600 --> 2100
-  line "" [1646, 1693]
-  line "STC (8.0+0.08s)" [1646, 1693]
-  line "LTC (60.0+0.60s)" [1912, 2014]
-  line "" [1983, 2075]
-  line "VLTC (2m24s+1.12s)" [1983, 2075]
+  line "" [1646, 1694]
+  line "STC (8.0+0.08s)" [1646, 1694]
+  line "LTC (60.0+0.60s)" [1912, 2016]
+  line "" [1983, 2070]
+  line "VLTC (2m24s+1.12s)" [1983, 2070]
 ```
 
 
@@ -49,9 +49,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 21 | VLTC <sub>(2m24s+1.12s)</sub> | 2075 | 35 | 302 | 47% | 2113 | 17% |
-| 21 | LTC <sub>(60.0+0.60s)</sub> | 2014 | 35 | 304 | 50% | 2026 | 19% |
-| 21 | STC <sub>(8.0+0.08s)</sub> | 1693 | 35 | 312 | 50% | 1692 | 17% |
+| 21 | VLTC <sub>(2m24s+1.12s)</sub> | 2070 | 35 | 306 | 47% | 2111 | 17% |
+| 21 | LTC <sub>(60.0+0.60s)</sub> | 2016 | 35 | 304 | 50% | 2028 | 19% |
+| 21 | STC <sub>(8.0+0.08s)</sub> | 1694 | 35 | 312 | 50% | 1692 | 17% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 20 | VLTC <sub>(2m24s+1.12s)</sub> | 1983 | 25 | 566 | 48% | 2013 | 21% |
 | 20 | LTC <sub>(60.0+0.60s)</sub> | 1912 | 25 | 580 | 50% | 1917 | 17% |
