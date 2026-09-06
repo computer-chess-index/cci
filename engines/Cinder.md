@@ -8,7 +8,7 @@ Home: https://github.com/brunocodutra/cinder
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.6.1 | 2026-08-16 | 3429<sub>(+49) | 3553<sub>(+8) | 3571<sub>(+8) |  |
+| 0.6.1 | 2026-08-16 | 3429<sub>(+49) | 3553<sub>(+8) | 3572<sub>(+9) |  |
 | 0.5.2 | 2026-07-12 | 3380<sub>(+18) | 3545<sub>(+9) | 3563<sub>(-5) |  |
 | 0.5.1 | 2026-07-08 | 3362<sub>(-43) | 3536<sub>(+4) | 3568<sub>(-15) |  |
 | 0.5.0 | 2026-07-04 | 3405<sub>(+50) | 3532<sub>(+53) | 3583<sub>(+73) |  |
@@ -30,7 +30,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-06 04:33:57
+Generated: 2026-09-06 06:23:29
 
 ## Ratings Verlauf
 
@@ -42,8 +42,8 @@ xychart-beta
   line "" [3312, 3355, 3405, 3362, 3380, 3429]
   line "STC (8.0+0.08s)" [3312, 3355, 3405, 3362, 3380, 3429]
   line "LTC (60.0+0.60s)" [3482, 3479, 3532, 3536, 3545, 3553]
-  line "" [3529, 3510, 3583, 3568, 3563, 3571]
-  line "VLTC (2m24s+1.12s)" [3529, 3510, 3583, 3568, 3563, 3571]
+  line "" [3529, 3510, 3583, 3568, 3563, 3572]
+  line "VLTC (2m24s+1.12s)" [3529, 3510, 3583, 3568, 3563, 3572]
 ```
 
 
@@ -54,7 +54,7 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.6.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3571 | 35 | 184 | 51% | 3563 | 92% |
+| 0.6.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3572 | 34 | 188 | 51% | 3564 | 93% |
 | 0.6.1 | LTC <sub>(60.0+0.60s)</sub> | 3553 | 31 | 238 | 50% | 3553 | 87% |
 | 0.6.1 | STC <sub>(8.0+0.08s)</sub> | 3429 | 28 | 312 | 49% | 3433 | 76% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
