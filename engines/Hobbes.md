@@ -8,7 +8,7 @@ Home: https://github.com/kelseyde/hobbes-chess-engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0 | 2026-07-22 | 3414<sub>(+11) | 3552<sub>(+18) | 3578<sub>(+33) |  |
+| 3.0 | 2026-07-22 | 3416<sub>(+13) | 3552<sub>(+18) | 3578<sub>(+33) |  |
 | 2.1 | 2026-05-26 | 3403<sub>(+29) | 3534<sub>(+27) | 3545<sub>(+24) |  |
 | 1.0 | 2026-03-05 | 3374 | 3507 | 3521 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-06 04:35:34
+Generated: 2026-09-06 06:25:05
 
 ## Ratings Verlauf
 
@@ -35,8 +35,8 @@ Generated: 2026-09-06 04:35:34
 xychart-beta
   x-axis ["1.0", "2.1", "3.0"]
   y-axis "Elo Rating" 3300 --> 3600
-  line "" [3374, 3403, 3414]
-  line "STC (8.0+0.08s)" [3374, 3403, 3414]
+  line "" [3374, 3403, 3416]
+  line "STC (8.0+0.08s)" [3374, 3403, 3416]
   line "LTC (60.0+0.60s)" [3507, 3534, 3552]
   line "" [3521, 3545, 3578]
   line "VLTC (2m24s+1.12s)" [3521, 3545, 3578]
@@ -50,9 +50,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3578 | 30 | 256 | 51% | 3567 | 88% |
-| 3.0 | LTC <sub>(60.0+0.60s)</sub> | 3552 | 27 | 302 | 50% | 3549 | 89% |
-| 3.0 | STC <sub>(8.0+0.08s)</sub> | 3414 | 28 | 318 | 49% | 3422 | 75% |
+| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3578 | 30 | 260 | 51% | 3568 | 88% |
+| 3.0 | LTC <sub>(60.0+0.60s)</sub> | 3552 | 27 | 306 | 50% | 3549 | 89% |
+| 3.0 | STC <sub>(8.0+0.08s)</sub> | 3416 | 28 | 318 | 49% | 3422 | 75% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3545 | 31 | 232 | 51% | 3540 | 90% |
 | 2.1 | LTC <sub>(60.0+0.60s)</sub> | 3534 | 30 | 260 | 52% | 3521 | 88% |
