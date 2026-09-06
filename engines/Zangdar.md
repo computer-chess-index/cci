@@ -11,8 +11,8 @@ Home: https://github.com/Carbecq/Zangdar
 | 7 | 2026-07-13 | 3301<sub>(+97) | 3461<sub>(+82) | 3498<sub>(+93) |  |
 | 6.1.1 | 2026-02-25 | 3204<sub>(+56) | 3379<sub>(+5) | 3405<sub>(-31) |  |
 | 6.1 | 2026-02-10 | 3148<sub>(+1) | 3374<sub>(+18) | 3436<sub>(+27) |  |
-| 6 | 2026-02-07 | 3147<sub>(+12) | 3356<sub>(+4) | 3409<sub>(+15) |  |
-| 5.00.02 | 2025-09-24 | 3135 | 3352 | 3394 |  |
+| 6 | 2026-02-07 | 3147<sub>(+12) | 3356<sub>(+5) | 3409<sub>(+15) |  |
+| 5.00.02 | 2025-09-24 | 3135 | 3351 | 3394 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Zangdar+<version>&body=###%20Engine%20name%0AZangdar%0A%0A###%20Version%0A7" target="_blank">Submit new version</a>
@@ -28,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-06 04:40:27
+Generated: 2026-09-06 06:29:52
 
 ## Ratings Verlauf
 
@@ -39,7 +39,7 @@ xychart-beta
   y-axis "Elo Rating" 3100 --> 3500
   line "" [3135, 3147, 3148, 3204, 3301]
   line "STC (8.0+0.08s)" [3135, 3147, 3148, 3204, 3301]
-  line "LTC (60.0+0.60s)" [3352, 3356, 3374, 3379, 3461]
+  line "LTC (60.0+0.60s)" [3351, 3356, 3374, 3379, 3461]
   line "" [3394, 3409, 3436, 3405, 3498]
   line "VLTC (2m24s+1.12s)" [3394, 3409, 3436, 3405, 3498]
 ```
@@ -69,6 +69,6 @@ xychart-beta
 | 6 | STC <sub>(8.0+0.08s)</sub> | 3147 | 34 | 244 | 49% | 3152 | 52% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 5.00.02 | VLTC <sub>(2m24s+1.12s)</sub> | 3394 | 27 | 356 | 54% | 3357 | 74% |
-| 5.00.02 | LTC <sub>(60.0+0.60s)</sub> | 3352 | 31 | 272 | 51% | 3330 | 71% |
+| 5.00.02 | LTC <sub>(60.0+0.60s)</sub> | 3351 | 31 | 272 | 51% | 3330 | 71% |
 | 5.00.02 | STC <sub>(8.0+0.08s)</sub> | 3135 | 32 | 280 | 55% | 3078 | 59% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
