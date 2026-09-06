@@ -8,7 +8,7 @@ Home: https://github.com/official-stockfish/Stockfish
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 19 | 2026-09-05 |  |  |  |  |
+| 19.0 | 2026-09-05 | 3549<sub>(+38) | 3613<sub>(+18) | 3625<sub>(+10) |  |
 | 18.0 | 2026-01-31 | 3511<sub>(+25) | 3595<sub>(+5) | 3615<sub>(+6) |  |
 | 17.1 | 2025-03-30 | 3486<sub>(+2) | 3590<sub>(+11) | 3609<sub>(+7) |  |
 | 17.0 | 2024-09-06 | 3484<sub>(+9) | 3579<sub>(+3) | 3602<sub>(+10) |  |
@@ -26,7 +26,7 @@ Home: https://github.com/official-stockfish/Stockfish
 | 8.0 | 2016-11-01 | 2988 | 3239 | 3270 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Stockfish+<version>&body=###%20Engine%20name%0AStockfish%0A%0A###%20Version%0A19" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Stockfish+<version>&body=###%20Engine%20name%0AStockfish%0A%0A###%20Version%0A19.0" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -39,20 +39,20 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-06 04:39:19
+Generated: 2026-09-06 06:28:46
 
 ## Ratings Verlauf
 
 ```mermaid
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
-  x-axis ["8.0", "9.0", "10.0", "11.0", "12.0", "13.0", "14.0", "14.1", "15.0", "15.1", "16.0", "16.1", "17.0", "17.1", "18.0"]
+  x-axis ["8.0", "9.0", "10.0", "11.0", "12.0", "13.0", "14.0", "14.1", "15.0", "15.1", "16.0", "16.1", "17.0", "17.1", "18.0", "19.0"]
   y-axis "Elo Rating" 2900 --> 3700
-  line "" [2988, 3039, 3086, 3117, 3289, 3325, 3371, 3422, 3424, 3452, 3478, 3475, 3484, 3486, 3511]
-  line "STC (8.0+0.08s)" [2988, 3039, 3086, 3117, 3289, 3325, 3371, 3422, 3424, 3452, 3478, 3475, 3484, 3486, 3511]
-  line "LTC (60.0+0.60s)" [3239, 3248, 3283, 3345, 3452, 3498, 3519, 3541, 3567, 3560, 3569, 3576, 3579, 3590, 3595]
-  line "" [3270, 3359, 3353, 3402, 3494, 3503, 3526, 3568, 3561, 3573, 3583, 3592, 3602, 3609, 3615]
-  line "VLTC (2m24s+1.12s)" [3270, 3359, 3353, 3402, 3494, 3503, 3526, 3568, 3561, 3573, 3583, 3592, 3602, 3609, 3615]
+  line "" [2988, 3039, 3086, 3117, 3289, 3325, 3371, 3422, 3424, 3452, 3478, 3475, 3484, 3486, 3511, 3549]
+  line "STC (8.0+0.08s)" [2988, 3039, 3086, 3117, 3289, 3325, 3371, 3422, 3424, 3452, 3478, 3475, 3484, 3486, 3511, 3549]
+  line "LTC (60.0+0.60s)" [3239, 3248, 3283, 3345, 3452, 3498, 3519, 3541, 3567, 3560, 3569, 3576, 3579, 3590, 3595, 3613]
+  line "" [3270, 3359, 3353, 3402, 3494, 3503, 3526, 3568, 3561, 3573, 3583, 3592, 3602, 3609, 3615, 3625]
+  line "VLTC (2m24s+1.12s)" [3270, 3359, 3353, 3402, 3494, 3503, 3526, 3568, 3561, 3573, 3583, 3592, 3602, 3609, 3615, 3625]
 ```
 
 
@@ -62,6 +62,10 @@ xychart-beta
 ## Detailed Evaluation Results
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 19.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3625 | 88 | 28 | 55% | 3590 | 89% |
+| 19.0 | LTC <sub>(60.0+0.60s)</sub> | 3613 | 80 | 36 | 54% | 3586 | 81% |
+| 19.0 | STC <sub>(8.0+0.08s)</sub> | 3549 | 48 | 104 | 51% | 3542 | 81% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 18.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3615 | 35 | 184 | 55% | 3579 | 88% |
 | 18.0 | LTC <sub>(60.0+0.60s)</sub> | 3595 | 30 | 254 | 53% | 3575 | 90% |
