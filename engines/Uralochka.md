@@ -9,7 +9,7 @@ Home:
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 3.42a | 2025-09-06 |  |  |  | illegal move a1a1 |
-| 3.41a | 2024-05-04 | 3214 | 3444 | 3487 |  |
+| 3.41a | 2024-05-04 | 3216 | 3444 | 3487 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Uralochka+<version>&body=###%20Engine%20name%0AUralochka%0A%0A###%20Version%0A3.42a" target="_blank">Submit new version</a>
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-05 04:39:57
+Generated: 2026-09-06 04:39:58
 
 
 
@@ -35,5 +35,5 @@ Generated: 2026-09-05 04:39:57
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.41a | VLTC <sub>(2m24s+1.12s)</sub> | 3487 | 11 | 2068 | 49% | 3491 | 83% |
 | 3.41a | LTC <sub>(60.0+0.60s)</sub> | 3444 | 11 | 2008 | 50% | 3444 | 81% |
-| 3.41a | STC <sub>(8.0+0.08s)</sub> | 3214 | 32 | 312 | 57% | 3074 | 50% |
+| 3.41a | STC <sub>(8.0+0.08s)</sub> | 3216 | 32 | 312 | 57% | 3075 | 50% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
