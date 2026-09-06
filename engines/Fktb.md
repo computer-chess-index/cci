@@ -8,7 +8,7 @@ Home: https://github.com/lunbun/fktb
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.0.77 | 2026-01-18 | 1858<sub>(-56) | 2140<sub>(+3) | 2233<sub>(+20) |  |
+| 0.0.77 | 2026-01-18 | 1862<sub>(-52) | 2140<sub>(+3) | 2234<sub>(+21) |  |
 | 0.0.76 | 2026-01-05 | 1914 | 2137 | 2213 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-05 04:35:01
+Generated: 2026-09-06 04:35:02
 
 ## Ratings Verlauf
 
@@ -34,11 +34,11 @@ Generated: 2026-09-05 04:35:01
 xychart-beta
   x-axis ["0.0.76", "0.0.77"]
   y-axis "Elo Rating" 1800 --> 2300
-  line "" [1914, 1858]
-  line "STC (8.0+0.08s)" [1914, 1858]
+  line "" [1914, 1862]
+  line "STC (8.0+0.08s)" [1914, 1862]
   line "LTC (60.0+0.60s)" [2137, 2140]
-  line "" [2213, 2233]
-  line "VLTC (2m24s+1.12s)" [2213, 2233]
+  line "" [2213, 2234]
+  line "VLTC (2m24s+1.12s)" [2213, 2234]
 ```
 
 
@@ -49,11 +49,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.0.77 | VLTC <sub>(2m24s+1.12s)</sub> | 2233 | 24 | 572 | 52% | 2214 | 31% |
+| 0.0.77 | VLTC <sub>(2m24s+1.12s)</sub> | 2234 | 24 | 572 | 52% | 2215 | 31% |
 | 0.0.77 | LTC <sub>(60.0+0.60s)</sub> | 2140 | 25 | 532 | 49% | 2148 | 29% |
-| 0.0.77 | STC <sub>(8.0+0.08s)</sub> | 1858 | 22 | 712 | 50% | 1860 | 28% |
+| 0.0.77 | STC <sub>(8.0+0.08s)</sub> | 1862 | 22 | 716 | 50% | 1860 | 27% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.0.76 | VLTC <sub>(2m24s+1.12s)</sub> | 2213 | 52 | 132 | 48% | 2240 | 22% |
 | 0.0.76 | LTC <sub>(60.0+0.60s)</sub> | 2137 | 45 | 172 | 49% | 2147 | 23% |
-| 0.0.76 | STC <sub>(8.0+0.08s)</sub> | 1914 | 49 | 140 | 48% | 1932 | 27% |
+| 0.0.76 | STC <sub>(8.0+0.08s)</sub> | 1914 | 49 | 140 | 48% | 1933 | 27% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
