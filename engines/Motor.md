@@ -8,8 +8,8 @@ Home: https://github.com/martinnovaak/motor
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.9.0 | 2025-06-02 | 3340<sub>(+15) | 3501<sub>(+21) | 3536<sub>(+23) |  |
-| 0.8.0 | 2024-10-28 | 3325<sub>(+115) | 3480<sub>(+67) | 3513<sub>(+72) |  |
+| 0.9.0 | 2025-06-02 | 3340<sub>(+14) | 3501<sub>(+21) | 3536<sub>(+23) |  |
+| 0.8.0 | 2024-10-28 | 3326<sub>(+116) | 3480<sub>(+67) | 3513<sub>(+72) |  |
 | 0.60 | 2024-06-30 | 3210 | 3413 | 3441 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-06 04:36:47
+Generated: 2026-09-06 06:26:16
 
 ## Ratings Verlauf
 
@@ -35,8 +35,8 @@ Generated: 2026-09-06 04:36:47
 xychart-beta
   x-axis ["0.60", "0.8.0", "0.9.0"]
   y-axis "Elo Rating" 3200 --> 3600
-  line "" [3210, 3325, 3340]
-  line "STC (8.0+0.08s)" [3210, 3325, 3340]
+  line "" [3210, 3326, 3340]
+  line "STC (8.0+0.08s)" [3210, 3326, 3340]
   line "LTC (60.0+0.60s)" [3413, 3480, 3501]
   line "" [3441, 3513, 3536]
   line "VLTC (2m24s+1.12s)" [3441, 3513, 3536]
@@ -56,7 +56,7 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.8.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3513 | 13 | 1468 | 51% | 3509 | 86% |
 | 0.8.0 | LTC <sub>(60.0+0.60s)</sub> | 3480 | 13 | 1484 | 50% | 3479 | 83% |
-| 0.8.0 | STC <sub>(8.0+0.08s)</sub> | 3325 | 13 | 1460 | 49% | 3330 | 71% |
+| 0.8.0 | STC <sub>(8.0+0.08s)</sub> | 3326 | 13 | 1460 | 49% | 3330 | 71% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.60 | VLTC <sub>(2m24s+1.12s)</sub> | 3441 | 28 | 304 | 50% | 3443 | 80% |
 | 0.60 | LTC <sub>(60.0+0.60s)</sub> | 3413 | 28 | 316 | 52% | 3397 | 74% |
