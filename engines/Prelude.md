@@ -8,7 +8,7 @@ Home: https://github.com/Quinniboi10/Prelude
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1 | 2025-12-10 | 3036 | 3266 | 3306 |  |
+| 2.1 | 2025-12-10 | 3035 | 3266 | 3308 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Prelude+<version>&body=###%20Engine%20name%0APrelude%0A%0A###%20Version%0A2.1" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-05 04:37:40
+Generated: 2026-09-06 04:37:35
 
 
 
@@ -32,7 +32,7 @@ Generated: 2026-09-05 04:37:40
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3306 | 24 | 480 | 51% | 3293 | 62% |
+| 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3308 | 24 | 480 | 51% | 3293 | 62% |
 | 2.1 | LTC <sub>(60.0+0.60s)</sub> | 3266 | 23 | 506 | 53% | 3235 | 63% |
-| 2.1 | STC <sub>(8.0+0.08s)</sub> | 3036 | 21 | 660 | 50% | 3025 | 48% |
+| 2.1 | STC <sub>(8.0+0.08s)</sub> | 3035 | 21 | 672 | 50% | 3027 | 49% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
