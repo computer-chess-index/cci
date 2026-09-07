@@ -8,7 +8,7 @@ Home: https://github.com/jswaff/chess4j
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.3 | 2026-06-06 | 1868<sub>(+13) | 2196<sub>(-14) | 2298<sub>(0) |  |
+| 6.3 | 2026-06-06 | 1872<sub>(+17) | 2198<sub>(-12) | 2299<sub>(+1) |  |
 | 6.2 | 2025-09-16 | 1855 | 2210 | 2298 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-06 06:23:17
+Generated: 2026-09-07 04:37:00
 
 ## Ratings Verlauf
 
@@ -34,11 +34,11 @@ Generated: 2026-09-06 06:23:17
 xychart-beta
   x-axis ["6.2", "6.3"]
   y-axis "Elo Rating" 1800 --> 2300
-  line "" [1855, 1868]
-  line "STC (8.0+0.08s)" [1855, 1868]
-  line "LTC (60.0+0.60s)" [2210, 2196]
-  line "" [2298, 2298]
-  line "VLTC (2m24s+1.12s)" [2298, 2298]
+  line "" [1855, 1872]
+  line "STC (8.0+0.08s)" [1855, 1872]
+  line "LTC (60.0+0.60s)" [2210, 2198]
+  line "" [2298, 2299]
+  line "VLTC (2m24s+1.12s)" [2298, 2299]
 ```
 
 
@@ -49,9 +49,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 6.3 | VLTC <sub>(2m24s+1.12s)</sub> | 2298 | 30 | 372 | 50% | 2298 | 30% |
-| 6.3 | LTC <sub>(60.0+0.60s)</sub> | 2196 | 32 | 334 | 52% | 2175 | 23% |
-| 6.3 | STC <sub>(8.0+0.08s)</sub> | 1868 | 29 | 422 | 48% | 1883 | 20% |
+| 6.3 | VLTC <sub>(2m24s+1.12s)</sub> | 2299 | 30 | 372 | 50% | 2298 | 30% |
+| 6.3 | LTC <sub>(60.0+0.60s)</sub> | 2198 | 32 | 334 | 52% | 2175 | 23% |
+| 6.3 | STC <sub>(8.0+0.08s)</sub> | 1872 | 29 | 426 | 49% | 1882 | 20% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 6.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2298 | 27 | 468 | 49% | 2307 | 30% |
 | 6.2 | LTC <sub>(60.0+0.60s)</sub> | 2210 | 27 | 452 | 50% | 2202 | 28% |
