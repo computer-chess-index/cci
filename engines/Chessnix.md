@@ -8,10 +8,10 @@ Home: https://github.com/ericlangedijk/chessnix/
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.4 | 2026-04-28 | 2878<sub>(+15) | 3140<sub>(+73) | 3233<sub>(+66) |  |
+| 1.4 | 2026-04-28 | 2878<sub>(+15) | 3141<sub>(+74) | 3233<sub>(+66) |  |
 | 1.3 | 2026-02-15 | 2863<sub>(+253) | 3067<sub>(+293) | 3167<sub>(+227) |  |
-| 1.2 | 2025-12-12 | 2610<sub>(+285) | 2774<sub>(+171) | 2940<sub>(+263) |  |
-| 1.0 | 2025-11-08 | 2325 | 2603 | 2677 | too many irregular games |
+| 1.2 | 2025-12-12 | 2610<sub>(+285) | 2774<sub>(+171) | 2940<sub>(+262) |  |
+| 1.0 | 2025-11-08 | 2325 | 2603 | 2678 | too many irregular games |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Chessnix+<version>&body=###%20Engine%20name%0AChessnix%0A%0A###%20Version%0A1.4" target="_blank">Submit new version</a>
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-07 04:37:04
+Generated: 2026-09-08 04:37:01
 
 ## Ratings Verlauf
 
@@ -38,9 +38,9 @@ xychart-beta
   y-axis "Elo Rating" 2300 --> 3300
   line "" [2325, 2610, 2863, 2878]
   line "STC (8.0+0.08s)" [2325, 2610, 2863, 2878]
-  line "LTC (60.0+0.60s)" [2603, 2774, 3067, 3140]
-  line "" [2677, 2940, 3167, 3233]
-  line "VLTC (2m24s+1.12s)" [2677, 2940, 3167, 3233]
+  line "LTC (60.0+0.60s)" [2603, 2774, 3067, 3141]
+  line "" [2678, 2940, 3167, 3233]
+  line "VLTC (2m24s+1.12s)" [2678, 2940, 3167, 3233]
 ```
 
 
@@ -52,7 +52,7 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.4 | VLTC <sub>(2m24s+1.12s)</sub> | 3233 | 41 | 160 | 53% | 3214 | 56% |
-| 1.4 | LTC <sub>(60.0+0.60s)</sub> | 3140 | 43 | 164 | 51% | 3131 | 43% |
+| 1.4 | LTC <sub>(60.0+0.60s)</sub> | 3141 | 43 | 164 | 51% | 3132 | 43% |
 | 1.4 | STC <sub>(8.0+0.08s)</sub> | 2878 | 44 | 156 | 49% | 2889 | 40% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.3 | VLTC <sub>(2m24s+1.12s)</sub> | 3167 | 100 | 26 | 56% | 3125 | 58% |
@@ -63,7 +63,7 @@ xychart-beta
 | 1.2 | LTC <sub>(60.0+0.60s)</sub> | 2774 | 79 | 52 | 52% | 2757 | 31% |
 | 1.2 | STC <sub>(8.0+0.08s)</sub> | 2610 | 150 | 16 | 63% | 2488 | 13% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2677 | 101 | 32 | 33% | 2822 | 41% |
+| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2678 | 101 | 32 | 33% | 2822 | 41% |
 | 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2603 | 146 | 16 | 41% | 2688 | 19% |
 | 1.0 | STC <sub>(8.0+0.08s)</sub> | 2325 | 71 | 70 | 41% | 2402 | 23% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
