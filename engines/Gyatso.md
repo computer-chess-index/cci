@@ -9,7 +9,7 @@ Home: https://github.com/GyatsoYT/GyatsoChess
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 1.5.0 | 2026-08-02 |  |  |  |  |
-| 1.4.0 | 2026-06-05 | 2685<sub>(+193) | 3029<sub>(+210) | 3114<sub>(+193) |  |
+| 1.4.0 | 2026-06-05 | 2685<sub>(+193) | 3029<sub>(+210) | 3116<sub>(+195) |  |
 | 1.3.0 | 2026-03-30 | 2492<sub>(+364) | 2819<sub>(+382) | 2921<sub>(+399) |  |
 | 1.2.0 | 2026-01-24 | 2128<sub>(+165) | 2437<sub>(+122) | 2522<sub>(+118) |  |
 | 1.1.0 | 2026-01-09 | 1963<sub>(+new) | 2315<sub>(+new) | 2404<sub>(+new) |  |
@@ -29,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-07 04:38:49
+Generated: 2026-09-08 04:38:37
 
 ## Ratings Verlauf
 
@@ -41,8 +41,8 @@ xychart-beta
   line "" [1963, 2128, 2492, 2685]
   line "STC (8.0+0.08s)" [1963, 2128, 2492, 2685]
   line "LTC (60.0+0.60s)" [2315, 2437, 2819, 3029]
-  line "" [2404, 2522, 2921, 3114]
-  line "VLTC (2m24s+1.12s)" [2404, 2522, 2921, 3114]
+  line "" [2404, 2522, 2921, 3116]
+  line "VLTC (2m24s+1.12s)" [2404, 2522, 2921, 3116]
 ```
 
 
@@ -53,7 +53,7 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.4.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3114 | 28 | 384 | 50% | 3116 | 46% |
+| 1.4.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3116 | 28 | 388 | 50% | 3117 | 46% |
 | 1.4.0 | LTC <sub>(60.0+0.60s)</sub> | 3029 | 28 | 380 | 50% | 3025 | 46% |
 | 1.4.0 | STC <sub>(8.0+0.08s)</sub> | 2685 | 28 | 408 | 48% | 2701 | 31% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
