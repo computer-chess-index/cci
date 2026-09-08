@@ -8,7 +8,7 @@ Home: https://github.com/GoldenRare/Revolver
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0 | 2026-05-01 | 2522<sub>(+263) | 2777<sub>(+274) | 2830<sub>(+266) |  |
+| 2.0 | 2026-05-01 | 2522<sub>(+263) | 2778<sub>(+275) | 2831<sub>(+267) |  |
 | 1.0 | 2026-01-01 | 2259 | 2503 | 2564 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-06 06:27:43
+Generated: 2026-09-08 04:41:34
 
 ## Ratings Verlauf
 
@@ -36,9 +36,9 @@ xychart-beta
   y-axis "Elo Rating" 2200 --> 2900
   line "" [2259, 2522]
   line "STC (8.0+0.08s)" [2259, 2522]
-  line "LTC (60.0+0.60s)" [2503, 2777]
-  line "" [2564, 2830]
-  line "VLTC (2m24s+1.12s)" [2564, 2830]
+  line "LTC (60.0+0.60s)" [2503, 2778]
+  line "" [2564, 2831]
+  line "VLTC (2m24s+1.12s)" [2564, 2831]
 ```
 
 
@@ -49,11 +49,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2830 | 25 | 492 | 52% | 2811 | 39% |
-| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 2777 | 25 | 508 | 51% | 2768 | 38% |
+| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2831 | 25 | 492 | 52% | 2812 | 39% |
+| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 2778 | 25 | 508 | 51% | 2768 | 38% |
 | 2.0 | STC <sub>(8.0+0.08s)</sub> | 2522 | 26 | 492 | 51% | 2516 | 28% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2564 | 27 | 450 | 46% | 2604 | 32% |
-| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2503 | 29 | 408 | 49% | 2512 | 25% |
+| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2503 | 29 | 408 | 49% | 2514 | 25% |
 | 1.0 | STC <sub>(8.0+0.08s)</sub> | 2259 | 26 | 516 | 51% | 2246 | 29% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
