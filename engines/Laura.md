@@ -8,7 +8,7 @@ Home: https://github.com/HansTibberio/Laura
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.0.0 | 2026-05-09 | 1732<sub>(+162) | 1908<sub>(+211) | 1980<sub>(+168) |  |
+| 4.0.0 | 2026-05-09 | 1732<sub>(+162) | 1898<sub>(+201) | 1979<sub>(+167) |  |
 | 3.0.0 | 2026-04-29 | 1570<sub>(+212) | 1697<sub>(+32) | 1812<sub>(+123) |  |
 | 2.0.0 | 2026-04-23 | 1358<sub>(+59) | 1665<sub>(+188) | 1689<sub>(+281) |  |
 | 1.1.0 | 2026-01-26 | 1299 | 1477 | 1408 |  |
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-08 04:39:25
+Generated: 2026-09-09 04:40:14
 
 ## Ratings Verlauf
 
@@ -38,9 +38,9 @@ xychart-beta
   y-axis "Elo Rating" 1200 --> 2000
   line "" [1299, 1358, 1570, 1732]
   line "STC (8.0+0.08s)" [1299, 1358, 1570, 1732]
-  line "LTC (60.0+0.60s)" [1477, 1665, 1697, 1908]
-  line "" [1408, 1689, 1812, 1980]
-  line "VLTC (2m24s+1.12s)" [1408, 1689, 1812, 1980]
+  line "LTC (60.0+0.60s)" [1477, 1665, 1697, 1898]
+  line "" [1408, 1689, 1812, 1979]
+  line "VLTC (2m24s+1.12s)" [1408, 1689, 1812, 1979]
 ```
 
 
@@ -51,9 +51,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1980 | 39 | 234 | 49% | 1990 | 20% |
-| 4.0.0 | LTC <sub>(60.0+0.60s)</sub> | 1908 | 38 | 256 | 50% | 1908 | 14% |
-| 4.0.0 | STC <sub>(8.0+0.08s)</sub> | 1732 | 38 | 264 | 51% | 1721 | 14% |
+| 4.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1979 | 39 | 234 | 49% | 1990 | 20% |
+| 4.0.0 | LTC <sub>(60.0+0.60s)</sub> | 1898 | 38 | 260 | 49% | 1908 | 14% |
+| 4.0.0 | STC <sub>(8.0+0.08s)</sub> | 1732 | 38 | 264 | 51% | 1723 | 14% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1812 | 51 | 152 | 50% | 1791 | 13% |
 | 3.0.0 | LTC <sub>(60.0+0.60s)</sub> | 1697 | 53 | 136 | 50% | 1705 | 15% |
