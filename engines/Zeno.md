@@ -8,8 +8,8 @@ Home: https://github.com/Toudonou/zeno
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0 | 2026-08-14 | 2120<sub>(+218) | 2379<sub>(+223) | 2415<sub>(+162) |  |
-| 2.0 | 2026-03-08 | 1902 | 2156 | 2253 |  |
+| 3.0 | 2026-08-14 | 2120<sub>(+219) | 2379<sub>(+223) | 2414<sub>(+161) |  |
+| 2.0 | 2026-03-08 | 1901 | 2156 | 2253 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Zeno+<version>&body=###%20Engine%20name%0AZeno%0A%0A###%20Version%0A3.0" target="_blank">Submit new version</a>
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-08 04:43:53
+Generated: 2026-09-09 04:45:16
 
 ## Ratings Verlauf
 
@@ -34,11 +34,11 @@ Generated: 2026-09-08 04:43:53
 xychart-beta
   x-axis ["2.0", "3.0"]
   y-axis "Elo Rating" 1900 --> 2500
-  line "" [1902, 2120]
-  line "STC (8.0+0.08s)" [1902, 2120]
+  line "" [1901, 2120]
+  line "STC (8.0+0.08s)" [1901, 2120]
   line "LTC (60.0+0.60s)" [2156, 2379]
-  line "" [2253, 2415]
-  line "VLTC (2m24s+1.12s)" [2253, 2415]
+  line "" [2253, 2414]
+  line "VLTC (2m24s+1.12s)" [2253, 2414]
 ```
 
 
@@ -49,11 +49,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2415 | 36 | 264 | 51% | 2404 | 29% |
+| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2414 | 36 | 264 | 51% | 2403 | 29% |
 | 3.0 | LTC <sub>(60.0+0.60s)</sub> | 2379 | 35 | 288 | 50% | 2377 | 21% |
 | 3.0 | STC <sub>(8.0+0.08s)</sub> | 2120 | 36 | 268 | 52% | 2094 | 22% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2253 | 30 | 384 | 49% | 2273 | 24% |
 | 2.0 | LTC <sub>(60.0+0.60s)</sub> | 2156 | 28 | 460 | 49% | 2163 | 21% |
-| 2.0 | STC <sub>(8.0+0.08s)</sub> | 1902 | 27 | 482 | 48% | 1921 | 20% |
+| 2.0 | STC <sub>(8.0+0.08s)</sub> | 1901 | 27 | 482 | 48% | 1920 | 20% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
