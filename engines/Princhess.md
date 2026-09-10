@@ -8,7 +8,7 @@ Home: https://github.com/princesslana/princhess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.22.0 | 2026-08-16 | 2867<sub>(+29) | 3096<sub>(+17) | 3168<sub>(+52) |  |
+| 0.22.0 | 2026-08-16 | 2863<sub>(+25) | 3097<sub>(+18) | 3164<sub>(+48) |  |
 | 0.21.0 | 2025-10-13 | 2838 | 3079 | 3116 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-09 04:41:50
+Generated: 2026-09-10 04:41:04
 
 ## Ratings Verlauf
 
@@ -34,11 +34,11 @@ Generated: 2026-09-09 04:41:50
 xychart-beta
   x-axis ["0.21.0", "0.22.0"]
   y-axis "Elo Rating" 2800 --> 3200
-  line "" [2838, 2867]
-  line "STC (8.0+0.08s)" [2838, 2867]
-  line "LTC (60.0+0.60s)" [3079, 3096]
-  line "" [3116, 3168]
-  line "VLTC (2m24s+1.12s)" [3116, 3168]
+  line "" [2838, 2863]
+  line "STC (8.0+0.08s)" [2838, 2863]
+  line "LTC (60.0+0.60s)" [3079, 3097]
+  line "" [3116, 3164]
+  line "VLTC (2m24s+1.12s)" [3116, 3164]
 ```
 
 
@@ -49,9 +49,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.22.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3168 | 35 | 228 | 51% | 3162 | 55% |
-| 0.22.0 | LTC <sub>(60.0+0.60s)</sub> | 3096 | 32 | 274 | 50% | 3098 | 55% |
-| 0.22.0 | STC <sub>(8.0+0.08s)</sub> | 2867 | 34 | 268 | 49% | 2878 | 41% |
+| 0.22.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3164 | 34 | 236 | 50% | 3162 | 56% |
+| 0.22.0 | LTC <sub>(60.0+0.60s)</sub> | 3097 | 31 | 278 | 50% | 3098 | 55% |
+| 0.22.0 | STC <sub>(8.0+0.08s)</sub> | 2863 | 33 | 272 | 48% | 2878 | 41% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.21.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3116 | 24 | 504 | 50% | 3117 | 51% |
 | 0.21.0 | LTC <sub>(60.0+0.60s)</sub> | 3079 | 23 | 542 | 50% | 3075 | 50% |
