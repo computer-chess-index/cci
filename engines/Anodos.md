@@ -8,7 +8,7 @@ Home: https://github.com/tomcant/chess-rs
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.3.0 | 2026-02-16 | 2160<sub>(+165) | 2426<sub>(+119) | 2493<sub>(+103) |  |
+| 1.3.0 | 2026-02-16 | 2159<sub>(+164) | 2426<sub>(+119) | 2493<sub>(+103) |  |
 | 1.2.0 | 2026-02-01 | 1995<sub>(+193) | 2307<sub>(+275) | 2390<sub>(+235) |  |
 | 1.1.0 | 2026-01-16 | 1802<sub>(+54) | 2032<sub>(+65) | 2155<sub>(+127) |  |
 | 1.0.0 | 2026-01-02 | 1748 | 1967 | 2028 | Previously: chess-rs |
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-09 04:35:48
+Generated: 2026-09-10 04:35:43
 
 ## Ratings Verlauf
 
@@ -36,8 +36,8 @@ Generated: 2026-09-09 04:35:48
 xychart-beta
   x-axis ["1.0.0", "1.1.0", "1.2.0", "1.3.0"]
   y-axis "Elo Rating" 1700 --> 2500
-  line "" [1748, 1802, 1995, 2160]
-  line "STC (8.0+0.08s)" [1748, 1802, 1995, 2160]
+  line "" [1748, 1802, 1995, 2159]
+  line "STC (8.0+0.08s)" [1748, 1802, 1995, 2159]
   line "LTC (60.0+0.60s)" [1967, 2032, 2307, 2426]
   line "" [2028, 2155, 2390, 2493]
   line "VLTC (2m24s+1.12s)" [2028, 2155, 2390, 2493]
@@ -51,9 +51,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2493 | 26 | 490 | 49% | 2502 | 26% |
+| 1.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2493 | 26 | 494 | 49% | 2502 | 26% |
 | 1.3.0 | LTC <sub>(60.0+0.60s)</sub> | 2426 | 26 | 500 | 51% | 2421 | 27% |
-| 1.3.0 | STC <sub>(8.0+0.08s)</sub> | 2160 | 24 | 600 | 49% | 2161 | 24% |
+| 1.3.0 | STC <sub>(8.0+0.08s)</sub> | 2159 | 24 | 604 | 49% | 2161 | 24% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2390 | 38 | 244 | 52% | 2369 | 25% |
 | 1.2.0 | LTC <sub>(60.0+0.60s)</sub> | 2307 | 41 | 196 | 49% | 2317 | 28% |
