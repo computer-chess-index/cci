@@ -8,7 +8,7 @@ Home:
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1.0 | 2004-02-01 | 2157<sub>(+13) | 2445<sub>(+6) | 2503<sub>(+20) |  |
+| 2.1.0 | 2004-02-01 | 2157<sub>(+13) | 2446<sub>(+7) | 2503<sub>(+20) |  |
 | 1.0.5 | 2003-03-19 | 2144 | 2439 | 2483 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-09 04:43:02
+Generated: 2026-09-10 04:42:04
 
 ## Ratings Verlauf
 
@@ -36,7 +36,7 @@ xychart-beta
   y-axis "Elo Rating" 2100 --> 2600
   line "" [2144, 2157]
   line "STC (8.0+0.08s)" [2144, 2157]
-  line "LTC (60.0+0.60s)" [2439, 2445]
+  line "LTC (60.0+0.60s)" [2439, 2446]
   line "" [2483, 2503]
   line "VLTC (2m24s+1.12s)" [2483, 2503]
 ```
@@ -50,8 +50,8 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2503 | 51 | 132 | 50% | 2503 | 26% |
-| 2.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2445 | 29 | 418 | 48% | 2465 | 22% |
-| 2.1.0 | STC <sub>(8.0+0.08s)</sub> | 2157 | 24 | 650 | 50% | 2153 | 21% |
+| 2.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2446 | 29 | 422 | 48% | 2465 | 22% |
+| 2.1.0 | STC <sub>(8.0+0.08s)</sub> | 2157 | 23 | 654 | 50% | 2153 | 21% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0.5 | VLTC <sub>(2m24s+1.12s)</sub> | 2483 | 38 | 260 | 48% | 2507 | 22% |
 | 1.0.5 | LTC <sub>(60.0+0.60s)</sub> | 2439 | 15 | 1464 | 50% | 2441 | 24% |
