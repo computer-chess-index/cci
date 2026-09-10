@@ -8,7 +8,7 @@ Home: https://github.com/oozturk777/ynode
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0234 | 2026-03-22 | 3136<sub>(-8) | 3347<sub>(+22) | 3399<sub>(+25) |  |
+| 0234 | 2026-03-22 | 3136<sub>(-8) | 3349<sub>(+24) | 3399<sub>(+25) |  |
 | 0219 | 2025-11-16 | 3144 | 3325 | 3374 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-09 04:45:06
+Generated: 2026-09-10 04:43:55
 
 ## Ratings Verlauf
 
@@ -36,7 +36,7 @@ xychart-beta
   y-axis "Elo Rating" 3100 --> 3400
   line "" [3144, 3136]
   line "STC (8.0+0.08s)" [3144, 3136]
-  line "LTC (60.0+0.60s)" [3325, 3347]
+  line "LTC (60.0+0.60s)" [3325, 3349]
   line "" [3374, 3399]
   line "VLTC (2m24s+1.12s)" [3374, 3399]
 ```
@@ -49,8 +49,8 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0234 | VLTC <sub>(2m24s+1.12s)</sub> | 3399 | 25 | 370 | 50% | 3401 | 81% |
-| 0234 | LTC <sub>(60.0+0.60s)</sub> | 3347 | 24 | 412 | 51% | 3340 | 75% |
+| 0234 | VLTC <sub>(2m24s+1.12s)</sub> | 3399 | 25 | 374 | 50% | 3401 | 81% |
+| 0234 | LTC <sub>(60.0+0.60s)</sub> | 3349 | 24 | 416 | 51% | 3340 | 74% |
 | 0234 | STC <sub>(8.0+0.08s)</sub> | 3136 | 23 | 504 | 50% | 3133 | 57% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0219 | VLTC <sub>(2m24s+1.12s)</sub> | 3374 | 27 | 336 | 52% | 3349 | 79% |
