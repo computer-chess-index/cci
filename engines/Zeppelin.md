@@ -15,8 +15,8 @@ Home: https://github.com/jszczerbinsky/zeppelin
 | 1.3.0 | 2026-03-05 | 1625<sub>(+60) | 1916<sub>(+130) | 1991<sub>(+56) |  |
 | 1.2.0 | 2026-02-09 | 1565<sub>(+66) | 1786<sub>(+100) | 1935<sub>(+122) |  |
 | 1.1.0 | 2026-02-03 | 1499<sub>(+323) | 1686<sub>(+116) | 1813<sub>(+185) |  |
-| 1.0.0 | 2026-02-01 | 1176<sub>(-31) | 1570<sub>(+148) | 1628<sub>(+111) |  |
-| 0.2.0 | 2025-11-16 | 1207 | 1422 | 1517 |  |
+| 1.0.0 | 2026-02-01 | 1176<sub>(-31) | 1570<sub>(+150) | 1628<sub>(+111) |  |
+| 0.2.0 | 2025-11-16 | 1207 | 1420 | 1517 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Zeppelin+<version>&body=###%20Engine%20name%0AZeppelin%0A%0A###%20Version%0A1.5.0" target="_blank">Submit new version</a>
@@ -32,7 +32,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-09 04:45:18
+Generated: 2026-09-10 04:44:07
 
 ## Ratings Verlauf
 
@@ -43,7 +43,7 @@ xychart-beta
   y-axis "Elo Rating" 1100 --> 2300
   line "" [1207, 1176, 1499, 1565, 1625, 1778, 1782, 1794, 1906]
   line "STC (8.0+0.08s)" [1207, 1176, 1499, 1565, 1625, 1778, 1782, 1794, 1906]
-  line "LTC (60.0+0.60s)" [1422, 1570, 1686, 1786, 1916, 2014, 2125, 2063, 2180]
+  line "LTC (60.0+0.60s)" [1420, 1570, 1686, 1786, 1916, 2014, 2125, 2063, 2180]
   line "" [1517, 1628, 1813, 1935, 1991, 2169, 2175, 2215, 2263]
   line "VLTC (2m24s+1.12s)" [1517, 1628, 1813, 1935, 1991, 2169, 2175, 2215, 2263]
 ```
@@ -89,6 +89,6 @@ xychart-beta
 | 1.0.0 | STC <sub>(8.0+0.08s)</sub> | 1176 | 65 | 80 | 47% | 1204 | 24% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1517 | 37 | 290 | 42% | 1650 | 19% |
-| 0.2.0 | LTC <sub>(60.0+0.60s)</sub> | 1422 | 43 | 218 | 48% | 1458 | 15% |
+| 0.2.0 | LTC <sub>(60.0+0.60s)</sub> | 1420 | 43 | 218 | 48% | 1458 | 15% |
 | 0.2.0 | STC <sub>(8.0+0.08s)</sub> | 1207 | 118 | 30 | 33% | 1409 | 13% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
