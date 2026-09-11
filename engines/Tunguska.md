@@ -8,9 +8,9 @@ Home: https://github.com/fernandotenorio/Tunguska
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.2 | 2026-09-07 | 2932<sub>(+119) | 3174<sub>(+28) | 3276<sub>(+63) |  |
-| 2.1 | 2026-04-08 | 2813<sub>(+307) | 3146<sub>(+296) | 3213<sub>(+283) |  |
-| 2.0 | 2026-03-18 | 2506 | 2850 | 2930 |  |
+| 2.2 | 2026-09-07 | 2931<sub>(+118) | 3170<sub>(+24) | 3278<sub>(+65) |  |
+| 2.1 | 2026-04-08 | 2813<sub>(+309) | 3146<sub>(+296) | 3213<sub>(+283) |  |
+| 2.0 | 2026-03-18 | 2504 | 2850 | 2930 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Tunguska+<version>&body=###%20Engine%20name%0ATunguska%0A%0A###%20Version%0A2.2" target="_blank">Submit new version</a>
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-10 04:43:25
+Generated: 2026-09-11 04:43:27
 
 ## Ratings Verlauf
 
@@ -35,11 +35,11 @@ Generated: 2026-09-10 04:43:25
 xychart-beta
   x-axis ["2.0", "2.1", "2.2"]
   y-axis "Elo Rating" 2500 --> 3300
-  line "" [2506, 2813, 2932]
-  line "STC (8.0+0.08s)" [2506, 2813, 2932]
-  line "LTC (60.0+0.60s)" [2850, 3146, 3174]
-  line "" [2930, 3213, 3276]
-  line "VLTC (2m24s+1.12s)" [2930, 3213, 3276]
+  line "" [2504, 2813, 2931]
+  line "STC (8.0+0.08s)" [2504, 2813, 2931]
+  line "LTC (60.0+0.60s)" [2850, 3146, 3170]
+  line "" [2930, 3213, 3278]
+  line "VLTC (2m24s+1.12s)" [2930, 3213, 3278]
 ```
 
 
@@ -50,15 +50,15 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3276 | 34 | 220 | 50% | 3278 | 66% |
-| 2.2 | LTC <sub>(60.0+0.60s)</sub> | 3174 | 42 | 148 | 49% | 3181 | 63% |
-| 2.2 | STC <sub>(8.0+0.08s)</sub> | 2932 | 45 | 140 | 52% | 2917 | 51% |
+| 2.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3278 | 33 | 236 | 50% | 3278 | 69% |
+| 2.2 | LTC <sub>(60.0+0.60s)</sub> | 3170 | 37 | 192 | 49% | 3178 | 60% |
+| 2.2 | STC <sub>(8.0+0.08s)</sub> | 2931 | 43 | 152 | 52% | 2917 | 49% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3213 | 24 | 488 | 50% | 3210 | 59% |
-| 2.1 | LTC <sub>(60.0+0.60s)</sub> | 3146 | 24 | 458 | 52% | 3129 | 59% |
-| 2.1 | STC <sub>(8.0+0.08s)</sub> | 2813 | 23 | 540 | 48% | 2832 | 46% |
+| 2.1 | LTC <sub>(60.0+0.60s)</sub> | 3146 | 24 | 458 | 52% | 3128 | 59% |
+| 2.1 | STC <sub>(8.0+0.08s)</sub> | 2813 | 23 | 540 | 48% | 2831 | 46% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2930 | 30 | 356 | 51% | 2915 | 37% |
-| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 2850 | 31 | 328 | 50% | 2843 | 36% |
-| 2.0 | STC <sub>(8.0+0.08s)</sub> | 2506 | 31 | 368 | 50% | 2498 | 25% |
+| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2930 | 30 | 356 | 51% | 2913 | 37% |
+| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 2850 | 31 | 328 | 50% | 2842 | 36% |
+| 2.0 | STC <sub>(8.0+0.08s)</sub> | 2504 | 31 | 368 | 50% | 2498 | 25% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
