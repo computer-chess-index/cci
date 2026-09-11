@@ -8,9 +8,9 @@ Home: https://github.com/liamg/ariadne
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.6.0 | 2026-08-29 | 2202<sub>(+new) | 2481<sub>(+new) | 2595<sub>(+new) |  |
+| 0.6.0 | 2026-08-29 | 2202<sub>(+new) | 2485<sub>(+new) | 2593<sub>(+new) |  |
 | 0.5.0 | 2026-08-29 |  |  |  |  |
-| 0.4.0 | 2026-08-16 | 1958<sub>(+new) | 2249<sub>(+new) | 2336<sub>(+new) |  |
+| 0.4.0 | 2026-08-16 | 1958<sub>(+new) | 2248<sub>(+new) | 2336<sub>(+new) |  |
 | 0.3.0 | 2026-08-15 |  |  |  |  |
 | 0.2.0 | 2026-08-14 |  |  |  |  |
 | 0.1.0 | 2026-08-12 |  |  |  |  |
@@ -29,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-10 04:35:57
+Generated: 2026-09-11 04:35:53
 
 ## Ratings Verlauf
 
@@ -40,9 +40,9 @@ xychart-beta
   y-axis "Elo Rating" 1900 --> 2600
   line "" [1958, 2202]
   line "STC (8.0+0.08s)" [1958, 2202]
-  line "LTC (60.0+0.60s)" [2249, 2481]
-  line "" [2336, 2595]
-  line "VLTC (2m24s+1.12s)" [2336, 2595]
+  line "LTC (60.0+0.60s)" [2248, 2485]
+  line "" [2336, 2593]
+  line "VLTC (2m24s+1.12s)" [2336, 2593]
 ```
 
 
@@ -53,11 +53,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2595 | 37 | 232 | 51% | 2584 | 35% |
-| 0.6.0 | LTC <sub>(60.0+0.60s)</sub> | 2481 | 36 | 256 | 47% | 2510 | 30% |
+| 0.6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2593 | 37 | 232 | 51% | 2583 | 35% |
+| 0.6.0 | LTC <sub>(60.0+0.60s)</sub> | 2485 | 36 | 260 | 48% | 2508 | 30% |
 | 0.6.0 | STC <sub>(8.0+0.08s)</sub> | 2202 | 34 | 304 | 47% | 2230 | 24% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.4.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2336 | 34 | 296 | 51% | 2329 | 25% |
-| 0.4.0 | LTC <sub>(60.0+0.60s)</sub> | 2249 | 35 | 280 | 50% | 2246 | 23% |
-| 0.4.0 | STC <sub>(8.0+0.08s)</sub> | 1958 | 37 | 256 | 50% | 1956 | 21% |
+| 0.4.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2336 | 34 | 296 | 51% | 2327 | 25% |
+| 0.4.0 | LTC <sub>(60.0+0.60s)</sub> | 2248 | 35 | 280 | 50% | 2246 | 23% |
+| 0.4.0 | STC <sub>(8.0+0.08s)</sub> | 1958 | 37 | 256 | 50% | 1955 | 21% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
