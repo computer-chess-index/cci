@@ -8,7 +8,7 @@ Home: https://github.com/mhonert/velvet-chess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 8.1.1 | 2024-11-06 | 3283<sub>(+13) | 3451<sub>(+6) | 3476<sub>(0) |  |
+| 8.1.1 | 2024-11-06 | 3283<sub>(+13) | 3451<sub>(+6) | 3475<sub>(-1) |  |
 | 8.1.0 | 2024-10-28 | 3270<sub>(+26) | 3445<sub>(+19) | 3476<sub>(0) |  |
 | 8.0.0 | 2024-08-17 | 3244 | 3426 | 3476 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-10 04:43:37
+Generated: 2026-09-11 04:43:39
 
 ## Ratings Verlauf
 
@@ -38,8 +38,8 @@ xychart-beta
   line "" [3244, 3270, 3283]
   line "STC (8.0+0.08s)" [3244, 3270, 3283]
   line "LTC (60.0+0.60s)" [3426, 3445, 3451]
-  line "" [3476, 3476, 3476]
-  line "VLTC (2m24s+1.12s)" [3476, 3476, 3476]
+  line "" [3476, 3476, 3475]
+  line "VLTC (2m24s+1.12s)" [3476, 3476, 3475]
 ```
 
 
@@ -50,8 +50,8 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 8.1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3476 | 12 | 1700 | 50% | 3476 | 79% |
-| 8.1.1 | LTC <sub>(60.0+0.60s)</sub> | 3451 | 12 | 1772 | 51% | 3448 | 77% |
+| 8.1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3475 | 12 | 1700 | 50% | 3475 | 79% |
+| 8.1.1 | LTC <sub>(60.0+0.60s)</sub> | 3451 | 12 | 1772 | 51% | 3447 | 77% |
 | 8.1.1 | STC <sub>(8.0+0.08s)</sub> | 3283 | 12 | 1808 | 50% | 3286 | 65% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 8.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3476 | 32 | 228 | 46% | 3503 | 82% |
