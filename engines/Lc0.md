@@ -8,7 +8,7 @@ Home: https://github.com/LeelaChessZero/lc0
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.32.1 | 2025-11-23 | 2403<sub>(+24) | 3005<sub>(+8) | 3174<sub>(-58) |  |
+| 0.32.1 | 2025-11-23 | 2403<sub>(+24) | 3006<sub>(+9) | 3173<sub>(-59) |  |
 | 0.29.0 | 2022-12-13 | 2379 | 2997 | 3232 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-10 04:39:33
+Generated: 2026-09-11 04:39:30
 
 ## Ratings Verlauf
 
@@ -36,9 +36,9 @@ xychart-beta
   y-axis "Elo Rating" 2300 --> 3300
   line "" [2379, 2403]
   line "STC (8.0+0.08s)" [2379, 2403]
-  line "LTC (60.0+0.60s)" [2997, 3005]
-  line "" [3232, 3174]
-  line "VLTC (2m24s+1.12s)" [3232, 3174]
+  line "LTC (60.0+0.60s)" [2997, 3006]
+  line "" [3232, 3173]
+  line "VLTC (2m24s+1.12s)" [3232, 3173]
 ```
 
 
@@ -49,8 +49,8 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.32.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3174 | 23 | 544 | 49% | 3186 | 53% |
-| 0.32.1 | LTC <sub>(60.0+0.60s)</sub> | 3005 | 23 | 546 | 49% | 3016 | 45% |
+| 0.32.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3173 | 23 | 548 | 48% | 3185 | 53% |
+| 0.32.1 | LTC <sub>(60.0+0.60s)</sub> | 3006 | 23 | 550 | 49% | 3016 | 45% |
 | 0.32.1 | STC <sub>(8.0+0.08s)</sub> | 2403 | 21 | 786 | 49% | 2410 | 24% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.29.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3232 | 28 | 356 | 50% | 3232 | 54% |
