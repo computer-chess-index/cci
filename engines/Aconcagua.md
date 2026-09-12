@@ -8,7 +8,7 @@ Home: https://github.com/gabtar/aconcagua
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 5.2.0 | 2026-05-31 | 2334<sub>(+143) | 2603<sub>(+151) | 2711<sub>(+142) |  |
+| 5.2.0 | 2026-05-31 | 2334<sub>(+143) | 2601<sub>(+149) | 2712<sub>(+143) |  |
 | 5.1.0 | 2026-03-01 | 2191<sub>(+31) | 2452<sub>(+4) | 2569<sub>(+117) |  |
 | 5.0.0 | 2026-01-25 | 2160<sub>(+198) | 2448<sub>(+188) | 2452<sub>(+88) |  |
 | 4.1.0 | 2025-12-14 | 1962<sub>(+52) | 2260<sub>(+77) | 2364<sub>(+57) |  |
@@ -28,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-11 04:35:13
+Generated: 2026-09-12 04:35:14
 
 ## Ratings Verlauf
 
@@ -39,9 +39,9 @@ xychart-beta
   y-axis "Elo Rating" 1900 --> 2800
   line "" [1910, 1962, 2160, 2191, 2334]
   line "STC (8.0+0.08s)" [1910, 1962, 2160, 2191, 2334]
-  line "LTC (60.0+0.60s)" [2183, 2260, 2448, 2452, 2603]
-  line "" [2307, 2364, 2452, 2569, 2711]
-  line "VLTC (2m24s+1.12s)" [2307, 2364, 2452, 2569, 2711]
+  line "LTC (60.0+0.60s)" [2183, 2260, 2448, 2452, 2601]
+  line "" [2307, 2364, 2452, 2569, 2712]
+  line "VLTC (2m24s+1.12s)" [2307, 2364, 2452, 2569, 2712]
 ```
 
 
@@ -52,8 +52,8 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 5.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2711 | 30 | 354 | 53% | 2687 | 38% |
-| 5.2.0 | LTC <sub>(60.0+0.60s)</sub> | 2603 | 26 | 474 | 53% | 2576 | 33% |
+| 5.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2712 | 30 | 358 | 53% | 2685 | 38% |
+| 5.2.0 | LTC <sub>(60.0+0.60s)</sub> | 2601 | 26 | 478 | 53% | 2576 | 33% |
 | 5.2.0 | STC <sub>(8.0+0.08s)</sub> | 2334 | 29 | 394 | 47% | 2360 | 27% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 5.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2569 | 27 | 428 | 50% | 2573 | 38% |
