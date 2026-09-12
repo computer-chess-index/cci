@@ -8,8 +8,8 @@ Home: https://github.com/LesterEvSe/AteNika
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.5.0 | 2026-09-02 | 2030<sub>(+133) | 2313<sub>(+185) | 2349<sub>(+126) |  |
-| 0.4.0 | 2026-08-30 | 1897 | 2128 | 2223 |  |
+| 0.5.0 | 2026-09-02 | 2032<sub>(+135) | 2313<sub>(+184) | 2349<sub>(+126) |  |
+| 0.4.0 | 2026-08-30 | 1897 | 2129 | 2223 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Atenika+<version>&body=###%20Engine%20name%0AAtenika%0A%0A###%20Version%0A0.5.0" target="_blank">Submit new version</a>
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-11 04:36:02
+Generated: 2026-09-12 04:36:01
 
 ## Ratings Verlauf
 
@@ -34,9 +34,9 @@ Generated: 2026-09-11 04:36:02
 xychart-beta
   x-axis ["0.4.0", "0.5.0"]
   y-axis "Elo Rating" 1800 --> 2400
-  line "" [1897, 2030]
-  line "STC (8.0+0.08s)" [1897, 2030]
-  line "LTC (60.0+0.60s)" [2128, 2313]
+  line "" [1897, 2032]
+  line "STC (8.0+0.08s)" [1897, 2032]
+  line "LTC (60.0+0.60s)" [2129, 2313]
   line "" [2223, 2349]
   line "VLTC (2m24s+1.12s)" [2223, 2349]
 ```
@@ -51,9 +51,9 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.5.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2349 | 37 | 254 | 50% | 2352 | 26% |
 | 0.5.0 | LTC <sub>(60.0+0.60s)</sub> | 2313 | 43 | 190 | 52% | 2295 | 22% |
-| 0.5.0 | STC <sub>(8.0+0.08s)</sub> | 2030 | 38 | 244 | 47% | 2061 | 20% |
+| 0.5.0 | STC <sub>(8.0+0.08s)</sub> | 2032 | 37 | 264 | 48% | 2056 | 20% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.4.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2223 | 38 | 248 | 48% | 2245 | 23% |
-| 0.4.0 | LTC <sub>(60.0+0.60s)</sub> | 2128 | 40 | 230 | 50% | 2132 | 15% |
+| 0.4.0 | LTC <sub>(60.0+0.60s)</sub> | 2129 | 40 | 230 | 50% | 2133 | 15% |
 | 0.4.0 | STC <sub>(8.0+0.08s)</sub> | 1897 | 38 | 248 | 50% | 1895 | 16% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
