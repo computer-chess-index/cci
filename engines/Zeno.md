@@ -8,7 +8,7 @@ Home: https://github.com/Toudonou/zeno
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0 | 2026-08-14 | 2118<sub>(+217) | 2379<sub>(+223) | 2411<sub>(+158) |  |
+| 3.0 | 2026-08-14 | 2118<sub>(+217) | 2377<sub>(+221) | 2411<sub>(+158) |  |
 | 2.0 | 2026-03-08 | 1901 | 2156 | 2253 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-11 04:44:07
+Generated: 2026-09-12 04:43:24
 
 ## Ratings Verlauf
 
@@ -36,7 +36,7 @@ xychart-beta
   y-axis "Elo Rating" 1900 --> 2500
   line "" [1901, 2118]
   line "STC (8.0+0.08s)" [1901, 2118]
-  line "LTC (60.0+0.60s)" [2156, 2379]
+  line "LTC (60.0+0.60s)" [2156, 2377]
   line "" [2253, 2411]
   line "VLTC (2m24s+1.12s)" [2253, 2411]
 ```
@@ -50,7 +50,7 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2411 | 35 | 268 | 51% | 2404 | 28% |
-| 3.0 | LTC <sub>(60.0+0.60s)</sub> | 2379 | 35 | 288 | 50% | 2376 | 21% |
+| 3.0 | LTC <sub>(60.0+0.60s)</sub> | 2377 | 35 | 288 | 50% | 2376 | 21% |
 | 3.0 | STC <sub>(8.0+0.08s)</sub> | 2118 | 36 | 268 | 52% | 2093 | 22% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2253 | 30 | 384 | 49% | 2273 | 24% |
