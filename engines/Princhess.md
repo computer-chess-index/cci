@@ -8,7 +8,7 @@ Home: https://github.com/princesslana/princhess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.22.0 | 2026-08-16 | 2863<sub>(+25) | 3097<sub>(+19) | 3166<sub>(+50) |  |
+| 0.22.0 | 2026-08-16 | 2863<sub>(+25) | 3096<sub>(+18) | 3166<sub>(+50) |  |
 | 0.21.0 | 2025-10-13 | 2838 | 3078 | 3116 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-11 04:41:03
+Generated: 2026-09-12 04:40:35
 
 ## Ratings Verlauf
 
@@ -36,7 +36,7 @@ xychart-beta
   y-axis "Elo Rating" 2800 --> 3200
   line "" [2838, 2863]
   line "STC (8.0+0.08s)" [2838, 2863]
-  line "LTC (60.0+0.60s)" [3078, 3097]
+  line "LTC (60.0+0.60s)" [3078, 3096]
   line "" [3116, 3166]
   line "VLTC (2m24s+1.12s)" [3116, 3166]
 ```
@@ -50,10 +50,10 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.22.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3166 | 34 | 240 | 50% | 3162 | 55% |
-| 0.22.0 | LTC <sub>(60.0+0.60s)</sub> | 3097 | 31 | 278 | 50% | 3098 | 55% |
+| 0.22.0 | LTC <sub>(60.0+0.60s)</sub> | 3096 | 31 | 278 | 50% | 3098 | 55% |
 | 0.22.0 | STC <sub>(8.0+0.08s)</sub> | 2863 | 33 | 276 | 48% | 2878 | 41% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.21.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3116 | 24 | 504 | 50% | 3117 | 51% |
 | 0.21.0 | LTC <sub>(60.0+0.60s)</sub> | 3078 | 23 | 542 | 50% | 3074 | 50% |
-| 0.21.0 | STC <sub>(8.0+0.08s)</sub> | 2838 | 21 | 728 | 51% | 2828 | 38% |
+| 0.21.0 | STC <sub>(8.0+0.08s)</sub> | 2838 | 21 | 728 | 51% | 2827 | 38% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
