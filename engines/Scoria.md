@@ -8,7 +8,7 @@ Home: https://github.com/iannathan-k/scoria
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.4.7 | 2026-08-10 | 2304<sub>(+1053) | 2531<sub>(+1007) | 2658<sub>(+1008) |  |
+| 4.4.7 | 2026-08-10 | 2304<sub>(+1053) | 2531<sub>(+1007) | 2655<sub>(+1005) |  |
 | 3.8.51 | 2025-08-10 | 1251 | 1524 | 1650 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-11 04:42:21
+Generated: 2026-09-12 04:41:45
 
 ## Ratings Verlauf
 
@@ -37,8 +37,8 @@ xychart-beta
   line "" [1251, 2304]
   line "STC (8.0+0.08s)" [1251, 2304]
   line "LTC (60.0+0.60s)" [1524, 2531]
-  line "" [1650, 2658]
-  line "VLTC (2m24s+1.12s)" [1650, 2658]
+  line "" [1650, 2655]
+  line "VLTC (2m24s+1.12s)" [1650, 2655]
 ```
 
 
@@ -49,7 +49,7 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4.4.7 | VLTC <sub>(2m24s+1.12s)</sub> | 2658 | 32 | 340 | 50% | 2643 | 29% |
+| 4.4.7 | VLTC <sub>(2m24s+1.12s)</sub> | 2655 | 31 | 344 | 50% | 2642 | 29% |
 | 4.4.7 | LTC <sub>(60.0+0.60s)</sub> | 2531 | 34 | 308 | 56% | 2457 | 31% |
 | 4.4.7 | STC <sub>(8.0+0.08s)</sub> | 2304 | 35 | 284 | 53% | 2252 | 32% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
