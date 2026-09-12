@@ -8,7 +8,7 @@ Home: https://github.com/Wind-Eagle/Quirky
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0 | 2026-05-16 | 890<sub>(-2069) | 2099<sub>(-1094) | 1208<sub>(-2047) |  |
+| 3.0 | 2026-05-16 | 890<sub>(-2069) | 2101<sub>(-1092) | 1211<sub>(-2044) |  |
 | 2.1 | 2025-11-25 | 2959 | 3193 | 3255 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-11 04:41:23
+Generated: 2026-09-12 04:40:53
 
 ## Ratings Verlauf
 
@@ -36,9 +36,9 @@ xychart-beta
   y-axis "Elo Rating" 800 --> 3300
   line "" [2959, 890]
   line "STC (8.0+0.08s)" [2959, 890]
-  line "LTC (60.0+0.60s)" [3193, 2099]
-  line "" [3255, 1208]
-  line "VLTC (2m24s+1.12s)" [3255, 1208]
+  line "LTC (60.0+0.60s)" [3193, 2101]
+  line "" [3255, 1211]
+  line "VLTC (2m24s+1.12s)" [3255, 1211]
 ```
 
 
@@ -49,8 +49,8 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1208 | 22 | 1644 | 24% | 1686 | 3% |
-| 3.0 | LTC <sub>(60.0+0.60s)</sub> | 2099 | 23 | 920 | 43% | 2199 | 2% |
+| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1211 | 21 | 1648 | 24% | 1686 | 3% |
+| 3.0 | LTC <sub>(60.0+0.60s)</sub> | 2101 | 23 | 924 | 43% | 2198 | 2% |
 | 3.0 | STC <sub>(8.0+0.08s)</sub> | 890 | 35 | 456 | 54% | 936 | 15% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3255 | 22 | 564 | 54% | 3227 | 59% |
