@@ -8,7 +8,7 @@ Home: https://github.com/jswaff/chess4j
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.3 | 2026-06-06 | 1870<sub>(+16) | 2209<sub>(-1) | 2298<sub>(0) |  |
+| 6.3 | 2026-06-06 | 1868<sub>(+14) | 2210<sub>(0) | 2298<sub>(0) |  |
 | 6.2 | 2025-09-16 | 1854 | 2210 | 2298 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-12 04:36:47
+Generated: 2026-09-13 04:36:50
 
 ## Ratings Verlauf
 
@@ -34,9 +34,9 @@ Generated: 2026-09-12 04:36:47
 xychart-beta
   x-axis ["6.2", "6.3"]
   y-axis "Elo Rating" 1800 --> 2300
-  line "" [1854, 1870]
-  line "STC (8.0+0.08s)" [1854, 1870]
-  line "LTC (60.0+0.60s)" [2210, 2209]
+  line "" [1854, 1868]
+  line "STC (8.0+0.08s)" [1854, 1868]
+  line "LTC (60.0+0.60s)" [2210, 2210]
   line "" [2298, 2298]
   line "VLTC (2m24s+1.12s)" [2298, 2298]
 ```
@@ -49,9 +49,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 6.3 | VLTC <sub>(2m24s+1.12s)</sub> | 2298 | 30 | 376 | 50% | 2296 | 30% |
-| 6.3 | LTC <sub>(60.0+0.60s)</sub> | 2209 | 31 | 354 | 53% | 2179 | 23% |
-| 6.3 | STC <sub>(8.0+0.08s)</sub> | 1870 | 29 | 430 | 49% | 1882 | 20% |
+| 6.3 | VLTC <sub>(2m24s+1.12s)</sub> | 2298 | 30 | 376 | 50% | 2298 | 30% |
+| 6.3 | LTC <sub>(60.0+0.60s)</sub> | 2210 | 31 | 354 | 53% | 2179 | 23% |
+| 6.3 | STC <sub>(8.0+0.08s)</sub> | 1868 | 29 | 434 | 49% | 1881 | 20% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 6.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2298 | 27 | 468 | 49% | 2307 | 30% |
 | 6.2 | LTC <sub>(60.0+0.60s)</sub> | 2210 | 27 | 452 | 50% | 2202 | 28% |
