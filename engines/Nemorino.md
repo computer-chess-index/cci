@@ -8,7 +8,7 @@ Home:
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.00 | 2020-09-28 | 2986 | 3237 | 3305 |  |
+| 6.00 | 2020-09-28 | 2988 | 3239 | 3306 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Nemorino+<version>&body=###%20Engine%20name%0ANemorino%0A%0A###%20Version%0A6.00" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-12 04:39:51
+Generated: 2026-09-13 04:39:59
 
 
 
@@ -32,7 +32,7 @@ Generated: 2026-09-12 04:39:51
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 6.00 | VLTC <sub>(2m24s+1.12s)</sub> | 3305 | 12 | 1900 | 49% | 3309 | 64% |
-| 6.00 | LTC <sub>(60.0+0.60s)</sub> | 3237 | 12 | 1884 | 50% | 3235 | 60% |
-| 6.00 | STC <sub>(8.0+0.08s)</sub> | 2986 | 12 | 1986 | 50% | 2982 | 46% |
+| 6.00 | VLTC <sub>(2m24s+1.12s)</sub> | 3306 | 12 | 1900 | 49% | 3310 | 64% |
+| 6.00 | LTC <sub>(60.0+0.60s)</sub> | 3239 | 12 | 1884 | 50% | 3236 | 60% |
+| 6.00 | STC <sub>(8.0+0.08s)</sub> | 2988 | 12 | 1990 | 50% | 2982 | 46% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
