@@ -9,7 +9,7 @@ Home: https://github.com/A1exL1ang/Superultra
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 2.1 | 2025-04-10 |  |  |  |  |
-| 2.0 | 2024-02-02 | 3048 | 3306 | 3371 |  |
+| 2.0 | 2024-02-02 | 3050 | 3308 | 3371 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Superultra+<version>&body=###%20Engine%20name%0ASuperultra%0A%0A###%20Version%0A2.1" target="_blank">Submit new version</a>
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-12 04:42:21
+Generated: 2026-09-13 04:42:31
 
 
 
@@ -33,7 +33,7 @@ Generated: 2026-09-12 04:42:21
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3371 | 11 | 2080 | 50% | 3367 | 70% |
-| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 3306 | 11 | 1956 | 50% | 3305 | 67% |
-| 2.0 | STC <sub>(8.0+0.08s)</sub> | 3048 | 38 | 208 | 44% | 3098 | 50% |
+| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3371 | 11 | 2080 | 50% | 3368 | 70% |
+| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 3308 | 11 | 1956 | 50% | 3306 | 67% |
+| 2.0 | STC <sub>(8.0+0.08s)</sub> | 3050 | 38 | 208 | 44% | 3098 | 50% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
