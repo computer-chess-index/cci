@@ -8,7 +8,7 @@ Home: https://github.com/P1X3R/zugblitz
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.3.2 | 2026-06-13 | 1858<sub>(-1) | 2102<sub>(-45) | 2211<sub>(+24) |  |
+| 1.3.2 | 2026-06-13 | 1859<sub>(0) | 2102<sub>(-45) | 2211<sub>(+24) |  |
 | 1.3.1 | 2026-01-10 | 1859 | 2147 | 2187 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-13 04:43:44
+Generated: 2026-09-14 04:43:58
 
 ## Ratings Verlauf
 
@@ -34,8 +34,8 @@ Generated: 2026-09-13 04:43:44
 xychart-beta
   x-axis ["1.3.1", "1.3.2"]
   y-axis "Elo Rating" 1800 --> 2300
-  line "" [1859, 1858]
-  line "STC (8.0+0.08s)" [1859, 1858]
+  line "" [1859, 1859]
+  line "STC (8.0+0.08s)" [1859, 1859]
   line "LTC (60.0+0.60s)" [2147, 2102]
   line "" [2187, 2211]
   line "VLTC (2m24s+1.12s)" [2187, 2211]
@@ -51,9 +51,9 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.3.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2211 | 29 | 376 | 50% | 2218 | 35% |
 | 1.3.2 | LTC <sub>(60.0+0.60s)</sub> | 2102 | 29 | 400 | 53% | 2075 | 32% |
-| 1.3.2 | STC <sub>(8.0+0.08s)</sub> | 1858 | 29 | 394 | 52% | 1839 | 28% |
+| 1.3.2 | STC <sub>(8.0+0.08s)</sub> | 1859 | 29 | 398 | 52% | 1837 | 28% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2187 | 27 | 456 | 49% | 2195 | 35% |
-| 1.3.1 | LTC <sub>(60.0+0.60s)</sub> | 2147 | 28 | 422 | 49% | 2152 | 28% |
-| 1.3.1 | STC <sub>(8.0+0.08s)</sub> | 1859 | 24 | 614 | 51% | 1837 | 27% |
+| 1.3.1 | LTC <sub>(60.0+0.60s)</sub> | 2147 | 28 | 422 | 49% | 2153 | 28% |
+| 1.3.1 | STC <sub>(8.0+0.08s)</sub> | 1859 | 24 | 614 | 51% | 1839 | 27% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
