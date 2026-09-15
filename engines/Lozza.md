@@ -8,7 +8,7 @@ Home: https://github.com/op12no2/lozza
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 10 | 2026-01-17 | 2849<sub>(+237) | 3082<sub>(+177) | 3123<sub>(+121) |  |
+| 10 | 2026-01-17 | 2849<sub>(+237) | 3081<sub>(+176) | 3121<sub>(+119) |  |
 | 9 | 2026-01-10 | 2612<sub>(+16) | 2905<sub>(-15) | 3002<sub>(-34) |  |
 | 8 | 2025-09-25 | 2596 | 2920 | 3036 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-14 04:39:31
+Generated: 2026-09-15 04:39:48
 
 ## Ratings Verlauf
 
@@ -37,9 +37,9 @@ xychart-beta
   y-axis "Elo Rating" 2500 --> 3200
   line "" [2596, 2612, 2849]
   line "STC (8.0+0.08s)" [2596, 2612, 2849]
-  line "LTC (60.0+0.60s)" [2920, 2905, 3082]
-  line "" [3036, 3002, 3123]
-  line "VLTC (2m24s+1.12s)" [3036, 3002, 3123]
+  line "LTC (60.0+0.60s)" [2920, 2905, 3081]
+  line "" [3036, 3002, 3121]
+  line "VLTC (2m24s+1.12s)" [3036, 3002, 3121]
 ```
 
 
@@ -50,8 +50,8 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10 | VLTC <sub>(2m24s+1.12s)</sub> | 3123 | 24 | 506 | 51% | 3117 | 50% |
-| 10 | LTC <sub>(60.0+0.60s)</sub> | 3082 | 23 | 516 | 51% | 3065 | 52% |
+| 10 | VLTC <sub>(2m24s+1.12s)</sub> | 3121 | 24 | 508 | 50% | 3116 | 50% |
+| 10 | LTC <sub>(60.0+0.60s)</sub> | 3081 | 23 | 526 | 51% | 3065 | 52% |
 | 10 | STC <sub>(8.0+0.08s)</sub> | 2849 | 20 | 776 | 47% | 2869 | 40% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 9 | VLTC <sub>(2m24s+1.12s)</sub> | 3002 | 36 | 216 | 51% | 2993 | 52% |
