@@ -8,7 +8,7 @@ Home: https://github.com/mhonert/velvet-chess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 8.1.1 | 2024-11-06 | 3285<sub>(+14) | 3452<sub>(+5) | 3476<sub>(-2) |  |
+| 8.1.1 | 2024-11-06 | 3283<sub>(+12) | 3452<sub>(+5) | 3478<sub>(0) |  |
 | 8.1.0 | 2024-10-28 | 3271<sub>(+26) | 3447<sub>(+19) | 3478<sub>(0) |  |
 | 8.0.0 | 2024-08-17 | 3245 | 3428 | 3478 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-14 04:43:18
+Generated: 2026-09-15 04:43:33
 
 ## Ratings Verlauf
 
@@ -35,11 +35,11 @@ Generated: 2026-09-14 04:43:18
 xychart-beta
   x-axis ["8.0.0", "8.1.0", "8.1.1"]
   y-axis "Elo Rating" 3200 --> 3500
-  line "" [3245, 3271, 3285]
-  line "STC (8.0+0.08s)" [3245, 3271, 3285]
+  line "" [3245, 3271, 3283]
+  line "STC (8.0+0.08s)" [3245, 3271, 3283]
   line "LTC (60.0+0.60s)" [3428, 3447, 3452]
-  line "" [3478, 3478, 3476]
-  line "VLTC (2m24s+1.12s)" [3478, 3478, 3476]
+  line "" [3478, 3478, 3478]
+  line "VLTC (2m24s+1.12s)" [3478, 3478, 3478]
 ```
 
 
@@ -50,9 +50,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 8.1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3476 | 12 | 1704 | 50% | 3476 | 79% |
-| 8.1.1 | LTC <sub>(60.0+0.60s)</sub> | 3452 | 12 | 1772 | 51% | 3448 | 77% |
-| 8.1.1 | STC <sub>(8.0+0.08s)</sub> | 3285 | 12 | 1828 | 49% | 3287 | 65% |
+| 8.1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3478 | 12 | 1704 | 50% | 3478 | 79% |
+| 8.1.1 | LTC <sub>(60.0+0.60s)</sub> | 3452 | 12 | 1772 | 51% | 3449 | 77% |
+| 8.1.1 | STC <sub>(8.0+0.08s)</sub> | 3283 | 12 | 1828 | 49% | 3287 | 65% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 8.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3478 | 32 | 228 | 46% | 3505 | 82% |
 | 8.1.0 | LTC <sub>(60.0+0.60s)</sub> | 3447 | 38 | 172 | 51% | 3438 | 77% |
