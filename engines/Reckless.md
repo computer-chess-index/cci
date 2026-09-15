@@ -8,7 +8,7 @@ Home: https://github.com/codedeliveryservice/Reckless
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.9.0 | 2026-03-01 | 3490<sub>(+42) | 3578<sub>(+11) | 3600<sub>(+20) |  |
+| 0.9.0 | 2026-03-01 | 3491<sub>(+43) | 3578<sub>(+11) | 3602<sub>(+22) |  |
 | 0.8.0 | 2025-08-30 | 3448 | 3567 | 3580 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-14 04:41:22
+Generated: 2026-09-15 04:41:38
 
 ## Ratings Verlauf
 
@@ -33,12 +33,12 @@ Generated: 2026-09-14 04:41:22
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["0.8.0", "0.9.0"]
-  y-axis "Elo Rating" 3400 --> 3600
-  line "" [3448, 3490]
-  line "STC (8.0+0.08s)" [3448, 3490]
+  y-axis "Elo Rating" 3400 --> 3700
+  line "" [3448, 3491]
+  line "STC (8.0+0.08s)" [3448, 3491]
   line "LTC (60.0+0.60s)" [3567, 3578]
-  line "" [3580, 3600]
-  line "VLTC (2m24s+1.12s)" [3580, 3600]
+  line "" [3580, 3602]
+  line "VLTC (2m24s+1.12s)" [3580, 3602]
 ```
 
 
@@ -49,9 +49,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3600 | 30 | 244 | 53% | 3582 | 93% |
+| 0.9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3602 | 30 | 244 | 53% | 3582 | 93% |
 | 0.9.0 | LTC <sub>(60.0+0.60s)</sub> | 3578 | 25 | 352 | 51% | 3573 | 93% |
-| 0.9.0 | STC <sub>(8.0+0.08s)</sub> | 3490 | 19 | 650 | 50% | 3487 | 82% |
+| 0.9.0 | STC <sub>(8.0+0.08s)</sub> | 3491 | 19 | 654 | 50% | 3487 | 82% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.8.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3580 | 27 | 306 | 54% | 3553 | 88% |
 | 0.8.0 | LTC <sub>(60.0+0.60s)</sub> | 3567 | 29 | 268 | 51% | 3552 | 87% |
