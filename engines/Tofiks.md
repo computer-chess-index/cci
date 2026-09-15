@@ -8,8 +8,8 @@ Home: https://github.com/likeawizard/tofiks
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.5.0 | 2026-04-23 | 2191<sub>(+144) | 2435<sub>(+113) | 2480<sub>(+81) |  |
-| 1.4.1 | 2026-04-11 | 2047<sub>(-40) | 2322<sub>(+28) | 2399<sub>(+14) |  |
+| 1.5.0 | 2026-04-23 | 2191<sub>(+144) | 2435<sub>(+113) | 2480<sub>(+80) |  |
+| 1.4.1 | 2026-04-11 | 2047<sub>(-40) | 2322<sub>(+28) | 2400<sub>(+15) |  |
 | 1.4.0 | 2026-04-09 | 2087 | 2294 | 2385 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-14 04:42:58
+Generated: 2026-09-15 04:43:14
 
 ## Ratings Verlauf
 
@@ -38,8 +38,8 @@ xychart-beta
   line "" [2087, 2047, 2191]
   line "STC (8.0+0.08s)" [2087, 2047, 2191]
   line "LTC (60.0+0.60s)" [2294, 2322, 2435]
-  line "" [2385, 2399, 2480]
-  line "VLTC (2m24s+1.12s)" [2385, 2399, 2480]
+  line "" [2385, 2400, 2480]
+  line "VLTC (2m24s+1.12s)" [2385, 2400, 2480]
 ```
 
 
@@ -54,7 +54,7 @@ xychart-beta
 | 1.5.0 | LTC <sub>(60.0+0.60s)</sub> | 2435 | 25 | 508 | 51% | 2427 | 34% |
 | 1.5.0 | STC <sub>(8.0+0.08s)</sub> | 2191 | 25 | 564 | 48% | 2206 | 22% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.4.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2399 | 33 | 292 | 50% | 2396 | 33% |
+| 1.4.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2400 | 33 | 292 | 50% | 2396 | 33% |
 | 1.4.1 | LTC <sub>(60.0+0.60s)</sub> | 2322 | 34 | 296 | 50% | 2321 | 29% |
 | 1.4.1 | STC <sub>(8.0+0.08s)</sub> | 2047 | 34 | 302 | 51% | 2033 | 26% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
