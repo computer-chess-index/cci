@@ -8,7 +8,7 @@ Home: https://github.com/sgtqwq/Gecko
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.40 | 2026-06-11 | 2672<sub>(+58) | 2984<sub>(+34) | 3051<sub>(+20) |  |
+| 0.40 | 2026-06-11 | 2672<sub>(+58) | 2984<sub>(+34) | 3052<sub>(+21) |  |
 | 0.35 | 2026-05-13 | 2614<sub>(+112) | 2950<sub>(+70) | 3031<sub>(+101) |  |
 | 0.30 | 2026-05-01 | 2502<sub>(+17) | 2880<sub>(+122) | 2930<sub>(+94) |  |
 | 0.25.1 | 2026-04-12 | 2485<sub>(+89) | 2758<sub>(+97) | 2836<sub>(+116) |  |
@@ -29,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-14 04:38:22
+Generated: 2026-09-15 04:38:34
 
 ## Ratings Verlauf
 
@@ -41,8 +41,8 @@ xychart-beta
   line "" [1879, 2396, 2485, 2502, 2614, 2672]
   line "STC (8.0+0.08s)" [1879, 2396, 2485, 2502, 2614, 2672]
   line "LTC (60.0+0.60s)" [2067, 2661, 2758, 2880, 2950, 2984]
-  line "" [2156, 2720, 2836, 2930, 3031, 3051]
-  line "VLTC (2m24s+1.12s)" [2156, 2720, 2836, 2930, 3031, 3051]
+  line "" [2156, 2720, 2836, 2930, 3031, 3052]
+  line "VLTC (2m24s+1.12s)" [2156, 2720, 2836, 2930, 3031, 3052]
 ```
 
 
@@ -53,7 +53,7 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.40 | VLTC <sub>(2m24s+1.12s)</sub> | 3051 | 28 | 390 | 51% | 3038 | 44% |
+| 0.40 | VLTC <sub>(2m24s+1.12s)</sub> | 3052 | 27 | 394 | 52% | 3038 | 44% |
 | 0.40 | LTC <sub>(60.0+0.60s)</sub> | 2984 | 27 | 410 | 49% | 2989 | 41% |
 | 0.40 | STC <sub>(8.0+0.08s)</sub> | 2672 | 26 | 456 | 49% | 2678 | 35% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
