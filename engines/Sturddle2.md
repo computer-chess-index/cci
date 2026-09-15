@@ -8,7 +8,7 @@ Home: https://github.com/cristivlas/sturddle-2
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.6.0 | 2026-08-09 | 2795<sub>(+95) | 3108<sub>(+80) | 3154<sub>(-13) |  |
+| 2.6.0 | 2026-08-09 | 2795<sub>(+95) | 3106<sub>(+78) | 3152<sub>(-15) |  |
 | 2.5.0 | 2026-02-04 | 2700<sub>(+78) | 3028<sub>(+19) | 3167<sub>(+73) |  |
 | 2.4.0 | 2025-12-06 | 2622 | 3009 | 3094 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-14 04:42:37
+Generated: 2026-09-15 04:42:54
 
 ## Ratings Verlauf
 
@@ -37,9 +37,9 @@ xychart-beta
   y-axis "Elo Rating" 2600 --> 3200
   line "" [2622, 2700, 2795]
   line "STC (8.0+0.08s)" [2622, 2700, 2795]
-  line "LTC (60.0+0.60s)" [3009, 3028, 3108]
-  line "" [3094, 3167, 3154]
-  line "VLTC (2m24s+1.12s)" [3094, 3167, 3154]
+  line "LTC (60.0+0.60s)" [3009, 3028, 3106]
+  line "" [3094, 3167, 3152]
+  line "VLTC (2m24s+1.12s)" [3094, 3167, 3152]
 ```
 
 
@@ -50,9 +50,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3154 | 31 | 276 | 49% | 3156 | 57% |
-| 2.6.0 | LTC <sub>(60.0+0.60s)</sub> | 3108 | 30 | 312 | 50% | 3105 | 53% |
-| 2.6.0 | STC <sub>(8.0+0.08s)</sub> | 2795 | 34 | 284 | 51% | 2781 | 35% |
+| 2.6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3152 | 31 | 276 | 49% | 3156 | 57% |
+| 2.6.0 | LTC <sub>(60.0+0.60s)</sub> | 3106 | 30 | 320 | 50% | 3105 | 52% |
+| 2.6.0 | STC <sub>(8.0+0.08s)</sub> | 2795 | 33 | 288 | 51% | 2784 | 35% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.5.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3167 | 23 | 514 | 52% | 3150 | 52% |
 | 2.5.0 | LTC <sub>(60.0+0.60s)</sub> | 3028 | 25 | 478 | 49% | 3039 | 45% |
