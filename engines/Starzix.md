@@ -8,7 +8,7 @@ Home: https://github.com/zzzzz151/Starzix
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.1 | 2025-04-06 | 3337<sub>(+8) | 3497<sub>(+7) | 3518<sub>(-1) |  |
+| 6.1 | 2025-04-06 | 3337<sub>(+8) | 3497<sub>(+7) | 3519<sub>(0) |  |
 | 6.0 | 2024-10-24 | 3329<sub>(+113) | 3490<sub>(+74) | 3519<sub>(+79) |  |
 | 5.0 | 2024-05-23 | 3216 | 3416 | 3440 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-14 04:42:29
+Generated: 2026-09-15 04:42:46
 
 ## Ratings Verlauf
 
@@ -38,8 +38,8 @@ xychart-beta
   line "" [3216, 3329, 3337]
   line "STC (8.0+0.08s)" [3216, 3329, 3337]
   line "LTC (60.0+0.60s)" [3416, 3490, 3497]
-  line "" [3440, 3519, 3518]
-  line "VLTC (2m24s+1.12s)" [3440, 3519, 3518]
+  line "" [3440, 3519, 3519]
+  line "VLTC (2m24s+1.12s)" [3440, 3519, 3519]
 ```
 
 
@@ -50,8 +50,8 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 6.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3518 | 23 | 442 | 50% | 3518 | 87% |
-| 6.1 | LTC <sub>(60.0+0.60s)</sub> | 3497 | 23 | 448 | 50% | 3498 | 87% |
+| 6.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3519 | 23 | 446 | 50% | 3519 | 87% |
+| 6.1 | LTC <sub>(60.0+0.60s)</sub> | 3497 | 23 | 452 | 50% | 3498 | 87% |
 | 6.1 | STC <sub>(8.0+0.08s)</sub> | 3337 | 20 | 620 | 50% | 3339 | 70% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3519 | 12 | 1620 | 50% | 3518 | 85% |
