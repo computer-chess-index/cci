@@ -8,7 +8,7 @@ Home: https://github.com/jabolcni/Lambergar
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.5 | 2026-05-28 | 3051<sub>(+138) | 3276<sub>(+62) | 3360<sub>(+69) |  |
+| 1.5 | 2026-05-28 | 3054<sub>(+141) | 3276<sub>(+62) | 3360<sub>(+69) |  |
 | 1.3 | 2025-09-19 | 2913 | 3214 | 3291 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-14 04:39:15
+Generated: 2026-09-15 04:39:30
 
 ## Ratings Verlauf
 
@@ -34,8 +34,8 @@ Generated: 2026-09-14 04:39:15
 xychart-beta
   x-axis ["1.3", "1.5"]
   y-axis "Elo Rating" 2900 --> 3400
-  line "" [2913, 3051]
-  line "STC (8.0+0.08s)" [2913, 3051]
+  line "" [2913, 3054]
+  line "STC (8.0+0.08s)" [2913, 3054]
   line "LTC (60.0+0.60s)" [3214, 3276]
   line "" [3291, 3360]
   line "VLTC (2m24s+1.12s)" [3291, 3360]
@@ -51,7 +51,7 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.5 | VLTC <sub>(2m24s+1.12s)</sub> | 3360 | 29 | 298 | 50% | 3359 | 72% |
 | 1.5 | LTC <sub>(60.0+0.60s)</sub> | 3276 | 26 | 400 | 53% | 3255 | 61% |
-| 1.5 | STC <sub>(8.0+0.08s)</sub> | 3051 | 27 | 376 | 50% | 3051 | 51% |
+| 1.5 | STC <sub>(8.0+0.08s)</sub> | 3054 | 27 | 380 | 50% | 3051 | 51% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.3 | VLTC <sub>(2m24s+1.12s)</sub> | 3291 | 24 | 462 | 52% | 3276 | 66% |
 | 1.3 | LTC <sub>(60.0+0.60s)</sub> | 3214 | 26 | 398 | 51% | 3205 | 63% |
