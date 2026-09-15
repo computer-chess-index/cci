@@ -8,7 +8,7 @@ Home: https://github.com/matt-dot-net/dorky-release
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 5.1 | 2026-08-21 | 2310<sub>(+70) | 2643<sub>(+133) | 2753<sub>(+111) |  |
+| 5.1 | 2026-08-21 | 2310<sub>(+70) | 2641<sub>(+131) | 2753<sub>(+111) |  |
 | 5.0 | 2026-08-08 | 2240 | 2510 | 2642 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-14 04:37:33
+Generated: 2026-09-15 04:37:44
 
 ## Ratings Verlauf
 
@@ -36,7 +36,7 @@ xychart-beta
   y-axis "Elo Rating" 2200 --> 2800
   line "" [2240, 2310]
   line "STC (8.0+0.08s)" [2240, 2310]
-  line "LTC (60.0+0.60s)" [2510, 2643]
+  line "LTC (60.0+0.60s)" [2510, 2641]
   line "" [2642, 2753]
   line "VLTC (2m24s+1.12s)" [2642, 2753]
 ```
@@ -50,7 +50,7 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 5.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2753 | 32 | 312 | 53% | 2731 | 37% |
-| 5.1 | LTC <sub>(60.0+0.60s)</sub> | 2643 | 32 | 320 | 52% | 2627 | 30% |
+| 5.1 | LTC <sub>(60.0+0.60s)</sub> | 2641 | 32 | 324 | 52% | 2627 | 29% |
 | 5.1 | STC <sub>(8.0+0.08s)</sub> | 2310 | 37 | 232 | 50% | 2304 | 34% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 5.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2642 | 34 | 298 | 48% | 2664 | 27% |
