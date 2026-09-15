@@ -8,7 +8,7 @@ Home: https://github.com/jswaff/prophet
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 5.2 | 2026-05-16 | 2126<sub>(-41) | 2385<sub>(-41) | 2500<sub>(-2) |  |
+| 5.2 | 2026-05-16 | 2128<sub>(-39) | 2385<sub>(-41) | 2502<sub>(0) |  |
 | 5.1 | 2025-09-16 | 2167 | 2426 | 2502 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-14 04:40:56
+Generated: 2026-09-15 04:41:12
 
 ## Ratings Verlauf
 
@@ -34,11 +34,11 @@ Generated: 2026-09-14 04:40:56
 xychart-beta
   x-axis ["5.1", "5.2"]
   y-axis "Elo Rating" 2100 --> 2600
-  line "" [2167, 2126]
-  line "STC (8.0+0.08s)" [2167, 2126]
+  line "" [2167, 2128]
+  line "STC (8.0+0.08s)" [2167, 2128]
   line "LTC (60.0+0.60s)" [2426, 2385]
-  line "" [2502, 2500]
-  line "VLTC (2m24s+1.12s)" [2502, 2500]
+  line "" [2502, 2502]
+  line "VLTC (2m24s+1.12s)" [2502, 2502]
 ```
 
 
@@ -49,9 +49,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 5.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2500 | 28 | 438 | 49% | 2512 | 26% |
+| 5.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2502 | 28 | 438 | 49% | 2512 | 26% |
 | 5.2 | LTC <sub>(60.0+0.60s)</sub> | 2385 | 28 | 424 | 49% | 2398 | 30% |
-| 5.2 | STC <sub>(8.0+0.08s)</sub> | 2126 | 30 | 396 | 52% | 2106 | 22% |
+| 5.2 | STC <sub>(8.0+0.08s)</sub> | 2128 | 30 | 396 | 52% | 2106 | 22% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 5.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2502 | 30 | 380 | 48% | 2533 | 26% |
 | 5.1 | LTC <sub>(60.0+0.60s)</sub> | 2426 | 28 | 416 | 49% | 2441 | 30% |
