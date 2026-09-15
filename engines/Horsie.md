@@ -8,7 +8,7 @@ Home: https://github.com/liamt19/Horsie
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1 | 2025-05-13 | 3357<sub>(+16) | 3506<sub>(+15) | 3537<sub>(-4) |  |
+| 1.1 | 2025-05-13 | 3357<sub>(+16) | 3506<sub>(+15) | 3538<sub>(-3) |  |
 | 1.0 | 2025-01-08 | 3341 | 3491 | 3541 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-14 04:38:44
+Generated: 2026-09-15 04:38:59
 
 ## Ratings Verlauf
 
@@ -37,8 +37,8 @@ xychart-beta
   line "" [3341, 3357]
   line "STC (8.0+0.08s)" [3341, 3357]
   line "LTC (60.0+0.60s)" [3491, 3506]
-  line "" [3541, 3537]
-  line "VLTC (2m24s+1.12s)" [3541, 3537]
+  line "" [3541, 3538]
+  line "VLTC (2m24s+1.12s)" [3541, 3538]
 ```
 
 
@@ -49,7 +49,7 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3537 | 16 | 934 | 50% | 3536 | 86% |
+| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3538 | 16 | 934 | 50% | 3536 | 86% |
 | 1.1 | LTC <sub>(60.0+0.60s)</sub> | 3506 | 16 | 942 | 50% | 3502 | 83% |
 | 1.1 | STC <sub>(8.0+0.08s)</sub> | 3357 | 15 | 1094 | 50% | 3357 | 69% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
