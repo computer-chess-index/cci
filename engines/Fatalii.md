@@ -8,7 +8,7 @@ Home: https://github.com/FitzOReilly/fatalii
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.10.1 | 2026-05-11 | 2277<sub>(0) | 2516<sub>(-27) | 2607<sub>(0) |  |
+| 0.10.1 | 2026-05-11 | 2277<sub>(0) | 2516<sub>(-27) | 2606<sub>(-1) |  |
 | 0.10.0 | 2026-03-09 | 2277 | 2543 | 2607 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-15 04:38:15
+Generated: 2026-09-16 04:38:08
 
 ## Ratings Verlauf
 
@@ -37,8 +37,8 @@ xychart-beta
   line "" [2277, 2277]
   line "STC (8.0+0.08s)" [2277, 2277]
   line "LTC (60.0+0.60s)" [2543, 2516]
-  line "" [2607, 2607]
-  line "VLTC (2m24s+1.12s)" [2607, 2607]
+  line "" [2607, 2606]
+  line "VLTC (2m24s+1.12s)" [2607, 2606]
 ```
 
 
@@ -49,7 +49,7 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.10.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2607 | 26 | 486 | 51% | 2604 | 27% |
+| 0.10.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2606 | 26 | 490 | 50% | 2604 | 27% |
 | 0.10.1 | LTC <sub>(60.0+0.60s)</sub> | 2516 | 27 | 448 | 50% | 2519 | 31% |
 | 0.10.1 | STC <sub>(8.0+0.08s)</sub> | 2277 | 28 | 434 | 49% | 2290 | 27% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
