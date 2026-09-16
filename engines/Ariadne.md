@@ -8,7 +8,7 @@ Home: https://github.com/liamg/ariadne
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.6.0 | 2026-08-29 | 2203<sub>(+new) | 2485<sub>(+new) | 2599<sub>(+new) |  |
+| 0.6.0 | 2026-08-29 | 2203<sub>(+new) | 2487<sub>(+new) | 2603<sub>(+new) |  |
 | 0.5.0 | 2026-08-29 |  |  |  |  |
 | 0.4.0 | 2026-08-16 | 1959<sub>(+new) | 2249<sub>(+new) | 2337<sub>(+new) |  |
 | 0.3.0 | 2026-08-15 |  |  |  |  |
@@ -29,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-15 04:35:55
+Generated: 2026-09-16 04:35:57
 
 ## Ratings Verlauf
 
@@ -37,12 +37,12 @@ Generated: 2026-09-15 04:35:55
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["0.4.0", "0.6.0"]
-  y-axis "Elo Rating" 1900 --> 2600
+  y-axis "Elo Rating" 1900 --> 2700
   line "" [1959, 2203]
   line "STC (8.0+0.08s)" [1959, 2203]
-  line "LTC (60.0+0.60s)" [2249, 2485]
-  line "" [2337, 2599]
-  line "VLTC (2m24s+1.12s)" [2337, 2599]
+  line "LTC (60.0+0.60s)" [2249, 2487]
+  line "" [2337, 2603]
+  line "VLTC (2m24s+1.12s)" [2337, 2603]
 ```
 
 
@@ -53,8 +53,8 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2599 | 36 | 240 | 51% | 2585 | 35% |
-| 0.6.0 | LTC <sub>(60.0+0.60s)</sub> | 2485 | 36 | 260 | 48% | 2510 | 30% |
+| 0.6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2603 | 36 | 244 | 52% | 2585 | 35% |
+| 0.6.0 | LTC <sub>(60.0+0.60s)</sub> | 2487 | 36 | 260 | 48% | 2510 | 30% |
 | 0.6.0 | STC <sub>(8.0+0.08s)</sub> | 2203 | 34 | 304 | 47% | 2232 | 24% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.4.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2337 | 34 | 296 | 51% | 2329 | 25% |
