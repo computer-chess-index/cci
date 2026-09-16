@@ -8,7 +8,7 @@ Home: https://github.com/PS-Wizard/OopsMate
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0 | 2026-01-30 | 1273<sub>(+136) | 1453<sub>(+91) | 1490<sub>(+78) |  |
+| 2.0 | 2026-01-30 | 1273<sub>(+136) | 1454<sub>(+92) | 1494<sub>(+82) |  |
 | 0.0.4 | 2025-11-23 | 1137<sub>(+new) | 1362<sub>(+new) | 1412<sub>(+new) |  |
 | 0.0.3 | 2025-11-13 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-15 04:40:38
+Generated: 2026-09-16 04:40:26
 
 ## Ratings Verlauf
 
@@ -37,9 +37,9 @@ xychart-beta
   y-axis "Elo Rating" 1100 --> 1500
   line "" [1137, 1273]
   line "STC (8.0+0.08s)" [1137, 1273]
-  line "LTC (60.0+0.60s)" [1362, 1453]
-  line "" [1412, 1490]
-  line "VLTC (2m24s+1.12s)" [1412, 1490]
+  line "LTC (60.0+0.60s)" [1362, 1454]
+  line "" [1412, 1494]
+  line "VLTC (2m24s+1.12s)" [1412, 1494]
 ```
 
 
@@ -50,11 +50,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1490 | 28 | 456 | 54% | 1453 | 30% |
-| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 1453 | 27 | 504 | 51% | 1439 | 28% |
+| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1494 | 27 | 464 | 54% | 1454 | 30% |
+| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 1454 | 27 | 508 | 51% | 1439 | 28% |
 | 2.0 | STC <sub>(8.0+0.08s)</sub> | 1273 | 26 | 562 | 56% | 1172 | 28% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.0.4 | VLTC <sub>(2m24s+1.12s)</sub> | 1412 | 43 | 190 | 42% | 1557 | 34% |
-| 0.0.4 | LTC <sub>(60.0+0.60s)</sub> | 1362 | 41 | 200 | 45% | 1450 | 32% |
+| 0.0.4 | LTC <sub>(60.0+0.60s)</sub> | 1362 | 41 | 200 | 45% | 1451 | 32% |
 | 0.0.4 | STC <sub>(8.0+0.08s)</sub> | 1137 | 43 | 198 | 43% | 1235 | 26% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
