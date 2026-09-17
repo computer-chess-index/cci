@@ -9,7 +9,7 @@ Home: https://github.com/nescitus/Rodent-V
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 1.2 | 2026-08-30 |  |  |  |  |
-| 1.1 | 2026-08-06 | 2986<sub>(+48) | 3252<sub>(+54) | 3301<sub>(+12) |  |
+| 1.1 | 2026-08-06 | 2986<sub>(+48) | 3252<sub>(+54) | 3302<sub>(+13) |  |
 | 1.0 | 2026-08-02 | 2938 | 3198 | 3289 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-16 04:41:46
+Generated: 2026-09-17 04:41:48
 
 ## Ratings Verlauf
 
@@ -38,8 +38,8 @@ xychart-beta
   line "" [2938, 2986]
   line "STC (8.0+0.08s)" [2938, 2986]
   line "LTC (60.0+0.60s)" [3198, 3252]
-  line "" [3289, 3301]
-  line "VLTC (2m24s+1.12s)" [3289, 3301]
+  line "" [3289, 3302]
+  line "VLTC (2m24s+1.12s)" [3289, 3302]
 ```
 
 
@@ -50,9 +50,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3301 | 29 | 288 | 50% | 3302 | 71% |
+| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3302 | 29 | 288 | 50% | 3302 | 71% |
 | 1.1 | LTC <sub>(60.0+0.60s)</sub> | 3252 | 27 | 358 | 53% | 3232 | 61% |
-| 1.1 | STC <sub>(8.0+0.08s)</sub> | 2986 | 27 | 390 | 52% | 2966 | 49% |
+| 1.1 | STC <sub>(8.0+0.08s)</sub> | 2986 | 27 | 394 | 52% | 2967 | 49% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3289 | 33 | 250 | 49% | 3291 | 61% |
 | 1.0 | LTC <sub>(60.0+0.60s)</sub> | 3198 | 32 | 260 | 51% | 3190 | 57% |
