@@ -8,8 +8,8 @@ Home:
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1.0 | 2004-02-01 | 2159<sub>(+14) | 2448<sub>(+7) | 2504<sub>(+20) |  |
-| 1.0.5 | 2003-03-19 | 2145 | 2441 | 2484 |  |
+| 2.1.0 | 2004-02-01 | 2157<sub>(+13) | 2448<sub>(+7) | 2504<sub>(+20) |  |
+| 1.0.5 | 2003-03-19 | 2144 | 2441 | 2484 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Ruffian+<version>&body=###%20Engine%20name%0ARuffian%0A%0A###%20Version%0A2.1.0" target="_blank">Submit new version</a>
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-16 04:41:56
+Generated: 2026-09-17 04:41:58
 
 ## Ratings Verlauf
 
@@ -34,8 +34,8 @@ Generated: 2026-09-16 04:41:56
 xychart-beta
   x-axis ["1.0.5", "2.1.0"]
   y-axis "Elo Rating" 2100 --> 2600
-  line "" [2145, 2159]
-  line "STC (8.0+0.08s)" [2145, 2159]
+  line "" [2144, 2157]
+  line "STC (8.0+0.08s)" [2144, 2157]
   line "LTC (60.0+0.60s)" [2441, 2448]
   line "" [2484, 2504]
   line "VLTC (2m24s+1.12s)" [2484, 2504]
@@ -51,9 +51,9 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2504 | 51 | 132 | 50% | 2504 | 26% |
 | 2.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2448 | 29 | 426 | 48% | 2465 | 22% |
-| 2.1.0 | STC <sub>(8.0+0.08s)</sub> | 2159 | 23 | 654 | 50% | 2155 | 21% |
+| 2.1.0 | STC <sub>(8.0+0.08s)</sub> | 2157 | 23 | 654 | 50% | 2155 | 21% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0.5 | VLTC <sub>(2m24s+1.12s)</sub> | 2484 | 38 | 260 | 48% | 2508 | 22% |
 | 1.0.5 | LTC <sub>(60.0+0.60s)</sub> | 2441 | 15 | 1464 | 50% | 2442 | 24% |
-| 1.0.5 | STC <sub>(8.0+0.08s)</sub> | 2145 | 16 | 1560 | 47% | 2206 | 20% |
+| 1.0.5 | STC <sub>(8.0+0.08s)</sub> | 2144 | 16 | 1560 | 47% | 2206 | 20% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
