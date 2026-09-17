@@ -9,8 +9,8 @@ Home: https://github.com/ericlangedijk/chessnix/
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 1.4 | 2026-04-28 | 2880<sub>(+14) | 3143<sub>(+73) | 3236<sub>(+68) |  |
-| 1.3 | 2026-02-15 | 2866<sub>(+255) | 3070<sub>(+294) | 3168<sub>(+224) |  |
-| 1.2 | 2025-12-12 | 2611<sub>(+285) | 2776<sub>(+172) | 2944<sub>(+263) |  |
+| 1.3 | 2026-02-15 | 2866<sub>(+256) | 3070<sub>(+294) | 3168<sub>(+224) |  |
+| 1.2 | 2025-12-12 | 2610<sub>(+284) | 2776<sub>(+172) | 2944<sub>(+263) |  |
 | 1.0 | 2025-11-08 | 2326 | 2604 | 2681 | too many irregular games |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-16 04:37:01
+Generated: 2026-09-17 04:36:57
 
 ## Ratings Verlauf
 
@@ -36,8 +36,8 @@ Generated: 2026-09-16 04:37:01
 xychart-beta
   x-axis ["1.0", "1.2", "1.3", "1.4"]
   y-axis "Elo Rating" 2300 --> 3300
-  line "" [2326, 2611, 2866, 2880]
-  line "STC (8.0+0.08s)" [2326, 2611, 2866, 2880]
+  line "" [2326, 2610, 2866, 2880]
+  line "STC (8.0+0.08s)" [2326, 2610, 2866, 2880]
   line "LTC (60.0+0.60s)" [2604, 2776, 3070, 3143]
   line "" [2681, 2944, 3168, 3236]
   line "VLTC (2m24s+1.12s)" [2681, 2944, 3168, 3236]
@@ -61,7 +61,7 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2944 | 158 | 12 | 46% | 2982 | 25% |
 | 1.2 | LTC <sub>(60.0+0.60s)</sub> | 2776 | 79 | 52 | 52% | 2759 | 31% |
-| 1.2 | STC <sub>(8.0+0.08s)</sub> | 2611 | 150 | 16 | 63% | 2489 | 13% |
+| 1.2 | STC <sub>(8.0+0.08s)</sub> | 2610 | 150 | 16 | 63% | 2489 | 13% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2681 | 101 | 32 | 33% | 2824 | 41% |
 | 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2604 | 146 | 16 | 41% | 2689 | 19% |
