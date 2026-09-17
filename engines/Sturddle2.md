@@ -8,7 +8,7 @@ Home: https://github.com/cristivlas/sturddle-2
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.6.0 | 2026-08-09 | 2795<sub>(+95) | 3106<sub>(+78) | 3154<sub>(-14) |  |
+| 2.6.0 | 2026-08-09 | 2795<sub>(+95) | 3106<sub>(+78) | 3150<sub>(-18) |  |
 | 2.5.0 | 2026-02-04 | 2700<sub>(+77) | 3028<sub>(+19) | 3168<sub>(+74) |  |
 | 2.4.0 | 2025-12-06 | 2623 | 3009 | 3094 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-16 04:42:43
+Generated: 2026-09-17 04:42:46
 
 ## Ratings Verlauf
 
@@ -38,8 +38,8 @@ xychart-beta
   line "" [2623, 2700, 2795]
   line "STC (8.0+0.08s)" [2623, 2700, 2795]
   line "LTC (60.0+0.60s)" [3009, 3028, 3106]
-  line "" [3094, 3168, 3154]
-  line "VLTC (2m24s+1.12s)" [3094, 3168, 3154]
+  line "" [3094, 3168, 3150]
+  line "VLTC (2m24s+1.12s)" [3094, 3168, 3150]
 ```
 
 
@@ -50,9 +50,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3154 | 31 | 276 | 49% | 3156 | 57% |
-| 2.6.0 | LTC <sub>(60.0+0.60s)</sub> | 3106 | 30 | 320 | 50% | 3105 | 52% |
-| 2.6.0 | STC <sub>(8.0+0.08s)</sub> | 2795 | 33 | 292 | 51% | 2785 | 35% |
+| 2.6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3150 | 31 | 288 | 49% | 3156 | 56% |
+| 2.6.0 | LTC <sub>(60.0+0.60s)</sub> | 3106 | 29 | 324 | 50% | 3105 | 52% |
+| 2.6.0 | STC <sub>(8.0+0.08s)</sub> | 2795 | 33 | 296 | 51% | 2785 | 34% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.5.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3168 | 23 | 514 | 52% | 3151 | 52% |
 | 2.5.0 | LTC <sub>(60.0+0.60s)</sub> | 3028 | 25 | 478 | 49% | 3039 | 45% |
