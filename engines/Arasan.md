@@ -8,7 +8,7 @@ Home: https://github.com/jdart1/arasan-chess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 26.0 | 2026-07-24 | 3254<sub>(+11) | 3445<sub>(+2) | 3479<sub>(-15) |  |
+| 26.0 | 2026-07-24 | 3254<sub>(+11) | 3445<sub>(+2) | 3478<sub>(-16) |  |
 | 25.4 | 2026-04-15 | 3243<sub>(+15) | 3443<sub>(+18) | 3494<sub>(+18) |  |
 | 25.4 | 2026-04-15 | 3228<sub>(-19) | 3425<sub>(-11) | 3476<sub>(-4) |  |
 | 25.3 | 2025-12-28 | 3247 | 3436 | 3480 |  |
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-16 04:35:48
+Generated: 2026-09-17 04:35:44
 
 ## Ratings Verlauf
 
@@ -39,8 +39,8 @@ xychart-beta
   line "" [3247, 3243, 3228, 3254]
   line "STC (8.0+0.08s)" [3247, 3243, 3228, 3254]
   line "LTC (60.0+0.60s)" [3436, 3443, 3425, 3445]
-  line "" [3480, 3494, 3476, 3479]
-  line "VLTC (2m24s+1.12s)" [3480, 3494, 3476, 3479]
+  line "" [3480, 3494, 3476, 3478]
+  line "VLTC (2m24s+1.12s)" [3480, 3494, 3476, 3478]
 ```
 
 
@@ -51,8 +51,8 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 26.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3479 | 28 | 300 | 50% | 3479 | 85% |
-| 26.0 | LTC <sub>(60.0+0.60s)</sub> | 3445 | 27 | 332 | 51% | 3440 | 80% |
+| 26.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3478 | 28 | 304 | 50% | 3478 | 85% |
+| 26.0 | LTC <sub>(60.0+0.60s)</sub> | 3445 | 27 | 336 | 51% | 3440 | 79% |
 | 26.0 | STC <sub>(8.0+0.08s)</sub> | 3254 | 26 | 372 | 49% | 3260 | 66% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 25.4 | VLTC <sub>(2m24s+1.12s)</sub> | 3494 | 24 | 408 | 49% | 3499 | 86% |
