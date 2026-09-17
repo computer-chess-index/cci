@@ -8,7 +8,7 @@ Home: https://github.com/Quanticade/Quanticade
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0 | 2025-12-15 | 3352<sub>(+50) | 3524<sub>(+45) | 3555<sub>(+36) |  |
+| 3.0 | 2025-12-15 | 3352<sub>(+50) | 3525<sub>(+46) | 3555<sub>(+36) |  |
 | 2.0 | 2025-05-21 | 3302 | 3479 | 3519 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-16 04:41:13
+Generated: 2026-09-17 04:41:13
 
 ## Ratings Verlauf
 
@@ -36,7 +36,7 @@ xychart-beta
   y-axis "Elo Rating" 3300 --> 3600
   line "" [3302, 3352]
   line "STC (8.0+0.08s)" [3302, 3352]
-  line "LTC (60.0+0.60s)" [3479, 3524]
+  line "LTC (60.0+0.60s)" [3479, 3525]
   line "" [3519, 3555]
   line "VLTC (2m24s+1.12s)" [3519, 3555]
 ```
@@ -50,7 +50,7 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3555 | 21 | 492 | 51% | 3549 | 89% |
-| 3.0 | LTC <sub>(60.0+0.60s)</sub> | 3524 | 22 | 486 | 50% | 3522 | 87% |
+| 3.0 | LTC <sub>(60.0+0.60s)</sub> | 3525 | 22 | 490 | 50% | 3522 | 87% |
 | 3.0 | STC <sub>(8.0+0.08s)</sub> | 3352 | 19 | 686 | 50% | 3351 | 71% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3519 | 26 | 340 | 50% | 3515 | 84% |
