@@ -8,7 +8,7 @@ Home: https://github.com/fizban99/micropython-usunfish
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.4 | 2026-09-12 | 1085<sub>(+new) | 1470<sub>(+new) | 1517<sub>(+new) |  |
+| 1.4 | 2026-09-12 | 1080<sub>(+new) | 1458<sub>(+new) | 1523<sub>(+new) |  |
 | 1.3 | 2026-06-28 |  |  |  |  |
 | 1.2a | 2026-06-07 |  |  |  |  |
 | 1.2 | 2026-06-04 |  |  |  |  |
@@ -30,7 +30,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-17 04:43:24
+Generated: 2026-09-18 04:43:45
 
 ## Ratings Verlauf
 
@@ -39,11 +39,11 @@ Generated: 2026-09-17 04:43:24
 xychart-beta
   x-axis ["1.1", "1.4"]
   y-axis "Elo Rating" 900 --> 1600
-  line "" [964, 1085]
-  line "STC (8.0+0.08s)" [964, 1085]
-  line "LTC (60.0+0.60s)" [1361, 1470]
-  line "" [1501, 1517]
-  line "VLTC (2m24s+1.12s)" [1501, 1517]
+  line "" [964, 1080]
+  line "STC (8.0+0.08s)" [964, 1080]
+  line "LTC (60.0+0.60s)" [1361, 1458]
+  line "" [1501, 1523]
+  line "VLTC (2m24s+1.12s)" [1501, 1523]
 ```
 
 
@@ -54,11 +54,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.4 | VLTC <sub>(2m24s+1.12s)</sub> | 1517 | 41 | 208 | 53% | 1494 | 23% |
-| 1.4 | LTC <sub>(60.0+0.60s)</sub> | 1470 | 43 | 192 | 52% | 1445 | 20% |
-| 1.4 | STC <sub>(8.0+0.08s)</sub> | 1085 | 38 | 248 | 48% | 1100 | 19% |
+| 1.4 | VLTC <sub>(2m24s+1.12s)</sub> | 1523 | 40 | 226 | 52% | 1501 | 22% |
+| 1.4 | LTC <sub>(60.0+0.60s)</sub> | 1458 | 41 | 216 | 51% | 1446 | 20% |
+| 1.4 | STC <sub>(8.0+0.08s)</sub> | 1080 | 36 | 276 | 48% | 1096 | 18% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 1501 | 32 | 360 | 51% | 1486 | 19% |
+| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 1501 | 32 | 360 | 51% | 1488 | 19% |
 | 1.1 | LTC <sub>(60.0+0.60s)</sub> | 1361 | 33 | 344 | 51% | 1349 | 18% |
 | 1.1 | STC <sub>(8.0+0.08s)</sub> | 964 | 31 | 404 | 54% | 910 | 21% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
