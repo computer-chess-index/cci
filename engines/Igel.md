@@ -8,7 +8,7 @@ Home: https://github.com/vshcherbyna/igel
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.7.0 | 2026-08-27 | 3290<sub>(+105) | 3486<sub>(+72) | 3530<sub>(+65) |  |
+| 3.7.0 | 2026-08-27 | 3290<sub>(+105) | 3487<sub>(+73) | 3530<sub>(+65) |  |
 | 3.6.0 | 2024-12-28 | 3185<sub>(+17) | 3414<sub>(+4) | 3465<sub>(+18) |  |
 | 3.5.0 | 2023-06-22 | 3168 | 3410 | 3447 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-17 04:38:54
+Generated: 2026-09-18 04:39:15
 
 ## Ratings Verlauf
 
@@ -37,7 +37,7 @@ xychart-beta
   y-axis "Elo Rating" 3100 --> 3600
   line "" [3168, 3185, 3290]
   line "STC (8.0+0.08s)" [3168, 3185, 3290]
-  line "LTC (60.0+0.60s)" [3410, 3414, 3486]
+  line "LTC (60.0+0.60s)" [3410, 3414, 3487]
   line "" [3447, 3465, 3530]
   line "VLTC (2m24s+1.12s)" [3447, 3465, 3530]
 ```
@@ -51,7 +51,7 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.7.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3530 | 29 | 270 | 51% | 3522 | 87% |
-| 3.7.0 | LTC <sub>(60.0+0.60s)</sub> | 3486 | 31 | 248 | 49% | 3491 | 81% |
+| 3.7.0 | LTC <sub>(60.0+0.60s)</sub> | 3487 | 31 | 252 | 49% | 3490 | 81% |
 | 3.7.0 | STC <sub>(8.0+0.08s)</sub> | 3290 | 32 | 240 | 50% | 3291 | 71% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3465 | 12 | 1674 | 50% | 3468 | 82% |
