@@ -8,8 +8,8 @@ Home: https://github.com/OmerFarukTutkun/Devre
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7.0 | 2026-08-07 | 3380<sub>(+185) | 3526<sub>(+120) | 3553<sub>(+110) |  |
-| 6.0 | 2024-08-10 | 3195 | 3406 | 3443 |  |
+| 7.0 | 2026-08-07 | 3380<sub>(+185) | 3526<sub>(+119) | 3553<sub>(+109) |  |
+| 6.0 | 2024-08-10 | 3195 | 3407 | 3444 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Devre+<version>&body=###%20Engine%20name%0ADevre%0A%0A###%20Version%0A7.0" target="_blank">Submit new version</a>
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-17 04:37:25
+Generated: 2026-09-18 04:37:42
 
 ## Ratings Verlauf
 
@@ -36,9 +36,9 @@ xychart-beta
   y-axis "Elo Rating" 3100 --> 3600
   line "" [3195, 3380]
   line "STC (8.0+0.08s)" [3195, 3380]
-  line "LTC (60.0+0.60s)" [3406, 3526]
-  line "" [3443, 3553]
-  line "VLTC (2m24s+1.12s)" [3443, 3553]
+  line "LTC (60.0+0.60s)" [3407, 3526]
+  line "" [3444, 3553]
+  line "VLTC (2m24s+1.12s)" [3444, 3553]
 ```
 
 
@@ -53,7 +53,7 @@ xychart-beta
 | 7.0 | LTC <sub>(60.0+0.60s)</sub> | 3526 | 26 | 346 | 51% | 3506 | 81% |
 | 7.0 | STC <sub>(8.0+0.08s)</sub> | 3380 | 26 | 378 | 54% | 3333 | 70% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3443 | 32 | 236 | 49% | 3449 | 75% |
-| 6.0 | LTC <sub>(60.0+0.60s)</sub> | 3406 | 30 | 274 | 50% | 3406 | 70% |
+| 6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3444 | 32 | 236 | 49% | 3449 | 75% |
+| 6.0 | LTC <sub>(60.0+0.60s)</sub> | 3407 | 30 | 278 | 50% | 3406 | 71% |
 | 6.0 | STC <sub>(8.0+0.08s)</sub> | 3195 | 32 | 256 | 49% | 3205 | 61% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
