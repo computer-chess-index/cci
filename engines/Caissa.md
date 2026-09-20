@@ -8,6 +8,7 @@ Home: https://github.com/Witek902/Caissa
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
+| 2.0 | 2026-09-19 |  |  |  |  |
 | 1.26 | 2026-08-09 | 3420<sub>(+34) | 3540<sub>(+2) | 3563<sub>(-2) |  |
 | 1.25 | 2026-04-05 | 3386<sub>(-9) | 3538<sub>(-6) | 3565<sub>(+5) |  |
 | 1.24 | 2025-12-03 | 3395<sub>(+1) | 3544<sub>(+15) | 3560<sub>(+3) |  |
@@ -17,7 +18,7 @@ Home: https://github.com/Witek902/Caissa
 | 1.20 | 2024-07-28 | 3363 | 3498 | 3555 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Caissa+<version>&body=###%20Engine%20name%0ACaissa%0A%0A###%20Version%0A1.26" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Caissa+<version>&body=###%20Engine%20name%0ACaissa%0A%0A###%20Version%0A2.0" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -30,7 +31,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-19 04:36:30
+Generated: 2026-09-20 04:36:28
 
 ## Ratings Verlauf
 
