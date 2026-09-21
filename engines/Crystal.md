@@ -8,7 +8,7 @@ Home: https://github.com/jhellis3/Stockfish
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9 | 2025-05-09 | 3434<sub>(+50) | 3571<sub>(+43) | 3595<sub>(+46) |  |
+| 9 | 2025-05-09 | 3434<sub>(+50) | 3571<sub>(+43) | 3596<sub>(+47) |  |
 | 5 | 2022-11-05 | 3384 | 3528 | 3549 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-20 04:37:21
+Generated: 2026-09-21 04:37:17
 
 ## Ratings Verlauf
 
@@ -37,8 +37,8 @@ xychart-beta
   line "" [3384, 3434]
   line "STC (8.0+0.08s)" [3384, 3434]
   line "LTC (60.0+0.60s)" [3528, 3571]
-  line "" [3549, 3595]
-  line "VLTC (2m24s+1.12s)" [3549, 3595]
+  line "" [3549, 3596]
+  line "VLTC (2m24s+1.12s)" [3549, 3596]
 ```
 
 
@@ -49,11 +49,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 9 | VLTC <sub>(2m24s+1.12s)</sub> | 3595 | 31 | 232 | 53% | 3579 | 90% |
-| 9 | LTC <sub>(60.0+0.60s)</sub> | 3571 | 20 | 562 | 51% | 3567 | 87% |
-| 9 | STC <sub>(8.0+0.08s)</sub> | 3434 | 18 | 762 | 51% | 3429 | 76% |
+| 9 | VLTC <sub>(2m24s+1.12s)</sub> | 3596 | 31 | 236 | 53% | 3579 | 89% |
+| 9 | LTC <sub>(60.0+0.60s)</sub> | 3571 | 20 | 566 | 51% | 3567 | 87% |
+| 9 | STC <sub>(8.0+0.08s)</sub> | 3434 | 18 | 766 | 51% | 3429 | 76% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 5 | VLTC <sub>(2m24s+1.12s)</sub> | 3549 | 27 | 320 | 55% | 3505 | 85% |
 | 5 | LTC <sub>(60.0+0.60s)</sub> | 3528 | 12 | 1640 | 50% | 3529 | 86% |
-| 5 | STC <sub>(8.0+0.08s)</sub> | 3384 | 12 | 1796 | 52% | 3374 | 73% |
+| 5 | STC <sub>(8.0+0.08s)</sub> | 3384 | 12 | 1796 | 52% | 3372 | 73% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
