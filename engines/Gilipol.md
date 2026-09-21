@@ -8,7 +8,7 @@ Home: https://github.com/Lacovipo/Gilipol
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.00 | 2026-06-06 | 2658<sub>(+112) | 3001<sub>(+134) | 3112<sub>(+103) |  |
+| 2.00 | 2026-06-06 | 2661<sub>(+115) | 3001<sub>(+134) | 3112<sub>(+103) |  |
 | 1.00netbin | 2026-04-13 | 2546<sub>(+2152) | 2867<sub>(+2412) | 3009<sub>(+2542) |  |
 | 1.00 | 2026-04-12 | 394 | 455 | 467 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-20 04:38:23
+Generated: 2026-09-21 04:38:21
 
 ## Ratings Verlauf
 
@@ -35,8 +35,8 @@ Generated: 2026-09-20 04:38:23
 xychart-beta
   x-axis ["1.00", "1.00netbin", "2.00"]
   y-axis "Elo Rating" 300 --> 3200
-  line "" [394, 2546, 2658]
-  line "STC (8.0+0.08s)" [394, 2546, 2658]
+  line "" [394, 2546, 2661]
+  line "STC (8.0+0.08s)" [394, 2546, 2661]
   line "LTC (60.0+0.60s)" [455, 2867, 3001]
   line "" [467, 3009, 3112]
   line "VLTC (2m24s+1.12s)" [467, 3009, 3112]
@@ -52,7 +52,7 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.00 | VLTC <sub>(2m24s+1.12s)</sub> | 3112 | 24 | 482 | 52% | 3089 | 54% |
 | 2.00 | LTC <sub>(60.0+0.60s)</sub> | 3001 | 26 | 428 | 52% | 2981 | 46% |
-| 2.00 | STC <sub>(8.0+0.08s)</sub> | 2658 | 28 | 424 | 50% | 2653 | 33% |
+| 2.00 | STC <sub>(8.0+0.08s)</sub> | 2661 | 27 | 428 | 51% | 2653 | 33% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.00netbin | VLTC <sub>(2m24s+1.12s)</sub> | 3009 | 28 | 426 | 57% | 2790 | 41% |
 | 1.00netbin | LTC <sub>(60.0+0.60s)</sub> | 2867 | 25 | 546 | 59% | 2689 | 39% |
