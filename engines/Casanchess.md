@@ -8,7 +8,7 @@ Home: https://github.com/casanche/casanchess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1.2 | 2026-09-06 | 2468<sub>(+18) | 2699<sub>(-82) | 2830<sub>(0) |  |
+| 1.1.2 | 2026-09-06 | 2465<sub>(+15) | 2701<sub>(-80) | 2830<sub>(0) |  |
 | 1.1 | 2026-08-15 | 2450<sub>(+105) | 2781<sub>(+151) | 2830<sub>(+89) |  |
 | 1.0 | 2026-07-14 | 2345 | 2630 | 2741 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-20 04:36:33
+Generated: 2026-09-21 04:36:29
 
 ## Ratings Verlauf
 
@@ -35,9 +35,9 @@ Generated: 2026-09-20 04:36:33
 xychart-beta
   x-axis ["1.0", "1.1", "1.1.2"]
   y-axis "Elo Rating" 2300 --> 2900
-  line "" [2345, 2450, 2468]
-  line "STC (8.0+0.08s)" [2345, 2450, 2468]
-  line "LTC (60.0+0.60s)" [2630, 2781, 2699]
+  line "" [2345, 2450, 2465]
+  line "STC (8.0+0.08s)" [2345, 2450, 2465]
+  line "LTC (60.0+0.60s)" [2630, 2781, 2701]
   line "" [2741, 2830, 2830]
   line "VLTC (2m24s+1.12s)" [2741, 2830, 2830]
 ```
@@ -51,8 +51,8 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.1.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2830 | 39 | 206 | 50% | 2828 | 39% |
-| 1.1.2 | LTC <sub>(60.0+0.60s)</sub> | 2699 | 35 | 240 | 49% | 2704 | 45% |
-| 1.1.2 | STC <sub>(8.0+0.08s)</sub> | 2468 | 37 | 228 | 51% | 2464 | 41% |
+| 1.1.2 | LTC <sub>(60.0+0.60s)</sub> | 2701 | 35 | 244 | 50% | 2705 | 46% |
+| 1.1.2 | STC <sub>(8.0+0.08s)</sub> | 2465 | 36 | 232 | 50% | 2465 | 41% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2830 | 34 | 256 | 51% | 2827 | 47% |
 | 1.1 | LTC <sub>(60.0+0.60s)</sub> | 2781 | 32 | 284 | 51% | 2768 | 49% |
