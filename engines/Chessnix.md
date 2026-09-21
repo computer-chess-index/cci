@@ -8,8 +8,8 @@ Home: https://github.com/ericlangedijk/chessnix/
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.4 | 2026-04-28 | 2881<sub>(+15) | 3143<sub>(+73) | 3236<sub>(+66) |  |
-| 1.3 | 2026-02-15 | 2866<sub>(+255) | 3070<sub>(+294) | 3170<sub>(+226) |  |
+| 1.4 | 2026-04-28 | 2881<sub>(+15) | 3143<sub>(+73) | 3236<sub>(+68) |  |
+| 1.3 | 2026-02-15 | 2866<sub>(+255) | 3070<sub>(+294) | 3168<sub>(+224) |  |
 | 1.2 | 2025-12-12 | 2611<sub>(+285) | 2776<sub>(+172) | 2944<sub>(+263) |  |
 | 1.0 | 2025-11-08 | 2326 | 2604 | 2681 | too many irregular games |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-20 04:36:58
+Generated: 2026-09-21 04:36:54
 
 ## Ratings Verlauf
 
@@ -39,8 +39,8 @@ xychart-beta
   line "" [2326, 2611, 2866, 2881]
   line "STC (8.0+0.08s)" [2326, 2611, 2866, 2881]
   line "LTC (60.0+0.60s)" [2604, 2776, 3070, 3143]
-  line "" [2681, 2944, 3170, 3236]
-  line "VLTC (2m24s+1.12s)" [2681, 2944, 3170, 3236]
+  line "" [2681, 2944, 3168, 3236]
+  line "VLTC (2m24s+1.12s)" [2681, 2944, 3168, 3236]
 ```
 
 
@@ -55,7 +55,7 @@ xychart-beta
 | 1.4 | LTC <sub>(60.0+0.60s)</sub> | 3143 | 43 | 164 | 51% | 3133 | 43% |
 | 1.4 | STC <sub>(8.0+0.08s)</sub> | 2881 | 44 | 156 | 49% | 2892 | 40% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.3 | VLTC <sub>(2m24s+1.12s)</sub> | 3170 | 100 | 26 | 56% | 3127 | 58% |
+| 1.3 | VLTC <sub>(2m24s+1.12s)</sub> | 3168 | 100 | 26 | 56% | 3127 | 58% |
 | 1.3 | LTC <sub>(60.0+0.60s)</sub> | 3070 | 75 | 52 | 46% | 3094 | 46% |
 | 1.3 | STC <sub>(8.0+0.08s)</sub> | 2866 | 123 | 22 | 52% | 2843 | 23% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
