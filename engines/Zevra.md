@@ -8,7 +8,7 @@ Home: https://github.com/sovaz1997/Zevra2
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.7 | 2026-08-30 | 2560<sub>(+338) | 2940<sub>(+445) | 3036<sub>(+471) |  |
+| 2.7 | 2026-08-30 | 2560<sub>(+338) | 2942<sub>(+447) | 3036<sub>(+471) |  |
 | 2.5 | 2021-09-20 | 2222 | 2495 | 2565 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-20 04:44:37
+Generated: 2026-09-21 04:43:57
 
 ## Ratings Verlauf
 
@@ -36,7 +36,7 @@ xychart-beta
   y-axis "Elo Rating" 2200 --> 3100
   line "" [2222, 2560]
   line "STC (8.0+0.08s)" [2222, 2560]
-  line "LTC (60.0+0.60s)" [2495, 2940]
+  line "LTC (60.0+0.60s)" [2495, 2942]
   line "" [2565, 3036]
   line "VLTC (2m24s+1.12s)" [2565, 3036]
 ```
@@ -50,7 +50,7 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.7 | VLTC <sub>(2m24s+1.12s)</sub> | 3036 | 31 | 292 | 50% | 3031 | 54% |
-| 2.7 | LTC <sub>(60.0+0.60s)</sub> | 2940 | 33 | 280 | 54% | 2907 | 41% |
+| 2.7 | LTC <sub>(60.0+0.60s)</sub> | 2942 | 33 | 284 | 54% | 2908 | 42% |
 | 2.7 | STC <sub>(8.0+0.08s)</sub> | 2560 | 36 | 256 | 51% | 2554 | 31% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.5 | VLTC <sub>(2m24s+1.12s)</sub> | 2565 | 33 | 316 | 52% | 2522 | 29% |
