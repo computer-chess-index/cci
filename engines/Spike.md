@@ -8,7 +8,7 @@ Home: https://github.com/Mangar2/Spike
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.4.2 | 2026-08-28 | 2398<sub>(+54) | 2719<sub>(-17) | 2831<sub>(+4) |  |
+| 1.4.2 | 2026-08-28 | 2402<sub>(+58) | 2716<sub>(-20) | 2831<sub>(+4) |  |
 | 1.4 | 2011-02-01 | 2344 | 2736 | 2827 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-20 04:42:20
+Generated: 2026-09-21 04:42:28
 
 ## Ratings Verlauf
 
@@ -34,9 +34,9 @@ Generated: 2026-09-20 04:42:20
 xychart-beta
   x-axis ["1.4", "1.4.2"]
   y-axis "Elo Rating" 2300 --> 2900
-  line "" [2344, 2398]
-  line "STC (8.0+0.08s)" [2344, 2398]
-  line "LTC (60.0+0.60s)" [2736, 2719]
+  line "" [2344, 2402]
+  line "STC (8.0+0.08s)" [2344, 2402]
+  line "LTC (60.0+0.60s)" [2736, 2716]
   line "" [2827, 2831]
   line "VLTC (2m24s+1.12s)" [2827, 2831]
 ```
@@ -50,10 +50,10 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.4.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2831 | 37 | 234 | 50% | 2835 | 35% |
-| 1.4.2 | LTC <sub>(60.0+0.60s)</sub> | 2719 | 35 | 274 | 51% | 2714 | 28% |
-| 1.4.2 | STC <sub>(8.0+0.08s)</sub> | 2398 | 36 | 256 | 51% | 2391 | 32% |
+| 1.4.2 | LTC <sub>(60.0+0.60s)</sub> | 2716 | 35 | 278 | 50% | 2714 | 29% |
+| 1.4.2 | STC <sub>(8.0+0.08s)</sub> | 2402 | 35 | 264 | 51% | 2390 | 31% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.4 | VLTC <sub>(2m24s+1.12s)</sub> | 2827 | 45 | 164 | 51% | 2826 | 32% |
-| 1.4 | LTC <sub>(60.0+0.60s)</sub> | 2736 | 48 | 144 | 50% | 2735 | 27% |
+| 1.4 | LTC <sub>(60.0+0.60s)</sub> | 2736 | 48 | 144 | 50% | 2734 | 27% |
 | 1.4 | STC <sub>(8.0+0.08s)</sub> | 2344 | 32 | 404 | 45% | 2412 | 23% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
