@@ -8,8 +8,8 @@ Home: https://github.com/nbqofficial/viking
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| R5 | 2026-04-27 | 1925<sub>(+576) | 2188<sub>(+356) | 2350<sub>(+229) |  |
-| R4 | 2026-04-22 | 1349<sub>(+new) | 1832<sub>(+new) | 2121<sub>(+new) |  |
+| R5 | 2026-04-27 | 1925<sub>(+576) | 2188<sub>(+356) | 2350<sub>(+230) |  |
+| R4 | 2026-04-22 | 1349<sub>(+new) | 1832<sub>(+new) | 2120<sub>(+new) |  |
 | R3 | 2026-04-22 |  |  |  |  |
 | R2 | 2025-09-25 |  |  |  |  |
 | R1 | 2025-09-24 |  |  |  |  |
@@ -28,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-20 04:44:06
+Generated: 2026-09-21 04:43:25
 
 ## Ratings Verlauf
 
@@ -40,8 +40,8 @@ xychart-beta
   line "" [1349, 1925]
   line "STC (8.0+0.08s)" [1349, 1925]
   line "LTC (60.0+0.60s)" [1832, 2188]
-  line "" [2121, 2350]
-  line "VLTC (2m24s+1.12s)" [2121, 2350]
+  line "" [2120, 2350]
+  line "VLTC (2m24s+1.12s)" [2120, 2350]
 ```
 
 
@@ -56,7 +56,7 @@ xychart-beta
 | R5 | LTC <sub>(60.0+0.60s)</sub> | 2188 | 28 | 450 | 51% | 2169 | 29% |
 | R5 | STC <sub>(8.0+0.08s)</sub> | 1925 | 26 | 542 | 50% | 1931 | 20% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| R4 | VLTC <sub>(2m24s+1.12s)</sub> | 2121 | 31 | 372 | 41% | 2232 | 28% |
+| R4 | VLTC <sub>(2m24s+1.12s)</sub> | 2120 | 31 | 372 | 41% | 2232 | 28% |
 | R4 | LTC <sub>(60.0+0.60s)</sub> | 1832 | 36 | 298 | 46% | 1901 | 23% |
 | R4 | STC <sub>(8.0+0.08s)</sub> | 1349 | 38 | 288 | 47% | 1412 | 19% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
