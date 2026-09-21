@@ -9,8 +9,8 @@ Home: https://github.com/elcabesa/vajolet
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 3.2 | 2026-05-17 | 2859<sub>(+27) | 3132<sub>(+77) | 3181<sub>(+46) |  |
-| 3.1 | 2026-04-03 | 2832<sub>(+100) | 3055<sub>(+58) | 3135<sub>(+62) |  |
-| 3.0 | 2025-12-21 | 2732 | 2997 | 3073 |  |
+| 3.1 | 2026-04-03 | 2832<sub>(+100) | 3055<sub>(+58) | 3135<sub>(+64) |  |
+| 3.0 | 2025-12-21 | 2732 | 2997 | 3071 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Vajolet2+<version>&body=###%20Engine%20name%0AVajolet2%0A%0A###%20Version%0A3.2" target="_blank">Submit new version</a>
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-20 04:44:01
+Generated: 2026-09-21 04:43:20
 
 ## Ratings Verlauf
 
@@ -38,8 +38,8 @@ xychart-beta
   line "" [2732, 2832, 2859]
   line "STC (8.0+0.08s)" [2732, 2832, 2859]
   line "LTC (60.0+0.60s)" [2997, 3055, 3132]
-  line "" [3073, 3135, 3181]
-  line "VLTC (2m24s+1.12s)" [3073, 3135, 3181]
+  line "" [3071, 3135, 3181]
+  line "VLTC (2m24s+1.12s)" [3071, 3135, 3181]
 ```
 
 
@@ -58,7 +58,7 @@ xychart-beta
 | 3.1 | LTC <sub>(60.0+0.60s)</sub> | 3055 | 27 | 406 | 50% | 3052 | 43% |
 | 3.1 | STC <sub>(8.0+0.08s)</sub> | 2832 | 28 | 384 | 50% | 2828 | 41% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3073 | 31 | 318 | 52% | 3054 | 46% |
+| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3071 | 31 | 318 | 52% | 3054 | 46% |
 | 3.0 | LTC <sub>(60.0+0.60s)</sub> | 2997 | 29 | 344 | 52% | 2975 | 44% |
 | 3.0 | STC <sub>(8.0+0.08s)</sub> | 2732 | 29 | 386 | 52% | 2701 | 37% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
