@@ -8,7 +8,7 @@ Home: https://github.com/FitzOReilly/fatalii
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.10.1 | 2026-05-11 | 2277<sub>(0) | 2516<sub>(-27) | 2606<sub>(-1) |  |
+| 0.10.1 | 2026-05-11 | 2280<sub>(+3) | 2516<sub>(-27) | 2606<sub>(-1) |  |
 | 0.10.0 | 2026-03-09 | 2277 | 2543 | 2607 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-20 04:38:03
+Generated: 2026-09-21 04:38:00
 
 ## Ratings Verlauf
 
@@ -34,8 +34,8 @@ Generated: 2026-09-20 04:38:03
 xychart-beta
   x-axis ["0.10.0", "0.10.1"]
   y-axis "Elo Rating" 2200 --> 2700
-  line "" [2277, 2277]
-  line "STC (8.0+0.08s)" [2277, 2277]
+  line "" [2277, 2280]
+  line "STC (8.0+0.08s)" [2277, 2280]
   line "LTC (60.0+0.60s)" [2543, 2516]
   line "" [2607, 2606]
   line "VLTC (2m24s+1.12s)" [2607, 2606]
@@ -51,7 +51,7 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.10.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2606 | 26 | 490 | 50% | 2604 | 27% |
 | 0.10.1 | LTC <sub>(60.0+0.60s)</sub> | 2516 | 27 | 448 | 50% | 2519 | 31% |
-| 0.10.1 | STC <sub>(8.0+0.08s)</sub> | 2277 | 28 | 434 | 49% | 2290 | 27% |
+| 0.10.1 | STC <sub>(8.0+0.08s)</sub> | 2280 | 28 | 438 | 49% | 2290 | 27% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.10.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2607 | 29 | 424 | 48% | 2631 | 25% |
 | 0.10.0 | LTC <sub>(60.0+0.60s)</sub> | 2543 | 28 | 454 | 51% | 2539 | 25% |
