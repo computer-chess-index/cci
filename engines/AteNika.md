@@ -8,12 +8,13 @@ Home: https://github.com/LesterEvSe/AteNika
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
+| 0.7.0 | 2026-09-20 |  |  |  |  |
 | 0.6.0 | 2026-09-13 | 2674<sub>(+634) | 3006<sub>(+689) | 3078<sub>(+728) |  |
 | 0.5.0 | 2026-09-02 | 2040<sub>(+142) | 2317<sub>(+187) | 2350<sub>(+125) |  |
 | 0.4.0 | 2026-08-30 | 1898 | 2130 | 2225 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+AteNika+<version>&body=###%20Engine%20name%0AAteNika%0A%0A###%20Version%0A0.6.0" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+AteNika+<version>&body=###%20Engine%20name%0AAteNika%0A%0A###%20Version%0A0.7.0" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -26,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-21 04:36:01
+Generated: 2026-09-22 04:36:03
 
 ## Ratings Verlauf
 
