@@ -8,8 +8,8 @@ Home: https://github.com/CJDalrymple/Yakka
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.5 | 2026-01-22 | 2763<sub>(+109) | 3029<sub>(+106) | 3108<sub>(+145) |  |
-| 1.4 | 2025-11-11 | 2654 | 2923 | 2963 |  |
+| 1.5 | 2026-01-22 | 2763<sub>(+109) | 3029<sub>(+106) | 3108<sub>(+146) |  |
+| 1.4 | 2025-11-11 | 2654 | 2923 | 2962 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Yakka+<version>&body=###%20Engine%20name%0AYakka%0A%0A###%20Version%0A1.5" target="_blank">Submit new version</a>
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-22 04:43:42
+Generated: 2026-09-23 04:43:55
 
 ## Ratings Verlauf
 
@@ -37,8 +37,8 @@ xychart-beta
   line "" [2654, 2763]
   line "STC (8.0+0.08s)" [2654, 2763]
   line "LTC (60.0+0.60s)" [2923, 3029]
-  line "" [2963, 3108]
-  line "VLTC (2m24s+1.12s)" [2963, 3108]
+  line "" [2962, 3108]
+  line "VLTC (2m24s+1.12s)" [2962, 3108]
 ```
 
 
@@ -53,7 +53,7 @@ xychart-beta
 | 1.5 | LTC <sub>(60.0+0.60s)</sub> | 3029 | 24 | 466 | 48% | 3047 | 54% |
 | 1.5 | STC <sub>(8.0+0.08s)</sub> | 2763 | 22 | 626 | 50% | 2761 | 40% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.4 | VLTC <sub>(2m24s+1.12s)</sub> | 2963 | 34 | 260 | 52% | 2946 | 48% |
+| 1.4 | VLTC <sub>(2m24s+1.12s)</sub> | 2962 | 34 | 260 | 52% | 2946 | 48% |
 | 1.4 | LTC <sub>(60.0+0.60s)</sub> | 2923 | 30 | 336 | 56% | 2865 | 42% |
 | 1.4 | STC <sub>(8.0+0.08s)</sub> | 2654 | 36 | 264 | 53% | 2616 | 32% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
