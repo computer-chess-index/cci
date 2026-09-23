@@ -9,7 +9,7 @@ Home: https://github.com/ATheofanis/aspen-chess
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 2.3.0 | 2026-05-23 |  |  |  |  |
-| 2.2.0 | 2026-05-22 | 2708<sub>(+21) | 3081<sub>(+88) | 3116<sub>(+37) |  |
+| 2.2.0 | 2026-05-22 | 2712<sub>(+25) | 3081<sub>(+88) | 3114<sub>(+35) |  |
 | 2.1.0 | 2026-05-21 | 2687<sub>(+new) | 2993<sub>(+new) | 3079<sub>(+new) |  |
 | 2.0.0 | 2026-05-21 |  |  |  |  |
 | 1.3.0 | 2026-05-20 | 2363<sub>(+169) | 2703<sub>(+52) | 2847<sub>(+155) |  |
@@ -36,7 +36,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-22 04:35:58
+Generated: 2026-09-23 04:36:03
 
 ## Ratings Verlauf
 
@@ -45,11 +45,11 @@ Generated: 2026-09-22 04:35:58
 xychart-beta
   x-axis ["1.3.0", "1.2.3", "2.1.0", "2.2.0"]
   y-axis "Elo Rating" 2100 --> 3200
-  line "" [2363, 2194, 2687, 2708]
-  line "STC (8.0+0.08s)" [2363, 2194, 2687, 2708]
+  line "" [2363, 2194, 2687, 2712]
+  line "STC (8.0+0.08s)" [2363, 2194, 2687, 2712]
   line "LTC (60.0+0.60s)" [2703, 2651, 2993, 3081]
-  line "" [2847, 2692, 3079, 3116]
-  line "VLTC (2m24s+1.12s)" [2847, 2692, 3079, 3116]
+  line "" [2847, 2692, 3079, 3114]
+  line "VLTC (2m24s+1.12s)" [2847, 2692, 3079, 3114]
 ```
 
 
@@ -60,9 +60,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3116 | 32 | 274 | 49% | 3124 | 57% |
+| 2.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3114 | 32 | 274 | 49% | 3124 | 57% |
 | 2.2.0 | LTC <sub>(60.0+0.60s)</sub> | 3081 | 31 | 274 | 49% | 3086 | 59% |
-| 2.2.0 | STC <sub>(8.0+0.08s)</sub> | 2708 | 29 | 366 | 51% | 2704 | 40% |
+| 2.2.0 | STC <sub>(8.0+0.08s)</sub> | 2712 | 29 | 370 | 51% | 2704 | 40% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3079 | 31 | 318 | 52% | 3066 | 45% |
 | 2.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2993 | 28 | 382 | 51% | 2985 | 47% |
