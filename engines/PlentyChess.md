@@ -13,8 +13,8 @@ Home: https://github.com/Yoshie2000/PlentyChess
 | 6.0.2 | 2025-06-06 |  |  | 3563<sub>(0) |  |
 | 5.0.0 | 2025-03-23 | 3371<sub>(+5) | 3538<sub>(+new) | 3563<sub>(+25) |  |
 | 4.0.1 | 2025-01-18 | 3366<sub>(+67) |  | 3538<sub>(+5) |  |
-| 3.0.1 | 2024-11-22 | 3299<sub>(-31) | 3443<sub>(-32) | 3533<sub>(+22) |  |
-| 2.1.0 | 2024-07-02 | 3330 | 3475 | 3511 |  |
+| 3.0.1 | 2024-11-22 | 3299<sub>(-30) | 3443<sub>(-32) | 3533<sub>(+22) |  |
+| 2.1.0 | 2024-07-02 | 3329 | 3475 | 3511 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+PlentyChess+<version>&body=###%20Engine%20name%0APlentyChess%0A%0A###%20Version%0A8.0.0" target="_blank">Submit new version</a>
@@ -30,7 +30,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-22 04:40:43
+Generated: 2026-09-23 04:40:49
 
 ## Ratings Verlauf
 
@@ -39,8 +39,8 @@ Generated: 2026-09-22 04:40:43
 xychart-beta
   x-axis ["2.1.0", "3.0.1", "5.0.0", "7.0.0", "8.0.0"]
   y-axis "Elo Rating" 3200 --> 3600
-  line "" [3330, 3299, 3371, 3444, 3471]
-  line "STC (8.0+0.08s)" [3330, 3299, 3371, 3444, 3471]
+  line "" [3329, 3299, 3371, 3444, 3471]
+  line "STC (8.0+0.08s)" [3329, 3299, 3371, 3444, 3471]
   line "LTC (60.0+0.60s)" [3475, 3443, 3538, 3571, 3578]
   line "" [3511, 3533, 3563, 3569, 3595]
   line "VLTC (2m24s+1.12s)" [3511, 3533, 3563, 3569, 3595]
@@ -76,5 +76,5 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3511 | 23 | 460 | 52% | 3497 | 85% |
 | 2.1.0 | LTC <sub>(60.0+0.60s)</sub> | 3475 | 63 | 64 | 63% | 3372 | 67% |
-| 2.1.0 | STC <sub>(8.0+0.08s)</sub> | 3330 | 98 | 92 | 92% | 2527 | 15% |
+| 2.1.0 | STC <sub>(8.0+0.08s)</sub> | 3329 | 98 | 92 | 92% | 2527 | 15% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
