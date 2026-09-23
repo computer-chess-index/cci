@@ -11,8 +11,8 @@ Home: https://github.com/Carbecq/Zangdar
 | 7 | 2026-07-13 | 3309<sub>(+103) | 3468<sub>(+85) | 3505<sub>(+96) |  |
 | 6.1.1 | 2026-02-25 | 3206<sub>(+55) | 3383<sub>(+5) | 3409<sub>(-31) |  |
 | 6.1 | 2026-02-10 | 3151<sub>(+1) | 3378<sub>(+18) | 3440<sub>(+27) |  |
-| 6 | 2026-02-07 | 3150<sub>(+11) | 3360<sub>(+5) | 3413<sub>(+15) |  |
-| 5.00.02 | 2025-09-24 | 3139 | 3355 | 3398 |  |
+| 6 | 2026-02-07 | 3150<sub>(+13) | 3360<sub>(+5) | 3413<sub>(+15) |  |
+| 5.00.02 | 2025-09-24 | 3137 | 3355 | 3398 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Zangdar+<version>&body=###%20Engine%20name%0AZangdar%0A%0A###%20Version%0A7" target="_blank">Submit new version</a>
@@ -28,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-22 04:43:48
+Generated: 2026-09-23 04:44:02
 
 ## Ratings Verlauf
 
@@ -37,8 +37,8 @@ Generated: 2026-09-22 04:43:48
 xychart-beta
   x-axis ["5.00.02", "6", "6.1", "6.1.1", "7"]
   y-axis "Elo Rating" 3100 --> 3600
-  line "" [3139, 3150, 3151, 3206, 3309]
-  line "STC (8.0+0.08s)" [3139, 3150, 3151, 3206, 3309]
+  line "" [3137, 3150, 3151, 3206, 3309]
+  line "STC (8.0+0.08s)" [3137, 3150, 3151, 3206, 3309]
   line "LTC (60.0+0.60s)" [3355, 3360, 3378, 3383, 3468]
   line "" [3398, 3413, 3440, 3409, 3505]
   line "VLTC (2m24s+1.12s)" [3398, 3413, 3440, 3409, 3505]
@@ -70,5 +70,5 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 5.00.02 | VLTC <sub>(2m24s+1.12s)</sub> | 3398 | 27 | 356 | 54% | 3360 | 74% |
 | 5.00.02 | LTC <sub>(60.0+0.60s)</sub> | 3355 | 31 | 272 | 51% | 3335 | 71% |
-| 5.00.02 | STC <sub>(8.0+0.08s)</sub> | 3139 | 32 | 280 | 55% | 3081 | 59% |
+| 5.00.02 | STC <sub>(8.0+0.08s)</sub> | 3137 | 32 | 280 | 55% | 3081 | 59% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
