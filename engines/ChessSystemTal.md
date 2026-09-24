@@ -8,7 +8,7 @@ Home:
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| Extreme | 2026-01-07 | 2931 | 3174 | 3232 |  |
+| Extreme | 2026-01-07 | 2934 | 3177 | 3235 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+ChessSystemTal+<version>&body=###%20Engine%20name%0AChessSystemTal%0A%0A###%20Version%0AExtreme" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-23 04:37:05
+Generated: 2026-09-24 04:37:07
 
 
 
@@ -32,7 +32,7 @@ Generated: 2026-09-23 04:37:05
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Extreme | VLTC <sub>(2m24s+1.12s)</sub> | 3232 | 24 | 506 | 51% | 3220 | 44% |
-| Extreme | LTC <sub>(60.0+0.60s)</sub> | 3174 | 24 | 524 | 51% | 3162 | 41% |
-| Extreme | STC <sub>(8.0+0.08s)</sub> | 2931 | 21 | 768 | 49% | 2938 | 33% |
+| Extreme | VLTC <sub>(2m24s+1.12s)</sub> | 3235 | 24 | 506 | 51% | 3222 | 44% |
+| Extreme | LTC <sub>(60.0+0.60s)</sub> | 3177 | 24 | 524 | 51% | 3164 | 41% |
+| Extreme | STC <sub>(8.0+0.08s)</sub> | 2934 | 21 | 772 | 49% | 2940 | 33% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
