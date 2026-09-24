@@ -8,7 +8,7 @@ Home: https://github.com/KristianEkman/ZeroG
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.2 | 2026-07-14 | 2186<sub>(+new) | 2491<sub>(+new) | 2584<sub>(+new) |  |
+| 1.0.2 | 2026-07-14 | 2188<sub>(+new) | 2493<sub>(+new) | 2587<sub>(+new) |  |
 | 1.0.0 | 2026-06-27 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-23 04:44:12
+Generated: 2026-09-24 04:44:08
 
 
 
@@ -33,7 +33,7 @@ Generated: 2026-09-23 04:44:12
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2584 | 39 | 214 | 52% | 2562 | 32% |
-| 1.0.2 | LTC <sub>(60.0+0.60s)</sub> | 2491 | 39 | 230 | 54% | 2417 | 31% |
-| 1.0.2 | STC <sub>(8.0+0.08s)</sub> | 2186 | 44 | 180 | 55% | 2105 | 26% |
+| 1.0.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2587 | 39 | 214 | 52% | 2565 | 32% |
+| 1.0.2 | LTC <sub>(60.0+0.60s)</sub> | 2493 | 39 | 230 | 54% | 2419 | 31% |
+| 1.0.2 | STC <sub>(8.0+0.08s)</sub> | 2188 | 44 | 180 | 55% | 2107 | 26% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
