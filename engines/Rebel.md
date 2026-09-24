@@ -8,7 +8,7 @@ Home:
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 16.2 | 2024-03-11 | 3209 | 3420 | 3464 |  |
+| 16.2 | 2024-03-11 | 3212 | 3422 | 3467 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Rebel+<version>&body=###%20Engine%20name%0ARebel%0A%0A###%20Version%0A16.2" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-23 04:41:32
+Generated: 2026-09-24 04:41:32
 
 
 
@@ -32,7 +32,7 @@ Generated: 2026-09-23 04:41:32
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 16.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3464 | 11 | 1990 | 50% | 3463 | 83% |
-| 16.2 | LTC <sub>(60.0+0.60s)</sub> | 3420 | 11 | 2000 | 51% | 3414 | 77% |
-| 16.2 | STC <sub>(8.0+0.08s)</sub> | 3209 | 11 | 2262 | 52% | 3179 | 61% |
+| 16.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3467 | 11 | 1990 | 50% | 3465 | 83% |
+| 16.2 | LTC <sub>(60.0+0.60s)</sub> | 3422 | 11 | 2000 | 51% | 3417 | 77% |
+| 16.2 | STC <sub>(8.0+0.08s)</sub> | 3212 | 11 | 2262 | 52% | 3182 | 61% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
