@@ -8,7 +8,7 @@ Home:
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.1 | 2021-04-01 | 2955 | 3229 | 3295 |  |
+| 3.1 | 2021-04-01 | 2958 | 3232 | 3298 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Pedone+<version>&body=###%20Engine%20name%0APedone%0A%0A###%20Version%0A3.1" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-23 04:40:45
+Generated: 2026-09-24 04:40:45
 
 
 
@@ -32,7 +32,7 @@ Generated: 2026-09-23 04:40:45
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3295 | 11 | 2020 | 51% | 3290 | 64% |
-| 3.1 | LTC <sub>(60.0+0.60s)</sub> | 3229 | 12 | 1832 | 51% | 3225 | 60% |
-| 3.1 | STC <sub>(8.0+0.08s)</sub> | 2955 | 12 | 2046 | 50% | 2944 | 46% |
+| 3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3298 | 11 | 2020 | 51% | 3293 | 64% |
+| 3.1 | LTC <sub>(60.0+0.60s)</sub> | 3232 | 12 | 1832 | 51% | 3228 | 60% |
+| 3.1 | STC <sub>(8.0+0.08s)</sub> | 2958 | 12 | 2050 | 50% | 2947 | 46% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
