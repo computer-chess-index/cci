@@ -8,9 +8,9 @@ Home: https://github.com/kelseyde/hobbes-chess-engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0 | 2026-07-22 | 3424<sub>(+14) | 3559<sub>(+18) | 3584<sub>(+32) |  |
-| 2.1 | 2026-05-26 | 3410<sub>(+30) | 3541<sub>(+27) | 3552<sub>(+24) |  |
-| 1.0 | 2026-03-05 | 3380 | 3514 | 3528 |  |
+| 3.0 | 2026-07-22 | 3424<sub>(+14) | 3559<sub>(+18) | 3586<sub>(+34) |  |
+| 2.1 | 2026-05-26 | 3410<sub>(+30) | 3541<sub>(+27) | 3552<sub>(+23) |  |
+| 1.0 | 2026-03-05 | 3380 | 3514 | 3529 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Hobbes+<version>&body=###%20Engine%20name%0AHobbes%0A%0A###%20Version%0A3.0" target="_blank">Submit new version</a>
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-24 04:38:49
+Generated: 2026-09-25 04:39:06
 
 ## Ratings Verlauf
 
@@ -38,8 +38,8 @@ xychart-beta
   line "" [3380, 3410, 3424]
   line "STC (8.0+0.08s)" [3380, 3410, 3424]
   line "LTC (60.0+0.60s)" [3514, 3541, 3559]
-  line "" [3528, 3552, 3584]
-  line "VLTC (2m24s+1.12s)" [3528, 3552, 3584]
+  line "" [3529, 3552, 3586]
+  line "VLTC (2m24s+1.12s)" [3529, 3552, 3586]
 ```
 
 
@@ -50,7 +50,7 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3584 | 29 | 278 | 51% | 3575 | 88% |
+| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3586 | 29 | 278 | 51% | 3575 | 88% |
 | 3.0 | LTC <sub>(60.0+0.60s)</sub> | 3559 | 26 | 342 | 50% | 3556 | 90% |
 | 3.0 | STC <sub>(8.0+0.08s)</sub> | 3424 | 27 | 346 | 49% | 3430 | 76% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -58,7 +58,7 @@ xychart-beta
 | 2.1 | LTC <sub>(60.0+0.60s)</sub> | 3541 | 30 | 260 | 52% | 3528 | 88% |
 | 2.1 | STC <sub>(8.0+0.08s)</sub> | 3410 | 28 | 296 | 52% | 3398 | 80% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3528 | 25 | 378 | 51% | 3518 | 90% |
+| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3529 | 25 | 378 | 51% | 3519 | 90% |
 | 1.0 | LTC <sub>(60.0+0.60s)</sub> | 3514 | 26 | 350 | 51% | 3503 | 87% |
 | 1.0 | STC <sub>(8.0+0.08s)</sub> | 3380 | 23 | 484 | 53% | 3351 | 73% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
