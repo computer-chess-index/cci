@@ -8,7 +8,7 @@ Home: https://github.com/3583Bytes/ChessCore
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.2.0 | 2026-06-24 | 1427<sub>(+711) | 1814<sub>(+757) | 1881<sub>(+798) |  |
+| 1.2.0 | 2026-06-24 | 1427<sub>(+711) | 1816<sub>(+759) | 1881<sub>(+798) |  |
 | 1.1.5 | 2026-05-25 | 716<sub>(+22) | 1057<sub>(+397) | 1083<sub>(+385) |  |
 | 1.1.4 | 2026-05-21 | 694<sub>(+19) | 660<sub>(-335) | 698<sub>(-296) |  |
 | 1.1.2 | 2026-05-19 | 675<sub>(-22) | 995<sub>(+4) | 994<sub>(-140) |  |
@@ -29,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-24 04:37:02
+Generated: 2026-09-25 04:37:07
 
 ## Ratings Verlauf
 
@@ -40,7 +40,7 @@ xychart-beta
   y-axis "Elo Rating" 600 --> 1900
   line "" [697, 675, 694, 716, 1427]
   line "STC (8.0+0.08s)" [697, 675, 694, 716, 1427]
-  line "LTC (60.0+0.60s)" [991, 995, 660, 1057, 1814]
+  line "LTC (60.0+0.60s)" [991, 995, 660, 1057, 1816]
   line "" [1134, 994, 698, 1083, 1881]
   line "VLTC (2m24s+1.12s)" [1134, 994, 698, 1083, 1881]
 ```
@@ -54,7 +54,7 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1881 | 33 | 290 | 55% | 1821 | 40% |
-| 1.2.0 | LTC <sub>(60.0+0.60s)</sub> | 1814 | 31 | 338 | 54% | 1763 | 36% |
+| 1.2.0 | LTC <sub>(60.0+0.60s)</sub> | 1816 | 31 | 338 | 54% | 1763 | 36% |
 | 1.2.0 | STC <sub>(8.0+0.08s)</sub> | 1427 | 31 | 360 | 54% | 1380 | 30% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.1.5 | VLTC <sub>(2m24s+1.12s)</sub> | 1083 | 60 | 102 | 49% | 1098 | 17% |
