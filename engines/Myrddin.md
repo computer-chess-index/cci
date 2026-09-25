@@ -8,7 +8,7 @@ Home: https://github.com/JVMerlino/Myrddin
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.96 | 2026-06-08 | 2754<sub>(+120) | 3067<sub>(+117) | 3125<sub>(+96) |  |
+| 0.96 | 2026-06-08 | 2754<sub>(+120) | 3067<sub>(+117) | 3127<sub>(+98) |  |
 | 0.95 | 2026-04-23 | 2634<sub>(+34) | 2950<sub>(+14) | 3029<sub>(-36) |  |
 | 0.94 | 2025-12-11 | 2600 | 2936 | 3065 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-24 04:40:10
+Generated: 2026-09-25 04:40:25
 
 ## Ratings Verlauf
 
@@ -38,8 +38,8 @@ xychart-beta
   line "" [2600, 2634, 2754]
   line "STC (8.0+0.08s)" [2600, 2634, 2754]
   line "LTC (60.0+0.60s)" [2936, 2950, 3067]
-  line "" [3065, 3029, 3125]
-  line "VLTC (2m24s+1.12s)" [3065, 3029, 3125]
+  line "" [3065, 3029, 3127]
+  line "VLTC (2m24s+1.12s)" [3065, 3029, 3127]
 ```
 
 
@@ -50,7 +50,7 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.96 | VLTC <sub>(2m24s+1.12s)</sub> | 3125 | 27 | 374 | 50% | 3127 | 54% |
+| 0.96 | VLTC <sub>(2m24s+1.12s)</sub> | 3127 | 27 | 374 | 50% | 3127 | 54% |
 | 0.96 | LTC <sub>(60.0+0.60s)</sub> | 3067 | 27 | 386 | 50% | 3066 | 48% |
 | 0.96 | STC <sub>(8.0+0.08s)</sub> | 2754 | 28 | 410 | 49% | 2765 | 35% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
