@@ -8,7 +8,7 @@ Home: https://github.com/nescitus/publius
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1 | 2025-12-31 | 2471<sub>(-371) | 2758<sub>(-356) | 2827<sub>(-313) |  |
+| 1.1 | 2025-12-31 | 2471<sub>(-371) | 2758<sub>(-356) | 2826<sub>(-314) |  |
 | 1.0 | 2025-10-19 | 2842 | 3114 | 3140 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-24 04:41:14
+Generated: 2026-09-25 04:41:28
 
 ## Ratings Verlauf
 
@@ -37,8 +37,8 @@ xychart-beta
   line "" [2842, 2471]
   line "STC (8.0+0.08s)" [2842, 2471]
   line "LTC (60.0+0.60s)" [3114, 2758]
-  line "" [3140, 2827]
-  line "VLTC (2m24s+1.12s)" [3140, 2827]
+  line "" [3140, 2826]
+  line "VLTC (2m24s+1.12s)" [3140, 2826]
 ```
 
 
@@ -49,7 +49,7 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2827 | 24 | 544 | 47% | 2850 | 37% |
+| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2826 | 24 | 548 | 47% | 2850 | 36% |
 | 1.1 | LTC <sub>(60.0+0.60s)</sub> | 2758 | 25 | 520 | 50% | 2758 | 35% |
 | 1.1 | STC <sub>(8.0+0.08s)</sub> | 2471 | 22 | 694 | 49% | 2471 | 29% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
