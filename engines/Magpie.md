@@ -8,7 +8,7 @@ Home: https://github.com/mrgwbland/Magpie
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.3 | 2026-08-12 | 582<sub>(+161) | 585<sub>(+146) | 576<sub>(+128) |  |
+| 0.3 | 2026-08-12 | 582<sub>(+161) | 585<sub>(+146) | 575<sub>(+127) |  |
 | 0.2 | 2026-08-07 | 421 | 439 | 448 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-24 04:39:50
+Generated: 2026-09-25 04:40:04
 
 ## Ratings Verlauf
 
@@ -37,8 +37,8 @@ xychart-beta
   line "" [421, 582]
   line "STC (8.0+0.08s)" [421, 582]
   line "LTC (60.0+0.60s)" [439, 585]
-  line "" [448, 576]
-  line "VLTC (2m24s+1.12s)" [448, 576]
+  line "" [448, 575]
+  line "VLTC (2m24s+1.12s)" [448, 575]
 ```
 
 
@@ -49,7 +49,7 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.3 | VLTC <sub>(2m24s+1.12s)</sub> | 576 | 44 | 200 | 49% | 590 | 22% |
+| 0.3 | VLTC <sub>(2m24s+1.12s)</sub> | 575 | 44 | 200 | 49% | 589 | 22% |
 | 0.3 | LTC <sub>(60.0+0.60s)</sub> | 585 | 44 | 204 | 50% | 575 | 25% |
 | 0.3 | STC <sub>(8.0+0.08s)</sub> | 582 | 44 | 216 | 46% | 652 | 16% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
