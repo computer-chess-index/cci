@@ -8,7 +8,7 @@ Home: https://github.com/LeelaChessZero/lc0
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.32.1 | 2025-11-23 | 2407<sub>(+24) | 3012<sub>(+10) | 3178<sub>(-59) |  |
+| 0.32.1 | 2025-11-23 | 2406<sub>(+23) | 3012<sub>(+10) | 3178<sub>(-59) |  |
 | 0.29.0 | 2022-12-13 | 2383 | 3002 | 3237 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-24 04:39:29
+Generated: 2026-09-25 04:39:46
 
 ## Ratings Verlauf
 
@@ -34,8 +34,8 @@ Generated: 2026-09-24 04:39:29
 xychart-beta
   x-axis ["0.29.0", "0.32.1"]
   y-axis "Elo Rating" 2300 --> 3300
-  line "" [2383, 2407]
-  line "STC (8.0+0.08s)" [2383, 2407]
+  line "" [2383, 2406]
+  line "STC (8.0+0.08s)" [2383, 2406]
   line "LTC (60.0+0.60s)" [3002, 3012]
   line "" [3237, 3178]
   line "VLTC (2m24s+1.12s)" [3237, 3178]
@@ -50,10 +50,10 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.32.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3178 | 23 | 548 | 48% | 3190 | 53% |
-| 0.32.1 | LTC <sub>(60.0+0.60s)</sub> | 3012 | 23 | 566 | 49% | 3021 | 46% |
-| 0.32.1 | STC <sub>(8.0+0.08s)</sub> | 2407 | 21 | 802 | 49% | 2412 | 25% |
+| 0.32.1 | LTC <sub>(60.0+0.60s)</sub> | 3012 | 23 | 566 | 49% | 3023 | 46% |
+| 0.32.1 | STC <sub>(8.0+0.08s)</sub> | 2406 | 21 | 806 | 49% | 2412 | 24% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.29.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3237 | 28 | 356 | 50% | 3236 | 54% |
+| 0.29.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3237 | 28 | 356 | 50% | 3237 | 54% |
 | 0.29.0 | LTC <sub>(60.0+0.60s)</sub> | 3002 | 30 | 328 | 48% | 3016 | 47% |
 | 0.29.0 | STC <sub>(8.0+0.08s)</sub> | 2383 | 32 | 400 | 42% | 2496 | 19% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
