@@ -8,7 +8,7 @@ Home: https://github.com/rektdie/Eleanor
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.1 | 2026-04-21 | 3175<sub>(+46) | 3401<sub>(+19) | 3432<sub>(+26) |  |
+| 4.1 | 2026-04-21 | 3175<sub>(+46) | 3401<sub>(+19) | 3433<sub>(+27) |  |
 | 4.0 | 2026-04-18 | 3129<sub>(+94) | 3382<sub>(+120) | 3406<sub>(+74) |  |
 | 3.0 | 2025-12-05 | 3035 | 3262 | 3332 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-24 04:37:52
+Generated: 2026-09-25 04:38:04
 
 ## Ratings Verlauf
 
@@ -38,8 +38,8 @@ xychart-beta
   line "" [3035, 3129, 3175]
   line "STC (8.0+0.08s)" [3035, 3129, 3175]
   line "LTC (60.0+0.60s)" [3262, 3382, 3401]
-  line "" [3332, 3406, 3432]
-  line "VLTC (2m24s+1.12s)" [3332, 3406, 3432]
+  line "" [3332, 3406, 3433]
+  line "VLTC (2m24s+1.12s)" [3332, 3406, 3433]
 ```
 
 
@@ -50,7 +50,7 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3432 | 23 | 464 | 49% | 3436 | 82% |
+| 4.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3433 | 23 | 464 | 49% | 3437 | 82% |
 | 4.1 | LTC <sub>(60.0+0.60s)</sub> | 3401 | 24 | 410 | 49% | 3403 | 77% |
 | 4.1 | STC <sub>(8.0+0.08s)</sub> | 3175 | 25 | 436 | 51% | 3163 | 61% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
