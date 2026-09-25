@@ -8,7 +8,7 @@ Home: https://github.com/nocturn9x/heimdall
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.4.2 | 2025-09-25 | 3127 | 3375 | 3432 |  |
+| 1.4.2 | 2025-09-25 | 3128 | 3375 | 3432 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Heimdall+<version>&body=###%20Engine%20name%0AHeimdall%0A%0A###%20Version%0A1.4.2" target="_blank">Submit new version</a>
@@ -24,7 +24,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-24 04:38:44
+Generated: 2026-09-25 04:39:01
 
 
 
@@ -34,5 +34,5 @@ Generated: 2026-09-24 04:38:44
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.4.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3432 | 22 | 506 | 51% | 3424 | 70% |
 | 1.4.2 | LTC <sub>(60.0+0.60s)</sub> | 3375 | 24 | 444 | 51% | 3363 | 70% |
-| 1.4.2 | STC <sub>(8.0+0.08s)</sub> | 3127 | 21 | 648 | 51% | 3119 | 55% |
+| 1.4.2 | STC <sub>(8.0+0.08s)</sub> | 3128 | 21 | 650 | 51% | 3119 | 55% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
