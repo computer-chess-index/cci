@@ -8,8 +8,8 @@ Home: https://github.com/kmar/cheng4_releases
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.49 | 2026-09-03 | 2979<sub>(-9) | 3251<sub>(+7) | 3303<sub>(+20) |  |
-| 4.48 | 2026-07-12 | 2988 | 3244 | 3283 |  |
+| 4.49 | 2026-09-03 | 2979<sub>(-9) | 3251<sub>(+6) | 3303<sub>(+20) |  |
+| 4.48 | 2026-07-12 | 2988 | 3245 | 3283 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Cheng4+<version>&body=###%20Engine%20name%0ACheng4%0A%0A###%20Version%0A4.49" target="_blank">Submit new version</a>
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-24 04:36:52
+Generated: 2026-09-25 04:36:55
 
 ## Ratings Verlauf
 
@@ -36,7 +36,7 @@ xychart-beta
   y-axis "Elo Rating" 2900 --> 3400
   line "" [2988, 2979]
   line "STC (8.0+0.08s)" [2988, 2979]
-  line "LTC (60.0+0.60s)" [3244, 3251]
+  line "LTC (60.0+0.60s)" [3245, 3251]
   line "" [3283, 3303]
   line "VLTC (2m24s+1.12s)" [3283, 3303]
 ```
@@ -54,6 +54,6 @@ xychart-beta
 | 4.49 | STC <sub>(8.0+0.08s)</sub> | 2979 | 35 | 238 | 49% | 2985 | 45% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4.48 | VLTC <sub>(2m24s+1.12s)</sub> | 3283 | 25 | 432 | 53% | 3249 | 61% |
-| 4.48 | LTC <sub>(60.0+0.60s)</sub> | 3244 | 29 | 320 | 52% | 3208 | 58% |
+| 4.48 | LTC <sub>(60.0+0.60s)</sub> | 3245 | 29 | 320 | 52% | 3208 | 58% |
 | 4.48 | STC <sub>(8.0+0.08s)</sub> | 2988 | 29 | 370 | 54% | 2939 | 41% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
