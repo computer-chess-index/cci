@@ -8,7 +8,7 @@ Home: https://github.com/GediminasMasaitis/4k-dot-c
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.0 | 2026-06-06 | 2546<sub>(-46) | 2867<sub>(+45) | 2967<sub>(+16) |  |
+| 9.0 | 2026-06-06 | 2546<sub>(-46) | 2867<sub>(+45) | 2969<sub>(+18) |  |
 | 8.0 | 2026-03-10 | 2592<sub>(+105) | 2822<sub>(+27) | 2951<sub>(+85) |  |
 | 5.0 | 2025-10-30 | 2487 | 2795 | 2866 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-24 04:35:10
+Generated: 2026-09-25 04:35:10
 
 ## Ratings Verlauf
 
@@ -38,8 +38,8 @@ xychart-beta
   line "" [2487, 2592, 2546]
   line "STC (8.0+0.08s)" [2487, 2592, 2546]
   line "LTC (60.0+0.60s)" [2795, 2822, 2867]
-  line "" [2866, 2951, 2967]
-  line "VLTC (2m24s+1.12s)" [2866, 2951, 2967]
+  line "" [2866, 2951, 2969]
+  line "VLTC (2m24s+1.12s)" [2866, 2951, 2969]
 ```
 
 
@@ -50,7 +50,7 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2967 | 27 | 428 | 48% | 2982 | 40% |
+| 9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2969 | 27 | 432 | 48% | 2982 | 40% |
 | 9.0 | LTC <sub>(60.0+0.60s)</sub> | 2867 | 26 | 446 | 51% | 2857 | 42% |
 | 9.0 | STC <sub>(8.0+0.08s)</sub> | 2546 | 24 | 554 | 51% | 2542 | 33% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
