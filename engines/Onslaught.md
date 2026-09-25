@@ -8,7 +8,7 @@ Home: https://github.com/kachhy/Onslaught
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0 | 2026-09-12 | 2997<sub>(+448) | 3240<sub>(+429) | 3302<sub>(+377) |  |
+| 2.0 | 2026-09-12 | 2997<sub>(+448) | 3240<sub>(+429) | 3303<sub>(+378) |  |
 | 1.0 | 2026-06-02 | 2549 | 2811 | 2925 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-24 04:40:28
+Generated: 2026-09-25 04:40:43
 
 ## Ratings Verlauf
 
@@ -37,8 +37,8 @@ xychart-beta
   line "" [2549, 2997]
   line "STC (8.0+0.08s)" [2549, 2997]
   line "LTC (60.0+0.60s)" [2811, 3240]
-  line "" [2925, 3302]
-  line "VLTC (2m24s+1.12s)" [2925, 3302]
+  line "" [2925, 3303]
+  line "VLTC (2m24s+1.12s)" [2925, 3303]
 ```
 
 
@@ -49,9 +49,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3302 | 32 | 256 | 53% | 3278 | 65% |
+| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3303 | 32 | 260 | 53% | 3279 | 65% |
 | 2.0 | LTC <sub>(60.0+0.60s)</sub> | 3240 | 30 | 302 | 53% | 3217 | 62% |
-| 2.0 | STC <sub>(8.0+0.08s)</sub> | 2997 | 36 | 228 | 51% | 2985 | 44% |
+| 2.0 | STC <sub>(8.0+0.08s)</sub> | 2997 | 36 | 228 | 51% | 2984 | 44% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2925 | 29 | 364 | 51% | 2919 | 45% |
 | 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2811 | 31 | 324 | 51% | 2795 | 43% |
