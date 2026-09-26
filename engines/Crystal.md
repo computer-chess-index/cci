@@ -8,8 +8,8 @@ Home: https://github.com/jhellis3/Stockfish
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9 | 2025-05-09 | 3437<sub>(+50) | 3573<sub>(+43) | 3599<sub>(+47) |  |
-| 5 | 2022-11-05 | 3387 | 3530 | 3552 |  |
+| 9 | 2025-05-09 | 3437<sub>(+48) | 3573<sub>(+43) | 3599<sub>(+47) |  |
+| 5 | 2022-11-05 | 3389 | 3530 | 3552 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Crystal+<version>&body=###%20Engine%20name%0ACrystal%0A%0A###%20Version%0A9" target="_blank">Submit new version</a>
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-25 04:37:37
+Generated: 2026-09-26 04:37:24
 
 ## Ratings Verlauf
 
@@ -34,8 +34,8 @@ Generated: 2026-09-25 04:37:37
 xychart-beta
   x-axis ["5", "9"]
   y-axis "Elo Rating" 3300 --> 3600
-  line "" [3387, 3437]
-  line "STC (8.0+0.08s)" [3387, 3437]
+  line "" [3389, 3437]
+  line "STC (8.0+0.08s)" [3389, 3437]
   line "LTC (60.0+0.60s)" [3530, 3573]
   line "" [3552, 3599]
   line "VLTC (2m24s+1.12s)" [3552, 3599]
@@ -55,5 +55,5 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 5 | VLTC <sub>(2m24s+1.12s)</sub> | 3552 | 27 | 320 | 55% | 3507 | 85% |
 | 5 | LTC <sub>(60.0+0.60s)</sub> | 3530 | 12 | 1640 | 50% | 3532 | 86% |
-| 5 | STC <sub>(8.0+0.08s)</sub> | 3387 | 12 | 1796 | 52% | 3376 | 73% |
+| 5 | STC <sub>(8.0+0.08s)</sub> | 3389 | 12 | 1796 | 52% | 3376 | 73% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
