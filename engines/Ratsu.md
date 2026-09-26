@@ -8,7 +8,7 @@ Home: https://github.com/ranzuh/ratsu
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1.0 | 2026-06-29 | 2383<sub>(+135) | 2669<sub>(+115) | 2815<sub>(+199) |  |
+| 2.1.0 | 2026-06-29 | 2383<sub>(+135) | 2669<sub>(+115) | 2819<sub>(+203) |  |
 | 2.0.0 | 2026-05-23 | 2248<sub>(+349) | 2554<sub>(+376) | 2616<sub>(+375) |  |
 | 1.2.0 | 2026-05-07 | 1899<sub>(+167) | 2178<sub>(+165) | 2241<sub>(+143) |  |
 | 1.1.0 | 2026-04-21 | 1732<sub>(+80) | 2013<sub>(+127) | 2098<sub>(+142) |  |
@@ -29,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-25 04:41:44
+Generated: 2026-09-26 04:41:25
 
 ## Ratings Verlauf
 
@@ -41,8 +41,8 @@ xychart-beta
   line "" [1550, 1652, 1732, 1899, 2248, 2383]
   line "STC (8.0+0.08s)" [1550, 1652, 1732, 1899, 2248, 2383]
   line "LTC (60.0+0.60s)" [1809, 1886, 2013, 2178, 2554, 2669]
-  line "" [1868, 1956, 2098, 2241, 2616, 2815]
-  line "VLTC (2m24s+1.12s)" [1868, 1956, 2098, 2241, 2616, 2815]
+  line "" [1868, 1956, 2098, 2241, 2616, 2819]
+  line "VLTC (2m24s+1.12s)" [1868, 1956, 2098, 2241, 2616, 2819]
 ```
 
 
@@ -53,7 +53,7 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2815 | 33 | 282 | 49% | 2826 | 39% |
+| 2.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2819 | 33 | 288 | 49% | 2827 | 40% |
 | 2.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2669 | 35 | 262 | 50% | 2666 | 33% |
 | 2.1.0 | STC <sub>(8.0+0.08s)</sub> | 2383 | 32 | 334 | 49% | 2390 | 26% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
