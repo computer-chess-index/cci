@@ -8,7 +8,7 @@ Home: https://github.com/likeawizard/tofiks
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.5.0 | 2026-04-23 | 2195<sub>(+146) | 2438<sub>(+113) | 2483<sub>(+80) |  |
+| 1.5.0 | 2026-04-23 | 2195<sub>(+146) | 2439<sub>(+114) | 2483<sub>(+80) |  |
 | 1.4.1 | 2026-04-11 | 2049<sub>(-41) | 2325<sub>(+29) | 2403<sub>(+15) |  |
 | 1.4.0 | 2026-04-09 | 2090 | 2296 | 2388 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-25 04:43:26
+Generated: 2026-09-26 04:43:09
 
 ## Ratings Verlauf
 
@@ -37,7 +37,7 @@ xychart-beta
   y-axis "Elo Rating" 2000 --> 2500
   line "" [2090, 2049, 2195]
   line "STC (8.0+0.08s)" [2090, 2049, 2195]
-  line "LTC (60.0+0.60s)" [2296, 2325, 2438]
+  line "LTC (60.0+0.60s)" [2296, 2325, 2439]
   line "" [2388, 2403, 2483]
   line "VLTC (2m24s+1.12s)" [2388, 2403, 2483]
 ```
@@ -51,7 +51,7 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.5.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2483 | 25 | 510 | 49% | 2488 | 35% |
-| 1.5.0 | LTC <sub>(60.0+0.60s)</sub> | 2438 | 25 | 508 | 51% | 2430 | 34% |
+| 1.5.0 | LTC <sub>(60.0+0.60s)</sub> | 2439 | 25 | 512 | 51% | 2430 | 34% |
 | 1.5.0 | STC <sub>(8.0+0.08s)</sub> | 2195 | 25 | 568 | 48% | 2209 | 22% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.4.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2403 | 33 | 292 | 50% | 2399 | 33% |
