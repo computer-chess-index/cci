@@ -8,7 +8,7 @@ Home: https://github.com/ExxDreamerCode/Ember
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.3.1 | 2026-09-18 | 2851<sub>(+217) | 3182<sub>(+211) | 3248<sub>(+201) |  |
+| 1.3.1 | 2026-09-18 | 2840<sub>(+206) | 3168<sub>(+197) | 3254<sub>(+207) |  |
 | 1.3.0 | 2026-08-28 | 2634<sub>(+new) | 2971<sub>(+new) | 3047<sub>(+new) |  |
 | 1.2.0 | 2026-07-30 |  |  |  |  |
 | 1.1.2 | 2026-07-08 | 2353<sub>(+new) | 2795<sub>(+new) | 2871<sub>(+new) |  |
@@ -35,7 +35,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-25 04:38:06
+Generated: 2026-09-26 04:37:52
 
 ## Ratings Verlauf
 
@@ -44,11 +44,11 @@ Generated: 2026-09-25 04:38:06
 xychart-beta
   x-axis ["1.1.2", "1.3.0", "1.3.1"]
   y-axis "Elo Rating" 2300 --> 3300
-  line "" [2353, 2634, 2851]
-  line "STC (8.0+0.08s)" [2353, 2634, 2851]
-  line "LTC (60.0+0.60s)" [2795, 2971, 3182]
-  line "" [2871, 3047, 3248]
-  line "VLTC (2m24s+1.12s)" [2871, 3047, 3248]
+  line "" [2353, 2634, 2840]
+  line "STC (8.0+0.08s)" [2353, 2634, 2840]
+  line "LTC (60.0+0.60s)" [2795, 2971, 3168]
+  line "" [2871, 3047, 3254]
+  line "VLTC (2m24s+1.12s)" [2871, 3047, 3254]
 ```
 
 
@@ -59,9 +59,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3248 | 81 | 40 | 53% | 3222 | 60% |
-| 1.3.1 | LTC <sub>(60.0+0.60s)</sub> | 3182 | 76 | 48 | 61% | 3089 | 56% |
-| 1.3.1 | STC <sub>(8.0+0.08s)</sub> | 2851 | 68 | 68 | 57% | 2789 | 38% |
+| 1.3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3254 | 67 | 60 | 53% | 3231 | 58% |
+| 1.3.1 | LTC <sub>(60.0+0.60s)</sub> | 3168 | 57 | 86 | 55% | 3127 | 52% |
+| 1.3.1 | STC <sub>(8.0+0.08s)</sub> | 2840 | 59 | 88 | 55% | 2803 | 41% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3047 | 33 | 256 | 51% | 3040 | 53% |
 | 1.3.0 | LTC <sub>(60.0+0.60s)</sub> | 2971 | 32 | 296 | 53% | 2944 | 45% |
