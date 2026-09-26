@@ -8,7 +8,7 @@ Home: https://github.com/h1me01/Astra
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7.0 | 2026-05-26 | 3402<sub>(+111) | 3545<sub>(+61) | 3557<sub>(+35) |  |
+| 7.0 | 2026-05-26 | 3403<sub>(+112) | 3546<sub>(+62) | 3557<sub>(+35) |  |
 | 6.1.1 | 2025-07-21 | 3291 | 3484 | 3522 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-25 04:36:05
+Generated: 2026-09-26 04:36:04
 
 ## Ratings Verlauf
 
@@ -34,9 +34,9 @@ Generated: 2026-09-25 04:36:05
 xychart-beta
   x-axis ["6.1.1", "7.0"]
   y-axis "Elo Rating" 3200 --> 3600
-  line "" [3291, 3402]
-  line "STC (8.0+0.08s)" [3291, 3402]
-  line "LTC (60.0+0.60s)" [3484, 3545]
+  line "" [3291, 3403]
+  line "STC (8.0+0.08s)" [3291, 3403]
+  line "LTC (60.0+0.60s)" [3484, 3546]
   line "" [3522, 3557]
   line "VLTC (2m24s+1.12s)" [3522, 3557]
 ```
@@ -50,10 +50,10 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 7.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3557 | 27 | 308 | 49% | 3564 | 89% |
-| 7.0 | LTC <sub>(60.0+0.60s)</sub> | 3545 | 28 | 284 | 50% | 3544 | 87% |
-| 7.0 | STC <sub>(8.0+0.08s)</sub> | 3402 | 25 | 394 | 51% | 3398 | 75% |
+| 7.0 | LTC <sub>(60.0+0.60s)</sub> | 3546 | 28 | 284 | 50% | 3544 | 87% |
+| 7.0 | STC <sub>(8.0+0.08s)</sub> | 3403 | 25 | 394 | 51% | 3398 | 75% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 6.1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3522 | 23 | 420 | 52% | 3506 | 87% |
 | 6.1.1 | LTC <sub>(60.0+0.60s)</sub> | 3484 | 25 | 400 | 51% | 3472 | 81% |
-| 6.1.1 | STC <sub>(8.0+0.08s)</sub> | 3291 | 23 | 514 | 51% | 3275 | 67% |
+| 6.1.1 | STC <sub>(8.0+0.08s)</sub> | 3291 | 23 | 514 | 51% | 3276 | 67% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
