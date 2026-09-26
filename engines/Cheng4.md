@@ -8,7 +8,7 @@ Home: https://github.com/kmar/cheng4_releases
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.49 | 2026-09-03 | 2979<sub>(-9) | 3251<sub>(+6) | 3303<sub>(+20) |  |
+| 4.49 | 2026-09-03 | 2979<sub>(-9) | 3247<sub>(+2) | 3303<sub>(+20) |  |
 | 4.48 | 2026-07-12 | 2988 | 3245 | 3283 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-25 04:36:55
+Generated: 2026-09-26 04:36:50
 
 ## Ratings Verlauf
 
@@ -36,7 +36,7 @@ xychart-beta
   y-axis "Elo Rating" 2900 --> 3400
   line "" [2988, 2979]
   line "STC (8.0+0.08s)" [2988, 2979]
-  line "LTC (60.0+0.60s)" [3245, 3251]
+  line "LTC (60.0+0.60s)" [3245, 3247]
   line "" [3283, 3303]
   line "VLTC (2m24s+1.12s)" [3283, 3303]
 ```
@@ -49,8 +49,8 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4.49 | VLTC <sub>(2m24s+1.12s)</sub> | 3303 | 34 | 224 | 50% | 3302 | 65% |
-| 4.49 | LTC <sub>(60.0+0.60s)</sub> | 3251 | 33 | 244 | 51% | 3244 | 60% |
+| 4.49 | VLTC <sub>(2m24s+1.12s)</sub> | 3303 | 34 | 224 | 50% | 3303 | 65% |
+| 4.49 | LTC <sub>(60.0+0.60s)</sub> | 3247 | 33 | 252 | 51% | 3245 | 60% |
 | 4.49 | STC <sub>(8.0+0.08s)</sub> | 2979 | 35 | 238 | 49% | 2985 | 45% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4.48 | VLTC <sub>(2m24s+1.12s)</sub> | 3283 | 25 | 432 | 53% | 3249 | 61% |
