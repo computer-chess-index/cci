@@ -9,7 +9,7 @@ Home: https://github.com/ATheofanis/aspen-chess
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 2.3.0 | 2026-05-23 |  |  |  |  |
-| 2.2.0 | 2026-05-22 | 2715<sub>(+26) | 3085<sub>(+89) | 3119<sub>(+37) |  |
+| 2.2.0 | 2026-05-22 | 2715<sub>(+26) | 3085<sub>(+89) | 3123<sub>(+41) |  |
 | 2.1.0 | 2026-05-21 | 2689<sub>(+new) | 2996<sub>(+new) | 3082<sub>(+new) |  |
 | 2.0.0 | 2026-05-21 |  |  |  |  |
 | 1.3.0 | 2026-05-20 | 2365<sub>(+169) | 2705<sub>(+51) | 2850<sub>(+155) |  |
@@ -36,7 +36,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-25 04:36:03
+Generated: 2026-09-26 04:36:01
 
 ## Ratings Verlauf
 
@@ -48,8 +48,8 @@ xychart-beta
   line "" [2365, 2196, 2689, 2715]
   line "STC (8.0+0.08s)" [2365, 2196, 2689, 2715]
   line "LTC (60.0+0.60s)" [2705, 2654, 2996, 3085]
-  line "" [2850, 2695, 3082, 3119]
-  line "VLTC (2m24s+1.12s)" [2850, 2695, 3082, 3119]
+  line "" [2850, 2695, 3082, 3123]
+  line "VLTC (2m24s+1.12s)" [2850, 2695, 3082, 3123]
 ```
 
 
@@ -60,11 +60,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3119 | 32 | 274 | 49% | 3127 | 57% |
+| 2.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3123 | 31 | 278 | 49% | 3127 | 56% |
 | 2.2.0 | LTC <sub>(60.0+0.60s)</sub> | 3085 | 31 | 278 | 49% | 3089 | 59% |
 | 2.2.0 | STC <sub>(8.0+0.08s)</sub> | 2715 | 29 | 370 | 51% | 2708 | 40% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3082 | 31 | 318 | 52% | 3069 | 45% |
+| 2.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3082 | 31 | 318 | 52% | 3070 | 45% |
 | 2.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2996 | 28 | 382 | 51% | 2988 | 47% |
 | 2.1.0 | STC <sub>(8.0+0.08s)</sub> | 2689 | 32 | 304 | 54% | 2653 | 38% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
