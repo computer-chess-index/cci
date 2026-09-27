@@ -9,8 +9,8 @@ Home: https://github.com/op12no2/cwtch
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 2to6 | 2026-07-09 |  |  |  |  |
-| 6 | 2026-07-06 | 3025<sub>(+136) | 3233<sub>(+86) | 3303<sub>(+87) |  |
-| 5 | 2026-04-06 | 2889<sub>(+35) | 3147<sub>(+53) | 3216<sub>(+77) |  |
+| 6 | 2026-07-06 | 3025<sub>(+136) | 3233<sub>(+86) | 3303<sub>(+86) |  |
+| 5 | 2026-04-06 | 2889<sub>(+35) | 3147<sub>(+53) | 3217<sub>(+78) |  |
 | 4 | 2025-12-05 | 2854 | 3094 | 3139 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-26 04:37:26
+Generated: 2026-09-27 04:37:24
 
 ## Ratings Verlauf
 
@@ -39,8 +39,8 @@ xychart-beta
   line "" [2854, 2889, 3025]
   line "STC (8.0+0.08s)" [2854, 2889, 3025]
   line "LTC (60.0+0.60s)" [3094, 3147, 3233]
-  line "" [3139, 3216, 3303]
-  line "VLTC (2m24s+1.12s)" [3139, 3216, 3303]
+  line "" [3139, 3217, 3303]
+  line "VLTC (2m24s+1.12s)" [3139, 3217, 3303]
 ```
 
 
@@ -52,10 +52,10 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 6 | VLTC <sub>(2m24s+1.12s)</sub> | 3303 | 26 | 392 | 52% | 3293 | 66% |
-| 6 | LTC <sub>(60.0+0.60s)</sub> | 3233 | 25 | 412 | 49% | 3243 | 61% |
+| 6 | LTC <sub>(60.0+0.60s)</sub> | 3233 | 25 | 412 | 49% | 3244 | 61% |
 | 6 | STC <sub>(8.0+0.08s)</sub> | 3025 | 24 | 480 | 48% | 3039 | 50% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 5 | VLTC <sub>(2m24s+1.12s)</sub> | 3216 | 25 | 438 | 48% | 3237 | 59% |
+| 5 | VLTC <sub>(2m24s+1.12s)</sub> | 3217 | 25 | 438 | 48% | 3239 | 59% |
 | 5 | LTC <sub>(60.0+0.60s)</sub> | 3147 | 28 | 358 | 50% | 3146 | 56% |
 | 5 | STC <sub>(8.0+0.08s)</sub> | 2889 | 28 | 396 | 49% | 2901 | 40% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
