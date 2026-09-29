@@ -8,6 +8,7 @@ Home: https://github.com/aywrite/arche
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
+| 0.4.7 | 2026-09-27 |  |  |  |  |
 | 0.4.6 | 2026-09-23 |  |  |  |  |
 | 0.4.5 | 2026-09-19 |  |  |  |  |
 | 0.4.4 | 2026-09-14 |  |  |  |  |
@@ -21,7 +22,7 @@ Home: https://github.com/aywrite/arche
 | 0.3.7 | 2026-07-31 | 1391 | 1612 | 1658 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Arche+<version>&body=###%20Engine%20name%0AArche%0A%0A###%20Version%0A0.4.6" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Arche+<version>&body=###%20Engine%20name%0AArche%0A%0A###%20Version%0A0.4.7" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -34,7 +35,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-28 04:35:49
+Generated: 2026-09-29 04:35:51
 
 ## Ratings Verlauf
 
