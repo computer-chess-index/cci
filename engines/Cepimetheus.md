@@ -8,6 +8,7 @@ Home: https://github.com/mrgwbland/Cepimetheus
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
+| 17.0.0 | 2026-09-28 |  |  |  |  |
 | 16.0.0 | 2026-08-30 | 2253<sub>(+128) | 2553<sub>(+150) | 2692<sub>(+147) |  |
 | 15.0.0 | 2026-08-13 | 2125<sub>(-13) | 2403<sub>(+12) | 2545<sub>(+56) |  |
 | 14.0.1 | 2026-08-02 | 2138<sub>(-30) | 2391<sub>(-48) | 2489<sub>(-58) |  |
@@ -47,7 +48,7 @@ Home: https://github.com/mrgwbland/Cepimetheus
 | 1.0.0 | 2026-04-07 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Cepimetheus+<version>&body=###%20Engine%20name%0ACepimetheus%0A%0A###%20Version%0A16.0.0" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Cepimetheus+<version>&body=###%20Engine%20name%0ACepimetheus%0A%0A###%20Version%0A17.0.0" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -60,7 +61,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-28 04:36:43
+Generated: 2026-09-29 04:36:48
 
 ## Ratings Verlauf
 
