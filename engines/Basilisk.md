@@ -8,6 +8,7 @@ Home: https://github.com/maelic13/basilisk
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
+| 1.10.1 | 2026-09-27 |  |  |  |  |
 | 1.10.0 | 2026-09-10 | 2587<sub>(-29) | 2903<sub>(+49) | 2985<sub>(+4) |  |
 | 1.9.3 | 2026-08-02 | 2616<sub>(+36) | 2854<sub>(+30) | 2981<sub>(+10) |  |
 | 1.9.2 | 2026-08-01 | 2580<sub>(-9) | 2824<sub>(-52) | 2971<sub>(+19) |  |
@@ -35,7 +36,7 @@ Home: https://github.com/maelic13/basilisk
 | 1.0.0 | 2026-05-20 | 2047 | 2354 | 2468 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Basilisk+<version>&body=###%20Engine%20name%0ABasilisk%0A%0A###%20Version%0A1.10.0" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Basilisk+<version>&body=###%20Engine%20name%0ABasilisk%0A%0A###%20Version%0A1.10.1" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -48,7 +49,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-28 04:36:11
+Generated: 2026-09-29 04:36:16
 
 ## Ratings Verlauf
 
