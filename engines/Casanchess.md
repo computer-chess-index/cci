@@ -9,7 +9,7 @@ Home: https://github.com/casanche/casanchess
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 2.0 | 2026-09-24 |  |  |  |  |
-| 1.1.2 | 2026-09-06 | 2472<sub>(+19) | 2707<sub>(-77) | 2834<sub>(+2) |  |
+| 1.1.2 | 2026-09-06 | 2472<sub>(+19) | 2709<sub>(-75) | 2830<sub>(-2) |  |
 | 1.1 | 2026-08-15 | 2453<sub>(+105) | 2784<sub>(+151) | 2832<sub>(+89) |  |
 | 1.0 | 2026-07-14 | 2348 | 2633 | 2743 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-29 04:36:41
+Generated: 2026-09-30 04:36:40
 
 ## Ratings Verlauf
 
@@ -38,9 +38,9 @@ xychart-beta
   y-axis "Elo Rating" 2300 --> 2900
   line "" [2348, 2453, 2472]
   line "STC (8.0+0.08s)" [2348, 2453, 2472]
-  line "LTC (60.0+0.60s)" [2633, 2784, 2707]
-  line "" [2743, 2832, 2834]
-  line "VLTC (2m24s+1.12s)" [2743, 2832, 2834]
+  line "LTC (60.0+0.60s)" [2633, 2784, 2709]
+  line "" [2743, 2832, 2830]
+  line "VLTC (2m24s+1.12s)" [2743, 2832, 2830]
 ```
 
 
@@ -51,8 +51,8 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.1.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2834 | 37 | 218 | 50% | 2832 | 40% |
-| 1.1.2 | LTC <sub>(60.0+0.60s)</sub> | 2707 | 35 | 248 | 50% | 2709 | 46% |
+| 1.1.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2830 | 37 | 226 | 50% | 2831 | 39% |
+| 1.1.2 | LTC <sub>(60.0+0.60s)</sub> | 2709 | 34 | 252 | 50% | 2709 | 46% |
 | 1.1.2 | STC <sub>(8.0+0.08s)</sub> | 2472 | 36 | 236 | 51% | 2466 | 41% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2832 | 34 | 256 | 51% | 2830 | 47% |
