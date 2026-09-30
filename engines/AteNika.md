@@ -8,7 +8,7 @@ Home: https://github.com/LesterEvSe/AteNika
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.7.0 | 2026-09-20 | 2731<sub>(+54) | 3078<sub>(+69) | 3133<sub>(+52) |  |
+| 0.7.0 | 2026-09-20 | 2731<sub>(+54) | 3078<sub>(+69) | 3128<sub>(+47) |  |
 | 0.6.0 | 2026-09-13 | 2677<sub>(+634) | 3009<sub>(+690) | 3081<sub>(+728) |  |
 | 0.5.0 | 2026-09-02 | 2043<sub>(+142) | 2319<sub>(+186) | 2353<sub>(+125) |  |
 | 0.4.0 | 2026-08-30 | 1901 | 2133 | 2228 |  |
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-29 04:36:07
+Generated: 2026-09-30 04:36:07
 
 ## Ratings Verlauf
 
@@ -39,8 +39,8 @@ xychart-beta
   line "" [1901, 2043, 2677, 2731]
   line "STC (8.0+0.08s)" [1901, 2043, 2677, 2731]
   line "LTC (60.0+0.60s)" [2133, 2319, 3009, 3078]
-  line "" [2228, 2353, 3081, 3133]
-  line "VLTC (2m24s+1.12s)" [2228, 2353, 3081, 3133]
+  line "" [2228, 2353, 3081, 3128]
+  line "VLTC (2m24s+1.12s)" [2228, 2353, 3081, 3128]
 ```
 
 
@@ -51,7 +51,7 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.7.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3133 | 51 | 106 | 46% | 3167 | 58% |
+| 0.7.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3128 | 50 | 110 | 45% | 3173 | 57% |
 | 0.7.0 | LTC <sub>(60.0+0.60s)</sub> | 3078 | 42 | 156 | 52% | 3062 | 54% |
 | 0.7.0 | STC <sub>(8.0+0.08s)</sub> | 2731 | 53 | 110 | 52% | 2715 | 38% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
