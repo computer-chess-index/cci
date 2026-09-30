@@ -8,7 +8,7 @@ Home: https://github.com/stevemaughan/Crafty-Chess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 25.6.1 | 2026-06-24 | 2473<sub>(-42) | 2782<sub>(-3) | 2858<sub>(-81) |  |
+| 25.6.1 | 2026-06-24 | 2473<sub>(-42) | 2784<sub>(-1) | 2855<sub>(-84) |  |
 | 25.2.1 | 2026-06-20 | 2515 | 2785 | 2939 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-29 04:37:26
+Generated: 2026-09-30 04:37:26
 
 ## Ratings Verlauf
 
@@ -36,9 +36,9 @@ xychart-beta
   y-axis "Elo Rating" 2400 --> 3000
   line "" [2515, 2473]
   line "STC (8.0+0.08s)" [2515, 2473]
-  line "LTC (60.0+0.60s)" [2785, 2782]
-  line "" [2939, 2858]
-  line "VLTC (2m24s+1.12s)" [2939, 2858]
+  line "LTC (60.0+0.60s)" [2785, 2784]
+  line "" [2939, 2855]
+  line "VLTC (2m24s+1.12s)" [2939, 2855]
 ```
 
 
@@ -49,8 +49,8 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 25.6.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2858 | 28 | 416 | 49% | 2869 | 34% |
-| 25.6.1 | LTC <sub>(60.0+0.60s)</sub> | 2782 | 32 | 324 | 50% | 2785 | 30% |
+| 25.6.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2855 | 28 | 420 | 49% | 2869 | 35% |
+| 25.6.1 | LTC <sub>(60.0+0.60s)</sub> | 2784 | 32 | 324 | 50% | 2785 | 30% |
 | 25.6.1 | STC <sub>(8.0+0.08s)</sub> | 2473 | 31 | 356 | 50% | 2472 | 28% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 25.2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2939 | 51 | 130 | 50% | 2942 | 28% |
