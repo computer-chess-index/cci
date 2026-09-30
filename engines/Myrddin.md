@@ -9,8 +9,8 @@ Home: https://github.com/JVMerlino/Myrddin
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 0.96 | 2026-06-08 | 2754<sub>(+120) | 3069<sub>(+119) | 3127<sub>(+98) |  |
-| 0.95 | 2026-04-23 | 2634<sub>(+34) | 2950<sub>(+14) | 3029<sub>(-36) |  |
-| 0.94 | 2025-12-11 | 2600 | 2936 | 3065 |  |
+| 0.95 | 2026-04-23 | 2634<sub>(+33) | 2950<sub>(+14) | 3029<sub>(-36) |  |
+| 0.94 | 2025-12-11 | 2601 | 2936 | 3065 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Myrddin+<version>&body=###%20Engine%20name%0AMyrddin%0A%0A###%20Version%0A0.96" target="_blank">Submit new version</a>
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-29 04:40:19
+Generated: 2026-09-30 04:40:22
 
 ## Ratings Verlauf
 
@@ -35,8 +35,8 @@ Generated: 2026-09-29 04:40:19
 xychart-beta
   x-axis ["0.94", "0.95", "0.96"]
   y-axis "Elo Rating" 2600 --> 3200
-  line "" [2600, 2634, 2754]
-  line "STC (8.0+0.08s)" [2600, 2634, 2754]
+  line "" [2601, 2634, 2754]
+  line "STC (8.0+0.08s)" [2601, 2634, 2754]
   line "LTC (60.0+0.60s)" [2936, 2950, 3069]
   line "" [3065, 3029, 3127]
   line "VLTC (2m24s+1.12s)" [3065, 3029, 3127]
@@ -60,5 +60,5 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.94 | VLTC <sub>(2m24s+1.12s)</sub> | 3065 | 27 | 380 | 50% | 3063 | 52% |
 | 0.94 | LTC <sub>(60.0+0.60s)</sub> | 2936 | 28 | 382 | 53% | 2904 | 41% |
-| 0.94 | STC <sub>(8.0+0.08s)</sub> | 2600 | 27 | 476 | 50% | 2583 | 31% |
+| 0.94 | STC <sub>(8.0+0.08s)</sub> | 2601 | 27 | 476 | 50% | 2583 | 31% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
