@@ -8,7 +8,7 @@ Home: https://github.com/Mangar2/Spike
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.4.2 | 2026-08-28 | 2402<sub>(+56) | 2719<sub>(-20) | 2834<sub>(+4) |  |
+| 1.4.2 | 2026-08-28 | 2402<sub>(+56) | 2720<sub>(-19) | 2832<sub>(+2) |  |
 | 1.4 | 2011-02-01 | 2346 | 2739 | 2830 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-29 04:42:57
+Generated: 2026-09-30 04:43:06
 
 ## Ratings Verlauf
 
@@ -36,9 +36,9 @@ xychart-beta
   y-axis "Elo Rating" 2300 --> 2900
   line "" [2346, 2402]
   line "STC (8.0+0.08s)" [2346, 2402]
-  line "LTC (60.0+0.60s)" [2739, 2719]
-  line "" [2830, 2834]
-  line "VLTC (2m24s+1.12s)" [2830, 2834]
+  line "LTC (60.0+0.60s)" [2739, 2720]
+  line "" [2830, 2832]
+  line "VLTC (2m24s+1.12s)" [2830, 2832]
 ```
 
 
@@ -49,8 +49,8 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.4.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2834 | 37 | 238 | 50% | 2838 | 35% |
-| 1.4.2 | LTC <sub>(60.0+0.60s)</sub> | 2719 | 35 | 278 | 50% | 2716 | 29% |
+| 1.4.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2832 | 36 | 246 | 50% | 2836 | 34% |
+| 1.4.2 | LTC <sub>(60.0+0.60s)</sub> | 2720 | 34 | 282 | 51% | 2716 | 29% |
 | 1.4.2 | STC <sub>(8.0+0.08s)</sub> | 2402 | 35 | 268 | 51% | 2392 | 31% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.4 | VLTC <sub>(2m24s+1.12s)</sub> | 2830 | 45 | 164 | 51% | 2828 | 32% |
