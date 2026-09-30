@@ -8,8 +8,8 @@ Home: https://github.com/rektdie/Eleanor
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.1 | 2026-04-21 | 3175<sub>(+44) | 3401<sub>(+18) | 3433<sub>(+27) |  |
-| 4.0 | 2026-04-18 | 3131<sub>(+96) | 3383<sub>(+121) | 3406<sub>(+74) |  |
+| 4.1 | 2026-04-21 | 3175<sub>(+46) | 3401<sub>(+18) | 3433<sub>(+27) |  |
+| 4.0 | 2026-04-18 | 3129<sub>(+94) | 3383<sub>(+121) | 3406<sub>(+74) |  |
 | 3.0 | 2025-12-05 | 3035 | 3262 | 3332 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-29 04:37:56
+Generated: 2026-09-30 04:37:58
 
 ## Ratings Verlauf
 
@@ -35,8 +35,8 @@ Generated: 2026-09-29 04:37:56
 xychart-beta
   x-axis ["3.0", "4.0", "4.1"]
   y-axis "Elo Rating" 3000 --> 3500
-  line "" [3035, 3131, 3175]
-  line "STC (8.0+0.08s)" [3035, 3131, 3175]
+  line "" [3035, 3129, 3175]
+  line "STC (8.0+0.08s)" [3035, 3129, 3175]
   line "LTC (60.0+0.60s)" [3262, 3383, 3401]
   line "" [3332, 3406, 3433]
   line "VLTC (2m24s+1.12s)" [3332, 3406, 3433]
@@ -56,7 +56,7 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3406 | 29 | 284 | 50% | 3407 | 81% |
 | 4.0 | LTC <sub>(60.0+0.60s)</sub> | 3383 | 30 | 280 | 50% | 3380 | 76% |
-| 4.0 | STC <sub>(8.0+0.08s)</sub> | 3131 | 32 | 264 | 50% | 3128 | 63% |
+| 4.0 | STC <sub>(8.0+0.08s)</sub> | 3129 | 32 | 264 | 50% | 3128 | 63% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3332 | 26 | 368 | 50% | 3335 | 68% |
 | 3.0 | LTC <sub>(60.0+0.60s)</sub> | 3262 | 27 | 358 | 52% | 3235 | 71% |
