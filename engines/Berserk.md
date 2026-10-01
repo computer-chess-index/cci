@@ -9,7 +9,7 @@ Home: https://github.com/jhonnold/berserk
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 4.7.0 | 2026-05-24 |  |  |  |  |
-| 14 | 2026-05-24 | 3441<sub>(+1844) | 3553<sub>(+16) | 3584<sub>(+23) |  |
+| 14 | 2026-05-24 | 3441<sub>(+1844) | 3552<sub>(+15) | 3583<sub>(+22) |  |
 | 13 | 2024-03-31 | 1597 | 3537 | 3561 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-09-30 04:36:16
+Generated: 2026-10-01 04:36:18
 
 ## Ratings Verlauf
 
@@ -37,9 +37,9 @@ xychart-beta
   y-axis "Elo Rating" 1500 --> 3600
   line "" [1597, 3441]
   line "STC (8.0+0.08s)" [1597, 3441]
-  line "LTC (60.0+0.60s)" [3537, 3553]
-  line "" [3561, 3584]
-  line "VLTC (2m24s+1.12s)" [3561, 3584]
+  line "LTC (60.0+0.60s)" [3537, 3552]
+  line "" [3561, 3583]
+  line "VLTC (2m24s+1.12s)" [3561, 3583]
 ```
 
 
@@ -50,11 +50,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 14 | VLTC <sub>(2m24s+1.12s)</sub> | 3584 | 29 | 264 | 51% | 3580 | 93% |
-| 14 | LTC <sub>(60.0+0.60s)</sub> | 3553 | 30 | 256 | 50% | 3555 | 90% |
-| 14 | STC <sub>(8.0+0.08s)</sub> | 3441 | 24 | 426 | 53% | 3371 | 76% |
+| 14 | VLTC <sub>(2m24s+1.12s)</sub> | 3583 | 29 | 264 | 51% | 3579 | 93% |
+| 14 | LTC <sub>(60.0+0.60s)</sub> | 3552 | 30 | 256 | 50% | 3553 | 90% |
+| 14 | STC <sub>(8.0+0.08s)</sub> | 3441 | 24 | 426 | 53% | 3370 | 76% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 13 | VLTC <sub>(2m24s+1.12s)</sub> | 3561 | 13 | 1458 | 53% | 3487 | 84% |
+| 13 | VLTC <sub>(2m24s+1.12s)</sub> | 3561 | 13 | 1458 | 53% | 3486 | 84% |
 | 13 | LTC <sub>(60.0+0.60s)</sub> | 3537 | 12 | 1740 | 51% | 3532 | 87% |
 | 13 | STC <sub>(8.0+0.08s)</sub> | 1597 | 15 | 1932 | 53% | 1557 | 10% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
