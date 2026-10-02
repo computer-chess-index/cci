@@ -8,7 +8,7 @@ Home: https://github.com/liamg/ariadne
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.6.0 | 2026-08-29 | 2201<sub>(+new) | 2491<sub>(+new) | 2604<sub>(+new) |  |
+| 0.6.0 | 2026-08-29 | 2202<sub>(+new) | 2492<sub>(+new) | 2604<sub>(+new) |  |
 | 0.5.0 | 2026-08-29 |  |  |  |  |
 | 0.4.0 | 2026-08-16 | 1962<sub>(+new) | 2252<sub>(+new) | 2338<sub>(+new) |  |
 | 0.3.0 | 2026-08-15 |  |  |  |  |
@@ -29,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-01 04:35:57
+Generated: 2026-10-02 04:35:59
 
 ## Ratings Verlauf
 
@@ -38,9 +38,9 @@ Generated: 2026-10-01 04:35:57
 xychart-beta
   x-axis ["0.4.0", "0.6.0"]
   y-axis "Elo Rating" 1900 --> 2700
-  line "" [1962, 2201]
-  line "STC (8.0+0.08s)" [1962, 2201]
-  line "LTC (60.0+0.60s)" [2252, 2491]
+  line "" [1962, 2202]
+  line "STC (8.0+0.08s)" [1962, 2202]
+  line "LTC (60.0+0.60s)" [2252, 2492]
   line "" [2338, 2604]
   line "VLTC (2m24s+1.12s)" [2338, 2604]
 ```
@@ -53,9 +53,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2604 | 35 | 264 | 51% | 2591 | 34% |
-| 0.6.0 | LTC <sub>(60.0+0.60s)</sub> | 2491 | 35 | 264 | 48% | 2511 | 31% |
-| 0.6.0 | STC <sub>(8.0+0.08s)</sub> | 2201 | 34 | 308 | 46% | 2234 | 24% |
+| 0.6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2604 | 35 | 264 | 51% | 2592 | 34% |
+| 0.6.0 | LTC <sub>(60.0+0.60s)</sub> | 2492 | 35 | 264 | 48% | 2512 | 31% |
+| 0.6.0 | STC <sub>(8.0+0.08s)</sub> | 2202 | 34 | 308 | 46% | 2234 | 24% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.4.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2338 | 34 | 296 | 51% | 2331 | 25% |
 | 0.4.0 | LTC <sub>(60.0+0.60s)</sub> | 2252 | 35 | 280 | 50% | 2250 | 23% |
