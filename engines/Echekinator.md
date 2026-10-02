@@ -8,7 +8,7 @@ Home: https://github.com/Tym972/Echekinator
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1 | 2026-09-30 | 2141<sub>(+368) | 2380<sub>(+320) | 2408<sub>(+253) |  |
+| 1.1 | 2026-09-30 | 2149<sub>(+376) | 2350<sub>(+290) | 2433<sub>(+278) |  |
 | 1.0 | 2025-11-25 | 1773 | 2060 | 2155 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-01 04:38:05
+Generated: 2026-10-02 04:38:02
 
 ## Ratings Verlauf
 
@@ -34,11 +34,11 @@ Generated: 2026-10-01 04:38:05
 xychart-beta
   x-axis ["1.0", "1.1"]
   y-axis "Elo Rating" 1700 --> 2500
-  line "" [1773, 2141]
-  line "STC (8.0+0.08s)" [1773, 2141]
-  line "LTC (60.0+0.60s)" [2060, 2380]
-  line "" [2155, 2408]
-  line "VLTC (2m24s+1.12s)" [2155, 2408]
+  line "" [1773, 2149]
+  line "STC (8.0+0.08s)" [1773, 2149]
+  line "LTC (60.0+0.60s)" [2060, 2350]
+  line "" [2155, 2433]
+  line "VLTC (2m24s+1.12s)" [2155, 2433]
 ```
 
 
@@ -49,9 +49,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2408 | 67 | 76 | 59% | 2322 | 28% |
-| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 2380 | 80 | 52 | 63% | 2269 | 37% |
-| 1.1 | STC <sub>(8.0+0.08s)</sub> | 2141 | 66 | 88 | 57% | 2064 | 18% |
+| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2433 | 51 | 132 | 57% | 2364 | 29% |
+| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 2350 | 61 | 88 | 55% | 2304 | 35% |
+| 1.1 | STC <sub>(8.0+0.08s)</sub> | 2149 | 62 | 96 | 57% | 2072 | 20% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2155 | 26 | 544 | 47% | 2194 | 24% |
 | 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2060 | 23 | 684 | 51% | 2048 | 24% |
