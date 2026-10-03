@@ -8,7 +8,7 @@ Home: https://github.com/fizban99/micropython-usunfish
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.4 | 2026-09-12 | 1083<sub>(+new) | 1469<sub>(+new) | 1539<sub>(+new) |  |
+| 1.4 | 2026-09-12 | 1083<sub>(+new) | 1469<sub>(+new) | 1538<sub>(+new) |  |
 | 1.3 | 2026-06-28 |  |  |  |  |
 | 1.2a | 2026-06-07 |  |  |  |  |
 | 1.2 | 2026-06-04 |  |  |  |  |
@@ -30,7 +30,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-02 04:44:15
+Generated: 2026-10-03 04:44:07
 
 ## Ratings Verlauf
 
@@ -42,8 +42,8 @@ xychart-beta
   line "" [967, 1083]
   line "STC (8.0+0.08s)" [967, 1083]
   line "LTC (60.0+0.60s)" [1364, 1469]
-  line "" [1505, 1539]
-  line "VLTC (2m24s+1.12s)" [1505, 1539]
+  line "" [1505, 1538]
+  line "VLTC (2m24s+1.12s)" [1505, 1538]
 ```
 
 
@@ -54,11 +54,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.4 | VLTC <sub>(2m24s+1.12s)</sub> | 1539 | 39 | 238 | 54% | 1505 | 21% |
+| 1.4 | VLTC <sub>(2m24s+1.12s)</sub> | 1538 | 39 | 238 | 54% | 1505 | 21% |
 | 1.4 | LTC <sub>(60.0+0.60s)</sub> | 1469 | 40 | 220 | 52% | 1447 | 20% |
 | 1.4 | STC <sub>(8.0+0.08s)</sub> | 1083 | 36 | 278 | 49% | 1096 | 19% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 1505 | 32 | 360 | 51% | 1490 | 19% |
-| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 1364 | 33 | 344 | 51% | 1351 | 18% |
+| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 1364 | 33 | 344 | 51% | 1353 | 18% |
 | 1.1 | STC <sub>(8.0+0.08s)</sub> | 967 | 31 | 404 | 54% | 914 | 21% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
