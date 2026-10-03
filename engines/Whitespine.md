@@ -8,8 +8,8 @@ Home: https://github.com/maelic13/whitespine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.4.0 | 2026-04-29 | 737<sub>(-124) | 946<sub>(-79) | 1049<sub>(+19) |  |
-| 1.3.3 | 2026-03-26 | 861<sub>(+73) | 1025<sub>(-40) | 1030<sub>(-18) |  |
+| 1.4.0 | 2026-04-29 | 737<sub>(-124) | 946<sub>(-79) | 1049<sub>(+20) |  |
+| 1.3.3 | 2026-03-26 | 861<sub>(+73) | 1025<sub>(-40) | 1029<sub>(-19) |  |
 | 1.3.2 | 2025-09-16 | 788 | 1065 | 1048 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-02 04:44:33
+Generated: 2026-10-03 04:44:25
 
 ## Ratings Verlauf
 
@@ -38,8 +38,8 @@ xychart-beta
   line "" [788, 861, 737]
   line "STC (8.0+0.08s)" [788, 861, 737]
   line "LTC (60.0+0.60s)" [1065, 1025, 946]
-  line "" [1048, 1030, 1049]
-  line "VLTC (2m24s+1.12s)" [1048, 1030, 1049]
+  line "" [1048, 1029, 1049]
+  line "VLTC (2m24s+1.12s)" [1048, 1029, 1049]
 ```
 
 
@@ -54,7 +54,7 @@ xychart-beta
 | 1.4.0 | LTC <sub>(60.0+0.60s)</sub> | 946 | 51 | 202 | 54% | 879 | 12% |
 | 1.4.0 | STC <sub>(8.0+0.08s)</sub> | 737 | 53 | 186 | 45% | 818 | 11% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.3.3 | VLTC <sub>(2m24s+1.12s)</sub> | 1030 | 62 | 140 | 49% | 991 | 13% |
+| 1.3.3 | VLTC <sub>(2m24s+1.12s)</sub> | 1029 | 62 | 140 | 49% | 991 | 13% |
 | 1.3.3 | LTC <sub>(60.0+0.60s)</sub> | 1025 | 64 | 136 | 46% | 1013 | 12% |
 | 1.3.3 | STC <sub>(8.0+0.08s)</sub> | 861 | 73 | 116 | 42% | 940 | 10% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
