@@ -8,7 +8,7 @@ Home: https://github.com/JonathanHallstrom/pawnocchio
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0.1 | 2026-06-29 | 3479<sub>(+new) | 3568<sub>(+new) | 3599<sub>(+new) |  |
+| 2.0.1 | 2026-06-29 | 3478<sub>(+new) | 3568<sub>(+new) | 3598<sub>(+new) |  |
 | 2.0.0 | 2026-06-27 |  |  |  |  |
 | 1.9.2 | 2026-01-15 | 3384<sub>(+9) | 3549<sub>(+7) | 3560<sub>(+9) |  |
 | 1.9.1 | 2026-01-12 | 3375<sub>(-11) | 3542<sub>(+17) | 3551<sub>(-10) |  |
@@ -29,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-02 04:41:07
+Generated: 2026-10-03 04:40:57
 
 ## Ratings Verlauf
 
@@ -38,11 +38,11 @@ Generated: 2026-10-02 04:41:07
 xychart-beta
   x-axis ["1.9", "1.9.1", "1.9.2", "2.0.1"]
   y-axis "Elo Rating" 3300 --> 3600
-  line "" [3386, 3375, 3384, 3479]
-  line "STC (8.0+0.08s)" [3386, 3375, 3384, 3479]
+  line "" [3386, 3375, 3384, 3478]
+  line "STC (8.0+0.08s)" [3386, 3375, 3384, 3478]
   line "LTC (60.0+0.60s)" [3525, 3542, 3549, 3568]
-  line "" [3561, 3551, 3560, 3599]
-  line "VLTC (2m24s+1.12s)" [3561, 3551, 3560, 3599]
+  line "" [3561, 3551, 3560, 3598]
+  line "VLTC (2m24s+1.12s)" [3561, 3551, 3560, 3598]
 ```
 
 
@@ -53,9 +53,9 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3599 | 27 | 306 | 53% | 3582 | 90% |
+| 2.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3598 | 27 | 306 | 53% | 3582 | 90% |
 | 2.0.1 | LTC <sub>(60.0+0.60s)</sub> | 3568 | 25 | 356 | 50% | 3565 | 90% |
-| 2.0.1 | STC <sub>(8.0+0.08s)</sub> | 3479 | 24 | 428 | 51% | 3471 | 79% |
+| 2.0.1 | STC <sub>(8.0+0.08s)</sub> | 3478 | 24 | 428 | 51% | 3471 | 79% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.9.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3560 | 25 | 380 | 51% | 3556 | 88% |
 | 1.9.2 | LTC <sub>(60.0+0.60s)</sub> | 3549 | 25 | 372 | 51% | 3546 | 88% |
