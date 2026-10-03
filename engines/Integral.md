@@ -8,7 +8,7 @@ Home: https://github.com/aronpetko/integral
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 8.0 | 2026-09-11 | 3474<sub>(+96) | 3591<sub>(+62) | 3575<sub>(+24) |  |
+| 8.0 | 2026-09-11 | 3474<sub>(+96) | 3590<sub>(+61) | 3575<sub>(+24) |  |
 | 7.0 | 2025-02-14 | 3378 | 3529 | 3551 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-02 04:39:29
+Generated: 2026-10-03 04:39:20
 
 ## Ratings Verlauf
 
@@ -36,7 +36,7 @@ xychart-beta
   y-axis "Elo Rating" 3300 --> 3600
   line "" [3378, 3474]
   line "STC (8.0+0.08s)" [3378, 3474]
-  line "LTC (60.0+0.60s)" [3529, 3591]
+  line "LTC (60.0+0.60s)" [3529, 3590]
   line "" [3551, 3575]
   line "VLTC (2m24s+1.12s)" [3551, 3575]
 ```
@@ -50,7 +50,7 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 8.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3575 | 34 | 190 | 51% | 3572 | 95% |
-| 8.0 | LTC <sub>(60.0+0.60s)</sub> | 3591 | 39 | 148 | 51% | 3580 | 91% |
+| 8.0 | LTC <sub>(60.0+0.60s)</sub> | 3590 | 39 | 148 | 51% | 3580 | 91% |
 | 8.0 | STC <sub>(8.0+0.08s)</sub> | 3474 | 27 | 316 | 52% | 3461 | 82% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 7.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3551 | 15 | 1010 | 50% | 3551 | 87% |
