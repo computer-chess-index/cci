@@ -11,8 +11,8 @@ Home: https://github.com/HasanFakih21/JustBot
 | 0.5.0 | 2026-09-24 | 3379<sub>(+84) | 3534<sub>(+81) | 3532<sub>(+11) |  |
 | 0.4.0 | 2026-08-11 | 3295<sub>(+230) | 3453<sub>(+177) | 3521<sub>(+191) |  |
 | 0.3.0 | 2026-07-19 | 3065<sub>(+485) | 3276<sub>(+380) | 3330<sub>(+364) |  |
-| 0.2.0 | 2026-06-24 | 2580<sub>(+555) | 2896<sub>(+578) | 2966<sub>(+552) |  |
-| 0.1.0 | 2026-06-09 | 2025 | 2318 | 2414 |  |
+| 0.2.0 | 2026-06-24 | 2580<sub>(+555) | 2896<sub>(+578) | 2966<sub>(+551) |  |
+| 0.1.0 | 2026-06-09 | 2025 | 2318 | 2415 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Justbot+<version>&body=###%20Engine%20name%0AJustbot%0A%0A###%20Version%0A0.5.0" target="_blank">Submit new version</a>
@@ -28,7 +28,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-02 04:39:36
+Generated: 2026-10-03 04:39:27
 
 ## Ratings Verlauf
 
@@ -40,8 +40,8 @@ xychart-beta
   line "" [2025, 2580, 3065, 3295, 3379]
   line "STC (8.0+0.08s)" [2025, 2580, 3065, 3295, 3379]
   line "LTC (60.0+0.60s)" [2318, 2896, 3276, 3453, 3534]
-  line "" [2414, 2966, 3330, 3521, 3532]
-  line "VLTC (2m24s+1.12s)" [2414, 2966, 3330, 3521, 3532]
+  line "" [2415, 2966, 3330, 3521, 3532]
+  line "VLTC (2m24s+1.12s)" [2415, 2966, 3330, 3521, 3532]
 ```
 
 
@@ -68,7 +68,7 @@ xychart-beta
 | 0.2.0 | LTC <sub>(60.0+0.60s)</sub> | 2896 | 32 | 296 | 47% | 2915 | 42% |
 | 0.2.0 | STC <sub>(8.0+0.08s)</sub> | 2580 | 36 | 252 | 46% | 2619 | 33% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2414 | 36 | 278 | 49% | 2435 | 22% |
+| 0.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2415 | 36 | 278 | 49% | 2435 | 22% |
 | 0.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2318 | 35 | 284 | 49% | 2326 | 26% |
 | 0.1.0 | STC <sub>(8.0+0.08s)</sub> | 2025 | 37 | 266 | 48% | 2040 | 21% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
