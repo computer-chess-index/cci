@@ -8,7 +8,7 @@ Home: https://github.com/matt-dot-net/dorky-release
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 5.1 | 2026-08-21 | 2311<sub>(+69) | 2649<sub>(+138) | 2750<sub>(+105) |  |
+| 5.1 | 2026-08-21 | 2313<sub>(+71) | 2649<sub>(+138) | 2750<sub>(+105) |  |
 | 5.0 | 2026-08-08 | 2242 | 2511 | 2645 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-02 04:37:57
+Generated: 2026-10-03 04:37:51
 
 ## Ratings Verlauf
 
@@ -34,8 +34,8 @@ Generated: 2026-10-02 04:37:57
 xychart-beta
   x-axis ["5.0", "5.1"]
   y-axis "Elo Rating" 2200 --> 2800
-  line "" [2242, 2311]
-  line "STC (8.0+0.08s)" [2242, 2311]
+  line "" [2242, 2313]
+  line "STC (8.0+0.08s)" [2242, 2313]
   line "LTC (60.0+0.60s)" [2511, 2649]
   line "" [2645, 2750]
   line "VLTC (2m24s+1.12s)" [2645, 2750]
@@ -51,7 +51,7 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 5.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2750 | 32 | 316 | 52% | 2734 | 37% |
 | 5.1 | LTC <sub>(60.0+0.60s)</sub> | 2649 | 31 | 338 | 52% | 2630 | 30% |
-| 5.1 | STC <sub>(8.0+0.08s)</sub> | 2311 | 37 | 232 | 50% | 2307 | 34% |
+| 5.1 | STC <sub>(8.0+0.08s)</sub> | 2313 | 37 | 232 | 50% | 2307 | 34% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 5.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2645 | 34 | 298 | 48% | 2666 | 27% |
 | 5.0 | LTC <sub>(60.0+0.60s)</sub> | 2511 | 37 | 246 | 50% | 2479 | 29% |
