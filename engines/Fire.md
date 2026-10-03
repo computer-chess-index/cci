@@ -8,7 +8,7 @@ Home: https://github.com/Firefather/fire
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 10.0 | 2025-08-09 | 3154<sub>(-1) | 3391<sub>(+8) | 3438<sub>(+2) |  |
+| 10.0 | 2025-08-09 | 3155<sub>(0) | 3391<sub>(+8) | 3438<sub>(+2) |  |
 | 9.3 | 2024-03-10 | 3155 | 3383 | 3436 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-02 04:38:33
+Generated: 2026-10-03 04:38:25
 
 ## Ratings Verlauf
 
@@ -34,8 +34,8 @@ Generated: 2026-10-02 04:38:33
 xychart-beta
   x-axis ["9.3", "10.0"]
   y-axis "Elo Rating" 3100 --> 3500
-  line "" [3155, 3154]
-  line "STC (8.0+0.08s)" [3155, 3154]
+  line "" [3155, 3155]
+  line "STC (8.0+0.08s)" [3155, 3155]
   line "LTC (60.0+0.60s)" [3383, 3391]
   line "" [3436, 3438]
   line "VLTC (2m24s+1.12s)" [3436, 3438]
@@ -51,7 +51,7 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 10.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3438 | 18 | 732 | 49% | 3443 | 75% |
 | 10.0 | LTC <sub>(60.0+0.60s)</sub> | 3391 | 18 | 744 | 50% | 3390 | 71% |
-| 10.0 | STC <sub>(8.0+0.08s)</sub> | 3154 | 17 | 948 | 51% | 3146 | 60% |
+| 10.0 | STC <sub>(8.0+0.08s)</sub> | 3155 | 17 | 948 | 51% | 3146 | 60% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 9.3 | VLTC <sub>(2m24s+1.12s)</sub> | 3436 | 13 | 1520 | 49% | 3437 | 75% |
 | 9.3 | LTC <sub>(60.0+0.60s)</sub> | 3383 | 13 | 1496 | 50% | 3382 | 73% |
