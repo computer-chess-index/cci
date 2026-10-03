@@ -9,7 +9,7 @@ Home: https://github.com/AnanyTanwar/Catalyst
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 3.1.0 | 2026-07-07 |  |  |  |  |
-| 3.0.0 | 2026-04-23 | 2666<sub>(+85) | 3087<sub>(+128) | 3140<sub>(+80) |  |
+| 3.0.0 | 2026-04-23 | 2666<sub>(+85) | 3089<sub>(+130) | 3140<sub>(+80) |  |
 | 2.2.0 | 2026-04-03 | 2581<sub>(-18) | 2959<sub>(+32) | 3060<sub>(+137) |  |
 | 2.1.0 | 2026-04-02 | 2599<sub>(+6) | 2927<sub>(-30) | 2923<sub>(-69) |  |
 | 2.0.0 | 2026-03-29 | 2593<sub>(+276) | 2957<sub>(+185) | 2992<sub>(+110) |  |
@@ -29,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-02 04:36:47
+Generated: 2026-10-03 04:36:42
 
 ## Ratings Verlauf
 
@@ -40,7 +40,7 @@ xychart-beta
   y-axis "Elo Rating" 2300 --> 3200
   line "" [2317, 2593, 2599, 2581, 2666]
   line "STC (8.0+0.08s)" [2317, 2593, 2599, 2581, 2666]
-  line "LTC (60.0+0.60s)" [2772, 2957, 2927, 2959, 3087]
+  line "LTC (60.0+0.60s)" [2772, 2957, 2927, 2959, 3089]
   line "" [2882, 2992, 2923, 3060, 3140]
   line "VLTC (2m24s+1.12s)" [2882, 2992, 2923, 3060, 3140]
 ```
@@ -54,7 +54,7 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3140 | 38 | 202 | 48% | 3158 | 49% |
-| 3.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3087 | 43 | 150 | 51% | 3083 | 52% |
+| 3.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3089 | 43 | 150 | 51% | 3083 | 52% |
 | 3.0.0 | STC <sub>(8.0+0.08s)</sub> | 2666 | 50 | 128 | 50% | 2668 | 33% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3060 | 34 | 242 | 51% | 3055 | 56% |
