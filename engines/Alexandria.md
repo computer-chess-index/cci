@@ -8,6 +8,7 @@ Home: https://github.com/PGG106/Alexandria
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
+| 9.1.0 | 2026-10-04 |  |  |  |  |
 | 9.0 | 2026-02-27 | 3440<sub>(+2) | 3559<sub>(+4) | 3587<sub>(-3) |  |
 | 8.1.12 | 2025-11-09 | 3438<sub>(+8) | 3555<sub>(-1) | 3590<sub>(+14) |  |
 | 8.1 | 2025-08-16 | 3430<sub>(+29) | 3556<sub>(+24) | 3576<sub>(+9) |  |
@@ -16,7 +17,7 @@ Home: https://github.com/PGG106/Alexandria
 | 7.0 | 2024-05-25 | 3344 | 3501 | 3544 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Alexandria+<version>&body=###%20Engine%20name%0AAlexandria%0A%0A###%20Version%0A9.0" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Alexandria+<version>&body=###%20Engine%20name%0AAlexandria%0A%0A###%20Version%0A9.1.0" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -29,7 +30,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-05 04:35:29
+Generated: 2026-10-06 04:35:26
 
 ## Ratings Verlauf
 
