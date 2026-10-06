@@ -8,6 +8,7 @@ Home: https://github.com/CMCanavessi/facon
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
+| 1.7 | 2026-10-04 |  |  |  |  |
 | 1.6 | 2026-06-11 | 2380<sub>(+213) | 2622<sub>(+219) | 2755<sub>(+245) |  |
 | 1.5 | 2026-05-26 | 2167<sub>(+160) | 2403<sub>(+107) | 2510<sub>(+154) |  |
 | 1.4 | 2026-04-25 | 2007<sub>(+488) | 2296<sub>(+436) | 2356<sub>(+381) |  |
@@ -15,7 +16,7 @@ Home: https://github.com/CMCanavessi/facon
 | 1.2 | 2026-03-24 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Facon+<version>&body=###%20Engine%20name%0AFacon%0A%0A###%20Version%0A1.6" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Facon+<version>&body=###%20Engine%20name%0AFacon%0A%0A###%20Version%0A1.7" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -28,7 +29,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-05 04:38:23
+Generated: 2026-10-06 04:38:19
 
 ## Ratings Verlauf
 
