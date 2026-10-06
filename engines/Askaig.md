@@ -8,6 +8,7 @@ Home: https://github.com/sophiathedev/askaig
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
+| 20261003 | 2026-10-03 |  |  |  |  |
 | 20260811 | 2026-08-11 | 3004<sub>(-21) | 3264<sub>(+47) | 3293<sub>(+30) |  |
 | 20260704 | 2026-07-04 | 3025<sub>(+614) | 3217<sub>(+540) | 3263<sub>(+536) |  |
 | 20260628 | 2026-06-28 | 2411<sub>(-1) | 2677<sub>(+23) | 2727<sub>(-22) |  |
@@ -16,7 +17,7 @@ Home: https://github.com/sophiathedev/askaig
 | 20260614 | 2026-06-14 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Askaig+<version>&body=###%20Engine%20name%0AAskaig%0A%0A###%20Version%0A20260811" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Askaig+<version>&body=###%20Engine%20name%0AAskaig%0A%0A###%20Version%0A20261003" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -29,7 +30,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-05 04:36:01
+Generated: 2026-10-06 04:35:58
 
 ## Ratings Verlauf
 
