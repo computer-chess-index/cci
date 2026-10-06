@@ -8,12 +8,13 @@ Home: https://github.com/cristivlas/sturddle-2
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
+| Release-2.7.0 | 2026-10-04 |  |  |  |  |
 | 2.6.0 | 2026-08-09 | 2797<sub>(+94) | 3108<sub>(+77) | 3155<sub>(-16) |  |
 | 2.5.0 | 2026-02-04 | 2703<sub>(+77) | 3031<sub>(+19) | 3171<sub>(+73) |  |
 | 2.4.0 | 2025-12-06 | 2626 | 3012 | 3098 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Sturddle2+<version>&body=###%20Engine%20name%0ASturddle2%0A%0A###%20Version%0A2.6.0" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Sturddle2+<version>&body=###%20Engine%20name%0ASturddle2%0A%0A###%20Version%0ARelease-2.7.0" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -26,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-05 04:43:23
+Generated: 2026-10-06 04:43:20
 
 ## Ratings Verlauf
 
