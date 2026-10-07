@@ -8,9 +8,9 @@ Home: https://github.com/ProgramciDusunur/Potential
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| unlocked | 2026-07-27 | 2753<sub>(+528) | 3100<sub>(+617) | 3143<sub>(+536) |  |
-| 1.1.0 | 2026-05-16 | 2225<sub>(-317) | 2483<sub>(-379) | 2607<sub>(-344) |  |
-| 3.0.0 | 2025-08-28 | 2542 | 2862 | 2951 |  |
+| unlocked | 2026-07-27 | 2750<sub>(+525) | 3100<sub>(+617) | 3143<sub>(+536) |  |
+| 1.1.0 | 2026-05-16 | 2225<sub>(-318) | 2483<sub>(-379) | 2607<sub>(-344) |  |
+| 3.0.0 | 2025-08-28 | 2543 | 2862 | 2951 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Potential+<version>&body=###%20Engine%20name%0APotential%0A%0A###%20Version%0Aunlocked" target="_blank">Submit new version</a>
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-06 04:41:17
+Generated: 2026-10-07 04:41:24
 
 ## Ratings Verlauf
 
@@ -35,8 +35,8 @@ Generated: 2026-10-06 04:41:17
 xychart-beta
   x-axis ["3.0.0", "1.1.0", "unlocked"]
   y-axis "Elo Rating" 2200 --> 3200
-  line "" [2542, 2225, 2753]
-  line "STC (8.0+0.08s)" [2542, 2225, 2753]
+  line "" [2543, 2225, 2750]
+  line "STC (8.0+0.08s)" [2543, 2225, 2750]
   line "LTC (60.0+0.60s)" [2862, 2483, 3100]
   line "" [2951, 2607, 3143]
   line "VLTC (2m24s+1.12s)" [2951, 2607, 3143]
@@ -52,7 +52,7 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | unlocked | VLTC <sub>(2m24s+1.12s)</sub> | 3143 | 28 | 356 | 50% | 3139 | 56% |
 | unlocked | LTC <sub>(60.0+0.60s)</sub> | 3100 | 27 | 416 | 52% | 3078 | 47% |
-| unlocked | STC <sub>(8.0+0.08s)</sub> | 2753 | 30 | 346 | 52% | 2738 | 36% |
+| unlocked | STC <sub>(8.0+0.08s)</sub> | 2750 | 30 | 350 | 51% | 2738 | 36% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2607 | 29 | 416 | 48% | 2624 | 27% |
 | 1.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2483 | 28 | 416 | 50% | 2483 | 32% |
@@ -60,5 +60,5 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2951 | 28 | 404 | 49% | 2961 | 34% |
 | 3.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2862 | 29 | 380 | 49% | 2871 | 34% |
-| 3.0.0 | STC <sub>(8.0+0.08s)</sub> | 2542 | 27 | 452 | 49% | 2547 | 30% |
+| 3.0.0 | STC <sub>(8.0+0.08s)</sub> | 2543 | 27 | 452 | 49% | 2547 | 30% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
