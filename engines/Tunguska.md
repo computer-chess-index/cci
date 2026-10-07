@@ -8,7 +8,7 @@ Home: https://github.com/fernandotenorio/Tunguska
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.2 | 2026-09-07 | 2916<sub>(+97) | 3182<sub>(+31) | 3286<sub>(+68) |  |
+| 2.2 | 2026-09-07 | 2917<sub>(+98) | 3181<sub>(+30) | 3286<sub>(+68) |  |
 | 2.1 | 2026-04-08 | 2819<sub>(+311) | 3151<sub>(+297) | 3218<sub>(+283) |  |
 | 2.0 | 2026-03-18 | 2508 | 2854 | 2935 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-06 04:43:53
+Generated: 2026-10-07 04:44:09
 
 ## Ratings Verlauf
 
@@ -35,9 +35,9 @@ Generated: 2026-10-06 04:43:53
 xychart-beta
   x-axis ["2.0", "2.1", "2.2"]
   y-axis "Elo Rating" 2500 --> 3300
-  line "" [2508, 2819, 2916]
-  line "STC (8.0+0.08s)" [2508, 2819, 2916]
-  line "LTC (60.0+0.60s)" [2854, 3151, 3182]
+  line "" [2508, 2819, 2917]
+  line "STC (8.0+0.08s)" [2508, 2819, 2917]
+  line "LTC (60.0+0.60s)" [2854, 3151, 3181]
   line "" [2935, 3218, 3286]
   line "VLTC (2m24s+1.12s)" [2935, 3218, 3286]
 ```
@@ -51,8 +51,8 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3286 | 30 | 284 | 50% | 3283 | 68% |
-| 2.2 | LTC <sub>(60.0+0.60s)</sub> | 3182 | 33 | 240 | 50% | 3183 | 61% |
-| 2.2 | STC <sub>(8.0+0.08s)</sub> | 2916 | 34 | 252 | 50% | 2917 | 51% |
+| 2.2 | LTC <sub>(60.0+0.60s)</sub> | 3181 | 33 | 244 | 49% | 3183 | 61% |
+| 2.2 | STC <sub>(8.0+0.08s)</sub> | 2917 | 34 | 252 | 50% | 2917 | 51% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3218 | 24 | 488 | 50% | 3216 | 59% |
 | 2.1 | LTC <sub>(60.0+0.60s)</sub> | 3151 | 24 | 458 | 52% | 3133 | 59% |
