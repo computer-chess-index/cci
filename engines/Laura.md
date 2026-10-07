@@ -10,8 +10,8 @@ Home: https://github.com/HansTibberio/Laura
 | --- | --- | --- | --- | --- | --- |
 | 4.0.0 | 2026-05-09 | 1729<sub>(+155) | 1889<sub>(+188) | 1989<sub>(+173) |  |
 | 3.0.0 | 2026-04-29 | 1574<sub>(+212) | 1701<sub>(+31) | 1816<sub>(+123) |  |
-| 2.0.0 | 2026-04-23 | 1362<sub>(+61) | 1670<sub>(+189) | 1693<sub>(+281) |  |
-| 1.1.0 | 2026-01-26 | 1301 | 1481 | 1412 |  |
+| 2.0.0 | 2026-04-23 | 1362<sub>(+61) | 1670<sub>(+188) | 1693<sub>(+281) |  |
+| 1.1.0 | 2026-01-26 | 1301 | 1482 | 1412 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Laura+<version>&body=###%20Engine%20name%0ALaura%0A%0A###%20Version%0A4.0.0" target="_blank">Submit new version</a>
@@ -27,7 +27,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-06 04:39:44
+Generated: 2026-10-07 04:39:50
 
 ## Ratings Verlauf
 
@@ -38,7 +38,7 @@ xychart-beta
   y-axis "Elo Rating" 1300 --> 2000
   line "" [1301, 1362, 1574, 1729]
   line "STC (8.0+0.08s)" [1301, 1362, 1574, 1729]
-  line "LTC (60.0+0.60s)" [1481, 1670, 1701, 1889]
+  line "LTC (60.0+0.60s)" [1482, 1670, 1701, 1889]
   line "" [1412, 1693, 1816, 1989]
   line "VLTC (2m24s+1.12s)" [1412, 1693, 1816, 1989]
 ```
@@ -60,10 +60,10 @@ xychart-beta
 | 3.0.0 | STC <sub>(8.0+0.08s)</sub> | 1574 | 54 | 126 | 49% | 1582 | 21% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1693 | 56 | 98 | 53% | 1674 | 45% |
-| 2.0.0 | LTC <sub>(60.0+0.60s)</sub> | 1670 | 55 | 104 | 48% | 1696 | 39% |
+| 2.0.0 | LTC <sub>(60.0+0.60s)</sub> | 1670 | 55 | 104 | 48% | 1697 | 39% |
 | 2.0.0 | STC <sub>(8.0+0.08s)</sub> | 1362 | 56 | 108 | 55% | 1292 | 37% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1412 | 52 | 132 | 43% | 1588 | 37% |
-| 1.1.0 | LTC <sub>(60.0+0.60s)</sub> | 1481 | 51 | 134 | 43% | 1609 | 34% |
+| 1.1.0 | LTC <sub>(60.0+0.60s)</sub> | 1482 | 51 | 134 | 43% | 1609 | 34% |
 | 1.1.0 | STC <sub>(8.0+0.08s)</sub> | 1301 | 62 | 134 | 47% | 1346 | 25% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
