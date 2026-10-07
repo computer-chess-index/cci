@@ -8,7 +8,7 @@ Home: https://github.com/Lacovipo/Gilipol
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.00 | 2026-06-06 | 2665<sub>(+116) | 3002<sub>(+132) | 3114<sub>(+102) |  |
+| 2.00 | 2026-06-06 | 2665<sub>(+116) | 3002<sub>(+132) | 3116<sub>(+104) |  |
 | 1.00netbin | 2026-04-13 | 2549<sub>(+2151) | 2870<sub>(+2412) | 3012<sub>(+2542) |  |
 | 1.00 | 2026-04-12 | 398 | 458 | 470 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-06 04:38:43
+Generated: 2026-10-07 04:38:52
 
 ## Ratings Verlauf
 
@@ -38,8 +38,8 @@ xychart-beta
   line "" [398, 2549, 2665]
   line "STC (8.0+0.08s)" [398, 2549, 2665]
   line "LTC (60.0+0.60s)" [458, 2870, 3002]
-  line "" [470, 3012, 3114]
-  line "VLTC (2m24s+1.12s)" [470, 3012, 3114]
+  line "" [470, 3012, 3116]
+  line "VLTC (2m24s+1.12s)" [470, 3012, 3116]
 ```
 
 
@@ -50,7 +50,7 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.00 | VLTC <sub>(2m24s+1.12s)</sub> | 3114 | 24 | 486 | 52% | 3092 | 54% |
+| 2.00 | VLTC <sub>(2m24s+1.12s)</sub> | 3116 | 24 | 488 | 53% | 3090 | 54% |
 | 2.00 | LTC <sub>(60.0+0.60s)</sub> | 3002 | 26 | 428 | 52% | 2982 | 46% |
 | 2.00 | STC <sub>(8.0+0.08s)</sub> | 2665 | 27 | 436 | 51% | 2654 | 33% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
