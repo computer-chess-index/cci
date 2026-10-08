@@ -9,7 +9,7 @@ Home: https://github.com/maelic13/rarog
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 2.5.0 | 2026-10-05 |  |  |  |  |
-| 2.4.0 | 2026-09-11 | 2610<sub>(+new) | 2928<sub>(+new) | 3012<sub>(+new) |  |
+| 2.4.0 | 2026-09-11 | 2611<sub>(+new) | 2930<sub>(+new) | 3013<sub>(+new) |  |
 | 2.3.2 | 2026-08-11 |  |  |  |  |
 | 2.3.1 | 2026-07-29 |  |  |  |  |
 | 2.3.0 | 2026-07-29 |  |  |  |  |
@@ -46,7 +46,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-07 04:41:58
+Generated: 2026-10-08 04:42:06
 
 
 
@@ -54,7 +54,7 @@ Generated: 2026-10-07 04:41:58
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.4.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3012 | 35 | 256 | 53% | 2982 | 40% |
-| 2.4.0 | LTC <sub>(60.0+0.60s)</sub> | 2928 | 33 | 288 | 57% | 2858 | 39% |
-| 2.4.0 | STC <sub>(8.0+0.08s)</sub> | 2610 | 36 | 262 | 51% | 2561 | 29% |
+| 2.4.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3013 | 35 | 256 | 53% | 2982 | 40% |
+| 2.4.0 | LTC <sub>(60.0+0.60s)</sub> | 2930 | 33 | 288 | 57% | 2858 | 39% |
+| 2.4.0 | STC <sub>(8.0+0.08s)</sub> | 2611 | 36 | 262 | 51% | 2561 | 29% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
