@@ -8,8 +8,8 @@ Home: https://github.com/kachhy/Onslaught
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0 | 2026-09-12 | 2996<sub>(+447) | 3241<sub>(+430) | 3302<sub>(+377) |  |
-| 1.0 | 2026-06-02 | 2549 | 2811 | 2925 |  |
+| 2.0 | 2026-09-12 | 2996<sub>(+446) | 3241<sub>(+430) | 3302<sub>(+377) |  |
+| 1.0 | 2026-06-02 | 2550 | 2811 | 2925 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Onslaught+<version>&body=###%20Engine%20name%0AOnslaught%0A%0A###%20Version%0A2.0" target="_blank">Submit new version</a>
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-07 04:40:53
+Generated: 2026-10-08 04:41:00
 
 ## Ratings Verlauf
 
@@ -34,8 +34,8 @@ Generated: 2026-10-07 04:40:53
 xychart-beta
   x-axis ["1.0", "2.0"]
   y-axis "Elo Rating" 2500 --> 3400
-  line "" [2549, 2996]
-  line "STC (8.0+0.08s)" [2549, 2996]
+  line "" [2550, 2996]
+  line "STC (8.0+0.08s)" [2550, 2996]
   line "LTC (60.0+0.60s)" [2811, 3241]
   line "" [2925, 3302]
   line "VLTC (2m24s+1.12s)" [2925, 3302]
@@ -51,9 +51,9 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3302 | 32 | 264 | 53% | 3281 | 65% |
 | 2.0 | LTC <sub>(60.0+0.60s)</sub> | 3241 | 29 | 314 | 53% | 3218 | 61% |
-| 2.0 | STC <sub>(8.0+0.08s)</sub> | 2996 | 36 | 232 | 51% | 2984 | 45% |
+| 2.0 | STC <sub>(8.0+0.08s)</sub> | 2996 | 36 | 232 | 51% | 2985 | 45% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2925 | 29 | 364 | 51% | 2919 | 45% |
-| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2811 | 31 | 324 | 51% | 2795 | 43% |
-| 1.0 | STC <sub>(8.0+0.08s)</sub> | 2549 | 30 | 372 | 50% | 2546 | 33% |
+| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2811 | 31 | 324 | 51% | 2796 | 43% |
+| 1.0 | STC <sub>(8.0+0.08s)</sub> | 2550 | 30 | 372 | 50% | 2546 | 33% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
