@@ -9,7 +9,7 @@ Home: https://github.com/Dejon51/Crustik
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 0.4.0 | 2026-10-05 |  |  |  |  |
-| 0.3.0 | 2026-08-27 | 2654<sub>(+new) | 2925<sub>(+new) | 3001<sub>(+new) |  |
+| 0.3.0 | 2026-08-27 | 2654<sub>(+new) | 2927<sub>(+new) | 3002<sub>(+new) |  |
 | 0.2.0 | 2026-06-26 |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-07 04:37:37
+Generated: 2026-10-08 04:37:40
 
 
 
@@ -34,7 +34,7 @@ Generated: 2026-10-07 04:37:37
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3001 | 33 | 282 | 51% | 2998 | 43% |
-| 0.3.0 | LTC <sub>(60.0+0.60s)</sub> | 2925 | 33 | 270 | 51% | 2913 | 46% |
-| 0.3.0 | STC <sub>(8.0+0.08s)</sub> | 2654 | 34 | 272 | 50% | 2650 | 38% |
+| 0.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3002 | 33 | 282 | 51% | 2998 | 43% |
+| 0.3.0 | LTC <sub>(60.0+0.60s)</sub> | 2927 | 33 | 270 | 51% | 2915 | 46% |
+| 0.3.0 | STC <sub>(8.0+0.08s)</sub> | 2654 | 34 | 272 | 50% | 2651 | 38% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
