@@ -4,7 +4,21 @@ Author: Vishnu Bhagyanath
 
 Home: https://github.com/znxftw/rudim
 
-## Elo Ratings
+## Elo Ratings E1
+
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
+| --- | --- | --- | --- | --- | --- |
+| 3.0.5 | 2026-07-06 | 2569 | 2846 | 2900 |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
+
+## Elo Ratings P1
+
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
+| --- | --- | --- | --- | --- | --- |
+| 3.0.5 | 2026-07-06 | 2816 | 3038 | 3151 |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
+
+## Elo Ratings T1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -13,11 +27,7 @@ Home: https://github.com/znxftw/rudim
 | 3.0.3 | 2026-06-18 | 2542<sub>(+81) | 2781<sub>(+58) | 2880<sub>(+88) |  |
 | 3.0.2 | 2026-06-13 | 2461<sub>(+170) | 2723<sub>(+173) | 2792<sub>(+184) |  |
 | 3.0.1 | 2026-06-09 | 2291<sub>(+49) | 2550<sub>(+100) | 2608<sub>(+5) |  |
-| 3.0.0 | 2026-06-06 | 2242<sub>(+new) | 2450<sub>(+new) | 2603<sub>(+new) |  |
-| 2.2.2 | 2026-05-29 |  |  |  |  |
-| 2.2.1 | 2026-05-27 |  |  |  |  |
-| 2.2.0 | 2026-05-26 |  |  |  |  |
-| 2.1.3 | 2026-05-23 |  |  |  |  |
+| 3.0.0 | 2026-06-06 | 2242<sub>(+428) | 2450<sub>(+413) | 2603<sub>(+438) |  |
 | 2.1.2 | 2026-05-20 | 1814<sub>(+83) | 2037<sub>(+47) | 2165<sub>(+75) |  |
 | 2.1.1 | 2026-05-16 | 1731<sub>(-12) | 1990<sub>(+32) | 2090<sub>(+132) |  |
 | 2.1.0 | 2026-05-14 | 1743<sub>(+82) | 1958<sub>(+36) | 1958<sub>(-6) |  |
@@ -31,14 +41,16 @@ Home: https://github.com/znxftw/rudim
 
 GUI/CLI: <a href=https://github.com/cutechess/cutechess target="_blank">Cute-Chess</a><br>
 Elo Calculation: <a href=https://www.remi-coulom.fr/Bayesian-Elo/ target="_blank">Bayesian-Elo</a><br>
-CPU: Intel(R) Core(TM) i5-7500T 2.70GHz<br>
+CPU for P1: Intel(R) Core(TM) Ultra 7 265T (1.50 GHz) - P-Core<br>
+CPU for E1: Intel(R) Core(TM) Ultra 7 265T (1.50 GHz) - E-Core<br>
+CPU for T1: Intel(R) Core(TM) i5-7500T 2.70GHz<br>
 Opening book: 8_moves_v3<br>
 \* STC: 8.0+0.08s, LTC: 60.0+0.60s, VLTC: 2m24s+1.12s
 
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-09 04:42:34
+Generated: 2026-10-09 14:16:04
 
 ## Ratings Verlauf
 
@@ -62,9 +74,17 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| 3.0.5 | VLTC <sub>(2m24s+1.12s)</sub> | 3151 | 38 | 200 | 49% | 3160 | 49% |
+| 3.0.5 | VLTC <sub>(2m24s+1.12s)</sub> | 2900 | 31 | 288 | 47% | 2924 | 53% |
 | 3.0.5 | VLTC <sub>(2m24s+1.12s)</sub> | 3008 | 27 | 398 | 48% | 3020 | 46% |
+| 3.0.5 | LTC <sub>(60.0+0.60s)</sub> | 2846 | 34 | 252 | 48% | 2869 | 47% |
 | 3.0.5 | LTC <sub>(60.0+0.60s)</sub> | 2893 | 28 | 380 | 50% | 2897 | 43% |
+| 3.0.5 | LTC <sub>(60.0+0.60s)</sub> | 3038 | 43 | 158 | 52% | 3025 | 49% |
+| 3.0.5 | STC <sub>(8.0+0.08s)</sub> | 2569 | 37 | 236 | 50% | 2569 | 33% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.0.5 | STC <sub>(8.0+0.08s)</sub> | 2645 | 29 | 378 | 50% | 2647 | 31% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 3.0.5 | STC <sub>(8.0+0.08s)</sub> | 2816 | 41 | 184 | 51% | 2804 | 35% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.0.4 | VLTC <sub>(2m24s+1.12s)</sub> | 2888 | 47 | 132 | 51% | 2878 | 45% |
 | 3.0.4 | LTC <sub>(60.0+0.60s)</sub> | 2826 | 39 | 192 | 51% | 2817 | 46% |
