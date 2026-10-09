@@ -4,7 +4,21 @@ Author: Daniel Michna
 
 Home: https://github.com/ZlomenyMesic/Kreveta
 
-## Elo Ratings
+## Elo Ratings E1
+
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
+| --- | --- | --- | --- | --- | --- |
+| 2.3.1 | 2026-05-12 | 1692 | 2064 | 2199 |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
+
+## Elo Ratings P1
+
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
+| --- | --- | --- | --- | --- | --- |
+| 2.3.1 | 2026-05-12 | 1953 | 2295 | 2412 |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
+
+## Elo Ratings T1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -18,9 +32,7 @@ Home: https://github.com/ZlomenyMesic/Kreveta
 | 2.2.0 | 2025-12-23 | 1655<sub>(+24) | 1944<sub>(+49) | 2080<sub>(+81) |  |
 | 2.0.0 | 2025-12-01 | 1631<sub>(+103) | 1895<sub>(+133) | 1999<sub>(+152) |  |
 | 1.2.4 | 2025-11-17 | 1528<sub>(+51) | 1762<sub>(-38) | 1847<sub>(-28) |  |
-| 1.2.3 | 2025-10-31 | 1477<sub>(+new) | 1800<sub>(+new) | 1875<sub>(+new) |  |
-| 1.1.3 | 2025-10-26 |  |  |  |  |
-| 1.0 | 2025-09-10 |  |  |  |  |
+| 1.2.3 | 2025-10-31 | 1477 | 1800 | 1875 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Kreveta+<version>&body=###%20Engine%20name%0AKreveta%0A%0A###%20Version%0A2.3.1" target="_blank">Submit new version</a>
@@ -29,14 +41,16 @@ Home: https://github.com/ZlomenyMesic/Kreveta
 
 GUI/CLI: <a href=https://github.com/cutechess/cutechess target="_blank">Cute-Chess</a><br>
 Elo Calculation: <a href=https://www.remi-coulom.fr/Bayesian-Elo/ target="_blank">Bayesian-Elo</a><br>
-CPU: Intel(R) Core(TM) i5-7500T 2.70GHz<br>
+CPU for P1: Intel(R) Core(TM) Ultra 7 265T (1.50 GHz) - P-Core<br>
+CPU for E1: Intel(R) Core(TM) Ultra 7 265T (1.50 GHz) - E-Core<br>
+CPU for T1: Intel(R) Core(TM) i5-7500T 2.70GHz<br>
 Opening book: 8_moves_v3<br>
 \* STC: 8.0+0.08s, LTC: 60.0+0.60s, VLTC: 2m24s+1.12s
 
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-09 04:39:38
+Generated: 2026-10-09 14:12:57
 
 ## Ratings Verlauf
 
@@ -60,9 +74,17 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2412 | 52 | 138 | 49% | 2444 | 20% |
+| 2.3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2199 | 45 | 180 | 49% | 2230 | 22% |
 | 2.3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2319 | 29 | 404 | 51% | 2300 | 28% |
+| 2.3.1 | LTC <sub>(60.0+0.60s)</sub> | 2295 | 58 | 104 | 49% | 2327 | 27% |
+| 2.3.1 | LTC <sub>(60.0+0.60s)</sub> | 2064 | 39 | 242 | 50% | 2071 | 22% |
 | 2.3.1 | LTC <sub>(60.0+0.60s)</sub> | 2237 | 29 | 416 | 49% | 2249 | 26% |
+| 2.3.1 | STC <sub>(8.0+0.08s)</sub> | 1692 | 39 | 260 | 39% | 1814 | 18% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.3.1 | STC <sub>(8.0+0.08s)</sub> | 1967 | 27 | 494 | 49% | 1974 | 23% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.3.1 | STC <sub>(8.0+0.08s)</sub> | 1953 | 44 | 186 | 48% | 1968 | 17% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2248 | 35 | 272 | 51% | 2236 | 28% |
 | 2.3.0 | LTC <sub>(60.0+0.60s)</sub> | 2165 | 37 | 254 | 48% | 2182 | 23% |
