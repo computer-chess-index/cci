@@ -8,9 +8,9 @@ Home: https://github.com/zchown/Ursus
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1.0 | 2026-08-18 | 3100<sub>(+23) | 3379<sub>(+98) | 3409<sub>(+52) |  |
-| 1.0.1 | 2026-07-27 | 3077<sub>(+2) | 3281<sub>(-21) | 3357<sub>(+4) |  |
-| 1.0.0 | 2026-06-30 | 3075 | 3302 | 3353 |  |
+| 1.1.0 | 2026-08-18 | 3101<sub>(+23) | 3380<sub>(+98) | 3410<sub>(+51) |  |
+| 1.0.1 | 2026-07-27 | 3078<sub>(+1) | 3282<sub>(-21) | 3359<sub>(+4) |  |
+| 1.0.0 | 2026-06-30 | 3077 | 3303 | 3355 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Ursus+<version>&body=###%20Engine%20name%0AUrsus%0A%0A###%20Version%0A1.1.0" target="_blank">Submit new version</a>
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-08 04:44:25
+Generated: 2026-10-09 04:44:14
 
 ## Ratings Verlauf
 
@@ -35,11 +35,11 @@ Generated: 2026-10-08 04:44:25
 xychart-beta
   x-axis ["1.0.0", "1.0.1", "1.1.0"]
   y-axis "Elo Rating" 3000 --> 3500
-  line "" [3075, 3077, 3100]
-  line "STC (8.0+0.08s)" [3075, 3077, 3100]
-  line "LTC (60.0+0.60s)" [3302, 3281, 3379]
-  line "" [3353, 3357, 3409]
-  line "VLTC (2m24s+1.12s)" [3353, 3357, 3409]
+  line "" [3077, 3078, 3101]
+  line "STC (8.0+0.08s)" [3077, 3078, 3101]
+  line "LTC (60.0+0.60s)" [3303, 3282, 3380]
+  line "" [3355, 3359, 3410]
+  line "VLTC (2m24s+1.12s)" [3355, 3359, 3410]
 ```
 
 
@@ -50,15 +50,15 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3409 | 38 | 172 | 51% | 3401 | 73% |
-| 1.1.0 | LTC <sub>(60.0+0.60s)</sub> | 3379 | 38 | 172 | 50% | 3376 | 69% |
-| 1.1.0 | STC <sub>(8.0+0.08s)</sub> | 3100 | 35 | 220 | 48% | 3120 | 57% |
+| 1.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3410 | 38 | 172 | 51% | 3402 | 73% |
+| 1.1.0 | LTC <sub>(60.0+0.60s)</sub> | 3380 | 38 | 172 | 50% | 3378 | 69% |
+| 1.1.0 | STC <sub>(8.0+0.08s)</sub> | 3101 | 35 | 220 | 48% | 3121 | 57% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3357 | 37 | 184 | 48% | 3368 | 68% |
-| 1.0.1 | LTC <sub>(60.0+0.60s)</sub> | 3281 | 37 | 184 | 49% | 3283 | 66% |
-| 1.0.1 | STC <sub>(8.0+0.08s)</sub> | 3077 | 46 | 132 | 52% | 3065 | 52% |
+| 1.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3359 | 37 | 184 | 48% | 3370 | 68% |
+| 1.0.1 | LTC <sub>(60.0+0.60s)</sub> | 3282 | 37 | 184 | 49% | 3285 | 66% |
+| 1.0.1 | STC <sub>(8.0+0.08s)</sub> | 3078 | 46 | 132 | 52% | 3066 | 52% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3353 | 40 | 160 | 55% | 3308 | 71% |
-| 1.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3302 | 40 | 166 | 55% | 3251 | 62% |
-| 1.0.0 | STC <sub>(8.0+0.08s)</sub> | 3075 | 49 | 120 | 55% | 3021 | 53% |
+| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3355 | 40 | 160 | 55% | 3309 | 71% |
+| 1.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3303 | 40 | 166 | 55% | 3252 | 62% |
+| 1.0.0 | STC <sub>(8.0+0.08s)</sub> | 3077 | 49 | 120 | 55% | 3023 | 53% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
