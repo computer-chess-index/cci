@@ -4,14 +4,26 @@ Author: Thomas Girolami
 
 Home: https://github.com/tgirolami09/Prune
 
-## Elo Ratings
+## Elo Ratings E1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.0.1 | 2026-07-07 | 3263<sub>(+new) | 3457<sub>(+new) | 3518<sub>(+new) |  |
-| 4.0.0 | 2026-06-27 |  |  |  |  |
-| 3.2.1 | 2026-02-24 | 3105<sub>(+new) | 3335<sub>(+new) | 3395<sub>(+new) |  |
-| 3.2.0 | 2026-02-22 |  |  |  | Skipped for 3.2.1 |
+| 4.0.1 | 2026-07-07 | 3179 | 3430 | 3484 |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
+
+## Elo Ratings P1
+
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
+| --- | --- | --- | --- | --- | --- |
+| 4.0.1 | 2026-07-07 | 3428 | 3669 | 3717 |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
+
+## Elo Ratings T1
+
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
+| --- | --- | --- | --- | --- | --- |
+| 4.0.1 | 2026-07-07 | 3263<sub>(+158) | 3457<sub>(+122) | 3518<sub>(+123) |  |
+| 3.2.1 | 2026-02-24 | 3105<sub>(+189) | 3335<sub>(+164) | 3395<sub>(+178) |  |
 | 3.1.0 | 2026-01-10 | 2916<sub>(+269) | 3171<sub>(+267) | 3217<sub>(+201) |  |
 | 3.0.0 | 2025-12-06 | 2647<sub>(-45) | 2904<sub>(-12) | 3016<sub>(-15) |  |
 | 2.2.0 | 2025-11-20 | 2692<sub>(+159) | 2916<sub>(+127) | 3031<sub>(+153) |  |
@@ -26,14 +38,16 @@ Home: https://github.com/tgirolami09/Prune
 
 GUI/CLI: <a href=https://github.com/cutechess/cutechess target="_blank">Cute-Chess</a><br>
 Elo Calculation: <a href=https://www.remi-coulom.fr/Bayesian-Elo/ target="_blank">Bayesian-Elo</a><br>
-CPU: Intel(R) Core(TM) i5-7500T 2.70GHz<br>
+CPU for P1: Intel(R) Core(TM) Ultra 7 265T (1.50 GHz) - P-Core<br>
+CPU for E1: Intel(R) Core(TM) Ultra 7 265T (1.50 GHz) - E-Core<br>
+CPU for T1: Intel(R) Core(TM) i5-7500T 2.70GHz<br>
 Opening book: 8_moves_v3<br>
 \* STC: 8.0+0.08s, LTC: 60.0+0.60s, VLTC: 2m24s+1.12s
 
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-09 04:41:32
+Generated: 2026-10-09 14:15:02
 
 ## Ratings Verlauf
 
@@ -58,8 +72,16 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3518 | 24 | 400 | 50% | 3518 | 85% |
+| 4.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3717 | 38 | 164 | 48% | 3730 | 79% |
+| 4.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3484 | 31 | 242 | 48% | 3499 | 81% |
 | 4.0.1 | LTC <sub>(60.0+0.60s)</sub> | 3457 | 24 | 418 | 51% | 3451 | 75% |
+| 4.0.1 | LTC <sub>(60.0+0.60s)</sub> | 3669 | 40 | 150 | 50% | 3668 | 81% |
+| 4.0.1 | LTC <sub>(60.0+0.60s)</sub> | 3430 | 34 | 214 | 50% | 3432 | 73% |
 | 4.0.1 | STC <sub>(8.0+0.08s)</sub> | 3263 | 28 | 336 | 51% | 3258 | 65% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 4.0.1 | STC <sub>(8.0+0.08s)</sub> | 3428 | 38 | 180 | 49% | 3432 | 62% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 4.0.1 | STC <sub>(8.0+0.08s)</sub> | 3179 | 32 | 256 | 49% | 3189 | 61% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3395 | 24 | 410 | 50% | 3393 | 75% |
 | 3.2.1 | LTC <sub>(60.0+0.60s)</sub> | 3335 | 25 | 398 | 52% | 3321 | 70% |
