@@ -4,11 +4,24 @@ Author: George Bland
 
 Home: https://github.com/mrgwbland/Cepimetheus
 
-## Elo Ratings
+## Elo Ratings E1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 17.0.0 | 2026-09-28 |  |  |  |  |
+| 9.0.0 | 2026-06-24 | 1532 | 1905 | 1962 |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
+
+## Elo Ratings P1
+
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
+| --- | --- | --- | --- | --- | --- |
+| 9.0.0 | 2026-06-24 | 1790 | 2078 | 2156 |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
+
+## Elo Ratings T1
+
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
+| --- | --- | --- | --- | --- | --- |
 | 16.0.0 | 2026-08-30 | 2255<sub>(+129) | 2554<sub>(+150) | 2692<sub>(+146) |  |
 | 15.0.0 | 2026-08-13 | 2126<sub>(-14) | 2404<sub>(+13) | 2546<sub>(+55) |  |
 | 14.0.1 | 2026-08-02 | 2140<sub>(-29) | 2391<sub>(-50) | 2491<sub>(-59) |  |
@@ -20,48 +33,27 @@ Home: https://github.com/mrgwbland/Cepimetheus
 | 9.0.0 | 2026-06-24 | 1683<sub>(+22) | 2093<sub>(+96) | 2132<sub>(+42) |  |
 | 8.0.1 | 2026-06-20 | 1661<sub>(+13) | 1997<sub>(-5) | 2090<sub>(+15) |  |
 | 8.0.0 | 2026-06-18 | 1648<sub>(-25) | 2002<sub>(+8) | 2075<sub>(+12) |  |
-| 7.2.0 | 2026-06-16 | 1673<sub>(+new) | 1994<sub>(+new) | 2063<sub>(+new) |  |
-| 7.1.0 | 2026-06-12 |  |  |  |  |
-| 7.0.0 | 2026-06-02 |  |  |  |  |
-| 6.4.1 | 2026-05-28 | 1639<sub>(+new) | 1929<sub>(+new) | 2002<sub>(+new) |  |
-| 6.4.0 | 2026-05-27 |  |  |  |  |
-| 6.3.0 | 2026-05-24 |  |  |  |  |
-| 6.2.0 | 2026-05-24 |  |  |  |  |
-| 6.1.0 | 2026-05-21 |  |  |  |  |
-| 6.0.1 | 2026-05-21 |  |  |  |  |
-| 6.0.0 | 2026-05-21 |  |  |  |  |
-| 5.1.0 | 2026-05-20 | 1478<sub>(+new) | 1805<sub>(+new) | 1891<sub>(+new) |  |
-| 5.0.0 | 2026-05-16 |  |  |  |  |
-| 4.3.1 | 2026-05-15 |  |  |  |  |
-| 4.3.0 | 2026-05-13 |  |  |  |  |
-| 4.2.1 | 2026-05-09 |  |  |  |  |
-| 4.2.0 | 2026-05-08 |  |  |  |  |
-| 4.1.0 | 2026-05-06 |  |  |  |  |
-| 4.0.0 | 2026-05-06 |  |  |  |  |
-| 3.2.1 | 2026-04-26 |  |  |  |  |
-| 3.2.0 | 2026-04-26 |  |  |  |  |
-| 3.1.0 | 2026-04-26 |  |  |  |  |
-| 3.0.0 | 2026-04-24 |  |  |  |  |
-| 2.2.0 | 2026-04-23 |  |  |  |  |
-| 2.1.0 | 2026-04-15 |  |  |  |  |
-| 2.0.0 | 2026-04-14 |  |  |  |  |
-| 1.0.0 | 2026-04-07 |  |  |  |  |
+| 7.2.0 | 2026-06-16 | 1673<sub>(+34) | 1994<sub>(+65) | 2063<sub>(+61) |  |
+| 6.4.1 | 2026-05-28 | 1639<sub>(+161) | 1929<sub>(+124) | 2002<sub>(+111) |  |
+| 5.1.0 | 2026-05-20 | 1478 | 1805 | 1891 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Cepimetheus+<version>&body=###%20Engine%20name%0ACepimetheus%0A%0A###%20Version%0A17.0.0" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Cepimetheus+<version>&body=###%20Engine%20name%0ACepimetheus%0A%0A###%20Version%0A16.0.0" target="_blank">Submit new version</a>
 
  Test Conditions:
 
 GUI/CLI: <a href=https://github.com/cutechess/cutechess target="_blank">Cute-Chess</a><br>
 Elo Calculation: <a href=https://www.remi-coulom.fr/Bayesian-Elo/ target="_blank">Bayesian-Elo</a><br>
-CPU: Intel(R) Core(TM) i5-7500T 2.70GHz<br>
+CPU for P1: Intel(R) Core(TM) Ultra 7 265T (1.50 GHz) - P-Core<br>
+CPU for E1: Intel(R) Core(TM) Ultra 7 265T (1.50 GHz) - E-Core<br>
+CPU for T1: Intel(R) Core(TM) i5-7500T 2.70GHz<br>
 Opening book: 8_moves_v3<br>
 \* STC: 8.0+0.08s, LTC: 60.0+0.60s, VLTC: 2m24s+1.12s
 
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-09 04:36:46
+Generated: 2026-10-09 14:09:38
 
 ## Ratings Verlauf
 
@@ -118,8 +110,16 @@ xychart-beta
 | 10.0.0 | STC <sub>(8.0+0.08s)</sub> | 1831 | 43 | 184 | 49% | 1841 | 27% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 9.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2132 | 35 | 284 | 49% | 2140 | 23% |
+| 9.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2156 | 46 | 168 | 51% | 2153 | 26% |
+| 9.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1962 | 38 | 234 | 47% | 1997 | 25% |
 | 9.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2093 | 36 | 272 | 50% | 2095 | 25% |
+| 9.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2078 | 44 | 184 | 47% | 2106 | 24% |
+| 9.0.0 | LTC <sub>(60.0+0.60s)</sub> | 1905 | 40 | 234 | 46% | 1935 | 20% |
 | 9.0.0 | STC <sub>(8.0+0.08s)</sub> | 1683 | 36 | 284 | 50% | 1682 | 18% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 9.0.0 | STC <sub>(8.0+0.08s)</sub> | 1790 | 53 | 126 | 52% | 1774 | 19% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 9.0.0 | STC <sub>(8.0+0.08s)</sub> | 1532 | 41 | 224 | 46% | 1575 | 17% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 8.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2090 | 35 | 280 | 47% | 2121 | 23% |
 | 8.0.1 | LTC <sub>(60.0+0.60s)</sub> | 1997 | 37 | 260 | 49% | 2009 | 23% |
