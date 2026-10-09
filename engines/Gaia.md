@@ -4,39 +4,49 @@ Author: Jean-Francois Romang, David Rabel
 
 Home: https://github.com/jromang/gaiachess
 
-## Elo Ratings
+## Elo Ratings E1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.3.2 | 2026-09-19 |  |  |  |  |
-| 4.3.1 | 2026-09-08 |  |  |  |  |
+| 4.3.0 | 2026-09-05 | 3291 | 3557 | 3579 |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
+
+## Elo Ratings P1
+
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
+| --- | --- | --- | --- | --- | --- |
+| 4.3.0 | 2026-09-05 | 3579 | 3765 | 3776 |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
+
+## Elo Ratings T1
+
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
+| --- | --- | --- | --- | --- | --- |
 | 4.3.0 | 2026-09-05 | 3366<sub>(+81) | 3546<sub>(+70) | 3564<sub>(+31) |  |
 | 4.2.6 | 2026-08-29 | 3285<sub>(+3) | 3476<sub>(+6) | 3533<sub>(+20) |  |
 | 4.2.5 | 2026-08-24 | 3282<sub>(+19) | 3470<sub>(+23) | 3513<sub>(+7) |  |
 | 4.2.4 | 2026-08-23 | 3263<sub>(+12) | 3447<sub>(-23) | 3506<sub>(+1) |  |
 | 4.2.3 | 2026-08-21 | 3251<sub>(-7) | 3470<sub>(+13) | 3505<sub>(+19) |  |
 | 4.2.2 | 2026-08-13 | 3258<sub>(+52) | 3457<sub>(-3) | 3486<sub>(-29) |  |
-| 4.2.1 | 2026-08-09 | 3206<sub>(+new) | 3460<sub>(+new) | 3515<sub>(+new) |  |
-| 4.1.3 | 2026-02-26 |  |  |  |  |
-| 4.1.2 | 2026-02-24 |  |  |  |  |
-| 4.1.1 | 2026-02-24 |  |  |  |  |
-| 4.1.0 | 2026-02-22 |  |  |  | Skipped for 4.1.1 |
+| 4.2.1 | 2026-08-09 | 3206 | 3460 | 3515 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Gaia+<version>&body=###%20Engine%20name%0AGaia%0A%0A###%20Version%0A4.3.2" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Gaia+<version>&body=###%20Engine%20name%0AGaia%0A%0A###%20Version%0A4.3.0" target="_blank">Submit new version</a>
 
  Test Conditions:
 
 GUI/CLI: <a href=https://github.com/cutechess/cutechess target="_blank">Cute-Chess</a><br>
 Elo Calculation: <a href=https://www.remi-coulom.fr/Bayesian-Elo/ target="_blank">Bayesian-Elo</a><br>
-CPU: Intel(R) Core(TM) i5-7500T 2.70GHz<br>
+CPU for P1: Intel(R) Core(TM) Ultra 7 265T (1.50 GHz) - P-Core<br>
+CPU for E1: Intel(R) Core(TM) Ultra 7 265T (1.50 GHz) - E-Core<br>
+CPU for T1: Intel(R) Core(TM) i5-7500T 2.70GHz<br>
 Opening book: 8_moves_v3<br>
 \* STC: 8.0+0.08s, LTC: 60.0+0.60s, VLTC: 2m24s+1.12s
 
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-09 04:38:40
+Generated: 2026-10-09 14:11:47
 
 ## Ratings Verlauf
 
@@ -61,8 +71,16 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3564 | 35 | 186 | 51% | 3561 | 91% |
+| 4.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3776 | 42 | 124 | 50% | 3777 | 90% |
+| 4.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3579 | 40 | 142 | 51% | 3568 | 92% |
 | 4.3.0 | LTC <sub>(60.0+0.60s)</sub> | 3546 | 30 | 252 | 50% | 3548 | 86% |
+| 4.3.0 | LTC <sub>(60.0+0.60s)</sub> | 3765 | 45 | 114 | 50% | 3762 | 87% |
+| 4.3.0 | LTC <sub>(60.0+0.60s)</sub> | 3557 | 36 | 184 | 51% | 3551 | 83% |
 | 4.3.0 | STC <sub>(8.0+0.08s)</sub> | 3366 | 31 | 266 | 49% | 3372 | 70% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 4.3.0 | STC <sub>(8.0+0.08s)</sub> | 3579 | 37 | 182 | 52% | 3567 | 67% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 4.3.0 | STC <sub>(8.0+0.08s)</sub> | 3291 | 30 | 284 | 48% | 3309 | 67% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4.2.6 | VLTC <sub>(2m24s+1.12s)</sub> | 3533 | 33 | 208 | 50% | 3530 | 84% |
 | 4.2.6 | LTC <sub>(60.0+0.60s)</sub> | 3476 | 31 | 250 | 51% | 3470 | 81% |
