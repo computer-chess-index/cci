@@ -9,7 +9,7 @@ Home: https://github.com/erensh27/Ravager
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 2.1 | 2026-10-05 |  |  |  |  |
-| 2.0 | 2026-08-23 | 2755 | 3108 | 3220 |  |
+| 2.0 | 2026-08-23 | 2757 | 3109 | 3220 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Ravager+<version>&body=###%20Engine%20name%0ARavager%0A%0A###%20Version%0A2.1" target="_blank">Submit new version</a>
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-08 04:42:11
+Generated: 2026-10-09 04:41:58
 
 
 
@@ -33,7 +33,7 @@ Generated: 2026-10-08 04:42:11
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3220 | 31 | 270 | 50% | 3217 | 63% |
-| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 3108 | 30 | 302 | 50% | 3108 | 57% |
-| 2.0 | STC <sub>(8.0+0.08s)</sub> | 2755 | 35 | 256 | 49% | 2759 | 38% |
+| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3220 | 31 | 274 | 50% | 3218 | 64% |
+| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 3109 | 30 | 302 | 50% | 3109 | 57% |
+| 2.0 | STC <sub>(8.0+0.08s)</sub> | 2757 | 35 | 256 | 49% | 2761 | 38% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
