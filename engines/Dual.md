@@ -4,7 +4,21 @@ Author: Tomasz Stawowy
 
 Home: https://github.com/DSTGU/Dual
 
-## Elo Ratings
+## Elo Ratings E1
+
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
+| --- | --- | --- | --- | --- | --- |
+| 0.4.3 | 2026-09-04 | 2754 | 3065 | 3136 |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
+
+## Elo Ratings P1
+
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
+| --- | --- | --- | --- | --- | --- |
+| 0.4.3 | 2026-09-04 | 3011 | 3251 | 3357 |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
+
+## Elo Ratings T1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -12,9 +26,7 @@ Home: https://github.com/DSTGU/Dual
 | 0.4.2 | 2026-08-08 | 2719<sub>(+216) | 2950<sub>(+142) | 3089<sub>(+219) |  |
 | 0.4.1 | 2026-07-26 | 2503<sub>(+132) | 2808<sub>(+117) | 2870<sub>(+71) |  |
 | 0.4.0 | 2026-07-19 | 2371<sub>(+92) | 2691<sub>(+90) | 2799<sub>(+121) |  |
-| 0.3.2 | 2026-07-06 | 2279<sub>(+new) | 2601<sub>(+new) | 2678<sub>(+new) |  |
-| 0.3.1 | 2026-07-05 |  |  |  |  |
-| 0.3.0 | 2026-05-23 |  |  |  |  |
+| 0.3.2 | 2026-07-06 | 2279<sub>(+348) | 2601<sub>(+487) | 2678<sub>(+446) |  |
 | 0.2.9 | 2026-05-19 | 1931<sub>(+229) | 2114<sub>(+244) | 2232<sub>(+293) |  |
 | 0.2.8 | 2026-05-15 | 1702<sub>(+98) | 1870<sub>(+33) | 1939<sub>(+72) |  |
 | 0.2.7 | 2026-05-11 | 1604 | 1837 | 1867 |  |
@@ -26,14 +38,16 @@ Home: https://github.com/DSTGU/Dual
 
 GUI/CLI: <a href=https://github.com/cutechess/cutechess target="_blank">Cute-Chess</a><br>
 Elo Calculation: <a href=https://www.remi-coulom.fr/Bayesian-Elo/ target="_blank">Bayesian-Elo</a><br>
-CPU: Intel(R) Core(TM) i5-7500T 2.70GHz<br>
+CPU for P1: Intel(R) Core(TM) Ultra 7 265T (1.50 GHz) - P-Core<br>
+CPU for E1: Intel(R) Core(TM) Ultra 7 265T (1.50 GHz) - E-Core<br>
+CPU for T1: Intel(R) Core(TM) i5-7500T 2.70GHz<br>
 Opening book: 8_moves_v3<br>
 \* STC: 8.0+0.08s, LTC: 60.0+0.60s, VLTC: 2m24s+1.12s
 
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-09 04:37:53
+Generated: 2026-10-09 14:10:58
 
 ## Ratings Verlauf
 
@@ -58,8 +72,16 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.4.3 | VLTC <sub>(2m24s+1.12s)</sub> | 3164 | 32 | 252 | 51% | 3158 | 64% |
+| 0.4.3 | VLTC <sub>(2m24s+1.12s)</sub> | 3357 | 39 | 184 | 49% | 3364 | 57% |
+| 0.4.3 | VLTC <sub>(2m24s+1.12s)</sub> | 3136 | 33 | 256 | 50% | 3139 | 57% |
 | 0.4.3 | LTC <sub>(60.0+0.60s)</sub> | 3105 | 29 | 322 | 52% | 3087 | 60% |
+| 0.4.3 | LTC <sub>(60.0+0.60s)</sub> | 3251 | 44 | 144 | 48% | 3274 | 56% |
+| 0.4.3 | LTC <sub>(60.0+0.60s)</sub> | 3065 | 32 | 260 | 51% | 3060 | 63% |
 | 0.4.3 | STC <sub>(8.0+0.08s)</sub> | 2880 | 35 | 244 | 52% | 2867 | 44% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0.4.3 | STC <sub>(8.0+0.08s)</sub> | 3011 | 42 | 158 | 51% | 3000 | 55% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0.4.3 | STC <sub>(8.0+0.08s)</sub> | 2754 | 32 | 294 | 44% | 2799 | 43% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.4.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3089 | 31 | 286 | 50% | 3086 | 55% |
 | 0.4.2 | LTC <sub>(60.0+0.60s)</sub> | 2950 | 33 | 256 | 51% | 2942 | 50% |
