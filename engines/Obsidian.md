@@ -4,7 +4,21 @@ Author: Gabriele Lombardo
 
 Home: https://github.com/gab8192/Obsidian
 
-## Elo Ratings
+## Elo Ratings E1
+
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
+| --- | --- | --- | --- | --- | --- |
+| 16.0 | 2025-05-21 | 3355 | 3578 | 3617 |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
+
+## Elo Ratings P1
+
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
+| --- | --- | --- | --- | --- | --- |
+| 16.0 | 2025-05-21 | 3630 | 3807 | 3864 |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
+
+## Elo Ratings T1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -20,14 +34,16 @@ Home: https://github.com/gab8192/Obsidian
 
 GUI/CLI: <a href=https://github.com/cutechess/cutechess target="_blank">Cute-Chess</a><br>
 Elo Calculation: <a href=https://www.remi-coulom.fr/Bayesian-Elo/ target="_blank">Bayesian-Elo</a><br>
-CPU: Intel(R) Core(TM) i5-7500T 2.70GHz<br>
+CPU for P1: Intel(R) Core(TM) Ultra 7 265T (1.50 GHz) - P-Core<br>
+CPU for E1: Intel(R) Core(TM) Ultra 7 265T (1.50 GHz) - E-Core<br>
+CPU for T1: Intel(R) Core(TM) i5-7500T 2.70GHz<br>
 Opening book: 8_moves_v3<br>
 \* STC: 8.0+0.08s, LTC: 60.0+0.60s, VLTC: 2m24s+1.12s
 
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-09 04:40:42
+Generated: 2026-10-09 14:14:10
 
 ## Ratings Verlauf
 
@@ -52,8 +68,16 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 16.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3596 | 20 | 564 | 53% | 3579 | 92% |
+| 16.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3864 | 65 | 52 | 51% | 3856 | 87% |
+| 16.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3617 | 47 | 100 | 50% | 3618 | 92% |
+| 16.0 | LTC <sub>(60.0+0.60s)</sub> | 3807 | 60 | 64 | 54% | 3781 | 86% |
 | 16.0 | LTC <sub>(60.0+0.60s)</sub> | 3571 | 17 | 800 | 51% | 3564 | 89% |
+| 16.0 | LTC <sub>(60.0+0.60s)</sub> | 3578 | 44 | 114 | 50% | 3575 | 89% |
+| 16.0 | STC <sub>(8.0+0.08s)</sub> | 3630 | 39 | 160 | 49% | 3636 | 75% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | 16.0 | STC <sub>(8.0+0.08s)</sub> | 3449 | 14 | 1196 | 49% | 3451 | 76% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 16.0 | STC <sub>(8.0+0.08s)</sub> | 3355 | 31 | 260 | 46% | 3386 | 76% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 15.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3569 | 31 | 236 | 51% | 3564 | 89% |
 | 15.0 | LTC <sub>(60.0+0.60s)</sub> | 3545 | 29 | 280 | 50% | 3544 | 84% |
