@@ -11,6 +11,13 @@ Home: https://github.com/LesterEvSe/AteNika
 | 0.6.0 | 2026-09-13 | 2577 | 2892 | 3028 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
+## Elo Ratings P1
+
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
+| --- | --- | --- | --- | --- | --- |
+| 0.6.0 | 2026-09-13 | 2763 | 3127 | 3240 |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
+
 ## Elo Ratings T1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
@@ -36,7 +43,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-09 15:53:20
+Generated: 2026-10-09 15:55:51
 
 ## Ratings Verlauf
 
@@ -65,10 +72,14 @@ xychart-beta
 | 0.7.0 | STC <sub>(8.0+0.08s)</sub> | 2743 | 51 | 116 | 53% | 2716 | 39% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3083 | 36 | 230 | 55% | 3033 | 48% |
+| 0.6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3240 | 53 | 98 | 47% | 3266 | 54% |
 | 0.6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3028 | 37 | 194 | 50% | 3028 | 59% |
 | 0.6.0 | LTC <sub>(60.0+0.60s)</sub> | 3011 | 36 | 222 | 53% | 2978 | 52% |
+| 0.6.0 | LTC <sub>(60.0+0.60s)</sub> | 3127 | 48 | 126 | 49% | 3139 | 48% |
 | 0.6.0 | LTC <sub>(60.0+0.60s)</sub> | 2892 | 36 | 224 | 47% | 2919 | 52% |
 | 0.6.0 | STC <sub>(8.0+0.08s)</sub> | 2678 | 45 | 158 | 53% | 2643 | 37% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0.6.0 | STC <sub>(8.0+0.08s)</sub> | 2763 | 56 | 110 | 45% | 2830 | 29% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.6.0 | STC <sub>(8.0+0.08s)</sub> | 2577 | 45 | 152 | 49% | 2585 | 39% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
