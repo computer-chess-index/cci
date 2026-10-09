@@ -4,72 +4,57 @@ Author: Chris Moreton
 
 Home: https://github.com/chris-moreton/rusty-rival
 
-## Elo Ratings
+## Elo Ratings E1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.76 | 2026-10-05 |  |  |  |  |
-| 1.0.75 | 2026-10-03 |  |  |  |  |
-| 1.0.74 | 2026-10-02 |  |  |  |  |
-| 1.0.73 | 2026-10-02 |  |  |  |  |
-| 1.0.72 | 2026-09-30 |  |  |  |  |
-| 1.0.71 | 2026-09-28 |  |  |  |  |
-| 1.0.70 | 2026-09-27 |  |  |  |  |
-| 1.0.69 | 2026-09-19 |  |  |  |  |
-| 1.0.68 | 2026-09-17 |  |  |  |  |
-| 1.0.67 | 2026-09-15 |  |  |  |  |
-| 1.0.66 | 2026-09-15 |  |  |  |  |
-| 1.0.65 | 2026-09-13 |  |  |  |  |
-| 1.0.64 | 2026-09-11 |  |  |  |  |
-| 1.0.63 | 2026-09-10 |  |  |  |  |
-| 1.0.62 | 2026-09-09 |  |  |  |  |
-| 1.0.61 | 2026-09-07 |  |  |  |  |
-| 1.0.60 | 2026-09-06 |  |  |  |  |
-| 1.0.59 | 2026-09-05 |  |  |  |  |
-| 1.0.58 | 2026-09-04 |  |  |  |  |
-| 1.0.57 | 2026-09-01 |  |  |  |  |
+|  |  |  |  |  |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
+
+## Elo Ratings P1
+
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
+
+## Elo Ratings T1
+
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
+| --- | --- | --- | --- | --- | --- |
 | 1.0.56 | 2026-08-30 | 2709<sub>(-7) | 3035<sub>(-19) | 3116<sub>(+11) |  |
 | 1.0.54 | 2026-08-25 | 2716<sub>(+75) | 3054<sub>(+100) | 3105<sub>(+16) |  |
 | 1.0.53 | 2026-08-07 | 2641<sub>(+126) | 2954<sub>(+118) | 3089<sub>(+124) |  |
-| 1.0.52 | 2026-08-03 | 2515<sub>(+new) | 2836<sub>(+new) | 2965<sub>(+new) |  |
-| 1.0.51 | 2026-08-02 |  |  |  |  |
-| 1.0.50 | 2026-08-01 |  |  |  |  |
-| 1.0.49 | 2026-08-01 |  |  |  |  |
-| 1.0.48 | 2026-07-26 | 2537<sub>(+new) | 2862<sub>(+new) | 2984<sub>(+new) |  |
-| 1.0.47 | 2026-07-23 |  |  |  |  |
-| 1.0.46 | 2026-07-23 |  |  |  |  |
-| 1.0.45 | 2026-07-20 |  |  |  |  |
+| 1.0.52 | 2026-08-03 | 2515<sub>(-22) | 2836<sub>(-26) | 2965<sub>(-19) |  |
+| 1.0.48 | 2026-07-26 | 2537<sub>(+91) | 2862<sub>(+69) | 2984<sub>(+150) |  |
 | 1.0.44 | 2026-07-20 | 2446<sub>(+63) | 2793<sub>(+94) | 2834<sub>(+10) |  |
-| 1.0.43 | 2026-04-26 | 2383<sub>(+new) | 2699<sub>(+new) | 2824<sub>(+new) |  |
-| 1.0.42 | 2026-04-24 |  |  |  | eval skipped |
-| 1.0.40 | 2026-04-02 |  |  |  | eval skipped |
-| 1.0.39 | 2026-03-30 | 2090<sub>(+new) | 2329<sub>(+new) | 2421<sub>(+new) |  |
-| 1.0.36 | 2026-03-18 |  |  |  | eval skipped |
-| 1.0.34 | 2026-03-10 |  |  |  | eval skipped |
+| 1.0.43 | 2026-04-26 | 2383<sub>(+293) | 2699<sub>(+370) | 2824<sub>(+403) |  |
+| 1.0.39 | 2026-03-30 | 2090<sub>(+178) | 2329<sub>(+164) | 2421<sub>(+148) |  |
 | 1.0.29 | 2026-02-10 | 1912<sub>(-12) | 2165<sub>(-54) | 2273<sub>(+28) |  |
 | 1.0.24 | 2026-01-30 | 1924<sub>(+37) | 2219<sub>(+159) | 2245<sub>(+67) |  |
 | 1.0.23 | 2026-01-19 | 1887<sub>(+new) | 2060<sub>(-20) | 2178<sub>(+17) |  |
 | 1.0.19 | 2026-01-12 |  | 2080<sub>(+new) | 2161<sub>(-162) |  |
 | 1.0.17 | 2026-01-11 | 1878<sub>(+new) |  | 2323<sub>(+47) |  |
 | 1.0.15 | 2026-01-11 |  | 2102<sub>(+55) | 2276<sub>(+40) |  |
-| 1.0.13 | 2026-01-10 | 1778<sub>(+new) | 2047<sub>(+new) | 2236<sub>(+new) |  |
-| 1.0.7 | 2025-12-30 |  |  |  | thread 'main' (10808) panicked at src\main.rs:17:36: |
+| 1.0.13 | 2026-01-10 | 1778 | 2047 | 2236 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+RustyRival+<version>&body=###%20Engine%20name%0ARustyRival%0A%0A###%20Version%0A1.0.76" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+RustyRival+<version>&body=###%20Engine%20name%0ARustyRival%0A%0A###%20Version%0A1.0.56" target="_blank">Submit new version</a>
 
  Test Conditions:
 
 GUI/CLI: <a href=https://github.com/cutechess/cutechess target="_blank">Cute-Chess</a><br>
 Elo Calculation: <a href=https://www.remi-coulom.fr/Bayesian-Elo/ target="_blank">Bayesian-Elo</a><br>
-CPU: Intel(R) Core(TM) i5-7500T 2.70GHz<br>
+CPU for P1: Intel(R) Core(TM) Ultra 7 265T (1.50 GHz) - P-Core<br>
+CPU for E1: Intel(R) Core(TM) Ultra 7 265T (1.50 GHz) - E-Core<br>
+CPU for T1: Intel(R) Core(TM) i5-7500T 2.70GHz<br>
 Opening book: 8_moves_v3<br>
 \* STC: 8.0+0.08s, LTC: 60.0+0.60s, VLTC: 2m24s+1.12s
 
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-09 04:42:47
+Generated: 2026-10-09 14:16:16
 
 ## Ratings Verlauf
 
