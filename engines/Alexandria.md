@@ -4,11 +4,24 @@ Author: PGG106
 
 Home: https://github.com/PGG106/Alexandria
 
-## Elo Ratings
+## Elo Ratings E1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.1.0 | 2026-10-04 |  |  |  |  |
+| 9.0 | 2026-02-27 | 3341 | 3561 | 3591 |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
+
+## Elo Ratings P1
+
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
+| --- | --- | --- | --- | --- | --- |
+| 9.0 | 2026-02-27 | 3606 | 3773 | 3777 |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
+
+## Elo Ratings T1
+
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
+| --- | --- | --- | --- | --- | --- |
 | 9.0 | 2026-02-27 | 3443<sub>(+3) | 3560<sub>(+3) | 3588<sub>(-3) |  |
 | 8.1.12 | 2025-11-09 | 3440<sub>(+8) | 3557<sub>(-2) | 3591<sub>(+12) |  |
 | 8.1 | 2025-08-16 | 3432<sub>(+30) | 3559<sub>(+26) | 3579<sub>(+10) |  |
@@ -17,20 +30,22 @@ Home: https://github.com/PGG106/Alexandria
 | 7.0 | 2024-05-25 | 3347 | 3502 | 3545 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Alexandria+<version>&body=###%20Engine%20name%0AAlexandria%0A%0A###%20Version%0A9.1.0" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Alexandria+<version>&body=###%20Engine%20name%0AAlexandria%0A%0A###%20Version%0A9.0" target="_blank">Submit new version</a>
 
  Test Conditions:
 
 GUI/CLI: <a href=https://github.com/cutechess/cutechess target="_blank">Cute-Chess</a><br>
 Elo Calculation: <a href=https://www.remi-coulom.fr/Bayesian-Elo/ target="_blank">Bayesian-Elo</a><br>
-CPU: Intel(R) Core(TM) i5-7500T 2.70GHz<br>
+CPU for P1: Intel(R) Core(TM) Ultra 7 265T (1.50 GHz) - P-Core<br>
+CPU for E1: Intel(R) Core(TM) Ultra 7 265T (1.50 GHz) - E-Core<br>
+CPU for T1: Intel(R) Core(TM) i5-7500T 2.70GHz<br>
 Opening book: 8_moves_v3<br>
 \* STC: 8.0+0.08s, LTC: 60.0+0.60s, VLTC: 2m24s+1.12s
 
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-09 04:35:27
+Generated: 2026-10-09 14:08:05
 
 ## Ratings Verlauf
 
@@ -54,9 +69,17 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| 9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3591 | 45 | 108 | 50% | 3594 | 90% |
 | 9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3588 | 26 | 342 | 51% | 3576 | 88% |
+| 9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3777 | 60 | 60 | 50% | 3777 | 93% |
+| 9.0 | LTC <sub>(60.0+0.60s)</sub> | 3561 | 50 | 88 | 49% | 3565 | 90% |
+| 9.0 | LTC <sub>(60.0+0.60s)</sub> | 3773 | 54 | 76 | 51% | 3765 | 92% |
 | 9.0 | LTC <sub>(60.0+0.60s)</sub> | 3560 | 23 | 444 | 51% | 3555 | 90% |
+| 9.0 | STC <sub>(8.0+0.08s)</sub> | 3606 | 39 | 166 | 49% | 3613 | 73% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | 9.0 | STC <sub>(8.0+0.08s)</sub> | 3443 | 19 | 642 | 51% | 3437 | 77% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 9.0 | STC <sub>(8.0+0.08s)</sub> | 3341 | 31 | 260 | 46% | 3370 | 72% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 8.1.12 | VLTC <sub>(2m24s+1.12s)</sub> | 3591 | 34 | 202 | 51% | 3583 | 87% |
 | 8.1.12 | LTC <sub>(60.0+0.60s)</sub> | 3557 | 30 | 256 | 49% | 3564 | 89% |
