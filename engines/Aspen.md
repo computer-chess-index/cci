@@ -4,39 +4,46 @@ Author: A. Theofanis
 
 Home: https://github.com/ATheofanis/aspen-chess
 
-## Elo Ratings
+## Elo Ratings E1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.3.0 | 2026-05-23 |  |  |  |  |
-| 2.2.0 | 2026-05-22 | 2712<sub>(+20) | 3086<sub>(+89) | 3124<sub>(+39) |  |
-| 2.1.0 | 2026-05-21 | 2692<sub>(+new) | 2997<sub>(+new) | 3085<sub>(+new) |  |
-| 2.0.0 | 2026-05-21 |  |  |  |  |
-| 1.3.0 | 2026-05-20 | 2367<sub>(+169) | 2708<sub>(+53) | 2851<sub>(+155) |  |
-| 1.2.3 | 2026-05-20 | 2198<sub>(+new) | 2655<sub>(+new) | 2696<sub>(+new) |  |
-| 1.2.2 | 2026-05-19 |  |  |  |  |
-| 1.2.1 | 2026-05-19 |  |  |  |  |
-| 1.2.0 | 2026-05-19 |  |  |  |  |
-| 1.0.1 | 2026-05-14 |  |  |  |  |
-| 1.0.0 | 2026-05-12 |  |  |  |  |
-| 0.2.0 | 2026-05-09 |  |  |  |  |
-| 0.1.0 | 2026-05-02 |  |  |  |  |
+| 2.2.0 | 2026-05-22 | 2534 | 2935 | 2975 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Aspen+<version>&body=###%20Engine%20name%0AAspen%0A%0A###%20Version%0A2.3.0" target="_blank">Submit new version</a>
+## Elo Ratings P1
+
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
+| --- | --- | --- | --- | --- | --- |
+| 2.2.0 | 2026-05-22 | 2850 | 3224 | 3272 |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
+
+## Elo Ratings T1
+
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
+| --- | --- | --- | --- | --- | --- |
+| 2.2.0 | 2026-05-22 | 2712<sub>(+20) | 3086<sub>(+89) | 3124<sub>(+39) |  |
+| 2.1.0 | 2026-05-21 | 2692<sub>(+325) | 2997<sub>(+289) | 3085<sub>(+234) |  |
+| 1.3.0 | 2026-05-20 | 2367<sub>(+169) | 2708<sub>(+53) | 2851<sub>(+155) |  |
+| 1.2.3 | 2026-05-20 | 2198 | 2655 | 2696 |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
+
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Aspen+<version>&body=###%20Engine%20name%0AAspen%0A%0A###%20Version%0A2.2.0" target="_blank">Submit new version</a>
 
  Test Conditions:
 
 GUI/CLI: <a href=https://github.com/cutechess/cutechess target="_blank">Cute-Chess</a><br>
 Elo Calculation: <a href=https://www.remi-coulom.fr/Bayesian-Elo/ target="_blank">Bayesian-Elo</a><br>
-CPU: Intel(R) Core(TM) i5-7500T 2.70GHz<br>
+CPU for P1: Intel(R) Core(TM) Ultra 7 265T (1.50 GHz) - P-Core<br>
+CPU for E1: Intel(R) Core(TM) Ultra 7 265T (1.50 GHz) - E-Core<br>
+CPU for T1: Intel(R) Core(TM) i5-7500T 2.70GHz<br>
 Opening book: 8_moves_v3<br>
 \* STC: 8.0+0.08s, LTC: 60.0+0.60s, VLTC: 2m24s+1.12s
 
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-09 04:36:01
+Generated: 2026-10-09 14:08:49
 
 ## Ratings Verlauf
 
@@ -60,9 +67,17 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3272 | 44 | 152 | 51% | 3260 | 47% |
+| 2.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2975 | 42 | 180 | 51% | 2924 | 39% |
 | 2.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3124 | 31 | 278 | 49% | 3129 | 56% |
+| 2.2.0 | LTC <sub>(60.0+0.60s)</sub> | 2935 | 31 | 320 | 57% | 2858 | 46% |
 | 2.2.0 | LTC <sub>(60.0+0.60s)</sub> | 3086 | 31 | 278 | 49% | 3092 | 59% |
+| 2.2.0 | LTC <sub>(60.0+0.60s)</sub> | 3224 | 36 | 228 | 47% | 3235 | 46% |
+| 2.2.0 | STC <sub>(8.0+0.08s)</sub> | 2534 | 34 | 276 | 44% | 2584 | 35% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.2.0 | STC <sub>(8.0+0.08s)</sub> | 2712 | 29 | 374 | 51% | 2709 | 40% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.2.0 | STC <sub>(8.0+0.08s)</sub> | 2850 | 44 | 158 | 49% | 2859 | 40% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3085 | 31 | 318 | 52% | 3071 | 45% |
 | 2.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2997 | 28 | 382 | 51% | 2989 | 47% |
