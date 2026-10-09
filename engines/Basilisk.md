@@ -4,7 +4,21 @@ Author: Miloslav Macůrek
 
 Home: https://github.com/maelic13/basilisk
 
-## Elo Ratings
+## Elo Ratings E1
+
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
+| --- | --- | --- | --- | --- | --- |
+| 1.10.0 | 2026-09-10 | 2512 | 2803 | 2919 |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
+
+## Elo Ratings P1
+
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
+| --- | --- | --- | --- | --- | --- |
+| 1.10.0 | 2026-09-10 | 2719 | 3002 | 3087 |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
+
+## Elo Ratings T1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -18,21 +32,8 @@ Home: https://github.com/maelic13/basilisk
 | 1.7.0 | 2026-06-29 | 2553<sub>(+184) | 2770<sub>(+127) | 2859<sub>(+81) |  |
 | 1.6.0 | 2026-06-20 | 2369<sub>(+16) | 2643<sub>(+42) | 2778<sub>(+54) |  |
 | 1.5.0 | 2026-06-10 | 2353<sub>(-4) | 2601<sub>(+13) | 2724<sub>(+35) |  |
-| 1.4.9 | 2026-05-29 | 2357<sub>(+new) | 2588<sub>(+new) | 2689<sub>(+new) |  |
-| 1.4.8 | 2026-05-28 |  |  |  |  |
-| 1.4.7 | 2026-05-28 |  |  |  |  |
-| 1.4.6 | 2026-05-28 |  |  |  |  |
-| 1.4.5 | 2026-05-28 |  |  |  |  |
-| 1.4.4 | 2026-05-28 |  |  |  |  |
-| 1.4.3 | 2026-05-27 |  |  |  |  |
-| 1.4.2 | 2026-05-26 |  |  |  |  |
-| 1.4.0 | 2026-05-25 |  |  |  |  |
-| 1.3.0 | 2026-05-25 |  |  |  |  |
-| 1.2.3 | 2026-05-24 |  |  |  |  |
-| 1.2.2 | 2026-05-22 |  |  |  |  |
-| 1.2.1 | 2026-05-22 |  |  |  |  |
-| 1.2.0 | 2026-05-21 | 2056<sub>(+new) | 2392<sub>(+new) | 2464<sub>(+new) |  |
-| 1.1.0 | 2026-05-21 |  |  |  |  |
+| 1.4.9 | 2026-05-29 | 2357<sub>(+301) | 2588<sub>(+196) | 2689<sub>(+225) |  |
+| 1.2.0 | 2026-05-21 | 2056<sub>(+8) | 2392<sub>(+36) | 2464<sub>(-5) |  |
 | 1.0.0 | 2026-05-20 | 2048 | 2356 | 2469 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -42,14 +43,16 @@ Home: https://github.com/maelic13/basilisk
 
 GUI/CLI: <a href=https://github.com/cutechess/cutechess target="_blank">Cute-Chess</a><br>
 Elo Calculation: <a href=https://www.remi-coulom.fr/Bayesian-Elo/ target="_blank">Bayesian-Elo</a><br>
-CPU: Intel(R) Core(TM) i5-7500T 2.70GHz<br>
+CPU for P1: Intel(R) Core(TM) Ultra 7 265T (1.50 GHz) - P-Core<br>
+CPU for E1: Intel(R) Core(TM) Ultra 7 265T (1.50 GHz) - E-Core<br>
+CPU for T1: Intel(R) Core(TM) i5-7500T 2.70GHz<br>
 Opening book: 8_moves_v3<br>
 \* STC: 8.0+0.08s, LTC: 60.0+0.60s, VLTC: 2m24s+1.12s
 
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-09 04:36:13
+Generated: 2026-10-09 14:09:03
 
 ## Ratings Verlauf
 
@@ -77,9 +80,17 @@ xychart-beta
 | 1.10.1 | LTC <sub>(60.0+0.60s)</sub> | 2877 | 40 | 194 | 50% | 2878 | 35% |
 | 1.10.1 | STC <sub>(8.0+0.08s)</sub> | 2550 | 47 | 148 | 50% | 2553 | 30% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.10.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2919 | 36 | 250 | 48% | 2940 | 33% |
 | 1.10.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2986 | 35 | 254 | 54% | 2955 | 37% |
+| 1.10.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3087 | 42 | 172 | 50% | 3086 | 42% |
+| 1.10.0 | LTC <sub>(60.0+0.60s)</sub> | 2803 | 34 | 282 | 47% | 2832 | 35% |
 | 1.10.0 | LTC <sub>(60.0+0.60s)</sub> | 2904 | 35 | 252 | 52% | 2888 | 39% |
+| 1.10.0 | LTC <sub>(60.0+0.60s)</sub> | 3002 | 41 | 200 | 49% | 3015 | 31% |
 | 1.10.0 | STC <sub>(8.0+0.08s)</sub> | 2588 | 30 | 354 | 47% | 2619 | 32% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.10.0 | STC <sub>(8.0+0.08s)</sub> | 2719 | 43 | 176 | 48% | 2739 | 30% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.10.0 | STC <sub>(8.0+0.08s)</sub> | 2512 | 37 | 258 | 49% | 2526 | 23% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.9.3 | VLTC <sub>(2m24s+1.12s)</sub> | 2982 | 32 | 306 | 50% | 2985 | 41% |
 | 1.9.3 | LTC <sub>(60.0+0.60s)</sub> | 2855 | 30 | 348 | 48% | 2878 | 37% |
