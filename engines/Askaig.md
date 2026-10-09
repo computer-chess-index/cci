@@ -4,33 +4,46 @@ Author: Nguyen Van Thang
 
 Home: https://github.com/sophiathedev/askaig
 
-## Elo Ratings
+## Elo Ratings E1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 20261003 | 2026-10-03 |  |  |  |  |
+| 20260811 | 2026-08-11 | 2913 | 3143 | 3247 |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
+
+## Elo Ratings P1
+
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
+| --- | --- | --- | --- | --- | --- |
+| 20260811 | 2026-08-11 | 3182 | 3452 | 3513 |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
+
+## Elo Ratings T1
+
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
+| --- | --- | --- | --- | --- | --- |
 | 20260811 | 2026-08-11 | 3006<sub>(-21) | 3266<sub>(+48) | 3294<sub>(+28) |  |
 | 20260704 | 2026-07-04 | 3027<sub>(+615) | 3218<sub>(+540) | 3266<sub>(+538) |  |
 | 20260628 | 2026-06-28 | 2412<sub>(-2) | 2678<sub>(+23) | 2728<sub>(-23) |  |
-| 20260616 | 2026-06-16 | 2414<sub>(+new) | 2655<sub>(+new) | 2751<sub>(+new) |  |
-| 20260615 | 2026-06-15 |  |  |  |  |
-| 20260614 | 2026-06-14 |  |  |  |  |
+| 20260616 | 2026-06-16 | 2414 | 2655 | 2751 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Askaig+<version>&body=###%20Engine%20name%0AAskaig%0A%0A###%20Version%0A20261003" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Askaig+<version>&body=###%20Engine%20name%0AAskaig%0A%0A###%20Version%0A20260811" target="_blank">Submit new version</a>
 
  Test Conditions:
 
 GUI/CLI: <a href=https://github.com/cutechess/cutechess target="_blank">Cute-Chess</a><br>
 Elo Calculation: <a href=https://www.remi-coulom.fr/Bayesian-Elo/ target="_blank">Bayesian-Elo</a><br>
-CPU: Intel(R) Core(TM) i5-7500T 2.70GHz<br>
+CPU for P1: Intel(R) Core(TM) Ultra 7 265T (1.50 GHz) - P-Core<br>
+CPU for E1: Intel(R) Core(TM) Ultra 7 265T (1.50 GHz) - E-Core<br>
+CPU for T1: Intel(R) Core(TM) i5-7500T 2.70GHz<br>
 Opening book: 8_moves_v3<br>
 \* STC: 8.0+0.08s, LTC: 60.0+0.60s, VLTC: 2m24s+1.12s
 
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-09 04:35:59
+Generated: 2026-10-09 14:08:45
 
 ## Ratings Verlauf
 
@@ -54,9 +67,17 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| 20260811 | VLTC <sub>(2m24s+1.12s)</sub> | 3513 | 40 | 176 | 51% | 3510 | 49% |
+| 20260811 | VLTC <sub>(2m24s+1.12s)</sub> | 3247 | 33 | 251 | 49% | 3255 | 54% |
 | 20260811 | VLTC <sub>(2m24s+1.12s)</sub> | 3294 | 29 | 338 | 49% | 3299 | 54% |
+| 20260811 | LTC <sub>(60.0+0.60s)</sub> | 3143 | 32 | 296 | 47% | 3168 | 43% |
 | 20260811 | LTC <sub>(60.0+0.60s)</sub> | 3266 | 28 | 376 | 48% | 3278 | 49% |
+| 20260811 | LTC <sub>(60.0+0.60s)</sub> | 3452 | 37 | 212 | 48% | 3472 | 44% |
+| 20260811 | STC <sub>(8.0+0.08s)</sub> | 2913 | 34 | 280 | 49% | 2913 | 35% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | 20260811 | STC <sub>(8.0+0.08s)</sub> | 3006 | 27 | 428 | 51% | 2992 | 36% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 20260811 | STC <sub>(8.0+0.08s)</sub> | 3182 | 38 | 224 | 54% | 3146 | 37% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 20260704 | VLTC <sub>(2m24s+1.12s)</sub> | 3266 | 31 | 312 | 54% | 3229 | 50% |
 | 20260704 | LTC <sub>(60.0+0.60s)</sub> | 3218 | 30 | 320 | 53% | 3190 | 52% |
