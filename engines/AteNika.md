@@ -9,8 +9,7 @@ Home: https://github.com/LesterEvSe/AteNika
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 | 0.7.0 | 2026-09-20 | 2743<sub>(+65) | 3081<sub>(+70) | 3129<sub>(+46) |  |
-| 0.6.0 | 2026-09-13 | 2678<sub>(+101) | 3011<sub>(+119) | 3083<sub>(+55) |  |
-| 0.6.0 | 2026-09-13 | 2577<sub>(+533) | 2892<sub>(+570) | 3028<sub>(+674) |  |
+| 0.6.0 | 2026-09-13 | 2678<sub>(+634) | 3011<sub>(+689) | 3083<sub>(+729) |  |
 | 0.5.0 | 2026-09-02 | 2044<sub>(+142) | 2322<sub>(+188) | 2354<sub>(+125) |  |
 | 0.4.0 | 2026-08-30 | 1902 | 2134 | 2229 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
@@ -28,7 +27,23 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-09 14:21:25
+Generated: 2026-10-09 14:23:28
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["0.4.0", "0.5.0", "0.6.0", "0.7.0"]
+  y-axis "Elo Rating" 1900 --> 3200
+  line "" [1902, 2044, 2678, 2743]
+  line "STC (8.0+0.08s)" [1902, 2044, 2678, 2743]
+  line "LTC (60.0+0.60s)" [2134, 2322, 3011, 3081]
+  line "" [2229, 2354, 3083, 3129]
+  line "VLTC (2m24s+1.12s)" [2229, 2354, 3083, 3129]
+```
+
+
 
 
 
