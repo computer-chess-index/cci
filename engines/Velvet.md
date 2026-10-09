@@ -4,7 +4,21 @@ Author: Mhonert
 
 Home: https://github.com/mhonert/velvet-chess
 
-## Elo Ratings
+## Elo Ratings E1
+
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
+| --- | --- | --- | --- | --- | --- |
+| 8.1.1 | 2024-11-06 | 3195 | 3398 | 3474 |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
+
+## Elo Ratings P1
+
+| Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
+| --- | --- | --- | --- | --- | --- |
+| 8.1.1 | 2024-11-06 | 3511 | 3634 | 3706 |  |
+ | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
+
+## Elo Ratings T1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -19,14 +33,16 @@ Home: https://github.com/mhonert/velvet-chess
 
 GUI/CLI: <a href=https://github.com/cutechess/cutechess target="_blank">Cute-Chess</a><br>
 Elo Calculation: <a href=https://www.remi-coulom.fr/Bayesian-Elo/ target="_blank">Bayesian-Elo</a><br>
-CPU: Intel(R) Core(TM) i5-7500T 2.70GHz<br>
+CPU for P1: Intel(R) Core(TM) Ultra 7 265T (1.50 GHz) - P-Core<br>
+CPU for E1: Intel(R) Core(TM) Ultra 7 265T (1.50 GHz) - E-Core<br>
+CPU for T1: Intel(R) Core(TM) i5-7500T 2.70GHz<br>
 Opening book: 8_moves_v3<br>
 \* STC: 8.0+0.08s, LTC: 60.0+0.60s, VLTC: 2m24s+1.12s
 
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-09 04:44:21
+Generated: 2026-10-09 14:17:55
 
 ## Ratings Verlauf
 
@@ -50,9 +66,17 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| 8.1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3706 | 42 | 132 | 52% | 3686 | 80% |
+| 8.1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3474 | 41 | 146 | 54% | 3443 | 77% |
 | 8.1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3483 | 12 | 1712 | 50% | 3483 | 79% |
+| 8.1.1 | LTC <sub>(60.0+0.60s)</sub> | 3398 | 41 | 150 | 49% | 3407 | 71% |
 | 8.1.1 | LTC <sub>(60.0+0.60s)</sub> | 3459 | 12 | 1776 | 51% | 3455 | 77% |
+| 8.1.1 | LTC <sub>(60.0+0.60s)</sub> | 3634 | 39 | 158 | 56% | 3590 | 77% |
+| 8.1.1 | STC <sub>(8.0+0.08s)</sub> | 3195 | 32 | 258 | 45% | 3232 | 66% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | 8.1.1 | STC <sub>(8.0+0.08s)</sub> | 3290 | 12 | 1840 | 49% | 3294 | 65% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 8.1.1 | STC <sub>(8.0+0.08s)</sub> | 3511 | 38 | 184 | 49% | 3515 | 62% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 8.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3484 | 32 | 228 | 46% | 3511 | 82% |
 | 8.1.0 | LTC <sub>(60.0+0.60s)</sub> | 3453 | 38 | 172 | 51% | 3445 | 77% |
