@@ -8,8 +8,8 @@ Home: https://github.com/Jakob256/PurplePanda
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 21 | 2026-07-12 | 1701<sub>(+51) | 2017<sub>(+101) | 2079<sub>(+92) |  |
-| 20 | 2025-12-15 | 1650 | 1916 | 1987 |  |
+| 21 | 2026-07-12 | 1702<sub>(+51) | 2018<sub>(+101) | 2080<sub>(+91) |  |
+| 20 | 2025-12-15 | 1651 | 1917 | 1989 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+PurplePanda+<version>&body=###%20Engine%20name%0APurplePanda%0A%0A###%20Version%0A21" target="_blank">Submit new version</a>
@@ -25,7 +25,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-08 04:41:51
+Generated: 2026-10-09 04:41:37
 
 ## Ratings Verlauf
 
@@ -34,11 +34,11 @@ Generated: 2026-10-08 04:41:51
 xychart-beta
   x-axis ["20", "21"]
   y-axis "Elo Rating" 1600 --> 2100
-  line "" [1650, 1701]
-  line "STC (8.0+0.08s)" [1650, 1701]
-  line "LTC (60.0+0.60s)" [1916, 2017]
-  line "" [1987, 2079]
-  line "VLTC (2m24s+1.12s)" [1987, 2079]
+  line "" [1651, 1702]
+  line "STC (8.0+0.08s)" [1651, 1702]
+  line "LTC (60.0+0.60s)" [1917, 2018]
+  line "" [1989, 2080]
+  line "VLTC (2m24s+1.12s)" [1989, 2080]
 ```
 
 
@@ -49,11 +49,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 21 | VLTC <sub>(2m24s+1.12s)</sub> | 2079 | 34 | 322 | 47% | 2114 | 17% |
-| 21 | LTC <sub>(60.0+0.60s)</sub> | 2017 | 34 | 312 | 50% | 2032 | 19% |
-| 21 | STC <sub>(8.0+0.08s)</sub> | 1701 | 33 | 338 | 50% | 1697 | 16% |
+| 21 | VLTC <sub>(2m24s+1.12s)</sub> | 2080 | 34 | 322 | 47% | 2115 | 17% |
+| 21 | LTC <sub>(60.0+0.60s)</sub> | 2018 | 34 | 312 | 50% | 2033 | 19% |
+| 21 | STC <sub>(8.0+0.08s)</sub> | 1702 | 33 | 338 | 50% | 1698 | 16% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 20 | VLTC <sub>(2m24s+1.12s)</sub> | 1987 | 25 | 566 | 48% | 2017 | 21% |
-| 20 | LTC <sub>(60.0+0.60s)</sub> | 1916 | 25 | 580 | 50% | 1921 | 17% |
-| 20 | STC <sub>(8.0+0.08s)</sub> | 1650 | 25 | 640 | 47% | 1678 | 16% |
+| 20 | VLTC <sub>(2m24s+1.12s)</sub> | 1989 | 25 | 566 | 48% | 2018 | 21% |
+| 20 | LTC <sub>(60.0+0.60s)</sub> | 1917 | 25 | 580 | 50% | 1922 | 17% |
+| 20 | STC <sub>(8.0+0.08s)</sub> | 1651 | 25 | 640 | 47% | 1679 | 16% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
