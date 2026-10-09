@@ -8,9 +8,9 @@ Home: https://github.com/martinnovaak/motor
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.9.0 | 2025-06-02 | 3348<sub>(+15) | 3509<sub>(+21) | 3544<sub>(+23) |  |
-| 0.8.0 | 2024-10-28 | 3333<sub>(+115) | 3488<sub>(+67) | 3521<sub>(+72) |  |
-| 0.60 | 2024-06-30 | 3218 | 3421 | 3449 |  |
+| 0.9.0 | 2025-06-02 | 3349<sub>(+14) | 3510<sub>(+20) | 3545<sub>(+23) |  |
+| 0.8.0 | 2024-10-28 | 3335<sub>(+115) | 3490<sub>(+68) | 3522<sub>(+71) |  |
+| 0.60 | 2024-06-30 | 3220 | 3422 | 3451 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Motor+<version>&body=###%20Engine%20name%0AMotor%0A%0A###%20Version%0A0.9.0" target="_blank">Submit new version</a>
@@ -26,7 +26,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-08 04:40:38
+Generated: 2026-10-09 04:40:25
 
 ## Ratings Verlauf
 
@@ -35,11 +35,11 @@ Generated: 2026-10-08 04:40:38
 xychart-beta
   x-axis ["0.60", "0.8.0", "0.9.0"]
   y-axis "Elo Rating" 3200 --> 3600
-  line "" [3218, 3333, 3348]
-  line "STC (8.0+0.08s)" [3218, 3333, 3348]
-  line "LTC (60.0+0.60s)" [3421, 3488, 3509]
-  line "" [3449, 3521, 3544]
-  line "VLTC (2m24s+1.12s)" [3449, 3521, 3544]
+  line "" [3220, 3335, 3349]
+  line "STC (8.0+0.08s)" [3220, 3335, 3349]
+  line "LTC (60.0+0.60s)" [3422, 3490, 3510]
+  line "" [3451, 3522, 3545]
+  line "VLTC (2m24s+1.12s)" [3451, 3522, 3545]
 ```
 
 
@@ -50,15 +50,15 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3544 | 21 | 530 | 49% | 3548 | 89% |
-| 0.9.0 | LTC <sub>(60.0+0.60s)</sub> | 3509 | 22 | 500 | 50% | 3507 | 83% |
-| 0.9.0 | STC <sub>(8.0+0.08s)</sub> | 3348 | 20 | 644 | 50% | 3345 | 72% |
+| 0.9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3545 | 21 | 530 | 49% | 3549 | 89% |
+| 0.9.0 | LTC <sub>(60.0+0.60s)</sub> | 3510 | 22 | 500 | 50% | 3509 | 83% |
+| 0.9.0 | STC <sub>(8.0+0.08s)</sub> | 3349 | 20 | 644 | 50% | 3347 | 72% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.8.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3521 | 13 | 1468 | 51% | 3517 | 86% |
-| 0.8.0 | LTC <sub>(60.0+0.60s)</sub> | 3488 | 13 | 1484 | 50% | 3487 | 83% |
-| 0.8.0 | STC <sub>(8.0+0.08s)</sub> | 3333 | 13 | 1460 | 49% | 3339 | 71% |
+| 0.8.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3522 | 13 | 1468 | 51% | 3518 | 86% |
+| 0.8.0 | LTC <sub>(60.0+0.60s)</sub> | 3490 | 13 | 1484 | 50% | 3488 | 83% |
+| 0.8.0 | STC <sub>(8.0+0.08s)</sub> | 3335 | 13 | 1460 | 49% | 3340 | 71% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.60 | VLTC <sub>(2m24s+1.12s)</sub> | 3449 | 28 | 304 | 50% | 3451 | 80% |
-| 0.60 | LTC <sub>(60.0+0.60s)</sub> | 3421 | 28 | 316 | 52% | 3405 | 74% |
-| 0.60 | STC <sub>(8.0+0.08s)</sub> | 3218 | 29 | 352 | 56% | 3085 | 59% |
+| 0.60 | VLTC <sub>(2m24s+1.12s)</sub> | 3451 | 28 | 304 | 50% | 3452 | 80% |
+| 0.60 | LTC <sub>(60.0+0.60s)</sub> | 3422 | 28 | 316 | 52% | 3406 | 74% |
+| 0.60 | STC <sub>(8.0+0.08s)</sub> | 3220 | 29 | 352 | 56% | 3086 | 59% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
