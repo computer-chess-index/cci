@@ -53,7 +53,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-10 16:41:12
+Generated: 2026-10-10 16:41:55
 
 ## Ratings Verlauf
 
@@ -69,9 +69,6 @@ xychart-beta
   line "T1: VLTC (2m24s+1.12s)" [2469, 2464, 2689, 2724, 2778, 2859, 2930, 2958, 2954, 2973, 2982, 2986, 3015]
   line "" [2048, 2056, 2357, 2353, 2369, 2553, 2527, 2596, 2591, 2581, 2619, 25882510, 2510]
   line "E1: STC (8.0+0.08s)" [2048, 2056, 2357, 2353, 2369, 2553, 2527, 2596, 2591, 2581, 2619, 25882510, 2510]
-  line "E1: LTC (60.0+0.60s)" [2797, 2703]
-  line "" [2911, 2962]
-  line "E1: VLTC (2m24s+1.12s)" [2911, 2962]
 ```
 
 
