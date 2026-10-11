@@ -8,14 +8,14 @@ Home: https://github.com/LeelaChessZero/lc0
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.32.1 | 2025-11-23 | 2017 | 2730 | 2942 |  |
+| 0.32.1 | 2025-11-23 | 2014 | 2726 | 2939 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.32.1 | 2025-11-23 | 2298 | 3079 | 3275 |  |
+| 0.32.1 | 2025-11-23 | 2282 | 3062 | 3258 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 11:16:22
+Generated: 2026-10-11 15:21:01
 
 ## Ratings Verlauf T1
 
@@ -64,16 +64,16 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.32.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3178 | 22 | 556 | 48% | 3193 | 53% |
-| 0.32.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3275 | 43 | 156 | 58% | 3183 | 53% |
-| 0.32.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2942 | 33 | 286 | 58% | 2859 | 41% |
+| 0.32.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3258 | 43 | 156 | 58% | 3167 | 53% |
+| 0.32.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2939 | 33 | 286 | 58% | 2857 | 41% |
 | 0.32.1 | LTC <sub>(60.0+0.60s)</sub> | 3015 | 23 | 574 | 49% | 3024 | 46% |
-| 0.32.1 | LTC <sub>(60.0+0.60s)</sub> | 3079 | 41 | 188 | 49% | 3083 | 38% |
-| 0.32.1 | LTC <sub>(60.0+0.60s)</sub> | 2730 | 41 | 212 | 55% | 2647 | 33% |
+| 0.32.1 | LTC <sub>(60.0+0.60s)</sub> | 3062 | 41 | 188 | 49% | 3067 | 38% |
+| 0.32.1 | LTC <sub>(60.0+0.60s)</sub> | 2726 | 41 | 212 | 55% | 2646 | 33% |
 | 0.32.1 | STC <sub>(8.0+0.08s)</sub> | 2408 | 21 | 814 | 49% | 2415 | 24% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.32.1 | STC <sub>(8.0+0.08s)</sub> | 2298 | 41 | 196 | 40% | 2390 | 35% |
+| 0.32.1 | STC <sub>(8.0+0.08s)</sub> | 2282 | 41 | 196 | 40% | 2372 | 35% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.32.1 | STC <sub>(8.0+0.08s)</sub> | 2017 | 37 | 292 | 38% | 2144 | 22% |
+| 0.32.1 | STC <sub>(8.0+0.08s)</sub> | 2014 | 37 | 292 | 38% | 2142 | 22% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.29.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3240 | 28 | 356 | 50% | 3239 | 54% |
 | 0.29.0 | LTC <sub>(60.0+0.60s)</sub> | 3004 | 30 | 328 | 48% | 3019 | 47% |
