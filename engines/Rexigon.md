@@ -8,14 +8,14 @@ Home: https://github.com/silentshark-uk/rexigon
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2025-11-30 | 1881 | 2164 | 2313 |  |
+| 1.0 | 2025-11-30 | 1887 | 2171 | 2323 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2025-11-30 | 2075 | 2363 | 2476 |  |
+| 1.0 | 2025-11-30 | 2063 | 2348 | 2460 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 04:41:58
+Generated: 2026-10-11 10:05:06
 
 
 
@@ -48,15 +48,15 @@ Generated: 2026-10-11 04:41:58
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2476 | 51 | 152 | 54% | 2438 | 17% |
-| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2313 | 44 | 196 | 49% | 2342 | 16% |
 | 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2444 | 26 | 562 | 50% | 2445 | 18% |
-| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2363 | 54 | 132 | 50% | 2375 | 14% |
-| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2164 | 42 | 216 | 53% | 2124 | 16% |
+| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2460 | 51 | 152 | 54% | 2422 | 17% |
+| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2323 | 44 | 200 | 49% | 2350 | 17% |
+| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2348 | 54 | 132 | 50% | 2360 | 14% |
+| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2171 | 42 | 216 | 53% | 2132 | 16% |
 | 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2321 | 25 | 572 | 50% | 2321 | 17% |
-| 1.0 | STC <sub>(8.0+0.08s)</sub> | 2075 | 44 | 192 | 49% | 2084 | 15% |
+| 1.0 | STC <sub>(8.0+0.08s)</sub> | 2063 | 44 | 192 | 49% | 2071 | 15% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0 | STC <sub>(8.0+0.08s)</sub> | 1881 | 41 | 218 | 46% | 1924 | 17% |
+| 1.0 | STC <sub>(8.0+0.08s)</sub> | 1887 | 41 | 218 | 46% | 1931 | 17% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0 | STC <sub>(8.0+0.08s)</sub> | 2059 | 23 | 752 | 51% | 2041 | 12% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
