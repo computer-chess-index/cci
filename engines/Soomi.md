@@ -8,14 +8,14 @@ Home: https://github.com/Koma1867/Soomi-V1-Chess-engine-in-golang
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.2.0B | 2026-04-24 | 1866 | 2134 | 2230 |  |
+| 1.2.0B | 2026-04-24 | 1868 | 2145 | 2228 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.2.0B | 2026-04-24 | 2047 | 2392 | 2336 |  |
+| 1.2.0B | 2026-04-24 | 2034 | 2371 | 2322 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -44,7 +44,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 04:42:46
+Generated: 2026-10-11 10:05:55
 
 ## Ratings Verlauf
 
@@ -58,11 +58,8 @@ xychart-beta
   line "T1: LTC (60.0+0.60s)" [2153, 2107, 2152, 2322, 2245]
   line "" [2165, 2159, 2199, 2434, 2388]
   line "T1: VLTC (2m24s+1.12s)" [2165, 2159, 2199, 2434, 2388]
-  line "" [1866]
-  line "E1: STC (8.0+0.08s)" [1866]
-  line "E1: LTC (60.0+0.60s)" [2134]
-  line "" [2230]
-  line "E1: VLTC (2m24s+1.12s)" [2230]
+  line "" [1800, 1851, 1840, 2037,1868]
+  line "E1: STC (8.0+0.08s)" [1800, 1851, 1840, 2037,1868]
 ```
 
 
@@ -74,16 +71,16 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.2.0B | VLTC <sub>(2m24s+1.12s)</sub> | 2388 | 28 | 448 | 51% | 2379 | 26% |
-| 1.2.0B | VLTC <sub>(2m24s+1.12s)</sub> | 2336 | 56 | 124 | 56% | 2230 | 19% |
-| 1.2.0B | VLTC <sub>(2m24s+1.12s)</sub> | 2230 | 47 | 170 | 53% | 2194 | 21% |
+| 1.2.0B | VLTC <sub>(2m24s+1.12s)</sub> | 2322 | 55 | 128 | 55% | 2219 | 20% |
+| 1.2.0B | VLTC <sub>(2m24s+1.12s)</sub> | 2228 | 46 | 178 | 52% | 2201 | 21% |
 | 1.2.0B | LTC <sub>(60.0+0.60s)</sub> | 2245 | 28 | 468 | 49% | 2249 | 22% |
-| 1.2.0B | LTC <sub>(60.0+0.60s)</sub> | 2392 | 52 | 124 | 52% | 2375 | 28% |
-| 1.2.0B | LTC <sub>(60.0+0.60s)</sub> | 2134 | 43 | 208 | 51% | 2126 | 20% |
+| 1.2.0B | LTC <sub>(60.0+0.60s)</sub> | 2371 | 51 | 128 | 51% | 2360 | 29% |
+| 1.2.0B | LTC <sub>(60.0+0.60s)</sub> | 2145 | 43 | 212 | 51% | 2142 | 20% |
 | 1.2.0B | STC <sub>(8.0+0.08s)</sub> | 2033 | 26 | 524 | 50% | 2021 | 24% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.2.0B | STC <sub>(8.0+0.08s)</sub> | 2047 | 48 | 152 | 47% | 2078 | 22% |
+| 1.2.0B | STC <sub>(8.0+0.08s)</sub> | 2034 | 46 | 168 | 47% | 2061 | 23% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.2.0B | STC <sub>(8.0+0.08s)</sub> | 1866 | 38 | 238 | 47% | 1904 | 27% |
+| 1.2.0B | STC <sub>(8.0+0.08s)</sub> | 1868 | 37 | 246 | 46% | 1909 | 27% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2434 | 26 | 516 | 54% | 2400 | 23% |
 | 1.2.0 | LTC <sub>(60.0+0.60s)</sub> | 2322 | 27 | 460 | 50% | 2325 | 26% |
