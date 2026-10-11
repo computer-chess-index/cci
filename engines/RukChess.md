@@ -8,14 +8,14 @@ Home: https://github.com/Ilya-Ruk/RukChess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.2.0 | 2026-01-11 | 2715 | 3024 | 3135 |  |
+| 4.2.0 | 2026-01-11 | 2720 | 3024 | 3135 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.2.0 | 2026-01-11 | 2971 | 3326 | 3405 |  |
+| 4.2.0 | 2026-01-11 | 2970 | 3325 | 3403 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 10:17:07
+Generated: 2026-10-11 11:18:59
 
 
 
@@ -48,15 +48,15 @@ Generated: 2026-10-11 10:17:07
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3206 | 23 | 540 | 50% | 3197 | 51% |
-| 4.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3405 | 41 | 176 | 55% | 3337 | 51% |
 | 4.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3135 | 40 | 208 | 57% | 2992 | 42% |
-| 4.2.0 | LTC <sub>(60.0+0.60s)</sub> | 3326 | 43 | 170 | 56% | 3225 | 40% |
+| 4.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3206 | 23 | 540 | 50% | 3197 | 51% |
+| 4.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3403 | 41 | 176 | 55% | 3336 | 51% |
 | 4.2.0 | LTC <sub>(60.0+0.60s)</sub> | 3024 | 37 | 240 | 58% | 2911 | 40% |
 | 4.2.0 | LTC <sub>(60.0+0.60s)</sub> | 3139 | 23 | 536 | 51% | 3131 | 51% |
-| 4.2.0 | STC <sub>(8.0+0.08s)</sub> | 2971 | 34 | 256 | 48% | 2994 | 47% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 4.2.0 | STC <sub>(8.0+0.08s)</sub> | 2715 | 34 | 278 | 47% | 2743 | 35% |
+| 4.2.0 | LTC <sub>(60.0+0.60s)</sub> | 3325 | 43 | 170 | 56% | 3225 | 40% |
+| 4.2.0 | STC <sub>(8.0+0.08s)</sub> | 2720 | 34 | 282 | 48% | 2743 | 35% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4.2.0 | STC <sub>(8.0+0.08s)</sub> | 2826 | 21 | 714 | 51% | 2815 | 34% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 4.2.0 | STC <sub>(8.0+0.08s)</sub> | 2970 | 34 | 256 | 48% | 2994 | 47% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
