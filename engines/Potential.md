@@ -8,7 +8,7 @@ Home: https://github.com/ProgramciDusunur/Potential
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| unlocked | 2026-07-27 | 2550 | 3004 | 3082 |  |
+| unlocked | 2026-07-27 | 2543 | 3002 | 3082 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
@@ -42,7 +42,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-10 04:41:09
+Generated: 2026-10-11 04:41:06
 
 ## Ratings Verlauf
 
@@ -52,10 +52,15 @@ xychart-beta
   x-axis ["3.0.0", "1.1.0", "unlocked"]
   y-axis "Elo Rating" 2200 --> 3200
   line "" [2545, 2228, 2751]
-  line "STC (8.0+0.08s)" [2545, 2228, 2751]
-  line "LTC (60.0+0.60s)" [2865, 2485, 3102]
+  line "T1: STC (8.0+0.08s)" [2545, 2228, 2751]
+  line "T1: LTC (60.0+0.60s)" [2865, 2485, 3102]
   line "" [2954, 2608, 3144]
-  line "VLTC (2m24s+1.12s)" [2954, 2608, 3144]
+  line "T1: VLTC (2m24s+1.12s)" [2954, 2608, 3144]
+  line "" [2543]
+  line "E1: STC (8.0+0.08s)" [2543]
+  line "E1: LTC (60.0+0.60s)" [3002]
+  line "" [3082]
+  line "E1: VLTC (2m24s+1.12s)" [3082]
 ```
 
 
@@ -68,15 +73,15 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | unlocked | VLTC <sub>(2m24s+1.12s)</sub> | 3144 | 28 | 356 | 50% | 3141 | 56% |
 | unlocked | VLTC <sub>(2m24s+1.12s)</sub> | 3374 | 35 | 226 | 51% | 3372 | 52% |
-| unlocked | VLTC <sub>(2m24s+1.12s)</sub> | 3082 | 34 | 258 | 50% | 3083 | 47% |
+| unlocked | VLTC <sub>(2m24s+1.12s)</sub> | 3082 | 33 | 270 | 50% | 3082 | 46% |
 | unlocked | LTC <sub>(60.0+0.60s)</sub> | 3102 | 27 | 416 | 52% | 3081 | 47% |
 | unlocked | LTC <sub>(60.0+0.60s)</sub> | 3241 | 43 | 152 | 47% | 3266 | 50% |
-| unlocked | LTC <sub>(60.0+0.60s)</sub> | 3004 | 32 | 292 | 48% | 3019 | 44% |
+| unlocked | LTC <sub>(60.0+0.60s)</sub> | 3002 | 31 | 304 | 48% | 3016 | 44% |
 | unlocked | STC <sub>(8.0+0.08s)</sub> | 2751 | 30 | 350 | 51% | 2741 | 36% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | unlocked | STC <sub>(8.0+0.08s)</sub> | 2819 | 39 | 212 | 49% | 2828 | 31% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| unlocked | STC <sub>(8.0+0.08s)</sub> | 2550 | 35 | 288 | 43% | 2589 | 28% |
+| unlocked | STC <sub>(8.0+0.08s)</sub> | 2543 | 34 | 292 | 43% | 2585 | 28% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2608 | 29 | 416 | 48% | 2626 | 27% |
 | 1.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2485 | 28 | 416 | 50% | 2485 | 32% |
