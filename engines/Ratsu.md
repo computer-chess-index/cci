@@ -8,14 +8,14 @@ Home: https://github.com/ranzuh/ratsu
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1.0 | 2026-06-29 | 2263 | 2622 | 2668 |  |
+| 2.1.0 | 2026-06-29 | 2264 | 2623 | 2669 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1.0 | 2026-06-29 | 2430 | 2780 | 2911 |  |
+| 2.1.0 | 2026-06-29 | 2434 | 2784 | 2915 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -45,7 +45,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 15:23:14
+Generated: 2026-10-11 17:20:05
 
 ## Ratings Verlauf T1
 
@@ -67,15 +67,15 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2911 | 49 | 124 | 50% | 2924 | 43% |
-| 2.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2668 | 35 | 268 | 52% | 2642 | 33% |
+| 2.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2915 | 49 | 124 | 50% | 2928 | 43% |
+| 2.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2669 | 35 | 268 | 52% | 2642 | 33% |
 | 2.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2819 | 32 | 298 | 49% | 2827 | 39% |
-| 2.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2780 | 44 | 168 | 50% | 2784 | 33% |
-| 2.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2622 | 38 | 214 | 44% | 2678 | 38% |
+| 2.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2784 | 44 | 168 | 50% | 2788 | 33% |
+| 2.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2623 | 38 | 214 | 44% | 2678 | 38% |
 | 2.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2669 | 35 | 262 | 50% | 2668 | 33% |
-| 2.1.0 | STC <sub>(8.0+0.08s)</sub> | 2430 | 43 | 188 | 45% | 2487 | 29% |
+| 2.1.0 | STC <sub>(8.0+0.08s)</sub> | 2434 | 43 | 188 | 45% | 2491 | 29% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.1.0 | STC <sub>(8.0+0.08s)</sub> | 2263 | 38 | 244 | 46% | 2322 | 30% |
+| 2.1.0 | STC <sub>(8.0+0.08s)</sub> | 2264 | 38 | 244 | 46% | 2323 | 30% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.1.0 | STC <sub>(8.0+0.08s)</sub> | 2385 | 31 | 346 | 49% | 2390 | 26% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
