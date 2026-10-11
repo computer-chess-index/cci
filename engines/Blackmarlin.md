@@ -8,14 +8,14 @@ Home: https://github.com/jnlt3/blackmarlin
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.0 | 2024-02-28 | 3075 | 3325 | 3376 |  |
+| 9.0 | 2024-02-28 | 3087 | 3339 | 3391 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.0 | 2024-02-28 | 3339 | 3572 | 3644 |  |
+| 9.0 | 2024-02-28 | 3325 | 3555 | 3627 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 04:36:20
+Generated: 2026-10-11 09:59:14
 
 
 
@@ -49,14 +49,14 @@ Generated: 2026-10-11 04:36:20
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3428 | 11 | 2021 | 50% | 3428 | 74% |
-| 9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3644 | 44 | 128 | 51% | 3637 | 73% |
-| 9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3376 | 38 | 174 | 53% | 3352 | 69% |
+| 9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3627 | 43 | 132 | 50% | 3623 | 73% |
+| 9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3391 | 38 | 180 | 53% | 3368 | 69% |
 | 9.0 | LTC <sub>(60.0+0.60s)</sub> | 3391 | 11 | 2056 | 50% | 3395 | 71% |
-| 9.0 | LTC <sub>(60.0+0.60s)</sub> | 3572 | 40 | 156 | 54% | 3540 | 71% |
-| 9.0 | LTC <sub>(60.0+0.60s)</sub> | 3325 | 35 | 216 | 49% | 3333 | 62% |
+| 9.0 | LTC <sub>(60.0+0.60s)</sub> | 3555 | 40 | 160 | 54% | 3525 | 71% |
+| 9.0 | LTC <sub>(60.0+0.60s)</sub> | 3339 | 35 | 216 | 49% | 3347 | 62% |
 | 9.0 | STC <sub>(8.0+0.08s)</sub> | 3194 | 11 | 2216 | 51% | 3167 | 56% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 9.0 | STC <sub>(8.0+0.08s)</sub> | 3339 | 39 | 184 | 48% | 3355 | 55% |
+| 9.0 | STC <sub>(8.0+0.08s)</sub> | 3325 | 39 | 184 | 48% | 3341 | 55% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 9.0 | STC <sub>(8.0+0.08s)</sub> | 3075 | 29 | 342 | 44% | 3123 | 51% |
+| 9.0 | STC <sub>(8.0+0.08s)</sub> | 3087 | 29 | 346 | 44% | 3133 | 51% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
