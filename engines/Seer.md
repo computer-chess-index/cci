@@ -8,14 +8,14 @@ Home: https://github.com/connormcmonigle/seer-nnue
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.8 | 2023-12-31 | 3154 | 3370 | 3438 |  |
+| 2.8 | 2023-12-31 | 3164 | 3382 | 3452 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.8 | 2023-12-31 | 3459 | 3646 | 3696 |  |
+| 2.8 | 2023-12-31 | 3445 | 3626 | 3686 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 04:42:33
+Generated: 2026-10-11 10:05:42
 
 
 
@@ -48,15 +48,15 @@ Generated: 2026-10-11 04:42:33
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.8 | VLTC <sub>(2m24s+1.12s)</sub> | 3438 | 33 | 228 | 52% | 3422 | 78% |
-| 2.8 | VLTC <sub>(2m24s+1.12s)</sub> | 3696 | 44 | 124 | 49% | 3695 | 77% |
 | 2.8 | VLTC <sub>(2m24s+1.12s)</sub> | 3482 | 11 | 2071 | 51% | 3472 | 80% |
+| 2.8 | VLTC <sub>(2m24s+1.12s)</sub> | 3452 | 32 | 232 | 52% | 3434 | 78% |
+| 2.8 | VLTC <sub>(2m24s+1.12s)</sub> | 3686 | 44 | 124 | 49% | 3683 | 77% |
 | 2.8 | LTC <sub>(60.0+0.60s)</sub> | 3451 | 11 | 1960 | 50% | 3449 | 76% |
-| 2.8 | LTC <sub>(60.0+0.60s)</sub> | 3370 | 37 | 180 | 51% | 3363 | 71% |
-| 2.8 | LTC <sub>(60.0+0.60s)</sub> | 3646 | 44 | 124 | 52% | 3637 | 74% |
+| 2.8 | LTC <sub>(60.0+0.60s)</sub> | 3382 | 36 | 188 | 51% | 3375 | 72% |
+| 2.8 | LTC <sub>(60.0+0.60s)</sub> | 3626 | 42 | 136 | 50% | 3625 | 74% |
 | 2.8 | STC <sub>(8.0+0.08s)</sub> | 3278 | 11 | 2216 | 51% | 3255 | 65% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.8 | STC <sub>(8.0+0.08s)</sub> | 3154 | 32 | 270 | 45% | 3194 | 58% |
+| 2.8 | STC <sub>(8.0+0.08s)</sub> | 3164 | 32 | 270 | 45% | 3205 | 58% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.8 | STC <sub>(8.0+0.08s)</sub> | 3459 | 38 | 174 | 50% | 3459 | 68% |
+| 2.8 | STC <sub>(8.0+0.08s)</sub> | 3445 | 38 | 174 | 50% | 3447 | 68% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
