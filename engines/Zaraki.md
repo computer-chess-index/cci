@@ -8,14 +8,14 @@ Home: https://github.com/timojokinen/zaraki-zig
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.0.1 | 2026-07-02 | 1879 | 2115 | 2207 |  |
+| 0.0.1 | 2026-07-02 | 1877 | 2113 | 2206 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.0.1 | 2026-07-02 | 2021 | 2300 | 2391 |  |
+| 0.0.1 | 2026-07-02 | 2006 | 2284 | 2373 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 11:20:55
+Generated: 2026-10-11 15:26:05
 
 
 
@@ -48,15 +48,15 @@ Generated: 2026-10-11 11:20:55
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2207 | 44 | 168 | 54% | 2165 | 38% |
+| 0.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2373 | 48 | 136 | 50% | 2383 | 40% |
+| 0.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2206 | 44 | 168 | 54% | 2164 | 38% |
 | 0.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2354 | 33 | 292 | 44% | 2426 | 41% |
-| 0.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2391 | 48 | 132 | 50% | 2402 | 40% |
+| 0.0.1 | LTC <sub>(60.0+0.60s)</sub> | 2284 | 52 | 130 | 50% | 2326 | 33% |
+| 0.0.1 | LTC <sub>(60.0+0.60s)</sub> | 2113 | 39 | 226 | 52% | 2132 | 34% |
 | 0.0.1 | LTC <sub>(60.0+0.60s)</sub> | 2272 | 36 | 256 | 45% | 2344 | 37% |
-| 0.0.1 | LTC <sub>(60.0+0.60s)</sub> | 2300 | 52 | 130 | 50% | 2342 | 33% |
-| 0.0.1 | LTC <sub>(60.0+0.60s)</sub> | 2115 | 39 | 226 | 52% | 2133 | 34% |
+| 0.0.1 | STC <sub>(8.0+0.08s)</sub> | 1877 | 36 | 248 | 45% | 1928 | 39% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.0.1 | STC <sub>(8.0+0.08s)</sub> | 2055 | 29 | 400 | 43% | 2128 | 35% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.0.1 | STC <sub>(8.0+0.08s)</sub> | 2021 | 38 | 216 | 48% | 2045 | 38% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.0.1 | STC <sub>(8.0+0.08s)</sub> | 1879 | 36 | 248 | 45% | 1929 | 39% |
+| 0.0.1 | STC <sub>(8.0+0.08s)</sub> | 2006 | 38 | 216 | 48% | 2030 | 38% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
