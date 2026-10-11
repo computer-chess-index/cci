@@ -8,14 +8,14 @@ Home: https://github.com/liamg/ariadne
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.6.0 | 2026-08-29 | 2002 | 2381 | 2469 |  |
+| 0.6.0 | 2026-08-29 | 2014 | 2385 | 2480 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.6.0 | 2026-08-29 | 2202 | 2564 | 2691 |  |
+| 0.6.0 | 2026-08-29 | 2014 | 2385 | 2480 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 04:35:55
+Generated: 2026-10-11 09:58:48
 
 ## Ratings Verlauf
 
@@ -55,11 +55,8 @@ xychart-beta
   line "T1: LTC (60.0+0.60s)" [2255, 2493]
   line "" [2341, 2607]
   line "T1: VLTC (2m24s+1.12s)" [2341, 2607]
-  line "" [2002]
-  line "E1: STC (8.0+0.08s)" [2002]
-  line "E1: LTC (60.0+0.60s)" [2381]
-  line "" [2469]
-  line "E1: VLTC (2m24s+1.12s)" [2469]
+  line "" [1963,2014]
+  line "E1: STC (8.0+0.08s)" [1963,2014]
 ```
 
 
@@ -70,17 +67,13 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2691 | 41 | 210 | 45% | 2765 | 26% |
-| 0.6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2469 | 34 | 290 | 44% | 2534 | 29% |
 | 0.6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2607 | 35 | 264 | 51% | 2593 | 34% |
-| 0.6.0 | LTC <sub>(60.0+0.60s)</sub> | 2381 | 35 | 276 | 49% | 2385 | 28% |
+| 0.6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2480 | 34 | 290 | 44% | 2546 | 29% |
 | 0.6.0 | LTC <sub>(60.0+0.60s)</sub> | 2493 | 35 | 264 | 48% | 2515 | 31% |
-| 0.6.0 | LTC <sub>(60.0+0.60s)</sub> | 2564 | 44 | 178 | 46% | 2601 | 31% |
-| 0.6.0 | STC <sub>(8.0+0.08s)</sub> | 2002 | 37 | 260 | 44% | 2072 | 25% |
+| 0.6.0 | LTC <sub>(60.0+0.60s)</sub> | 2385 | 35 | 286 | 48% | 2396 | 27% |
+| 0.6.0 | STC <sub>(8.0+0.08s)</sub> | 2014 | 36 | 272 | 45% | 2079 | 26% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.6.0 | STC <sub>(8.0+0.08s)</sub> | 2203 | 34 | 308 | 46% | 2237 | 24% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.6.0 | STC <sub>(8.0+0.08s)</sub> | 2202 | 47 | 156 | 46% | 2242 | 21% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.4.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2341 | 34 | 296 | 51% | 2333 | 25% |
 | 0.4.0 | LTC <sub>(60.0+0.60s)</sub> | 2255 | 35 | 280 | 50% | 2253 | 23% |
