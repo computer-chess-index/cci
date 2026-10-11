@@ -15,7 +15,7 @@ Home:
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.1 | 2021-04-01 | 3101 | 3403 | 3451 |  |
+| 3.1 | 2021-04-01 | 3102 | 3405 | 3452 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 10:03:59
+Generated: 2026-10-11 10:15:40
 
 
 
@@ -49,12 +49,12 @@ Generated: 2026-10-11 10:03:59
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3299 | 11 | 2024 | 51% | 3295 | 64% |
-| 3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3451 | 45 | 142 | 56% | 3375 | 56% |
+| 3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3452 | 45 | 142 | 56% | 3376 | 56% |
 | 3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3262 | 37 | 212 | 52% | 3220 | 54% |
-| 3.1 | LTC <sub>(60.0+0.60s)</sub> | 3403 | 40 | 176 | 53% | 3376 | 55% |
+| 3.1 | LTC <sub>(60.0+0.60s)</sub> | 3405 | 40 | 176 | 53% | 3378 | 55% |
 | 3.1 | LTC <sub>(60.0+0.60s)</sub> | 3150 | 39 | 196 | 55% | 3090 | 47% |
 | 3.1 | LTC <sub>(60.0+0.60s)</sub> | 3233 | 12 | 1844 | 51% | 3231 | 60% |
-| 3.1 | STC <sub>(8.0+0.08s)</sub> | 3101 | 40 | 196 | 52% | 3081 | 40% |
+| 3.1 | STC <sub>(8.0+0.08s)</sub> | 3102 | 40 | 196 | 52% | 3082 | 40% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.1 | STC <sub>(8.0+0.08s)</sub> | 2838 | 31 | 320 | 48% | 2858 | 39% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
