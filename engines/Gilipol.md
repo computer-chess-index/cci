@@ -8,14 +8,14 @@ Home: https://github.com/Lacovipo/Gilipol
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.00 | 2026-06-06 | 2515 | 2878 | 3001 |  |
+| 2.00 | 2026-06-06 | 2514 | 2876 | 3002 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.00 | 2026-06-06 | 2762 | 3069 | 3227 |  |
+| 2.00 | 2026-06-06 | 2745 | 3052 | 3210 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -42,7 +42,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 11:15:19
+Generated: 2026-10-11 15:19:55
 
 ## Ratings Verlauf T1
 
@@ -65,16 +65,16 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.00 | VLTC <sub>(2m24s+1.12s)</sub> | 3117 | 24 | 488 | 53% | 3092 | 54% |
-| 2.00 | VLTC <sub>(2m24s+1.12s)</sub> | 3227 | 43 | 154 | 54% | 3152 | 55% |
-| 2.00 | VLTC <sub>(2m24s+1.12s)</sub> | 3001 | 36 | 232 | 54% | 2963 | 45% |
+| 2.00 | VLTC <sub>(2m24s+1.12s)</sub> | 3210 | 43 | 154 | 54% | 3136 | 55% |
+| 2.00 | VLTC <sub>(2m24s+1.12s)</sub> | 3002 | 36 | 236 | 54% | 2961 | 45% |
 | 2.00 | LTC <sub>(60.0+0.60s)</sub> | 3006 | 26 | 432 | 52% | 2985 | 46% |
-| 2.00 | LTC <sub>(60.0+0.60s)</sub> | 3069 | 42 | 174 | 52% | 3039 | 43% |
-| 2.00 | LTC <sub>(60.0+0.60s)</sub> | 2878 | 34 | 262 | 54% | 2840 | 45% |
+| 2.00 | LTC <sub>(60.0+0.60s)</sub> | 3052 | 42 | 174 | 52% | 3021 | 43% |
+| 2.00 | LTC <sub>(60.0+0.60s)</sub> | 2876 | 34 | 262 | 54% | 2838 | 45% |
 | 2.00 | STC <sub>(8.0+0.08s)</sub> | 2666 | 27 | 436 | 51% | 2655 | 33% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.00 | STC <sub>(8.0+0.08s)</sub> | 2762 | 38 | 222 | 49% | 2785 | 40% |
+| 2.00 | STC <sub>(8.0+0.08s)</sub> | 2745 | 38 | 222 | 49% | 2768 | 40% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.00 | STC <sub>(8.0+0.08s)</sub> | 2515 | 35 | 260 | 45% | 2565 | 34% |
+| 2.00 | STC <sub>(8.0+0.08s)</sub> | 2514 | 35 | 260 | 45% | 2562 | 34% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.00netbin | VLTC <sub>(2m24s+1.12s)</sub> | 3013 | 28 | 426 | 57% | 2795 | 41% |
 | 1.00netbin | LTC <sub>(60.0+0.60s)</sub> | 2871 | 25 | 546 | 59% | 2695 | 39% |
