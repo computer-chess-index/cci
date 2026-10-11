@@ -8,14 +8,14 @@ Home: https://github.com/mvanthoor/rustic
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.6 | 2025-09-24 | 1553 | 1729 | 1813 |  |
+| 3.0.6 | 2025-09-24 | 1551 | 1731 | 1812 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.6 | 2025-09-24 | 1690 | 1899 | 1882 |  |
+| 3.0.6 | 2025-09-24 | 1675 | 1885 | 1866 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 11:19:02
+Generated: 2026-10-11 15:23:57
 
 
 
@@ -48,15 +48,15 @@ Generated: 2026-10-11 11:19:02
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.0.6 | VLTC <sub>(2m24s+1.12s)</sub> | 1813 | 48 | 168 | 54% | 1786 | 18% |
 | 3.0.6 | VLTC <sub>(2m24s+1.12s)</sub> | 1906 | 23 | 676 | 46% | 1955 | 20% |
-| 3.0.6 | VLTC <sub>(2m24s+1.12s)</sub> | 1882 | 51 | 136 | 47% | 1929 | 23% |
-| 3.0.6 | LTC <sub>(60.0+0.60s)</sub> | 1729 | 42 | 230 | 47% | 1802 | 14% |
+| 3.0.6 | VLTC <sub>(2m24s+1.12s)</sub> | 1866 | 51 | 136 | 47% | 1913 | 23% |
+| 3.0.6 | VLTC <sub>(2m24s+1.12s)</sub> | 1812 | 48 | 168 | 54% | 1785 | 18% |
+| 3.0.6 | LTC <sub>(60.0+0.60s)</sub> | 1885 | 43 | 208 | 52% | 1902 | 17% |
+| 3.0.6 | LTC <sub>(60.0+0.60s)</sub> | 1731 | 41 | 234 | 47% | 1800 | 15% |
 | 3.0.6 | LTC <sub>(60.0+0.60s)</sub> | 1845 | 24 | 644 | 54% | 1805 | 19% |
-| 3.0.6 | LTC <sub>(60.0+0.60s)</sub> | 1899 | 43 | 208 | 52% | 1917 | 17% |
-| 3.0.6 | STC <sub>(8.0+0.08s)</sub> | 1553 | 43 | 188 | 50% | 1559 | 23% |
+| 3.0.6 | STC <sub>(8.0+0.08s)</sub> | 1675 | 45 | 184 | 49% | 1683 | 14% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 3.0.6 | STC <sub>(8.0+0.08s)</sub> | 1551 | 43 | 188 | 50% | 1558 | 23% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.0.6 | STC <sub>(8.0+0.08s)</sub> | 1627 | 23 | 674 | 46% | 1681 | 22% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.0.6 | STC <sub>(8.0+0.08s)</sub> | 1690 | 45 | 184 | 49% | 1698 | 14% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
