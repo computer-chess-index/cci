@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-10 04:39:13
+Generated: 2026-10-11 04:39:07
 
 
 
@@ -54,5 +54,5 @@ Generated: 2026-10-10 04:39:13
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.5a | STC <sub>(8.0+0.08s)</sub> | 2483 | 13 | 2150 | 54% | 2448 | 16% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.5a | STC <sub>(8.0+0.08s)</sub> | 1651 | 47 | 244 | 28% | 1998 | 16% |
+| 1.5a | STC <sub>(8.0+0.08s)</sub> | 1650 | 47 | 244 | 28% | 1995 | 16% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
