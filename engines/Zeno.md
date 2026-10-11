@@ -8,7 +8,7 @@ Home: https://github.com/Toudonou/zeno
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0 | 2026-08-14 | 1994 | 2261 | 2361 |  |
+| 3.0 | 2026-08-14 | 1995 | 2244 | 2357 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-10 04:44:19
+Generated: 2026-10-11 04:44:14
 
 ## Ratings Verlauf
 
@@ -51,10 +51,15 @@ xychart-beta
   x-axis ["2.0", "3.0"]
   y-axis "Elo Rating" 1900 --> 2500
   line "" [1906, 2133]
-  line "STC (8.0+0.08s)" [1906, 2133]
-  line "LTC (60.0+0.60s)" [2161, 2388]
+  line "T1: STC (8.0+0.08s)" [1906, 2133]
+  line "T1: LTC (60.0+0.60s)" [2161, 2388]
   line "" [2259, 2421]
-  line "VLTC (2m24s+1.12s)" [2259, 2421]
+  line "T1: VLTC (2m24s+1.12s)" [2259, 2421]
+  line "" [1995]
+  line "E1: STC (8.0+0.08s)" [1995]
+  line "E1: LTC (60.0+0.60s)" [2244]
+  line "" [2357]
+  line "E1: VLTC (2m24s+1.12s)" [2357]
 ```
 
 
@@ -65,13 +70,13 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2361 | 39 | 236 | 50% | 2361 | 20% |
+| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2357 | 39 | 236 | 50% | 2358 | 20% |
 | 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2421 | 34 | 296 | 51% | 2408 | 27% |
 | 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2516 | 45 | 164 | 49% | 2537 | 29% |
-| 3.0 | LTC <sub>(60.0+0.60s)</sub> | 2261 | 41 | 208 | 48% | 2279 | 23% |
+| 3.0 | LTC <sub>(60.0+0.60s)</sub> | 2244 | 39 | 228 | 47% | 2272 | 23% |
 | 3.0 | LTC <sub>(60.0+0.60s)</sub> | 2388 | 34 | 304 | 51% | 2381 | 20% |
 | 3.0 | LTC <sub>(60.0+0.60s)</sub> | 2493 | 43 | 200 | 46% | 2560 | 22% |
-| 3.0 | STC <sub>(8.0+0.08s)</sub> | 1994 | 43 | 196 | 48% | 2024 | 20% |
+| 3.0 | STC <sub>(8.0+0.08s)</sub> | 1995 | 42 | 200 | 48% | 2018 | 20% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.0 | STC <sub>(8.0+0.08s)</sub> | 2133 | 36 | 280 | 53% | 2101 | 22% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
