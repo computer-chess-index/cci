@@ -8,7 +8,7 @@ Home: https://github.com/matthiaslang/jackychess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 25.12 | 2025-12-03 |  | 2566 | 2684 |  |
+| 25.12 | 2025-12-03 |  | 2564 | 2689 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-10 04:39:26
+Generated: 2026-10-11 04:39:19
 
 
 
@@ -50,9 +50,9 @@ Generated: 2026-10-10 04:39:26
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 25.12 | VLTC <sub>(2m24s+1.12s)</sub> | 2772 | 25 | 518 | 50% | 2776 | 33% |
 | 25.12 | VLTC <sub>(2m24s+1.12s)</sub> | 2832 | 43 | 182 | 57% | 2716 | 32% |
-| 25.12 | VLTC <sub>(2m24s+1.12s)</sub> | 2684 | 41 | 218 | 55% | 2631 | 27% |
+| 25.12 | VLTC <sub>(2m24s+1.12s)</sub> | 2689 | 39 | 234 | 55% | 2633 | 26% |
 | 25.12 | LTC <sub>(60.0+0.60s)</sub> | 2655 | 23 | 602 | 52% | 2641 | 35% |
 | 25.12 | LTC <sub>(60.0+0.60s)</sub> | 2745 | 48 | 162 | 59% | 2570 | 26% |
-| 25.12 | LTC <sub>(60.0+0.60s)</sub> | 2566 | 44 | 174 | 51% | 2561 | 29% |
+| 25.12 | LTC <sub>(60.0+0.60s)</sub> | 2564 | 44 | 174 | 51% | 2558 | 29% |
 | 25.12 | STC <sub>(8.0+0.08s)</sub> | 2252 | 44 | 180 | 54% | 2218 | 25% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
