@@ -8,14 +8,14 @@ Home: https://github.com/LeelaChessZero/lc0
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.32.1 | 2025-11-23 | 2010 | 2718 | 2931 |  |
+| 0.32.1 | 2025-11-23 | 2020 | 2731 | 2944 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.32.1 | 2025-11-23 | 2313 | 3089 | 3290 |  |
+| 0.32.1 | 2025-11-23 | 2298 | 3078 | 3274 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 04:39:41
+Generated: 2026-10-11 10:02:41
 
 ## Ratings Verlauf
 
@@ -55,11 +55,8 @@ xychart-beta
   line "T1: LTC (60.0+0.60s)" [3004, 3015]
   line "" [3240, 3178]
   line "T1: VLTC (2m24s+1.12s)" [3240, 3178]
-  line "" [2010]
-  line "E1: STC (8.0+0.08s)" [2010]
-  line "E1: LTC (60.0+0.60s)" [2718]
-  line "" [2931]
-  line "E1: VLTC (2m24s+1.12s)" [2931]
+  line "" [2384,2020]
+  line "E1: STC (8.0+0.08s)" [2384,2020]
 ```
 
 
@@ -71,16 +68,16 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.32.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3178 | 22 | 556 | 48% | 3193 | 53% |
-| 0.32.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3290 | 43 | 156 | 58% | 3200 | 53% |
-| 0.32.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2931 | 33 | 286 | 58% | 2849 | 41% |
+| 0.32.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3274 | 43 | 156 | 58% | 3183 | 53% |
+| 0.32.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2944 | 33 | 286 | 58% | 2862 | 41% |
 | 0.32.1 | LTC <sub>(60.0+0.60s)</sub> | 3015 | 23 | 574 | 49% | 3024 | 46% |
-| 0.32.1 | LTC <sub>(60.0+0.60s)</sub> | 3089 | 42 | 180 | 48% | 3101 | 38% |
-| 0.32.1 | LTC <sub>(60.0+0.60s)</sub> | 2718 | 41 | 208 | 55% | 2638 | 33% |
+| 0.32.1 | LTC <sub>(60.0+0.60s)</sub> | 3078 | 41 | 188 | 49% | 3083 | 38% |
+| 0.32.1 | LTC <sub>(60.0+0.60s)</sub> | 2731 | 41 | 212 | 55% | 2650 | 33% |
 | 0.32.1 | STC <sub>(8.0+0.08s)</sub> | 2408 | 21 | 814 | 49% | 2415 | 24% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.32.1 | STC <sub>(8.0+0.08s)</sub> | 2313 | 41 | 196 | 40% | 2404 | 35% |
+| 0.32.1 | STC <sub>(8.0+0.08s)</sub> | 2298 | 41 | 196 | 40% | 2390 | 35% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.32.1 | STC <sub>(8.0+0.08s)</sub> | 2010 | 36 | 292 | 38% | 2137 | 22% |
+| 0.32.1 | STC <sub>(8.0+0.08s)</sub> | 2020 | 37 | 292 | 38% | 2147 | 22% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.29.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3240 | 28 | 356 | 50% | 3239 | 54% |
 | 0.29.0 | LTC <sub>(60.0+0.60s)</sub> | 3004 | 30 | 328 | 48% | 3019 | 47% |
