@@ -8,14 +8,14 @@ Home: https://github.com/AlexGisi/prometheus-chess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.2.1 | 2025-08-18 | 1304 | 1418 | 1465 |  |
+| 0.2.1 | 2025-08-18 | 1303 | 1424 | 1466 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.2.1 | 2025-08-18 | 1462 | 1628 | 1724 |  |
+| 0.2.1 | 2025-08-18 | 1420 | 1613 | 1710 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 04:41:15
+Generated: 2026-10-11 10:04:22
 
 
 
@@ -48,15 +48,15 @@ Generated: 2026-10-11 04:41:15
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 1724 | 59 | 112 | 43% | 1835 | 15% |
-| 0.2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 1465 | 44 | 214 | 43% | 1631 | 14% |
 | 0.2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 1551 | 25 | 608 | 43% | 1655 | 19% |
-| 0.2.1 | LTC <sub>(60.0+0.60s)</sub> | 1628 | 53 | 122 | 48% | 1651 | 22% |
-| 0.2.1 | LTC <sub>(60.0+0.60s)</sub> | 1418 | 42 | 236 | 44% | 1521 | 10% |
+| 0.2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 1710 | 53 | 136 | 45% | 1798 | 15% |
+| 0.2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 1466 | 44 | 218 | 42% | 1635 | 14% |
+| 0.2.1 | LTC <sub>(60.0+0.60s)</sub> | 1613 | 53 | 126 | 48% | 1635 | 21% |
+| 0.2.1 | LTC <sub>(60.0+0.60s)</sub> | 1424 | 42 | 236 | 44% | 1528 | 10% |
 | 0.2.1 | LTC <sub>(60.0+0.60s)</sub> | 1532 | 26 | 566 | 48% | 1575 | 18% |
-| 0.2.1 | STC <sub>(8.0+0.08s)</sub> | 1462 | 56 | 120 | 49% | 1482 | 15% |
+| 0.2.1 | STC <sub>(8.0+0.08s)</sub> | 1420 | 50 | 148 | 47% | 1466 | 16% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.2.1 | STC <sub>(8.0+0.08s)</sub> | 1304 | 45 | 176 | 48% | 1328 | 20% |
+| 0.2.1 | STC <sub>(8.0+0.08s)</sub> | 1303 | 44 | 180 | 47% | 1335 | 21% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.2.1 | STC <sub>(8.0+0.08s)</sub> | 1393 | 27 | 572 | 51% | 1382 | 18% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
