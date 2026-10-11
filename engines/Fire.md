@@ -8,7 +8,7 @@ Home: https://github.com/Firefather/fire
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 10.0 | 2025-08-09 | 3059 | 3309 | 3399 |  |
+| 10.0 | 2025-08-09 | 3054 | 3305 | 3398 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-10 04:38:29
+Generated: 2026-10-11 04:38:21
 
 ## Ratings Verlauf
 
@@ -51,10 +51,15 @@ xychart-beta
   x-axis ["9.3", "10.0"]
   y-axis "Elo Rating" 3100 --> 3500
   line "" [3156, 3156]
-  line "STC (8.0+0.08s)" [3156, 3156]
-  line "LTC (60.0+0.60s)" [3384, 3394]
+  line "T1: STC (8.0+0.08s)" [3156, 3156]
+  line "T1: LTC (60.0+0.60s)" [3384, 3394]
   line "" [3438, 3440]
-  line "VLTC (2m24s+1.12s)" [3438, 3440]
+  line "T1: VLTC (2m24s+1.12s)" [3438, 3440]
+  line "" [3054]
+  line "E1: STC (8.0+0.08s)" [3054]
+  line "E1: LTC (60.0+0.60s)" [3305]
+  line "" [3398]
+  line "E1: VLTC (2m24s+1.12s)" [3398]
 ```
 
 
@@ -65,15 +70,15 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3399 | 37 | 180 | 50% | 3399 | 69% |
+| 10.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3398 | 36 | 188 | 51% | 3395 | 70% |
 | 10.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3619 | 46 | 120 | 48% | 3636 | 66% |
 | 10.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3440 | 18 | 736 | 49% | 3444 | 75% |
 | 10.0 | LTC <sub>(60.0+0.60s)</sub> | 3394 | 18 | 748 | 50% | 3393 | 71% |
-| 10.0 | LTC <sub>(60.0+0.60s)</sub> | 3309 | 32 | 252 | 55% | 3263 | 65% |
+| 10.0 | LTC <sub>(60.0+0.60s)</sub> | 3305 | 32 | 252 | 55% | 3260 | 65% |
 | 10.0 | LTC <sub>(60.0+0.60s)</sub> | 3578 | 32 | 256 | 52% | 3560 | 67% |
 | 10.0 | STC <sub>(8.0+0.08s)</sub> | 3156 | 17 | 948 | 51% | 3148 | 60% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10.0 | STC <sub>(8.0+0.08s)</sub> | 3059 | 34 | 244 | 48% | 3077 | 52% |
+| 10.0 | STC <sub>(8.0+0.08s)</sub> | 3054 | 34 | 248 | 47% | 3075 | 52% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 10.0 | STC <sub>(8.0+0.08s)</sub> | 3353 | 38 | 190 | 50% | 3352 | 53% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
