@@ -8,14 +8,14 @@ Home: https://github.com/saisree27/Maelstrom
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.3.0 | 2025-08-27 | 2633 | 3043 | 3102 |  |
+| 3.3.0 | 2025-08-27 | 2645 | 3056 | 3113 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.3.0 | 2025-08-27 | 2913 | 3228 | 3391 |  |
+| 3.3.0 | 2025-08-27 | 2892 | 3206 | 3382 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 04:40:00
+Generated: 2026-10-11 10:02:58
 
 
 
@@ -48,15 +48,15 @@ Generated: 2026-10-11 04:40:00
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3391 | 44 | 144 | 52% | 3362 | 59% |
-| 3.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3102 | 35 | 256 | 60% | 2934 | 46% |
 | 3.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3177 | 23 | 496 | 49% | 3185 | 63% |
-| 3.3.0 | LTC <sub>(60.0+0.60s)</sub> | 3228 | 42 | 176 | 55% | 3139 | 49% |
-| 3.3.0 | LTC <sub>(60.0+0.60s)</sub> | 3043 | 35 | 244 | 53% | 2988 | 51% |
+| 3.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3382 | 43 | 148 | 53% | 3348 | 59% |
+| 3.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3113 | 35 | 260 | 60% | 2948 | 46% |
+| 3.3.0 | LTC <sub>(60.0+0.60s)</sub> | 3206 | 41 | 184 | 54% | 3127 | 48% |
+| 3.3.0 | LTC <sub>(60.0+0.60s)</sub> | 3056 | 35 | 248 | 53% | 3001 | 51% |
 | 3.3.0 | LTC <sub>(60.0+0.60s)</sub> | 3073 | 23 | 538 | 51% | 3058 | 54% |
-| 3.3.0 | STC <sub>(8.0+0.08s)</sub> | 2913 | 40 | 200 | 52% | 2894 | 35% |
+| 3.3.0 | STC <sub>(8.0+0.08s)</sub> | 2892 | 40 | 200 | 52% | 2874 | 35% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.3.0 | STC <sub>(8.0+0.08s)</sub> | 2633 | 34 | 284 | 46% | 2676 | 35% |
+| 3.3.0 | STC <sub>(8.0+0.08s)</sub> | 2645 | 34 | 284 | 46% | 2687 | 35% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.3.0 | STC <sub>(8.0+0.08s)</sub> | 2742 | 22 | 658 | 50% | 2732 | 36% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
