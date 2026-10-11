@@ -15,7 +15,7 @@ Home: https://github.com/Quinniboi10/Prelude
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1 | 2025-12-10 | 3198 | 3424 | 3505 |  |
+| 2.1 | 2025-12-10 | 3197 | 3422 | 3503 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 10:15:57
+Generated: 2026-10-11 11:17:49
 
 
 
@@ -48,15 +48,15 @@ Generated: 2026-10-11 10:15:57
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3314 | 23 | 496 | 51% | 3302 | 63% |
-| 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3505 | 39 | 186 | 58% | 3390 | 58% |
 | 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3309 | 35 | 238 | 55% | 3206 | 57% |
-| 2.1 | LTC <sub>(60.0+0.60s)</sub> | 3424 | 40 | 180 | 53% | 3379 | 54% |
+| 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3314 | 23 | 496 | 51% | 3302 | 63% |
+| 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3503 | 39 | 186 | 58% | 3389 | 58% |
 | 2.1 | LTC <sub>(60.0+0.60s)</sub> | 3200 | 37 | 218 | 58% | 3071 | 56% |
 | 2.1 | LTC <sub>(60.0+0.60s)</sub> | 3275 | 23 | 514 | 53% | 3243 | 63% |
-| 2.1 | STC <sub>(8.0+0.08s)</sub> | 3198 | 40 | 178 | 50% | 3197 | 48% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.1 | LTC <sub>(60.0+0.60s)</sub> | 3422 | 40 | 180 | 53% | 3379 | 54% |
 | 2.1 | STC <sub>(8.0+0.08s)</sub> | 2900 | 31 | 312 | 45% | 2944 | 49% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.1 | STC <sub>(8.0+0.08s)</sub> | 3048 | 20 | 700 | 50% | 3036 | 48% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.1 | STC <sub>(8.0+0.08s)</sub> | 3197 | 40 | 178 | 50% | 3195 | 48% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
