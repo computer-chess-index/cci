@@ -8,7 +8,7 @@ Home: https://github.com/silentshark-uk/rexigon
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2025-11-30 | 1881 | 2171 | 2314 |  |
+| 1.0 | 2025-11-30 | 1881 | 2164 | 2313 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-10 04:42:02
+Generated: 2026-10-11 04:41:58
 
 
 
@@ -49,14 +49,14 @@ Generated: 2026-10-10 04:42:02
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2476 | 51 | 152 | 54% | 2438 | 17% |
-| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2314 | 45 | 188 | 48% | 2350 | 17% |
+| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2313 | 44 | 196 | 49% | 2342 | 16% |
 | 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2444 | 26 | 562 | 50% | 2445 | 18% |
 | 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2363 | 54 | 132 | 50% | 2375 | 14% |
-| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2171 | 43 | 212 | 54% | 2125 | 17% |
+| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2164 | 42 | 216 | 53% | 2124 | 16% |
 | 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2321 | 25 | 572 | 50% | 2321 | 17% |
 | 1.0 | STC <sub>(8.0+0.08s)</sub> | 2075 | 44 | 192 | 49% | 2084 | 15% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0 | STC <sub>(8.0+0.08s)</sub> | 1881 | 41 | 216 | 46% | 1924 | 16% |
+| 1.0 | STC <sub>(8.0+0.08s)</sub> | 1881 | 41 | 218 | 46% | 1924 | 17% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0 | STC <sub>(8.0+0.08s)</sub> | 2059 | 23 | 752 | 51% | 2041 | 12% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
