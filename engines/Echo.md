@@ -8,14 +8,14 @@ Home: https://github.com/AM-ML/Echo
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.1 | 2026-07-04 | 1863 | 2099 | 2179 |  |
+| 1.0.1 | 2026-07-04 | 1864 | 2101 | 2179 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.1 | 2026-07-04 | 2001 | 2265 | 2302 |  |
+| 1.0.1 | 2026-07-04 | 2005 | 2269 | 2306 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 15:19:07
+Generated: 2026-10-11 17:15:55
 
 
 
@@ -48,15 +48,15 @@ Generated: 2026-10-11 15:19:07
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2302 | 45 | 160 | 49% | 2313 | 34% |
+| 1.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2306 | 45 | 160 | 49% | 2315 | 34% |
 | 1.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2179 | 41 | 194 | 49% | 2186 | 30% |
 | 1.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2288 | 33 | 320 | 50% | 2283 | 28% |
-| 1.0.1 | LTC <sub>(60.0+0.60s)</sub> | 2265 | 46 | 168 | 47% | 2296 | 24% |
-| 1.0.1 | LTC <sub>(60.0+0.60s)</sub> | 2099 | 39 | 230 | 50% | 2101 | 23% |
+| 1.0.1 | LTC <sub>(60.0+0.60s)</sub> | 2269 | 46 | 168 | 47% | 2300 | 24% |
+| 1.0.1 | LTC <sub>(60.0+0.60s)</sub> | 2101 | 39 | 230 | 50% | 2102 | 23% |
 | 1.0.1 | LTC <sub>(60.0+0.60s)</sub> | 2241 | 33 | 324 | 49% | 2226 | 27% |
-| 1.0.1 | STC <sub>(8.0+0.08s)</sub> | 2001 | 42 | 204 | 47% | 2041 | 19% |
+| 1.0.1 | STC <sub>(8.0+0.08s)</sub> | 2005 | 42 | 204 | 47% | 2045 | 19% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0.1 | STC <sub>(8.0+0.08s)</sub> | 1863 | 41 | 214 | 50% | 1860 | 21% |
+| 1.0.1 | STC <sub>(8.0+0.08s)</sub> | 1864 | 41 | 214 | 50% | 1860 | 21% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0.1 | STC <sub>(8.0+0.08s)</sub> | 1995 | 33 | 330 | 52% | 1970 | 20% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
