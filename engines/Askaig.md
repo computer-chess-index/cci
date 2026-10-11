@@ -45,9 +45,9 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 12:52:41
+Generated: 2026-10-11 12:54:11
 
-## Ratings Verlauf
+## Ratings Verlauf E1 / P1
 
 ```mermaid
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
@@ -57,11 +57,14 @@ xychart-beta
   line "E1: STC (8.0+0.08s)" [2923, 2962]
   line "E1: LTC (60.0+0.60s)" [3155, 3195]
   line "E1: VLTC (2m24s+1.12s)" [3256, 3270]
+  line "P1: STC (8.0+0.08s)" []
+  line "P1: LTC (60.0+0.60s)" []
+  line "P1: VLTC (2m24s+1.12s)" []
 ```
 
 
 
-## Ratings Verlauf
+## Ratings Verlauf T1
 
 ```mermaid
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
