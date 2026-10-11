@@ -8,7 +8,7 @@ Home: https://github.com/paulsonkoly/chess-3
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.0 | 2026-04-02 | 2450 | 2749 | 2830 |  |
+| 4.0 | 2026-04-02 | 2448 | 2746 | 2827 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-10 04:37:06
+Generated: 2026-10-11 04:36:58
 
 ## Ratings Verlauf
 
@@ -51,10 +51,15 @@ xychart-beta
   x-axis ["3.0", "4.0"]
   y-axis "Elo Rating" 2400 --> 2900
   line "" [2476, 2511]
-  line "STC (8.0+0.08s)" [2476, 2511]
-  line "LTC (60.0+0.60s)" [2762, 2807]
+  line "T1: STC (8.0+0.08s)" [2476, 2511]
+  line "T1: LTC (60.0+0.60s)" [2762, 2807]
   line "" [2808, 2894]
-  line "VLTC (2m24s+1.12s)" [2808, 2894]
+  line "T1: VLTC (2m24s+1.12s)" [2808, 2894]
+  line "" [2448]
+  line "E1: STC (8.0+0.08s)" [2448]
+  line "E1: LTC (60.0+0.60s)" [2746]
+  line "" [2827]
+  line "E1: VLTC (2m24s+1.12s)" [2827]
 ```
 
 
@@ -65,13 +70,13 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2830 | 30 | 340 | 47% | 2850 | 41% |
+| 4.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2827 | 30 | 340 | 47% | 2846 | 41% |
 | 4.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2894 | 23 | 568 | 51% | 2882 | 40% |
 | 4.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3009 | 45 | 160 | 48% | 3025 | 33% |
-| 4.0 | LTC <sub>(60.0+0.60s)</sub> | 2749 | 40 | 226 | 51% | 2692 | 30% |
+| 4.0 | LTC <sub>(60.0+0.60s)</sub> | 2746 | 39 | 234 | 51% | 2689 | 30% |
 | 4.0 | LTC <sub>(60.0+0.60s)</sub> | 2807 | 23 | 586 | 49% | 2812 | 38% |
 | 4.0 | LTC <sub>(60.0+0.60s)</sub> | 2936 | 47 | 176 | 61% | 2614 | 27% |
-| 4.0 | STC <sub>(8.0+0.08s)</sub> | 2450 | 38 | 234 | 50% | 2448 | 33% |
+| 4.0 | STC <sub>(8.0+0.08s)</sub> | 2448 | 38 | 234 | 50% | 2446 | 33% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4.0 | STC <sub>(8.0+0.08s)</sub> | 2511 | 24 | 604 | 49% | 2520 | 29% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
