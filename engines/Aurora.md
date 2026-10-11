@@ -8,14 +8,14 @@ Home: https://github.com/kjljixx/Aurora-Chess-Engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.27.0timehotfix | 2026-05-28 | 2261 | 2588 | 2592 |  |
+| 1.27.0timehotfix | 2026-05-28 | 2263 | 2589 | 2592 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.27.0timehotfix | 2026-05-28 | 2429 | 2596 | 2726 |  |
+| 1.27.0timehotfix | 2026-05-28 | 2434 | 2601 | 2730 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 15:17:10
+Generated: 2026-10-11 17:13:47
 
 ## Ratings Verlauf T1
 
@@ -67,15 +67,15 @@ xychart-beta
 | 1.28.0 | LTC <sub>(60.0+0.60s)</sub> | 2789 | 34 | 280 | 56% | 2738 | 38% |
 | 1.28.0 | STC <sub>(8.0+0.08s)</sub> | 2438 | 39 | 234 | 49% | 2452 | 23% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.27.0timehotfix | VLTC <sub>(2m24s+1.12s)</sub> | 2726 | 34 | 272 | 43% | 2803 | 37% |
-| 1.27.0timehotfix | VLTC <sub>(2m24s+1.12s)</sub> | 2592 | 38 | 220 | 46% | 2633 | 34% |
+| 1.27.0timehotfix | VLTC <sub>(2m24s+1.12s)</sub> | 2730 | 34 | 276 | 43% | 2805 | 37% |
+| 1.27.0timehotfix | VLTC <sub>(2m24s+1.12s)</sub> | 2592 | 38 | 220 | 46% | 2634 | 34% |
 | 1.27.0timehotfix | VLTC <sub>(2m24s+1.12s)</sub> | 2627 | 28 | 408 | 48% | 2642 | 32% |
-| 1.27.0timehotfix | LTC <sub>(60.0+0.60s)</sub> | 2596 | 43 | 198 | 55% | 2553 | 24% |
-| 1.27.0timehotfix | LTC <sub>(60.0+0.60s)</sub> | 2588 | 41 | 210 | 55% | 2495 | 31% |
+| 1.27.0timehotfix | LTC <sub>(60.0+0.60s)</sub> | 2601 | 43 | 198 | 55% | 2558 | 24% |
+| 1.27.0timehotfix | LTC <sub>(60.0+0.60s)</sub> | 2589 | 41 | 210 | 55% | 2495 | 31% |
 | 1.27.0timehotfix | LTC <sub>(60.0+0.60s)</sub> | 2601 | 28 | 434 | 51% | 2593 | 29% |
-| 1.27.0timehotfix | STC <sub>(8.0+0.08s)</sub> | 2429 | 44 | 184 | 45% | 2488 | 24% |
+| 1.27.0timehotfix | STC <sub>(8.0+0.08s)</sub> | 2434 | 44 | 184 | 45% | 2492 | 24% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.27.0timehotfix | STC <sub>(8.0+0.08s)</sub> | 2261 | 42 | 204 | 49% | 2275 | 20% |
+| 1.27.0timehotfix | STC <sub>(8.0+0.08s)</sub> | 2263 | 42 | 204 | 49% | 2276 | 20% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.27.0timehotfix | STC <sub>(8.0+0.08s)</sub> | 2368 | 28 | 448 | 49% | 2381 | 22% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
