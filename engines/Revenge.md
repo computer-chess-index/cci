@@ -8,14 +8,14 @@ Home: https://www.revengechess.com/
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.0.7 | 2025-01-01 | 3209 | 3416 | 3488 |  |
+| 4.0.7 | 2025-01-01 | 3210 | 3417 | 3490 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.0.7 | 2025-01-01 | 3471 | 3650 | 3654 |  |
+| 4.0.7 | 2025-01-01 | 3475 | 3653 | 3657 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 15:23:28
+Generated: 2026-10-11 17:20:20
 
 
 
@@ -48,15 +48,15 @@ Generated: 2026-10-11 15:23:28
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4.0.7 | VLTC <sub>(2m24s+1.12s)</sub> | 3654 | 47 | 108 | 51% | 3645 | 75% |
-| 4.0.7 | VLTC <sub>(2m24s+1.12s)</sub> | 3488 | 41 | 144 | 51% | 3479 | 80% |
+| 4.0.7 | VLTC <sub>(2m24s+1.12s)</sub> | 3657 | 47 | 108 | 51% | 3649 | 75% |
+| 4.0.7 | VLTC <sub>(2m24s+1.12s)</sub> | 3490 | 41 | 144 | 51% | 3480 | 80% |
 | 4.0.7 | VLTC <sub>(2m24s+1.12s)</sub> | 3495 | 15 | 1002 | 50% | 3494 | 81% |
-| 4.0.7 | LTC <sub>(60.0+0.60s)</sub> | 3416 | 38 | 172 | 49% | 3424 | 74% |
+| 4.0.7 | LTC <sub>(60.0+0.60s)</sub> | 3417 | 38 | 172 | 49% | 3425 | 74% |
 | 4.0.7 | LTC <sub>(60.0+0.60s)</sub> | 3467 | 16 | 974 | 50% | 3465 | 78% |
-| 4.0.7 | LTC <sub>(60.0+0.60s)</sub> | 3650 | 49 | 96 | 51% | 3644 | 88% |
-| 4.0.7 | STC <sub>(8.0+0.08s)</sub> | 3209 | 31 | 272 | 48% | 3228 | 63% |
+| 4.0.7 | LTC <sub>(60.0+0.60s)</sub> | 3653 | 49 | 96 | 51% | 3648 | 88% |
+| 4.0.7 | STC <sub>(8.0+0.08s)</sub> | 3210 | 31 | 272 | 48% | 3229 | 63% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4.0.7 | STC <sub>(8.0+0.08s)</sub> | 3289 | 15 | 1084 | 50% | 3291 | 67% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4.0.7 | STC <sub>(8.0+0.08s)</sub> | 3471 | 36 | 198 | 51% | 3465 | 64% |
+| 4.0.7 | STC <sub>(8.0+0.08s)</sub> | 3475 | 36 | 202 | 51% | 3470 | 65% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
