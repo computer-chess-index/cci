@@ -41,22 +41,18 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 10:14:46
+Generated: 2026-10-11 11:16:42
 
-## Ratings Verlauf
+## Ratings Verlauf T1
 
 ```mermaid
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["0.2", "0.3"]
   y-axis "Elo Rating" 400 --> 600
-  line "" [423, 589]
   line "T1: STC (8.0+0.08s)" [423, 589]
   line "T1: LTC (60.0+0.60s)" [440, 586]
-  line "" [450, 581]
   line "T1: VLTC (2m24s+1.12s)" [450, 581]
-  line "" [423,608]
-  line "E1: STC (8.0+0.08s)" [423,608]
 ```
 
 
@@ -67,17 +63,17 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.3 | VLTC <sub>(2m24s+1.12s)</sub> | 581 | 54 | 132 | 56% | 544 | 23% |
 | 0.3 | VLTC <sub>(2m24s+1.12s)</sub> | 581 | 43 | 208 | 50% | 587 | 22% |
 | 0.3 | VLTC <sub>(2m24s+1.12s)</sub> | 512 | 67 | 98 | 42% | 818 | 23% |
-| 0.3 | LTC <sub>(60.0+0.60s)</sub> | 606 | 51 | 136 | 58% | 522 | 32% |
+| 0.3 | VLTC <sub>(2m24s+1.12s)</sub> | 581 | 54 | 132 | 56% | 544 | 23% |
 | 0.3 | LTC <sub>(60.0+0.60s)</sub> | 586 | 44 | 204 | 50% | 576 | 25% |
 | 0.3 | LTC <sub>(60.0+0.60s)</sub> | 595 | 62 | 96 | 53% | 698 | 32% |
-| 0.3 | STC <sub>(8.0+0.08s)</sub> | 608 | 53 | 140 | 55% | 562 | 16% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0.3 | LTC <sub>(60.0+0.60s)</sub> | 606 | 51 | 136 | 58% | 522 | 32% |
 | 0.3 | STC <sub>(8.0+0.08s)</sub> | 589 | 44 | 220 | 47% | 648 | 16% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.3 | STC <sub>(8.0+0.08s)</sub> | 548 | 65 | 88 | 47% | 722 | 25% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0.3 | STC <sub>(8.0+0.08s)</sub> | 608 | 53 | 140 | 55% | 562 | 16% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.2 | VLTC <sub>(2m24s+1.12s)</sub> | 450 | 45 | 208 | 35% | 687 | 35% |
 | 0.2 | LTC <sub>(60.0+0.60s)</sub> | 440 | 46 | 192 | 36% | 645 | 38% |
