@@ -15,7 +15,7 @@ Home: https://github.com/nbqofficial/viking
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| R5 | 2026-04-27 | 1932 | 2329 | 2556 |  |
+| R5 | 2026-04-27 | 1932 | 2327 | 2556 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -41,22 +41,18 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 10:18:44
+Generated: 2026-10-11 11:20:32
 
-## Ratings Verlauf
+## Ratings Verlauf T1
 
 ```mermaid
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["R4", "R5"]
   y-axis "Elo Rating" 1300 --> 2400
-  line "" [1354, 1929]
   line "T1: STC (8.0+0.08s)" [1354, 1929]
   line "T1: LTC (60.0+0.60s)" [1836, 2192]
-  line "" [2125, 2354]
   line "T1: VLTC (2m24s+1.12s)" [2125, 2354]
-  line "" [1354,1800]
-  line "E1: STC (8.0+0.08s)" [1354,1800]
 ```
 
 
@@ -67,11 +63,11 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| R5 | VLTC <sub>(2m24s+1.12s)</sub> | 2153 | 44 | 188 | 51% | 2156 | 27% |
 | R5 | VLTC <sub>(2m24s+1.12s)</sub> | 2354 | 26 | 482 | 49% | 2367 | 33% |
 | R5 | VLTC <sub>(2m24s+1.12s)</sub> | 2556 | 47 | 154 | 43% | 2641 | 29% |
+| R5 | VLTC <sub>(2m24s+1.12s)</sub> | 2153 | 44 | 188 | 51% | 2156 | 27% |
 | R5 | LTC <sub>(60.0+0.60s)</sub> | 2192 | 28 | 450 | 51% | 2174 | 29% |
-| R5 | LTC <sub>(60.0+0.60s)</sub> | 2329 | 51 | 132 | 50% | 2342 | 30% |
+| R5 | LTC <sub>(60.0+0.60s)</sub> | 2327 | 51 | 132 | 50% | 2341 | 30% |
 | R5 | LTC <sub>(60.0+0.60s)</sub> | 2110 | 41 | 212 | 47% | 2169 | 28% |
 | R5 | STC <sub>(8.0+0.08s)</sub> | 1929 | 26 | 542 | 50% | 1935 | 20% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
