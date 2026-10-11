@@ -15,7 +15,7 @@ Home: https://github.com/adamtwiss/coda
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.9.4 | 2026-08-22 | 3657 | 3792 | 3811 |  |
+| 0.9.4 | 2026-08-22 | 3657 | 3792 | 3810 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -43,22 +43,18 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 10:12:07
+Generated: 2026-10-11 11:13:59
 
-## Ratings Verlauf
+## Ratings Verlauf T1
 
 ```mermaid
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["0.9.1", "0.9.2", "0.9.3", "0.9.4"]
   y-axis "Elo Rating" 3200 --> 3700
-  line "" [3210, 3445, 3441, 3494]
   line "T1: STC (8.0+0.08s)" [3210, 3445, 3441, 3494]
   line "T1: LTC (60.0+0.60s)" [3416, 3580, 3571, 3568]
-  line "" [3484, 3579, 3603, 3592]
   line "T1: VLTC (2m24s+1.12s)" [3484, 3579, 3603, 3592]
-  line "" [3210, 3445, 3441,3421]
-  line "E1: STC (8.0+0.08s)" [3210, 3445, 3441,3421]
 ```
 
 
@@ -70,11 +66,11 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.9.4 | VLTC <sub>(2m24s+1.12s)</sub> | 3592 | 37 | 168 | 51% | 3584 | 90% |
-| 0.9.4 | VLTC <sub>(2m24s+1.12s)</sub> | 3811 | 50 | 88 | 52% | 3796 | 93% |
+| 0.9.4 | VLTC <sub>(2m24s+1.12s)</sub> | 3810 | 50 | 88 | 52% | 3795 | 93% |
 | 0.9.4 | VLTC <sub>(2m24s+1.12s)</sub> | 3619 | 35 | 184 | 52% | 3609 | 92% |
 | 0.9.4 | LTC <sub>(60.0+0.60s)</sub> | 3568 | 31 | 244 | 51% | 3564 | 83% |
-| 0.9.4 | LTC <sub>(60.0+0.60s)</sub> | 3792 | 42 | 126 | 52% | 3781 | 90% |
-| 0.9.4 | LTC <sub>(60.0+0.60s)</sub> | 3594 | 37 | 164 | 52% | 3583 | 87% |
+| 0.9.4 | LTC <sub>(60.0+0.60s)</sub> | 3792 | 42 | 126 | 52% | 3780 | 90% |
+| 0.9.4 | LTC <sub>(60.0+0.60s)</sub> | 3594 | 37 | 164 | 52% | 3584 | 87% |
 | 0.9.4 | STC <sub>(8.0+0.08s)</sub> | 3494 | 27 | 318 | 51% | 3488 | 85% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.9.4 | STC <sub>(8.0+0.08s)</sub> | 3657 | 36 | 176 | 47% | 3676 | 85% |
