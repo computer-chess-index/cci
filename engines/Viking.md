@@ -8,14 +8,14 @@ Home: https://github.com/nbqofficial/viking
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| R5 | 2026-04-27 | 1800 | 2110 | 2153 |  |
+| R5 | 2026-04-27 | 1800 | 2107 | 2151 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| R5 | 2026-04-27 | 1932 | 2327 | 2556 |  |
+| R5 | 2026-04-27 | 1916 | 2311 | 2538 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 11:20:32
+Generated: 2026-10-11 15:25:39
 
 ## Ratings Verlauf T1
 
@@ -63,17 +63,17 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| R5 | VLTC <sub>(2m24s+1.12s)</sub> | 2151 | 44 | 188 | 51% | 2155 | 27% |
 | R5 | VLTC <sub>(2m24s+1.12s)</sub> | 2354 | 26 | 482 | 49% | 2367 | 33% |
-| R5 | VLTC <sub>(2m24s+1.12s)</sub> | 2556 | 47 | 154 | 43% | 2641 | 29% |
-| R5 | VLTC <sub>(2m24s+1.12s)</sub> | 2153 | 44 | 188 | 51% | 2156 | 27% |
+| R5 | VLTC <sub>(2m24s+1.12s)</sub> | 2538 | 47 | 154 | 43% | 2623 | 29% |
 | R5 | LTC <sub>(60.0+0.60s)</sub> | 2192 | 28 | 450 | 51% | 2174 | 29% |
-| R5 | LTC <sub>(60.0+0.60s)</sub> | 2327 | 51 | 132 | 50% | 2341 | 30% |
-| R5 | LTC <sub>(60.0+0.60s)</sub> | 2110 | 41 | 212 | 47% | 2169 | 28% |
+| R5 | LTC <sub>(60.0+0.60s)</sub> | 2311 | 50 | 136 | 50% | 2325 | 29% |
+| R5 | LTC <sub>(60.0+0.60s)</sub> | 2107 | 41 | 212 | 47% | 2167 | 28% |
 | R5 | STC <sub>(8.0+0.08s)</sub> | 1929 | 26 | 542 | 50% | 1935 | 20% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| R5 | STC <sub>(8.0+0.08s)</sub> | 1932 | 47 | 154 | 47% | 1953 | 23% |
+| R5 | STC <sub>(8.0+0.08s)</sub> | 1916 | 47 | 154 | 47% | 1937 | 23% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| R5 | STC <sub>(8.0+0.08s)</sub> | 1800 | 39 | 220 | 46% | 1867 | 31% |
+| R5 | STC <sub>(8.0+0.08s)</sub> | 1800 | 39 | 220 | 46% | 1866 | 31% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | R4 | VLTC <sub>(2m24s+1.12s)</sub> | 2125 | 31 | 372 | 41% | 2236 | 28% |
 | R4 | LTC <sub>(60.0+0.60s)</sub> | 1836 | 36 | 298 | 46% | 1906 | 23% |
