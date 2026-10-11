@@ -8,14 +8,14 @@ Home:
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| Extreme | 2026-01-07 | 2832 | 3085 | 3154 |  |
+| Extreme | 2026-01-07 | 2832 | 3089 | 3154 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| Extreme | 2026-01-07 | 3060 | 3283 | 3393 |  |
+| Extreme | 2026-01-07 | 3059 | 3282 | 3393 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 10:11:48
+Generated: 2026-10-11 11:13:41
 
 
 
@@ -48,15 +48,15 @@ Generated: 2026-10-11 10:11:48
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Extreme | VLTC <sub>(2m24s+1.12s)</sub> | 3236 | 24 | 515 | 51% | 3225 | 44% |
-| Extreme | VLTC <sub>(2m24s+1.12s)</sub> | 3393 | 41 | 184 | 48% | 3409 | 37% |
 | Extreme | VLTC <sub>(2m24s+1.12s)</sub> | 3154 | 33 | 286 | 56% | 3089 | 42% |
-| Extreme | LTC <sub>(60.0+0.60s)</sub> | 3283 | 35 | 254 | 56% | 3233 | 44% |
-| Extreme | LTC <sub>(60.0+0.60s)</sub> | 3085 | 32 | 328 | 54% | 3016 | 31% |
+| Extreme | VLTC <sub>(2m24s+1.12s)</sub> | 3236 | 24 | 515 | 51% | 3225 | 44% |
+| Extreme | VLTC <sub>(2m24s+1.12s)</sub> | 3393 | 41 | 184 | 48% | 3407 | 37% |
+| Extreme | LTC <sub>(60.0+0.60s)</sub> | 3089 | 32 | 332 | 54% | 3016 | 31% |
 | Extreme | LTC <sub>(60.0+0.60s)</sub> | 3179 | 24 | 528 | 51% | 3167 | 41% |
-| Extreme | STC <sub>(8.0+0.08s)</sub> | 3060 | 38 | 224 | 48% | 3078 | 32% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Extreme | LTC <sub>(60.0+0.60s)</sub> | 3282 | 35 | 254 | 56% | 3232 | 44% |
 | Extreme | STC <sub>(8.0+0.08s)</sub> | 2832 | 34 | 280 | 47% | 2859 | 34% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Extreme | STC <sub>(8.0+0.08s)</sub> | 2935 | 21 | 776 | 49% | 2943 | 33% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Extreme | STC <sub>(8.0+0.08s)</sub> | 3059 | 38 | 224 | 48% | 3077 | 32% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
