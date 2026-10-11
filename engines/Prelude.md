@@ -8,14 +8,14 @@ Home: https://github.com/Quinniboi10/Prelude
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1 | 2025-12-10 | 2892 | 3183 | 3297 |  |
+| 2.1 | 2025-12-10 | 2900 | 3200 | 3309 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1 | 2025-12-10 | 3214 | 3436 | 3515 |  |
+| 2.1 | 2025-12-10 | 3198 | 3424 | 3505 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 04:41:10
+Generated: 2026-10-11 10:04:15
 
 
 
@@ -48,15 +48,15 @@ Generated: 2026-10-11 04:41:10
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3515 | 40 | 182 | 57% | 3401 | 58% |
-| 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3297 | 35 | 234 | 55% | 3195 | 58% |
 | 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3314 | 23 | 496 | 51% | 3302 | 63% |
-| 2.1 | LTC <sub>(60.0+0.60s)</sub> | 3436 | 40 | 180 | 53% | 3393 | 54% |
-| 2.1 | LTC <sub>(60.0+0.60s)</sub> | 3183 | 37 | 214 | 58% | 3059 | 57% |
+| 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3505 | 39 | 186 | 58% | 3390 | 58% |
+| 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3309 | 35 | 238 | 55% | 3206 | 57% |
+| 2.1 | LTC <sub>(60.0+0.60s)</sub> | 3424 | 40 | 180 | 53% | 3379 | 54% |
+| 2.1 | LTC <sub>(60.0+0.60s)</sub> | 3200 | 37 | 218 | 58% | 3071 | 56% |
 | 2.1 | LTC <sub>(60.0+0.60s)</sub> | 3275 | 23 | 514 | 53% | 3243 | 63% |
-| 2.1 | STC <sub>(8.0+0.08s)</sub> | 3214 | 42 | 170 | 51% | 3212 | 47% |
+| 2.1 | STC <sub>(8.0+0.08s)</sub> | 3198 | 40 | 178 | 50% | 3197 | 48% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.1 | STC <sub>(8.0+0.08s)</sub> | 2892 | 31 | 304 | 45% | 2934 | 48% |
+| 2.1 | STC <sub>(8.0+0.08s)</sub> | 2900 | 31 | 312 | 45% | 2944 | 49% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.1 | STC <sub>(8.0+0.08s)</sub> | 3048 | 20 | 700 | 50% | 3036 | 48% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
