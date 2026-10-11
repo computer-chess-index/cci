@@ -8,7 +8,7 @@ Home: https://github.com/oozturk777/ynode
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0234 | 2026-03-22 | 3067 | 3276 | 3332 |  |
+| 0234 | 2026-03-22 | 3065 | 3279 | 3328 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-10 04:44:09
+Generated: 2026-10-11 04:44:04
 
 ## Ratings Verlauf
 
@@ -51,10 +51,15 @@ xychart-beta
   x-axis ["0219", "0234"]
   y-axis "Elo Rating" 3100 --> 3500
   line "" [3151, 3141]
-  line "STC (8.0+0.08s)" [3151, 3141]
-  line "LTC (60.0+0.60s)" [3333, 3356]
+  line "T1: STC (8.0+0.08s)" [3151, 3141]
+  line "T1: LTC (60.0+0.60s)" [3333, 3356]
   line "" [3382, 3407]
-  line "VLTC (2m24s+1.12s)" [3382, 3407]
+  line "T1: VLTC (2m24s+1.12s)" [3382, 3407]
+  line "" [3065]
+  line "E1: STC (8.0+0.08s)" [3065]
+  line "E1: LTC (60.0+0.60s)" [3279]
+  line "" [3328]
+  line "E1: VLTC (2m24s+1.12s)" [3328]
 ```
 
 
@@ -65,13 +70,13 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0234 | VLTC <sub>(2m24s+1.12s)</sub> | 3332 | 33 | 264 | 62% | 3152 | 61% |
+| 0234 | VLTC <sub>(2m24s+1.12s)</sub> | 3328 | 32 | 276 | 61% | 3158 | 63% |
 | 0234 | VLTC <sub>(2m24s+1.12s)</sub> | 3407 | 25 | 382 | 50% | 3409 | 81% |
 | 0234 | VLTC <sub>(2m24s+1.12s)</sub> | 3563 | 42 | 152 | 54% | 3502 | 66% |
-| 0234 | LTC <sub>(60.0+0.60s)</sub> | 3276 | 40 | 176 | 59% | 3143 | 63% |
+| 0234 | LTC <sub>(60.0+0.60s)</sub> | 3279 | 38 | 194 | 59% | 3154 | 64% |
 | 0234 | LTC <sub>(60.0+0.60s)</sub> | 3356 | 24 | 416 | 51% | 3347 | 74% |
 | 0234 | LTC <sub>(60.0+0.60s)</sub> | 3518 | 44 | 144 | 57% | 3429 | 63% |
-| 0234 | STC <sub>(8.0+0.08s)</sub> | 3067 | 34 | 234 | 49% | 3077 | 56% |
+| 0234 | STC <sub>(8.0+0.08s)</sub> | 3065 | 34 | 234 | 49% | 3075 | 56% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0234 | STC <sub>(8.0+0.08s)</sub> | 3141 | 23 | 524 | 50% | 3140 | 57% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
