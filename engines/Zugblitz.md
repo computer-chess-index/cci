@@ -8,7 +8,7 @@ Home: https://github.com/P1X3R/zugblitz
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.3.2 | 2026-06-13 | 1512 | 1717 | 1705 |  |
+| 1.3.2 | 2026-06-13 | 1509 | 1712 | 1705 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-10 04:44:30
+Generated: 2026-10-11 04:44:26
 
 ## Ratings Verlauf
 
@@ -51,10 +51,15 @@ xychart-beta
   x-axis ["1.3.1", "1.3.2"]
   y-axis "Elo Rating" 1800 --> 2300
   line "" [1864, 1863]
-  line "STC (8.0+0.08s)" [1864, 1863]
-  line "LTC (60.0+0.60s)" [2152, 2107]
+  line "T1: STC (8.0+0.08s)" [1864, 1863]
+  line "T1: LTC (60.0+0.60s)" [2152, 2107]
   line "" [2191, 2217]
-  line "VLTC (2m24s+1.12s)" [2191, 2217]
+  line "T1: VLTC (2m24s+1.12s)" [2191, 2217]
+  line "" [1509]
+  line "E1: STC (8.0+0.08s)" [1509]
+  line "E1: LTC (60.0+0.60s)" [1712]
+  line "" [1705]
+  line "E1: VLTC (2m24s+1.12s)" [1705]
 ```
 
 
@@ -65,13 +70,13 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.3.2 | VLTC <sub>(2m24s+1.12s)</sub> | 1705 | 45 | 198 | 51% | 1717 | 15% |
+| 1.3.2 | VLTC <sub>(2m24s+1.12s)</sub> | 1705 | 45 | 198 | 51% | 1715 | 15% |
 | 1.3.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2217 | 29 | 376 | 50% | 2222 | 35% |
 | 1.3.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2056 | 42 | 216 | 44% | 2152 | 19% |
-| 1.3.2 | LTC <sub>(60.0+0.60s)</sub> | 1717 | 45 | 174 | 50% | 1754 | 24% |
+| 1.3.2 | LTC <sub>(60.0+0.60s)</sub> | 1712 | 44 | 182 | 49% | 1752 | 24% |
 | 1.3.2 | LTC <sub>(60.0+0.60s)</sub> | 2107 | 29 | 404 | 53% | 2080 | 32% |
 | 1.3.2 | LTC <sub>(60.0+0.60s)</sub> | 1872 | 36 | 308 | 36% | 2039 | 20% |
-| 1.3.2 | STC <sub>(8.0+0.08s)</sub> | 1512 | 36 | 296 | 40% | 1617 | 19% |
+| 1.3.2 | STC <sub>(8.0+0.08s)</sub> | 1509 | 35 | 316 | 40% | 1609 | 19% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.3.2 | STC <sub>(8.0+0.08s)</sub> | 1863 | 29 | 410 | 53% | 1827 | 28% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
