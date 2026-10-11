@@ -8,14 +8,14 @@ Home: https://github.com/fizban99/micropython-usunfish
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.4 | 2026-09-12 | 938 | 1353 | 1422 |  |
+| 1.4 | 2026-09-12 | 940 | 1355 | 1427 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.4 | 2026-09-12 | 1148 | 1505 | 1710 |  |
+| 1.4 | 2026-09-12 | 1133 | 1508 | 1679 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 04:43:42
+Generated: 2026-10-11 10:06:55
 
 ## Ratings Verlauf
 
@@ -55,11 +55,8 @@ xychart-beta
   line "T1: LTC (60.0+0.60s)" [1365, 1470]
   line "" [1507, 1540]
   line "T1: VLTC (2m24s+1.12s)" [1507, 1540]
-  line "" [938]
-  line "E1: STC (8.0+0.08s)" [938]
-  line "E1: LTC (60.0+0.60s)" [1353]
-  line "" [1422]
-  line "E1: VLTC (2m24s+1.12s)" [1422]
+  line "" [968,940]
+  line "E1: STC (8.0+0.08s)" [968,940]
 ```
 
 
@@ -71,16 +68,16 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.4 | VLTC <sub>(2m24s+1.12s)</sub> | 1540 | 39 | 238 | 54% | 1507 | 21% |
-| 1.4 | VLTC <sub>(2m24s+1.12s)</sub> | 1710 | 43 | 208 | 56% | 1650 | 15% |
-| 1.4 | VLTC <sub>(2m24s+1.12s)</sub> | 1422 | 44 | 188 | 49% | 1455 | 21% |
+| 1.4 | VLTC <sub>(2m24s+1.12s)</sub> | 1679 | 40 | 236 | 53% | 1644 | 14% |
+| 1.4 | VLTC <sub>(2m24s+1.12s)</sub> | 1427 | 44 | 188 | 49% | 1461 | 21% |
 | 1.4 | LTC <sub>(60.0+0.60s)</sub> | 1470 | 40 | 220 | 52% | 1449 | 20% |
-| 1.4 | LTC <sub>(60.0+0.60s)</sub> | 1505 | 52 | 132 | 49% | 1511 | 20% |
-| 1.4 | LTC <sub>(60.0+0.60s)</sub> | 1353 | 42 | 208 | 48% | 1365 | 19% |
-| 1.4 | STC <sub>(8.0+0.08s)</sub> | 1148 | 50 | 140 | 53% | 1118 | 21% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.4 | STC <sub>(8.0+0.08s)</sub> | 938 | 38 | 234 | 47% | 975 | 26% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.4 | LTC <sub>(60.0+0.60s)</sub> | 1508 | 50 | 140 | 50% | 1504 | 19% |
+| 1.4 | LTC <sub>(60.0+0.60s)</sub> | 1355 | 41 | 216 | 48% | 1370 | 19% |
 | 1.4 | STC <sub>(8.0+0.08s)</sub> | 1088 | 36 | 282 | 49% | 1100 | 19% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.4 | STC <sub>(8.0+0.08s)</sub> | 1133 | 49 | 148 | 52% | 1114 | 20% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.4 | STC <sub>(8.0+0.08s)</sub> | 940 | 38 | 238 | 46% | 976 | 26% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 1507 | 32 | 360 | 51% | 1492 | 19% |
 | 1.1 | LTC <sub>(60.0+0.60s)</sub> | 1365 | 33 | 344 | 51% | 1354 | 18% |
