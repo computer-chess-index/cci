@@ -8,14 +8,14 @@ Home: https://github.com/montypylons/mihansolo_bot
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.0.0 | 2025-10-01 | 1161 | 1330 | 1355 |  |
+| 9.0.0 | 2025-10-01 | 1160 | 1330 | 1354 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.0.0 | 2025-10-01 | 1212 | 1446 | 1486 |  |
+| 9.0.0 | 2025-10-01 | 1203 | 1432 | 1472 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 11:16:50
+Generated: 2026-10-11 15:21:31
 
 
 
@@ -48,15 +48,15 @@ Generated: 2026-10-11 11:16:50
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 9.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1355 | 43 | 182 | 48% | 1431 | 35% |
 | 9.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1484 | 26 | 536 | 51% | 1499 | 29% |
-| 9.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1486 | 47 | 156 | 42% | 1574 | 26% |
-| 9.0.0 | LTC <sub>(60.0+0.60s)</sub> | 1330 | 45 | 170 | 47% | 1436 | 33% |
+| 9.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1472 | 47 | 156 | 42% | 1559 | 26% |
+| 9.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1354 | 43 | 182 | 48% | 1430 | 35% |
+| 9.0.0 | LTC <sub>(60.0+0.60s)</sub> | 1432 | 47 | 140 | 53% | 1418 | 40% |
+| 9.0.0 | LTC <sub>(60.0+0.60s)</sub> | 1330 | 45 | 170 | 47% | 1435 | 33% |
 | 9.0.0 | LTC <sub>(60.0+0.60s)</sub> | 1395 | 26 | 542 | 55% | 1349 | 29% |
-| 9.0.0 | LTC <sub>(60.0+0.60s)</sub> | 1446 | 47 | 140 | 53% | 1431 | 40% |
-| 9.0.0 | STC <sub>(8.0+0.08s)</sub> | 1161 | 42 | 192 | 51% | 1142 | 29% |
+| 9.0.0 | STC <sub>(8.0+0.08s)</sub> | 1203 | 52 | 124 | 50% | 1206 | 26% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 9.0.0 | STC <sub>(8.0+0.08s)</sub> | 1160 | 42 | 192 | 51% | 1142 | 29% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 9.0.0 | STC <sub>(8.0+0.08s)</sub> | 1224 | 24 | 682 | 54% | 1169 | 29% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 9.0.0 | STC <sub>(8.0+0.08s)</sub> | 1212 | 52 | 124 | 50% | 1215 | 26% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
