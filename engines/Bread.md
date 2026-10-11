@@ -42,22 +42,18 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 10:11:04
+Generated: 2026-10-11 11:12:58
 
-## Ratings Verlauf
+## Ratings Verlauf T1
 
 ```mermaid
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["2.0.0", "2.1.1", "3.0.0"]
   y-axis "Elo Rating" 2800 --> 3400
-  line "" [2870, 3005, 3114]
   line "T1: STC (8.0+0.08s)" [2870, 3005, 3114]
   line "T1: LTC (60.0+0.60s)" [3125, 3214, 3321]
-  line "" [3162, 3266, 3397]
   line "T1: VLTC (2m24s+1.12s)" [3162, 3266, 3397]
-  line "" [2870, 3005,3036]
-  line "E1: STC (8.0+0.08s)" [2870, 3005,3036]
 ```
 
 
@@ -69,14 +65,14 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3397 | 22 | 500 | 50% | 3399 | 75% |
-| 3.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3568 | 39 | 170 | 53% | 3524 | 71% |
+| 3.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3568 | 39 | 170 | 53% | 3522 | 71% |
 | 3.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3337 | 34 | 256 | 60% | 3195 | 55% |
 | 3.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3321 | 24 | 436 | 51% | 3314 | 72% |
 | 3.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3478 | 42 | 156 | 54% | 3425 | 60% |
 | 3.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3235 | 38 | 210 | 59% | 3085 | 57% |
 | 3.0.0 | STC <sub>(8.0+0.08s)</sub> | 3114 | 22 | 588 | 50% | 3112 | 57% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.0.0 | STC <sub>(8.0+0.08s)</sub> | 3233 | 38 | 184 | 47% | 3255 | 58% |
+| 3.0.0 | STC <sub>(8.0+0.08s)</sub> | 3233 | 38 | 184 | 47% | 3254 | 58% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.0.0 | STC <sub>(8.0+0.08s)</sub> | 3036 | 33 | 256 | 47% | 3056 | 55% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
