@@ -8,14 +8,14 @@ Home: https://github.com/Lacovipo/Anubis-chess-engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.6 | 2025-10-02 | 2295 | 2830 | 2957 |  |
+| 3.0.6 | 2025-10-02 | 2298 | 2831 | 2958 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.6 | 2025-10-02 | 2454 | 2979 | 3133 |  |
+| 3.0.6 | 2025-10-02 | 2460 | 2982 | 3136 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 15:16:44
+Generated: 2026-10-11 17:13:17
 
 
 
@@ -49,14 +49,14 @@ Generated: 2026-10-11 15:16:44
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.0.6 | VLTC <sub>(2m24s+1.12s)</sub> | 3043 | 23 | 544 | 48% | 3056 | 46% |
-| 3.0.6 | VLTC <sub>(2m24s+1.12s)</sub> | 3133 | 44 | 156 | 56% | 3069 | 43% |
-| 3.0.6 | VLTC <sub>(2m24s+1.12s)</sub> | 2957 | 37 | 224 | 55% | 2886 | 42% |
-| 3.0.6 | LTC <sub>(60.0+0.60s)</sub> | 2979 | 45 | 152 | 52% | 2955 | 41% |
-| 3.0.6 | LTC <sub>(60.0+0.60s)</sub> | 2830 | 34 | 286 | 45% | 2867 | 36% |
+| 3.0.6 | VLTC <sub>(2m24s+1.12s)</sub> | 3136 | 44 | 156 | 56% | 3071 | 43% |
+| 3.0.6 | VLTC <sub>(2m24s+1.12s)</sub> | 2958 | 37 | 224 | 55% | 2888 | 42% |
+| 3.0.6 | LTC <sub>(60.0+0.60s)</sub> | 2982 | 45 | 152 | 52% | 2958 | 41% |
+| 3.0.6 | LTC <sub>(60.0+0.60s)</sub> | 2831 | 34 | 286 | 45% | 2869 | 36% |
 | 3.0.6 | LTC <sub>(60.0+0.60s)</sub> | 2917 | 23 | 596 | 47% | 2938 | 41% |
-| 3.0.6 | STC <sub>(8.0+0.08s)</sub> | 2454 | 48 | 152 | 47% | 2476 | 26% |
+| 3.0.6 | STC <sub>(8.0+0.08s)</sub> | 2460 | 48 | 152 | 47% | 2481 | 26% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.0.6 | STC <sub>(8.0+0.08s)</sub> | 2295 | 42 | 212 | 43% | 2371 | 21% |
+| 3.0.6 | STC <sub>(8.0+0.08s)</sub> | 2298 | 42 | 212 | 43% | 2372 | 21% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.0.6 | STC <sub>(8.0+0.08s)</sub> | 2498 | 22 | 722 | 54% | 2461 | 26% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
