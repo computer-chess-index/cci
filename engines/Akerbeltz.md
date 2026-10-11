@@ -8,14 +8,14 @@ Home: https://github.com/neluj/Akerbeltz
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1.0 | 2026-04-14 | 1823 | 2102 | 2210 |  |
+| 1.1.0 | 2026-04-14 | 1837 | 2114 | 2219 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1.0 | 2026-04-14 | 2001 | 2279 | 2403 |  |
+| 1.1.0 | 2026-04-14 | 1986 | 2280 | 2387 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 04:35:19
+Generated: 2026-10-11 09:58:09
 
 ## Ratings Verlauf
 
@@ -55,11 +55,8 @@ xychart-beta
   line "T1: LTC (60.0+0.60s)" [1640, 2202]
   line "" [1774, 2310]
   line "T1: VLTC (2m24s+1.12s)" [1774, 2310]
-  line "" [1823]
-  line "E1: STC (8.0+0.08s)" [1823]
-  line "E1: LTC (60.0+0.60s)" [2102]
-  line "" [2210]
-  line "E1: VLTC (2m24s+1.12s)" [2210]
+  line "" [1392,1837]
+  line "E1: STC (8.0+0.08s)" [1392,1837]
 ```
 
 
@@ -70,17 +67,17 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2210 | 43 | 196 | 48% | 2244 | 23% |
+| 1.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2387 | 47 | 164 | 54% | 2361 | 23% |
+| 1.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2219 | 42 | 204 | 49% | 2252 | 24% |
 | 1.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2310 | 26 | 520 | 51% | 2309 | 21% |
-| 1.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2403 | 47 | 164 | 54% | 2377 | 23% |
-| 1.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2102 | 43 | 212 | 50% | 2113 | 15% |
+| 1.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2114 | 43 | 216 | 51% | 2122 | 15% |
 | 1.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2202 | 27 | 496 | 48% | 2218 | 23% |
-| 1.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2279 | 59 | 112 | 47% | 2358 | 20% |
-| 1.1.0 | STC <sub>(8.0+0.08s)</sub> | 1823 | 42 | 206 | 48% | 1875 | 23% |
+| 1.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2280 | 54 | 136 | 49% | 2333 | 18% |
+| 1.1.0 | STC <sub>(8.0+0.08s)</sub> | 1837 | 41 | 210 | 48% | 1885 | 24% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.1.0 | STC <sub>(8.0+0.08s)</sub> | 1941 | 25 | 588 | 48% | 1967 | 21% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.1.0 | STC <sub>(8.0+0.08s)</sub> | 2001 | 49 | 150 | 51% | 1994 | 19% |
+| 1.1.0 | STC <sub>(8.0+0.08s)</sub> | 1986 | 48 | 158 | 49% | 2010 | 19% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1774 | 41 | 230 | 41% | 1906 | 22% |
 | 1.0.0 | LTC <sub>(60.0+0.60s)</sub> | 1640 | 48 | 164 | 43% | 1733 | 21% |
