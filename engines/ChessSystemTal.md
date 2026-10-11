@@ -8,14 +8,14 @@ Home:
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| Extreme | 2026-01-07 | 2820 | 3077 | 3144 |  |
+| Extreme | 2026-01-07 | 2835 | 3087 | 3156 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| Extreme | 2026-01-07 | 3071 | 3301 | 3406 |  |
+| Extreme | 2026-01-07 | 3059 | 3282 | 3391 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 04:37:08
+Generated: 2026-10-11 10:00:02
 
 
 
@@ -48,15 +48,15 @@ Generated: 2026-10-11 04:37:08
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Extreme | VLTC <sub>(2m24s+1.12s)</sub> | 3406 | 43 | 172 | 48% | 3422 | 37% |
-| Extreme | VLTC <sub>(2m24s+1.12s)</sub> | 3144 | 33 | 286 | 56% | 3081 | 42% |
 | Extreme | VLTC <sub>(2m24s+1.12s)</sub> | 3236 | 24 | 515 | 51% | 3225 | 44% |
-| Extreme | LTC <sub>(60.0+0.60s)</sub> | 3301 | 35 | 252 | 56% | 3247 | 44% |
-| Extreme | LTC <sub>(60.0+0.60s)</sub> | 3077 | 37 | 264 | 55% | 2992 | 30% |
+| Extreme | VLTC <sub>(2m24s+1.12s)</sub> | 3391 | 41 | 184 | 48% | 3407 | 37% |
+| Extreme | VLTC <sub>(2m24s+1.12s)</sub> | 3156 | 33 | 286 | 56% | 3092 | 42% |
+| Extreme | LTC <sub>(60.0+0.60s)</sub> | 3282 | 35 | 254 | 56% | 3232 | 44% |
+| Extreme | LTC <sub>(60.0+0.60s)</sub> | 3087 | 32 | 328 | 54% | 3017 | 31% |
 | Extreme | LTC <sub>(60.0+0.60s)</sub> | 3179 | 24 | 528 | 51% | 3167 | 41% |
-| Extreme | STC <sub>(8.0+0.08s)</sub> | 3071 | 38 | 220 | 47% | 3093 | 32% |
+| Extreme | STC <sub>(8.0+0.08s)</sub> | 3059 | 38 | 224 | 48% | 3077 | 32% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Extreme | STC <sub>(8.0+0.08s)</sub> | 2820 | 34 | 278 | 47% | 2843 | 34% |
+| Extreme | STC <sub>(8.0+0.08s)</sub> | 2835 | 34 | 280 | 47% | 2862 | 34% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Extreme | STC <sub>(8.0+0.08s)</sub> | 2935 | 21 | 776 | 49% | 2943 | 33% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
