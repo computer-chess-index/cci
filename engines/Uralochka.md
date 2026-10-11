@@ -8,14 +8,14 @@ Home:
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.41a | 2024-05-04 |  | 3395 | 3483 |  |
+| 3.41a | 2024-05-04 |  | 3394 | 3480 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.41a | 2024-05-04 |  | 3617 | 3687 |  |
+| 3.41a | 2024-05-04 |  | 3600 | 3671 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 11:20:20
+Generated: 2026-10-11 15:25:25
 
 
 
@@ -48,11 +48,11 @@ Generated: 2026-10-11 11:20:20
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.41a | VLTC <sub>(2m24s+1.12s)</sub> | 3483 | 41 | 146 | 48% | 3495 | 76% |
+| 3.41a | VLTC <sub>(2m24s+1.12s)</sub> | 3480 | 40 | 150 | 48% | 3492 | 75% |
 | 3.41a | VLTC <sub>(2m24s+1.12s)</sub> | 3497 | 11 | 2076 | 49% | 3501 | 83% |
-| 3.41a | VLTC <sub>(2m24s+1.12s)</sub> | 3687 | 41 | 142 | 50% | 3684 | 78% |
-| 3.41a | LTC <sub>(60.0+0.60s)</sub> | 3617 | 42 | 136 | 48% | 3629 | 82% |
+| 3.41a | VLTC <sub>(2m24s+1.12s)</sub> | 3671 | 41 | 142 | 50% | 3668 | 78% |
+| 3.41a | LTC <sub>(60.0+0.60s)</sub> | 3394 | 39 | 162 | 51% | 3389 | 72% |
+| 3.41a | LTC <sub>(60.0+0.60s)</sub> | 3600 | 42 | 136 | 48% | 3613 | 82% |
 | 3.41a | LTC <sub>(60.0+0.60s)</sub> | 3453 | 11 | 2008 | 50% | 3453 | 81% |
-| 3.41a | LTC <sub>(60.0+0.60s)</sub> | 3395 | 39 | 162 | 51% | 3390 | 72% |
 | 3.41a | STC <sub>(8.0+0.08s)</sub> | 3224 | 32 | 312 | 57% | 3083 | 50% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
