@@ -8,14 +8,14 @@ Home: https://github.com/SnowballSH/Avalanche
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.0.0 | 2026-08-08 | 3059 | 3364 | 3416 |  |
+| 4.0.0 | 2026-08-08 | 3058 | 3362 | 3414 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.0.0 | 2026-08-08 | 3314 | 3561 | 3610 |  |
+| 4.0.0 | 2026-08-08 | 3298 | 3546 | 3594 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 11:12:42
+Generated: 2026-10-11 15:17:13
 
 ## Ratings Verlauf T1
 
@@ -63,17 +63,17 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3610 | 37 | 170 | 48% | 3619 | 80% |
-| 4.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3416 | 32 | 244 | 50% | 3418 | 75% |
 | 4.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3448 | 26 | 370 | 52% | 3432 | 79% |
-| 4.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3364 | 33 | 244 | 50% | 3366 | 64% |
+| 4.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3594 | 37 | 170 | 48% | 3603 | 80% |
+| 4.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3414 | 32 | 244 | 50% | 3416 | 75% |
 | 4.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3395 | 28 | 304 | 51% | 3384 | 75% |
-| 4.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3561 | 39 | 160 | 50% | 3559 | 73% |
-| 4.0.0 | STC <sub>(8.0+0.08s)</sub> | 3059 | 30 | 296 | 44% | 3104 | 58% |
+| 4.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3546 | 39 | 160 | 50% | 3544 | 73% |
+| 4.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3362 | 33 | 244 | 50% | 3363 | 64% |
+| 4.0.0 | STC <sub>(8.0+0.08s)</sub> | 3298 | 37 | 196 | 48% | 3316 | 57% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 4.0.0 | STC <sub>(8.0+0.08s)</sub> | 3058 | 30 | 296 | 44% | 3102 | 58% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4.0.0 | STC <sub>(8.0+0.08s)</sub> | 3194 | 29 | 312 | 49% | 3204 | 63% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 4.0.0 | STC <sub>(8.0+0.08s)</sub> | 3314 | 37 | 196 | 48% | 3332 | 57% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3237 | 32 | 262 | 53% | 3208 | 59% |
 | 3.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3201 | 34 | 240 | 53% | 3164 | 56% |
