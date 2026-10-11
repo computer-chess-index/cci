@@ -15,7 +15,7 @@ Home: https://github.com/PS-Wizard/OopsMate
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0 | 2026-01-30 | 1242 | 1481 | 1594 |  |
+| 2.0 | 2026-01-30 | 1242 | 1482 | 1596 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 10:03:48
+Generated: 2026-10-11 10:15:30
 
 ## Ratings Verlauf
 
@@ -69,10 +69,10 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1372 | 50 | 140 | 45% | 1470 | 26% |
 | 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1499 | 27 | 468 | 54% | 1459 | 30% |
-| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1594 | 52 | 116 | 51% | 1588 | 34% |
+| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1596 | 52 | 116 | 51% | 1589 | 34% |
 | 2.0 | LTC <sub>(60.0+0.60s)</sub> | 1382 | 49 | 148 | 47% | 1467 | 26% |
 | 2.0 | LTC <sub>(60.0+0.60s)</sub> | 1459 | 27 | 508 | 51% | 1445 | 28% |
-| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 1481 | 55 | 108 | 48% | 1547 | 32% |
+| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 1482 | 55 | 108 | 48% | 1548 | 32% |
 | 2.0 | STC <sub>(8.0+0.08s)</sub> | 1181 | 43 | 182 | 48% | 1216 | 28% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.0 | STC <sub>(8.0+0.08s)</sub> | 1278 | 26 | 576 | 56% | 1170 | 28% |
