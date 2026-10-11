@@ -8,14 +8,14 @@ Home: https://github.com/lynx-chess/Lynx
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.11.0 | 2025-10-01 | 2661 | 3071 | 3136 |  |
+| 1.11.0 | 2025-10-01 | 2661 | 3073 | 3137 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.11.0 | 2025-10-01 | 2935 | 3314 | 3360 |  |
+| 1.11.0 | 2025-10-01 | 2934 | 3318 | 3364 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 15:21:18
+Generated: 2026-10-11 17:18:04
 
 
 
@@ -49,12 +49,12 @@ Generated: 2026-10-11 15:21:18
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.11.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3214 | 22 | 564 | 50% | 3204 | 53% |
-| 1.11.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3360 | 38 | 204 | 46% | 3383 | 51% |
-| 1.11.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3136 | 38 | 220 | 58% | 2981 | 47% |
-| 1.11.0 | LTC <sub>(60.0+0.60s)</sub> | 3314 | 42 | 186 | 52% | 3271 | 38% |
-| 1.11.0 | LTC <sub>(60.0+0.60s)</sub> | 3071 | 36 | 240 | 53% | 2970 | 43% |
+| 1.11.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3364 | 38 | 204 | 46% | 3387 | 51% |
+| 1.11.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3137 | 38 | 220 | 58% | 2982 | 47% |
+| 1.11.0 | LTC <sub>(60.0+0.60s)</sub> | 3318 | 42 | 186 | 52% | 3274 | 38% |
+| 1.11.0 | LTC <sub>(60.0+0.60s)</sub> | 3073 | 36 | 240 | 53% | 2971 | 43% |
 | 1.11.0 | LTC <sub>(60.0+0.60s)</sub> | 3150 | 22 | 574 | 52% | 3114 | 55% |
-| 1.11.0 | STC <sub>(8.0+0.08s)</sub> | 2935 | 46 | 146 | 50% | 2939 | 36% |
+| 1.11.0 | STC <sub>(8.0+0.08s)</sub> | 2934 | 46 | 150 | 49% | 2944 | 35% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.11.0 | STC <sub>(8.0+0.08s)</sub> | 2661 | 32 | 304 | 46% | 2697 | 35% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
