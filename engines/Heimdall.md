@@ -8,14 +8,14 @@ Home: https://github.com/nocturn9x/heimdall
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.4.2 | 2025-09-25 | 3047 | 3370 | 3420 |  |
+| 1.4.2 | 2025-09-25 | 3046 | 3371 | 3421 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.4.2 | 2025-09-25 | 3335 | 3565 | 3599 |  |
+| 1.4.2 | 2025-09-25 | 3335 | 3564 | 3598 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 10:13:41
+Generated: 2026-10-11 11:15:34
 
 
 
@@ -48,15 +48,15 @@ Generated: 2026-10-11 10:13:41
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.4.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3421 | 39 | 192 | 61% | 3262 | 61% |
 | 1.4.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3434 | 22 | 506 | 51% | 3426 | 70% |
-| 1.4.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3599 | 39 | 186 | 60% | 3453 | 66% |
-| 1.4.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3420 | 39 | 192 | 61% | 3262 | 61% |
-| 1.4.2 | LTC <sub>(60.0+0.60s)</sub> | 3565 | 40 | 166 | 56% | 3486 | 64% |
-| 1.4.2 | LTC <sub>(60.0+0.60s)</sub> | 3370 | 37 | 216 | 60% | 3181 | 56% |
+| 1.4.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3598 | 39 | 186 | 60% | 3453 | 66% |
+| 1.4.2 | LTC <sub>(60.0+0.60s)</sub> | 3371 | 37 | 216 | 60% | 3181 | 56% |
 | 1.4.2 | LTC <sub>(60.0+0.60s)</sub> | 3378 | 24 | 448 | 51% | 3366 | 70% |
-| 1.4.2 | STC <sub>(8.0+0.08s)</sub> | 3335 | 38 | 192 | 49% | 3344 | 53% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.4.2 | STC <sub>(8.0+0.08s)</sub> | 3047 | 33 | 270 | 47% | 3071 | 49% |
+| 1.4.2 | LTC <sub>(60.0+0.60s)</sub> | 3564 | 40 | 166 | 56% | 3484 | 64% |
+| 1.4.2 | STC <sub>(8.0+0.08s)</sub> | 3046 | 33 | 270 | 47% | 3070 | 49% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.4.2 | STC <sub>(8.0+0.08s)</sub> | 3129 | 21 | 654 | 51% | 3120 | 56% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.4.2 | STC <sub>(8.0+0.08s)</sub> | 3335 | 38 | 192 | 49% | 3343 | 53% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
