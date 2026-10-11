@@ -15,7 +15,7 @@ Home: https://github.com/Jakob256/PurplePanda
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 21 | 2026-07-12 | 1731 | 2021 | 2121 |  |
+| 21 | 2026-07-12 | 1729 | 2020 | 2120 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -41,22 +41,18 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 10:16:13
+Generated: 2026-10-11 11:18:04
 
-## Ratings Verlauf
+## Ratings Verlauf T1
 
 ```mermaid
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["20", "21"]
   y-axis "Elo Rating" 1600 --> 2100
-  line "" [1651, 1702]
   line "T1: STC (8.0+0.08s)" [1651, 1702]
   line "T1: LTC (60.0+0.60s)" [1917, 2018]
-  line "" [1989, 2080]
   line "T1: VLTC (2m24s+1.12s)" [1989, 2080]
-  line "" [1651,1558]
-  line "E1: STC (8.0+0.08s)" [1651,1558]
 ```
 
 
@@ -67,17 +63,17 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 21 | VLTC <sub>(2m24s+1.12s)</sub> | 2121 | 45 | 182 | 48% | 2147 | 19% |
-| 21 | VLTC <sub>(2m24s+1.12s)</sub> | 1991 | 41 | 230 | 49% | 2009 | 14% |
 | 21 | VLTC <sub>(2m24s+1.12s)</sub> | 2080 | 34 | 322 | 47% | 2115 | 17% |
-| 21 | LTC <sub>(60.0+0.60s)</sub> | 1878 | 41 | 222 | 47% | 1920 | 18% |
+| 21 | VLTC <sub>(2m24s+1.12s)</sub> | 2120 | 45 | 182 | 48% | 2145 | 19% |
+| 21 | VLTC <sub>(2m24s+1.12s)</sub> | 1991 | 41 | 230 | 49% | 2009 | 14% |
 | 21 | LTC <sub>(60.0+0.60s)</sub> | 2018 | 34 | 312 | 50% | 2033 | 19% |
-| 21 | LTC <sub>(60.0+0.60s)</sub> | 2021 | 51 | 144 | 47% | 2067 | 13% |
-| 21 | STC <sub>(8.0+0.08s)</sub> | 1558 | 40 | 234 | 48% | 1581 | 14% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| 21 | LTC <sub>(60.0+0.60s)</sub> | 2020 | 51 | 144 | 47% | 2067 | 13% |
+| 21 | LTC <sub>(60.0+0.60s)</sub> | 1878 | 41 | 222 | 47% | 1920 | 18% |
 | 21 | STC <sub>(8.0+0.08s)</sub> | 1702 | 33 | 338 | 50% | 1698 | 16% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 21 | STC <sub>(8.0+0.08s)</sub> | 1731 | 49 | 164 | 50% | 1736 | 10% |
+| 21 | STC <sub>(8.0+0.08s)</sub> | 1729 | 49 | 164 | 50% | 1736 | 10% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 21 | STC <sub>(8.0+0.08s)</sub> | 1558 | 40 | 234 | 48% | 1581 | 14% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 20 | VLTC <sub>(2m24s+1.12s)</sub> | 1989 | 25 | 566 | 48% | 2018 | 21% |
 | 20 | LTC <sub>(60.0+0.60s)</sub> | 1917 | 25 | 580 | 50% | 1922 | 17% |
