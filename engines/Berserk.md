@@ -8,7 +8,7 @@ Home: https://github.com/jhonnold/berserk
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 14 | 2026-05-24 | 3328 | 3561 | 3588 |  |
+| 14 | 2026-05-24 | 3324 | 3561 | 3586 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-10 04:36:21
+Generated: 2026-10-11 04:36:14
 
 ## Ratings Verlauf
 
@@ -51,10 +51,15 @@ xychart-beta
   x-axis ["13", "14"]
   y-axis "Elo Rating" 1600 --> 3600
   line "" [1600, 3443]
-  line "STC (8.0+0.08s)" [1600, 3443]
-  line "LTC (60.0+0.60s)" [3538, 3555]
+  line "T1: STC (8.0+0.08s)" [1600, 3443]
+  line "T1: LTC (60.0+0.60s)" [3538, 3555]
   line "" [3563, 3586]
-  line "VLTC (2m24s+1.12s)" [3563, 3586]
+  line "T1: VLTC (2m24s+1.12s)" [3563, 3586]
+  line "" [3324]
+  line "E1: STC (8.0+0.08s)" [3324]
+  line "E1: LTC (60.0+0.60s)" [3561]
+  line "" [3586]
+  line "E1: VLTC (2m24s+1.12s)" [3586]
 ```
 
 
@@ -66,12 +71,12 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 14 | VLTC <sub>(2m24s+1.12s)</sub> | 3816 | 65 | 52 | 52% | 3803 | 92% |
-| 14 | VLTC <sub>(2m24s+1.12s)</sub> | 3588 | 43 | 124 | 51% | 3582 | 85% |
+| 14 | VLTC <sub>(2m24s+1.12s)</sub> | 3586 | 43 | 124 | 51% | 3579 | 85% |
 | 14 | VLTC <sub>(2m24s+1.12s)</sub> | 3586 | 29 | 268 | 51% | 3582 | 93% |
-| 14 | LTC <sub>(60.0+0.60s)</sub> | 3561 | 41 | 136 | 53% | 3545 | 83% |
+| 14 | LTC <sub>(60.0+0.60s)</sub> | 3561 | 40 | 144 | 53% | 3544 | 83% |
 | 14 | LTC <sub>(60.0+0.60s)</sub> | 3555 | 29 | 264 | 50% | 3556 | 91% |
 | 14 | LTC <sub>(60.0+0.60s)</sub> | 3768 | 49 | 96 | 50% | 3768 | 85% |
-| 14 | STC <sub>(8.0+0.08s)</sub> | 3328 | 30 | 286 | 45% | 3363 | 72% |
+| 14 | STC <sub>(8.0+0.08s)</sub> | 3324 | 30 | 286 | 45% | 3360 | 72% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 14 | STC <sub>(8.0+0.08s)</sub> | 3443 | 24 | 426 | 53% | 3372 | 76% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
