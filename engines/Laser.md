@@ -8,14 +8,14 @@ Home: https://github.com/jeffreyan11/laser-chess-engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.7 | 2019-02-07 | 2672 | 3005 | 3052 |  |
+| 1.7 | 2019-02-07 | 2688 | 3024 | 3065 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.7 | 2019-02-07 | 2924 | 3213 | 3290 |  |
+| 1.7 | 2019-02-07 | 2903 | 3190 | 3275 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 04:39:36
+Generated: 2026-10-11 10:02:36
 
 
 
@@ -48,15 +48,15 @@ Generated: 2026-10-11 04:39:36
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.7 | VLTC <sub>(2m24s+1.12s)</sub> | 3290 | 51 | 114 | 54% | 3231 | 46% |
-| 1.7 | VLTC <sub>(2m24s+1.12s)</sub> | 3052 | 36 | 240 | 56% | 2973 | 42% |
 | 1.7 | VLTC <sub>(2m24s+1.12s)</sub> | 3132 | 12 | 1930 | 50% | 3131 | 48% |
-| 1.7 | LTC <sub>(60.0+0.60s)</sub> | 3213 | 46 | 150 | 57% | 3119 | 41% |
-| 1.7 | LTC <sub>(60.0+0.60s)</sub> | 3005 | 38 | 216 | 54% | 2963 | 41% |
+| 1.7 | VLTC <sub>(2m24s+1.12s)</sub> | 3275 | 51 | 114 | 54% | 3216 | 46% |
+| 1.7 | VLTC <sub>(2m24s+1.12s)</sub> | 3065 | 36 | 240 | 56% | 2984 | 42% |
+| 1.7 | LTC <sub>(60.0+0.60s)</sub> | 3190 | 45 | 158 | 56% | 3106 | 40% |
+| 1.7 | LTC <sub>(60.0+0.60s)</sub> | 3024 | 37 | 224 | 55% | 2978 | 42% |
 | 1.7 | LTC <sub>(60.0+0.60s)</sub> | 3070 | 12 | 1966 | 51% | 3059 | 44% |
-| 1.7 | STC <sub>(8.0+0.08s)</sub> | 2924 | 45 | 148 | 51% | 2919 | 43% |
+| 1.7 | STC <sub>(8.0+0.08s)</sub> | 2903 | 45 | 148 | 51% | 2897 | 43% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.7 | STC <sub>(8.0+0.08s)</sub> | 2672 | 33 | 304 | 46% | 2711 | 29% |
+| 1.7 | STC <sub>(8.0+0.08s)</sub> | 2688 | 33 | 308 | 46% | 2722 | 29% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.7 | STC <sub>(8.0+0.08s)</sub> | 2795 | 12 | 2070 | 50% | 2800 | 35% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
