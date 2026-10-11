@@ -45,7 +45,21 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 12:50:36
+Generated: 2026-10-11 12:52:41
+
+## Ratings Verlauf
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["20260811", "20261003"]
+  y-axis "Elo Rating" 2900 --> 3300
+  line "E1: STC (8.0+0.08s)" [2923, 2962]
+  line "E1: LTC (60.0+0.60s)" [3155, 3195]
+  line "E1: VLTC (2m24s+1.12s)" [3256, 3270]
+```
+
+
 
 ## Ratings Verlauf
 
