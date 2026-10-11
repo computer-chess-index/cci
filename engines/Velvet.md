@@ -8,14 +8,14 @@ Home: https://github.com/mhonert/velvet-chess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 8.1.1 | 2024-11-06 | 3205 | 3409 | 3483 |  |
+| 8.1.1 | 2024-11-06 | 3202 | 3407 | 3482 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 8.1.1 | 2024-11-06 | 3494 | 3621 | 3692 |  |
+| 8.1.1 | 2024-11-06 | 3478 | 3605 | 3676 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -42,7 +42,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 11:20:29
+Generated: 2026-10-11 15:25:36
 
 ## Ratings Verlauf T1
 
@@ -64,17 +64,17 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 8.1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3692 | 42 | 136 | 51% | 3676 | 79% |
-| 8.1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3483 | 40 | 150 | 54% | 3453 | 77% |
+| 8.1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3676 | 42 | 136 | 51% | 3659 | 79% |
+| 8.1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3482 | 40 | 152 | 54% | 3451 | 76% |
 | 8.1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3483 | 12 | 1712 | 50% | 3483 | 79% |
-| 8.1.1 | LTC <sub>(60.0+0.60s)</sub> | 3409 | 40 | 154 | 49% | 3416 | 70% |
+| 8.1.1 | LTC <sub>(60.0+0.60s)</sub> | 3605 | 39 | 158 | 56% | 3560 | 77% |
+| 8.1.1 | LTC <sub>(60.0+0.60s)</sub> | 3407 | 40 | 154 | 49% | 3414 | 70% |
 | 8.1.1 | LTC <sub>(60.0+0.60s)</sub> | 3459 | 12 | 1776 | 51% | 3455 | 77% |
-| 8.1.1 | LTC <sub>(60.0+0.60s)</sub> | 3621 | 39 | 158 | 56% | 3576 | 77% |
-| 8.1.1 | STC <sub>(8.0+0.08s)</sub> | 3205 | 31 | 268 | 46% | 3239 | 66% |
+| 8.1.1 | STC <sub>(8.0+0.08s)</sub> | 3478 | 37 | 196 | 49% | 3486 | 62% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 8.1.1 | STC <sub>(8.0+0.08s)</sub> | 3202 | 31 | 268 | 46% | 3236 | 66% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 8.1.1 | STC <sub>(8.0+0.08s)</sub> | 3290 | 12 | 1840 | 49% | 3294 | 65% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 8.1.1 | STC <sub>(8.0+0.08s)</sub> | 3494 | 37 | 192 | 49% | 3502 | 63% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 8.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3484 | 32 | 228 | 46% | 3511 | 82% |
 | 8.1.0 | LTC <sub>(60.0+0.60s)</sub> | 3453 | 38 | 172 | 51% | 3445 | 77% |
