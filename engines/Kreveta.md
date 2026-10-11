@@ -8,14 +8,14 @@ Home: https://github.com/ZlomenyMesic/Kreveta
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.3.1 | 2026-05-12 | 1704 | 2071 | 2207 |  |
+| 2.3.1 | 2026-05-12 | 1701 | 2070 | 2206 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.3.1 | 2026-05-12 | 1926 | 2264 | 2392 |  |
+| 2.3.1 | 2026-05-12 | 1912 | 2248 | 2375 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -50,7 +50,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 11:16:12
+Generated: 2026-10-11 15:20:50
 
 ## Ratings Verlauf T1
 
@@ -72,17 +72,17 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2207 | 44 | 184 | 49% | 2236 | 22% |
 | 2.3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2319 | 29 | 404 | 51% | 2300 | 28% |
-| 2.3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2392 | 49 | 150 | 49% | 2422 | 23% |
-| 2.3.1 | LTC <sub>(60.0+0.60s)</sub> | 2071 | 38 | 250 | 50% | 2074 | 22% |
+| 2.3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2375 | 49 | 150 | 49% | 2404 | 23% |
+| 2.3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2206 | 44 | 184 | 49% | 2234 | 22% |
+| 2.3.1 | LTC <sub>(60.0+0.60s)</sub> | 2248 | 56 | 112 | 47% | 2294 | 27% |
+| 2.3.1 | LTC <sub>(60.0+0.60s)</sub> | 2070 | 38 | 250 | 50% | 2072 | 22% |
 | 2.3.1 | LTC <sub>(60.0+0.60s)</sub> | 2237 | 29 | 416 | 49% | 2249 | 26% |
-| 2.3.1 | LTC <sub>(60.0+0.60s)</sub> | 2264 | 56 | 112 | 47% | 2310 | 27% |
-| 2.3.1 | STC <sub>(8.0+0.08s)</sub> | 1704 | 38 | 272 | 39% | 1831 | 18% |
+| 2.3.1 | STC <sub>(8.0+0.08s)</sub> | 1912 | 42 | 204 | 47% | 1937 | 18% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.3.1 | STC <sub>(8.0+0.08s)</sub> | 1701 | 38 | 276 | 39% | 1828 | 18% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.3.1 | STC <sub>(8.0+0.08s)</sub> | 1967 | 27 | 494 | 49% | 1974 | 23% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.3.1 | STC <sub>(8.0+0.08s)</sub> | 1926 | 42 | 204 | 47% | 1952 | 18% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2248 | 35 | 272 | 51% | 2236 | 28% |
 | 2.3.0 | LTC <sub>(60.0+0.60s)</sub> | 2165 | 37 | 254 | 48% | 2182 | 23% |
