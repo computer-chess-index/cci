@@ -8,14 +8,14 @@ Home: https://github.com/Moxnar/FunComp
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0 | 2026-10-03 | 2475 | 2866 | 3094 |  |
+| 2.0 | 2026-10-03 | 2623 | 3086 | 3113 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0 | 2026-10-03 | 2475 | 2866 | 3094 |  |
+| 2.0 | 2026-10-03 | 2623 | 3086 | 3113 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 04:38:30
+Generated: 2026-10-11 10:01:31
 
 
 
@@ -48,9 +48,9 @@ Generated: 2026-10-11 04:38:30
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3094 | 204 | 24 | 94% | 2402 | 4% |
-| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 2866 | 199 | 24 | 96% | 1997 | 8% |
-| 2.0 | STC <sub>(8.0+0.08s)</sub> | 2475 | 174 | 32 | 95% | 1636 | 9% |
+| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3113 | 80 | 64 | 65% | 2859 | 27% |
+| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 3086 | 89 | 56 | 72% | 2622 | 27% |
+| 2.0 | STC <sub>(8.0+0.08s)</sub> | 2623 | 84 | 72 | 74% | 2169 | 18% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2966 | 38 | 230 | 54% | 2924 | 36% |
 | 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2809 | 41 | 204 | 57% | 2719 | 34% |
