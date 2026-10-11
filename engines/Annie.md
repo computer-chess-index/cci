@@ -8,14 +8,14 @@ Home: https://github.com/tsoj/Annie
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.2 | 2026-01-17 | 1191 | 1341 | 1431 |  |
+| 1.2 | 2026-01-17 | 1191 | 1339 | 1430 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.2 | 2026-01-17 | 1342 | 1500 | 1473 |  |
+| 1.2 | 2026-01-17 | 1331 | 1485 | 1457 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 11:12:10
+Generated: 2026-10-11 15:16:39
 
 
 
@@ -48,15 +48,15 @@ Generated: 2026-10-11 11:12:10
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.2 | VLTC <sub>(2m24s+1.12s)</sub> | 1431 | 40 | 240 | 44% | 1543 | 15% |
 | 1.2 | VLTC <sub>(2m24s+1.12s)</sub> | 1542 | 26 | 570 | 49% | 1578 | 16% |
-| 1.2 | VLTC <sub>(2m24s+1.12s)</sub> | 1473 | 50 | 144 | 55% | 1423 | 17% |
-| 1.2 | LTC <sub>(60.0+0.60s)</sub> | 1341 | 46 | 200 | 48% | 1435 | 9% |
+| 1.2 | VLTC <sub>(2m24s+1.12s)</sub> | 1457 | 49 | 148 | 54% | 1413 | 18% |
+| 1.2 | VLTC <sub>(2m24s+1.12s)</sub> | 1430 | 40 | 240 | 44% | 1542 | 15% |
+| 1.2 | LTC <sub>(60.0+0.60s)</sub> | 1485 | 59 | 104 | 51% | 1480 | 17% |
+| 1.2 | LTC <sub>(60.0+0.60s)</sub> | 1339 | 46 | 200 | 48% | 1434 | 9% |
 | 1.2 | LTC <sub>(60.0+0.60s)</sub> | 1524 | 25 | 652 | 44% | 1596 | 17% |
-| 1.2 | LTC <sub>(60.0+0.60s)</sub> | 1500 | 59 | 104 | 51% | 1494 | 17% |
+| 1.2 | STC <sub>(8.0+0.08s)</sub> | 1331 | 48 | 144 | 50% | 1328 | 24% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.2 | STC <sub>(8.0+0.08s)</sub> | 1191 | 38 | 236 | 46% | 1227 | 27% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.2 | STC <sub>(8.0+0.08s)</sub> | 1330 | 27 | 600 | 55% | 1251 | 16% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.2 | STC <sub>(8.0+0.08s)</sub> | 1342 | 48 | 144 | 50% | 1339 | 24% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
