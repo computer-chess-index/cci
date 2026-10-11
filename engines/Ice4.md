@@ -8,14 +8,14 @@ Home: https://github.com/MinusKelvin/ice4
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.1 | 2025-10-27 | 2371 | 2831 | 2928 |  |
+| 6.1 | 2025-10-27 | 2368 | 2828 | 2925 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.1 | 2025-10-27 | 2634 | 3043 | 3090 |  |
+| 6.1 | 2025-10-27 | 2616 | 3025 | 3073 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 11:15:50
+Generated: 2026-10-11 15:20:28
 
 
 
@@ -48,15 +48,15 @@ Generated: 2026-10-11 11:15:50
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 6.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2928 | 39 | 220 | 56% | 2846 | 38% |
 | 6.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3023 | 23 | 588 | 49% | 3029 | 44% |
-| 6.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3090 | 40 | 204 | 59% | 2962 | 39% |
-| 6.1 | LTC <sub>(60.0+0.60s)</sub> | 2831 | 38 | 240 | 58% | 2703 | 39% |
+| 6.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3073 | 40 | 204 | 59% | 2944 | 39% |
+| 6.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2925 | 39 | 220 | 56% | 2843 | 38% |
+| 6.1 | LTC <sub>(60.0+0.60s)</sub> | 3025 | 45 | 162 | 49% | 3001 | 39% |
+| 6.1 | LTC <sub>(60.0+0.60s)</sub> | 2828 | 38 | 240 | 58% | 2700 | 39% |
 | 6.1 | LTC <sub>(60.0+0.60s)</sub> | 2928 | 23 | 584 | 51% | 2921 | 42% |
-| 6.1 | LTC <sub>(60.0+0.60s)</sub> | 3043 | 45 | 162 | 49% | 3019 | 39% |
-| 6.1 | STC <sub>(8.0+0.08s)</sub> | 2371 | 35 | 268 | 43% | 2438 | 33% |
+| 6.1 | STC <sub>(8.0+0.08s)</sub> | 2616 | 45 | 160 | 47% | 2664 | 36% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 6.1 | STC <sub>(8.0+0.08s)</sub> | 2368 | 35 | 268 | 43% | 2437 | 33% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 6.1 | STC <sub>(8.0+0.08s)</sub> | 2558 | 20 | 828 | 50% | 2547 | 33% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 6.1 | STC <sub>(8.0+0.08s)</sub> | 2634 | 45 | 160 | 47% | 2681 | 36% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
