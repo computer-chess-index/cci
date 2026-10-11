@@ -8,14 +8,14 @@ Home: https://github.com/SnowballSH/Avalanche
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.0.0 | 2026-08-08 | 3058 | 3362 | 3414 |  |
+| 4.0.0 | 2026-08-08 | 3058 | 3363 | 3416 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.0.0 | 2026-08-08 | 3298 | 3546 | 3594 |  |
+| 4.0.0 | 2026-08-08 | 3302 | 3549 | 3596 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 15:17:13
+Generated: 2026-10-11 17:13:50
 
 ## Ratings Verlauf T1
 
@@ -64,12 +64,12 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3448 | 26 | 370 | 52% | 3432 | 79% |
-| 4.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3594 | 37 | 170 | 48% | 3603 | 80% |
-| 4.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3414 | 32 | 244 | 50% | 3416 | 75% |
+| 4.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3596 | 37 | 170 | 48% | 3606 | 80% |
+| 4.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3416 | 31 | 248 | 50% | 3417 | 75% |
 | 4.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3395 | 28 | 304 | 51% | 3384 | 75% |
-| 4.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3546 | 39 | 160 | 50% | 3544 | 73% |
-| 4.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3362 | 33 | 244 | 50% | 3363 | 64% |
-| 4.0.0 | STC <sub>(8.0+0.08s)</sub> | 3298 | 37 | 196 | 48% | 3316 | 57% |
+| 4.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3549 | 39 | 160 | 50% | 3546 | 73% |
+| 4.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3363 | 33 | 244 | 50% | 3364 | 64% |
+| 4.0.0 | STC <sub>(8.0+0.08s)</sub> | 3302 | 37 | 196 | 48% | 3318 | 57% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4.0.0 | STC <sub>(8.0+0.08s)</sub> | 3058 | 30 | 296 | 44% | 3102 | 58% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
