@@ -8,14 +8,14 @@ Home: https://github.com/booot76/Booot-chess-engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7.4 | 2025-02-25 | 3132 | 3370 | 3503 |  |
+| 7.4 | 2025-02-25 | 3140 | 3383 | 3519 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7.4 | 2025-02-25 | 3410 | 3660 | 3703 |  |
+| 7.4 | 2025-02-25 | 3397 | 3646 | 3684 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 04:36:22
+Generated: 2026-10-11 09:59:16
 
 
 
@@ -49,14 +49,14 @@ Generated: 2026-10-11 04:36:22
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 7.4 | VLTC <sub>(2m24s+1.12s)</sub> | 3499 | 23 | 460 | 51% | 3486 | 80% |
-| 7.4 | VLTC <sub>(2m24s+1.12s)</sub> | 3703 | 47 | 118 | 58% | 3587 | 73% |
-| 7.4 | VLTC <sub>(2m24s+1.12s)</sub> | 3503 | 43 | 142 | 57% | 3401 | 68% |
+| 7.4 | VLTC <sub>(2m24s+1.12s)</sub> | 3684 | 46 | 124 | 56% | 3579 | 73% |
+| 7.4 | VLTC <sub>(2m24s+1.12s)</sub> | 3519 | 43 | 144 | 57% | 3416 | 68% |
 | 7.4 | LTC <sub>(60.0+0.60s)</sub> | 3456 | 21 | 572 | 50% | 3445 | 76% |
-| 7.4 | LTC <sub>(60.0+0.60s)</sub> | 3660 | 56 | 84 | 57% | 3542 | 68% |
-| 7.4 | LTC <sub>(60.0+0.60s)</sub> | 3370 | 35 | 218 | 58% | 3255 | 68% |
+| 7.4 | LTC <sub>(60.0+0.60s)</sub> | 3646 | 52 | 96 | 56% | 3544 | 70% |
+| 7.4 | LTC <sub>(60.0+0.60s)</sub> | 3383 | 35 | 218 | 58% | 3268 | 68% |
 | 7.4 | STC <sub>(8.0+0.08s)</sub> | 3241 | 19 | 750 | 50% | 3237 | 58% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 7.4 | STC <sub>(8.0+0.08s)</sub> | 3410 | 43 | 140 | 50% | 3409 | 64% |
+| 7.4 | STC <sub>(8.0+0.08s)</sub> | 3397 | 43 | 142 | 50% | 3395 | 64% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 7.4 | STC <sub>(8.0+0.08s)</sub> | 3132 | 36 | 200 | 47% | 3152 | 64% |
+| 7.4 | STC <sub>(8.0+0.08s)</sub> | 3140 | 36 | 202 | 47% | 3164 | 63% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
