@@ -8,14 +8,14 @@ Home: https://github.com/billchow98/chess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | 2025-09-28 | 1994 | 2387 | 2454 |  |
+| 1.0.0 | 2025-09-28 | 1995 | 2388 | 2456 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | 2025-09-28 | 2121 | 2456 | 2574 |  |
+| 1.0.0 | 2025-09-28 | 2125 | 2460 | 2579 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 15:25:17
+Generated: 2026-10-11 17:22:13
 
 
 
@@ -49,14 +49,14 @@ Generated: 2026-10-11 15:25:17
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2512 | 27 | 462 | 46% | 2552 | 27% |
-| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2574 | 48 | 156 | 52% | 2561 | 28% |
-| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2454 | 40 | 224 | 47% | 2503 | 28% |
-| 1.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2456 | 48 | 148 | 52% | 2449 | 26% |
-| 1.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2387 | 42 | 210 | 54% | 2319 | 27% |
+| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2579 | 48 | 156 | 52% | 2565 | 28% |
+| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2456 | 40 | 224 | 47% | 2504 | 28% |
+| 1.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2460 | 48 | 148 | 52% | 2454 | 26% |
+| 1.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2388 | 42 | 210 | 54% | 2321 | 27% |
 | 1.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2437 | 26 | 500 | 51% | 2433 | 30% |
-| 1.0.0 | STC <sub>(8.0+0.08s)</sub> | 2121 | 43 | 184 | 50% | 2117 | 29% |
+| 1.0.0 | STC <sub>(8.0+0.08s)</sub> | 2125 | 43 | 184 | 50% | 2121 | 29% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | STC <sub>(8.0+0.08s)</sub> | 1994 | 39 | 232 | 46% | 2052 | 23% |
+| 1.0.0 | STC <sub>(8.0+0.08s)</sub> | 1995 | 39 | 232 | 46% | 2053 | 23% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0.0 | STC <sub>(8.0+0.08s)</sub> | 2141 | 23 | 652 | 52% | 2118 | 27% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
