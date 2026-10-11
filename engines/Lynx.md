@@ -8,14 +8,14 @@ Home: https://github.com/lynx-chess/Lynx
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.11.0 | 2025-10-01 | 2653 | 3063 | 3133 |  |
+| 1.11.0 | 2025-10-01 | 2665 | 3071 | 3141 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.11.0 | 2025-10-01 | 2969 | 3344 | 3393 |  |
+| 1.11.0 | 2025-10-01 | 2951 | 3330 | 3375 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 04:39:57
+Generated: 2026-10-11 10:02:56
 
 
 
@@ -48,15 +48,15 @@ Generated: 2026-10-11 04:39:57
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.11.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3393 | 40 | 184 | 46% | 3414 | 50% |
-| 1.11.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3133 | 39 | 212 | 58% | 2969 | 47% |
 | 1.11.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3214 | 22 | 564 | 50% | 3204 | 53% |
-| 1.11.0 | LTC <sub>(60.0+0.60s)</sub> | 3344 | 42 | 186 | 52% | 3302 | 38% |
-| 1.11.0 | LTC <sub>(60.0+0.60s)</sub> | 3063 | 37 | 228 | 53% | 2958 | 42% |
+| 1.11.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3375 | 38 | 204 | 46% | 3399 | 51% |
+| 1.11.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3141 | 38 | 220 | 58% | 2985 | 47% |
+| 1.11.0 | LTC <sub>(60.0+0.60s)</sub> | 3330 | 42 | 186 | 52% | 3286 | 38% |
+| 1.11.0 | LTC <sub>(60.0+0.60s)</sub> | 3071 | 37 | 236 | 52% | 2974 | 43% |
 | 1.11.0 | LTC <sub>(60.0+0.60s)</sub> | 3150 | 22 | 574 | 52% | 3114 | 55% |
-| 1.11.0 | STC <sub>(8.0+0.08s)</sub> | 2969 | 47 | 142 | 49% | 2977 | 37% |
+| 1.11.0 | STC <sub>(8.0+0.08s)</sub> | 2951 | 46 | 146 | 50% | 2957 | 36% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.11.0 | STC <sub>(8.0+0.08s)</sub> | 2653 | 33 | 300 | 46% | 2691 | 34% |
+| 1.11.0 | STC <sub>(8.0+0.08s)</sub> | 2665 | 32 | 304 | 46% | 2703 | 35% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.11.0 | STC <sub>(8.0+0.08s)</sub> | 2836 | 19 | 828 | 50% | 2832 | 40% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
