@@ -8,14 +8,14 @@ Home: https://github.com/jasper-sinclair/kobra
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1 | 2026-03-03 | 2599 | 2923 | 3002 |  |
+| 2.1 | 2026-03-03 | 2612 | 2938 | 3015 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1 | 2026-03-03 | 2793 | 3183 | 3266 |  |
+| 2.1 | 2026-03-03 | 2777 | 3166 | 3248 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 04:39:24
+Generated: 2026-10-11 10:02:24
 
 
 
@@ -48,15 +48,15 @@ Generated: 2026-10-11 04:39:24
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3266 | 44 | 144 | 54% | 3232 | 56% |
-| 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3002 | 37 | 208 | 55% | 2959 | 53% |
 | 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3112 | 22 | 560 | 51% | 3105 | 59% |
-| 2.1 | LTC <sub>(60.0+0.60s)</sub> | 3183 | 44 | 152 | 51% | 3181 | 49% |
-| 2.1 | LTC <sub>(60.0+0.60s)</sub> | 2923 | 35 | 242 | 52% | 2877 | 49% |
+| 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3248 | 44 | 148 | 53% | 3217 | 55% |
+| 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3015 | 37 | 208 | 55% | 2971 | 53% |
+| 2.1 | LTC <sub>(60.0+0.60s)</sub> | 3166 | 43 | 156 | 51% | 3164 | 50% |
+| 2.1 | LTC <sub>(60.0+0.60s)</sub> | 2938 | 34 | 246 | 52% | 2893 | 50% |
 | 2.1 | LTC <sub>(60.0+0.60s)</sub> | 3029 | 23 | 526 | 54% | 2997 | 50% |
-| 2.1 | STC <sub>(8.0+0.08s)</sub> | 2793 | 40 | 194 | 48% | 2813 | 37% |
+| 2.1 | STC <sub>(8.0+0.08s)</sub> | 2777 | 39 | 206 | 48% | 2792 | 36% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.1 | STC <sub>(8.0+0.08s)</sub> | 2599 | 35 | 260 | 45% | 2638 | 40% |
+| 2.1 | STC <sub>(8.0+0.08s)</sub> | 2612 | 34 | 264 | 45% | 2649 | 39% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.1 | STC <sub>(8.0+0.08s)</sub> | 2718 | 22 | 626 | 54% | 2681 | 38% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
