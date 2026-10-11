@@ -8,14 +8,14 @@ Home: https://github.com/ATheofanis/aspen-chess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.2.0 | 2026-05-22 | 2537 | 2942 | 2981 |  |
+| 2.2.0 | 2026-05-22 | 2537 | 2946 | 2981 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.2.0 | 2026-05-22 | 2816 | 3187 | 3244 |  |
+| 2.2.0 | 2026-05-22 | 2820 | 3190 | 3248 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -43,7 +43,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 15:17:02
+Generated: 2026-10-11 17:13:38
 
 ## Ratings Verlauf T1
 
@@ -65,13 +65,13 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3244 | 44 | 156 | 51% | 3229 | 48% |
-| 2.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2981 | 40 | 196 | 51% | 2932 | 39% |
+| 2.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3248 | 44 | 156 | 51% | 3233 | 48% |
+| 2.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2981 | 40 | 196 | 51% | 2934 | 39% |
 | 2.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3124 | 31 | 278 | 49% | 3129 | 56% |
-| 2.2.0 | LTC <sub>(60.0+0.60s)</sub> | 3187 | 35 | 242 | 46% | 3202 | 46% |
-| 2.2.0 | LTC <sub>(60.0+0.60s)</sub> | 2942 | 30 | 332 | 57% | 2866 | 46% |
+| 2.2.0 | LTC <sub>(60.0+0.60s)</sub> | 3190 | 35 | 242 | 46% | 3205 | 46% |
+| 2.2.0 | LTC <sub>(60.0+0.60s)</sub> | 2946 | 30 | 336 | 57% | 2867 | 46% |
 | 2.2.0 | LTC <sub>(60.0+0.60s)</sub> | 3086 | 31 | 278 | 49% | 3092 | 59% |
-| 2.2.0 | STC <sub>(8.0+0.08s)</sub> | 2816 | 44 | 162 | 49% | 2823 | 40% |
+| 2.2.0 | STC <sub>(8.0+0.08s)</sub> | 2820 | 44 | 162 | 49% | 2828 | 40% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.2.0 | STC <sub>(8.0+0.08s)</sub> | 2537 | 34 | 276 | 44% | 2587 | 35% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
