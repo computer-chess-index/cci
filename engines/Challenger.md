@@ -8,14 +8,14 @@ Home: https://github.com/SimjanovskiNikola/FRI_Challenger
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.6.0 | 2025-10-02 | 1897 | 2217 | 2376 |  |
+| 0.6.0 | 2025-10-02 | 1894 | 2215 | 2373 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.6.0 | 2025-10-02 | 2083 | 2391 | 2600 |  |
+| 0.6.0 | 2025-10-02 | 2084 | 2392 | 2601 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 09:59:45
+Generated: 2026-10-11 10:11:30
 
 
 
@@ -49,14 +49,14 @@ Generated: 2026-10-11 09:59:45
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2481 | 27 | 468 | 47% | 2511 | 29% |
-| 0.6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2600 | 46 | 164 | 47% | 2654 | 29% |
-| 0.6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2376 | 41 | 232 | 52% | 2338 | 21% |
-| 0.6.0 | LTC <sub>(60.0+0.60s)</sub> | 2391 | 53 | 116 | 50% | 2406 | 32% |
-| 0.6.0 | LTC <sub>(60.0+0.60s)</sub> | 2217 | 40 | 230 | 56% | 2140 | 22% |
+| 0.6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2601 | 46 | 164 | 47% | 2655 | 29% |
+| 0.6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2373 | 41 | 232 | 52% | 2336 | 21% |
+| 0.6.0 | LTC <sub>(60.0+0.60s)</sub> | 2392 | 53 | 116 | 50% | 2407 | 32% |
+| 0.6.0 | LTC <sub>(60.0+0.60s)</sub> | 2215 | 40 | 230 | 56% | 2137 | 22% |
 | 0.6.0 | LTC <sub>(60.0+0.60s)</sub> | 2369 | 24 | 586 | 49% | 2377 | 27% |
-| 0.6.0 | STC <sub>(8.0+0.08s)</sub> | 2083 | 47 | 164 | 49% | 2120 | 18% |
+| 0.6.0 | STC <sub>(8.0+0.08s)</sub> | 2084 | 47 | 164 | 49% | 2121 | 18% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.6.0 | STC <sub>(8.0+0.08s)</sub> | 1897 | 39 | 222 | 44% | 1945 | 27% |
+| 0.6.0 | STC <sub>(8.0+0.08s)</sub> | 1894 | 39 | 222 | 44% | 1943 | 27% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.6.0 | STC <sub>(8.0+0.08s)</sub> | 2060 | 22 | 774 | 49% | 2063 | 22% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
