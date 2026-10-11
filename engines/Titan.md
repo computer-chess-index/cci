@@ -8,14 +8,14 @@ Home: https://github.com/jeff-pow/Titan
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1 | 2024-06-09 | 3120 | 3409 | 3491 |  |
+| 1.1 | 2024-06-09 | 3117 | 3406 | 3488 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1 | 2024-06-09 | 3448 | 3632 | 3690 |  |
+| 1.1 | 2024-06-09 | 3432 | 3614 | 3673 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 11:20:02
+Generated: 2026-10-11 15:25:05
 
 
 
@@ -48,15 +48,15 @@ Generated: 2026-10-11 11:20:02
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3491 | 35 | 198 | 53% | 3471 | 74% |
+| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3673 | 44 | 120 | 51% | 3665 | 81% |
+| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3488 | 35 | 202 | 52% | 3470 | 74% |
 | 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3480 | 11 | 2040 | 50% | 3479 | 81% |
-| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3690 | 44 | 120 | 51% | 3680 | 81% |
+| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 3406 | 37 | 172 | 50% | 3407 | 78% |
 | 1.1 | LTC <sub>(60.0+0.60s)</sub> | 3447 | 11 | 2046 | 50% | 3443 | 81% |
-| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 3632 | 40 | 154 | 48% | 3645 | 75% |
-| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 3409 | 38 | 164 | 50% | 3410 | 77% |
-| 1.1 | STC <sub>(8.0+0.08s)</sub> | 3448 | 39 | 164 | 52% | 3432 | 68% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.1 | STC <sub>(8.0+0.08s)</sub> | 3120 | 28 | 336 | 44% | 3164 | 62% |
+| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 3614 | 39 | 158 | 48% | 3630 | 75% |
+| 1.1 | STC <sub>(8.0+0.08s)</sub> | 3117 | 28 | 336 | 44% | 3162 | 62% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.1 | STC <sub>(8.0+0.08s)</sub> | 3255 | 11 | 2156 | 51% | 3244 | 66% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.1 | STC <sub>(8.0+0.08s)</sub> | 3432 | 39 | 164 | 52% | 3416 | 68% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
