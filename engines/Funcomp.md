@@ -8,14 +8,14 @@ Home: https://github.com/Moxnar/FunComp
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0 | 2026-10-03 | 2614 | 3067 | 3127 |  |
+| 2.0 | 2026-10-03 | 2611 | 3097 | 3127 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0 | 2026-10-03 | 2911 | 2954 | 3264 |  |
+| 2.0 | 2026-10-03 | 2892 | 2936 | 3247 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 11:15:08
+Generated: 2026-10-11 15:19:45
 
 
 
@@ -48,13 +48,13 @@ Generated: 2026-10-11 11:15:08
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3264 | 104 | 40 | 79% | 2874 | 33% |
-| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3127 | 77 | 68 | 65% | 2871 | 28% |
-| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 2954 | 135 | 40 | 89% | 2174 | 18% |
-| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 3067 | 80 | 64 | 68% | 2680 | 30% |
-| 2.0 | STC <sub>(8.0+0.08s)</sub> | 2911 | 98 | 40 | 56% | 2768 | 23% |
+| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3127 | 68 | 80 | 63% | 2908 | 31% |
+| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3247 | 104 | 40 | 79% | 2858 | 33% |
+| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 3097 | 78 | 68 | 70% | 2697 | 28% |
+| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 2936 | 135 | 40 | 89% | 2159 | 18% |
+| 2.0 | STC <sub>(8.0+0.08s)</sub> | 2611 | 78 | 80 | 71% | 2211 | 18% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.0 | STC <sub>(8.0+0.08s)</sub> | 2614 | 78 | 80 | 71% | 2211 | 18% |
+| 2.0 | STC <sub>(8.0+0.08s)</sub> | 2892 | 99 | 40 | 56% | 2743 | 23% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2966 | 38 | 230 | 54% | 2924 | 36% |
 | 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2809 | 41 | 204 | 57% | 2719 | 34% |
