@@ -8,7 +8,7 @@ Home: https://github.com/FitzOReilly/fatalii
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.10.1 | 2026-05-11 | 2102 | 2384 | 2562 |  |
+| 0.10.1 | 2026-05-11 | 2094 | 2380 | 2546 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-10 04:38:27
+Generated: 2026-10-11 04:38:18
 
 ## Ratings Verlauf
 
@@ -51,10 +51,15 @@ xychart-beta
   x-axis ["0.10.0", "0.10.1"]
   y-axis "Elo Rating" 2200 --> 2700
   line "" [2282, 2284]
-  line "STC (8.0+0.08s)" [2282, 2284]
-  line "LTC (60.0+0.60s)" [2547, 2520]
+  line "T1: STC (8.0+0.08s)" [2282, 2284]
+  line "T1: LTC (60.0+0.60s)" [2547, 2520]
   line "" [2611, 2610]
-  line "VLTC (2m24s+1.12s)" [2611, 2610]
+  line "T1: VLTC (2m24s+1.12s)" [2611, 2610]
+  line "" [2094]
+  line "E1: STC (8.0+0.08s)" [2094]
+  line "E1: LTC (60.0+0.60s)" [2380]
+  line "" [2546]
+  line "E1: VLTC (2m24s+1.12s)" [2546]
 ```
 
 
@@ -65,13 +70,13 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.10.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2562 | 46 | 188 | 55% | 2465 | 21% |
+| 0.10.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2546 | 45 | 196 | 54% | 2465 | 21% |
 | 0.10.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2610 | 26 | 490 | 50% | 2610 | 27% |
 | 0.10.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2750 | 48 | 148 | 54% | 2708 | 26% |
-| 0.10.1 | LTC <sub>(60.0+0.60s)</sub> | 2384 | 39 | 244 | 57% | 2299 | 25% |
+| 0.10.1 | LTC <sub>(60.0+0.60s)</sub> | 2380 | 38 | 248 | 57% | 2298 | 25% |
 | 0.10.1 | LTC <sub>(60.0+0.60s)</sub> | 2520 | 27 | 448 | 50% | 2523 | 31% |
 | 0.10.1 | LTC <sub>(60.0+0.60s)</sub> | 2676 | 51 | 144 | 49% | 2724 | 24% |
-| 0.10.1 | STC <sub>(8.0+0.08s)</sub> | 2102 | 38 | 244 | 47% | 2128 | 24% |
+| 0.10.1 | STC <sub>(8.0+0.08s)</sub> | 2094 | 37 | 252 | 47% | 2124 | 24% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.10.1 | STC <sub>(8.0+0.08s)</sub> | 2284 | 28 | 438 | 49% | 2294 | 27% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
