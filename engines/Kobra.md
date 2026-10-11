@@ -8,7 +8,7 @@ Home: https://github.com/jasper-sinclair/kobra
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1 | 2026-03-03 | 2603 | 2923 | 3004 |  |
+| 2.1 | 2026-03-03 | 2599 | 2923 | 3002 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-10 04:39:31
+Generated: 2026-10-11 04:39:24
 
 
 
@@ -49,14 +49,14 @@ Generated: 2026-10-10 04:39:31
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3266 | 44 | 144 | 54% | 3232 | 56% |
-| 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3004 | 38 | 204 | 55% | 2961 | 52% |
+| 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3002 | 37 | 208 | 55% | 2959 | 53% |
 | 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3112 | 22 | 560 | 51% | 3105 | 59% |
 | 2.1 | LTC <sub>(60.0+0.60s)</sub> | 3183 | 44 | 152 | 51% | 3181 | 49% |
-| 2.1 | LTC <sub>(60.0+0.60s)</sub> | 2923 | 36 | 228 | 52% | 2877 | 48% |
+| 2.1 | LTC <sub>(60.0+0.60s)</sub> | 2923 | 35 | 242 | 52% | 2877 | 49% |
 | 2.1 | LTC <sub>(60.0+0.60s)</sub> | 3029 | 23 | 526 | 54% | 2997 | 50% |
 | 2.1 | STC <sub>(8.0+0.08s)</sub> | 2793 | 40 | 194 | 48% | 2813 | 37% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.1 | STC <sub>(8.0+0.08s)</sub> | 2603 | 35 | 260 | 45% | 2642 | 40% |
+| 2.1 | STC <sub>(8.0+0.08s)</sub> | 2599 | 35 | 260 | 45% | 2638 | 40% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.1 | STC <sub>(8.0+0.08s)</sub> | 2718 | 22 | 626 | 54% | 2681 | 38% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
