@@ -15,7 +15,7 @@ Home: https://github.com/fernandotenorio/Tunguska
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.2 | 2026-09-07 | 3032 | 3380 | 3441 |  |
+| 2.2 | 2026-09-07 | 3031 | 3380 | 3440 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -42,22 +42,18 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 10:18:27
+Generated: 2026-10-11 11:20:15
 
-## Ratings Verlauf
+## Ratings Verlauf T1
 
 ```mermaid
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
   x-axis ["2.0", "2.1", "2.2"]
   y-axis "Elo Rating" 2500 --> 3300
-  line "" [2511, 2820, 2919]
   line "T1: STC (8.0+0.08s)" [2511, 2820, 2919]
   line "T1: LTC (60.0+0.60s)" [2855, 3152, 3183]
-  line "" [2936, 3221, 3289]
   line "T1: VLTC (2m24s+1.12s)" [2936, 3221, 3289]
-  line "" [2511, 2820,2778]
-  line "E1: STC (8.0+0.08s)" [2511, 2820,2778]
 ```
 
 
@@ -68,15 +64,15 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3206 | 31 | 284 | 47% | 3232 | 60% |
 | 2.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3289 | 30 | 284 | 50% | 3286 | 68% |
-| 2.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3441 | 36 | 208 | 47% | 3460 | 60% |
+| 2.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3440 | 36 | 208 | 47% | 3459 | 60% |
+| 2.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3206 | 31 | 284 | 47% | 3232 | 60% |
 | 2.2 | LTC <sub>(60.0+0.60s)</sub> | 3183 | 33 | 244 | 49% | 3186 | 61% |
 | 2.2 | LTC <sub>(60.0+0.60s)</sub> | 3380 | 34 | 232 | 50% | 3384 | 57% |
 | 2.2 | LTC <sub>(60.0+0.60s)</sub> | 3106 | 28 | 358 | 46% | 3136 | 58% |
 | 2.2 | STC <sub>(8.0+0.08s)</sub> | 2919 | 34 | 252 | 50% | 2919 | 51% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.2 | STC <sub>(8.0+0.08s)</sub> | 3032 | 38 | 212 | 46% | 3073 | 45% |
+| 2.2 | STC <sub>(8.0+0.08s)</sub> | 3031 | 38 | 212 | 46% | 3071 | 45% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.2 | STC <sub>(8.0+0.08s)</sub> | 2778 | 30 | 324 | 44% | 2827 | 46% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
