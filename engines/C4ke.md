@@ -8,14 +8,14 @@ Home: https://github.com/citrus610/c4ke
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0 | 2026-01-05 | 2630 | 3009 | 3069 |  |
+| 3.0 | 2026-01-05 | 2642 | 3021 | 3085 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0 | 2026-01-05 | 2862 | 3251 | 3279 |  |
+| 3.0 | 2026-01-05 | 2843 | 3237 | 3264 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 04:36:27
+Generated: 2026-10-11 09:59:22
 
 
 
@@ -49,14 +49,14 @@ Generated: 2026-10-11 04:36:27
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3150 | 24 | 520 | 49% | 3156 | 48% |
-| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3279 | 43 | 180 | 58% | 3152 | 39% |
-| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3069 | 41 | 200 | 53% | 2979 | 39% |
+| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3264 | 43 | 180 | 58% | 3137 | 39% |
+| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3085 | 38 | 220 | 53% | 3001 | 40% |
 | 3.0 | LTC <sub>(60.0+0.60s)</sub> | 3101 | 24 | 548 | 51% | 3089 | 42% |
-| 3.0 | LTC <sub>(60.0+0.60s)</sub> | 3251 | 45 | 154 | 54% | 3183 | 44% |
-| 3.0 | LTC <sub>(60.0+0.60s)</sub> | 3009 | 38 | 220 | 53% | 2940 | 43% |
+| 3.0 | LTC <sub>(60.0+0.60s)</sub> | 3237 | 44 | 162 | 54% | 3170 | 43% |
+| 3.0 | LTC <sub>(60.0+0.60s)</sub> | 3021 | 38 | 220 | 53% | 2954 | 43% |
 | 3.0 | STC <sub>(8.0+0.08s)</sub> | 2750 | 22 | 660 | 49% | 2762 | 36% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.0 | STC <sub>(8.0+0.08s)</sub> | 2862 | 41 | 186 | 51% | 2851 | 35% |
+| 3.0 | STC <sub>(8.0+0.08s)</sub> | 2843 | 41 | 194 | 51% | 2832 | 35% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.0 | STC <sub>(8.0+0.08s)</sub> | 2630 | 33 | 296 | 45% | 2677 | 32% |
+| 3.0 | STC <sub>(8.0+0.08s)</sub> | 2642 | 33 | 304 | 46% | 2687 | 32% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
