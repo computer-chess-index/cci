@@ -8,7 +8,7 @@ Home: https://github.com/jeff-pow/Titan
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1 | 2024-06-09 | 3116 | 3407 | 3482 |  |
+| 1.1 | 2024-06-09 | 3109 | 3405 | 3479 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-10 04:43:24
+Generated: 2026-10-11 04:43:21
 
 
 
@@ -49,12 +49,12 @@ Generated: 2026-10-10 04:43:24
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3702 | 44 | 120 | 51% | 3694 | 81% |
-| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3482 | 35 | 194 | 53% | 3460 | 75% |
+| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3479 | 35 | 198 | 53% | 3459 | 74% |
 | 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3480 | 11 | 2040 | 50% | 3479 | 81% |
-| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 3407 | 41 | 140 | 51% | 3402 | 79% |
+| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 3405 | 41 | 140 | 51% | 3399 | 79% |
 | 1.1 | LTC <sub>(60.0+0.60s)</sub> | 3447 | 11 | 2046 | 50% | 3443 | 81% |
 | 1.1 | LTC <sub>(60.0+0.60s)</sub> | 3638 | 41 | 142 | 47% | 3659 | 75% |
-| 1.1 | STC <sub>(8.0+0.08s)</sub> | 3116 | 31 | 290 | 43% | 3166 | 59% |
+| 1.1 | STC <sub>(8.0+0.08s)</sub> | 3109 | 29 | 332 | 44% | 3155 | 61% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.1 | STC <sub>(8.0+0.08s)</sub> | 3255 | 11 | 2156 | 51% | 3244 | 66% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
