@@ -8,14 +8,14 @@ Home: https://github.com/mkyl/cicada
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.1 | 2017-03-22 | 1193 | 1331 | 1439 |  |
+| 0.1 | 2017-03-22 | 1193 | 1332 | 1439 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.1 | 2017-03-22 | 1373 | 1565 | 1623 |  |
+| 0.1 | 2017-03-22 | 1373 | 1563 | 1621 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 10:11:51
+Generated: 2026-10-11 11:13:44
 
 
 
@@ -48,15 +48,15 @@ Generated: 2026-10-11 10:11:51
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 1543 | 31 | 380 | 46% | 1590 | 19% |
-| 0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 1623 | 45 | 180 | 49% | 1631 | 18% |
 | 0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 1439 | 40 | 208 | 47% | 1467 | 26% |
-| 0.1 | LTC <sub>(60.0+0.60s)</sub> | 1565 | 51 | 136 | 51% | 1548 | 21% |
-| 0.1 | LTC <sub>(60.0+0.60s)</sub> | 1331 | 40 | 228 | 45% | 1385 | 20% |
+| 0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 1543 | 31 | 380 | 46% | 1590 | 19% |
+| 0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 1621 | 45 | 180 | 49% | 1629 | 18% |
+| 0.1 | LTC <sub>(60.0+0.60s)</sub> | 1332 | 40 | 228 | 45% | 1385 | 20% |
 | 0.1 | LTC <sub>(60.0+0.60s)</sub> | 1516 | 32 | 344 | 49% | 1521 | 24% |
-| 0.1 | STC <sub>(8.0+0.08s)</sub> | 1373 | 47 | 164 | 52% | 1393 | 19% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0.1 | LTC <sub>(60.0+0.60s)</sub> | 1563 | 51 | 136 | 51% | 1548 | 21% |
 | 0.1 | STC <sub>(8.0+0.08s)</sub> | 1193 | 42 | 212 | 47% | 1258 | 19% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.1 | STC <sub>(8.0+0.08s)</sub> | 1303 | 32 | 358 | 49% | 1310 | 20% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0.1 | STC <sub>(8.0+0.08s)</sub> | 1373 | 47 | 164 | 52% | 1393 | 19% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
