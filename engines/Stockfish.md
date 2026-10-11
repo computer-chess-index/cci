@@ -8,14 +8,14 @@ Home: https://github.com/official-stockfish/Stockfish
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 19.0 | 2026-09-05 | 3530 | 3632 | 3657 |  |
+| 19.0 | 2026-09-05 | 3529 | 3630 | 3656 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 19.0 | 2026-09-05 | 3731 | 3860 | 3849 |  |
+| 19.0 | 2026-09-05 | 3719 | 3845 | 3834 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -55,7 +55,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 11:19:39
+Generated: 2026-10-11 15:24:39
 
 ## Ratings Verlauf T1
 
@@ -78,14 +78,14 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 19.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3626 | 52 | 84 | 56% | 3587 | 88% |
-| 19.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3849 | 53 | 80 | 54% | 3823 | 88% |
-| 19.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3657 | 40 | 150 | 58% | 3600 | 83% |
-| 19.0 | LTC <sub>(60.0+0.60s)</sub> | 3860 | 53 | 80 | 56% | 3822 | 86% |
-| 19.0 | LTC <sub>(60.0+0.60s)</sub> | 3632 | 39 | 144 | 53% | 3613 | 94% |
+| 19.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3834 | 53 | 80 | 54% | 3808 | 88% |
+| 19.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3656 | 40 | 150 | 58% | 3599 | 83% |
 | 19.0 | LTC <sub>(60.0+0.60s)</sub> | 3617 | 50 | 92 | 54% | 3588 | 87% |
-| 19.0 | STC <sub>(8.0+0.08s)</sub> | 3731 | 38 | 160 | 47% | 3749 | 87% |
+| 19.0 | LTC <sub>(60.0+0.60s)</sub> | 3845 | 53 | 80 | 56% | 3807 | 86% |
+| 19.0 | LTC <sub>(60.0+0.60s)</sub> | 3630 | 39 | 144 | 53% | 3611 | 94% |
+| 19.0 | STC <sub>(8.0+0.08s)</sub> | 3719 | 37 | 164 | 48% | 3733 | 86% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 19.0 | STC <sub>(8.0+0.08s)</sub> | 3530 | 33 | 216 | 46% | 3556 | 84% |
+| 19.0 | STC <sub>(8.0+0.08s)</sub> | 3529 | 33 | 216 | 46% | 3553 | 84% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 19.0 | STC <sub>(8.0+0.08s)</sub> | 3568 | 35 | 196 | 52% | 3557 | 83% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
