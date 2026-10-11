@@ -8,7 +8,7 @@ Home: https://github.com/fizban99/micropython-usunfish
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.4 | 2026-09-12 | 940 | 1332 | 1420 |  |
+| 1.4 | 2026-09-12 | 938 | 1353 | 1422 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-10 04:43:46
+Generated: 2026-10-11 04:43:42
 
 ## Ratings Verlauf
 
@@ -51,10 +51,15 @@ xychart-beta
   x-axis ["1.1", "1.4"]
   y-axis "Elo Rating" 900 --> 1600
   line "" [968, 1088]
-  line "STC (8.0+0.08s)" [968, 1088]
-  line "LTC (60.0+0.60s)" [1365, 1470]
+  line "T1: STC (8.0+0.08s)" [968, 1088]
+  line "T1: LTC (60.0+0.60s)" [1365, 1470]
   line "" [1507, 1540]
-  line "VLTC (2m24s+1.12s)" [1507, 1540]
+  line "T1: VLTC (2m24s+1.12s)" [1507, 1540]
+  line "" [938]
+  line "E1: STC (8.0+0.08s)" [938]
+  line "E1: LTC (60.0+0.60s)" [1353]
+  line "" [1422]
+  line "E1: VLTC (2m24s+1.12s)" [1422]
 ```
 
 
@@ -67,13 +72,13 @@ xychart-beta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.4 | VLTC <sub>(2m24s+1.12s)</sub> | 1540 | 39 | 238 | 54% | 1507 | 21% |
 | 1.4 | VLTC <sub>(2m24s+1.12s)</sub> | 1710 | 43 | 208 | 56% | 1650 | 15% |
-| 1.4 | VLTC <sub>(2m24s+1.12s)</sub> | 1420 | 44 | 188 | 49% | 1454 | 21% |
+| 1.4 | VLTC <sub>(2m24s+1.12s)</sub> | 1422 | 44 | 188 | 49% | 1455 | 21% |
 | 1.4 | LTC <sub>(60.0+0.60s)</sub> | 1470 | 40 | 220 | 52% | 1449 | 20% |
 | 1.4 | LTC <sub>(60.0+0.60s)</sub> | 1505 | 52 | 132 | 49% | 1511 | 20% |
-| 1.4 | LTC <sub>(60.0+0.60s)</sub> | 1332 | 45 | 188 | 47% | 1364 | 18% |
+| 1.4 | LTC <sub>(60.0+0.60s)</sub> | 1353 | 42 | 208 | 48% | 1365 | 19% |
 | 1.4 | STC <sub>(8.0+0.08s)</sub> | 1148 | 50 | 140 | 53% | 1118 | 21% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.4 | STC <sub>(8.0+0.08s)</sub> | 940 | 38 | 234 | 47% | 975 | 26% |
+| 1.4 | STC <sub>(8.0+0.08s)</sub> | 938 | 38 | 234 | 47% | 975 | 26% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.4 | STC <sub>(8.0+0.08s)</sub> | 1088 | 36 | 282 | 49% | 1100 | 19% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
