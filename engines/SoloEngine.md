@@ -8,14 +8,14 @@ Home: https://github.com/yunusemreyldz07/SoloEngine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.2.0 | 2026-06-06 | 2796 | 3078 | 3143 |  |
+| 2.2.0 | 2026-06-06 | 2797 | 3079 | 3143 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.2.0 | 2026-06-06 | 2967 | 3312 | 3386 |  |
+| 2.2.0 | 2026-06-06 | 2957 | 3294 | 3376 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -46,7 +46,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 17:21:17
+Generated: 2026-10-12 04:42:56
 
 ## Ratings Verlauf T1
 
@@ -68,17 +68,17 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3386 | 42 | 182 | 60% | 3195 | 46% |
-| 2.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3143 | 38 | 210 | 55% | 3070 | 49% |
+| 2.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3376 | 41 | 186 | 60% | 3190 | 47% |
+| 2.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3143 | 37 | 214 | 55% | 3073 | 49% |
 | 2.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3244 | 26 | 380 | 50% | 3243 | 63% |
-| 2.2.0 | LTC <sub>(60.0+0.60s)</sub> | 3078 | 34 | 268 | 57% | 2942 | 47% |
+| 2.2.0 | LTC <sub>(60.0+0.60s)</sub> | 3079 | 34 | 268 | 57% | 2943 | 47% |
 | 2.2.0 | LTC <sub>(60.0+0.60s)</sub> | 3148 | 28 | 368 | 53% | 3116 | 55% |
-| 2.2.0 | LTC <sub>(60.0+0.60s)</sub> | 3312 | 40 | 174 | 55% | 3258 | 55% |
-| 2.2.0 | STC <sub>(8.0+0.08s)</sub> | 2796 | 34 | 256 | 49% | 2807 | 42% |
+| 2.2.0 | LTC <sub>(60.0+0.60s)</sub> | 3294 | 40 | 178 | 54% | 3249 | 54% |
+| 2.2.0 | STC <sub>(8.0+0.08s)</sub> | 2797 | 34 | 260 | 49% | 2808 | 42% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.2.0 | STC <sub>(8.0+0.08s)</sub> | 2874 | 25 | 484 | 52% | 2855 | 43% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.2.0 | STC <sub>(8.0+0.08s)</sub> | 2967 | 40 | 192 | 48% | 2982 | 41% |
+| 2.2.0 | STC <sub>(8.0+0.08s)</sub> | 2957 | 40 | 192 | 48% | 2973 | 41% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2763 | 27 | 436 | 52% | 2746 | 32% |
 | 2.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2620 | 31 | 328 | 49% | 2626 | 34% |
