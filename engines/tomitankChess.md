@@ -8,14 +8,14 @@ Home: https://github.com/tomitank/tomitankChess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7.0 | 2026-07-06 | 2450 | 2801 | 2851 |  |
+| 7.0 | 2026-07-06 | 2450 | 2803 | 2853 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7.0 | 2026-07-06 | 2618 | 2958 | 3011 |  |
+| 7.0 | 2026-07-06 | 2610 | 2948 | 3001 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -42,7 +42,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 17:22:07
+Generated: 2026-10-12 04:43:41
 
 ## Ratings Verlauf T1
 
@@ -64,15 +64,15 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 7.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2851 | 33 | 276 | 49% | 2861 | 45% |
+| 7.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2853 | 33 | 276 | 49% | 2863 | 45% |
 | 7.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2916 | 27 | 412 | 51% | 2904 | 45% |
-| 7.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3011 | 38 | 212 | 47% | 3039 | 46% |
+| 7.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3001 | 38 | 212 | 47% | 3029 | 46% |
 | 7.0 | LTC <sub>(60.0+0.60s)</sub> | 2853 | 27 | 406 | 51% | 2847 | 44% |
-| 7.0 | LTC <sub>(60.0+0.60s)</sub> | 2958 | 43 | 166 | 48% | 2975 | 37% |
-| 7.0 | LTC <sub>(60.0+0.60s)</sub> | 2801 | 35 | 254 | 52% | 2790 | 40% |
+| 7.0 | LTC <sub>(60.0+0.60s)</sub> | 2948 | 43 | 166 | 48% | 2965 | 37% |
+| 7.0 | LTC <sub>(60.0+0.60s)</sub> | 2803 | 35 | 254 | 52% | 2792 | 40% |
 | 7.0 | STC <sub>(8.0+0.08s)</sub> | 2537 | 29 | 388 | 48% | 2554 | 27% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 7.0 | STC <sub>(8.0+0.08s)</sub> | 2618 | 43 | 174 | 49% | 2622 | 30% |
+| 7.0 | STC <sub>(8.0+0.08s)</sub> | 2610 | 43 | 174 | 49% | 2614 | 30% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 7.0 | STC <sub>(8.0+0.08s)</sub> | 2450 | 34 | 284 | 48% | 2476 | 31% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
