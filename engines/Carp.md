@@ -8,14 +8,14 @@ Home: https://github.com/dede1751/carp
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.1 | 2023-09-25 | 2940 | 3225 | 3271 |  |
+| 3.0.1 | 2023-09-25 | 2942 | 3228 | 3274 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.1 | 2023-09-25 | 3167 | 3443 | 3525 |  |
+| 3.0.1 | 2023-09-25 | 3160 | 3433 | 3514 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 17:14:18
+Generated: 2026-10-12 04:36:38
 
 
 
@@ -48,15 +48,15 @@ Generated: 2026-10-11 17:14:18
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3271 | 32 | 244 | 54% | 3244 | 67% |
-| 3.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3525 | 37 | 198 | 56% | 3472 | 65% |
+| 3.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3274 | 32 | 248 | 54% | 3248 | 67% |
+| 3.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3514 | 36 | 202 | 55% | 3464 | 65% |
 | 3.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3349 | 11 | 2114 | 49% | 3352 | 70% |
 | 3.0.1 | LTC <sub>(60.0+0.60s)</sub> | 3283 | 12 | 1966 | 50% | 3285 | 63% |
-| 3.0.1 | LTC <sub>(60.0+0.60s)</sub> | 3225 | 36 | 209 | 50% | 3221 | 59% |
-| 3.0.1 | LTC <sub>(60.0+0.60s)</sub> | 3443 | 39 | 184 | 52% | 3424 | 54% |
+| 3.0.1 | LTC <sub>(60.0+0.60s)</sub> | 3228 | 36 | 209 | 50% | 3222 | 59% |
+| 3.0.1 | LTC <sub>(60.0+0.60s)</sub> | 3433 | 39 | 184 | 52% | 3413 | 54% |
 | 3.0.1 | STC <sub>(8.0+0.08s)</sub> | 3024 | 12 | 2040 | 51% | 3011 | 47% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.0.1 | STC <sub>(8.0+0.08s)</sub> | 2940 | 32 | 288 | 47% | 2967 | 49% |
+| 3.0.1 | STC <sub>(8.0+0.08s)</sub> | 2942 | 32 | 288 | 47% | 2970 | 49% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.0.1 | STC <sub>(8.0+0.08s)</sub> | 3167 | 40 | 178 | 53% | 3146 | 53% |
+| 3.0.1 | STC <sub>(8.0+0.08s)</sub> | 3160 | 40 | 178 | 53% | 3139 | 53% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
