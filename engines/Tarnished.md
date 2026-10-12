@@ -8,14 +8,14 @@ Home: https://github.com/Bobingstern/Tarnished
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.0 | 2026-06-10 | 3244 | 3532 | 3568 |  |
+| 6.0 | 2026-06-10 | 3247 | 3534 | 3569 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.0 | 2026-06-10 | 3537 | 3710 | 3757 |  |
+| 6.0 | 2026-06-10 | 3528 | 3700 | 3748 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -42,7 +42,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 17:21:53
+Generated: 2026-10-12 04:43:28
 
 ## Ratings Verlauf T1
 
@@ -64,15 +64,15 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3757 | 48 | 124 | 65% | 3509 | 67% |
-| 6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3568 | 42 | 156 | 60% | 3401 | 65% |
+| 6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3748 | 48 | 124 | 65% | 3499 | 67% |
+| 6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3569 | 42 | 160 | 60% | 3407 | 66% |
 | 6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3571 | 25 | 372 | 51% | 3565 | 87% |
-| 6.0 | LTC <sub>(60.0+0.60s)</sub> | 3710 | 41 | 156 | 59% | 3559 | 71% |
-| 6.0 | LTC <sub>(60.0+0.60s)</sub> | 3532 | 40 | 176 | 60% | 3341 | 64% |
+| 6.0 | LTC <sub>(60.0+0.60s)</sub> | 3700 | 41 | 156 | 59% | 3549 | 71% |
+| 6.0 | LTC <sub>(60.0+0.60s)</sub> | 3534 | 40 | 180 | 60% | 3348 | 65% |
 | 6.0 | LTC <sub>(60.0+0.60s)</sub> | 3545 | 24 | 390 | 49% | 3552 | 86% |
-| 6.0 | STC <sub>(8.0+0.08s)</sub> | 3537 | 34 | 208 | 50% | 3541 | 74% |
+| 6.0 | STC <sub>(8.0+0.08s)</sub> | 3528 | 34 | 208 | 50% | 3530 | 74% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 6.0 | STC <sub>(8.0+0.08s)</sub> | 3244 | 30 | 292 | 45% | 3286 | 64% |
+| 6.0 | STC <sub>(8.0+0.08s)</sub> | 3247 | 30 | 292 | 45% | 3289 | 64% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 6.0 | STC <sub>(8.0+0.08s)</sub> | 3366 | 24 | 444 | 49% | 3372 | 72% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
