@@ -8,14 +8,14 @@ Home: https://github.com/Dragjon/weak-chess-engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | 2025-08-11 | 2400 | 2797 | 2930 |  |
+| 1.0.0 | 2025-08-11 | 2402 | 2804 | 2932 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | 2025-08-11 | 2592 | 2952 | 3097 |  |
+| 1.0.0 | 2025-08-11 | 2584 | 2944 | 3086 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 17:22:46
+Generated: 2026-10-12 04:44:15
 
 
 
@@ -48,15 +48,15 @@ Generated: 2026-10-11 17:22:46
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3097 | 36 | 236 | 45% | 3137 | 42% |
-| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2930 | 36 | 240 | 48% | 2951 | 38% |
+| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3086 | 36 | 240 | 45% | 3128 | 42% |
+| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2932 | 35 | 256 | 49% | 2951 | 39% |
 | 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2931 | 25 | 478 | 51% | 2920 | 44% |
-| 1.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2952 | 46 | 152 | 54% | 2901 | 39% |
-| 1.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2797 | 39 | 222 | 52% | 2751 | 30% |
+| 1.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2944 | 46 | 152 | 54% | 2893 | 39% |
+| 1.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2804 | 39 | 226 | 52% | 2754 | 31% |
 | 1.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2884 | 23 | 614 | 51% | 2858 | 37% |
-| 1.0.0 | STC <sub>(8.0+0.08s)</sub> | 2400 | 36 | 254 | 44% | 2458 | 33% |
+| 1.0.0 | STC <sub>(8.0+0.08s)</sub> | 2402 | 36 | 254 | 44% | 2460 | 33% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0.0 | STC <sub>(8.0+0.08s)</sub> | 2542 | 21 | 728 | 50% | 2518 | 33% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | STC <sub>(8.0+0.08s)</sub> | 2592 | 45 | 170 | 50% | 2560 | 26% |
+| 1.0.0 | STC <sub>(8.0+0.08s)</sub> | 2584 | 45 | 170 | 50% | 2553 | 26% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
