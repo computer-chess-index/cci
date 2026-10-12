@@ -8,14 +8,14 @@ Home: https://github.com/AndyGrant/Ethereal
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 13.07 | 2021-07-11 | 2832 | 3129 | 3214 |  |
+| 13.07 | 2021-07-11 | 2834 | 3131 | 3218 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 13.07 | 2021-07-11 | 3052 | 3345 | 3448 |  |
+| 13.07 | 2021-07-11 | 3044 | 3335 | 3438 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 17:16:11
+Generated: 2026-10-12 04:38:19
 
 
 
@@ -48,15 +48,15 @@ Generated: 2026-10-11 17:16:11
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 13.07 | VLTC <sub>(2m24s+1.12s)</sub> | 3448 | 43 | 146 | 52% | 3430 | 60% |
-| 13.07 | VLTC <sub>(2m24s+1.12s)</sub> | 3214 | 38 | 204 | 52% | 3190 | 51% |
+| 13.07 | VLTC <sub>(2m24s+1.12s)</sub> | 3438 | 43 | 146 | 52% | 3420 | 60% |
+| 13.07 | VLTC <sub>(2m24s+1.12s)</sub> | 3218 | 37 | 208 | 52% | 3193 | 51% |
 | 13.07 | VLTC <sub>(2m24s+1.12s)</sub> | 3289 | 12 | 2008 | 51% | 3283 | 61% |
-| 13.07 | LTC <sub>(60.0+0.60s)</sub> | 3129 | 37 | 218 | 52% | 3105 | 48% |
+| 13.07 | LTC <sub>(60.0+0.60s)</sub> | 3131 | 36 | 222 | 52% | 3106 | 48% |
 | 13.07 | LTC <sub>(60.0+0.60s)</sub> | 3217 | 12 | 1940 | 50% | 3218 | 54% |
-| 13.07 | LTC <sub>(60.0+0.60s)</sub> | 3345 | 37 | 212 | 56% | 3276 | 50% |
-| 13.07 | STC <sub>(8.0+0.08s)</sub> | 2832 | 34 | 276 | 45% | 2884 | 41% |
+| 13.07 | LTC <sub>(60.0+0.60s)</sub> | 3335 | 37 | 212 | 56% | 3267 | 50% |
+| 13.07 | STC <sub>(8.0+0.08s)</sub> | 2834 | 34 | 276 | 45% | 2885 | 41% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 13.07 | STC <sub>(8.0+0.08s)</sub> | 2957 | 12 | 2080 | 51% | 2947 | 43% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 13.07 | STC <sub>(8.0+0.08s)</sub> | 3052 | 37 | 208 | 49% | 3066 | 48% |
+| 13.07 | STC <sub>(8.0+0.08s)</sub> | 3044 | 37 | 208 | 49% | 3058 | 48% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
