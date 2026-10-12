@@ -8,14 +8,14 @@ Home: https://github.com/yl25946/spaghet
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.1.0 | 2024-08-12 | 3110 | 3386 | 3426 |  |
+| 3.1.0 | 2024-08-12 | 3112 | 3389 | 3428 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.1.0 | 2024-08-12 | 3410 | 3607 | 3656 |  |
+| 3.1.0 | 2024-08-12 | 3401 | 3596 | 3646 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 17:21:27
+Generated: 2026-10-12 04:43:04
 
 
 
@@ -48,15 +48,15 @@ Generated: 2026-10-11 17:21:27
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3656 | 44 | 124 | 50% | 3656 | 79% |
-| 3.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3426 | 34 | 212 | 52% | 3413 | 70% |
+| 3.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3646 | 44 | 124 | 50% | 3646 | 79% |
+| 3.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3428 | 34 | 212 | 52% | 3416 | 70% |
 | 3.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3476 | 16 | 954 | 50% | 3474 | 81% |
-| 3.1.0 | LTC <sub>(60.0+0.60s)</sub> | 3386 | 37 | 174 | 54% | 3357 | 79% |
+| 3.1.0 | LTC <sub>(60.0+0.60s)</sub> | 3389 | 37 | 174 | 54% | 3359 | 79% |
 | 3.1.0 | LTC <sub>(60.0+0.60s)</sub> | 3433 | 16 | 954 | 49% | 3437 | 78% |
-| 3.1.0 | LTC <sub>(60.0+0.60s)</sub> | 3607 | 44 | 122 | 52% | 3588 | 79% |
-| 3.1.0 | STC <sub>(8.0+0.08s)</sub> | 3110 | 30 | 294 | 45% | 3143 | 62% |
+| 3.1.0 | LTC <sub>(60.0+0.60s)</sub> | 3596 | 43 | 126 | 52% | 3579 | 79% |
+| 3.1.0 | STC <sub>(8.0+0.08s)</sub> | 3112 | 30 | 302 | 45% | 3144 | 62% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.1.0 | STC <sub>(8.0+0.08s)</sub> | 3222 | 15 | 1148 | 50% | 3217 | 63% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.1.0 | STC <sub>(8.0+0.08s)</sub> | 3410 | 40 | 170 | 51% | 3403 | 59% |
+| 3.1.0 | STC <sub>(8.0+0.08s)</sub> | 3401 | 39 | 174 | 51% | 3394 | 60% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
