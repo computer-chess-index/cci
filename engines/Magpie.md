@@ -15,7 +15,7 @@ Home: https://github.com/mrgwbland/Magpie
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.3 | 2026-08-12 | 541 | 587 | 500 |  |
+| 0.3 | 2026-08-12 | 540 | 586 | 505 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 17:18:08
+Generated: 2026-10-12 04:40:12
 
 ## Ratings Verlauf T1
 
@@ -63,17 +63,17 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.3 | VLTC <sub>(2m24s+1.12s)</sub> | 581 | 54 | 132 | 56% | 544 | 23% |
+| 0.3 | VLTC <sub>(2m24s+1.12s)</sub> | 581 | 54 | 132 | 56% | 547 | 23% |
 | 0.3 | VLTC <sub>(2m24s+1.12s)</sub> | 581 | 43 | 208 | 50% | 587 | 22% |
-| 0.3 | VLTC <sub>(2m24s+1.12s)</sub> | 500 | 66 | 102 | 41% | 818 | 23% |
+| 0.3 | VLTC <sub>(2m24s+1.12s)</sub> | 505 | 67 | 102 | 41% | 834 | 23% |
 | 0.3 | LTC <sub>(60.0+0.60s)</sub> | 606 | 51 | 136 | 58% | 522 | 32% |
 | 0.3 | LTC <sub>(60.0+0.60s)</sub> | 586 | 44 | 204 | 50% | 576 | 25% |
-| 0.3 | LTC <sub>(60.0+0.60s)</sub> | 587 | 62 | 96 | 53% | 690 | 32% |
+| 0.3 | LTC <sub>(60.0+0.60s)</sub> | 586 | 62 | 96 | 53% | 689 | 32% |
 | 0.3 | STC <sub>(8.0+0.08s)</sub> | 608 | 53 | 140 | 55% | 563 | 16% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.3 | STC <sub>(8.0+0.08s)</sub> | 589 | 44 | 220 | 47% | 648 | 16% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.3 | STC <sub>(8.0+0.08s)</sub> | 541 | 65 | 88 | 47% | 714 | 25% |
+| 0.3 | STC <sub>(8.0+0.08s)</sub> | 540 | 65 | 88 | 47% | 713 | 25% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.2 | VLTC <sub>(2m24s+1.12s)</sub> | 450 | 45 | 208 | 35% | 687 | 35% |
 | 0.2 | LTC <sub>(60.0+0.60s)</sub> | 440 | 46 | 192 | 36% | 645 | 38% |
