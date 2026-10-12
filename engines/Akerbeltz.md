@@ -15,7 +15,7 @@ Home: https://github.com/neluj/Akerbeltz
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1.0 | 2026-04-14 | 1975 | 2267 | 2377 |  |
+| 1.1.0 | 2026-04-14 | 1968 | 2265 | 2371 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 17:12:46
+Generated: 2026-10-12 04:35:19
 
 ## Ratings Verlauf T1
 
@@ -63,17 +63,17 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2377 | 46 | 168 | 54% | 2349 | 23% |
-| 1.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2217 | 42 | 204 | 49% | 2248 | 24% |
+| 1.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2371 | 46 | 168 | 54% | 2342 | 23% |
+| 1.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2217 | 42 | 208 | 49% | 2248 | 24% |
 | 1.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2310 | 26 | 520 | 51% | 2309 | 21% |
 | 1.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2110 | 43 | 216 | 51% | 2118 | 15% |
 | 1.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2202 | 27 | 496 | 48% | 2218 | 23% |
-| 1.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2267 | 54 | 136 | 49% | 2319 | 18% |
-| 1.1.0 | STC <sub>(8.0+0.08s)</sub> | 1835 | 41 | 214 | 48% | 1883 | 24% |
+| 1.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2265 | 53 | 140 | 49% | 2313 | 19% |
+| 1.1.0 | STC <sub>(8.0+0.08s)</sub> | 1835 | 40 | 218 | 48% | 1883 | 24% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.1.0 | STC <sub>(8.0+0.08s)</sub> | 1941 | 25 | 588 | 48% | 1967 | 21% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.1.0 | STC <sub>(8.0+0.08s)</sub> | 1975 | 48 | 158 | 49% | 1999 | 19% |
+| 1.1.0 | STC <sub>(8.0+0.08s)</sub> | 1968 | 48 | 158 | 49% | 1994 | 19% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1774 | 41 | 230 | 41% | 1906 | 22% |
 | 1.0.0 | LTC <sub>(60.0+0.60s)</sub> | 1640 | 48 | 164 | 43% | 1733 | 21% |
