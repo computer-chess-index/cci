@@ -8,14 +8,14 @@ Home: https://github.com/0xflick/pounce
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.0 | 2025-10-13 | 2601 | 2876 | 3019 |  |
+| 3.0.0 | 2025-10-13 | 2603 | 2877 | 3017 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.0 | 2025-10-13 | 2809 | 3093 | 3077 |  |
+| 3.0.0 | 2025-10-13 | 2799 | 3083 | 3069 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 17:19:25
+Generated: 2026-10-12 04:41:19
 
 
 
@@ -49,14 +49,14 @@ Generated: 2026-10-11 17:19:25
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3017 | 22 | 580 | 48% | 3038 | 48% |
-| 3.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3077 | 49 | 134 | 53% | 3023 | 39% |
-| 3.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3019 | 40 | 188 | 53% | 2986 | 44% |
-| 3.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3093 | 48 | 124 | 48% | 3108 | 52% |
-| 3.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2876 | 40 | 202 | 56% | 2813 | 41% |
+| 3.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3069 | 49 | 134 | 53% | 3016 | 39% |
+| 3.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3017 | 39 | 198 | 52% | 2988 | 45% |
+| 3.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3083 | 48 | 124 | 48% | 3098 | 52% |
+| 3.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2877 | 40 | 202 | 56% | 2815 | 41% |
 | 3.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2990 | 23 | 568 | 52% | 2974 | 43% |
-| 3.0.0 | STC <sub>(8.0+0.08s)</sub> | 2809 | 51 | 112 | 49% | 2822 | 49% |
+| 3.0.0 | STC <sub>(8.0+0.08s)</sub> | 2799 | 49 | 120 | 48% | 2812 | 48% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.0.0 | STC <sub>(8.0+0.08s)</sub> | 2601 | 40 | 198 | 44% | 2653 | 33% |
+| 3.0.0 | STC <sub>(8.0+0.08s)</sub> | 2603 | 40 | 198 | 44% | 2655 | 33% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.0.0 | STC <sub>(8.0+0.08s)</sub> | 2730 | 21 | 736 | 50% | 2723 | 35% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
