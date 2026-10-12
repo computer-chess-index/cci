@@ -8,14 +8,14 @@ Home: https://github.com/Mangar2/Spike
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.4.2 | 2026-08-28 | 2202 | 2655 | 2800 |  |
+| 1.4.2 | 2026-08-28 | 2199 | 2657 | 2803 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.4.2 | 2026-08-28 | 2402 | 2807 | 2951 |  |
+| 1.4.2 | 2026-08-28 | 2391 | 2799 | 2943 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 17:21:30
+Generated: 2026-10-12 04:43:07
 
 ## Ratings Verlauf T1
 
@@ -63,15 +63,15 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.4.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2951 | 43 | 172 | 50% | 2954 | 37% |
-| 1.4.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2800 | 36 | 248 | 51% | 2796 | 34% |
+| 1.4.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2943 | 43 | 172 | 50% | 2946 | 37% |
+| 1.4.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2803 | 36 | 248 | 51% | 2797 | 34% |
 | 1.4.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2843 | 35 | 258 | 51% | 2839 | 35% |
-| 1.4.2 | LTC <sub>(60.0+0.60s)</sub> | 2807 | 42 | 192 | 48% | 2824 | 30% |
-| 1.4.2 | LTC <sub>(60.0+0.60s)</sub> | 2655 | 35 | 268 | 47% | 2684 | 31% |
+| 1.4.2 | LTC <sub>(60.0+0.60s)</sub> | 2799 | 42 | 192 | 48% | 2816 | 30% |
+| 1.4.2 | LTC <sub>(60.0+0.60s)</sub> | 2657 | 35 | 268 | 47% | 2685 | 31% |
 | 1.4.2 | LTC <sub>(60.0+0.60s)</sub> | 2722 | 34 | 282 | 51% | 2718 | 29% |
-| 1.4.2 | STC <sub>(8.0+0.08s)</sub> | 2402 | 43 | 172 | 47% | 2429 | 33% |
+| 1.4.2 | STC <sub>(8.0+0.08s)</sub> | 2391 | 41 | 196 | 47% | 2419 | 31% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.4.2 | STC <sub>(8.0+0.08s)</sub> | 2202 | 38 | 244 | 44% | 2253 | 25% |
+| 1.4.2 | STC <sub>(8.0+0.08s)</sub> | 2199 | 38 | 248 | 44% | 2253 | 25% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.4.2 | STC <sub>(8.0+0.08s)</sub> | 2403 | 35 | 276 | 51% | 2395 | 30% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
