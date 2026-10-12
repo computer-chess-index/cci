@@ -8,14 +8,14 @@ Home: https://github.com/Madushan996/CeylonDemon2.0
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0 | 2026-08-28 | 2508 | 2889 | 3012 |  |
+| 2.0 | 2026-08-28 | 2508 | 2890 | 3016 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0 | 2026-08-28 | 2844 | 3125 | 3320 |  |
+| 2.0 | 2026-08-28 | 2834 | 3117 | 3313 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 17:14:33
+Generated: 2026-10-12 04:36:51
 
 ## Ratings Verlauf T1
 
@@ -68,12 +68,12 @@ xychart-beta
 | 3.3 | STC <sub>(8.0+0.08s)</sub> | 2988 | 44 | 158 | 54% | 2948 | 42% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3137 | 29 | 360 | 54% | 3096 | 49% |
-| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3320 | 39 | 186 | 49% | 3328 | 54% |
-| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3012 | 32 | 288 | 45% | 3047 | 49% |
-| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 3125 | 36 | 234 | 50% | 3125 | 43% |
-| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 2889 | 32 | 288 | 44% | 2940 | 44% |
+| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3313 | 38 | 190 | 50% | 3317 | 53% |
+| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3016 | 31 | 292 | 46% | 3048 | 49% |
+| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 3117 | 36 | 234 | 50% | 3116 | 43% |
+| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 2890 | 32 | 288 | 44% | 2943 | 44% |
 | 2.0 | LTC <sub>(60.0+0.60s)</sub> | 3052 | 31 | 312 | 52% | 3025 | 48% |
-| 2.0 | STC <sub>(8.0+0.08s)</sub> | 2844 | 39 | 204 | 54% | 2815 | 43% |
+| 2.0 | STC <sub>(8.0+0.08s)</sub> | 2834 | 38 | 208 | 53% | 2808 | 43% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.0 | STC <sub>(8.0+0.08s)</sub> | 2508 | 34 | 270 | 45% | 2552 | 36% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
