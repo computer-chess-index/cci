@@ -8,14 +8,14 @@ Home: https://github.com/jw1912/akimbo
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | 2024-05-26 | 3058 | 3293 | 3363 |  |
+| 1.0.0 | 2024-05-26 | 3055 | 3291 | 3366 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | 2024-05-26 | 3367 | 3507 | 3567 |  |
+| 1.0.0 | 2024-05-26 | 3356 | 3492 | 3557 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 17:12:49
+Generated: 2026-10-12 04:35:22
 
 
 
@@ -48,15 +48,15 @@ Generated: 2026-10-11 17:12:49
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3363 | 30 | 284 | 49% | 3370 | 70% |
+| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3366 | 30 | 284 | 49% | 3372 | 70% |
 | 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3406 | 11 | 2044 | 52% | 3391 | 71% |
-| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3567 | 40 | 162 | 50% | 3561 | 69% |
-| 1.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3507 | 39 | 178 | 54% | 3468 | 61% |
-| 1.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3293 | 38 | 186 | 48% | 3308 | 61% |
+| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3557 | 40 | 162 | 50% | 3552 | 69% |
+| 1.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3492 | 39 | 182 | 53% | 3460 | 60% |
+| 1.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3291 | 37 | 190 | 48% | 3308 | 61% |
 | 1.0.0 | LTC <sub>(60.0+0.60s)</sub> | 3362 | 11 | 2000 | 50% | 3363 | 72% |
-| 1.0.0 | STC <sub>(8.0+0.08s)</sub> | 3367 | 37 | 204 | 51% | 3357 | 53% |
+| 1.0.0 | STC <sub>(8.0+0.08s)</sub> | 3356 | 37 | 204 | 51% | 3348 | 53% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | STC <sub>(8.0+0.08s)</sub> | 3058 | 32 | 274 | 45% | 3094 | 50% |
+| 1.0.0 | STC <sub>(8.0+0.08s)</sub> | 3055 | 32 | 278 | 45% | 3096 | 50% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0.0 | STC <sub>(8.0+0.08s)</sub> | 3171 | 11 | 2082 | 50% | 3175 | 58% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
