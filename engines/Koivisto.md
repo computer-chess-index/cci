@@ -8,14 +8,14 @@ Home: https://github.com/Luecx/Koivisto
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.0 | 2023-01-15 | 3197 | 3398 | 3463 |  |
+| 9.0 | 2023-01-15 | 3198 | 3401 | 3465 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.0 | 2023-01-15 | 3474 | 3646 | 3636 |  |
+| 9.0 | 2023-01-15 | 3463 | 3640 | 3626 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 17:17:29
+Generated: 2026-10-12 04:39:36
 
 
 
@@ -48,15 +48,15 @@ Generated: 2026-10-11 17:17:29
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3463 | 39 | 160 | 50% | 3463 | 76% |
+| 9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3465 | 39 | 160 | 50% | 3464 | 76% |
 | 9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3472 | 11 | 2092 | 51% | 3470 | 78% |
-| 9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3636 | 47 | 108 | 50% | 3632 | 80% |
-| 9.0 | LTC <sub>(60.0+0.60s)</sub> | 3398 | 31 | 272 | 49% | 3399 | 67% |
+| 9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3626 | 47 | 108 | 50% | 3622 | 80% |
+| 9.0 | LTC <sub>(60.0+0.60s)</sub> | 3401 | 31 | 272 | 49% | 3402 | 67% |
 | 9.0 | LTC <sub>(60.0+0.60s)</sub> | 3433 | 11 | 1960 | 50% | 3433 | 76% |
-| 9.0 | LTC <sub>(60.0+0.60s)</sub> | 3646 | 37 | 184 | 56% | 3600 | 71% |
-| 9.0 | STC <sub>(8.0+0.08s)</sub> | 3197 | 31 | 276 | 47% | 3220 | 60% |
+| 9.0 | LTC <sub>(60.0+0.60s)</sub> | 3640 | 37 | 188 | 56% | 3591 | 70% |
+| 9.0 | STC <sub>(8.0+0.08s)</sub> | 3198 | 31 | 276 | 47% | 3221 | 60% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 9.0 | STC <sub>(8.0+0.08s)</sub> | 3285 | 11 | 2232 | 50% | 3283 | 63% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 9.0 | STC <sub>(8.0+0.08s)</sub> | 3474 | 35 | 208 | 50% | 3474 | 66% |
+| 9.0 | STC <sub>(8.0+0.08s)</sub> | 3463 | 35 | 208 | 50% | 3463 | 66% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
