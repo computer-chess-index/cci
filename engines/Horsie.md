@@ -8,14 +8,14 @@ Home: https://github.com/liamt19/Horsie
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1 | 2025-05-13 | 3274 | 3517 | 3545 |  |
+| 1.1 | 2025-05-13 | 3275 | 3518 | 3553 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1 | 2025-05-13 | 3532 | 3714 | 3756 |  |
+| 1.1 | 2025-05-13 | 3522 | 3704 | 3746 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 17:17:05
+Generated: 2026-10-12 04:39:13
 
 ## Ratings Verlauf T1
 
@@ -64,14 +64,14 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3544 | 16 | 946 | 50% | 3541 | 87% |
-| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3756 | 44 | 116 | 49% | 3764 | 87% |
-| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3545 | 39 | 152 | 51% | 3536 | 86% |
+| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3746 | 44 | 116 | 49% | 3754 | 87% |
+| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3553 | 37 | 164 | 52% | 3541 | 85% |
 | 1.1 | LTC <sub>(60.0+0.60s)</sub> | 3513 | 16 | 950 | 51% | 3509 | 83% |
-| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 3714 | 53 | 84 | 50% | 3713 | 81% |
-| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 3517 | 40 | 148 | 54% | 3488 | 82% |
-| 1.1 | STC <sub>(8.0+0.08s)</sub> | 3532 | 38 | 172 | 50% | 3533 | 69% |
+| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 3704 | 53 | 84 | 50% | 3703 | 81% |
+| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 3518 | 40 | 148 | 54% | 3491 | 82% |
+| 1.1 | STC <sub>(8.0+0.08s)</sub> | 3522 | 38 | 172 | 50% | 3524 | 69% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.1 | STC <sub>(8.0+0.08s)</sub> | 3274 | 31 | 270 | 46% | 3298 | 64% |
+| 1.1 | STC <sub>(8.0+0.08s)</sub> | 3275 | 31 | 274 | 46% | 3299 | 64% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.1 | STC <sub>(8.0+0.08s)</sub> | 3363 | 15 | 1098 | 50% | 3364 | 69% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
