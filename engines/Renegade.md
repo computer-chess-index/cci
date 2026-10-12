@@ -8,14 +8,14 @@ Home: https://github.com/pkrisz99/Renegade
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.3.1 | 2026-07-14 | 3243 | 3501 | 3559 |  |
+| 1.3.1 | 2026-07-14 | 3244 | 3498 | 3561 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.3.1 | 2026-07-14 | 3522 | 3691 | 3731 |  |
+| 1.3.1 | 2026-07-14 | 3511 | 3681 | 3722 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 17:20:16
+Generated: 2026-10-12 04:42:03
 
 ## Ratings Verlauf T1
 
@@ -63,15 +63,15 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3731 | 45 | 126 | 57% | 3633 | 75% |
-| 1.3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3559 | 39 | 172 | 55% | 3411 | 72% |
+| 1.3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3722 | 45 | 126 | 57% | 3623 | 75% |
+| 1.3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3561 | 39 | 172 | 55% | 3414 | 72% |
 | 1.3.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3549 | 33 | 206 | 50% | 3553 | 88% |
-| 1.3.1 | LTC <sub>(60.0+0.60s)</sub> | 3691 | 43 | 144 | 59% | 3580 | 72% |
-| 1.3.1 | LTC <sub>(60.0+0.60s)</sub> | 3501 | 36 | 200 | 60% | 3368 | 73% |
+| 1.3.1 | LTC <sub>(60.0+0.60s)</sub> | 3681 | 43 | 144 | 59% | 3571 | 72% |
+| 1.3.1 | LTC <sub>(60.0+0.60s)</sub> | 3498 | 36 | 204 | 59% | 3374 | 72% |
 | 1.3.1 | LTC <sub>(60.0+0.60s)</sub> | 3524 | 31 | 244 | 49% | 3530 | 86% |
-| 1.3.1 | STC <sub>(8.0+0.08s)</sub> | 3522 | 36 | 188 | 49% | 3526 | 70% |
+| 1.3.1 | STC <sub>(8.0+0.08s)</sub> | 3511 | 36 | 188 | 49% | 3515 | 70% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.3.1 | STC <sub>(8.0+0.08s)</sub> | 3243 | 30 | 292 | 45% | 3281 | 63% |
+| 1.3.1 | STC <sub>(8.0+0.08s)</sub> | 3244 | 30 | 292 | 45% | 3282 | 63% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.3.1 | STC <sub>(8.0+0.08s)</sub> | 3359 | 26 | 380 | 52% | 3347 | 70% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
