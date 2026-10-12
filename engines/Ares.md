@@ -8,14 +8,14 @@ Home:
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.5 | 2024-02-06 | 1885 | 2151 | 2352 |  |
+| 2.5 | 2024-02-06 | 1885 | 2152 | 2352 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.5 | 2024-02-06 | 1993 | 2363 | 2492 |  |
+| 2.5 | 2024-02-06 | 1986 | 2360 | 2489 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-11 17:13:29
+Generated: 2026-10-12 04:35:56
 
 ## Ratings Verlauf T1
 
@@ -64,14 +64,14 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.5 | VLTC <sub>(2m24s+1.12s)</sub> | 2454 | 27 | 458 | 50% | 2452 | 26% |
-| 2.5 | VLTC <sub>(2m24s+1.12s)</sub> | 2492 | 44 | 182 | 46% | 2538 | 26% |
-| 2.5 | VLTC <sub>(2m24s+1.12s)</sub> | 2352 | 40 | 218 | 49% | 2375 | 28% |
+| 2.5 | VLTC <sub>(2m24s+1.12s)</sub> | 2489 | 43 | 186 | 46% | 2530 | 26% |
+| 2.5 | VLTC <sub>(2m24s+1.12s)</sub> | 2352 | 40 | 224 | 49% | 2373 | 28% |
 | 2.5 | LTC <sub>(60.0+0.60s)</sub> | 2331 | 24 | 588 | 52% | 2311 | 24% |
-| 2.5 | LTC <sub>(60.0+0.60s)</sub> | 2363 | 41 | 206 | 54% | 2334 | 27% |
-| 2.5 | LTC <sub>(60.0+0.60s)</sub> | 2151 | 43 | 192 | 49% | 2168 | 24% |
+| 2.5 | LTC <sub>(60.0+0.60s)</sub> | 2360 | 41 | 214 | 55% | 2329 | 26% |
+| 2.5 | LTC <sub>(60.0+0.60s)</sub> | 2152 | 43 | 192 | 49% | 2169 | 24% |
 | 2.5 | STC <sub>(8.0+0.08s)</sub> | 1974 | 22 | 770 | 51% | 1963 | 22% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.5 | STC <sub>(8.0+0.08s)</sub> | 1993 | 51 | 144 | 51% | 1971 | 17% |
+| 2.5 | STC <sub>(8.0+0.08s)</sub> | 1986 | 51 | 144 | 51% | 1964 | 17% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.5 | STC <sub>(8.0+0.08s)</sub> | 1885 | 40 | 230 | 51% | 1893 | 19% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
