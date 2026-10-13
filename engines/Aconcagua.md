@@ -8,14 +8,14 @@ Home: https://github.com/gabtar/aconcagua
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 5.2.0 | 2026-05-31 | 2195 | 2533 | 2650 |  |
+| 5.2.0 | 2026-05-31 | 2201 | 2538 | 2654 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 5.2.0 | 2026-05-31 | 2338 | 2700 | 2757 |  |
+| 5.2.0 | 2026-05-31 | 2329 | 2689 | 2755 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -44,7 +44,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-12 04:35:14
+Generated: 2026-10-13 04:35:15
 
 ## Ratings Verlauf T1
 
@@ -67,14 +67,14 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 5.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2718 | 29 | 366 | 53% | 2692 | 37% |
-| 5.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2757 | 45 | 158 | 51% | 2745 | 37% |
-| 5.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2650 | 35 | 272 | 53% | 2623 | 31% |
+| 5.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2755 | 45 | 162 | 52% | 2736 | 36% |
+| 5.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2654 | 35 | 276 | 53% | 2628 | 32% |
+| 5.2.0 | LTC <sub>(60.0+0.60s)</sub> | 2689 | 44 | 176 | 52% | 2651 | 31% |
+| 5.2.0 | LTC <sub>(60.0+0.60s)</sub> | 2538 | 42 | 194 | 51% | 2530 | 29% |
 | 5.2.0 | LTC <sub>(60.0+0.60s)</sub> | 2608 | 26 | 482 | 53% | 2583 | 33% |
-| 5.2.0 | LTC <sub>(60.0+0.60s)</sub> | 2700 | 44 | 176 | 52% | 2662 | 31% |
-| 5.2.0 | LTC <sub>(60.0+0.60s)</sub> | 2533 | 42 | 194 | 51% | 2525 | 29% |
-| 5.2.0 | STC <sub>(8.0+0.08s)</sub> | 2338 | 45 | 168 | 46% | 2388 | 27% |
+| 5.2.0 | STC <sub>(8.0+0.08s)</sub> | 2329 | 44 | 176 | 46% | 2373 | 27% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 5.2.0 | STC <sub>(8.0+0.08s)</sub> | 2195 | 39 | 232 | 47% | 2222 | 27% |
+| 5.2.0 | STC <sub>(8.0+0.08s)</sub> | 2201 | 39 | 232 | 47% | 2228 | 27% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 5.2.0 | STC <sub>(8.0+0.08s)</sub> | 2340 | 29 | 414 | 48% | 2364 | 27% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
