@@ -8,14 +8,14 @@ Home: https://github.com/oozturk777/ynode
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0234 | 2026-03-22 | 3070 | 3294 | 3337 |  |
+| 0234 | 2026-03-22 | 3067 | 3298 | 3339 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0234 | 2026-03-22 | 3305 | 3483 | 3524 |  |
+| 0234 | 2026-03-22 | 3297 | 3471 | 3515 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-12 04:44:22
+Generated: 2026-10-13 04:45:02
 
 ## Ratings Verlauf T1
 
@@ -63,17 +63,17 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0234 | VLTC <sub>(2m24s+1.12s)</sub> | 3524 | 39 | 172 | 53% | 3472 | 70% |
-| 0234 | VLTC <sub>(2m24s+1.12s)</sub> | 3337 | 32 | 278 | 61% | 3171 | 62% |
+| 0234 | VLTC <sub>(2m24s+1.12s)</sub> | 3339 | 32 | 284 | 60% | 3178 | 63% |
 | 0234 | VLTC <sub>(2m24s+1.12s)</sub> | 3407 | 25 | 382 | 50% | 3409 | 81% |
-| 0234 | LTC <sub>(60.0+0.60s)</sub> | 3294 | 36 | 210 | 58% | 3175 | 65% |
+| 0234 | VLTC <sub>(2m24s+1.12s)</sub> | 3515 | 38 | 176 | 54% | 3463 | 70% |
+| 0234 | LTC <sub>(60.0+0.60s)</sub> | 3298 | 36 | 214 | 58% | 3181 | 65% |
 | 0234 | LTC <sub>(60.0+0.60s)</sub> | 3356 | 24 | 416 | 51% | 3347 | 74% |
-| 0234 | LTC <sub>(60.0+0.60s)</sub> | 3483 | 42 | 152 | 56% | 3399 | 65% |
-| 0234 | STC <sub>(8.0+0.08s)</sub> | 3070 | 33 | 248 | 48% | 3085 | 55% |
+| 0234 | LTC <sub>(60.0+0.60s)</sub> | 3471 | 42 | 152 | 56% | 3387 | 65% |
+| 0234 | STC <sub>(8.0+0.08s)</sub> | 3067 | 32 | 270 | 47% | 3090 | 54% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0234 | STC <sub>(8.0+0.08s)</sub> | 3141 | 23 | 524 | 50% | 3140 | 57% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0234 | STC <sub>(8.0+0.08s)</sub> | 3305 | 39 | 178 | 49% | 3314 | 61% |
+| 0234 | STC <sub>(8.0+0.08s)</sub> | 3297 | 38 | 182 | 49% | 3305 | 62% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0219 | VLTC <sub>(2m24s+1.12s)</sub> | 3382 | 27 | 336 | 52% | 3357 | 79% |
 | 0219 | LTC <sub>(60.0+0.60s)</sub> | 3333 | 25 | 406 | 49% | 3326 | 72% |
