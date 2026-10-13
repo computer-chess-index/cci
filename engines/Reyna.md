@@ -8,14 +8,14 @@ Home: https://github.com/renztarga/Reyna
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2025-10-20 | 2122 | 2422 | 2552 |  |
+| 1.0 | 2025-10-20 | 2128 | 2431 | 2557 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2025-10-20 | 2315 | 2572 | 2657 |  |
+| 1.0 | 2025-10-20 | 2302 | 2561 | 2646 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-12 04:42:13
+Generated: 2026-10-13 04:42:44
 
 
 
@@ -48,15 +48,15 @@ Generated: 2026-10-12 04:42:13
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2646 | 42 | 228 | 63% | 2331 | 25% |
+| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2557 | 38 | 243 | 51% | 2523 | 33% |
 | 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2600 | 23 | 644 | 49% | 2611 | 31% |
-| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2657 | 42 | 228 | 63% | 2342 | 25% |
-| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2552 | 38 | 243 | 51% | 2519 | 33% |
-| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2572 | 51 | 158 | 50% | 2564 | 16% |
-| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2422 | 43 | 200 | 53% | 2358 | 28% |
+| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2561 | 51 | 158 | 50% | 2553 | 16% |
+| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2431 | 43 | 204 | 53% | 2365 | 28% |
 | 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2498 | 25 | 528 | 50% | 2489 | 28% |
-| 1.0 | STC <sub>(8.0+0.08s)</sub> | 2315 | 46 | 168 | 51% | 2300 | 17% |
+| 1.0 | STC <sub>(8.0+0.08s)</sub> | 2302 | 46 | 168 | 51% | 2287 | 17% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0 | STC <sub>(8.0+0.08s)</sub> | 2122 | 36 | 256 | 47% | 2169 | 35% |
+| 1.0 | STC <sub>(8.0+0.08s)</sub> | 2128 | 36 | 260 | 47% | 2174 | 34% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.0 | STC <sub>(8.0+0.08s)</sub> | 2282 | 22 | 740 | 48% | 2307 | 24% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
