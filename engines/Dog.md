@@ -8,14 +8,14 @@ Home: https://github.com/folkertvanheusden/Dog
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.10.2 | 2025-12-05 | 2669 | 2978 | 3070 |  |
+| 4.10.2 | 2025-12-05 | 2670 | 2985 | 3075 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.10.2 | 2025-12-05 | 2920 | 3143 | 3204 |  |
+| 4.10.2 | 2025-12-05 | 2915 | 3132 | 3194 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-12 04:37:54
+Generated: 2026-10-13 04:38:03
 
 
 
@@ -48,15 +48,15 @@ Generated: 2026-10-12 04:37:54
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4.10.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3204 | 38 | 212 | 57% | 3108 | 47% |
-| 4.10.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3070 | 35 | 258 | 57% | 3002 | 46% |
+| 4.10.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3075 | 35 | 258 | 57% | 3008 | 46% |
 | 4.10.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3104 | 22 | 606 | 53% | 3074 | 55% |
-| 4.10.2 | LTC <sub>(60.0+0.60s)</sub> | 2978 | 35 | 260 | 51% | 2932 | 41% |
+| 4.10.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3194 | 38 | 212 | 57% | 3098 | 47% |
+| 4.10.2 | LTC <sub>(60.0+0.60s)</sub> | 2985 | 35 | 264 | 51% | 2939 | 42% |
 | 4.10.2 | LTC <sub>(60.0+0.60s)</sub> | 3044 | 24 | 498 | 52% | 3029 | 54% |
-| 4.10.2 | LTC <sub>(60.0+0.60s)</sub> | 3143 | 44 | 160 | 54% | 3047 | 46% |
-| 4.10.2 | STC <sub>(8.0+0.08s)</sub> | 2669 | 33 | 304 | 45% | 2715 | 32% |
+| 4.10.2 | LTC <sub>(60.0+0.60s)</sub> | 3132 | 44 | 160 | 54% | 3036 | 46% |
+| 4.10.2 | STC <sub>(8.0+0.08s)</sub> | 2670 | 33 | 308 | 45% | 2718 | 32% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4.10.2 | STC <sub>(8.0+0.08s)</sub> | 2812 | 20 | 780 | 49% | 2820 | 40% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4.10.2 | STC <sub>(8.0+0.08s)</sub> | 2920 | 47 | 144 | 50% | 2907 | 37% |
+| 4.10.2 | STC <sub>(8.0+0.08s)</sub> | 2915 | 45 | 154 | 51% | 2898 | 36% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
