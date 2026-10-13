@@ -8,14 +8,14 @@ Home: https://github.com/rglenister/natto
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.1.9 | 2025-09-06 | 1515 | 1683 | 1798 |  |
+| 0.1.9 | 2025-09-06 | 1515 | 1685 | 1801 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.1.9 | 2025-09-06 | 1692 | 1858 | 1904 |  |
+| 0.1.9 | 2025-09-06 | 1674 | 1843 | 1890 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-12 04:40:32
+Generated: 2026-10-13 04:40:49
 
 
 
@@ -48,15 +48,15 @@ Generated: 2026-10-12 04:40:32
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0.1.9 | VLTC <sub>(2m24s+1.12s)</sub> | 1890 | 43 | 188 | 46% | 1974 | 26% |
+| 0.1.9 | VLTC <sub>(2m24s+1.12s)</sub> | 1801 | 35 | 296 | 41% | 1932 | 29% |
 | 0.1.9 | VLTC <sub>(2m24s+1.12s)</sub> | 1937 | 23 | 644 | 48% | 1971 | 27% |
-| 0.1.9 | VLTC <sub>(2m24s+1.12s)</sub> | 1904 | 43 | 188 | 46% | 1987 | 26% |
-| 0.1.9 | VLTC <sub>(2m24s+1.12s)</sub> | 1798 | 34 | 296 | 41% | 1931 | 29% |
-| 0.1.9 | LTC <sub>(60.0+0.60s)</sub> | 1858 | 47 | 184 | 57% | 1777 | 23% |
-| 0.1.9 | LTC <sub>(60.0+0.60s)</sub> | 1683 | 45 | 178 | 47% | 1751 | 23% |
+| 0.1.9 | LTC <sub>(60.0+0.60s)</sub> | 1843 | 47 | 184 | 57% | 1763 | 23% |
+| 0.1.9 | LTC <sub>(60.0+0.60s)</sub> | 1685 | 45 | 178 | 47% | 1751 | 23% |
 | 0.1.9 | LTC <sub>(60.0+0.60s)</sub> | 1847 | 24 | 618 | 50% | 1863 | 28% |
-| 0.1.9 | STC <sub>(8.0+0.08s)</sub> | 1692 | 44 | 184 | 54% | 1669 | 24% |
+| 0.1.9 | STC <sub>(8.0+0.08s)</sub> | 1674 | 43 | 188 | 53% | 1654 | 24% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.1.9 | STC <sub>(8.0+0.08s)</sub> | 1515 | 41 | 196 | 48% | 1538 | 27% |
+| 0.1.9 | STC <sub>(8.0+0.08s)</sub> | 1515 | 41 | 196 | 48% | 1536 | 27% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.1.9 | STC <sub>(8.0+0.08s)</sub> | 1601 | 23 | 652 | 46% | 1648 | 27% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
