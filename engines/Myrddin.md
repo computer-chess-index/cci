@@ -8,14 +8,14 @@ Home: https://github.com/JVMerlino/Myrddin
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.96 | 2026-06-08 | 2581 | 3001 | 3090 |  |
+| 0.96 | 2026-06-08 | 2585 | 3012 | 3096 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.96 | 2026-06-08 | 2869 | 3190 | 3251 |  |
+| 0.96 | 2026-06-08 | 2853 | 3179 | 3243 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -42,7 +42,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-12 04:40:30
+Generated: 2026-10-13 04:40:46
 
 ## Ratings Verlauf T1
 
@@ -64,17 +64,17 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.96 | VLTC <sub>(2m24s+1.12s)</sub> | 3090 | 35 | 258 | 59% | 2939 | 44% |
 | 0.96 | VLTC <sub>(2m24s+1.12s)</sub> | 3129 | 27 | 382 | 50% | 3128 | 54% |
-| 0.96 | VLTC <sub>(2m24s+1.12s)</sub> | 3251 | 46 | 128 | 48% | 3270 | 56% |
+| 0.96 | VLTC <sub>(2m24s+1.12s)</sub> | 3243 | 46 | 128 | 48% | 3260 | 56% |
+| 0.96 | VLTC <sub>(2m24s+1.12s)</sub> | 3096 | 35 | 258 | 59% | 2943 | 44% |
 | 0.96 | LTC <sub>(60.0+0.60s)</sub> | 3070 | 27 | 390 | 50% | 3069 | 49% |
-| 0.96 | LTC <sub>(60.0+0.60s)</sub> | 3190 | 40 | 184 | 53% | 3152 | 52% |
-| 0.96 | LTC <sub>(60.0+0.60s)</sub> | 3001 | 39 | 208 | 55% | 2924 | 44% |
+| 0.96 | LTC <sub>(60.0+0.60s)</sub> | 3179 | 40 | 184 | 53% | 3143 | 52% |
+| 0.96 | LTC <sub>(60.0+0.60s)</sub> | 3012 | 37 | 222 | 55% | 2936 | 45% |
 | 0.96 | STC <sub>(8.0+0.08s)</sub> | 2753 | 28 | 418 | 48% | 2768 | 35% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.96 | STC <sub>(8.0+0.08s)</sub> | 2869 | 44 | 172 | 51% | 2862 | 31% |
+| 0.96 | STC <sub>(8.0+0.08s)</sub> | 2853 | 43 | 178 | 50% | 2851 | 31% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.96 | STC <sub>(8.0+0.08s)</sub> | 2581 | 30 | 350 | 42% | 2649 | 35% |
+| 0.96 | STC <sub>(8.0+0.08s)</sub> | 2585 | 30 | 354 | 43% | 2653 | 35% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.95 | VLTC <sub>(2m24s+1.12s)</sub> | 3031 | 29 | 370 | 51% | 3021 | 43% |
 | 0.95 | LTC <sub>(60.0+0.60s)</sub> | 2951 | 29 | 366 | 49% | 2961 | 41% |
