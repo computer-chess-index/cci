@@ -8,14 +8,14 @@ Home: https://github.com/hansbinderup/meltdown-chess-engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.11 | 2025-11-15 | 2611 | 2834 | 2885 |  |
+| 1.11 | 2025-11-15 | 2615 | 2838 | 2892 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.11 | 2025-11-15 | 2731 | 2957 | 3016 |  |
+| 1.11 | 2025-11-15 | 2714 | 2957 | 3008 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-12 04:40:17
+Generated: 2026-10-13 04:40:32
 
 
 
@@ -48,15 +48,15 @@ Generated: 2026-10-12 04:40:17
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.11 | VLTC <sub>(2m24s+1.12s)</sub> | 3016 | 42 | 184 | 49% | 3023 | 34% |
-| 1.11 | VLTC <sub>(2m24s+1.12s)</sub> | 2885 | 38 | 222 | 54% | 2842 | 35% |
+| 1.11 | VLTC <sub>(2m24s+1.12s)</sub> | 3008 | 42 | 188 | 49% | 3013 | 33% |
+| 1.11 | VLTC <sub>(2m24s+1.12s)</sub> | 2892 | 38 | 226 | 54% | 2846 | 35% |
 | 1.11 | VLTC <sub>(2m24s+1.12s)</sub> | 2925 | 23 | 562 | 49% | 2931 | 40% |
-| 1.11 | LTC <sub>(60.0+0.60s)</sub> | 2957 | 39 | 218 | 45% | 3000 | 36% |
-| 1.11 | LTC <sub>(60.0+0.60s)</sub> | 2834 | 38 | 256 | 59% | 2645 | 32% |
+| 1.11 | LTC <sub>(60.0+0.60s)</sub> | 2957 | 37 | 234 | 46% | 2989 | 37% |
+| 1.11 | LTC <sub>(60.0+0.60s)</sub> | 2838 | 38 | 256 | 59% | 2647 | 32% |
 | 1.11 | LTC <sub>(60.0+0.60s)</sub> | 2884 | 23 | 610 | 52% | 2865 | 38% |
-| 1.11 | STC <sub>(8.0+0.08s)</sub> | 2731 | 39 | 200 | 47% | 2755 | 38% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.11 | STC <sub>(8.0+0.08s)</sub> | 2611 | 36 | 256 | 49% | 2624 | 33% |
+| 1.11 | STC <sub>(8.0+0.08s)</sub> | 2615 | 35 | 268 | 49% | 2630 | 34% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.11 | STC <sub>(8.0+0.08s)</sub> | 2680 | 20 | 840 | 50% | 2668 | 35% |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.11 | STC <sub>(8.0+0.08s)</sub> | 2714 | 39 | 204 | 47% | 2743 | 37% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
