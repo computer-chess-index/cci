@@ -8,14 +8,14 @@ Home: https://github.com/h1me01/Astra
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7.0 | 2026-05-26 | 3306 | 3542 | 3596 |  |
+| 7.0 | 2026-05-26 | 3308 | 3546 | 3598 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7.0 | 2026-05-26 | 3557 | 3723 | 3802 |  |
+| 7.0 | 2026-05-26 | 3546 | 3711 | 3787 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-12 04:36:06
+Generated: 2026-10-13 04:36:09
 
 ## Ratings Verlauf T1
 
@@ -63,15 +63,15 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| 7.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3787 | 51 | 96 | 54% | 3691 | 78% |
+| 7.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3598 | 38 | 196 | 59% | 3418 | 68% |
 | 7.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3559 | 27 | 312 | 49% | 3567 | 89% |
-| 7.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3802 | 57 | 80 | 54% | 3686 | 74% |
-| 7.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3596 | 38 | 192 | 60% | 3410 | 68% |
-| 7.0 | LTC <sub>(60.0+0.60s)</sub> | 3723 | 46 | 126 | 61% | 3603 | 68% |
-| 7.0 | LTC <sub>(60.0+0.60s)</sub> | 3542 | 40 | 188 | 64% | 3283 | 62% |
+| 7.0 | LTC <sub>(60.0+0.60s)</sub> | 3711 | 45 | 130 | 61% | 3595 | 69% |
+| 7.0 | LTC <sub>(60.0+0.60s)</sub> | 3546 | 40 | 188 | 64% | 3287 | 62% |
 | 7.0 | LTC <sub>(60.0+0.60s)</sub> | 3546 | 28 | 294 | 50% | 3545 | 86% |
-| 7.0 | STC <sub>(8.0+0.08s)</sub> | 3557 | 35 | 200 | 51% | 3551 | 73% |
+| 7.0 | STC <sub>(8.0+0.08s)</sub> | 3546 | 35 | 204 | 51% | 3538 | 74% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 7.0 | STC <sub>(8.0+0.08s)</sub> | 3306 | 31 | 272 | 44% | 3347 | 65% |
+| 7.0 | STC <sub>(8.0+0.08s)</sub> | 3308 | 31 | 280 | 44% | 3349 | 65% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 7.0 | STC <sub>(8.0+0.08s)</sub> | 3405 | 25 | 398 | 51% | 3401 | 75% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
