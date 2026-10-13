@@ -8,14 +8,14 @@ Home: https://github.com/FauziAkram/Malika-releases
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.821 | 2026-08-12 | 3058 | 3339 | 3402 |  |
+| 1.821 | 2026-08-12 | 3067 | 3343 | 3406 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.821 | 2026-08-12 | 3248 | 3505 | 3567 |  |
+| 1.821 | 2026-08-12 | 3241 | 3492 | 3556 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -45,7 +45,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-12 04:40:15
+Generated: 2026-10-13 04:40:30
 
 ## Ratings Verlauf T1
 
@@ -67,15 +67,15 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.821 | VLTC <sub>(2m24s+1.12s)</sub> | 3556 | 36 | 196 | 49% | 3565 | 67% |
+| 1.821 | VLTC <sub>(2m24s+1.12s)</sub> | 3406 | 32 | 254 | 51% | 3402 | 62% |
 | 1.821 | VLTC <sub>(2m24s+1.12s)</sub> | 3430 | 27 | 340 | 50% | 3430 | 72% |
-| 1.821 | VLTC <sub>(2m24s+1.12s)</sub> | 3567 | 36 | 196 | 49% | 3576 | 67% |
-| 1.821 | VLTC <sub>(2m24s+1.12s)</sub> | 3402 | 33 | 242 | 51% | 3399 | 62% |
-| 1.821 | LTC <sub>(60.0+0.60s)</sub> | 3505 | 37 | 196 | 49% | 3506 | 59% |
-| 1.821 | LTC <sub>(60.0+0.60s)</sub> | 3339 | 32 | 276 | 49% | 3347 | 55% |
+| 1.821 | LTC <sub>(60.0+0.60s)</sub> | 3492 | 37 | 200 | 49% | 3495 | 60% |
+| 1.821 | LTC <sub>(60.0+0.60s)</sub> | 3343 | 32 | 276 | 49% | 3351 | 55% |
 | 1.821 | LTC <sub>(60.0+0.60s)</sub> | 3378 | 28 | 320 | 50% | 3380 | 67% |
-| 1.821 | STC <sub>(8.0+0.08s)</sub> | 3248 | 40 | 184 | 50% | 3249 | 44% |
+| 1.821 | STC <sub>(8.0+0.08s)</sub> | 3241 | 39 | 196 | 50% | 3240 | 44% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.821 | STC <sub>(8.0+0.08s)</sub> | 3058 | 34 | 258 | 49% | 3062 | 48% |
+| 1.821 | STC <sub>(8.0+0.08s)</sub> | 3067 | 33 | 274 | 50% | 3067 | 47% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.821 | STC <sub>(8.0+0.08s)</sub> | 3117 | 28 | 352 | 52% | 3104 | 55% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
