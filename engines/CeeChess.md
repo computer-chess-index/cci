@@ -8,14 +8,14 @@ Home: https://github.com/bctboi23/CeeChess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.2 | 2025-11-05 | 2061 | 2323 | 2457 |  |
+| 2.2 | 2025-11-05 | 2067 | 2329 | 2453 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.2 | 2025-11-05 | 2152 | 2498 | 2631 |  |
+| 2.2 | 2025-11-05 | 2138 | 2485 | 2620 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-12 04:36:46
+Generated: 2026-10-13 04:36:53
 
 
 
@@ -48,15 +48,15 @@ Generated: 2026-10-12 04:36:46
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2620 | 38 | 244 | 59% | 2492 | 32% |
+| 2.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2453 | 40 | 224 | 52% | 2419 | 21% |
 | 2.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2488 | 26 | 478 | 48% | 2506 | 31% |
-| 2.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2631 | 38 | 244 | 59% | 2503 | 32% |
-| 2.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2457 | 42 | 212 | 53% | 2414 | 20% |
-| 2.2 | LTC <sub>(60.0+0.60s)</sub> | 2498 | 54 | 132 | 49% | 2520 | 22% |
-| 2.2 | LTC <sub>(60.0+0.60s)</sub> | 2323 | 43 | 202 | 57% | 2246 | 26% |
+| 2.2 | LTC <sub>(60.0+0.60s)</sub> | 2485 | 54 | 132 | 49% | 2507 | 22% |
+| 2.2 | LTC <sub>(60.0+0.60s)</sub> | 2329 | 43 | 202 | 57% | 2252 | 26% |
 | 2.2 | LTC <sub>(60.0+0.60s)</sub> | 2407 | 24 | 552 | 49% | 2417 | 30% |
-| 2.2 | STC <sub>(8.0+0.08s)</sub> | 2152 | 43 | 180 | 51% | 2144 | 27% |
+| 2.2 | STC <sub>(8.0+0.08s)</sub> | 2138 | 43 | 180 | 51% | 2130 | 27% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.2 | STC <sub>(8.0+0.08s)</sub> | 2061 | 41 | 204 | 50% | 2067 | 25% |
+| 2.2 | STC <sub>(8.0+0.08s)</sub> | 2067 | 41 | 208 | 51% | 2070 | 25% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.2 | STC <sub>(8.0+0.08s)</sub> | 2156 | 23 | 674 | 50% | 2151 | 22% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
