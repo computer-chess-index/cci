@@ -8,14 +8,14 @@ Home: https://github.com/sovaz1997/Zevra2
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.7 | 2026-08-30 | 2515 | 2859 | 2978 |  |
+| 2.7 | 2026-08-30 | 2520 | 2862 | 2981 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.7 | 2026-08-30 | 2745 | 3056 | 3175 |  |
+| 2.7 | 2026-08-30 | 2734 | 3051 | 3166 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-12 04:44:39
+Generated: 2026-10-13 04:45:22
 
 ## Ratings Verlauf T1
 
@@ -63,15 +63,15 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.7 | VLTC <sub>(2m24s+1.12s)</sub> | 3175 | 42 | 170 | 51% | 3167 | 45% |
 | 2.7 | VLTC <sub>(2m24s+1.12s)</sub> | 3042 | 30 | 304 | 50% | 3040 | 54% |
-| 2.7 | VLTC <sub>(2m24s+1.12s)</sub> | 2978 | 33 | 258 | 49% | 2988 | 52% |
-| 2.7 | LTC <sub>(60.0+0.60s)</sub> | 2859 | 32 | 280 | 47% | 2892 | 51% |
-| 2.7 | LTC <sub>(60.0+0.60s)</sub> | 3056 | 37 | 220 | 48% | 3073 | 43% |
+| 2.7 | VLTC <sub>(2m24s+1.12s)</sub> | 2981 | 33 | 262 | 48% | 2994 | 52% |
+| 2.7 | VLTC <sub>(2m24s+1.12s)</sub> | 3166 | 42 | 170 | 51% | 3158 | 45% |
+| 2.7 | LTC <sub>(60.0+0.60s)</sub> | 2862 | 32 | 290 | 47% | 2894 | 51% |
+| 2.7 | LTC <sub>(60.0+0.60s)</sub> | 3051 | 37 | 224 | 49% | 3062 | 42% |
 | 2.7 | LTC <sub>(60.0+0.60s)</sub> | 2939 | 32 | 296 | 53% | 2915 | 41% |
-| 2.7 | STC <sub>(8.0+0.08s)</sub> | 2515 | 37 | 228 | 50% | 2516 | 35% |
+| 2.7 | STC <sub>(8.0+0.08s)</sub> | 2520 | 37 | 232 | 50% | 2522 | 35% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.7 | STC <sub>(8.0+0.08s)</sub> | 2745 | 35 | 264 | 50% | 2742 | 39% |
+| 2.7 | STC <sub>(8.0+0.08s)</sub> | 2734 | 35 | 264 | 50% | 2731 | 39% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.7 | STC <sub>(8.0+0.08s)</sub> | 2566 | 35 | 268 | 51% | 2560 | 30% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
