@@ -8,14 +8,14 @@ Home: https://github.com/matthiaslang/jackychess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 25.12 | 2025-12-03 |  | 2569 | 2692 |  |
+| 25.12 | 2025-12-03 |  | 2573 | 2699 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 25.12 | 2025-12-03 |  | 2704 | 2796 |  |
+| 25.12 | 2025-12-03 |  | 2700 | 2792 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-12 04:39:29
+Generated: 2026-10-13 04:39:42
 
 
 
@@ -49,10 +49,10 @@ Generated: 2026-10-12 04:39:29
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 25.12 | VLTC <sub>(2m24s+1.12s)</sub> | 2772 | 25 | 518 | 50% | 2776 | 33% |
-| 25.12 | VLTC <sub>(2m24s+1.12s)</sub> | 2796 | 42 | 190 | 58% | 2681 | 33% |
-| 25.12 | VLTC <sub>(2m24s+1.12s)</sub> | 2692 | 39 | 242 | 54% | 2643 | 26% |
+| 25.12 | VLTC <sub>(2m24s+1.12s)</sub> | 2792 | 41 | 198 | 58% | 2674 | 33% |
+| 25.12 | VLTC <sub>(2m24s+1.12s)</sub> | 2699 | 38 | 246 | 55% | 2646 | 26% |
 | 25.12 | LTC <sub>(60.0+0.60s)</sub> | 2655 | 23 | 602 | 52% | 2641 | 35% |
-| 25.12 | LTC <sub>(60.0+0.60s)</sub> | 2704 | 46 | 178 | 56% | 2560 | 28% |
-| 25.12 | LTC <sub>(60.0+0.60s)</sub> | 2569 | 43 | 178 | 51% | 2566 | 29% |
+| 25.12 | LTC <sub>(60.0+0.60s)</sub> | 2700 | 44 | 190 | 57% | 2558 | 28% |
+| 25.12 | LTC <sub>(60.0+0.60s)</sub> | 2573 | 43 | 182 | 51% | 2569 | 30% |
 | 25.12 | STC <sub>(8.0+0.08s)</sub> | 2252 | 44 | 180 | 54% | 2218 | 25% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
