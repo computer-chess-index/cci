@@ -4,7 +4,7 @@ Author: Nguyen Van Thang
 
 Home: https://github.com/sophiathedev/askaig
 
-## Elo Ratings E1 - Ultra 7 265T (1.50 GHz) - E-Core
+## Elo Ratings E1 - <sub>Ultra 7 265T (1.50 GHz) - E-Core
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -12,7 +12,7 @@ Home: https://github.com/sophiathedev/askaig
 | 20260811 | 2026-08-11 | 2930 | 3158 | 3260 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings P1 - Ultra 7 265T (1.50 GHz) - P-Core
+## Elo Ratings P1 - <sub>Ultra 7 265T (1.50 GHz) - P-Core
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -20,7 +20,7 @@ Home: https://github.com/sophiathedev/askaig
 | 20260811 | 2026-08-11 | 3131 | 3403 | 3461 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings T1 - i5-7500T 2.70GHz
+## Elo Ratings T1 - <sub>i5-7500T 2.70GHz
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -45,7 +45,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-13 19:18:05
+Generated: 2026-10-13 19:18:53
 
 ## Ratings Verlauf E1 / P1
 
