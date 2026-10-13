@@ -8,14 +8,14 @@ Home: https://github.com/A1exL1ang/Superultra
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0 | 2024-02-02 |  | 3240 | 3326 |  |
+| 2.0 | 2024-02-02 |  | 3244 | 3330 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0 | 2024-02-02 |  | 3441 | 3522 |  |
+| 2.0 | 2024-02-02 |  | 3429 | 3511 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-12 04:43:23
+Generated: 2026-10-13 04:43:59
 
 
 
@@ -49,10 +49,10 @@ Generated: 2026-10-12 04:43:23
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3379 | 11 | 2084 | 50% | 3375 | 70% |
-| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3522 | 31 | 272 | 53% | 3494 | 67% |
-| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3326 | 33 | 240 | 50% | 3317 | 67% |
-| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 3441 | 38 | 176 | 52% | 3414 | 66% |
-| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 3240 | 38 | 188 | 51% | 3233 | 58% |
+| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3511 | 31 | 272 | 53% | 3483 | 67% |
+| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3330 | 32 | 252 | 50% | 3321 | 67% |
+| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 3429 | 38 | 176 | 52% | 3403 | 66% |
+| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 3244 | 37 | 196 | 51% | 3239 | 60% |
 | 2.0 | LTC <sub>(60.0+0.60s)</sub> | 3314 | 11 | 1962 | 50% | 3313 | 67% |
 | 2.0 | STC <sub>(8.0+0.08s)</sub> | 3055 | 38 | 208 | 44% | 3105 | 50% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
