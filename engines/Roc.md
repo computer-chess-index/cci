@@ -8,14 +8,14 @@ Home: https://github.com/TomHyer/Roc
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.11 | 2026-05-11 | 2643 | 2908 | 2974 |  |
+| 1.11 | 2026-05-11 | 2654 | 2912 | 2979 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.11 | 2026-05-11 | 2815 | 3109 | 3174 |  |
+| 1.11 | 2026-05-11 | 2801 | 3098 | 3162 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-12 04:42:15
+Generated: 2026-10-13 04:42:47
 
 ## Ratings Verlauf T1
 
@@ -64,16 +64,16 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.11 | VLTC <sub>(2m24s+1.12s)</sub> | 3048 | 25 | 512 | 50% | 3052 | 39% |
-| 1.11 | VLTC <sub>(2m24s+1.12s)</sub> | 3174 | 46 | 148 | 52% | 3144 | 41% |
-| 1.11 | VLTC <sub>(2m24s+1.12s)</sub> | 2974 | 36 | 248 | 52% | 2935 | 37% |
+| 1.11 | VLTC <sub>(2m24s+1.12s)</sub> | 3162 | 45 | 152 | 52% | 3135 | 41% |
+| 1.11 | VLTC <sub>(2m24s+1.12s)</sub> | 2979 | 36 | 248 | 52% | 2940 | 37% |
 | 1.11 | LTC <sub>(60.0+0.60s)</sub> | 2958 | 25 | 520 | 52% | 2942 | 38% |
-| 1.11 | LTC <sub>(60.0+0.60s)</sub> | 3109 | 42 | 174 | 51% | 3100 | 40% |
-| 1.11 | LTC <sub>(60.0+0.60s)</sub> | 2908 | 37 | 238 | 51% | 2893 | 33% |
+| 1.11 | LTC <sub>(60.0+0.60s)</sub> | 3098 | 42 | 174 | 51% | 3089 | 40% |
+| 1.11 | LTC <sub>(60.0+0.60s)</sub> | 2912 | 37 | 238 | 51% | 2897 | 33% |
 | 1.11 | STC <sub>(8.0+0.08s)</sub> | 2731 | 25 | 498 | 49% | 2743 | 37% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.11 | STC <sub>(8.0+0.08s)</sub> | 2815 | 42 | 186 | 48% | 2838 | 31% |
+| 1.11 | STC <sub>(8.0+0.08s)</sub> | 2801 | 41 | 194 | 48% | 2826 | 31% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.11 | STC <sub>(8.0+0.08s)</sub> | 2643 | 36 | 254 | 46% | 2684 | 31% |
+| 1.11 | STC <sub>(8.0+0.08s)</sub> | 2654 | 36 | 262 | 47% | 2685 | 31% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.10 | VLTC <sub>(2m24s+1.12s)</sub> | 3038 | 26 | 454 | 52% | 3023 | 40% |
 | 1.10 | LTC <sub>(60.0+0.60s)</sub> | 2966 | 28 | 386 | 50% | 2966 | 41% |
