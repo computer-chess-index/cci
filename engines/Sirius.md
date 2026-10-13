@@ -8,14 +8,14 @@ Home: https://github.com/mcthouacbb/Sirius
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.0 | 2025-07-04 | 2989 | 3264 | 3324 |  |
+| 9.0 | 2025-07-04 | 2996 | 3267 | 3328 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.0 | 2025-07-04 | 3213 | 3487 | 3525 |  |
+| 9.0 | 2025-07-04 | 3202 | 3476 | 3514 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-12 04:42:51
+Generated: 2026-10-13 04:43:26
 
 
 
@@ -48,15 +48,15 @@ Generated: 2026-10-12 04:42:51
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| 9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3514 | 37 | 192 | 49% | 3519 | 66% |
+| 9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3328 | 30 | 290 | 48% | 3344 | 63% |
 | 9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3383 | 25 | 412 | 52% | 3371 | 69% |
-| 9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3525 | 37 | 192 | 49% | 3530 | 66% |
-| 9.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3324 | 30 | 286 | 48% | 3340 | 62% |
-| 9.0 | LTC <sub>(60.0+0.60s)</sub> | 3487 | 38 | 190 | 51% | 3482 | 58% |
-| 9.0 | LTC <sub>(60.0+0.60s)</sub> | 3264 | 33 | 264 | 48% | 3276 | 53% |
+| 9.0 | LTC <sub>(60.0+0.60s)</sub> | 3476 | 38 | 190 | 51% | 3470 | 58% |
+| 9.0 | LTC <sub>(60.0+0.60s)</sub> | 3267 | 32 | 272 | 48% | 3281 | 54% |
 | 9.0 | LTC <sub>(60.0+0.60s)</sub> | 3333 | 31 | 272 | 50% | 3335 | 63% |
-| 9.0 | STC <sub>(8.0+0.08s)</sub> | 3213 | 40 | 180 | 48% | 3231 | 49% |
+| 9.0 | STC <sub>(8.0+0.08s)</sub> | 3202 | 39 | 188 | 47% | 3221 | 49% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 9.0 | STC <sub>(8.0+0.08s)</sub> | 2989 | 31 | 304 | 47% | 3016 | 49% |
+| 9.0 | STC <sub>(8.0+0.08s)</sub> | 2996 | 30 | 312 | 47% | 3021 | 48% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 9.0 | STC <sub>(8.0+0.08s)</sub> | 3097 | 25 | 436 | 48% | 3113 | 53% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
