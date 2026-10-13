@@ -8,14 +8,14 @@ Home: https://github.com/Carbecq/Zangdar
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7 | 2026-07-13 | 3221 | 3433 | 3502 |  |
+| 7 | 2026-07-13 | 3221 | 3437 | 3506 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7 | 2026-07-13 | 3430 | 3642 | 3687 |  |
+| 7 | 2026-07-13 | 3420 | 3626 | 3680 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -44,7 +44,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-12 04:44:27
+Generated: 2026-10-13 04:45:08
 
 ## Ratings Verlauf T1
 
@@ -67,14 +67,14 @@ xychart-beta
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 7 | VLTC <sub>(2m24s+1.12s)</sub> | 3510 | 35 | 196 | 49% | 3513 | 81% |
-| 7 | VLTC <sub>(2m24s+1.12s)</sub> | 3687 | 39 | 164 | 56% | 3614 | 73% |
-| 7 | VLTC <sub>(2m24s+1.12s)</sub> | 3502 | 37 | 204 | 60% | 3344 | 71% |
+| 7 | VLTC <sub>(2m24s+1.12s)</sub> | 3680 | 38 | 172 | 56% | 3606 | 73% |
+| 7 | VLTC <sub>(2m24s+1.12s)</sub> | 3506 | 37 | 204 | 60% | 3348 | 71% |
+| 7 | LTC <sub>(60.0+0.60s)</sub> | 3626 | 40 | 172 | 57% | 3501 | 65% |
+| 7 | LTC <sub>(60.0+0.60s)</sub> | 3437 | 40 | 192 | 64% | 3204 | 57% |
 | 7 | LTC <sub>(60.0+0.60s)</sub> | 3474 | 36 | 186 | 51% | 3468 | 78% |
-| 7 | LTC <sub>(60.0+0.60s)</sub> | 3642 | 44 | 144 | 59% | 3486 | 63% |
-| 7 | LTC <sub>(60.0+0.60s)</sub> | 3433 | 40 | 192 | 64% | 3200 | 57% |
-| 7 | STC <sub>(8.0+0.08s)</sub> | 3430 | 33 | 244 | 48% | 3441 | 62% |
+| 7 | STC <sub>(8.0+0.08s)</sub> | 3420 | 33 | 248 | 49% | 3429 | 62% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 7 | STC <sub>(8.0+0.08s)</sub> | 3221 | 30 | 284 | 46% | 3254 | 64% |
+| 7 | STC <sub>(8.0+0.08s)</sub> | 3221 | 30 | 292 | 45% | 3255 | 63% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 7 | STC <sub>(8.0+0.08s)</sub> | 3313 | 27 | 352 | 50% | 3310 | 68% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
