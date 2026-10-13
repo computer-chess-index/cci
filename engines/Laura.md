@@ -8,14 +8,14 @@ Home: https://github.com/HansTibberio/Laura
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.0.0 | 2026-05-09 | 1490 | 1794 | 1885 |  |
+| 4.0.0 | 2026-05-09 | 1490 | 1796 | 1885 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.0.0 | 2026-05-09 | 1731 | 1786 | 1958 |  |
+| 4.0.0 | 2026-05-09 | 1716 | 1773 | 1943 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1
@@ -43,7 +43,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-12 04:39:49
+Generated: 2026-10-13 04:40:04
 
 ## Ratings Verlauf T1
 
@@ -65,17 +65,17 @@ xychart-beta
 
 | Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1958 | 87 | 60 | 33% | 2234 | 17% |
-| 4.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1885 | 67 | 92 | 43% | 2028 | 14% |
+| 4.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1885 | 67 | 92 | 43% | 2029 | 14% |
 | 4.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1990 | 39 | 238 | 50% | 1995 | 19% |
-| 4.0.0 | LTC <sub>(60.0+0.60s)</sub> | 1794 | 71 | 84 | 43% | 1932 | 15% |
+| 4.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1943 | 87 | 60 | 33% | 2221 | 17% |
+| 4.0.0 | LTC <sub>(60.0+0.60s)</sub> | 1796 | 71 | 84 | 43% | 1935 | 15% |
 | 4.0.0 | LTC <sub>(60.0+0.60s)</sub> | 1890 | 38 | 268 | 48% | 1910 | 13% |
-| 4.0.0 | LTC <sub>(60.0+0.60s)</sub> | 1786 | 109 | 48 | 22% | 2283 | 10% |
-| 4.0.0 | STC <sub>(8.0+0.08s)</sub> | 1490 | 101 | 42 | 49% | 1540 | 12% |
+| 4.0.0 | LTC <sub>(60.0+0.60s)</sub> | 1773 | 109 | 48 | 22% | 2269 | 10% |
+| 4.0.0 | STC <sub>(8.0+0.08s)</sub> | 1490 | 101 | 42 | 49% | 1542 | 12% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4.0.0 | STC <sub>(8.0+0.08s)</sub> | 1731 | 37 | 280 | 51% | 1725 | 14% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4.0.0 | STC <sub>(8.0+0.08s)</sub> | 1731 | 119 | 40 | 26% | 2210 | 8% |
+| 4.0.0 | STC <sub>(8.0+0.08s)</sub> | 1716 | 119 | 40 | 26% | 2198 | 8% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1817 | 51 | 152 | 50% | 1797 | 13% |
 | 3.0.0 | LTC <sub>(60.0+0.60s)</sub> | 1704 | 53 | 136 | 50% | 1712 | 15% |
