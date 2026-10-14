@@ -4,21 +4,21 @@ Author: Niyaz Khasanov
 
 Home: 
 
-## Elo Ratings E1
+## Elo Ratings E1 <sub>(Ultra 7 265T (1.50 GHz) - E-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings P1
+## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings T1
+## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -40,19 +40,16 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-13 04:44:29
+Generated: 2026-10-14 04:44:24
 
 
 
 ## Detailed Evaluation Results
 
-| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 8.02 | VLTC <sub>(2m24s+1.12s)</sub> | 2427 | 34 | 308 | 48% | 2445 | 24% |
-| 8.02 | LTC <sub>(60.0+0.60s)</sub> | 2360 | 34 | 296 | 52% | 2337 | 25% |
-| 8.02 | STC <sub>(8.0+0.08s)</sub> | 2025 | 38 | 236 | 47% | 2055 | 25% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 8.02 | STC <sub>(8.0+0.08s)</sub> | 2086 | 45 | 176 | 47% | 2109 | 19% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 8.02 | STC <sub>(8.0+0.08s)</sub> | 2138 | 14 | 1972 | 49% | 2159 | 22% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 8.02 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2427 | 34 | 308 | 48% | 2445 | 24% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2360 | 34 | 296 | 52% | 2337 | 25% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2024 | 38 | 240 | 46% | 2057 | 25% |
+|  |  | P1 | 2086 | 45 | 176 | 47% | 2109 | 19% |
+|  |  | T1 | 2138 | 14 | 1972 | 49% | 2159 | 22% |
