@@ -4,21 +4,21 @@ Author: Oleg Smirnov
 
 Home: https://github.com/sovaz1997/Zevra2
 
-## Elo Ratings E1
+## Elo Ratings E1 <sub>(Ultra 7 265T (1.50 GHz) - E-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.7 | 2026-08-30 | 2520 | 2862 | 2981 |  |
+| 2.7 | 2026-08-30 | 2523 | 2865 | 2984 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings P1
+## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.7 | 2026-08-30 | 2734 | 3051 | 3166 |  |
+| 2.7 | 2026-08-30 | 2730 | 3047 | 3163 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings T1
+## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-13 04:45:22
+Generated: 2026-10-14 04:45:18
 
 ## Ratings Verlauf T1
 
@@ -61,21 +61,18 @@ xychart-beta
 
 ## Detailed Evaluation Results
 
-| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.7 | VLTC <sub>(2m24s+1.12s)</sub> | 3042 | 30 | 304 | 50% | 3040 | 54% |
-| 2.7 | VLTC <sub>(2m24s+1.12s)</sub> | 2981 | 33 | 262 | 48% | 2994 | 52% |
-| 2.7 | VLTC <sub>(2m24s+1.12s)</sub> | 3166 | 42 | 170 | 51% | 3158 | 45% |
-| 2.7 | LTC <sub>(60.0+0.60s)</sub> | 2862 | 32 | 290 | 47% | 2894 | 51% |
-| 2.7 | LTC <sub>(60.0+0.60s)</sub> | 3051 | 37 | 224 | 49% | 3062 | 42% |
-| 2.7 | LTC <sub>(60.0+0.60s)</sub> | 2939 | 32 | 296 | 53% | 2915 | 41% |
-| 2.7 | STC <sub>(8.0+0.08s)</sub> | 2520 | 37 | 232 | 50% | 2522 | 35% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.7 | STC <sub>(8.0+0.08s)</sub> | 2734 | 35 | 264 | 50% | 2731 | 39% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.7 | STC <sub>(8.0+0.08s)</sub> | 2566 | 35 | 268 | 51% | 2560 | 30% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.5 | VLTC <sub>(2m24s+1.12s)</sub> | 2569 | 33 | 316 | 52% | 2526 | 29% |
-| 2.5 | LTC <sub>(60.0+0.60s)</sub> | 2499 | 14 | 1812 | 51% | 2488 | 27% |
-| 2.5 | STC <sub>(8.0+0.08s)</sub> | 2228 | 14 | 1898 | 51% | 2214 | 23% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 2.7 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3163 | 41 | 178 | 51% | 3154 | 44% |
+|  |  | T1 | 3042 | 30 | 304 | 50% | 3040 | 54% |
+|  |  | E1 | 2984 | 33 | 262 | 48% | 2996 | 52% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 2865 | 32 | 290 | 47% | 2896 | 51% |
+|  |  | P1 | 3047 | 37 | 224 | 49% | 3058 | 42% |
+|  |  | T1 | 2939 | 32 | 296 | 53% | 2915 | 41% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2523 | 37 | 232 | 50% | 2526 | 35% |
+|  |  | P1 | 2730 | 35 | 264 | 50% | 2728 | 39% |
+|  |  | T1 | 2566 | 35 | 268 | 51% | 2560 | 30% |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 2.5 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2569 | 33 | 316 | 52% | 2526 | 29% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2499 | 14 | 1812 | 51% | 2488 | 27% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 2228 | 14 | 1898 | 51% | 2214 | 23% |
