@@ -4,21 +4,21 @@ Author: Mattia Giambirtone
 
 Home: https://github.com/nocturn9x/heimdall
 
-## Elo Ratings E1
+## Elo Ratings E1 <sub>(Ultra 7 265T (1.50 GHz) - E-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.4.2 | 2025-09-25 | 3048 | 3376 | 3428 |  |
+| 1.4.2 | 2025-09-25 | 3044 | 3376 | 3430 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings P1
+## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.4.2 | 2025-09-25 | 3294 | 3533 | 3569 |  |
+| 1.4.2 | 2025-09-25 | 3289 | 3526 | 3561 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings T1
+## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -40,23 +40,20 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-13 04:39:17
+Generated: 2026-10-14 04:39:19
 
 
 
 ## Detailed Evaluation Results
 
-| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.4.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3569 | 38 | 194 | 60% | 3426 | 66% |
-| 1.4.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3428 | 38 | 204 | 61% | 3276 | 63% |
-| 1.4.2 | VLTC <sub>(2m24s+1.12s)</sub> | 3434 | 22 | 506 | 51% | 3426 | 70% |
-| 1.4.2 | LTC <sub>(60.0+0.60s)</sub> | 3533 | 40 | 170 | 56% | 3453 | 64% |
-| 1.4.2 | LTC <sub>(60.0+0.60s)</sub> | 3376 | 36 | 232 | 59% | 3200 | 59% |
-| 1.4.2 | LTC <sub>(60.0+0.60s)</sub> | 3378 | 24 | 448 | 51% | 3366 | 70% |
-| 1.4.2 | STC <sub>(8.0+0.08s)</sub> | 3294 | 37 | 204 | 49% | 3309 | 52% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.4.2 | STC <sub>(8.0+0.08s)</sub> | 3048 | 32 | 278 | 47% | 3073 | 49% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.4.2 | STC <sub>(8.0+0.08s)</sub> | 3129 | 21 | 654 | 51% | 3120 | 56% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 1.4.2 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3561 | 38 | 194 | 60% | 3420 | 66% |
+|  |  | E1 | 3430 | 36 | 216 | 60% | 3286 | 63% |
+|  |  | T1 | 3434 | 22 | 506 | 51% | 3426 | 70% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 3376 | 35 | 236 | 59% | 3204 | 59% |
+|  |  | T1 | 3378 | 24 | 448 | 51% | 3366 | 70% |
+|  |  | P1 | 3526 | 40 | 170 | 56% | 3445 | 64% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 3044 | 32 | 286 | 47% | 3074 | 49% |
+|  |  | T1 | 3129 | 21 | 654 | 51% | 3120 | 56% |
+|  |  | P1 | 3289 | 37 | 208 | 49% | 3302 | 52% |
