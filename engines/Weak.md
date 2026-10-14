@@ -4,21 +4,21 @@ Author: Ethan Pan
 
 Home: https://github.com/Dragjon/weak-chess-engine
 
-## Elo Ratings E1
+## Elo Ratings E1 <sub>(Ultra 7 265T (1.50 GHz) - E-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | 2025-08-11 | 2407 | 2805 | 2936 |  |
+| 1.0.0 | 2025-08-11 | 2410 | 2801 | 2938 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings P1
+## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | 2025-08-11 | 2573 | 2934 | 3069 |  |
+| 1.0.0 | 2025-08-11 | 2570 | 2931 | 3066 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings T1
+## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -40,23 +40,20 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-13 04:44:54
+Generated: 2026-10-14 04:44:50
 
 
 
 ## Detailed Evaluation Results
 
-| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3069 | 34 | 264 | 45% | 3113 | 43% |
-| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2936 | 35 | 260 | 49% | 2954 | 39% |
-| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2931 | 25 | 478 | 51% | 2920 | 44% |
-| 1.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2805 | 39 | 230 | 52% | 2759 | 30% |
-| 1.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2884 | 23 | 614 | 51% | 2858 | 37% |
-| 1.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2934 | 46 | 152 | 54% | 2882 | 39% |
-| 1.0.0 | STC <sub>(8.0+0.08s)</sub> | 2407 | 36 | 254 | 44% | 2465 | 33% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | STC <sub>(8.0+0.08s)</sub> | 2542 | 21 | 728 | 50% | 2518 | 33% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | STC <sub>(8.0+0.08s)</sub> | 2573 | 45 | 170 | 50% | 2542 | 26% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3066 | 34 | 268 | 45% | 3109 | 42% |
+|  |  | E1 | 2938 | 35 | 260 | 49% | 2957 | 39% |
+|  |  | T1 | 2931 | 25 | 478 | 51% | 2920 | 44% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 2801 | 37 | 246 | 51% | 2765 | 30% |
+|  |  | T1 | 2884 | 23 | 614 | 51% | 2858 | 37% |
+|  |  | P1 | 2931 | 46 | 152 | 54% | 2880 | 39% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2410 | 36 | 254 | 44% | 2468 | 33% |
+|  |  | T1 | 2542 | 21 | 728 | 50% | 2518 | 33% |
+|  |  | P1 | 2570 | 45 | 170 | 50% | 2539 | 26% |
