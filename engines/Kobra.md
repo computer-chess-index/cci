@@ -4,21 +4,21 @@ Author: Jasper Sinclair
 
 Home: https://github.com/jasper-sinclair/kobra
 
-## Elo Ratings E1
+## Elo Ratings E1 <sub>(Ultra 7 265T (1.50 GHz) - E-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1 | 2026-03-03 | 2620 | 2942 | 3017 |  |
+| 2.1 | 2026-03-03 | 2623 | 2947 | 3017 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings P1
+## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1 | 2026-03-03 | 2743 | 3133 | 3218 |  |
+| 2.1 | 2026-03-03 | 2741 | 3129 | 3209 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings T1
+## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -40,23 +40,20 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-13 04:39:48
+Generated: 2026-10-14 04:39:49
 
 
 
 ## Detailed Evaluation Results
 
-| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3218 | 43 | 156 | 54% | 3187 | 54% |
-| 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3017 | 37 | 216 | 55% | 2975 | 54% |
-| 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3112 | 22 | 560 | 51% | 3105 | 59% |
-| 2.1 | LTC <sub>(60.0+0.60s)</sub> | 3133 | 43 | 156 | 51% | 3132 | 50% |
-| 2.1 | LTC <sub>(60.0+0.60s)</sub> | 2942 | 33 | 262 | 52% | 2897 | 50% |
-| 2.1 | LTC <sub>(60.0+0.60s)</sub> | 3029 | 23 | 526 | 54% | 2997 | 50% |
-| 2.1 | STC <sub>(8.0+0.08s)</sub> | 2743 | 38 | 214 | 48% | 2761 | 36% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.1 | STC <sub>(8.0+0.08s)</sub> | 2620 | 33 | 280 | 47% | 2647 | 40% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.1 | STC <sub>(8.0+0.08s)</sub> | 2718 | 22 | 626 | 54% | 2681 | 38% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3209 | 42 | 160 | 53% | 3182 | 55% |
+|  |  | E1 | 3017 | 36 | 222 | 54% | 2979 | 54% |
+|  |  | T1 | 3112 | 22 | 560 | 51% | 3105 | 59% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 2947 | 33 | 266 | 52% | 2900 | 50% |
+|  |  | T1 | 3029 | 23 | 526 | 54% | 2997 | 50% |
+|  |  | P1 | 3129 | 42 | 160 | 51% | 3128 | 51% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2623 | 33 | 280 | 47% | 2650 | 40% |
+|  |  | T1 | 2718 | 22 | 626 | 54% | 2681 | 38% |
+|  |  | P1 | 2741 | 38 | 214 | 48% | 2757 | 36% |
