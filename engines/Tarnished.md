@@ -4,21 +4,21 @@ Author: Anik Patel
 
 Home: https://github.com/Bobingstern/Tarnished
 
-## Elo Ratings E1
+## Elo Ratings E1 <sub>(Ultra 7 265T (1.50 GHz) - E-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.0 | 2026-06-10 | 3251 | 3538 | 3573 |  |
+| 6.0 | 2026-06-10 | 3251 | 3540 | 3575 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings P1
+## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.0 | 2026-06-10 | 3517 | 3690 | 3735 |  |
+| 6.0 | 2026-06-10 | 3510 | 3683 | 3730 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings T1
+## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -42,7 +42,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-13 04:44:05
+Generated: 2026-10-14 04:44:01
 
 ## Ratings Verlauf T1
 
@@ -62,25 +62,22 @@ xychart-beta
 
 ## Detailed Evaluation Results
 
-| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3735 | 48 | 124 | 65% | 3488 | 67% |
-| 6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3573 | 41 | 164 | 60% | 3416 | 67% |
-| 6.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3571 | 25 | 372 | 51% | 3565 | 87% |
-| 6.0 | LTC <sub>(60.0+0.60s)</sub> | 3690 | 41 | 160 | 59% | 3542 | 72% |
-| 6.0 | LTC <sub>(60.0+0.60s)</sub> | 3538 | 40 | 180 | 60% | 3352 | 65% |
-| 6.0 | LTC <sub>(60.0+0.60s)</sub> | 3545 | 24 | 390 | 49% | 3552 | 86% |
-| 6.0 | STC <sub>(8.0+0.08s)</sub> | 3251 | 30 | 292 | 45% | 3291 | 64% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 6.0 | STC <sub>(8.0+0.08s)</sub> | 3366 | 24 | 444 | 49% | 3372 | 72% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 6.0 | STC <sub>(8.0+0.08s)</sub> | 3517 | 34 | 208 | 50% | 3519 | 74% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 5.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3563 | 23 | 442 | 50% | 3563 | 86% |
-| 5.0 | LTC <sub>(60.0+0.60s)</sub> | 3540 | 23 | 442 | 51% | 3533 | 85% |
-| 5.0 | STC <sub>(8.0+0.08s)</sub> | 3375 | 23 | 474 | 50% | 3374 | 72% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 4.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3492 | 29 | 282 | 51% | 3484 | 78% |
-| 4.0 | LTC <sub>(60.0+0.60s)</sub> | 3445 | 34 | 220 | 51% | 3426 | 75% |
-| 4.0 | STC <sub>(8.0+0.08s)</sub> | 3264 | 29 | 316 | 54% | 3227 | 68% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 6.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3571 | 25 | 372 | 51% | 3565 | 87% |
+|  |  | P1 | 3730 | 48 | 124 | 65% | 3482 | 67% |
+|  |  | E1 | 3575 | 41 | 164 | 60% | 3416 | 67% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 3683 | 41 | 160 | 59% | 3536 | 72% |
+|  |  | E1 | 3540 | 40 | 180 | 60% | 3352 | 65% |
+|  |  | T1 | 3545 | 24 | 390 | 49% | 3552 | 86% |
+|  | STC <sub>(8.0+0.08s)</sub> | P1 | 3510 | 34 | 208 | 50% | 3513 | 74% |
+|  |  | E1 | 3251 | 30 | 292 | 45% | 3293 | 64% |
+|  |  | T1 | 3366 | 24 | 444 | 49% | 3372 | 72% |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 5.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3563 | 23 | 442 | 50% | 3563 | 86% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3540 | 23 | 442 | 51% | 3533 | 85% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 3375 | 23 | 474 | 50% | 3374 | 72% |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 4.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3492 | 29 | 282 | 51% | 3484 | 78% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3445 | 34 | 220 | 51% | 3426 | 75% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 3264 | 29 | 316 | 54% | 3227 | 68% |
