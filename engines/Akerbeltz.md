@@ -4,21 +4,21 @@ Author: Julen Aristondo
 
 Home: https://github.com/neluj/Akerbeltz
 
-## Elo Ratings E1
+## Elo Ratings E1 <sub>(Ultra 7 265T (1.50 GHz) - E-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1.0 | 2026-04-14 | 1836 | 2113 | 2228 |  |
+| 1.1.0 | 2026-04-14 | 1840 | 2115 | 2229 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings P1
+## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1.0 | 2026-04-14 | 1955 | 2252 | 2357 |  |
+| 1.1.0 | 2026-04-14 | 1951 | 2265 | 2356 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings T1
+## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-13 04:35:21
+Generated: 2026-10-14 04:35:19
 
 ## Ratings Verlauf T1
 
@@ -61,21 +61,18 @@ xychart-beta
 
 ## Detailed Evaluation Results
 
-| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2228 | 41 | 216 | 49% | 2252 | 23% |
-| 1.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2310 | 26 | 520 | 51% | 2309 | 21% |
-| 1.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2357 | 46 | 168 | 54% | 2329 | 23% |
-| 1.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2113 | 43 | 216 | 51% | 2122 | 15% |
-| 1.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2202 | 27 | 496 | 48% | 2218 | 23% |
-| 1.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2252 | 53 | 140 | 49% | 2299 | 19% |
-| 1.1.0 | STC <sub>(8.0+0.08s)</sub> | 1836 | 41 | 218 | 48% | 1886 | 24% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.1.0 | STC <sub>(8.0+0.08s)</sub> | 1941 | 25 | 588 | 48% | 1967 | 21% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.1.0 | STC <sub>(8.0+0.08s)</sub> | 1955 | 48 | 162 | 49% | 1979 | 19% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1774 | 41 | 230 | 41% | 1906 | 22% |
-| 1.0.0 | LTC <sub>(60.0+0.60s)</sub> | 1640 | 48 | 164 | 43% | 1733 | 21% |
-| 1.0.0 | STC <sub>(8.0+0.08s)</sub> | 1392 | 45 | 184 | 40% | 1516 | 29% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 1.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 2356 | 46 | 168 | 54% | 2327 | 23% |
+|  |  | E1 | 2229 | 41 | 216 | 49% | 2253 | 23% |
+|  |  | T1 | 2310 | 26 | 520 | 51% | 2309 | 21% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 2265 | 51 | 148 | 50% | 2299 | 18% |
+|  |  | E1 | 2115 | 42 | 220 | 51% | 2124 | 15% |
+|  |  | T1 | 2202 | 27 | 496 | 48% | 2218 | 23% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 1840 | 41 | 218 | 48% | 1890 | 24% |
+|  |  | T1 | 1941 | 25 | 588 | 48% | 1967 | 21% |
+|  |  | P1 | 1951 | 48 | 162 | 49% | 1976 | 19% |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 1774 | 41 | 230 | 41% | 1906 | 22% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 1640 | 48 | 164 | 43% | 1733 | 21% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 1392 | 45 | 184 | 40% | 1516 | 29% |
