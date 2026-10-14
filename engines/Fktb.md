@@ -4,21 +4,21 @@ Author: Landon Peng
 
 Home: https://github.com/lunbun/fktb
 
-## Elo Ratings E1
+## Elo Ratings E1 <sub>(Ultra 7 265T (1.50 GHz) - E-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.0.77 | 2026-01-18 | 1686 | 1951 | 2063 |  |
+| 0.0.77 | 2026-01-18 | 1690 | 1949 | 2064 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings P1
+## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.0.77 | 2026-01-18 | 1878 | 2192 | 2234 |  |
+| 0.0.77 | 2026-01-18 | 1875 | 2182 | 2238 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings T1
+## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-13 04:38:43
+Generated: 2026-10-14 04:38:43
 
 ## Ratings Verlauf T1
 
@@ -61,21 +61,18 @@ xychart-beta
 
 ## Detailed Evaluation Results
 
-| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.0.77 | VLTC <sub>(2m24s+1.12s)</sub> | 2063 | 40 | 226 | 50% | 2078 | 28% |
-| 0.0.77 | VLTC <sub>(2m24s+1.12s)</sub> | 2241 | 24 | 580 | 52% | 2221 | 31% |
-| 0.0.77 | VLTC <sub>(2m24s+1.12s)</sub> | 2234 | 52 | 128 | 47% | 2280 | 33% |
-| 0.0.77 | LTC <sub>(60.0+0.60s)</sub> | 1951 | 41 | 206 | 50% | 1985 | 30% |
-| 0.0.77 | LTC <sub>(60.0+0.60s)</sub> | 2145 | 25 | 536 | 49% | 2153 | 29% |
-| 0.0.77 | LTC <sub>(60.0+0.60s)</sub> | 2192 | 49 | 156 | 41% | 2334 | 28% |
-| 0.0.77 | STC <sub>(8.0+0.08s)</sub> | 1686 | 37 | 242 | 45% | 1727 | 30% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.0.77 | STC <sub>(8.0+0.08s)</sub> | 1866 | 22 | 740 | 50% | 1856 | 27% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.0.77 | STC <sub>(8.0+0.08s)</sub> | 1878 | 46 | 160 | 51% | 1874 | 28% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.0.76 | VLTC <sub>(2m24s+1.12s)</sub> | 2218 | 52 | 132 | 48% | 2245 | 22% |
-| 0.0.76 | LTC <sub>(60.0+0.60s)</sub> | 2142 | 45 | 172 | 49% | 2152 | 23% |
-| 0.0.76 | STC <sub>(8.0+0.08s)</sub> | 1920 | 49 | 140 | 48% | 1939 | 27% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 0.0.77 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 2064 | 39 | 230 | 50% | 2079 | 27% |
+|  |  | T1 | 2241 | 24 | 580 | 52% | 2221 | 31% |
+|  |  | P1 | 2238 | 52 | 128 | 47% | 2284 | 33% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2145 | 25 | 536 | 49% | 2153 | 29% |
+|  |  | P1 | 2182 | 48 | 160 | 40% | 2331 | 28% |
+|  |  | E1 | 1949 | 41 | 214 | 50% | 1987 | 29% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 1866 | 22 | 740 | 50% | 1856 | 27% |
+|  |  | P1 | 1875 | 45 | 168 | 51% | 1871 | 27% |
+|  |  | E1 | 1690 | 37 | 242 | 45% | 1732 | 30% |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 0.0.76 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2218 | 52 | 132 | 48% | 2245 | 22% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2142 | 45 | 172 | 49% | 2152 | 23% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 1920 | 49 | 140 | 48% | 1939 | 27% |
