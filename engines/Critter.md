@@ -4,21 +4,21 @@ Author: Richard Vida
 
 Home: 
 
-## Elo Ratings E1
+## Elo Ratings E1 <sub>(Ultra 7 265T (1.50 GHz) - E-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings P1
+## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings T1
+## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -40,19 +40,16 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-13 04:37:45
+Generated: 2026-10-14 04:37:45
 
 
 
 ## Detailed Evaluation Results
 
-| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.6a | VLTC <sub>(2m24s+1.12s)</sub> | 2672 | 34 | 300 | 44% | 2732 | 27% |
-| 1.6a | LTC <sub>(60.0+0.60s)</sub> | 2608 | 36 | 268 | 49% | 2607 | 26% |
-| 1.6a | STC <sub>(8.0+0.08s)</sub> | 1698 | 44 | 288 | 31% | 2001 | 13% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.6a | STC <sub>(8.0+0.08s)</sub> | 1843 | 46 | 248 | 34% | 2094 | 8% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.6a | STC <sub>(8.0+0.08s)</sub> | 2495 | 13 | 2251 | 55% | 2446 | 20% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 1.6a | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2672 | 34 | 300 | 44% | 2732 | 27% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2608 | 36 | 268 | 49% | 2607 | 26% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 2495 | 13 | 2251 | 55% | 2446 | 20% |
+|  |  | E1 | 1702 | 44 | 288 | 31% | 2005 | 13% |
+|  |  | P1 | 1832 | 46 | 252 | 33% | 2088 | 9% |
