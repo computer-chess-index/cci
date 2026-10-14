@@ -4,21 +4,21 @@ Author: James Swafford
 
 Home: https://github.com/jswaff/prophet
 
-## Elo Ratings E1
+## Elo Ratings E1 <sub>(Ultra 7 265T (1.50 GHz) - E-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 5.2 | 2026-05-16 | 1994 | 2368 | 2377 |  |
+| 5.2 | 2026-05-16 | 1995 | 2371 | 2380 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings P1
+## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 5.2 | 2026-05-16 | 2174 | 2403 | 2589 |  |
+| 5.2 | 2026-05-16 | 2176 | 2399 | 2587 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings T1
+## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-13 04:41:52
+Generated: 2026-10-14 04:41:50
 
 ## Ratings Verlauf T1
 
@@ -61,21 +61,18 @@ xychart-beta
 
 ## Detailed Evaluation Results
 
-| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 5.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2377 | 43 | 180 | 49% | 2402 | 33% |
-| 5.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2506 | 28 | 438 | 49% | 2516 | 26% |
-| 5.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2589 | 48 | 170 | 54% | 2530 | 19% |
-| 5.2 | LTC <sub>(60.0+0.60s)</sub> | 2368 | 37 | 236 | 47% | 2395 | 34% |
-| 5.2 | LTC <sub>(60.0+0.60s)</sub> | 2392 | 28 | 432 | 49% | 2402 | 29% |
-| 5.2 | LTC <sub>(60.0+0.60s)</sub> | 2403 | 39 | 248 | 58% | 2256 | 25% |
-| 5.2 | STC <sub>(8.0+0.08s)</sub> | 2132 | 30 | 404 | 52% | 2113 | 22% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 5.2 | STC <sub>(8.0+0.08s)</sub> | 2174 | 45 | 172 | 50% | 2206 | 25% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 5.2 | STC <sub>(8.0+0.08s)</sub> | 1994 | 38 | 244 | 47% | 2033 | 23% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 5.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2506 | 30 | 380 | 48% | 2537 | 26% |
-| 5.1 | LTC <sub>(60.0+0.60s)</sub> | 2430 | 28 | 416 | 49% | 2445 | 30% |
-| 5.1 | STC <sub>(8.0+0.08s)</sub> | 2171 | 27 | 482 | 51% | 2165 | 28% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 5.2 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2506 | 28 | 438 | 49% | 2516 | 26% |
+|  |  | P1 | 2587 | 48 | 170 | 54% | 2529 | 19% |
+|  |  | E1 | 2380 | 43 | 180 | 49% | 2403 | 33% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2392 | 28 | 432 | 49% | 2402 | 29% |
+|  |  | P1 | 2399 | 39 | 248 | 58% | 2253 | 25% |
+|  |  | E1 | 2371 | 37 | 236 | 47% | 2398 | 34% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 2132 | 30 | 404 | 52% | 2113 | 22% |
+|  |  | P1 | 2176 | 46 | 172 | 50% | 2209 | 25% |
+|  |  | E1 | 1995 | 38 | 244 | 47% | 2036 | 23% |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 5.1 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2506 | 30 | 380 | 48% | 2537 | 26% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2430 | 28 | 416 | 49% | 2445 | 30% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 2171 | 27 | 482 | 51% | 2165 | 28% |
