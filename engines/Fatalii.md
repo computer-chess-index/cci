@@ -4,21 +4,21 @@ Author: Patrick Heck
 
 Home: https://github.com/FitzOReilly/fatalii
 
-## Elo Ratings E1
+## Elo Ratings E1 <sub>(Ultra 7 265T (1.50 GHz) - E-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.10.1 | 2026-05-11 | 2105 | 2394 | 2553 |  |
+| 0.10.1 | 2026-05-11 | 2113 | 2396 | 2556 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings P1
+## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.10.1 | 2026-05-11 | 2299 | 2630 | 2695 |  |
+| 0.10.1 | 2026-05-11 | 2298 | 2627 | 2691 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings T1
+## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-13 04:38:38
+Generated: 2026-10-14 04:38:37
 
 ## Ratings Verlauf T1
 
@@ -61,21 +61,18 @@ xychart-beta
 
 ## Detailed Evaluation Results
 
-| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.10.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2553 | 43 | 208 | 53% | 2481 | 22% |
-| 0.10.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2610 | 26 | 490 | 50% | 2610 | 27% |
-| 0.10.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2695 | 46 | 164 | 53% | 2662 | 26% |
-| 0.10.1 | LTC <sub>(60.0+0.60s)</sub> | 2394 | 38 | 248 | 57% | 2311 | 25% |
-| 0.10.1 | LTC <sub>(60.0+0.60s)</sub> | 2520 | 27 | 448 | 50% | 2523 | 31% |
-| 0.10.1 | LTC <sub>(60.0+0.60s)</sub> | 2630 | 51 | 148 | 49% | 2677 | 25% |
-| 0.10.1 | STC <sub>(8.0+0.08s)</sub> | 2105 | 37 | 252 | 47% | 2133 | 24% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.10.1 | STC <sub>(8.0+0.08s)</sub> | 2284 | 28 | 438 | 49% | 2294 | 27% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.10.1 | STC <sub>(8.0+0.08s)</sub> | 2299 | 45 | 176 | 48% | 2325 | 24% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.10.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2611 | 29 | 424 | 48% | 2635 | 25% |
-| 0.10.0 | LTC <sub>(60.0+0.60s)</sub> | 2547 | 28 | 454 | 51% | 2543 | 25% |
-| 0.10.0 | STC <sub>(8.0+0.08s)</sub> | 2282 | 27 | 464 | 52% | 2257 | 25% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 0.10.1 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 2691 | 46 | 164 | 53% | 2660 | 26% |
+|  |  | E1 | 2556 | 43 | 208 | 53% | 2485 | 22% |
+|  |  | T1 | 2610 | 26 | 490 | 50% | 2610 | 27% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 2627 | 50 | 152 | 49% | 2673 | 26% |
+|  |  | E1 | 2396 | 38 | 248 | 57% | 2314 | 25% |
+|  |  | T1 | 2520 | 27 | 448 | 50% | 2523 | 31% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2113 | 37 | 256 | 48% | 2134 | 24% |
+|  |  | T1 | 2284 | 28 | 438 | 49% | 2294 | 27% |
+|  |  | P1 | 2298 | 45 | 176 | 48% | 2323 | 24% |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 0.10.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2611 | 29 | 424 | 48% | 2635 | 25% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2547 | 28 | 454 | 51% | 2543 | 25% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 2282 | 27 | 464 | 52% | 2257 | 25% |
