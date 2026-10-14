@@ -4,21 +4,21 @@ Author: Gisi Alex
 
 Home: https://github.com/AlexGisi/prometheus-chess
 
-## Elo Ratings E1
+## Elo Ratings E1 <sub>(Ultra 7 265T (1.50 GHz) - E-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.2.1 | 2025-08-18 | 1304 | 1428 | 1469 |  |
+| 0.2.1 | 2025-08-18 | 1307 | 1431 | 1472 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings P1
+## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.2.1 | 2025-08-18 | 1381 | 1573 | 1677 |  |
+| 0.2.1 | 2025-08-18 | 1380 | 1574 | 1675 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings T1
+## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -40,23 +40,20 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-13 04:41:50
+Generated: 2026-10-14 04:41:47
 
 
 
 ## Detailed Evaluation Results
 
-| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 1677 | 53 | 136 | 45% | 1764 | 15% |
-| 0.2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 1469 | 44 | 218 | 42% | 1636 | 14% |
-| 0.2.1 | VLTC <sub>(2m24s+1.12s)</sub> | 1551 | 25 | 608 | 43% | 1655 | 19% |
-| 0.2.1 | LTC <sub>(60.0+0.60s)</sub> | 1573 | 52 | 130 | 47% | 1602 | 21% |
-| 0.2.1 | LTC <sub>(60.0+0.60s)</sub> | 1428 | 41 | 240 | 45% | 1528 | 10% |
-| 0.2.1 | LTC <sub>(60.0+0.60s)</sub> | 1532 | 26 | 566 | 48% | 1575 | 18% |
-| 0.2.1 | STC <sub>(8.0+0.08s)</sub> | 1381 | 49 | 156 | 46% | 1436 | 15% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.2.1 | STC <sub>(8.0+0.08s)</sub> | 1304 | 44 | 180 | 47% | 1337 | 21% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.2.1 | STC <sub>(8.0+0.08s)</sub> | 1393 | 27 | 572 | 51% | 1382 | 18% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 0.2.1 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 1675 | 52 | 144 | 45% | 1759 | 15% |
+|  |  | E1 | 1472 | 44 | 218 | 42% | 1639 | 14% |
+|  |  | T1 | 1551 | 25 | 608 | 43% | 1655 | 19% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 1574 | 52 | 130 | 47% | 1604 | 21% |
+|  |  | E1 | 1431 | 41 | 240 | 45% | 1531 | 10% |
+|  |  | T1 | 1532 | 26 | 566 | 48% | 1575 | 18% |
+|  | STC <sub>(8.0+0.08s)</sub> | P1 | 1380 | 49 | 156 | 46% | 1435 | 15% |
+|  |  | E1 | 1307 | 44 | 180 | 47% | 1339 | 21% |
+|  |  | T1 | 1393 | 27 | 572 | 51% | 1382 | 18% |
