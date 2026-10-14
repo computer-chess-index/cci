@@ -4,21 +4,21 @@ Author: Langedijk Eric
 
 Home: https://github.com/ericlangedijk/chessnix/
 
-## Elo Ratings E1
+## Elo Ratings E1 <sub>(Ultra 7 265T (1.50 GHz) - E-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings P1
+## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings T1
+## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -43,7 +43,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-13 04:37:18
+Generated: 2026-10-14 04:37:18
 
 ## Ratings Verlauf T1
 
@@ -63,21 +63,20 @@ xychart-beta
 
 ## Detailed Evaluation Results
 
-| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.4 | VLTC <sub>(2m24s+1.12s)</sub> | 3241 | 41 | 160 | 53% | 3221 | 56% |
-| 1.4 | LTC <sub>(60.0+0.60s)</sub> | 3148 | 43 | 164 | 51% | 3139 | 43% |
-| 1.4 | STC <sub>(8.0+0.08s)</sub> | 2885 | 44 | 156 | 49% | 2896 | 40% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.3 | VLTC <sub>(2m24s+1.12s)</sub> | 3174 | 100 | 26 | 56% | 3132 | 58% |
-| 1.3 | LTC <sub>(60.0+0.60s)</sub> | 3075 | 75 | 52 | 46% | 3100 | 46% |
-| 1.3 | STC <sub>(8.0+0.08s)</sub> | 2870 | 123 | 22 | 52% | 2847 | 23% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.2 | VLTC <sub>(2m24s+1.12s)</sub> | 2948 | 158 | 12 | 46% | 2986 | 25% |
-| 1.2 | LTC <sub>(60.0+0.60s)</sub> | 2781 | 79 | 52 | 52% | 2763 | 31% |
-| 1.2 | STC <sub>(8.0+0.08s)</sub> | 2615 | 150 | 16 | 63% | 2495 | 13% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2685 | 101 | 32 | 33% | 2828 | 41% |
-| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2610 | 146 | 16 | 41% | 2695 | 19% |
-| 1.0 | STC <sub>(8.0+0.08s)</sub> | 2330 | 71 | 70 | 41% | 2406 | 23% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 1.4 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3241 | 41 | 160 | 53% | 3221 | 56% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3148 | 43 | 164 | 51% | 3139 | 43% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 2885 | 44 | 156 | 49% | 2896 | 40% |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 1.3 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3174 | 100 | 26 | 56% | 3132 | 58% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3075 | 75 | 52 | 46% | 3100 | 46% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 2870 | 123 | 22 | 52% | 2847 | 23% |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 1.2 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2948 | 158 | 12 | 46% | 2986 | 25% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2781 | 79 | 52 | 52% | 2763 | 31% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 2615 | 150 | 16 | 63% | 2495 | 13% |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2685 | 101 | 32 | 33% | 2828 | 41% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2610 | 146 | 16 | 41% | 2695 | 19% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 2330 | 71 | 70 | 41% | 2406 | 23% |
