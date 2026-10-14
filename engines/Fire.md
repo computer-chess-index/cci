@@ -4,21 +4,21 @@ Author: Norman Schmidt
 
 Home: https://github.com/Firefather/fire
 
-## Elo Ratings E1
+## Elo Ratings E1 <sub>(Ultra 7 265T (1.50 GHz) - E-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 10.0 | 2025-08-09 | 3073 | 3321 | 3416 |  |
+| 10.0 | 2025-08-09 | 3073 | 3321 | 3414 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings P1
+## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 10.0 | 2025-08-09 | 3308 | 3528 | 3563 |  |
+| 10.0 | 2025-08-09 | 3302 | 3521 | 3556 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings T1
+## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-13 04:38:40
+Generated: 2026-10-14 04:38:40
 
 ## Ratings Verlauf T1
 
@@ -61,21 +61,18 @@ xychart-beta
 
 ## Detailed Evaluation Results
 
-| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 10.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3416 | 36 | 192 | 51% | 3413 | 71% |
-| 10.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3563 | 42 | 144 | 47% | 3584 | 69% |
-| 10.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3440 | 18 | 736 | 49% | 3444 | 75% |
-| 10.0 | LTC <sub>(60.0+0.60s)</sub> | 3394 | 18 | 748 | 50% | 3393 | 71% |
-| 10.0 | LTC <sub>(60.0+0.60s)</sub> | 3321 | 32 | 264 | 55% | 3276 | 66% |
-| 10.0 | LTC <sub>(60.0+0.60s)</sub> | 3528 | 31 | 268 | 52% | 3514 | 67% |
-| 10.0 | STC <sub>(8.0+0.08s)</sub> | 3156 | 17 | 948 | 51% | 3148 | 60% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 10.0 | STC <sub>(8.0+0.08s)</sub> | 3073 | 33 | 262 | 48% | 3089 | 52% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 10.0 | STC <sub>(8.0+0.08s)</sub> | 3308 | 37 | 198 | 50% | 3306 | 54% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 9.3 | VLTC <sub>(2m24s+1.12s)</sub> | 3438 | 13 | 1520 | 49% | 3440 | 75% |
-| 9.3 | LTC <sub>(60.0+0.60s)</sub> | 3384 | 13 | 1496 | 50% | 3384 | 73% |
-| 9.3 | STC <sub>(8.0+0.08s)</sub> | 3156 | 14 | 1428 | 51% | 3133 | 57% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 10.0 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 3414 | 36 | 196 | 50% | 3413 | 71% |
+|  |  | P1 | 3556 | 42 | 144 | 47% | 3578 | 69% |
+|  |  | T1 | 3440 | 18 | 736 | 49% | 3444 | 75% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3394 | 18 | 748 | 50% | 3393 | 71% |
+|  |  | E1 | 3321 | 32 | 264 | 55% | 3276 | 66% |
+|  |  | P1 | 3521 | 31 | 268 | 52% | 3507 | 67% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 3156 | 17 | 948 | 51% | 3148 | 60% |
+|  |  | E1 | 3073 | 32 | 270 | 48% | 3090 | 52% |
+|  |  | P1 | 3302 | 37 | 198 | 50% | 3299 | 54% |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 9.3 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3438 | 13 | 1520 | 49% | 3440 | 75% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3384 | 13 | 1496 | 50% | 3384 | 73% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 3156 | 14 | 1428 | 51% | 3133 | 57% |
