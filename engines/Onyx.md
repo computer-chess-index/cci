@@ -4,21 +4,21 @@ Author: Dylan Hogarth
 
 Home: https://github.com/dylan2554/onyx
 
-## Elo Ratings E1
+## Elo Ratings E1 <sub>(Ultra 7 265T (1.50 GHz) - E-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0 | 2026-07-12 | 2781 | 3092 | 3177 |  |
+| 2.0 | 2026-07-12 | 2781 | 3092 | 3178 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings P1
+## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0 | 2026-07-12 | 3017 | 3254 | 3356 |  |
+| 2.0 | 2026-07-12 | 3013 | 3251 | 3349 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings T1
+## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-13 04:41:12
+Generated: 2026-10-14 04:41:13
 
 ## Ratings Verlauf T1
 
@@ -61,21 +61,18 @@ xychart-beta
 
 ## Detailed Evaluation Results
 
-| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3177 | 31 | 300 | 49% | 3187 | 52% |
-| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3233 | 28 | 342 | 50% | 3235 | 58% |
-| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3356 | 36 | 214 | 49% | 3363 | 57% |
-| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 3092 | 32 | 284 | 48% | 3109 | 49% |
-| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 3166 | 29 | 346 | 50% | 3164 | 51% |
-| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 3254 | 36 | 224 | 46% | 3287 | 49% |
-| 2.0 | STC <sub>(8.0+0.08s)</sub> | 2897 | 29 | 370 | 49% | 2904 | 40% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.0 | STC <sub>(8.0+0.08s)</sub> | 3017 | 37 | 220 | 52% | 3001 | 39% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.0 | STC <sub>(8.0+0.08s)</sub> | 2781 | 30 | 338 | 46% | 2820 | 40% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.6 | VLTC <sub>(2m24s+1.12s)</sub> | 3029 | 32 | 296 | 48% | 3044 | 40% |
-| 1.6 | LTC <sub>(60.0+0.60s)</sub> | 2942 | 34 | 264 | 46% | 2973 | 41% |
-| 1.6 | STC <sub>(8.0+0.08s)</sub> | 2635 | 34 | 276 | 50% | 2641 | 33% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 3178 | 31 | 300 | 49% | 3187 | 52% |
+|  |  | T1 | 3233 | 28 | 342 | 50% | 3235 | 58% |
+|  |  | P1 | 3349 | 36 | 214 | 49% | 3356 | 57% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 3092 | 31 | 300 | 48% | 3109 | 49% |
+|  |  | T1 | 3166 | 29 | 346 | 50% | 3164 | 51% |
+|  |  | P1 | 3251 | 35 | 228 | 46% | 3281 | 49% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 2897 | 29 | 370 | 49% | 2904 | 40% |
+|  |  | P1 | 3013 | 37 | 220 | 52% | 2997 | 39% |
+|  |  | E1 | 2781 | 30 | 342 | 45% | 2822 | 40% |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 1.6 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3029 | 32 | 296 | 48% | 3044 | 40% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2942 | 34 | 264 | 46% | 2973 | 41% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 2635 | 34 | 276 | 50% | 2641 | 33% |
