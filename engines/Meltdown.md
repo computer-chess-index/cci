@@ -4,21 +4,21 @@ Author: Hans Binderup, Clara Shepherd
 
 Home: https://github.com/hansbinderup/meltdown-chess-engine
 
-## Elo Ratings E1
+## Elo Ratings E1 <sub>(Ultra 7 265T (1.50 GHz) - E-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.11 | 2025-11-15 | 2615 | 2838 | 2892 |  |
+| 1.11 | 2025-11-15 | 2622 | 2840 | 2894 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings P1
+## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.11 | 2025-11-15 | 2714 | 2957 | 3008 |  |
+| 1.11 | 2025-11-15 | 2709 | 2954 | 3005 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings T1
+## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -40,23 +40,20 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-13 04:40:32
+Generated: 2026-10-14 04:40:35
 
 
 
 ## Detailed Evaluation Results
 
-| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.11 | VLTC <sub>(2m24s+1.12s)</sub> | 3008 | 42 | 188 | 49% | 3013 | 33% |
-| 1.11 | VLTC <sub>(2m24s+1.12s)</sub> | 2892 | 38 | 226 | 54% | 2846 | 35% |
-| 1.11 | VLTC <sub>(2m24s+1.12s)</sub> | 2925 | 23 | 562 | 49% | 2931 | 40% |
-| 1.11 | LTC <sub>(60.0+0.60s)</sub> | 2957 | 37 | 234 | 46% | 2989 | 37% |
-| 1.11 | LTC <sub>(60.0+0.60s)</sub> | 2838 | 38 | 256 | 59% | 2647 | 32% |
-| 1.11 | LTC <sub>(60.0+0.60s)</sub> | 2884 | 23 | 610 | 52% | 2865 | 38% |
-| 1.11 | STC <sub>(8.0+0.08s)</sub> | 2615 | 35 | 268 | 49% | 2630 | 34% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.11 | STC <sub>(8.0+0.08s)</sub> | 2680 | 20 | 840 | 50% | 2668 | 35% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.11 | STC <sub>(8.0+0.08s)</sub> | 2714 | 39 | 204 | 47% | 2743 | 37% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 1.11 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3005 | 42 | 188 | 49% | 3012 | 33% |
+|  |  | E1 | 2894 | 38 | 226 | 54% | 2849 | 35% |
+|  |  | T1 | 2925 | 23 | 562 | 49% | 2931 | 40% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 2954 | 37 | 234 | 46% | 2985 | 37% |
+|  |  | E1 | 2840 | 38 | 256 | 59% | 2650 | 32% |
+|  |  | T1 | 2884 | 23 | 610 | 52% | 2865 | 38% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2622 | 34 | 272 | 50% | 2633 | 35% |
+|  |  | T1 | 2680 | 20 | 840 | 50% | 2668 | 35% |
+|  |  | P1 | 2709 | 38 | 212 | 47% | 2738 | 37% |
