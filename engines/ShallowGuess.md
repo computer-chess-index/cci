@@ -4,21 +4,21 @@ Author: Zixiao Han
 
 Home: https://github.com/buildingwheels/ShallowGuess
 
-## Elo Ratings E1
+## Elo Ratings E1 <sub>(Ultra 7 265T (1.50 GHz) - E-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings P1
+## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings T1
+## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-13 04:43:23
+Generated: 2026-10-14 04:43:19
 
 ## Ratings Verlauf T1
 
@@ -61,13 +61,12 @@ xychart-beta
 
 ## Detailed Evaluation Results
 
-| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2917 | 55 | 98 | 54% | 2889 | 42% |
-| 1.1.0 | LTC <sub>(60.0+0.60s)</sub> | 2728 | 56 | 92 | 51% | 2718 | 48% |
-| 1.1.0 | STC <sub>(8.0+0.08s)</sub> | 2296 | 66 | 80 | 53% | 2271 | 21% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2750 | 33 | 284 | 49% | 2766 | 40% |
-| 1.0.0 | LTC <sub>(60.0+0.60s)</sub> | 2666 | 34 | 286 | 51% | 2666 | 35% |
-| 1.0.0 | STC <sub>(8.0+0.08s)</sub> | 2334 | 35 | 290 | 48% | 2361 | 25% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 1.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2917 | 55 | 98 | 54% | 2889 | 42% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2728 | 56 | 92 | 51% | 2718 | 48% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 2296 | 66 | 80 | 53% | 2271 | 21% |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2750 | 33 | 284 | 49% | 2766 | 40% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2666 | 34 | 286 | 51% | 2666 | 35% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 2334 | 35 | 290 | 48% | 2361 | 25% |
