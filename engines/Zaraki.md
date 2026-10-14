@@ -4,21 +4,21 @@ Author: Timo Jokinen
 
 Home: https://github.com/timojokinen/zaraki-zig
 
-## Elo Ratings E1
+## Elo Ratings E1 <sub>(Ultra 7 265T (1.50 GHz) - E-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.0.1 | 2026-07-02 | 1881 | 2118 | 2218 |  |
+| 0.0.1 | 2026-07-02 | 1885 | 2120 | 2222 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings P1
+## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.0.1 | 2026-07-02 | 1989 | 2267 | 2367 |  |
+| 0.0.1 | 2026-07-02 | 1987 | 2268 | 2365 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings T1
+## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -40,23 +40,20 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-13 04:45:11
+Generated: 2026-10-14 04:45:06
 
 
 
 ## Detailed Evaluation Results
 
-| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2367 | 45 | 148 | 51% | 2369 | 43% |
-| 0.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2218 | 42 | 180 | 54% | 2174 | 40% |
-| 0.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2354 | 33 | 292 | 44% | 2426 | 41% |
-| 0.0.1 | LTC <sub>(60.0+0.60s)</sub> | 2118 | 39 | 226 | 52% | 2136 | 34% |
-| 0.0.1 | LTC <sub>(60.0+0.60s)</sub> | 2272 | 36 | 256 | 45% | 2344 | 37% |
-| 0.0.1 | LTC <sub>(60.0+0.60s)</sub> | 2267 | 52 | 130 | 50% | 2310 | 33% |
-| 0.0.1 | STC <sub>(8.0+0.08s)</sub> | 1881 | 36 | 248 | 45% | 1932 | 39% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.0.1 | STC <sub>(8.0+0.08s)</sub> | 2055 | 29 | 400 | 43% | 2128 | 35% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.0.1 | STC <sub>(8.0+0.08s)</sub> | 1989 | 38 | 216 | 48% | 2013 | 38% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 0.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 2222 | 42 | 180 | 54% | 2176 | 40% |
+|  |  | T1 | 2354 | 33 | 292 | 44% | 2426 | 41% |
+|  |  | P1 | 2365 | 45 | 148 | 51% | 2368 | 43% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 2120 | 39 | 230 | 52% | 2137 | 34% |
+|  |  | T1 | 2272 | 36 | 256 | 45% | 2344 | 37% |
+|  |  | P1 | 2268 | 52 | 130 | 50% | 2310 | 33% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 2055 | 29 | 400 | 43% | 2128 | 35% |
+|  |  | P1 | 1987 | 38 | 216 | 48% | 2012 | 38% |
+|  |  | E1 | 1885 | 36 | 248 | 45% | 1936 | 39% |
