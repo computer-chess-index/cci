@@ -4,21 +4,21 @@ Author: Robert Houdart
 
 Home: https://github.com/crossopterygian/Houdini_6
 
-## Elo Ratings E1
+## Elo Ratings E1 <sub>(Ultra 7 265T (1.50 GHz) - E-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings P1
+## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings T1
+## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -40,19 +40,16 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-13 04:39:28
+Generated: 2026-10-14 04:39:30
 
 
 
 ## Detailed Evaluation Results
 
-| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.5a | VLTC <sub>(2m24s+1.12s)</sub> | 2610 | 33 | 364 | 45% | 2688 | 18% |
-| 1.5a | LTC <sub>(60.0+0.60s)</sub> | 2562 | 36 | 292 | 56% | 2496 | 18% |
-| 1.5a | STC <sub>(8.0+0.08s)</sub> | 1883 | 52 | 194 | 35% | 2106 | 11% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.5a | STC <sub>(8.0+0.08s)</sub> | 2483 | 13 | 2150 | 54% | 2448 | 16% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.5a | STC <sub>(8.0+0.08s)</sub> | 1659 | 47 | 248 | 28% | 2001 | 16% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 1.5a | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2610 | 33 | 364 | 45% | 2688 | 18% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2562 | 36 | 292 | 56% | 2496 | 18% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 1663 | 47 | 248 | 28% | 2003 | 16% |
+|  |  | P1 | 1883 | 51 | 198 | 36% | 2098 | 12% |
+|  |  | T1 | 2483 | 13 | 2150 | 54% | 2448 | 16% |
