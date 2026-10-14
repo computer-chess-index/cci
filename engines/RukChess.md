@@ -4,21 +4,21 @@ Author: Ilya Rukavishnikov
 
 Home: https://github.com/Ilya-Ruk/RukChess
 
-## Elo Ratings E1
+## Elo Ratings E1 <sub>(Ultra 7 265T (1.50 GHz) - E-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.2.0 | 2026-01-11 | 2724 | 3039 | 3139 |  |
+| 4.2.0 | 2026-01-11 | 2723 | 3042 | 3141 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings P1
+## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.2.0 | 2026-01-11 | 2936 | 3291 | 3366 |  |
+| 4.2.0 | 2026-01-11 | 2932 | 3289 | 3357 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings T1
+## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -40,23 +40,20 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-13 04:43:04
+Generated: 2026-10-14 04:43:00
 
 
 
 ## Detailed Evaluation Results
 
-| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 4.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3366 | 41 | 180 | 54% | 3302 | 51% |
-| 4.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3139 | 40 | 208 | 57% | 2996 | 42% |
-| 4.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3206 | 23 | 540 | 50% | 3197 | 51% |
-| 4.2.0 | LTC <sub>(60.0+0.60s)</sub> | 3291 | 42 | 182 | 55% | 3201 | 42% |
-| 4.2.0 | LTC <sub>(60.0+0.60s)</sub> | 3039 | 36 | 256 | 59% | 2923 | 40% |
-| 4.2.0 | LTC <sub>(60.0+0.60s)</sub> | 3139 | 23 | 536 | 51% | 3131 | 51% |
-| 4.2.0 | STC <sub>(8.0+0.08s)</sub> | 2936 | 34 | 260 | 48% | 2961 | 47% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 4.2.0 | STC <sub>(8.0+0.08s)</sub> | 2724 | 33 | 286 | 48% | 2745 | 35% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 4.2.0 | STC <sub>(8.0+0.08s)</sub> | 2826 | 21 | 714 | 51% | 2815 | 34% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 4.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3357 | 41 | 180 | 54% | 3294 | 51% |
+|  |  | E1 | 3141 | 39 | 216 | 57% | 3002 | 43% |
+|  |  | T1 | 3206 | 23 | 540 | 50% | 3197 | 51% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 3042 | 33 | 292 | 57% | 2940 | 40% |
+|  |  | T1 | 3139 | 23 | 536 | 51% | 3131 | 51% |
+|  |  | P1 | 3289 | 41 | 190 | 56% | 3201 | 42% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2723 | 33 | 290 | 47% | 2747 | 35% |
+|  |  | T1 | 2826 | 21 | 714 | 51% | 2815 | 34% |
+|  |  | P1 | 2932 | 33 | 268 | 48% | 2957 | 46% |
