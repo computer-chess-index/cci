@@ -4,21 +4,21 @@ Author: Patrick Hilhorst
 
 Home: https://github.com/Synthetica9/lunar
 
-## Elo Ratings E1
+## Elo Ratings E1 <sub>(Ultra 7 265T (1.50 GHz) - E-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings P1
+## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings T1
+## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -40,15 +40,14 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-13 04:40:20
+Generated: 2026-10-14 04:40:22
 
 
 
 ## Detailed Evaluation Results
 
-| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.4.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3376 | 47 | 116 | 53% | 3349 | 67% |
-| 0.4.0 | LTC <sub>(60.0+0.60s)</sub> | 3236 | 59 | 78 | 53% | 3198 | 58% |
-| 0.4.0 | STC <sub>(8.0+0.08s)</sub> | 2840 | 143 | 18 | 64% | 2689 | 17% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 0.4.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3376 | 47 | 116 | 53% | 3349 | 67% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3236 | 59 | 78 | 53% | 3198 | 58% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 2840 | 143 | 18 | 64% | 2689 | 17% |
