@@ -4,21 +4,21 @@ Author: James Coit
 
 Home: https://github.com/Moxnar/FunComp
 
-## Elo Ratings E1
+## Elo Ratings E1 <sub>(Ultra 7 265T (1.50 GHz) - E-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0 | 2026-10-03 | 2692 | 3071 | 3119 |  |
+| 2.0 | 2026-10-03 | 2693 | 3087 | 3119 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings P1
+## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0 | 2026-10-03 | 2834 | 3117 | 3332 |  |
+| 2.0 | 2026-10-03 | 2874 | 3156 | 3302 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings T1
+## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -40,23 +40,21 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-13 04:38:51
+Generated: 2026-10-14 04:38:51
 
 
 
 ## Detailed Evaluation Results
 
-| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3119 | 53 | 124 | 57% | 2989 | 35% |
-| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3332 | 67 | 80 | 69% | 3074 | 41% |
-| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 3071 | 59 | 106 | 60% | 2840 | 32% |
-| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 3117 | 82 | 76 | 80% | 2556 | 25% |
-| 2.0 | STC <sub>(8.0+0.08s)</sub> | 2834 | 68 | 76 | 51% | 2776 | 29% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.0 | STC <sub>(8.0+0.08s)</sub> | 2692 | 46 | 180 | 63% | 2466 | 28% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2966 | 38 | 230 | 54% | 2924 | 36% |
-| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2809 | 41 | 204 | 57% | 2719 | 34% |
-| 1.0 | STC <sub>(8.0+0.08s)</sub> | 2576 | 43 | 196 | 56% | 2510 | 25% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3302 | 59 | 96 | 64% | 3109 | 45% |
+|  |  | E1 | 3119 | 51 | 128 | 57% | 2994 | 38% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 3087 | 48 | 144 | 59% | 2907 | 38% |
+|  |  | P1 | 3156 | 66 | 100 | 76% | 2692 | 31% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2693 | 42 | 206 | 62% | 2498 | 29% |
+|  |  | P1 | 2874 | 60 | 96 | 55% | 2789 | 27% |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2966 | 38 | 230 | 54% | 2924 | 36% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2809 | 41 | 204 | 57% | 2719 | 34% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 2576 | 43 | 196 | 56% | 2510 | 25% |
