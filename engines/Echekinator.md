@@ -4,21 +4,21 @@ Author: Timothee Fixy
 
 Home: https://github.com/Tym972/Echekinator
 
-## Elo Ratings E1
+## Elo Ratings E1 <sub>(Ultra 7 265T (1.50 GHz) - E-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2025-11-25 | 1674 | 1959 | 1991 |  |
+| 1.0 | 2025-11-25 | 1685 | 1962 | 1994 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings P1
+## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2025-11-25 | 1829 | 1990 | 2114 |  |
+| 1.0 | 2025-11-25 | 1828 | 1987 | 2113 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings T1
+## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-13 04:38:10
+Generated: 2026-10-14 04:38:11
 
 ## Ratings Verlauf T1
 
@@ -61,21 +61,18 @@ xychart-beta
 
 ## Detailed Evaluation Results
 
-| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2418 | 43 | 188 | 53% | 2383 | 27% |
-| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 2331 | 42 | 194 | 51% | 2321 | 28% |
-| 1.1 | STC <sub>(8.0+0.08s)</sub> | 2098 | 37 | 268 | 49% | 2109 | 21% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2114 | 51 | 156 | 54% | 2061 | 15% |
-| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1991 | 42 | 208 | 45% | 2090 | 24% |
-| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2156 | 26 | 544 | 47% | 2196 | 24% |
-| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 1990 | 46 | 164 | 49% | 2012 | 25% |
-| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 1959 | 40 | 228 | 45% | 2039 | 23% |
-| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2061 | 23 | 684 | 51% | 2049 | 24% |
-| 1.0 | STC <sub>(8.0+0.08s)</sub> | 1829 | 40 | 216 | 50% | 1828 | 23% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0 | STC <sub>(8.0+0.08s)</sub> | 1674 | 43 | 196 | 49% | 1683 | 20% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0 | STC <sub>(8.0+0.08s)</sub> | 1774 | 22 | 796 | 48% | 1790 | 18% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2418 | 43 | 188 | 53% | 2383 | 27% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2331 | 42 | 194 | 51% | 2321 | 28% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 2098 | 37 | 268 | 49% | 2109 | 21% |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 2113 | 51 | 156 | 54% | 2060 | 15% |
+|  |  | E1 | 1994 | 42 | 208 | 45% | 2093 | 24% |
+|  |  | T1 | 2156 | 26 | 544 | 47% | 2196 | 24% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 1987 | 46 | 164 | 49% | 2010 | 25% |
+|  |  | E1 | 1962 | 40 | 228 | 45% | 2041 | 23% |
+|  |  | T1 | 2061 | 23 | 684 | 51% | 2049 | 24% |
+|  | STC <sub>(8.0+0.08s)</sub> | P1 | 1828 | 40 | 216 | 50% | 1827 | 23% |
+|  |  | E1 | 1685 | 42 | 204 | 50% | 1686 | 20% |
+|  |  | T1 | 1774 | 22 | 796 | 48% | 1790 | 18% |
