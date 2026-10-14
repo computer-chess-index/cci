@@ -4,21 +4,21 @@ Author: Vladimir Medvedev
 
 Home: 
 
-## Elo Ratings E1
+## Elo Ratings E1 <sub>(Ultra 7 265T (1.50 GHz) - E-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings P1
+## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings T1
+## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -40,21 +40,18 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-13 04:39:06
+Generated: 2026-10-14 04:39:08
 
 
 
 ## Detailed Evaluation Results
 
-| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021.12 | VLTC <sub>(2m24s+1.12s)</sub> | 2747 | 38 | 248 | 50% | 2763 | 27% |
-| 2021.12 | LTC <sub>(60.0+0.60s)</sub> | 2552 | 38 | 248 | 52% | 2514 | 27% |
-| 2021.12 | LTC <sub>(60.0+0.60s)</sub> | 2592 | 13 | 1876 | 50% | 2591 | 31% |
-| 2021.12 | LTC <sub>(60.0+0.60s)</sub> | 2699 | 44 | 192 | 55% | 2610 | 23% |
-| 2021.12 | STC <sub>(8.0+0.08s)</sub> | 2226 | 40 | 208 | 50% | 2229 | 28% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021.12 | STC <sub>(8.0+0.08s)</sub> | 2338 | 13 | 2152 | 49% | 2354 | 25% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021.12 | STC <sub>(8.0+0.08s)</sub> | 2323 | 48 | 148 | 48% | 2345 | 25% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 2021.12 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2747 | 38 | 248 | 50% | 2763 | 27% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 2556 | 38 | 248 | 52% | 2518 | 27% |
+|  |  | T1 | 2592 | 13 | 1876 | 50% | 2591 | 31% |
+|  |  | P1 | 2695 | 44 | 196 | 55% | 2608 | 23% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2229 | 40 | 208 | 50% | 2230 | 28% |
+|  |  | T1 | 2338 | 13 | 2152 | 49% | 2354 | 25% |
+|  |  | P1 | 2319 | 47 | 152 | 48% | 2341 | 26% |
