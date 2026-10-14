@@ -4,21 +4,21 @@ Author:
 
 Home: https://github.com/silentshark-uk/rexigon
 
-## Elo Ratings E1
+## Elo Ratings E1 <sub>(Ultra 7 265T (1.50 GHz) - E-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2025-11-30 | 1889 | 2174 | 2329 |  |
+| 1.0 | 2025-11-30 | 1893 | 2175 | 2331 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings P1
+## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2025-11-30 | 2028 | 2311 | 2425 |  |
+| 1.0 | 2025-11-30 | 2026 | 2300 | 2427 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings T1
+## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -40,23 +40,20 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-13 04:42:41
+Generated: 2026-10-14 04:42:36
 
 
 
 ## Detailed Evaluation Results
 
-| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2425 | 50 | 156 | 54% | 2391 | 17% |
-| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2329 | 44 | 200 | 49% | 2356 | 17% |
-| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2444 | 26 | 562 | 50% | 2445 | 18% |
-| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2311 | 53 | 136 | 50% | 2326 | 14% |
-| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2174 | 42 | 220 | 53% | 2136 | 16% |
-| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2321 | 25 | 572 | 50% | 2321 | 17% |
-| 1.0 | STC <sub>(8.0+0.08s)</sub> | 2028 | 44 | 194 | 49% | 2039 | 15% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0 | STC <sub>(8.0+0.08s)</sub> | 1889 | 41 | 218 | 46% | 1932 | 17% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0 | STC <sub>(8.0+0.08s)</sub> | 2059 | 23 | 752 | 51% | 2041 | 12% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 2427 | 50 | 160 | 54% | 2388 | 17% |
+|  |  | E1 | 2331 | 44 | 200 | 49% | 2358 | 17% |
+|  |  | T1 | 2444 | 26 | 562 | 50% | 2445 | 18% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 2300 | 53 | 140 | 49% | 2322 | 14% |
+|  |  | E1 | 2175 | 42 | 220 | 53% | 2138 | 16% |
+|  |  | T1 | 2321 | 25 | 572 | 50% | 2321 | 17% |
+|  | STC <sub>(8.0+0.08s)</sub> | P1 | 2026 | 44 | 194 | 49% | 2039 | 15% |
+|  |  | E1 | 1893 | 41 | 220 | 46% | 1935 | 17% |
+|  |  | T1 | 2059 | 23 | 752 | 51% | 2041 | 12% |
