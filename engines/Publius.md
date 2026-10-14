@@ -4,21 +4,21 @@ Author: Pawel Koziol
 
 Home: https://github.com/nescitus/publius
 
-## Elo Ratings E1
+## Elo Ratings E1 <sub>(Ultra 7 265T (1.50 GHz) - E-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1 | 2025-12-31 | 2375 | 2660 | 2781 |  |
+| 1.1 | 2025-12-31 | 2377 | 2666 | 2790 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings P1
+## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1 | 2025-12-31 | 2484 | 2839 | 2896 |  |
+| 1.1 | 2025-12-31 | 2481 | 2838 | 2896 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings T1
+## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-13 04:41:58
+Generated: 2026-10-14 04:41:55
 
 ## Ratings Verlauf T1
 
@@ -61,21 +61,18 @@ xychart-beta
 
 ## Detailed Evaluation Results
 
-| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2781 | 35 | 272 | 51% | 2749 | 33% |
-| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2830 | 24 | 560 | 48% | 2851 | 36% |
-| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2896 | 50 | 144 | 52% | 2854 | 28% |
-| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 2660 | 37 | 254 | 55% | 2561 | 34% |
-| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 2758 | 25 | 522 | 50% | 2761 | 35% |
-| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 2839 | 47 | 152 | 48% | 2865 | 32% |
-| 1.1 | STC <sub>(8.0+0.08s)</sub> | 2473 | 22 | 694 | 49% | 2472 | 29% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.1 | STC <sub>(8.0+0.08s)</sub> | 2484 | 43 | 184 | 46% | 2522 | 34% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.1 | STC <sub>(8.0+0.08s)</sub> | 2375 | 37 | 264 | 51% | 2365 | 21% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3143 | 34 | 232 | 49% | 3154 | 57% |
-| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 3117 | 34 | 248 | 52% | 3090 | 55% |
-| 1.0 | STC <sub>(8.0+0.08s)</sub> | 2843 | 36 | 232 | 53% | 2809 | 41% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 2790 | 35 | 280 | 52% | 2751 | 33% |
+|  |  | T1 | 2830 | 24 | 560 | 48% | 2851 | 36% |
+|  |  | P1 | 2896 | 49 | 148 | 52% | 2851 | 28% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 2666 | 36 | 268 | 55% | 2570 | 35% |
+|  |  | T1 | 2758 | 25 | 522 | 50% | 2761 | 35% |
+|  |  | P1 | 2838 | 46 | 156 | 49% | 2859 | 33% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 2473 | 22 | 694 | 49% | 2472 | 29% |
+|  |  | P1 | 2481 | 43 | 184 | 46% | 2519 | 34% |
+|  |  | E1 | 2377 | 37 | 264 | 51% | 2368 | 21% |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3143 | 34 | 232 | 49% | 3154 | 57% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3117 | 34 | 248 | 52% | 3090 | 55% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 2843 | 36 | 232 | 53% | 2809 | 41% |
