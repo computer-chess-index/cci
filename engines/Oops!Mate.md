@@ -4,21 +4,21 @@ Author: Swoyam Pokharel
 
 Home: https://github.com/PS-Wizard/OopsMate
 
-## Elo Ratings E1
+## Elo Ratings E1 <sub>(Ultra 7 265T (1.50 GHz) - E-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0 | 2026-01-30 | 1179 | 1391 | 1366 |  |
+| 2.0 | 2026-01-30 | 1181 | 1389 | 1369 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings P1
+## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0 | 2026-01-30 | 1223 | 1458 | 1566 |  |
+| 2.0 | 2026-01-30 | 1220 | 1457 | 1575 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings T1
+## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-13 04:41:14
+Generated: 2026-10-14 04:41:15
 
 ## Ratings Verlauf T1
 
@@ -61,21 +61,18 @@ xychart-beta
 
 ## Detailed Evaluation Results
 
-| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1366 | 49 | 144 | 44% | 1469 | 27% |
-| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1499 | 27 | 468 | 54% | 1459 | 30% |
-| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 1566 | 52 | 118 | 50% | 1563 | 35% |
-| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 1391 | 48 | 156 | 48% | 1463 | 28% |
-| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 1459 | 27 | 508 | 51% | 1445 | 28% |
-| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 1458 | 54 | 110 | 48% | 1519 | 33% |
-| 2.0 | STC <sub>(8.0+0.08s)</sub> | 1278 | 26 | 576 | 56% | 1170 | 28% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.0 | STC <sub>(8.0+0.08s)</sub> | 1223 | 48 | 134 | 48% | 1245 | 36% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.0 | STC <sub>(8.0+0.08s)</sub> | 1179 | 43 | 186 | 48% | 1218 | 27% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.0.4 | VLTC <sub>(2m24s+1.12s)</sub> | 1416 | 43 | 190 | 42% | 1561 | 34% |
-| 0.0.4 | LTC <sub>(60.0+0.60s)</sub> | 1366 | 41 | 200 | 45% | 1455 | 32% |
-| 0.0.4 | STC <sub>(8.0+0.08s)</sub> | 1141 | 43 | 198 | 43% | 1239 | 26% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 1499 | 27 | 468 | 54% | 1459 | 30% |
+|  |  | P1 | 1575 | 51 | 126 | 51% | 1567 | 34% |
+|  |  | E1 | 1369 | 49 | 144 | 44% | 1472 | 27% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 1459 | 27 | 508 | 51% | 1445 | 28% |
+|  |  | P1 | 1457 | 54 | 110 | 48% | 1517 | 33% |
+|  |  | E1 | 1389 | 47 | 160 | 48% | 1465 | 29% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 1278 | 26 | 576 | 56% | 1170 | 28% |
+|  |  | P1 | 1220 | 48 | 134 | 48% | 1242 | 36% |
+|  |  | E1 | 1181 | 43 | 186 | 48% | 1220 | 27% |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 0.0.4 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 1416 | 43 | 190 | 42% | 1561 | 34% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 1366 | 41 | 200 | 45% | 1455 | 32% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 1141 | 43 | 198 | 43% | 1239 | 26% |
