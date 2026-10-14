@@ -4,21 +4,21 @@ Author: Deshawn Mohan-Smith
 
 Home: https://github.com/GoldenRare/Revolver
 
-## Elo Ratings E1
+## Elo Ratings E1 <sub>(Ultra 7 265T (1.50 GHz) - E-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0 | 2026-05-01 | 2395 | 2708 | 2790 |  |
+| 2.0 | 2026-05-01 | 2398 | 2711 | 2785 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings P1
+## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0 | 2026-05-01 | 2543 | 2835 | 2958 |  |
+| 2.0 | 2026-05-01 | 2539 | 2830 | 2954 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings T1
+## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-13 04:42:38
+Generated: 2026-10-14 04:42:33
 
 ## Ratings Verlauf T1
 
@@ -61,21 +61,18 @@ xychart-beta
 
 ## Detailed Evaluation Results
 
-| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2790 | 38 | 226 | 52% | 2757 | 37% |
-| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2836 | 25 | 508 | 52% | 2819 | 39% |
-| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2958 | 44 | 160 | 54% | 2905 | 41% |
-| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 2708 | 37 | 250 | 52% | 2682 | 30% |
-| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 2784 | 25 | 510 | 51% | 2774 | 38% |
-| 2.0 | LTC <sub>(60.0+0.60s)</sub> | 2835 | 45 | 168 | 52% | 2788 | 32% |
-| 2.0 | STC <sub>(8.0+0.08s)</sub> | 2395 | 33 | 314 | 49% | 2392 | 28% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.0 | STC <sub>(8.0+0.08s)</sub> | 2530 | 26 | 512 | 51% | 2526 | 29% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.0 | STC <sub>(8.0+0.08s)</sub> | 2543 | 42 | 190 | 46% | 2584 | 32% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2570 | 27 | 450 | 46% | 2611 | 32% |
-| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 2508 | 29 | 408 | 49% | 2519 | 25% |
-| 1.0 | STC <sub>(8.0+0.08s)</sub> | 2264 | 26 | 516 | 51% | 2252 | 29% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 2954 | 44 | 160 | 54% | 2903 | 41% |
+|  |  | E1 | 2785 | 37 | 238 | 51% | 2759 | 37% |
+|  |  | T1 | 2836 | 25 | 508 | 52% | 2819 | 39% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 2830 | 43 | 180 | 52% | 2788 | 33% |
+|  |  | E1 | 2711 | 37 | 250 | 52% | 2685 | 30% |
+|  |  | T1 | 2784 | 25 | 510 | 51% | 2774 | 38% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2398 | 33 | 314 | 49% | 2395 | 28% |
+|  |  | T1 | 2530 | 26 | 512 | 51% | 2526 | 29% |
+|  |  | P1 | 2539 | 42 | 190 | 46% | 2581 | 32% |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2570 | 27 | 450 | 46% | 2611 | 32% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2508 | 29 | 408 | 49% | 2519 | 25% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 2264 | 26 | 516 | 51% | 2252 | 29% |
