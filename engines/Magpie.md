@@ -4,21 +4,21 @@ Author: George Bland
 
 Home: https://github.com/mrgwbland/Magpie
 
-## Elo Ratings E1
+## Elo Ratings E1 <sub>(Ultra 7 265T (1.50 GHz) - E-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.3 | 2026-08-12 | 608 | 606 | 579 |  |
+| 0.3 | 2026-08-12 | 609 | 606 | 579 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings P1
+## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.3 | 2026-08-12 | 536 | 583 | 500 |  |
+| 0.3 | 2026-08-12 | 539 | 586 | 506 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings T1
+## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-13 04:40:27
+Generated: 2026-10-14 04:40:29
 
 ## Ratings Verlauf T1
 
@@ -61,21 +61,18 @@ xychart-beta
 
 ## Detailed Evaluation Results
 
-| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.3 | VLTC <sub>(2m24s+1.12s)</sub> | 579 | 54 | 132 | 56% | 547 | 23% |
-| 0.3 | VLTC <sub>(2m24s+1.12s)</sub> | 581 | 43 | 208 | 50% | 587 | 22% |
-| 0.3 | VLTC <sub>(2m24s+1.12s)</sub> | 500 | 66 | 106 | 39% | 855 | 22% |
-| 0.3 | LTC <sub>(60.0+0.60s)</sub> | 606 | 51 | 136 | 58% | 522 | 32% |
-| 0.3 | LTC <sub>(60.0+0.60s)</sub> | 586 | 44 | 204 | 50% | 576 | 25% |
-| 0.3 | LTC <sub>(60.0+0.60s)</sub> | 583 | 62 | 96 | 53% | 684 | 32% |
-| 0.3 | STC <sub>(8.0+0.08s)</sub> | 589 | 44 | 220 | 47% | 648 | 16% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.3 | STC <sub>(8.0+0.08s)</sub> | 536 | 65 | 88 | 47% | 709 | 25% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.3 | STC <sub>(8.0+0.08s)</sub> | 608 | 53 | 140 | 55% | 562 | 16% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.2 | VLTC <sub>(2m24s+1.12s)</sub> | 450 | 45 | 208 | 35% | 687 | 35% |
-| 0.2 | LTC <sub>(60.0+0.60s)</sub> | 440 | 46 | 192 | 36% | 645 | 38% |
-| 0.2 | STC <sub>(8.0+0.08s)</sub> | 423 | 46 | 188 | 37% | 598 | 35% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 0.3 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 581 | 43 | 208 | 50% | 587 | 22% |
+|  |  | P1 | 506 | 67 | 106 | 39% | 884 | 22% |
+|  |  | E1 | 579 | 54 | 132 | 56% | 547 | 23% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 586 | 44 | 204 | 50% | 576 | 25% |
+|  |  | P1 | 586 | 62 | 96 | 53% | 687 | 32% |
+|  |  | E1 | 606 | 51 | 136 | 58% | 522 | 32% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 589 | 44 | 220 | 47% | 648 | 16% |
+|  |  | P1 | 539 | 65 | 88 | 47% | 711 | 25% |
+|  |  | E1 | 609 | 53 | 140 | 55% | 562 | 16% |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 0.2 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 450 | 45 | 208 | 35% | 687 | 35% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 440 | 46 | 192 | 36% | 645 | 38% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 423 | 46 | 188 | 37% | 598 | 35% |
