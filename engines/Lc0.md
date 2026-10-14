@@ -4,21 +4,21 @@ Author: https://lczero.org/
 
 Home: https://github.com/LeelaChessZero/lc0
 
-## Elo Ratings E1
+## Elo Ratings E1 <sub>(Ultra 7 265T (1.50 GHz) - E-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.32.1 | 2025-11-23 | 2016 | 2723 | 2947 |  |
+| 0.32.1 | 2025-11-23 | 2018 | 2726 | 2951 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings P1
+## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.32.1 | 2025-11-23 | 2265 | 3046 | 3243 |  |
+| 0.32.1 | 2025-11-23 | 2263 | 3042 | 3236 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings T1
+## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-13 04:40:06
+Generated: 2026-10-14 04:40:08
 
 ## Ratings Verlauf T1
 
@@ -61,21 +61,18 @@ xychart-beta
 
 ## Detailed Evaluation Results
 
-| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.32.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3178 | 22 | 556 | 48% | 3193 | 53% |
-| 0.32.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3243 | 43 | 160 | 58% | 3154 | 53% |
-| 0.32.1 | VLTC <sub>(2m24s+1.12s)</sub> | 2947 | 32 | 308 | 57% | 2867 | 42% |
-| 0.32.1 | LTC <sub>(60.0+0.60s)</sub> | 3015 | 23 | 574 | 49% | 3024 | 46% |
-| 0.32.1 | LTC <sub>(60.0+0.60s)</sub> | 3046 | 41 | 192 | 49% | 3051 | 38% |
-| 0.32.1 | LTC <sub>(60.0+0.60s)</sub> | 2723 | 39 | 224 | 54% | 2655 | 35% |
-| 0.32.1 | STC <sub>(8.0+0.08s)</sub> | 2408 | 21 | 814 | 49% | 2415 | 24% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.32.1 | STC <sub>(8.0+0.08s)</sub> | 2265 | 41 | 196 | 40% | 2357 | 35% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.32.1 | STC <sub>(8.0+0.08s)</sub> | 2016 | 36 | 296 | 37% | 2147 | 22% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.29.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3240 | 28 | 356 | 50% | 3239 | 54% |
-| 0.29.0 | LTC <sub>(60.0+0.60s)</sub> | 3004 | 30 | 328 | 48% | 3019 | 47% |
-| 0.29.0 | STC <sub>(8.0+0.08s)</sub> | 2384 | 32 | 400 | 42% | 2498 | 19% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 0.32.1 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3178 | 22 | 556 | 48% | 3193 | 53% |
+|  |  | P1 | 3236 | 43 | 160 | 58% | 3148 | 53% |
+|  |  | E1 | 2951 | 32 | 312 | 58% | 2871 | 42% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3015 | 23 | 574 | 49% | 3024 | 46% |
+|  |  | P1 | 3042 | 41 | 192 | 49% | 3047 | 38% |
+|  |  | E1 | 2726 | 39 | 232 | 54% | 2660 | 35% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 2408 | 21 | 814 | 49% | 2415 | 24% |
+|  |  | P1 | 2263 | 41 | 200 | 40% | 2353 | 35% |
+|  |  | E1 | 2018 | 36 | 296 | 37% | 2149 | 22% |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 0.29.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3240 | 28 | 356 | 50% | 3239 | 54% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3004 | 30 | 328 | 48% | 3019 | 47% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 2384 | 32 | 400 | 42% | 2498 | 19% |
