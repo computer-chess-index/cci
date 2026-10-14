@@ -4,21 +4,21 @@ Author: Liam McGuire
 
 Home: https://github.com/liamt19/Horsie
 
-## Elo Ratings E1
+## Elo Ratings E1 <sub>(Ultra 7 265T (1.50 GHz) - E-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1 | 2025-05-13 | 3278 | 3522 | 3556 |  |
+| 1.1 | 2025-05-13 | 3275 | 3521 | 3557 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings P1
+## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1 | 2025-05-13 | 3510 | 3681 | 3735 |  |
+| 1.1 | 2025-05-13 | 3506 | 3675 | 3729 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings T1
+## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-13 04:39:25
+Generated: 2026-10-14 04:39:27
 
 ## Ratings Verlauf T1
 
@@ -61,21 +61,18 @@ xychart-beta
 
 ## Detailed Evaluation Results
 
-| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3544 | 16 | 946 | 50% | 3541 | 87% |
-| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3735 | 44 | 116 | 49% | 3744 | 87% |
-| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | 3556 | 37 | 168 | 51% | 3545 | 85% |
-| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 3681 | 46 | 108 | 49% | 3690 | 82% |
-| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 3522 | 40 | 148 | 54% | 3495 | 82% |
-| 1.1 | LTC <sub>(60.0+0.60s)</sub> | 3513 | 16 | 950 | 51% | 3509 | 83% |
-| 1.1 | STC <sub>(8.0+0.08s)</sub> | 3510 | 38 | 172 | 50% | 3511 | 69% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.1 | STC <sub>(8.0+0.08s)</sub> | 3278 | 31 | 278 | 46% | 3302 | 65% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.1 | STC <sub>(8.0+0.08s)</sub> | 3363 | 15 | 1098 | 50% | 3364 | 69% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3548 | 28 | 304 | 49% | 3553 | 86% |
-| 1.0 | LTC <sub>(60.0+0.60s)</sub> | 3498 | 26 | 348 | 51% | 3490 | 85% |
-| 1.0 | STC <sub>(8.0+0.08s)</sub> | 3348 | 29 | 292 | 49% | 3352 | 75% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 1.1 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3544 | 16 | 946 | 50% | 3541 | 87% |
+|  |  | P1 | 3729 | 44 | 116 | 49% | 3737 | 87% |
+|  |  | E1 | 3557 | 37 | 168 | 51% | 3546 | 85% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 3675 | 45 | 112 | 49% | 3683 | 83% |
+|  |  | E1 | 3521 | 39 | 152 | 54% | 3497 | 82% |
+|  |  | T1 | 3513 | 16 | 950 | 51% | 3509 | 83% |
+|  | STC <sub>(8.0+0.08s)</sub> | P1 | 3506 | 38 | 176 | 50% | 3505 | 69% |
+|  |  | E1 | 3275 | 30 | 282 | 46% | 3302 | 65% |
+|  |  | T1 | 3363 | 15 | 1098 | 50% | 3364 | 69% |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3548 | 28 | 304 | 49% | 3553 | 86% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3498 | 26 | 348 | 51% | 3490 | 85% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 3348 | 29 | 292 | 49% | 3352 | 75% |
