@@ -4,21 +4,21 @@ Author: Mikko Aarnos
 
 Home: https://github.com/mAarnos/Hakkapeliitta
 
-## Elo Ratings E1
+## Elo Ratings E1 <sub>(Ultra 7 265T (1.50 GHz) - E-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings P1
+## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings T1
+## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -40,21 +40,18 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-13 04:39:12
+Generated: 2026-10-14 04:39:13
 
 
 
 ## Detailed Evaluation Results
 
-| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2908 | 39 | 208 | 53% | 2880 | 37% |
-| 3.0 | LTC <sub>(60.0+0.60s)</sub> | 2800 | 13 | 1892 | 48% | 2820 | 33% |
-| 3.0 | LTC <sub>(60.0+0.60s)</sub> | 2723 | 41 | 208 | 53% | 2684 | 29% |
-| 3.0 | LTC <sub>(60.0+0.60s)</sub> | 2862 | 46 | 176 | 58% | 2773 | 27% |
-| 3.0 | STC <sub>(8.0+0.08s)</sub> | 2531 | 13 | 2008 | 52% | 2512 | 25% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.0 | STC <sub>(8.0+0.08s)</sub> | 2400 | 36 | 260 | 48% | 2417 | 30% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.0 | STC <sub>(8.0+0.08s)</sub> | 2581 | 45 | 166 | 50% | 2580 | 25% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2908 | 39 | 208 | 53% | 2880 | 37% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2800 | 13 | 1892 | 48% | 2820 | 33% |
+|  |  | E1 | 2726 | 41 | 208 | 53% | 2687 | 29% |
+|  |  | P1 | 2857 | 45 | 180 | 58% | 2770 | 28% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 2531 | 13 | 2008 | 52% | 2512 | 25% |
+|  |  | E1 | 2403 | 36 | 260 | 48% | 2421 | 30% |
+|  |  | P1 | 2577 | 45 | 166 | 50% | 2576 | 25% |
