@@ -4,21 +4,21 @@ Author: Winston Cai
 
 Home: https://github.com/kjljixx/Aurora-Chess-Engine
 
-## Elo Ratings E1
+## Elo Ratings E1 <sub>(Ultra 7 265T (1.50 GHz) - E-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.27.0timehotfix | 2026-05-28 | 2271 | 2597 | 2600 |  |
+| 1.27.0timehotfix | 2026-05-28 | 2273 | 2604 | 2606 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings P1
+## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.27.0timehotfix | 2026-05-28 | 2414 | 2583 | 2707 |  |
+| 1.27.0timehotfix | 2026-05-28 | 2403 | 2580 | 2704 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings T1
+## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-13 04:36:14
+Generated: 2026-10-14 04:36:16
 
 ## Ratings Verlauf T1
 
@@ -61,21 +61,18 @@ xychart-beta
 
 ## Detailed Evaluation Results
 
-| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.28.0 | VLTC <sub>(2m24s+1.12s)</sub> | 2865 | 41 | 188 | 54% | 2824 | 37% |
-| 1.28.0 | LTC <sub>(60.0+0.60s)</sub> | 2789 | 34 | 280 | 56% | 2738 | 38% |
-| 1.28.0 | STC <sub>(8.0+0.08s)</sub> | 2438 | 39 | 234 | 49% | 2452 | 23% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.27.0timehotfix | VLTC <sub>(2m24s+1.12s)</sub> | 2707 | 34 | 284 | 42% | 2785 | 37% |
-| 1.27.0timehotfix | VLTC <sub>(2m24s+1.12s)</sub> | 2600 | 38 | 228 | 46% | 2638 | 34% |
-| 1.27.0timehotfix | VLTC <sub>(2m24s+1.12s)</sub> | 2627 | 28 | 408 | 48% | 2642 | 32% |
-| 1.27.0timehotfix | LTC <sub>(60.0+0.60s)</sub> | 2583 | 43 | 198 | 55% | 2538 | 24% |
-| 1.27.0timehotfix | LTC <sub>(60.0+0.60s)</sub> | 2597 | 39 | 222 | 55% | 2507 | 32% |
-| 1.27.0timehotfix | LTC <sub>(60.0+0.60s)</sub> | 2601 | 28 | 434 | 51% | 2593 | 29% |
-| 1.27.0timehotfix | STC <sub>(8.0+0.08s)</sub> | 2271 | 41 | 212 | 49% | 2279 | 21% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.27.0timehotfix | STC <sub>(8.0+0.08s)</sub> | 2368 | 28 | 448 | 49% | 2381 | 22% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.27.0timehotfix | STC <sub>(8.0+0.08s)</sub> | 2414 | 44 | 184 | 45% | 2473 | 24% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 1.28.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2865 | 41 | 188 | 54% | 2824 | 37% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2789 | 34 | 280 | 56% | 2738 | 38% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 2438 | 39 | 234 | 49% | 2452 | 23% |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 1.27.0timehotfix | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 2606 | 37 | 232 | 47% | 2641 | 34% |
+|  |  | T1 | 2627 | 28 | 408 | 48% | 2642 | 32% |
+|  |  | P1 | 2704 | 34 | 288 | 43% | 2781 | 36% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 2604 | 39 | 226 | 56% | 2511 | 32% |
+|  |  | T1 | 2601 | 28 | 434 | 51% | 2593 | 29% |
+|  |  | P1 | 2580 | 43 | 198 | 55% | 2535 | 24% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2273 | 41 | 212 | 49% | 2280 | 21% |
+|  |  | T1 | 2368 | 28 | 448 | 49% | 2381 | 22% |
+|  |  | P1 | 2403 | 44 | 192 | 45% | 2466 | 24% |
