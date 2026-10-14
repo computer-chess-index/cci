@@ -4,21 +4,21 @@ Author: Guido Flohr
 
 Home: https://github.com/gflohr/Chess-Plisco
 
-## Elo Ratings E1
+## Elo Ratings E1 <sub>(Ultra 7 265T (1.50 GHz) - E-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings P1
+## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings T1
+## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -40,17 +40,16 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-13 04:41:35
+Generated: 2026-10-14 04:41:34
 
 
 
 ## Detailed Evaluation Results
 
-| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0.2 | STC <sub>(8.0+0.08s)</sub> | 1021 | 348 | 4 | 0% | 1463 | 0% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | 1841 | 343 | 8 | 0% | 2508 | 0% |
-| 1.0.1 | LTC <sub>(60.0+0.60s)</sub> | 1926 | 347 | 4 | 0% | 2369 | 0% |
-| 1.0.1 | STC <sub>(8.0+0.08s)</sub> | 1477 | 234 | 14 | 7% | 2213 | 14% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 1.0.2 | STC <sub>(8.0+0.08s)</sub> | T1 | 1021 | 348 | 4 | 0% | 1463 | 0% |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 1.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 1841 | 343 | 8 | 0% | 2508 | 0% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 1926 | 347 | 4 | 0% | 2369 | 0% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 1477 | 234 | 14 | 7% | 2213 | 14% |
