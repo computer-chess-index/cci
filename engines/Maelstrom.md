@@ -4,21 +4,21 @@ Author: Saigautam Bonam
 
 Home: https://github.com/saisree27/Maelstrom
 
-## Elo Ratings E1
+## Elo Ratings E1 <sub>(Ultra 7 265T (1.50 GHz) - E-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.3.0 | 2025-08-27 | 2642 | 3058 | 3112 |  |
+| 3.3.0 | 2025-08-27 | 2645 | 3058 | 3113 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings P1
+## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.3.0 | 2025-08-27 | 2855 | 3181 | 3345 |  |
+| 3.3.0 | 2025-08-27 | 2850 | 3177 | 3339 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings T1
+## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -40,23 +40,20 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-13 04:40:25
+Generated: 2026-10-14 04:40:27
 
 
 
 ## Detailed Evaluation Results
 
-| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3345 | 42 | 156 | 52% | 3318 | 60% |
-| 3.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3112 | 35 | 264 | 59% | 2952 | 46% |
-| 3.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | 3177 | 23 | 496 | 49% | 3185 | 63% |
-| 3.3.0 | LTC <sub>(60.0+0.60s)</sub> | 3181 | 40 | 192 | 55% | 3097 | 47% |
-| 3.3.0 | LTC <sub>(60.0+0.60s)</sub> | 3058 | 34 | 252 | 53% | 3002 | 51% |
-| 3.3.0 | LTC <sub>(60.0+0.60s)</sub> | 3073 | 23 | 538 | 51% | 3058 | 54% |
-| 3.3.0 | STC <sub>(8.0+0.08s)</sub> | 2855 | 39 | 208 | 51% | 2842 | 36% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.3.0 | STC <sub>(8.0+0.08s)</sub> | 2642 | 33 | 292 | 46% | 2687 | 34% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.3.0 | STC <sub>(8.0+0.08s)</sub> | 2742 | 22 | 658 | 50% | 2732 | 36% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 3.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3339 | 41 | 160 | 52% | 3312 | 59% |
+|  |  | E1 | 3113 | 35 | 264 | 59% | 2954 | 46% |
+|  |  | T1 | 3177 | 23 | 496 | 49% | 3185 | 63% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 3177 | 40 | 192 | 55% | 3093 | 47% |
+|  |  | E1 | 3058 | 34 | 252 | 53% | 3004 | 51% |
+|  |  | T1 | 3073 | 23 | 538 | 51% | 3058 | 54% |
+|  | STC <sub>(8.0+0.08s)</sub> | P1 | 2850 | 38 | 212 | 51% | 2839 | 37% |
+|  |  | E1 | 2645 | 33 | 292 | 46% | 2688 | 34% |
+|  |  | T1 | 2742 | 22 | 658 | 50% | 2732 | 36% |
