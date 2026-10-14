@@ -4,21 +4,21 @@ Author: Ivan Maklyakov
 
 Home: 
 
-## Elo Ratings E1
+## Elo Ratings E1 <sub>(Ultra 7 265T (1.50 GHz) - E-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.41a | 2024-05-04 |  | 3402 | 3488 |  |
+| 3.41a | 2024-05-04 |  | 3406 | 3492 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings P1
+## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.41a | 2024-05-04 |  | 3586 | 3654 |  |
+| 3.41a | 2024-05-04 |  | 3578 | 3646 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings T1
+## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -40,19 +40,18 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-13 04:44:32
+Generated: 2026-10-14 04:44:27
 
 
 
 ## Detailed Evaluation Results
 
-| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.41a | VLTC <sub>(2m24s+1.12s)</sub> | 3488 | 40 | 150 | 48% | 3501 | 75% |
-| 3.41a | VLTC <sub>(2m24s+1.12s)</sub> | 3497 | 11 | 2076 | 49% | 3501 | 83% |
-| 3.41a | VLTC <sub>(2m24s+1.12s)</sub> | 3654 | 41 | 142 | 50% | 3650 | 78% |
-| 3.41a | LTC <sub>(60.0+0.60s)</sub> | 3586 | 41 | 140 | 49% | 3595 | 81% |
-| 3.41a | LTC <sub>(60.0+0.60s)</sub> | 3453 | 11 | 2008 | 50% | 3453 | 81% |
-| 3.41a | LTC <sub>(60.0+0.60s)</sub> | 3402 | 39 | 166 | 51% | 3397 | 73% |
-| 3.41a | STC <sub>(8.0+0.08s)</sub> | 3224 | 32 | 312 | 57% | 3083 | 50% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 3.41a | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 3492 | 39 | 158 | 49% | 3501 | 76% |
+|  |  | T1 | 3497 | 11 | 2076 | 49% | 3501 | 83% |
+|  |  | P1 | 3646 | 41 | 142 | 50% | 3644 | 78% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 3578 | 41 | 140 | 49% | 3588 | 81% |
+|  |  | T1 | 3453 | 11 | 2008 | 50% | 3453 | 81% |
+|  |  | E1 | 3406 | 37 | 178 | 51% | 3397 | 72% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 3224 | 32 | 312 | 57% | 3083 | 50% |
