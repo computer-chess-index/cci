@@ -4,21 +4,21 @@ Author: Jakob Steininger
 
 Home: https://github.com/Jakob256/PurplePanda
 
-## Elo Ratings E1
+## Elo Ratings E1 <sub>(Ultra 7 265T (1.50 GHz) - E-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 21 | 2026-07-12 | 1561 | 1885 | 1993 |  |
+| 21 | 2026-07-12 | 1563 | 1889 | 1995 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings P1
+## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 21 | 2026-07-12 | 1689 | 1987 | 2087 |  |
+| 21 | 2026-07-12 | 1681 | 1985 | 2086 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-## Elo Ratings T1
+## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-13 04:42:01
+Generated: 2026-10-14 04:41:58
 
 ## Ratings Verlauf T1
 
@@ -61,21 +61,18 @@ xychart-beta
 
 ## Detailed Evaluation Results
 
-| Version | Time Control | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 21 | VLTC <sub>(2m24s+1.12s)</sub> | 1993 | 41 | 230 | 49% | 2010 | 14% |
-| 21 | VLTC <sub>(2m24s+1.12s)</sub> | 2080 | 34 | 322 | 47% | 2115 | 17% |
-| 21 | VLTC <sub>(2m24s+1.12s)</sub> | 2087 | 45 | 182 | 48% | 2114 | 19% |
-| 21 | LTC <sub>(60.0+0.60s)</sub> | 1885 | 40 | 226 | 47% | 1921 | 18% |
-| 21 | LTC <sub>(60.0+0.60s)</sub> | 2018 | 34 | 312 | 50% | 2033 | 19% |
-| 21 | LTC <sub>(60.0+0.60s)</sub> | 1987 | 51 | 144 | 47% | 2034 | 13% |
-| 21 | STC <sub>(8.0+0.08s)</sub> | 1561 | 40 | 238 | 48% | 1582 | 13% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 21 | STC <sub>(8.0+0.08s)</sub> | 1702 | 33 | 338 | 50% | 1698 | 16% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 21 | STC <sub>(8.0+0.08s)</sub> | 1689 | 48 | 168 | 49% | 1705 | 11% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 20 | VLTC <sub>(2m24s+1.12s)</sub> | 1989 | 25 | 566 | 48% | 2018 | 21% |
-| 20 | LTC <sub>(60.0+0.60s)</sub> | 1917 | 25 | 580 | 50% | 1922 | 17% |
-| 20 | STC <sub>(8.0+0.08s)</sub> | 1651 | 25 | 640 | 47% | 1679 | 16% |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 21 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 1995 | 41 | 230 | 49% | 2013 | 14% |
+|  |  | T1 | 2080 | 34 | 322 | 47% | 2115 | 17% |
+|  |  | P1 | 2086 | 44 | 186 | 48% | 2111 | 19% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2018 | 34 | 312 | 50% | 2033 | 19% |
+|  |  | P1 | 1985 | 51 | 144 | 47% | 2032 | 13% |
+|  |  | E1 | 1889 | 40 | 226 | 47% | 1924 | 18% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 1702 | 33 | 338 | 50% | 1698 | 16% |
+|  |  | P1 | 1681 | 47 | 176 | 48% | 1705 | 11% |
+|  |  | E1 | 1563 | 40 | 238 | 48% | 1585 | 13% |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 20 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 1989 | 25 | 566 | 48% | 2018 | 21% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 1917 | 25 | 580 | 50% | 1922 | 17% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 1651 | 25 | 640 | 47% | 1679 | 16% |
