@@ -8,14 +8,14 @@ Home: https://github.com/jabolcni/Lambergar
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.5 | 2026-05-28 | 2908 | 3202 | 3294 |  |
+| 1.5 | 2026-05-28 | 2909 | 3204 | 3293 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.5 | 2026-05-28 | 3092 | 3389 | 3449 |  |
+| 1.5 | 2026-05-28 | 3092 | 3386 | 3448 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-14 04:39:59
+Generated: 2026-10-15 04:40:09
 
 ## Ratings Verlauf T1
 
@@ -63,13 +63,13 @@ xychart-beta
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 1.5 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 3294 | 33 | 246 | 58% | 3224 | 65% |
+| 1.5 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3448 | 44 | 140 | 58% | 3368 | 65% |
+|  |  | E1 | 3293 | 33 | 250 | 57% | 3228 | 64% |
 |  |  | T1 | 3367 | 29 | 298 | 50% | 3364 | 72% |
-|  |  | P1 | 3449 | 44 | 140 | 58% | 3370 | 65% |
-|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 3202 | 33 | 260 | 58% | 3094 | 60% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 3386 | 42 | 154 | 53% | 3316 | 64% |
+|  |  | E1 | 3204 | 33 | 264 | 57% | 3097 | 59% |
 |  |  | T1 | 3285 | 26 | 404 | 53% | 3262 | 61% |
-|  |  | P1 | 3389 | 42 | 154 | 53% | 3318 | 64% |
-|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2908 | 36 | 222 | 45% | 2954 | 48% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2909 | 36 | 226 | 45% | 2954 | 48% |
 |  |  | T1 | 3060 | 27 | 392 | 50% | 3058 | 51% |
 |  |  | P1 | 3092 | 41 | 164 | 46% | 3120 | 51% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
