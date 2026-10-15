@@ -8,14 +8,14 @@ Home: https://github.com/NotKaede-11/Coco-Engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.5.0 | 2026-09-14 | 2157 | 2647 | 2765 |  |
+| 1.5.0 | 2026-09-14 | 2156 | 2649 | 2768 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.5.0 | 2026-09-14 | 2341 | 2777 | 2919 |  |
+| 1.5.0 | 2026-09-14 | 2333 | 2772 | 2907 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-14 04:37:37
+Generated: 2026-10-15 04:37:43
 
 ## Ratings Verlauf T1
 
@@ -67,12 +67,12 @@ xychart-beta
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2697 | 41 | 194 | 50% | 2699 | 34% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2384 | 36 | 280 | 45% | 2435 | 24% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 1.5.0 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 2765 | 34 | 290 | 47% | 2796 | 30% |
+| 1.5.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 2907 | 41 | 184 | 47% | 2928 | 40% |
+|  |  | E1 | 2768 | 34 | 294 | 47% | 2796 | 31% |
 |  |  | T1 | 2832 | 37 | 238 | 50% | 2824 | 30% |
-|  |  | P1 | 2919 | 41 | 180 | 48% | 2934 | 41% |
-|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 2647 | 35 | 272 | 47% | 2678 | 30% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 2649 | 34 | 284 | 47% | 2677 | 30% |
 |  |  | T1 | 2728 | 35 | 260 | 50% | 2726 | 33% |
-|  |  | P1 | 2777 | 40 | 212 | 47% | 2811 | 29% |
-|  | STC <sub>(8.0+0.08s)</sub> | T1 | 2365 | 35 | 280 | 50% | 2361 | 25% |
-|  |  | P1 | 2341 | 43 | 200 | 43% | 2427 | 20% |
-|  |  | E1 | 2157 | 35 | 296 | 42% | 2265 | 22% |
+|  |  | P1 | 2772 | 40 | 212 | 47% | 2805 | 29% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2156 | 35 | 300 | 42% | 2264 | 22% |
+|  |  | T1 | 2365 | 35 | 280 | 50% | 2361 | 25% |
+|  |  | P1 | 2333 | 42 | 212 | 44% | 2403 | 18% |
