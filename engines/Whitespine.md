@@ -8,14 +8,14 @@ Home: https://github.com/maelic13/whitespine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
+| 1.4.0 | 2026-04-29 | 751 | 936 | 1011 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
+| 1.4.0 | 2026-04-29 | 2209 | 825 | 1756 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -42,7 +42,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-14 04:44:53
+Generated: 2026-10-15 04:45:08
 
 ## Ratings Verlauf T1
 
@@ -64,9 +64,15 @@ xychart-beta
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 1.4.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 1050 | 50 | 206 | 54% | 949 | 14% |
+| 1.4.0 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 1011 | 112 | 52 | 27% | 1466 | 4% |
+|  |  | T1 | 1050 | 50 | 206 | 54% | 949 | 14% |
+|  |  | P1 | 1756 | 328 | 8 | 0% | 2333 | 0% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 948 | 51 | 202 | 54% | 880 | 12% |
+|  |  | P1 | 825 | 162 | 24 | 13% | 1280 | 8% |
+|  |  | E1 | 936 | 108 | 36 | 31% | 1210 | 22% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 738 | 53 | 186 | 45% | 819 | 11% |
+|  |  | P1 | 2209 | 262 | 16 | 0% | 2916 | 0% |
+|  |  | E1 | 751 | 99 | 60 | 31% | 1288 | 8% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 1.3.3 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 1031 | 62 | 140 | 49% | 992 | 13% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 1026 | 64 | 136 | 46% | 1014 | 12% |
