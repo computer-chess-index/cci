@@ -8,14 +8,14 @@ Home: https://github.com/kjljixx/Aurora-Chess-Engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.27.0timehotfix | 2026-05-28 | 2273 | 2599 | 2607 |  |
+| 1.27.0timehotfix | 2026-05-28 | 2282 | 2606 | 2612 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.27.0timehotfix | 2026-05-28 | 2396 | 2576 | 2700 |  |
+| 1.27.0timehotfix | 2026-05-28 | 2400 | 2580 | 2705 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-15 04:36:16
+Generated: 2026-10-16 04:36:15
 
 ## Ratings Verlauf T1
 
@@ -68,11 +68,11 @@ xychart-beta
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2438 | 39 | 234 | 49% | 2452 | 23% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 1.27.0timehotfix | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2627 | 28 | 408 | 48% | 2642 | 32% |
-|  |  | P1 | 2700 | 34 | 288 | 43% | 2777 | 36% |
-|  |  | E1 | 2607 | 37 | 232 | 47% | 2642 | 34% |
+|  |  | P1 | 2705 | 34 | 288 | 43% | 2782 | 36% |
+|  |  | E1 | 2612 | 37 | 240 | 46% | 2647 | 33% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2601 | 28 | 434 | 51% | 2593 | 29% |
-|  |  | P1 | 2576 | 43 | 198 | 55% | 2531 | 24% |
-|  |  | E1 | 2599 | 38 | 234 | 54% | 2516 | 31% |
+|  |  | P1 | 2580 | 43 | 198 | 55% | 2535 | 24% |
+|  |  | E1 | 2606 | 38 | 240 | 54% | 2527 | 31% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2368 | 28 | 448 | 49% | 2381 | 22% |
-|  |  | P1 | 2396 | 44 | 192 | 45% | 2461 | 24% |
-|  |  | E1 | 2273 | 40 | 220 | 49% | 2282 | 20% |
+|  |  | P1 | 2400 | 44 | 192 | 45% | 2466 | 24% |
+|  |  | E1 | 2282 | 40 | 220 | 49% | 2290 | 20% |
