@@ -8,27 +8,27 @@ Home: https://github.com/ericlangedijk/chessnix/
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
+| 1.4b | 2026-04-28 | 2718 | 3078 | 3159 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
+| 1.4b | 2026-04-28 | 2886 | 3270 | 3306 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.4 | 2026-04-28 | 2885<sub>(+15) | 3148<sub>(+73) | 3241<sub>(+67) |  |
+| 1.4b | 2026-04-28 | 2885<sub>(+15) | 3148<sub>(+73) | 3241<sub>(+67) |  |
 | 1.3 | 2026-02-15 | 2870<sub>(+255) | 3075<sub>(+294) | 3174<sub>(+226) |  |
 | 1.2 | 2025-12-12 | 2615<sub>(+285) | 2781<sub>(+171) | 2948<sub>(+263) |  |
 | 1.0 | 2025-11-08 | 2330 | 2610 | 2685 | too many irregular games |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Chessnix+<version>&body=###%20Engine%20name%0AChessnix%0A%0A###%20Version%0A1.4" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Chessnix+<version>&body=###%20Engine%20name%0AChessnix%0A%0A###%20Version%0A1.4b" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -43,14 +43,14 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-15 04:37:24
+Generated: 2026-10-16 04:37:18
 
 ## Ratings Verlauf T1
 
 ```mermaid
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
-  x-axis ["1.0", "1.2", "1.3", "1.4"]
+  x-axis ["1.0", "1.2", "1.3", "1.4b"]
   y-axis "Elo Rating" 2300 --> 3300
   line "T1: STC (8.0+0.08s)" [2330, 2615, 2870, 2885]
   line "T1: LTC (60.0+0.60s)" [2610, 2781, 3075, 3148]
@@ -65,9 +65,15 @@ xychart-beta
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 1.4 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3241 | 41 | 160 | 53% | 3221 | 56% |
+| 1.4b | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3241 | 41 | 160 | 53% | 3221 | 56% |
+|  |  | P1 | 3306 | 42 | 162 | 48% | 3303 | 56% |
+|  |  | E1 | 3159 | 40 | 185 | 55% | 3113 | 46% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3148 | 43 | 164 | 51% | 3139 | 43% |
-|  | STC <sub>(8.0+0.08s)</sub> | T1 | 2885 | 44 | 156 | 49% | 2896 | 40% |
+|  |  | P1 | 3270 | 57 | 98 | 55% | 3193 | 40% |
+|  |  | E1 | 3078 | 33 | 276 | 50% | 3066 | 47% |
+|  | STC <sub>(8.0+0.08s)</sub> | P1 | 2886 | 55 | 98 | 49% | 2886 | 46% |
+|  |  | E1 | 2718 | 36 | 254 | 45% | 2762 | 35% |
+|  |  | T1 | 2885 | 44 | 156 | 49% | 2896 | 40% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 1.3 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3174 | 100 | 26 | 56% | 3132 | 58% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3075 | 75 | 52 | 46% | 3100 | 46% |
