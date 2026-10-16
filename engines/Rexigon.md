@@ -8,14 +8,14 @@ Home: https://github.com/silentshark-uk/rexigon
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2025-11-30 | 1891 | 2178 | 2331 |  |
+| 1.0 | 2025-11-30 | 1897 | 2186 | 2350 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2025-11-30 | 2017 | 2292 | 2417 |  |
+| 1.0 | 2025-11-30 | 2021 | 2296 | 2411 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-15 04:42:50
+Generated: 2026-10-16 04:42:56
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-10-15 04:42:50
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2444 | 26 | 562 | 50% | 2445 | 18% |
-|  |  | P1 | 2417 | 49 | 164 | 54% | 2383 | 17% |
-|  |  | E1 | 2331 | 43 | 204 | 49% | 2357 | 16% |
+| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 2350 | 42 | 220 | 50% | 2365 | 16% |
+|  |  | T1 | 2444 | 26 | 562 | 50% | 2445 | 18% |
+|  |  | P1 | 2411 | 48 | 168 | 52% | 2390 | 17% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2321 | 25 | 572 | 50% | 2321 | 17% |
-|  |  | P1 | 2292 | 50 | 152 | 48% | 2319 | 14% |
-|  |  | E1 | 2178 | 41 | 224 | 53% | 2138 | 17% |
+|  |  | P1 | 2296 | 50 | 152 | 48% | 2323 | 14% |
+|  |  | E1 | 2186 | 41 | 226 | 53% | 2147 | 17% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2059 | 23 | 752 | 51% | 2041 | 12% |
-|  |  | P1 | 2017 | 43 | 198 | 49% | 2026 | 16% |
-|  |  | E1 | 1891 | 41 | 220 | 46% | 1933 | 17% |
+|  |  | P1 | 2021 | 43 | 198 | 49% | 2030 | 16% |
+|  |  | E1 | 1897 | 41 | 220 | 46% | 1939 | 17% |
