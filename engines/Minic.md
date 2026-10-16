@@ -8,14 +8,14 @@ Home: https://github.com/tryingsomestuff/Minic
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.41 | 2024-01-18 | 2897 | 3224 | 3328 |  |
+| 3.41 | 2024-01-18 | 2903 | 3229 | 3333 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.41 | 2024-01-18 | 3073 | 3413 | 3447 |  |
+| 3.41 | 2024-01-18 | 3078 | 3421 | 3465 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-15 04:40:51
+Generated: 2026-10-16 04:40:52
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-10-15 04:40:51
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 3.41 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3341 | 11 | 1956 | 51% | 3333 | 71% |
-|  |  | P1 | 3447 | 41 | 160 | 55% | 3406 | 62% |
-|  |  | E1 | 3328 | 34 | 226 | 50% | 3312 | 69% |
-|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3272 | 12 | 1890 | 50% | 3268 | 63% |
-|  |  | P1 | 3413 | 42 | 148 | 52% | 3379 | 67% |
-|  |  | E1 | 3224 | 34 | 220 | 55% | 3177 | 67% |
+|  |  | P1 | 3465 | 39 | 180 | 56% | 3420 | 60% |
+|  |  | E1 | 3333 | 34 | 226 | 50% | 3318 | 69% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 3229 | 34 | 220 | 55% | 3182 | 67% |
+|  |  | T1 | 3272 | 12 | 1890 | 50% | 3268 | 63% |
+|  |  | P1 | 3421 | 42 | 148 | 52% | 3387 | 67% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2973 | 12 | 2074 | 51% | 2959 | 50% |
-|  |  | P1 | 3073 | 37 | 212 | 50% | 3067 | 51% |
-|  |  | E1 | 2897 | 30 | 306 | 48% | 2909 | 54% |
+|  |  | P1 | 3078 | 37 | 212 | 50% | 3074 | 51% |
+|  |  | E1 | 2903 | 30 | 318 | 48% | 2913 | 55% |
