@@ -8,14 +8,14 @@ Home: https://github.com/NotKaede-11/Coco-Engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.5.0 | 2026-09-14 | 2168 | 2653 | 2769 |  |
+| 1.5.0 | 2026-09-14 | 2169 | 2657 | 2768 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.5.0 | 2026-09-14 | 2338 | 2778 | 2913 |  |
+| 1.5.0 | 2026-09-14 | 2340 | 2781 | 2917 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-16 04:37:38
+Generated: 2026-10-17 04:37:32
 
 ## Ratings Verlauf T1
 
@@ -68,11 +68,11 @@ xychart-beta
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2384 | 36 | 280 | 45% | 2435 | 24% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 1.5.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2832 | 37 | 238 | 50% | 2824 | 30% |
-|  |  | P1 | 2913 | 41 | 184 | 47% | 2935 | 40% |
-|  |  | E1 | 2769 | 34 | 298 | 46% | 2803 | 31% |
+|  |  | P1 | 2917 | 40 | 188 | 48% | 2936 | 40% |
+|  |  | E1 | 2768 | 33 | 306 | 46% | 2804 | 30% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2728 | 35 | 260 | 50% | 2726 | 33% |
-|  |  | P1 | 2778 | 40 | 212 | 47% | 2812 | 29% |
-|  |  | E1 | 2653 | 34 | 284 | 47% | 2681 | 30% |
+|  |  | P1 | 2781 | 39 | 216 | 47% | 2812 | 29% |
+|  |  | E1 | 2657 | 34 | 284 | 47% | 2685 | 30% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2365 | 35 | 280 | 50% | 2361 | 25% |
-|  |  | P1 | 2338 | 42 | 216 | 44% | 2394 | 19% |
-|  |  | E1 | 2168 | 35 | 304 | 42% | 2271 | 22% |
+|  |  | P1 | 2340 | 42 | 216 | 44% | 2395 | 19% |
+|  |  | E1 | 2169 | 35 | 304 | 42% | 2272 | 22% |
