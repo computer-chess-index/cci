@@ -8,7 +8,7 @@ Home: https://github.com/jswaff/chess4j
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.3 | 2026-06-06 | 1520 | 2002 | 2145 |  |
+| 6.3 | 2026-06-06 | 1527 | 2010 | 2142 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-16 04:37:12
+Generated: 2026-10-17 04:37:09
 
 ## Ratings Verlauf T1
 
@@ -64,14 +64,14 @@ xychart-beta
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 6.3 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2303 | 30 | 376 | 50% | 2303 | 30% |
-|  |  | P1 | 2311 | 53 | 160 | 63% | 1994 | 18% |
-|  |  | E1 | 2145 | 40 | 232 | 60% | 1952 | 25% |
+|  |  | P1 | 2311 | 53 | 160 | 63% | 1995 | 18% |
+|  |  | E1 | 2142 | 40 | 234 | 59% | 1956 | 25% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2215 | 31 | 354 | 53% | 2184 | 23% |
-|  |  | P1 | 2107 | 48 | 176 | 61% | 1885 | 18% |
-|  |  | E1 | 2002 | 45 | 182 | 54% | 1908 | 21% |
+|  |  | P1 | 2107 | 48 | 176 | 61% | 1886 | 18% |
+|  |  | E1 | 2010 | 43 | 196 | 54% | 1916 | 23% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 1871 | 29 | 438 | 48% | 1886 | 20% |
-|  |  | P1 | 1700 | 42 | 220 | 59% | 1561 | 21% |
-|  |  | E1 | 1520 | 47 | 184 | 55% | 1428 | 14% |
+|  |  | P1 | 1700 | 42 | 220 | 59% | 1553 | 21% |
+|  |  | E1 | 1527 | 46 | 192 | 55% | 1435 | 15% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 6.2 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2303 | 27 | 468 | 49% | 2313 | 30% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2215 | 27 | 452 | 50% | 2207 | 28% |
