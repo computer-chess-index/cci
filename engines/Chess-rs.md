@@ -8,14 +8,14 @@ Home: https://github.com/tomcant/chess-rs
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.7.0 | 2025-12-31 | 1598 | 1837 | 1871 |  |
+| 0.7.0 | 2025-12-31 | 1597 | 1825 | 1875 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.7.0 | 2025-12-31 | 1693 | 1949 | 2002 |  |
+| 0.7.0 | 2025-12-31 | 1694 | 1949 | 2003 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -42,7 +42,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-16 04:37:07
+Generated: 2026-10-17 04:37:04
 
 ## Ratings Verlauf T1
 
@@ -65,14 +65,14 @@ xychart-beta
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 0.7.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2028 | 24 | 644 | 48% | 2041 | 21% |
-|  |  | P1 | 2002 | 46 | 176 | 46% | 2102 | 23% |
-|  |  | E1 | 1871 | 45 | 179 | 52% | 1867 | 26% |
+|  |  | P1 | 2003 | 46 | 176 | 46% | 2103 | 23% |
+|  |  | E1 | 1875 | 45 | 183 | 52% | 1868 | 26% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 1931 | 23 | 650 | 49% | 1935 | 22% |
 |  |  | P1 | 1949 | 47 | 170 | 47% | 2013 | 21% |
-|  |  | E1 | 1837 | 42 | 214 | 50% | 1860 | 19% |
-|  | STC <sub>(8.0+0.08s)</sub> | T1 | 1702 | 22 | 762 | 50% | 1697 | 18% |
-|  |  | P1 | 1693 | 45 | 178 | 51% | 1689 | 19% |
-|  |  | E1 | 1598 | 39 | 242 | 47% | 1663 | 20% |
+|  |  | E1 | 1825 | 41 | 222 | 49% | 1860 | 19% |
+|  | STC <sub>(8.0+0.08s)</sub> | P1 | 1694 | 44 | 182 | 51% | 1685 | 19% |
+|  |  | E1 | 1597 | 38 | 252 | 46% | 1666 | 20% |
+|  |  | T1 | 1702 | 22 | 762 | 50% | 1697 | 18% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 0.6.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 1989 | 44 | 184 | 49% | 1998 | 21% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 1866 | 50 | 146 | 50% | 1868 | 21% |
