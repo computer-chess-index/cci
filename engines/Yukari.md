@@ -8,14 +8,14 @@ Home: https://github.com/yukarichess/yukari
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2025.11.1 | 2025-10-31 | 3046 | 3245 | 3362 |  |
+| 2025.11.1 | 2025-10-31 | 3048 | 3251 | 3368 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2025.11.1 | 2025-10-31 | 3220 | 3438 | 3552 |  |
+| 2025.11.1 | 2025-10-31 | 3220 | 3444 | 3555 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-16 04:45:22
+Generated: 2026-10-17 04:44:40
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-10-16 04:45:22
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 2025.11.1 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3383 | 22 | 532 | 52% | 3360 | 75% |
-|  |  | P1 | 3552 | 37 | 192 | 57% | 3476 | 73% |
-|  |  | E1 | 3362 | 33 | 280 | 60% | 3170 | 59% |
+|  |  | P1 | 3555 | 36 | 196 | 56% | 3482 | 73% |
+|  |  | E1 | 3368 | 32 | 288 | 60% | 3179 | 59% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3322 | 23 | 492 | 53% | 3287 | 74% |
-|  |  | P1 | 3438 | 35 | 228 | 57% | 3348 | 62% |
-|  |  | E1 | 3245 | 31 | 296 | 59% | 3113 | 58% |
+|  |  | P1 | 3444 | 35 | 232 | 57% | 3352 | 62% |
+|  |  | E1 | 3251 | 31 | 304 | 59% | 3119 | 58% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 3116 | 19 | 792 | 51% | 3087 | 61% |
-|  |  | P1 | 3220 | 38 | 182 | 48% | 3237 | 60% |
-|  |  | E1 | 3046 | 32 | 276 | 47% | 3066 | 57% |
+|  |  | P1 | 3220 | 38 | 186 | 47% | 3240 | 60% |
+|  |  | E1 | 3048 | 31 | 280 | 47% | 3069 | 57% |
