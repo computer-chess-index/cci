@@ -8,14 +8,14 @@ Home: https://github.com/dede1751/carp
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.1 | 2023-09-25 | 2950 | 3239 | 3285 |  |
+| 3.0.1 | 2023-09-25 | 2954 | 3241 | 3293 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.1 | 2023-09-25 | 3140 | 3411 | 3499 |  |
+| 3.0.1 | 2023-09-25 | 3141 | 3417 | 3505 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-16 04:36:43
+Generated: 2026-10-17 04:36:40
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-10-16 04:36:43
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 3.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 3285 | 31 | 278 | 53% | 3264 | 65% |
-|  |  | P1 | 3499 | 35 | 210 | 55% | 3453 | 66% |
+| 3.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 3293 | 30 | 286 | 53% | 3270 | 65% |
+|  |  | P1 | 3505 | 35 | 218 | 55% | 3459 | 66% |
 |  |  | T1 | 3349 | 11 | 2114 | 49% | 3352 | 70% |
-|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 3239 | 36 | 213 | 50% | 3236 | 59% |
-|  |  | P1 | 3411 | 37 | 200 | 52% | 3401 | 53% |
-|  |  | T1 | 3283 | 12 | 1966 | 50% | 3285 | 63% |
-|  | STC <sub>(8.0+0.08s)</sub> | P1 | 3140 | 38 | 198 | 51% | 3131 | 53% |
-|  |  | T1 | 3024 | 12 | 2040 | 51% | 3011 | 47% |
-|  |  | E1 | 2950 | 30 | 320 | 47% | 2979 | 49% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3283 | 12 | 1966 | 50% | 3285 | 63% |
+|  |  | E1 | 3241 | 35 | 221 | 49% | 3240 | 58% |
+|  |  | P1 | 3417 | 36 | 216 | 52% | 3402 | 54% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 3024 | 12 | 2040 | 51% | 3011 | 47% |
+|  |  | E1 | 2954 | 30 | 320 | 47% | 2984 | 49% |
+|  |  | P1 | 3141 | 37 | 202 | 51% | 3132 | 51% |
