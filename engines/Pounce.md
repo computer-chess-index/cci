@@ -8,14 +8,14 @@ Home: https://github.com/0xflick/pounce
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.0 | 2025-10-13 | 2593 | 2876 | 2993 |  |
+| 3.0.0 | 2025-10-13 | 2600 | 2878 | 2997 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.0 | 2025-10-13 | 2782 | 3074 | 3060 |  |
+| 3.0.0 | 2025-10-13 | 2788 | 3071 | 3052 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-16 04:42:00
+Generated: 2026-10-17 04:41:28
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-10-16 04:42:00
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 3.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 2993 | 32 | 290 | 48% | 3002 | 46% |
-|  |  | T1 | 3017 | 22 | 580 | 48% | 3038 | 48% |
-|  |  | P1 | 3060 | 47 | 142 | 53% | 3009 | 39% |
+| 3.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3017 | 22 | 580 | 48% | 3038 | 48% |
+|  |  | P1 | 3052 | 47 | 146 | 51% | 3016 | 38% |
+|  |  | E1 | 2997 | 32 | 294 | 48% | 3006 | 46% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2990 | 23 | 568 | 52% | 2974 | 43% |
-|  |  | P1 | 3074 | 46 | 134 | 47% | 3096 | 53% |
-|  |  | E1 | 2876 | 37 | 226 | 54% | 2832 | 43% |
+|  |  | P1 | 3071 | 45 | 138 | 47% | 3100 | 53% |
+|  |  | E1 | 2878 | 36 | 240 | 53% | 2838 | 45% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2730 | 21 | 736 | 50% | 2723 | 35% |
-|  |  | P1 | 2782 | 49 | 122 | 48% | 2800 | 48% |
-|  |  | E1 | 2593 | 36 | 256 | 44% | 2651 | 30% |
+|  |  | P1 | 2788 | 48 | 124 | 48% | 2801 | 48% |
+|  |  | E1 | 2600 | 35 | 264 | 44% | 2653 | 30% |
