@@ -8,14 +8,14 @@ Home: https://github.com/Madushan996/CeylonDemon2.0
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0 | 2026-08-28 | 2535 | 2920 | 3038 |  |
+| 2.0 | 2026-08-28 | 2538 | 2921 | 3040 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0 | 2026-08-28 | 2795 | 3114 | 3301 |  |
+| 2.0 | 2026-08-28 | 2772 | 3094 | 3281 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-17 04:36:53
+Generated: 2026-10-18 04:36:52
 
 ## Ratings Verlauf T1
 
@@ -68,11 +68,11 @@ xychart-beta
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2988 | 44 | 158 | 54% | 2948 | 42% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3137 | 29 | 360 | 54% | 3096 | 49% |
-|  |  | P1 | 3301 | 36 | 214 | 49% | 3310 | 52% |
-|  |  | E1 | 3038 | 30 | 316 | 47% | 3063 | 48% |
+|  |  | P1 | 3281 | 36 | 214 | 49% | 3290 | 52% |
+|  |  | E1 | 3040 | 30 | 316 | 47% | 3066 | 48% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3052 | 31 | 312 | 52% | 3025 | 48% |
-|  |  | P1 | 3114 | 34 | 266 | 51% | 3105 | 43% |
-|  |  | E1 | 2920 | 30 | 324 | 46% | 2957 | 44% |
+|  |  | P1 | 3094 | 33 | 274 | 51% | 3083 | 43% |
+|  |  | E1 | 2921 | 30 | 328 | 45% | 2959 | 44% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2637 | 31 | 348 | 48% | 2650 | 28% |
-|  |  | P1 | 2795 | 33 | 280 | 51% | 2765 | 39% |
-|  |  | E1 | 2535 | 32 | 310 | 46% | 2569 | 34% |
+|  |  | P1 | 2772 | 32 | 304 | 51% | 2746 | 40% |
+|  |  | E1 | 2538 | 32 | 310 | 46% | 2572 | 34% |
