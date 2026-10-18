@@ -8,14 +8,14 @@ Home: https://github.com/montypylons/mihansolo_bot
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.0.0 | 2025-10-01 | 1180 | 1339 | 1381 |  |
+| 9.0.0 | 2025-10-01 | 1196 | 1351 | 1393 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.0.0 | 2025-10-01 | 1188 | 1411 | 1461 |  |
+| 9.0.0 | 2025-10-01 | 1175 | 1391 | 1449 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-17 04:40:23
+Generated: 2026-10-18 04:40:21
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-10-17 04:40:23
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 9.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 1484 | 26 | 536 | 51% | 1499 | 29% |
-|  |  | P1 | 1461 | 46 | 160 | 43% | 1536 | 26% |
-|  |  | E1 | 1381 | 41 | 200 | 48% | 1453 | 37% |
-|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 1395 | 26 | 542 | 55% | 1349 | 29% |
-|  |  | P1 | 1411 | 46 | 148 | 53% | 1388 | 39% |
-|  |  | E1 | 1339 | 43 | 182 | 47% | 1445 | 35% |
-|  | STC <sub>(8.0+0.08s)</sub> | T1 | 1224 | 24 | 682 | 54% | 1169 | 29% |
-|  |  | P1 | 1188 | 50 | 132 | 50% | 1191 | 27% |
-|  |  | E1 | 1180 | 38 | 236 | 51% | 1180 | 33% |
+| 9.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 1449 | 46 | 160 | 43% | 1524 | 26% |
+|  |  | E1 | 1393 | 41 | 200 | 48% | 1463 | 37% |
+|  |  | T1 | 1484 | 26 | 536 | 51% | 1499 | 29% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 1351 | 43 | 186 | 47% | 1453 | 36% |
+|  |  | T1 | 1395 | 26 | 542 | 55% | 1349 | 29% |
+|  |  | P1 | 1391 | 45 | 156 | 53% | 1374 | 38% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 1196 | 37 | 240 | 52% | 1189 | 33% |
+|  |  | T1 | 1224 | 24 | 682 | 54% | 1169 | 29% |
+|  |  | P1 | 1175 | 50 | 132 | 50% | 1177 | 27% |
