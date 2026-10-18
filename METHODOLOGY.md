@@ -8,12 +8,6 @@ This effect can be observed in several rating lists, for example when comparing 
 
 The straightforward explanation is that these ratings are calculated independently and are not directly linked to a common rating scale. This observation motivated the initial idea behind CCI: to establish a common rating scale by cross-linking different time controls within a single rating system.
 
-While this approach has proved effective in establishing consistent relationships between different time budgets, initial expectations that cross-linking would also mitigate or even eliminate rating inflation have proved too optimistic. 
-
-The resulting rating lists exhibit a degree of compression that was not anticipated in the initial design. This suggests that the scale of a rating system may depend not only on the rating model itself, but also on the environment in which ratings are generated.
-
-Here, *environment* refers to the combination of factors influencing the resulting ratings, including the engine pool, match selection, hardware, time controls, and rating methodology. The extent to which these factors contribute to scale compression or dilation is not yet fully understood.
-
 CCI is essentially one continuous tournament that started on 2024-09-18. Each engine is represented by three configurations intended to cover different time budgets:
 
 - **STC (Short Time Control):** 8.0 + 0.08 s
@@ -21,6 +15,12 @@ CCI is essentially one continuous tournament that started on 2024-09-18. Each en
 - **VLTC (Very Long Time Control):** 2m24s + 1.12 s
 
 Each configuration initially plays against its immediate neighbours in the rating order. Once its approximate position has been established, the opponent range is expanded to include configurations two positions above and below, and subsequently more distant configurations. This approach is intended to establish the rating order efficiently while maintaining links throughout the rating list.
+
+While this approach has proved effective in establishing consistent relationships between different time budgets, initial expectations that cross-linking would also mitigate or even eliminate rating inflation have proved too optimistic. 
+
+The resulting rating lists exhibit a degree of compression that was not anticipated in the initial design. This suggests that the scale of a rating system may depend not only on the rating model itself, but also on the environment in which ratings are generated.
+
+Here, *environment* refers to the combination of factors influencing the resulting ratings, including the engine pool, match selection, hardware, time controls, and rating methodology. The extent to which these factors contribute to scale compression or dilation is not yet fully understood.
 
 ## 2. Match Calculations
 
