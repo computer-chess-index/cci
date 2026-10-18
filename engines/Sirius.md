@@ -8,14 +8,14 @@ Home: https://github.com/mcthouacbb/Sirius
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.0 | 2025-07-04 | 3009 | 3275 | 3343 |  |
+| 9.0 | 2025-07-04 | 3012 | 3278 | 3345 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.0 | 2025-07-04 | 3200 | 3479 | 3513 |  |
+| 9.0 | 2025-07-04 | 3179 | 3459 | 3492 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-17 04:43:05
+Generated: 2026-10-18 04:43:01
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-10-17 04:43:05
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 9.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3383 | 25 | 412 | 52% | 3371 | 69% |
-|  |  | P1 | 3513 | 36 | 200 | 49% | 3519 | 65% |
-|  |  | E1 | 3343 | 30 | 294 | 48% | 3356 | 62% |
+|  |  | P1 | 3492 | 36 | 200 | 49% | 3499 | 65% |
+|  |  | E1 | 3345 | 30 | 294 | 48% | 3359 | 62% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3333 | 31 | 272 | 50% | 3335 | 63% |
-|  |  | P1 | 3479 | 37 | 194 | 51% | 3474 | 58% |
-|  |  | E1 | 3275 | 31 | 288 | 48% | 3291 | 53% |
+|  |  | P1 | 3459 | 37 | 198 | 51% | 3452 | 59% |
+|  |  | E1 | 3278 | 31 | 292 | 48% | 3294 | 53% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 3097 | 25 | 436 | 48% | 3113 | 53% |
-|  |  | P1 | 3200 | 38 | 196 | 47% | 3220 | 49% |
-|  |  | E1 | 3009 | 30 | 328 | 47% | 3033 | 48% |
+|  |  | P1 | 3179 | 38 | 196 | 47% | 3200 | 49% |
+|  |  | E1 | 3012 | 30 | 332 | 47% | 3035 | 48% |
