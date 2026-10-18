@@ -8,14 +8,14 @@ Home: https://github.com/Jakob256/PurplePanda
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 21 | 2026-07-12 | 1573 | 1885 | 1999 |  |
+| 21 | 2026-07-12 | 1593 | 1901 | 2012 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 21 | 2026-07-12 | 1677 | 1987 | 2094 |  |
+| 21 | 2026-07-12 | 1662 | 1975 | 2078 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-17 04:41:45
+Generated: 2026-10-18 04:41:42
 
 ## Ratings Verlauf T1
 
@@ -63,15 +63,15 @@ xychart-beta
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 21 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2080 | 34 | 322 | 47% | 2115 | 17% |
-|  |  | P1 | 2094 | 43 | 194 | 49% | 2107 | 20% |
-|  |  | E1 | 1999 | 40 | 238 | 49% | 2018 | 14% |
+| 21 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 2012 | 40 | 238 | 49% | 2029 | 14% |
+|  |  | T1 | 2080 | 34 | 322 | 47% | 2115 | 17% |
+|  |  | P1 | 2078 | 43 | 194 | 49% | 2093 | 20% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2018 | 34 | 312 | 50% | 2033 | 19% |
-|  |  | P1 | 1987 | 51 | 148 | 48% | 2026 | 13% |
-|  |  | E1 | 1885 | 40 | 234 | 47% | 1924 | 18% |
+|  |  | P1 | 1975 | 51 | 148 | 48% | 2013 | 13% |
+|  |  | E1 | 1901 | 39 | 238 | 47% | 1935 | 18% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 1702 | 33 | 338 | 50% | 1698 | 16% |
-|  |  | P1 | 1677 | 46 | 188 | 48% | 1725 | 11% |
-|  |  | E1 | 1573 | 39 | 250 | 48% | 1596 | 13% |
+|  |  | P1 | 1662 | 45 | 192 | 48% | 1710 | 12% |
+|  |  | E1 | 1593 | 38 | 264 | 49% | 1608 | 14% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 20 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 1989 | 25 | 566 | 48% | 2018 | 21% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 1917 | 25 | 580 | 50% | 1922 | 17% |
