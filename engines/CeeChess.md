@@ -8,14 +8,14 @@ Home: https://github.com/bctboi23/CeeChess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.2 | 2025-11-05 | 2060 | 2352 | 2465 |  |
+| 2.2 | 2025-11-05 | 2083 | 2364 | 2469 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.2 | 2025-11-05 | 2133 | 2480 | 2620 |  |
+| 2.2 | 2025-11-05 | 2120 | 2454 | 2603 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-17 04:36:48
+Generated: 2026-10-18 04:36:47
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-10-17 04:36:48
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 2.2 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2488 | 26 | 478 | 48% | 2506 | 31% |
-|  |  | P1 | 2620 | 37 | 256 | 59% | 2498 | 32% |
-|  |  | E1 | 2465 | 39 | 248 | 52% | 2435 | 21% |
+|  |  | P1 | 2603 | 37 | 256 | 59% | 2480 | 32% |
+|  |  | E1 | 2469 | 39 | 248 | 52% | 2439 | 21% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2407 | 24 | 552 | 49% | 2417 | 30% |
-|  |  | P1 | 2480 | 52 | 140 | 48% | 2510 | 22% |
-|  |  | E1 | 2352 | 42 | 212 | 57% | 2269 | 26% |
+|  |  | P1 | 2454 | 51 | 144 | 48% | 2491 | 23% |
+|  |  | E1 | 2364 | 41 | 228 | 57% | 2283 | 26% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2156 | 23 | 674 | 50% | 2151 | 22% |
-|  |  | P1 | 2133 | 43 | 184 | 51% | 2128 | 27% |
-|  |  | E1 | 2060 | 39 | 228 | 48% | 2090 | 24% |
+|  |  | P1 | 2120 | 42 | 188 | 51% | 2111 | 27% |
+|  |  | E1 | 2083 | 39 | 236 | 50% | 2099 | 24% |
