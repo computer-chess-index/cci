@@ -8,14 +8,14 @@ Home: https://github.com/SimjanovskiNikola/FRI_Challenger
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.6.0 | 2025-10-02 | 1898 | 2234 | 2392 |  |
+| 0.6.0 | 2025-10-02 | 1909 | 2242 | 2396 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.6.0 | 2025-10-02 | 2047 | 2350 | 2573 |  |
+| 0.6.0 | 2025-10-02 | 2032 | 2331 | 2554 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-17 04:36:59
+Generated: 2026-10-18 04:36:57
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-10-17 04:36:59
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 0.6.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2481 | 27 | 468 | 47% | 2511 | 29% |
-|  |  | P1 | 2573 | 45 | 176 | 47% | 2618 | 28% |
-|  |  | E1 | 2392 | 41 | 232 | 52% | 2354 | 21% |
+|  |  | P1 | 2554 | 45 | 176 | 47% | 2599 | 28% |
+|  |  | E1 | 2396 | 41 | 236 | 51% | 2373 | 21% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2369 | 24 | 586 | 49% | 2377 | 27% |
-|  |  | P1 | 2350 | 48 | 144 | 49% | 2375 | 31% |
-|  |  | E1 | 2234 | 39 | 242 | 56% | 2155 | 22% |
+|  |  | P1 | 2331 | 48 | 144 | 49% | 2356 | 31% |
+|  |  | E1 | 2242 | 38 | 250 | 56% | 2168 | 22% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2060 | 22 | 774 | 49% | 2063 | 22% |
-|  |  | P1 | 2047 | 47 | 164 | 49% | 2083 | 18% |
-|  |  | E1 | 1898 | 39 | 226 | 44% | 1949 | 27% |
+|  |  | P1 | 2032 | 47 | 164 | 49% | 2068 | 18% |
+|  |  | E1 | 1909 | 38 | 234 | 44% | 1959 | 27% |
