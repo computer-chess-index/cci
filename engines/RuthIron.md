@@ -8,14 +8,14 @@ Home: https://github.com/themreKalkan/RuthIron
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 21.9.6.7 | 2026-02-28 | 2334 | 2668 | 2801 |  |
+| 21.9.6.7 | 2026-02-28 | 2334 | 2673 | 2805 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 21.9.6.7 | 2026-02-28 | 2485 | 2846 | 2938 |  |
+| 21.9.6.7 | 2026-02-28 | 2469 | 2824 | 2915 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-17 04:42:50
+Generated: 2026-10-18 04:42:46
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-10-17 04:42:50
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 21.9.6.7 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2861 | 24 | 534 | 50% | 2861 | 41% |
-|  |  | P1 | 2938 | 39 | 206 | 48% | 2971 | 41% |
-|  |  | E1 | 2801 | 39 | 234 | 52% | 2759 | 31% |
-|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2754 | 24 | 564 | 50% | 2758 | 38% |
-|  |  | P1 | 2846 | 42 | 192 | 55% | 2786 | 34% |
-|  |  | E1 | 2668 | 33 | 316 | 51% | 2626 | 28% |
-|  | STC <sub>(8.0+0.08s)</sub> | T1 | 2415 | 23 | 686 | 49% | 2433 | 28% |
-|  |  | P1 | 2485 | 41 | 200 | 48% | 2525 | 34% |
-|  |  | E1 | 2334 | 39 | 226 | 48% | 2358 | 30% |
+|  |  | P1 | 2915 | 39 | 206 | 48% | 2948 | 41% |
+|  |  | E1 | 2805 | 39 | 234 | 52% | 2763 | 31% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 2824 | 42 | 192 | 55% | 2765 | 34% |
+|  |  | E1 | 2673 | 33 | 320 | 51% | 2631 | 28% |
+|  |  | T1 | 2754 | 24 | 564 | 50% | 2758 | 38% |
+|  | STC <sub>(8.0+0.08s)</sub> | P1 | 2469 | 40 | 204 | 48% | 2504 | 34% |
+|  |  | E1 | 2334 | 38 | 234 | 48% | 2361 | 30% |
+|  |  | T1 | 2415 | 23 | 686 | 49% | 2433 | 28% |
