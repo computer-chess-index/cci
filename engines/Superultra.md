@@ -8,14 +8,14 @@ Home: https://github.com/A1exL1ang/Superultra
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0 | 2024-02-02 |  | 3259 | 3349 |  |
+| 2.0 | 2024-02-02 |  | 3289 | 3378 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0 | 2024-02-02 |  | 3416 | 3492 |  |
+| 2.0 | 2024-02-02 |  | 3389 | 3464 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-18 04:43:33
+Generated: 2026-10-19 04:43:51
 
 
 
@@ -48,10 +48,10 @@ Generated: 2026-10-18 04:43:33
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3492 | 30 | 292 | 53% | 3467 | 68% |
-|  |  | E1 | 3349 | 31 | 264 | 51% | 3339 | 67% |
-|  |  | T1 | 3379 | 11 | 2084 | 50% | 3375 | 70% |
-|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 3416 | 36 | 204 | 53% | 3387 | 66% |
-|  |  | E1 | 3259 | 36 | 204 | 51% | 3254 | 61% |
-|  |  | T1 | 3314 | 11 | 1962 | 50% | 3313 | 67% |
+| 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3379 | 11 | 2084 | 50% | 3375 | 70% |
+|  |  | P1 | 3464 | 29 | 296 | 53% | 3440 | 68% |
+|  |  | E1 | 3378 | 31 | 268 | 51% | 3367 | 68% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3314 | 11 | 1962 | 50% | 3313 | 67% |
+|  |  | P1 | 3389 | 36 | 204 | 53% | 3360 | 66% |
+|  |  | E1 | 3289 | 36 | 208 | 50% | 3285 | 62% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 3055 | 38 | 208 | 44% | 3105 | 50% |
