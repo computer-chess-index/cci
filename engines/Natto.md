@@ -8,14 +8,14 @@ Home: https://github.com/rglenister/natto
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.1.9 | 2025-09-06 | 1540 | 1702 | 1813 |  |
+| 0.1.9 | 2025-09-06 | 1565 | 1705 | 1829 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.1.9 | 2025-09-06 | 1651 | 1848 | 1867 |  |
+| 0.1.9 | 2025-09-06 | 1613 | 1813 | 1831 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-18 04:40:34
+Generated: 2026-10-19 04:40:45
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-10-18 04:40:34
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 0.1.9 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 1937 | 23 | 644 | 48% | 1971 | 27% |
-|  |  | P1 | 1867 | 43 | 192 | 46% | 1952 | 26% |
-|  |  | E1 | 1813 | 33 | 316 | 41% | 1945 | 29% |
+| 0.1.9 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 1829 | 33 | 320 | 40% | 1962 | 29% |
+|  |  | T1 | 1937 | 23 | 644 | 48% | 1971 | 27% |
+|  |  | P1 | 1831 | 43 | 192 | 46% | 1917 | 26% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 1847 | 24 | 618 | 50% | 1863 | 28% |
-|  |  | P1 | 1848 | 40 | 238 | 57% | 1766 | 25% |
-|  |  | E1 | 1702 | 41 | 214 | 48% | 1756 | 24% |
+|  |  | P1 | 1813 | 40 | 240 | 57% | 1733 | 26% |
+|  |  | E1 | 1705 | 40 | 230 | 48% | 1747 | 23% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 1601 | 23 | 652 | 46% | 1648 | 27% |
-|  |  | P1 | 1651 | 42 | 196 | 53% | 1634 | 24% |
-|  |  | E1 | 1540 | 39 | 232 | 47% | 1613 | 26% |
+|  |  | P1 | 1613 | 42 | 204 | 54% | 1569 | 25% |
+|  |  | E1 | 1565 | 39 | 236 | 47% | 1616 | 25% |
