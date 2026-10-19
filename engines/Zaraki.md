@@ -8,14 +8,14 @@ Home: https://github.com/timojokinen/zaraki-zig
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.0.1 | 2026-07-02 | 1904 | 2138 | 2296 |  |
+| 0.0.1 | 2026-07-02 | 1921 | 2163 | 2325 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.0.1 | 2026-07-02 | 1967 | 2248 | 2345 |  |
+| 0.0.1 | 2026-07-02 | 1932 | 2219 | 2310 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-18 04:44:41
+Generated: 2026-10-19 04:44:59
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-10-18 04:44:41
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 0.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2354 | 33 | 292 | 44% | 2426 | 41% |
-|  |  | P1 | 2345 | 45 | 148 | 51% | 2348 | 43% |
-|  |  | E1 | 2296 | 34 | 290 | 57% | 2222 | 36% |
+|  |  | P1 | 2310 | 45 | 156 | 52% | 2267 | 41% |
+|  |  | E1 | 2325 | 33 | 302 | 58% | 2246 | 36% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2272 | 36 | 256 | 45% | 2344 | 37% |
-|  |  | P1 | 2248 | 49 | 142 | 49% | 2294 | 32% |
-|  |  | E1 | 2138 | 38 | 238 | 52% | 2156 | 35% |
-|  | STC <sub>(8.0+0.08s)</sub> | P1 | 1967 | 38 | 224 | 47% | 2013 | 38% |
-|  |  | E1 | 1904 | 34 | 268 | 47% | 1943 | 39% |
-|  |  | T1 | 2055 | 29 | 400 | 43% | 2128 | 35% |
+|  |  | P1 | 2219 | 48 | 150 | 50% | 2257 | 31% |
+|  |  | E1 | 2163 | 38 | 242 | 52% | 2176 | 35% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 2055 | 29 | 400 | 43% | 2128 | 35% |
+|  |  | P1 | 1932 | 38 | 224 | 47% | 1979 | 38% |
+|  |  | E1 | 1921 | 34 | 268 | 47% | 1962 | 39% |
