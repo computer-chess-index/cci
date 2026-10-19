@@ -8,14 +8,15 @@ Home: https://github.com/chris-moreton/rusty-rival
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.56 | 2026-08-30 | 2561 | 2927 | 3054 |  |
+| 1.0.78 | 2026-10-17 | 2741<sub>(+152) | 3150<sub>(+196) | 3294<sub>(+212) |  |
+| 1.0.56 | 2026-08-30 | 2589 | 2954 | 3082 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.56 | 2026-08-30 | 2685 | 3090 | 3213 |  |
+| 1.0.56 | 2026-08-30 | 2660 | 3101 | 3179 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -54,7 +55,24 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-18 04:42:44
+Generated: 2026-10-19 04:42:59
+
+## Ratings Verlauf E1 / P1
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
+xychart-beta
+  x-axis ["1.0.56", "1.0.78"]
+  y-axis "Elo Rating" 2500 --> 3300
+  line "E1: STC (8.0+0.08s)" [2589, 2741]
+  line "E1: LTC (60.0+0.60s)" [2954, 3150]
+  line "E1: VLTC (2m24s+1.12s)" [3082, 3294]
+  line "P1: STC (8.0+0.08s)" [2660]
+  line "P1: LTC (60.0+0.60s)" [3101]
+  line "P1: VLTC (2m24s+1.12s)" [3179]
+```
+
+
 
 ## Ratings Verlauf T1
 
@@ -76,15 +94,21 @@ xychart-beta
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
+| 1.0.78 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 3294 | 85 | 36 | 60% | 3221 | 64% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 3189 | 176 | 8 | 63% | 3104 | 50% |
+|  |  | E1 | 3150 | 74 | 52 | 52% | 3133 | 46% |
+|  | STC <sub>(8.0+0.08s)</sub> | P1 | 2943 | 216 | 8 | 81% | 2660 | 13% |
+|  |  | E1 | 2741 | 77 | 56 | 46% | 2784 | 27% |
+| --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 1.0.56 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3116 | 38 | 180 | 49% | 3128 | 63% |
-|  |  | P1 | 3213 | 80 | 70 | 73% | 2813 | 23% |
-|  |  | E1 | 3054 | 44 | 170 | 55% | 2888 | 43% |
+|  |  | P1 | 3179 | 70 | 84 | 68% | 2851 | 27% |
+|  |  | E1 | 3082 | 44 | 174 | 55% | 2920 | 43% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3035 | 39 | 200 | 54% | 3001 | 42% |
-|  |  | P1 | 3090 | 88 | 84 | 79% | 2118 | 17% |
-|  |  | E1 | 2927 | 45 | 180 | 61% | 2542 | 37% |
+|  |  | P1 | 3101 | 76 | 96 | 77% | 2217 | 23% |
+|  |  | E1 | 2954 | 45 | 180 | 61% | 2568 | 37% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2709 | 44 | 152 | 49% | 2715 | 42% |
-|  |  | P1 | 2685 | 72 | 64 | 48% | 2622 | 39% |
-|  |  | E1 | 2561 | 54 | 134 | 53% | 2385 | 27% |
+|  |  | P1 | 2660 | 72 | 64 | 48% | 2597 | 39% |
+|  |  | E1 | 2589 | 53 | 138 | 53% | 2414 | 28% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 1.0.54 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3105 | 49 | 114 | 53% | 3082 | 54% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3054 | 52 | 108 | 50% | 3054 | 44% |
