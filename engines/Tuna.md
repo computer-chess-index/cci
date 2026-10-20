@@ -8,14 +8,14 @@ Home: https://github.com/billchow98/chess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | 2025-09-28 | 2043 | 2435 | 2506 |  |
+| 1.0.0 | 2025-09-28 | 2066 | 2457 | 2526 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | 2025-09-28 | 2048 | 2387 | 2510 |  |
+| 1.0.0 | 2025-09-28 | 2068 | 2412 | 2530 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-19 04:44:14
+Generated: 2026-10-20 04:44:22
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-10-19 04:44:14
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2512 | 27 | 462 | 46% | 2552 | 27% |
-|  |  | P1 | 2510 | 46 | 172 | 51% | 2514 | 28% |
-|  |  | E1 | 2506 | 37 | 252 | 47% | 2549 | 30% |
+|  |  | P1 | 2530 | 46 | 172 | 51% | 2534 | 28% |
+|  |  | E1 | 2526 | 37 | 256 | 47% | 2569 | 30% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2437 | 26 | 500 | 51% | 2433 | 30% |
-|  |  | P1 | 2387 | 46 | 164 | 51% | 2390 | 27% |
-|  |  | E1 | 2435 | 40 | 230 | 54% | 2375 | 27% |
+|  |  | P1 | 2412 | 46 | 164 | 51% | 2414 | 27% |
+|  |  | E1 | 2457 | 40 | 234 | 54% | 2395 | 27% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2141 | 23 | 652 | 52% | 2118 | 27% |
-|  |  | P1 | 2048 | 42 | 192 | 50% | 2048 | 30% |
-|  |  | E1 | 2043 | 38 | 246 | 47% | 2088 | 24% |
+|  |  | P1 | 2068 | 42 | 192 | 50% | 2068 | 30% |
+|  |  | E1 | 2066 | 38 | 250 | 47% | 2107 | 24% |
