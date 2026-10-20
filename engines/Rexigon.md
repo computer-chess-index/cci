@@ -8,14 +8,14 @@ Home: https://github.com/silentshark-uk/rexigon
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2025-11-30 | 1918 | 2222 | 2385 |  |
+| 1.0 | 2025-11-30 | 1937 | 2240 | 2395 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2025-11-30 | 1972 | 2245 | 2364 |  |
+| 1.0 | 2025-11-30 | 1991 | 2256 | 2391 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-19 04:42:33
+Generated: 2026-10-20 04:42:40
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-10-19 04:42:33
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2444 | 26 | 562 | 50% | 2445 | 18% |
-|  |  | P1 | 2364 | 46 | 180 | 53% | 2342 | 17% |
-|  |  | E1 | 2385 | 40 | 238 | 50% | 2399 | 16% |
+|  |  | P1 | 2391 | 46 | 180 | 53% | 2368 | 17% |
+|  |  | E1 | 2395 | 40 | 246 | 49% | 2418 | 15% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2321 | 25 | 572 | 50% | 2321 | 17% |
-|  |  | P1 | 2245 | 50 | 152 | 48% | 2273 | 14% |
-|  |  | E1 | 2222 | 40 | 240 | 53% | 2183 | 18% |
+|  |  | P1 | 2256 | 46 | 180 | 48% | 2291 | 14% |
+|  |  | E1 | 2240 | 39 | 244 | 53% | 2202 | 17% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2059 | 23 | 752 | 51% | 2041 | 12% |
-|  |  | P1 | 1972 | 42 | 206 | 50% | 1979 | 17% |
-|  |  | E1 | 1918 | 40 | 232 | 45% | 1966 | 17% |
+|  |  | P1 | 1991 | 42 | 210 | 49% | 2001 | 17% |
+|  |  | E1 | 1937 | 39 | 236 | 45% | 1985 | 17% |
