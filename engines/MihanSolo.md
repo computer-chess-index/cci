@@ -8,14 +8,14 @@ Home: https://github.com/montypylons/mihansolo_bot
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.0.0 | 2025-10-01 | 1220 | 1381 | 1418 |  |
+| 9.0.0 | 2025-10-01 | 1235 | 1399 | 1440 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.0.0 | 2025-10-01 | 1135 | 1343 | 1401 |  |
+| 9.0.0 | 2025-10-01 | 1150 | 1354 | 1419 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-19 04:40:31
+Generated: 2026-10-20 04:40:39
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-10-19 04:40:31
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 9.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 1484 | 26 | 536 | 51% | 1499 | 29% |
-|  |  | P1 | 1401 | 46 | 162 | 43% | 1481 | 27% |
-|  |  | E1 | 1418 | 40 | 208 | 48% | 1490 | 37% |
+|  |  | P1 | 1419 | 46 | 162 | 43% | 1497 | 27% |
+|  |  | E1 | 1440 | 39 | 216 | 48% | 1505 | 38% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 1395 | 26 | 542 | 55% | 1349 | 29% |
-|  |  | P1 | 1343 | 45 | 160 | 53% | 1310 | 38% |
-|  |  | E1 | 1381 | 42 | 190 | 47% | 1477 | 36% |
+|  |  | P1 | 1354 | 44 | 164 | 53% | 1323 | 38% |
+|  |  | E1 | 1399 | 42 | 194 | 47% | 1493 | 35% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 1224 | 24 | 682 | 54% | 1169 | 29% |
-|  |  | P1 | 1135 | 50 | 132 | 50% | 1139 | 27% |
-|  |  | E1 | 1220 | 37 | 248 | 51% | 1222 | 33% |
+|  |  | P1 | 1150 | 50 | 136 | 51% | 1148 | 26% |
+|  |  | E1 | 1235 | 36 | 256 | 50% | 1239 | 34% |
