@@ -8,14 +8,14 @@ Home: https://github.com/FauziAkram/amira
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.82 | 2026-01-02 | 2195 | 2466 | 2584 |  |
+| 1.82 | 2026-01-02 | 2222 | 2485 | 2599 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.82 | 2026-01-02 | 2246 | 2541 | 2642 |  |
+| 1.82 | 2026-01-02 | 2269 | 2565 | 2662 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-19 04:35:36
+Generated: 2026-10-20 04:35:39
 
 ## Ratings Verlauf T1
 
@@ -64,14 +64,14 @@ xychart-beta
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 1.82 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2634 | 22 | 710 | 48% | 2649 | 29% |
-|  |  | P1 | 2642 | 39 | 234 | 49% | 2660 | 24% |
-|  |  | E1 | 2584 | 37 | 270 | 54% | 2538 | 24% |
+|  |  | P1 | 2662 | 39 | 238 | 48% | 2684 | 24% |
+|  |  | E1 | 2599 | 36 | 282 | 53% | 2560 | 24% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2549 | 25 | 552 | 51% | 2535 | 24% |
-|  |  | P1 | 2541 | 44 | 184 | 53% | 2533 | 28% |
-|  |  | E1 | 2466 | 37 | 278 | 50% | 2456 | 24% |
+|  |  | P1 | 2565 | 44 | 184 | 53% | 2557 | 28% |
+|  |  | E1 | 2485 | 36 | 282 | 49% | 2479 | 24% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2309 | 23 | 694 | 51% | 2295 | 23% |
-|  |  | P1 | 2246 | 44 | 176 | 50% | 2242 | 24% |
-|  |  | E1 | 2195 | 37 | 276 | 49% | 2222 | 20% |
+|  |  | P1 | 2269 | 43 | 184 | 50% | 2265 | 23% |
+|  |  | E1 | 2222 | 36 | 280 | 49% | 2242 | 20% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 1.71 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2476 | 40 | 220 | 51% | 2466 | 21% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2434 | 39 | 248 | 52% | 2425 | 17% |
