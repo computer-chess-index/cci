@@ -8,14 +8,14 @@ Home: https://github.com/jasper-sinclair/kobra
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1 | 2026-03-03 | 2687 | 3011 | 3085 |  |
+| 2.1 | 2026-03-03 | 2688 | 3015 | 3094 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1 | 2026-03-03 | 2726 | 3113 | 3195 |  |
+| 2.1 | 2026-03-03 | 2753 | 3143 | 3232 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-20 04:39:50
+Generated: 2026-10-21 04:39:46
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-10-20 04:39:50
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3112 | 22 | 560 | 51% | 3105 | 59% |
-|  |  | P1 | 3195 | 41 | 168 | 53% | 3167 | 57% |
-|  |  | E1 | 3085 | 33 | 264 | 53% | 3054 | 57% |
+|  |  | P1 | 3232 | 40 | 176 | 54% | 3197 | 55% |
+|  |  | E1 | 3094 | 32 | 276 | 54% | 3060 | 57% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3029 | 23 | 526 | 54% | 2997 | 50% |
-|  |  | P1 | 3113 | 38 | 192 | 51% | 3113 | 52% |
-|  |  | E1 | 3011 | 32 | 290 | 52% | 2966 | 51% |
+|  |  | P1 | 3143 | 38 | 192 | 51% | 3141 | 52% |
+|  |  | E1 | 3015 | 32 | 290 | 52% | 2970 | 51% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2718 | 22 | 626 | 54% | 2681 | 38% |
-|  |  | P1 | 2726 | 35 | 254 | 49% | 2734 | 37% |
-|  |  | E1 | 2687 | 31 | 324 | 48% | 2705 | 39% |
+|  |  | P1 | 2753 | 35 | 258 | 49% | 2761 | 36% |
+|  |  | E1 | 2688 | 31 | 332 | 47% | 2708 | 38% |
