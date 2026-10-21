@@ -8,14 +8,14 @@ Home: https://github.com/saisree27/Maelstrom
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.3.0 | 2025-08-27 | 2714 | 3119 | 3173 |  |
+| 3.3.0 | 2025-08-27 | 2716 | 3123 | 3177 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.3.0 | 2025-08-27 | 2823 | 3170 | 3325 |  |
+| 3.3.0 | 2025-08-27 | 2857 | 3198 | 3349 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-20 04:40:28
+Generated: 2026-10-21 04:40:24
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-10-20 04:40:28
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 3.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3177 | 23 | 496 | 49% | 3185 | 63% |
-|  |  | P1 | 3325 | 39 | 180 | 52% | 3302 | 60% |
-|  |  | E1 | 3173 | 31 | 316 | 57% | 3046 | 49% |
+|  |  | P1 | 3349 | 38 | 184 | 51% | 3330 | 60% |
+|  |  | E1 | 3177 | 31 | 316 | 57% | 3050 | 49% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3073 | 23 | 538 | 51% | 3058 | 54% |
-|  |  | P1 | 3170 | 37 | 224 | 55% | 3089 | 49% |
-|  |  | E1 | 3119 | 32 | 296 | 52% | 3073 | 51% |
+|  |  | P1 | 3198 | 37 | 224 | 55% | 3117 | 49% |
+|  |  | E1 | 3123 | 32 | 296 | 52% | 3077 | 51% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2742 | 22 | 658 | 50% | 2732 | 36% |
-|  |  | P1 | 2823 | 37 | 224 | 51% | 2815 | 36% |
-|  |  | E1 | 2714 | 32 | 316 | 47% | 2743 | 33% |
+|  |  | P1 | 2857 | 37 | 228 | 51% | 2843 | 36% |
+|  |  | E1 | 2716 | 32 | 316 | 47% | 2747 | 33% |
