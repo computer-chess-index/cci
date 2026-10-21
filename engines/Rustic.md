@@ -8,14 +8,14 @@ Home: https://github.com/mvanthoor/rustic
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.6 | 2025-09-24 | 1602 | 1806 | 1877 |  |
+| 3.0.6 | 2025-09-24 | 1598 | 1806 | 1860 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.6 | 2025-09-24 | 1613 | 1832 | 1850 |  |
+| 3.0.6 | 2025-09-24 | 1635 | 1855 | 1872 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-20 04:43:04
+Generated: 2026-10-21 04:43:05
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-10-20 04:43:04
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 3.0.6 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 1906 | 23 | 676 | 46% | 1955 | 20% |
-|  |  | P1 | 1850 | 48 | 160 | 51% | 1856 | 21% |
-|  |  | E1 | 1877 | 43 | 204 | 52% | 1863 | 20% |
+|  |  | P1 | 1872 | 47 | 164 | 51% | 1879 | 21% |
+|  |  | E1 | 1860 | 42 | 216 | 51% | 1863 | 19% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 1845 | 24 | 644 | 54% | 1805 | 19% |
-|  |  | P1 | 1832 | 42 | 220 | 53% | 1845 | 18% |
-|  |  | E1 | 1806 | 36 | 298 | 48% | 1866 | 18% |
+|  |  | P1 | 1855 | 42 | 220 | 53% | 1868 | 18% |
+|  |  | E1 | 1806 | 36 | 302 | 47% | 1872 | 18% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 1627 | 23 | 674 | 46% | 1681 | 22% |
-|  |  | P1 | 1613 | 44 | 192 | 49% | 1624 | 15% |
-|  |  | E1 | 1602 | 38 | 248 | 49% | 1607 | 21% |
+|  |  | P1 | 1635 | 44 | 192 | 49% | 1646 | 15% |
+|  |  | E1 | 1598 | 37 | 260 | 49% | 1605 | 22% |
