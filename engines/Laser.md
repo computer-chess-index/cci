@@ -8,14 +8,14 @@ Home: https://github.com/jeffreyan11/laser-chess-engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.7 | 2019-02-07 | 2746 | 3092 | 3129 |  |
+| 1.7 | 2019-02-07 | 2750 | 3100 | 3133 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.7 | 2019-02-07 | 2835 | 3154 | 3213 |  |
+| 1.7 | 2019-02-07 | 2861 | 3179 | 3244 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-20 04:40:04
+Generated: 2026-10-21 04:39:59
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-10-20 04:40:04
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 1.7 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3132 | 12 | 1930 | 50% | 3131 | 48% |
-|  |  | P1 | 3213 | 42 | 166 | 52% | 3183 | 48% |
-|  |  | E1 | 3129 | 33 | 296 | 55% | 3062 | 41% |
+|  |  | P1 | 3244 | 42 | 170 | 52% | 3212 | 48% |
+|  |  | E1 | 3133 | 33 | 296 | 55% | 3066 | 41% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3070 | 12 | 1966 | 51% | 3059 | 44% |
-|  |  | P1 | 3154 | 39 | 208 | 56% | 3074 | 40% |
-|  |  | E1 | 3092 | 34 | 264 | 54% | 3055 | 42% |
+|  |  | P1 | 3179 | 38 | 212 | 56% | 3104 | 40% |
+|  |  | E1 | 3100 | 34 | 268 | 54% | 3060 | 43% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2795 | 12 | 2070 | 50% | 2800 | 35% |
-|  |  | P1 | 2835 | 43 | 164 | 50% | 2836 | 41% |
-|  |  | E1 | 2746 | 31 | 356 | 46% | 2780 | 28% |
+|  |  | P1 | 2861 | 42 | 168 | 50% | 2865 | 42% |
+|  |  | E1 | 2750 | 31 | 356 | 46% | 2784 | 28% |
