@@ -8,14 +8,14 @@ Home: https://github.com/lynx-chess/Lynx
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.11.0 | 2025-10-01 | 2732 | 3139 | 3221 |  |
+| 1.11.0 | 2025-10-01 | 2739 | 3143 | 3222 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.11.0 | 2025-10-01 | 2888 | 3262 | 3321 |  |
+| 1.11.0 | 2025-10-01 | 2916 | 3293 | 3352 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-20 04:40:26
+Generated: 2026-10-21 04:40:21
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-10-20 04:40:26
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 1.11.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3214 | 22 | 564 | 50% | 3204 | 53% |
-|  |  | P1 | 3321 | 34 | 244 | 47% | 3343 | 51% |
-|  |  | E1 | 3221 | 31 | 312 | 57% | 3098 | 50% |
+|  |  | P1 | 3352 | 34 | 252 | 47% | 3368 | 51% |
+|  |  | E1 | 3222 | 31 | 316 | 56% | 3104 | 50% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3150 | 22 | 574 | 52% | 3114 | 55% |
-|  |  | P1 | 3262 | 37 | 230 | 50% | 3243 | 41% |
-|  |  | E1 | 3139 | 31 | 312 | 52% | 3066 | 45% |
+|  |  | P1 | 3293 | 36 | 242 | 50% | 3272 | 41% |
+|  |  | E1 | 3143 | 31 | 316 | 51% | 3071 | 45% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2836 | 19 | 828 | 50% | 2832 | 40% |
-|  |  | P1 | 2888 | 44 | 164 | 49% | 2898 | 36% |
-|  |  | E1 | 2732 | 30 | 356 | 47% | 2762 | 33% |
+|  |  | P1 | 2916 | 44 | 164 | 49% | 2927 | 36% |
+|  |  | E1 | 2739 | 30 | 364 | 47% | 2765 | 34% |
