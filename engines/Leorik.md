@@ -8,14 +8,14 @@ Home: https://github.com/lithander/Leorik
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.2 | 2026-01-06 | 381 | 412 | 404 |  |
+| 3.2 | 2026-01-06 | 389 | 414 | 409 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.2 | 2026-01-06 | 308 | 313 | 290 |  |
+| 3.2 | 2026-01-06 | 329 | 333 | 309 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-20 04:40:12
+Generated: 2026-10-21 04:40:07
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-10-20 04:40:12
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 3.2 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 431 | 34 | 422 | 21% | 911 | 34% |
-|  |  | P1 | 290 | 66 | 52 | 47% | 309 | 87% |
-|  |  | E1 | 404 | 47 | 164 | 34% | 841 | 47% |
+|  |  | P1 | 309 | 66 | 52 | 47% | 328 | 87% |
+|  |  | E1 | 409 | 47 | 168 | 35% | 832 | 47% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 396 | 36 | 388 | 21% | 878 | 35% |
-|  |  | P1 | 313 | 75 | 40 | 54% | 290 | 83% |
-|  |  | E1 | 412 | 49 | 154 | 31% | 886 | 49% |
+|  |  | P1 | 333 | 76 | 40 | 54% | 309 | 83% |
+|  |  | E1 | 414 | 49 | 154 | 31% | 888 | 49% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 398 | 32 | 460 | 22% | 838 | 36% |
-|  |  | P1 | 308 | 50 | 116 | 39% | 594 | 63% |
-|  |  | E1 | 381 | 45 | 168 | 38% | 605 | 51% |
+|  |  | P1 | 329 | 49 | 120 | 40% | 603 | 62% |
+|  |  | E1 | 389 | 44 | 176 | 38% | 640 | 49% |
