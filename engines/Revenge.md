@@ -8,14 +8,14 @@ Home: https://www.revengechess.com/
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.0.7 | 2025-01-01 | 3278 | 3497 | 3567 |  |
+| 4.0.7 | 2025-01-01 | 3282 | 3499 | 3569 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.0.7 | 2025-01-01 | 3430 | 3625 | 3622 |  |
+| 4.0.7 | 2025-01-01 | 3459 | 3650 | 3650 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-20 04:42:34
+Generated: 2026-10-21 04:42:35
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-10-20 04:42:34
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 4.0.7 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3495 | 15 | 1002 | 50% | 3494 | 81% |
-|  |  | P1 | 3622 | 45 | 120 | 51% | 3614 | 74% |
-|  |  | E1 | 3567 | 37 | 176 | 51% | 3557 | 80% |
-|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 3625 | 44 | 116 | 52% | 3614 | 88% |
-|  |  | E1 | 3497 | 36 | 192 | 50% | 3497 | 73% |
+|  |  | P1 | 3650 | 45 | 120 | 51% | 3642 | 74% |
+|  |  | E1 | 3569 | 36 | 180 | 51% | 3563 | 80% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 3650 | 43 | 120 | 51% | 3642 | 88% |
+|  |  | E1 | 3499 | 36 | 192 | 50% | 3501 | 73% |
 |  |  | T1 | 3467 | 16 | 974 | 50% | 3465 | 78% |
-|  | STC <sub>(8.0+0.08s)</sub> | P1 | 3430 | 33 | 230 | 50% | 3430 | 66% |
-|  |  | E1 | 3278 | 29 | 316 | 48% | 3297 | 64% |
+|  | STC <sub>(8.0+0.08s)</sub> | P1 | 3459 | 33 | 238 | 50% | 3459 | 66% |
+|  |  | E1 | 3282 | 29 | 316 | 48% | 3301 | 64% |
 |  |  | T1 | 3289 | 15 | 1084 | 50% | 3291 | 67% |
