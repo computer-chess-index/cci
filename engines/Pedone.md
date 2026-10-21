@@ -8,14 +8,14 @@ Home:
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.1 | 2021-04-01 | 2908 | 3229 | 3333 |  |
+| 3.1 | 2021-04-01 | 2913 | 3232 | 3336 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.1 | 2021-04-01 | 3056 | 3341 | 3389 |  |
+| 3.1 | 2021-04-01 | 3083 | 3368 | 3417 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-20 04:41:29
+Generated: 2026-10-21 04:41:27
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-10-20 04:41:29
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 3.1 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3299 | 11 | 2024 | 51% | 3295 | 64% |
-|  |  | P1 | 3389 | 39 | 178 | 53% | 3340 | 60% |
-|  |  | E1 | 3333 | 34 | 244 | 52% | 3295 | 53% |
+|  |  | P1 | 3417 | 39 | 182 | 53% | 3368 | 60% |
+|  |  | E1 | 3336 | 34 | 252 | 52% | 3302 | 54% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3233 | 12 | 1844 | 51% | 3231 | 60% |
-|  |  | P1 | 3341 | 37 | 204 | 51% | 3329 | 52% |
-|  |  | E1 | 3229 | 35 | 240 | 55% | 3171 | 48% |
+|  |  | P1 | 3368 | 37 | 204 | 51% | 3356 | 52% |
+|  |  | E1 | 3232 | 35 | 244 | 55% | 3177 | 49% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2961 | 12 | 2058 | 50% | 2948 | 46% |
-|  |  | P1 | 3056 | 37 | 216 | 53% | 3032 | 42% |
-|  |  | E1 | 2908 | 29 | 364 | 48% | 2923 | 40% |
+|  |  | P1 | 3083 | 37 | 216 | 53% | 3059 | 42% |
+|  |  | E1 | 2913 | 29 | 364 | 48% | 2927 | 40% |
