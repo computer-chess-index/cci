@@ -8,14 +8,14 @@ Home: https://github.com/OmerFarukTutkun/Devre
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.0 | 2024-08-10 | 3108 | 3416 | 3482 |  |
+| 6.0 | 2024-08-10 | 3110 | 3420 | 3486 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.0 | 2024-08-10 | 3274 | 3544 | 3583 |  |
+| 6.0 | 2024-08-10 | 3308 | 3571 | 3611 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-20 04:37:58
+Generated: 2026-10-21 04:37:55
 
 ## Ratings Verlauf T1
 
@@ -68,11 +68,11 @@ xychart-beta
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 3386 | 26 | 378 | 54% | 3339 | 70% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 6.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3452 | 32 | 244 | 49% | 3456 | 76% |
-|  |  | P1 | 3583 | 38 | 164 | 49% | 3590 | 75% |
-|  |  | E1 | 3482 | 29 | 288 | 50% | 3484 | 73% |
+|  |  | P1 | 3611 | 38 | 164 | 49% | 3618 | 75% |
+|  |  | E1 | 3486 | 29 | 288 | 50% | 3488 | 73% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3411 | 30 | 286 | 50% | 3411 | 71% |
-|  |  | P1 | 3544 | 36 | 184 | 51% | 3533 | 76% |
-|  |  | E1 | 3416 | 29 | 286 | 47% | 3436 | 74% |
+|  |  | P1 | 3571 | 36 | 188 | 51% | 3563 | 76% |
+|  |  | E1 | 3420 | 29 | 286 | 47% | 3440 | 74% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 3200 | 32 | 268 | 48% | 3213 | 61% |
-|  |  | P1 | 3274 | 34 | 230 | 48% | 3290 | 62% |
-|  |  | E1 | 3108 | 29 | 348 | 42% | 3168 | 52% |
+|  |  | P1 | 3308 | 33 | 242 | 49% | 3318 | 62% |
+|  |  | E1 | 3110 | 28 | 364 | 42% | 3170 | 52% |
