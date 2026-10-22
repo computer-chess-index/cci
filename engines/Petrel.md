@@ -8,14 +8,14 @@ Home: https://github.com/AleksPeshkov/petrel
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.1 | 2026-09-08 | 3058 | 3316 | 3407 |  |
+| 4.1 | 2026-09-08 | 3073 | 3336 | 3428 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.1 | 2026-09-08 | 3258 | 3453 | 3544 |  |
+| 4.1 | 2026-09-08 | 3266 | 3457 | 3546 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -48,7 +48,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-21 04:41:33
+Generated: 2026-10-22 04:41:44
 
 ## Ratings Verlauf T1
 
@@ -71,14 +71,14 @@ xychart-beta
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 4.1 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3379 | 32 | 236 | 49% | 3387 | 75% |
-|  |  | P1 | 3544 | 37 | 176 | 53% | 3524 | 76% |
-|  |  | E1 | 3407 | 30 | 292 | 48% | 3424 | 68% |
-|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3324 | 32 | 250 | 52% | 3312 | 70% |
-|  |  | P1 | 3453 | 35 | 210 | 49% | 3460 | 69% |
-|  |  | E1 | 3316 | 30 | 296 | 48% | 3333 | 63% |
-|  | STC <sub>(8.0+0.08s)</sub> | T1 | 3141 | 31 | 276 | 53% | 3120 | 63% |
-|  |  | P1 | 3258 | 36 | 210 | 46% | 3294 | 55% |
-|  |  | E1 | 3058 | 29 | 338 | 46% | 3093 | 52% |
+|  |  | P1 | 3546 | 37 | 180 | 53% | 3528 | 77% |
+|  |  | E1 | 3428 | 29 | 308 | 48% | 3441 | 69% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 3457 | 34 | 218 | 49% | 3463 | 69% |
+|  |  | E1 | 3336 | 29 | 304 | 48% | 3349 | 63% |
+|  |  | T1 | 3324 | 32 | 250 | 52% | 3312 | 70% |
+|  | STC <sub>(8.0+0.08s)</sub> | P1 | 3266 | 36 | 214 | 46% | 3297 | 54% |
+|  |  | E1 | 3073 | 29 | 338 | 46% | 3108 | 52% |
+|  |  | T1 | 3141 | 31 | 276 | 53% | 3120 | 63% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 4.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3378 | 27 | 338 | 50% | 3378 | 74% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3341 | 28 | 322 | 49% | 3347 | 72% |
