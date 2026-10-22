@@ -8,14 +8,14 @@ Home: https://github.com/Dejon51/Crustik
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.3.0 | 2026-08-27 | 2606 | 2934 | 3000 |  |
+| 0.3.0 | 2026-08-27 | 2624 | 2951 | 3015 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.3.0 | 2026-08-27 | 2692 | 3035 | 3093 |  |
+| 0.3.0 | 2026-08-27 | 2693 | 3038 | 3097 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-21 04:37:46
+Generated: 2026-10-22 04:37:44
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-10-21 04:37:46
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 0.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3004 | 33 | 282 | 51% | 3000 | 43% |
-|  |  | P1 | 3093 | 37 | 210 | 51% | 3082 | 46% |
-|  |  | E1 | 3000 | 30 | 322 | 50% | 2996 | 47% |
-|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2928 | 33 | 270 | 51% | 2916 | 46% |
-|  |  | P1 | 3035 | 39 | 194 | 52% | 3015 | 41% |
-|  |  | E1 | 2934 | 32 | 296 | 49% | 2942 | 44% |
-|  | STC <sub>(8.0+0.08s)</sub> | T1 | 2655 | 34 | 272 | 50% | 2651 | 38% |
-|  |  | P1 | 2692 | 35 | 246 | 48% | 2709 | 41% |
-|  |  | E1 | 2606 | 34 | 282 | 45% | 2649 | 34% |
+| 0.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3097 | 37 | 210 | 51% | 3085 | 46% |
+|  |  | E1 | 3015 | 30 | 330 | 49% | 3017 | 47% |
+|  |  | T1 | 3004 | 33 | 282 | 51% | 3000 | 43% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 3038 | 39 | 194 | 52% | 3017 | 41% |
+|  |  | E1 | 2951 | 31 | 300 | 50% | 2957 | 44% |
+|  |  | T1 | 2928 | 33 | 270 | 51% | 2916 | 46% |
+|  | STC <sub>(8.0+0.08s)</sub> | P1 | 2693 | 35 | 254 | 48% | 2709 | 40% |
+|  |  | E1 | 2624 | 33 | 290 | 46% | 2660 | 35% |
+|  |  | T1 | 2655 | 34 | 272 | 50% | 2651 | 38% |
