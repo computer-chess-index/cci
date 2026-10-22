@@ -8,14 +8,14 @@ Home: https://github.com/AndyGrant/Ethereal
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 13.07 | 2021-07-11 | 2903 | 3205 | 3297 |  |
+| 13.07 | 2021-07-11 | 2916 | 3218 | 3313 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 13.07 | 2021-07-11 | 3042 | 3344 | 3445 |  |
+| 13.07 | 2021-07-11 | 3044 | 3347 | 3444 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-21 04:38:27
+Generated: 2026-10-22 04:38:27
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-10-21 04:38:27
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 13.07 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3289 | 12 | 2008 | 51% | 3283 | 61% |
-|  |  | P1 | 3445 | 37 | 198 | 53% | 3421 | 60% |
-|  |  | E1 | 3297 | 36 | 220 | 53% | 3270 | 52% |
-|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 3344 | 32 | 288 | 56% | 3285 | 52% |
-|  |  | E1 | 3205 | 32 | 282 | 51% | 3186 | 50% |
+| 13.07 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3444 | 36 | 206 | 52% | 3428 | 58% |
+|  |  | E1 | 3313 | 36 | 224 | 52% | 3287 | 53% |
+|  |  | T1 | 3289 | 12 | 2008 | 51% | 3283 | 61% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 3218 | 32 | 290 | 51% | 3204 | 50% |
 |  |  | T1 | 3217 | 12 | 1940 | 50% | 3218 | 54% |
-|  | STC <sub>(8.0+0.08s)</sub> | P1 | 3042 | 36 | 232 | 48% | 3055 | 46% |
-|  |  | E1 | 2903 | 32 | 308 | 45% | 2951 | 41% |
+|  |  | P1 | 3347 | 32 | 292 | 55% | 3290 | 51% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2916 | 32 | 312 | 45% | 2965 | 41% |
 |  |  | T1 | 2957 | 12 | 2080 | 51% | 2947 | 43% |
+|  |  | P1 | 3044 | 36 | 232 | 48% | 3058 | 46% |
