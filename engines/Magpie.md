@@ -8,7 +8,7 @@ Home: https://github.com/mrgwbland/Magpie
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.3 | 2026-08-12 | 691 | 659 | 641 |  |
+| 0.3 | 2026-08-12 | 689 | 660 | 653 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-21 04:40:27
+Generated: 2026-10-22 04:40:40
 
 ## Ratings Verlauf T1
 
@@ -63,15 +63,15 @@ xychart-beta
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 0.3 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 581 | 43 | 208 | 50% | 587 | 22% |
+| 0.3 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 653 | 50 | 170 | 52% | 776 | 21% |
+|  |  | T1 | 581 | 43 | 208 | 50% | 587 | 22% |
 |  |  | P1 | 540 | 64 | 118 | 40% | 945 | 20% |
-|  |  | E1 | 641 | 51 | 162 | 51% | 780 | 21% |
-|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 586 | 44 | 204 | 50% | 576 | 25% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 660 | 47 | 168 | 51% | 722 | 28% |
+|  |  | T1 | 586 | 44 | 204 | 50% | 576 | 25% |
 |  |  | P1 | 613 | 60 | 112 | 50% | 805 | 28% |
-|  |  | E1 | 659 | 48 | 160 | 51% | 722 | 29% |
-|  | STC <sub>(8.0+0.08s)</sub> | T1 | 589 | 44 | 220 | 47% | 648 | 16% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 689 | 48 | 176 | 51% | 717 | 16% |
+|  |  | T1 | 589 | 44 | 220 | 47% | 648 | 16% |
 |  |  | P1 | 598 | 63 | 104 | 47% | 836 | 21% |
-|  |  | E1 | 691 | 48 | 172 | 52% | 706 | 17% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 0.2 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 450 | 45 | 208 | 35% | 687 | 35% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 440 | 46 | 192 | 36% | 645 | 38% |
