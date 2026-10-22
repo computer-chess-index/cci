@@ -8,14 +8,14 @@ Home: https://github.com/booot76/Booot-chess-engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7.4 | 2025-02-25 | 3216 | 3468 | 3596 |  |
+| 7.4 | 2025-02-25 | 3225 | 3484 | 3607 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7.4 | 2025-02-25 | 3366 | 3614 | 3659 |  |
+| 7.4 | 2025-02-25 | 3370 | 3615 | 3659 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-21 04:36:32
+Generated: 2026-10-22 04:36:32
 
 
 
@@ -48,13 +48,13 @@ Generated: 2026-10-21 04:36:32
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 7.4 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3659 | 40 | 156 | 54% | 3579 | 76% |
-|  |  | E1 | 3596 | 38 | 182 | 55% | 3513 | 71% |
-|  |  | T1 | 3499 | 23 | 460 | 51% | 3486 | 80% |
-|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 3468 | 31 | 274 | 57% | 3366 | 70% |
-|  |  | T1 | 3456 | 21 | 572 | 50% | 3445 | 76% |
-|  |  | P1 | 3614 | 44 | 132 | 52% | 3552 | 73% |
-|  | STC <sub>(8.0+0.08s)</sub> | E1 | 3216 | 33 | 244 | 48% | 3233 | 64% |
-|  |  | T1 | 3241 | 19 | 750 | 50% | 3237 | 58% |
-|  |  | P1 | 3366 | 40 | 168 | 50% | 3370 | 61% |
+| 7.4 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3499 | 23 | 460 | 51% | 3486 | 80% |
+|  |  | P1 | 3659 | 40 | 156 | 54% | 3579 | 76% |
+|  |  | E1 | 3607 | 37 | 190 | 54% | 3536 | 71% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3456 | 21 | 572 | 50% | 3445 | 76% |
+|  |  | P1 | 3615 | 44 | 132 | 52% | 3552 | 73% |
+|  |  | E1 | 3484 | 31 | 278 | 57% | 3386 | 70% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 3241 | 19 | 750 | 50% | 3237 | 58% |
+|  |  | P1 | 3370 | 39 | 172 | 50% | 3374 | 62% |
+|  |  | E1 | 3225 | 33 | 248 | 47% | 3248 | 63% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
