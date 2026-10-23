@@ -8,14 +8,14 @@ Home: https://github.com/Lacovipo/Gilipol
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.00 | 2026-06-06 | 2599 | 2965 | 3097 |  |
+| 2.00 | 2026-06-06 | 2600 | 2971 | 3097 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.00 | 2026-06-06 | 2732 | 3052 | 3195 |  |
+| 2.00 | 2026-06-06 | 2697 | 3017 | 3162 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -42,7 +42,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-22 04:39:01
+Generated: 2026-10-23 04:39:02
 
 ## Ratings Verlauf T1
 
@@ -65,14 +65,14 @@ xychart-beta
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 2.00 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3117 | 24 | 488 | 53% | 3092 | 54% |
-|  |  | P1 | 3195 | 37 | 202 | 52% | 3144 | 55% |
-|  |  | E1 | 3097 | 33 | 280 | 54% | 3060 | 46% |
+|  |  | P1 | 3162 | 37 | 206 | 53% | 3110 | 56% |
+|  |  | E1 | 3097 | 32 | 284 | 53% | 3065 | 46% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3006 | 26 | 432 | 52% | 2985 | 46% |
-|  |  | P1 | 3052 | 38 | 210 | 53% | 3019 | 45% |
-|  |  | E1 | 2965 | 31 | 314 | 53% | 2932 | 45% |
+|  |  | P1 | 3017 | 38 | 210 | 53% | 2984 | 45% |
+|  |  | E1 | 2971 | 31 | 322 | 54% | 2935 | 44% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2666 | 27 | 436 | 51% | 2655 | 33% |
-|  |  | P1 | 2732 | 36 | 242 | 49% | 2753 | 40% |
-|  |  | E1 | 2599 | 32 | 332 | 45% | 2643 | 33% |
+|  |  | P1 | 2697 | 36 | 242 | 49% | 2718 | 40% |
+|  |  | E1 | 2600 | 32 | 332 | 45% | 2645 | 33% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 1.00netbin | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3013 | 28 | 426 | 57% | 2795 | 41% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2871 | 25 | 546 | 59% | 2695 | 39% |
