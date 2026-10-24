@@ -8,14 +8,14 @@ Home: https://github.com/AlexGisi/prometheus-chess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.2.1 | 2025-08-18 | 1426 | 1513 | 1551 |  |
+| 0.2.1 | 2025-08-18 | 1445 | 1534 | 1575 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.2.1 | 2025-08-18 | 1316 | 1527 | 1627 |  |
+| 0.2.1 | 2025-08-18 | 1331 | 1542 | 1640 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-23 04:41:50
+Generated: 2026-10-24 04:41:48
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-10-23 04:41:50
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 0.2.1 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 1551 | 39 | 272 | 43% | 1690 | 15% |
-|  |  | T1 | 1551 | 25 | 608 | 43% | 1655 | 19% |
-|  |  | P1 | 1627 | 51 | 164 | 45% | 1748 | 13% |
-|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 1513 | 37 | 290 | 45% | 1602 | 11% |
-|  |  | T1 | 1532 | 26 | 566 | 48% | 1575 | 18% |
-|  |  | P1 | 1527 | 50 | 138 | 47% | 1555 | 21% |
-|  | STC <sub>(8.0+0.08s)</sub> | E1 | 1426 | 39 | 234 | 50% | 1423 | 21% |
-|  |  | T1 | 1393 | 27 | 572 | 51% | 1382 | 18% |
-|  |  | P1 | 1316 | 46 | 182 | 46% | 1359 | 16% |
+| 0.2.1 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 1551 | 25 | 608 | 43% | 1655 | 19% |
+|  |  | P1 | 1640 | 51 | 164 | 45% | 1762 | 13% |
+|  |  | E1 | 1575 | 38 | 282 | 44% | 1710 | 16% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 1532 | 26 | 566 | 48% | 1575 | 18% |
+|  |  | P1 | 1542 | 50 | 138 | 47% | 1570 | 21% |
+|  |  | E1 | 1534 | 37 | 290 | 45% | 1623 | 11% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 1393 | 27 | 572 | 51% | 1382 | 18% |
+|  |  | P1 | 1331 | 45 | 186 | 47% | 1370 | 17% |
+|  |  | E1 | 1445 | 38 | 240 | 50% | 1443 | 21% |
