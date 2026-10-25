@@ -8,14 +8,14 @@ Home: https://github.com/jhonnold/berserk
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 14 | 2026-05-24 | 3461 | 3696 | 3727 |  |
+| 14 | 2026-05-24 | 3471 | 3706 | 3738 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 14 | 2026-05-24 | 3580 | 3715 | 3779 |  |
+| 14 | 2026-05-24 | 3586 | 3723 | 3788 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-24 04:36:21
+Generated: 2026-10-25 05:36:16
 
 ## Ratings Verlauf T1
 
@@ -63,15 +63,15 @@ xychart-beta
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 14 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3779 | 49 | 92 | 52% | 3764 | 93% |
-|  |  | E1 | 3727 | 36 | 176 | 51% | 3722 | 86% |
+| 14 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 3738 | 36 | 180 | 51% | 3733 | 86% |
 |  |  | T1 | 3586 | 29 | 268 | 51% | 3582 | 93% |
-|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 3696 | 36 | 180 | 52% | 3684 | 84% |
+|  |  | P1 | 3788 | 48 | 96 | 53% | 3771 | 93% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 3706 | 36 | 180 | 52% | 3694 | 84% |
 |  |  | T1 | 3555 | 29 | 264 | 50% | 3556 | 91% |
-|  |  | P1 | 3715 | 40 | 144 | 49% | 3719 | 85% |
-|  | STC <sub>(8.0+0.08s)</sub> | E1 | 3461 | 28 | 330 | 46% | 3491 | 69% |
+|  |  | P1 | 3723 | 40 | 144 | 49% | 3727 | 85% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 3471 | 28 | 334 | 46% | 3502 | 69% |
 |  |  | T1 | 3443 | 24 | 426 | 53% | 3372 | 76% |
-|  |  | P1 | 3580 | 38 | 168 | 49% | 3587 | 77% |
+|  |  | P1 | 3586 | 37 | 176 | 49% | 3594 | 77% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 13 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3563 | 13 | 1458 | 53% | 3488 | 84% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3538 | 12 | 1740 | 51% | 3534 | 87% |
