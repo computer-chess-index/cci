@@ -8,14 +8,14 @@ Home: https://github.com/jeffreyan11/laser-chess-engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.7 | 2019-02-07 | 2795 | 3147 | 3178 |  |
+| 1.7 | 2019-02-07 | 2805 | 3156 | 3191 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.7 | 2019-02-07 | 2846 | 3154 | 3228 |  |
+| 1.7 | 2019-02-07 | 2854 | 3162 | 3237 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-24 04:40:01
+Generated: 2026-10-25 05:39:45
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-10-24 04:40:01
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 1.7 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3132 | 12 | 1930 | 50% | 3131 | 48% |
-|  |  | P1 | 3228 | 42 | 170 | 52% | 3195 | 48% |
-|  |  | E1 | 3178 | 32 | 304 | 56% | 3109 | 41% |
-|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3070 | 12 | 1966 | 51% | 3059 | 44% |
-|  |  | P1 | 3154 | 38 | 220 | 55% | 3089 | 39% |
-|  |  | E1 | 3147 | 33 | 280 | 54% | 3104 | 43% |
+| 1.7 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 3191 | 32 | 308 | 56% | 3121 | 41% |
+|  |  | T1 | 3132 | 12 | 1930 | 50% | 3131 | 48% |
+|  |  | P1 | 3237 | 42 | 170 | 52% | 3205 | 48% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 3156 | 33 | 284 | 54% | 3116 | 42% |
+|  |  | T1 | 3070 | 12 | 1966 | 51% | 3059 | 44% |
+|  |  | P1 | 3162 | 38 | 220 | 55% | 3097 | 39% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2795 | 12 | 2070 | 50% | 2800 | 35% |
-|  |  | P1 | 2846 | 41 | 180 | 50% | 2854 | 41% |
-|  |  | E1 | 2795 | 30 | 368 | 47% | 2824 | 29% |
+|  |  | P1 | 2854 | 41 | 180 | 50% | 2862 | 41% |
+|  |  | E1 | 2805 | 30 | 372 | 47% | 2836 | 28% |
