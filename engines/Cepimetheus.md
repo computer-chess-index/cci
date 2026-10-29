@@ -55,7 +55,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-28 05:36:59
+Generated: 2026-10-29 05:36:58
 
 ## Ratings Verlauf E1 / P1
 
