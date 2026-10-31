@@ -42,7 +42,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-30 05:36:45
+Generated: 2026-10-31 05:36:41
 
 ## Ratings Verlauf T1
 
@@ -67,9 +67,9 @@ xychart-beta
 | 1.1.2 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 2889 | 38 | 200 | 47% | 2911 | 48% |
 |  |  | E1 | 2870 | 29 | 352 | 47% | 2903 | 44% |
 |  |  | T1 | 2830 | 36 | 230 | 50% | 2834 | 40% |
-|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 2786 | 37 | 220 | 50% | 2785 | 46% |
-|  |  | E1 | 2809 | 32 | 298 | 52% | 2763 | 46% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 2809 | 32 | 298 | 52% | 2763 | 46% |
 |  |  | T1 | 2711 | 34 | 252 | 50% | 2709 | 46% |
+|  |  | P1 | 2786 | 37 | 220 | 50% | 2785 | 46% |
 |  | STC <sub>(8.0+0.08s)</sub> | E1 | 2426 | 31 | 330 | 44% | 2475 | 39% |
 |  |  | T1 | 2475 | 36 | 236 | 51% | 2469 | 41% |
 |  |  | P1 | 2534 | 38 | 224 | 52% | 2507 | 40% |
