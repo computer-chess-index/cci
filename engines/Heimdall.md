@@ -8,14 +8,14 @@ Home: https://github.com/nocturn9x/heimdall
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.4.2 | 2025-09-25 | 3160 | 3495 | 3555 |  |
+| 1.4.2 | 2025-09-25 | 3163 | 3498 | 3559 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.4.2 | 2025-09-25 | 3298 | 3536 | 3579 |  |
+| 1.4.2 | 2025-09-25 | 3333 | 3571 | 3614 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-31 05:39:00
+Generated: 2026-11-01 05:39:03
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-10-31 05:39:00
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 1.4.2 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3434 | 22 | 506 | 51% | 3426 | 70% |
-|  |  | P1 | 3579 | 33 | 242 | 58% | 3460 | 70% |
-|  |  | E1 | 3555 | 33 | 254 | 59% | 3430 | 67% |
+|  |  | P1 | 3614 | 33 | 246 | 58% | 3497 | 70% |
+|  |  | E1 | 3559 | 33 | 258 | 59% | 3436 | 67% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3378 | 24 | 448 | 51% | 3366 | 70% |
-|  |  | P1 | 3536 | 36 | 202 | 55% | 3465 | 67% |
-|  |  | E1 | 3495 | 32 | 288 | 56% | 3357 | 61% |
-|  | STC <sub>(8.0+0.08s)</sub> | T1 | 3129 | 21 | 654 | 51% | 3120 | 56% |
-|  |  | P1 | 3298 | 34 | 252 | 48% | 3317 | 50% |
-|  |  | E1 | 3160 | 28 | 362 | 46% | 3194 | 48% |
+|  |  | P1 | 3571 | 36 | 202 | 55% | 3501 | 67% |
+|  |  | E1 | 3498 | 31 | 300 | 56% | 3366 | 61% |
+|  | STC <sub>(8.0+0.08s)</sub> | P1 | 3333 | 33 | 260 | 48% | 3351 | 50% |
+|  |  | E1 | 3163 | 28 | 366 | 46% | 3197 | 48% |
+|  |  | T1 | 3129 | 21 | 654 | 51% | 3120 | 56% |
