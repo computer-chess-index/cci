@@ -8,14 +8,14 @@ Home: https://github.com/AndyGrant/Ethereal
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 13.07 | 2021-07-11 | 2957 | 3256 | 3352 |  |
+| 13.07 | 2021-07-11 | 2959 | 3262 | 3357 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 13.07 | 2021-07-11 | 3031 | 3330 | 3426 |  |
+| 13.07 | 2021-07-11 | 3065 | 3368 | 3461 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-31 05:38:17
+Generated: 2026-11-01 05:38:18
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-10-31 05:38:17
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 13.07 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3426 | 36 | 214 | 51% | 3416 | 57% |
-|  |  | E1 | 3352 | 33 | 256 | 52% | 3330 | 55% |
+| 13.07 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3461 | 36 | 214 | 51% | 3451 | 57% |
+|  |  | E1 | 3357 | 33 | 258 | 52% | 3335 | 55% |
 |  |  | T1 | 3289 | 12 | 2008 | 51% | 3283 | 61% |
-|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 3330 | 31 | 300 | 55% | 3278 | 51% |
-|  |  | E1 | 3256 | 31 | 294 | 51% | 3241 | 50% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 3262 | 31 | 300 | 51% | 3245 | 51% |
 |  |  | T1 | 3217 | 12 | 1940 | 50% | 3218 | 54% |
-|  | STC <sub>(8.0+0.08s)</sub> | P1 | 3031 | 36 | 232 | 48% | 3044 | 46% |
-|  |  | E1 | 2957 | 31 | 328 | 46% | 3001 | 40% |
+|  |  | P1 | 3368 | 31 | 304 | 55% | 3313 | 51% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2959 | 31 | 328 | 46% | 3004 | 40% |
 |  |  | T1 | 2957 | 12 | 2080 | 51% | 2947 | 43% |
+|  |  | P1 | 3065 | 36 | 232 | 48% | 3078 | 46% |
