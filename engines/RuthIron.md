@@ -8,14 +8,14 @@ Home: https://github.com/themreKalkan/RuthIron
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 21.9.6.7 | 2026-02-28 | 2423 | 2776 | 2904 |  |
+| 21.9.6.7 | 2026-02-28 | 2422 | 2774 | 2908 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 21.9.6.7 | 2026-02-28 | 2472 | 2843 | 2935 |  |
+| 21.9.6.7 | 2026-02-28 | 2499 | 2877 | 2969 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-31 05:42:45
+Generated: 2026-11-01 05:42:39
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-10-31 05:42:45
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 21.9.6.7 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 2904 | 36 | 266 | 51% | 2873 | 32% |
-|  |  | T1 | 2861 | 24 | 534 | 50% | 2861 | 41% |
-|  |  | P1 | 2935 | 37 | 222 | 49% | 2958 | 42% |
+| 21.9.6.7 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2861 | 24 | 534 | 50% | 2861 | 41% |
+|  |  | P1 | 2969 | 37 | 222 | 49% | 2992 | 42% |
+|  |  | E1 | 2908 | 36 | 266 | 51% | 2876 | 32% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2754 | 24 | 564 | 50% | 2758 | 38% |
-|  |  | P1 | 2843 | 39 | 220 | 55% | 2785 | 35% |
-|  |  | E1 | 2776 | 32 | 344 | 51% | 2738 | 29% |
+|  |  | P1 | 2877 | 39 | 220 | 55% | 2819 | 35% |
+|  |  | E1 | 2774 | 31 | 356 | 50% | 2743 | 30% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2415 | 23 | 686 | 49% | 2433 | 28% |
-|  |  | P1 | 2472 | 40 | 212 | 48% | 2514 | 33% |
-|  |  | E1 | 2423 | 35 | 274 | 48% | 2449 | 31% |
+|  |  | P1 | 2499 | 39 | 220 | 47% | 2546 | 33% |
+|  |  | E1 | 2422 | 34 | 286 | 47% | 2452 | 30% |
