@@ -8,14 +8,14 @@ Home: https://github.com/OmerFarukTutkun/Devre
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.0 | 2024-08-10 | 3166 | 3474 | 3544 |  |
+| 6.0 | 2024-08-10 | 3174 | 3479 | 3548 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.0 | 2024-08-10 | 3298 | 3559 | 3600 |  |
+| 6.0 | 2024-08-10 | 3332 | 3590 | 3638 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-10-31 05:37:44
+Generated: 2026-11-01 05:37:46
 
 ## Ratings Verlauf T1
 
@@ -67,12 +67,12 @@ xychart-beta
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3532 | 26 | 346 | 51% | 3511 | 81% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 3386 | 26 | 378 | 54% | 3339 | 70% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 6.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3600 | 38 | 168 | 49% | 3610 | 75% |
-|  |  | E1 | 3544 | 28 | 306 | 50% | 3546 | 73% |
+| 6.0 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 3548 | 28 | 322 | 50% | 3551 | 73% |
 |  |  | T1 | 3452 | 32 | 244 | 49% | 3456 | 76% |
-|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 3559 | 35 | 200 | 50% | 3557 | 75% |
-|  |  | E1 | 3474 | 28 | 314 | 47% | 3494 | 75% |
+|  |  | P1 | 3638 | 38 | 172 | 49% | 3644 | 74% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 3479 | 28 | 322 | 48% | 3495 | 75% |
 |  |  | T1 | 3411 | 30 | 286 | 50% | 3411 | 71% |
-|  | STC <sub>(8.0+0.08s)</sub> | P1 | 3298 | 33 | 242 | 49% | 3309 | 62% |
-|  |  | E1 | 3166 | 28 | 372 | 42% | 3225 | 52% |
+|  |  | P1 | 3590 | 34 | 208 | 50% | 3592 | 75% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 3174 | 27 | 384 | 43% | 3227 | 52% |
 |  |  | T1 | 3200 | 32 | 268 | 48% | 3213 | 61% |
+|  |  | P1 | 3332 | 33 | 246 | 48% | 3343 | 62% |
