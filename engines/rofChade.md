@@ -8,14 +8,14 @@ Home: https://rofchade.nl/
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.1 | 2023-10-01 | 3281 | 3507 | 3609 |  |
+| 3.1 | 2023-10-01 | 3271 | 3498 | 3599 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.1 | 2023-10-01 | 3352 | 3583 | 3653 |  |
+| 3.1 | 2023-10-01 | 3336 | 3564 | 3633 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-01 05:42:21
+Generated: 2026-11-02 05:42:33
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-01 05:42:21
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 3.1 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3653 | 39 | 160 | 50% | 3648 | 77% |
+| 3.1 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 3599 | 33 | 216 | 50% | 3600 | 77% |
+|  |  | P1 | 3633 | 39 | 160 | 50% | 3627 | 77% |
 |  |  | T1 | 3474 | 11 | 1997 | 51% | 3467 | 80% |
-|  |  | E1 | 3609 | 34 | 208 | 50% | 3611 | 76% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3432 | 11 | 1960 | 50% | 3429 | 77% |
-|  |  | E1 | 3507 | 33 | 244 | 52% | 3487 | 67% |
-|  |  | P1 | 3583 | 36 | 192 | 51% | 3579 | 74% |
+|  |  | E1 | 3498 | 33 | 244 | 52% | 3479 | 67% |
+|  |  | P1 | 3564 | 36 | 192 | 51% | 3560 | 74% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 3229 | 11 | 2124 | 50% | 3225 | 64% |
-|  |  | E1 | 3281 | 28 | 356 | 49% | 3289 | 59% |
-|  |  | P1 | 3352 | 33 | 262 | 48% | 3371 | 54% |
+|  |  | E1 | 3271 | 27 | 360 | 49% | 3281 | 59% |
+|  |  | P1 | 3336 | 32 | 266 | 48% | 3351 | 54% |
