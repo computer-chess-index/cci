@@ -1,8 +1,8 @@
 # Engine: Russell
 
-Author: 
+Author: Dominic Fuentes
 
-Home: 
+Home: https://github.com/stup1d1y-0bv10us/russell
 
 ## Elo Ratings E1 <sub>(Ultra 7 265T (1.50 GHz) - E-Core)</sub>
 
@@ -46,7 +46,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-02 17:34:41
+Generated: 2026-11-02 19:26:40
 
 ## Ratings Verlauf E1 / P1
 
