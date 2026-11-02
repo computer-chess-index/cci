@@ -8,14 +8,14 @@ Home: https://github.com/ma787/aether
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2026-07-05 | 1690 | 1987 | 2024 |  |
+| 1.0 | 2026-07-05 | 1688 | 1978 | 2016 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2026-07-05 | 1755 | 1983 | 2044 |  |
+| 1.0 | 2026-07-05 | 1740 | 1962 | 2026 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-01 05:35:19
+Generated: 2026-11-02 05:35:15
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-01 05:35:19
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2053 | 32 | 368 | 47% | 2094 | 20% |
-|  |  | P1 | 2044 | 44 | 180 | 49% | 2056 | 26% |
-|  |  | E1 | 2024 | 37 | 250 | 46% | 2076 | 26% |
-|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 1986 | 34 | 326 | 48% | 2007 | 17% |
-|  |  | P1 | 1983 | 45 | 182 | 49% | 2001 | 23% |
-|  |  | E1 | 1987 | 38 | 250 | 49% | 2003 | 23% |
-|  | STC <sub>(8.0+0.08s)</sub> | P1 | 1755 | 46 | 180 | 49% | 1802 | 15% |
-|  |  | E1 | 1690 | 33 | 342 | 47% | 1733 | 19% |
+| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 2026 | 43 | 188 | 49% | 2040 | 26% |
+|  |  | E1 | 2016 | 37 | 254 | 46% | 2066 | 26% |
+|  |  | T1 | 2053 | 32 | 368 | 47% | 2094 | 20% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 1962 | 44 | 186 | 49% | 1985 | 24% |
+|  |  | E1 | 1978 | 37 | 254 | 49% | 1995 | 23% |
+|  |  | T1 | 1986 | 34 | 326 | 48% | 2007 | 17% |
+|  | STC <sub>(8.0+0.08s)</sub> | P1 | 1740 | 46 | 180 | 49% | 1787 | 15% |
+|  |  | E1 | 1688 | 32 | 350 | 47% | 1731 | 18% |
 |  |  | T1 | 1742 | 32 | 372 | 49% | 1756 | 18% |
