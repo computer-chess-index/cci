@@ -8,14 +8,14 @@ Home: https://github.com/matthiaslang/jackychess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 25.12 | 2025-12-03 |  | 2696 | 2842 |  |
+| 25.12 | 2025-12-03 |  | 2692 | 2823 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 25.12 | 2025-12-03 |  | 2743 | 2813 |  |
+| 25.12 | 2025-12-03 |  | 2730 | 2797 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-01 05:39:25
+Generated: 2026-11-02 05:39:25
 
 
 
@@ -49,9 +49,9 @@ Generated: 2026-11-01 05:39:25
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 25.12 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2772 | 25 | 518 | 50% | 2776 | 33% |
-|  |  | P1 | 2813 | 36 | 258 | 55% | 2739 | 35% |
-|  |  | E1 | 2842 | 32 | 352 | 55% | 2793 | 28% |
+|  |  | P1 | 2797 | 36 | 258 | 55% | 2723 | 35% |
+|  |  | E1 | 2823 | 31 | 368 | 53% | 2788 | 29% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2655 | 23 | 602 | 52% | 2641 | 35% |
-|  |  | P1 | 2743 | 38 | 248 | 55% | 2627 | 27% |
-|  |  | E1 | 2696 | 35 | 270 | 50% | 2699 | 28% |
+|  |  | P1 | 2730 | 38 | 252 | 55% | 2616 | 28% |
+|  |  | E1 | 2692 | 35 | 278 | 50% | 2689 | 29% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2252 | 44 | 180 | 54% | 2218 | 25% |
