@@ -8,14 +8,14 @@ Home: https://www.revengechess.com/
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.0.7 | 2025-01-01 | 3333 | 3552 | 3622 |  |
+| 4.0.7 | 2025-01-01 | 3339 | 3559 | 3630 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.0.7 | 2025-01-01 | 3471 | 3653 | 3660 |  |
+| 4.0.7 | 2025-01-01 | 3476 | 3660 | 3668 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-02 05:42:18
+Generated: 2026-11-03 05:41:58
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-02 05:42:18
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 4.0.7 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 3622 | 35 | 200 | 51% | 3611 | 78% |
-|  |  | T1 | 3495 | 15 | 1002 | 50% | 3494 | 81% |
-|  |  | P1 | 3660 | 40 | 148 | 51% | 3652 | 77% |
-|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 3552 | 33 | 226 | 50% | 3555 | 74% |
+| 4.0.7 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3495 | 15 | 1002 | 50% | 3494 | 81% |
+|  |  | P1 | 3668 | 40 | 148 | 51% | 3659 | 77% |
+|  |  | E1 | 3630 | 35 | 200 | 51% | 3619 | 78% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 3660 | 39 | 148 | 50% | 3661 | 85% |
+|  |  | E1 | 3559 | 32 | 234 | 50% | 3563 | 74% |
 |  |  | T1 | 3467 | 16 | 974 | 50% | 3465 | 78% |
-|  |  | P1 | 3653 | 39 | 148 | 50% | 3654 | 85% |
-|  | STC <sub>(8.0+0.08s)</sub> | E1 | 3333 | 28 | 344 | 48% | 3352 | 63% |
+|  | STC <sub>(8.0+0.08s)</sub> | P1 | 3476 | 30 | 278 | 50% | 3474 | 65% |
+|  |  | E1 | 3339 | 27 | 352 | 48% | 3359 | 63% |
 |  |  | T1 | 3289 | 15 | 1084 | 50% | 3291 | 67% |
-|  |  | P1 | 3471 | 31 | 270 | 51% | 3467 | 66% |
