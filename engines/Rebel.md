@@ -8,14 +8,14 @@ Home:
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 16.2 | 2024-03-11 | 3232 | 3506 | 3580 |  |
+| 16.2 | 2024-03-11 | 3239 | 3514 | 3587 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 16.2 | 2024-03-11 | 3371 | 3582 | 3652 |  |
+| 16.2 | 2024-03-11 | 3379 | 3590 | 3659 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-02 05:42:10
+Generated: 2026-11-03 05:41:51
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-02 05:42:10
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 16.2 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 3580 | 34 | 208 | 51% | 3567 | 77% |
-|  |  | P1 | 3652 | 38 | 172 | 51% | 3638 | 76% |
+| 16.2 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3659 | 38 | 172 | 51% | 3645 | 76% |
 |  |  | T1 | 3470 | 11 | 1990 | 50% | 3468 | 83% |
-|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 3506 | 28 | 316 | 54% | 3475 | 75% |
+|  |  | E1 | 3587 | 33 | 216 | 51% | 3575 | 78% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 3514 | 28 | 316 | 54% | 3483 | 75% |
 |  |  | T1 | 3425 | 11 | 2004 | 51% | 3420 | 77% |
-|  |  | P1 | 3582 | 38 | 168 | 53% | 3561 | 74% |
-|  | STC <sub>(8.0+0.08s)</sub> | E1 | 3232 | 27 | 372 | 47% | 3255 | 56% |
+|  |  | P1 | 3590 | 38 | 168 | 53% | 3568 | 74% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 3239 | 27 | 376 | 47% | 3262 | 57% |
 |  |  | T1 | 3214 | 11 | 2270 | 52% | 3185 | 61% |
-|  |  | P1 | 3371 | 34 | 240 | 50% | 3371 | 56% |
+|  |  | P1 | 3379 | 34 | 240 | 50% | 3378 | 56% |
