@@ -15,7 +15,7 @@ Home: https://rofchade.nl/
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.1 | 2023-10-01 | 3349 | 3572 | 3641 |  |
+| 3.1 | 2023-10-01 | 3375 | 3598 | 3667 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-03 05:42:15
+Generated: 2026-11-04 05:42:25
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-03 05:42:15
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 3.1 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3474 | 11 | 1997 | 51% | 3467 | 80% |
-|  |  | E1 | 3606 | 33 | 216 | 50% | 3609 | 77% |
-|  |  | P1 | 3641 | 39 | 160 | 50% | 3634 | 77% |
+| 3.1 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3667 | 39 | 160 | 50% | 3661 | 77% |
+|  |  | T1 | 3474 | 11 | 1997 | 51% | 3467 | 80% |
+|  |  | E1 | 3606 | 33 | 224 | 50% | 3607 | 76% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3432 | 11 | 1960 | 50% | 3429 | 77% |
-|  |  | P1 | 3572 | 36 | 192 | 51% | 3568 | 74% |
-|  |  | E1 | 3506 | 32 | 248 | 52% | 3487 | 68% |
+|  |  | E1 | 3506 | 32 | 248 | 52% | 3486 | 68% |
+|  |  | P1 | 3598 | 36 | 192 | 51% | 3594 | 74% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 3229 | 11 | 2124 | 50% | 3225 | 64% |
-|  |  | P1 | 3349 | 32 | 274 | 49% | 3357 | 54% |
 |  |  | E1 | 3279 | 27 | 360 | 49% | 3289 | 59% |
+|  |  | P1 | 3375 | 32 | 274 | 49% | 3383 | 54% |
