@@ -8,14 +8,14 @@ Home: https://github.com/princesslana/princhess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.22.0 | 2026-08-16 | 2971 | 3216 | 3271 |  |
+| 0.22.0 | 2026-08-16 | 2971 | 3217 | 3274 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.22.0 | 2026-08-16 | 2994 | 3286 | 3360 |  |
+| 0.22.0 | 2026-08-16 | 3024 | 3309 | 3386 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-03 05:41:13
+Generated: 2026-11-04 05:41:20
 
 ## Ratings Verlauf T1
 
@@ -63,15 +63,15 @@ xychart-beta
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 0.22.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3177 | 33 | 256 | 50% | 3174 | 56% |
-|  |  | P1 | 3360 | 31 | 284 | 51% | 3356 | 55% |
-|  |  | E1 | 3271 | 29 | 346 | 50% | 3268 | 51% |
-|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3105 | 30 | 308 | 50% | 3106 | 54% |
-|  |  | P1 | 3286 | 35 | 240 | 49% | 3302 | 51% |
-|  |  | E1 | 3216 | 29 | 354 | 52% | 3201 | 49% |
+| 0.22.0 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 3274 | 28 | 350 | 51% | 3268 | 51% |
+|  |  | T1 | 3177 | 33 | 256 | 50% | 3174 | 56% |
+|  |  | P1 | 3386 | 31 | 288 | 51% | 3382 | 55% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 3217 | 28 | 358 | 52% | 3201 | 49% |
+|  |  | T1 | 3105 | 30 | 308 | 50% | 3106 | 54% |
+|  |  | P1 | 3309 | 35 | 244 | 49% | 3329 | 50% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2873 | 32 | 296 | 49% | 2885 | 41% |
-|  |  | P1 | 2994 | 35 | 246 | 51% | 2984 | 46% |
-|  |  | E1 | 2971 | 29 | 346 | 49% | 2979 | 43% |
+|  |  | P1 | 3024 | 34 | 250 | 52% | 3011 | 46% |
+|  |  | E1 | 2971 | 29 | 350 | 49% | 2978 | 43% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 0.21.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3123 | 24 | 504 | 50% | 3124 | 51% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3086 | 23 | 542 | 50% | 3082 | 50% |
