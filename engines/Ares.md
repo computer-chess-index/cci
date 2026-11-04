@@ -8,14 +8,14 @@ Home:
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.5 | 2024-02-06 | 2017 | 2271 | 2484 |  |
+| 2.5 | 2024-02-06 | 2018 | 2269 | 2493 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.5 | 2024-02-06 | 1985 | 2334 | 2473 |  |
+| 2.5 | 2024-02-06 | 2009 | 2358 | 2496 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-03 05:35:53
+Generated: 2026-11-04 05:35:57
 
 ## Ratings Verlauf T1
 
@@ -64,14 +64,14 @@ xychart-beta
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 2.5 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2454 | 27 | 458 | 50% | 2452 | 26% |
-|  |  | P1 | 2473 | 39 | 232 | 44% | 2541 | 25% |
-|  |  | E1 | 2484 | 37 | 268 | 49% | 2503 | 26% |
-|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2331 | 24 | 588 | 52% | 2311 | 24% |
-|  |  | P1 | 2334 | 37 | 258 | 52% | 2327 | 26% |
-|  |  | E1 | 2271 | 37 | 264 | 49% | 2280 | 24% |
-|  | STC <sub>(8.0+0.08s)</sub> | T1 | 1974 | 22 | 770 | 51% | 1963 | 22% |
-|  |  | P1 | 1985 | 47 | 164 | 52% | 1953 | 18% |
-|  |  | E1 | 2017 | 34 | 300 | 51% | 2024 | 22% |
+|  |  | P1 | 2496 | 39 | 236 | 44% | 2564 | 25% |
+|  |  | E1 | 2493 | 36 | 276 | 50% | 2503 | 26% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 2358 | 37 | 258 | 52% | 2352 | 26% |
+|  |  | E1 | 2269 | 36 | 272 | 49% | 2283 | 24% |
+|  |  | T1 | 2331 | 24 | 588 | 52% | 2311 | 24% |
+|  | STC <sub>(8.0+0.08s)</sub> | P1 | 2009 | 47 | 164 | 52% | 1978 | 18% |
+|  |  | E1 | 2018 | 34 | 304 | 51% | 2024 | 22% |
+|  |  | T1 | 1974 | 22 | 770 | 51% | 1963 | 22% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 1.004 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2322 | 45 | 176 | 47% | 2388 | 27% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2082 | 79 | 60 | 49% | 2097 | 15% |
