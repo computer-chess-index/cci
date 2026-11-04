@@ -8,14 +8,14 @@ Home: https://github.com/FitzOReilly/fatalii
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.10.1 | 2026-05-11 | 2222 | 2508 | 2646 |  |
+| 0.10.1 | 2026-05-11 | 2225 | 2520 | 2642 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.10.1 | 2026-05-11 | 2304 | 2637 | 2727 |  |
+| 0.10.1 | 2026-05-11 | 2326 | 2661 | 2753 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-03 05:38:20
+Generated: 2026-11-04 05:38:25
 
 ## Ratings Verlauf T1
 
@@ -63,15 +63,15 @@ xychart-beta
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 0.10.1 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2610 | 26 | 490 | 50% | 2610 | 27% |
-|  |  | P1 | 2727 | 39 | 228 | 53% | 2693 | 28% |
-|  |  | E1 | 2646 | 35 | 310 | 51% | 2614 | 23% |
-|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2520 | 27 | 448 | 50% | 2523 | 31% |
-|  |  | P1 | 2637 | 42 | 208 | 49% | 2674 | 27% |
-|  |  | E1 | 2508 | 36 | 288 | 56% | 2442 | 24% |
+| 0.10.1 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 2642 | 35 | 314 | 50% | 2612 | 23% |
+|  |  | T1 | 2610 | 26 | 490 | 50% | 2610 | 27% |
+|  |  | P1 | 2753 | 39 | 228 | 53% | 2718 | 28% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 2520 | 35 | 304 | 56% | 2449 | 25% |
+|  |  | T1 | 2520 | 27 | 448 | 50% | 2523 | 31% |
+|  |  | P1 | 2661 | 42 | 208 | 49% | 2699 | 27% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2284 | 28 | 438 | 49% | 2294 | 27% |
-|  |  | P1 | 2304 | 40 | 220 | 47% | 2352 | 25% |
-|  |  | E1 | 2222 | 33 | 316 | 48% | 2238 | 24% |
+|  |  | P1 | 2326 | 40 | 224 | 47% | 2376 | 26% |
+|  |  | E1 | 2225 | 33 | 316 | 48% | 2241 | 24% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 0.10.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2611 | 29 | 424 | 48% | 2635 | 25% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2547 | 28 | 454 | 51% | 2543 | 25% |
