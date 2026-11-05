@@ -8,14 +8,14 @@ Home: https://github.com/AlexGisi/prometheus-chess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.2.1 | 2025-08-18 | 1458 | 1553 | 1589 |  |
+| 0.2.1 | 2025-08-18 | 1455 | 1557 | 1585 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.2.1 | 2025-08-18 | 1378 | 1571 | 1681 |  |
+| 0.2.1 | 2025-08-18 | 1409 | 1598 | 1696 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-04 05:41:23
+Generated: 2026-11-05 05:41:06
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-04 05:41:23
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 0.2.1 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 1681 | 50 | 168 | 44% | 1802 | 14% |
-|  |  | E1 | 1589 | 36 | 306 | 44% | 1716 | 18% |
+| 0.2.1 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 1696 | 48 | 176 | 43% | 1824 | 15% |
+|  |  | E1 | 1585 | 36 | 306 | 44% | 1713 | 18% |
 |  |  | T1 | 1551 | 25 | 608 | 43% | 1655 | 19% |
-|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 1571 | 46 | 166 | 47% | 1601 | 22% |
-|  |  | E1 | 1553 | 37 | 302 | 45% | 1638 | 11% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 1598 | 46 | 166 | 47% | 1628 | 22% |
+|  |  | E1 | 1557 | 36 | 306 | 46% | 1634 | 11% |
 |  |  | T1 | 1532 | 26 | 566 | 48% | 1575 | 18% |
-|  | STC <sub>(8.0+0.08s)</sub> | E1 | 1458 | 36 | 268 | 50% | 1461 | 22% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 1455 | 36 | 268 | 50% | 1458 | 22% |
 |  |  | T1 | 1393 | 27 | 572 | 51% | 1382 | 18% |
-|  |  | P1 | 1378 | 44 | 194 | 48% | 1405 | 17% |
+|  |  | P1 | 1409 | 44 | 198 | 48% | 1430 | 17% |
