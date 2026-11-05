@@ -8,14 +8,14 @@ Home: https://github.com/lunbun/fktb
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.0.77 | 2026-01-18 | 1801 | 2102 | 2167 |  |
+| 0.0.77 | 2026-01-18 | 1804 | 2102 | 2167 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.0.77 | 2026-01-18 | 1897 | 2213 | 2279 |  |
+| 0.0.77 | 2026-01-18 | 1926 | 2241 | 2298 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-04 05:38:31
+Generated: 2026-11-05 05:38:19
 
 ## Ratings Verlauf T1
 
@@ -65,13 +65,13 @@ xychart-beta
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 0.0.77 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 2167 | 35 | 290 | 49% | 2188 | 27% |
 |  |  | T1 | 2241 | 24 | 580 | 52% | 2221 | 31% |
-|  |  | P1 | 2279 | 45 | 172 | 49% | 2304 | 31% |
+|  |  | P1 | 2298 | 44 | 180 | 48% | 2333 | 31% |
 |  | LTC <sub>(60.0+0.60s)</sub> | E1 | 2102 | 31 | 362 | 52% | 2103 | 29% |
 |  |  | T1 | 2145 | 25 | 536 | 49% | 2153 | 29% |
-|  |  | P1 | 2213 | 45 | 184 | 40% | 2353 | 28% |
+|  |  | P1 | 2241 | 45 | 184 | 40% | 2383 | 28% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 1866 | 22 | 740 | 50% | 1856 | 27% |
-|  |  | P1 | 1897 | 44 | 180 | 51% | 1887 | 27% |
-|  |  | E1 | 1801 | 32 | 328 | 46% | 1839 | 28% |
+|  |  | P1 | 1926 | 44 | 180 | 51% | 1917 | 27% |
+|  |  | E1 | 1804 | 32 | 332 | 47% | 1837 | 28% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 0.0.76 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2218 | 52 | 132 | 48% | 2245 | 22% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2142 | 45 | 172 | 49% | 2152 | 23% |
