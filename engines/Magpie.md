@@ -8,14 +8,14 @@ Home: https://github.com/mrgwbland/Magpie
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.3 | 2026-08-12 | 702 | 678 | 674 |  |
+| 0.3 | 2026-08-12 | 699 | 675 | 672 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.3 | 2026-08-12 | 581 | 621 | 544 |  |
+| 0.3 | 2026-08-12 | 593 | 624 | 559 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-04 05:40:07
+Generated: 2026-11-05 05:39:53
 
 ## Ratings Verlauf T1
 
@@ -63,15 +63,15 @@ xychart-beta
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 0.3 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 674 | 46 | 198 | 48% | 813 | 23% |
+| 0.3 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 672 | 46 | 198 | 48% | 811 | 23% |
 |  |  | T1 | 581 | 43 | 208 | 50% | 587 | 22% |
-|  |  | P1 | 544 | 62 | 136 | 36% | 1162 | 19% |
+|  |  | P1 | 559 | 58 | 148 | 38% | 1127 | 21% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 586 | 44 | 204 | 50% | 576 | 25% |
-|  |  | P1 | 621 | 56 | 124 | 50% | 802 | 27% |
-|  |  | E1 | 678 | 46 | 188 | 50% | 747 | 26% |
+|  |  | P1 | 624 | 57 | 124 | 50% | 809 | 27% |
+|  |  | E1 | 675 | 46 | 188 | 50% | 745 | 26% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 589 | 44 | 220 | 47% | 648 | 16% |
-|  |  | P1 | 581 | 60 | 116 | 43% | 929 | 20% |
-|  |  | E1 | 702 | 47 | 188 | 49% | 747 | 15% |
+|  |  | P1 | 593 | 58 | 124 | 44% | 911 | 20% |
+|  |  | E1 | 699 | 47 | 188 | 49% | 744 | 15% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 0.2 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 450 | 45 | 208 | 35% | 687 | 35% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 440 | 46 | 192 | 36% | 645 | 38% |
