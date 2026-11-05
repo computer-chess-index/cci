@@ -15,7 +15,7 @@ Home: https://github.com/jswaff/prophet
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 5.2 | 2026-05-16 | 2198 | 2425 | 2622 |  |
+| 5.2 | 2026-05-16 | 2226 | 2456 | 2653 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-04 05:41:26
+Generated: 2026-11-05 05:41:09
 
 ## Ratings Verlauf T1
 
@@ -63,14 +63,14 @@ xychart-beta
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 5.2 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 2485 | 37 | 244 | 48% | 2522 | 32% |
+| 5.2 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 2485 | 37 | 244 | 48% | 2523 | 32% |
 |  |  | T1 | 2506 | 28 | 438 | 49% | 2516 | 26% |
-|  |  | P1 | 2622 | 42 | 218 | 51% | 2608 | 21% |
+|  |  | P1 | 2653 | 42 | 218 | 51% | 2641 | 21% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2392 | 28 | 432 | 49% | 2402 | 29% |
-|  |  | P1 | 2425 | 37 | 284 | 56% | 2329 | 24% |
-|  |  | E1 | 2484 | 34 | 280 | 47% | 2519 | 31% |
+|  |  | P1 | 2456 | 37 | 284 | 56% | 2360 | 24% |
+|  |  | E1 | 2484 | 34 | 280 | 47% | 2520 | 31% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2132 | 30 | 404 | 52% | 2113 | 22% |
-|  |  | P1 | 2198 | 42 | 208 | 50% | 2230 | 24% |
+|  |  | P1 | 2226 | 42 | 208 | 50% | 2260 | 24% |
 |  |  | E1 | 2107 | 36 | 268 | 48% | 2138 | 24% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 5.1 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2506 | 30 | 380 | 48% | 2537 | 26% |
