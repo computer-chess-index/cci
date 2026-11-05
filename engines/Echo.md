@@ -8,14 +8,14 @@ Home: https://github.com/AM-ML/Echo
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.1 | 2026-07-04 | 1976 | 2196 | 2263 |  |
+| 1.0.1 | 2026-07-04 | 1975 | 2196 | 2259 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.1 | 2026-07-04 | 2009 | 2272 | 2325 |  |
+| 1.0.1 | 2026-07-04 | 2040 | 2302 | 2354 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-04 05:38:03
+Generated: 2026-11-05 05:37:52
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-04 05:38:03
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 1.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 2325 | 41 | 192 | 50% | 2331 | 31% |
-|  |  | E1 | 2263 | 34 | 286 | 47% | 2291 | 30% |
+| 1.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 2354 | 41 | 200 | 50% | 2363 | 31% |
+|  |  | E1 | 2259 | 34 | 290 | 47% | 2291 | 29% |
 |  |  | T1 | 2288 | 33 | 320 | 50% | 2283 | 28% |
 |  | LTC <sub>(60.0+0.60s)</sub> | E1 | 2196 | 34 | 306 | 49% | 2210 | 22% |
 |  |  | T1 | 2241 | 33 | 324 | 49% | 2226 | 27% |
-|  |  | P1 | 2272 | 41 | 206 | 46% | 2319 | 24% |
-|  | STC <sub>(8.0+0.08s)</sub> | E1 | 1976 | 36 | 266 | 50% | 1971 | 22% |
+|  |  | P1 | 2302 | 41 | 206 | 46% | 2349 | 24% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 1975 | 36 | 266 | 50% | 1970 | 22% |
 |  |  | T1 | 1995 | 33 | 330 | 52% | 1970 | 20% |
-|  |  | P1 | 2009 | 39 | 240 | 47% | 2047 | 19% |
+|  |  | P1 | 2040 | 39 | 244 | 48% | 2075 | 19% |
