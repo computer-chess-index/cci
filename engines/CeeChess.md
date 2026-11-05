@@ -8,14 +8,14 @@ Home: https://github.com/bctboi23/CeeChess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.2 | 2025-11-05 | 2164 | 2468 | 2560 |  |
+| 2.2 | 2025-11-05 | 2163 | 2469 | 2561 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.2 | 2025-11-05 | 2167 | 2518 | 2637 |  |
+| 2.2 | 2025-11-05 | 2196 | 2546 | 2669 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-04 05:36:48
+Generated: 2026-11-05 05:36:41
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-04 05:36:48
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 2.2 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 2637 | 34 | 296 | 55% | 2550 | 32% |
-|  |  | E1 | 2560 | 35 | 304 | 51% | 2543 | 23% |
+| 2.2 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 2669 | 34 | 296 | 55% | 2583 | 32% |
+|  |  | E1 | 2561 | 35 | 304 | 51% | 2543 | 23% |
 |  |  | T1 | 2488 | 26 | 478 | 48% | 2506 | 31% |
-|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 2518 | 43 | 192 | 48% | 2542 | 25% |
-|  |  | E1 | 2468 | 36 | 294 | 56% | 2406 | 23% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 2546 | 43 | 196 | 48% | 2573 | 25% |
+|  |  | E1 | 2469 | 36 | 296 | 56% | 2407 | 23% |
 |  |  | T1 | 2407 | 24 | 552 | 49% | 2417 | 30% |
-|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2164 | 35 | 284 | 49% | 2163 | 26% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2163 | 35 | 296 | 49% | 2164 | 25% |
 |  |  | T1 | 2156 | 23 | 674 | 50% | 2151 | 22% |
-|  |  | P1 | 2167 | 41 | 204 | 51% | 2155 | 27% |
+|  |  | P1 | 2196 | 41 | 204 | 51% | 2184 | 27% |
