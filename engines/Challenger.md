@@ -8,14 +8,14 @@ Home: https://github.com/SimjanovskiNikola/FRI_Challenger
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.6.0 | 2025-10-02 | 2002 | 2333 | 2510 |  |
+| 0.6.0 | 2025-10-02 | 2006 | 2333 | 2508 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.6.0 | 2025-10-02 | 2074 | 2376 | 2604 |  |
+| 0.6.0 | 2025-10-02 | 2102 | 2414 | 2637 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-04 05:36:59
+Generated: 2026-11-05 05:36:51
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-04 05:36:59
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 0.6.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 2604 | 42 | 200 | 47% | 2654 | 29% |
-|  |  | E1 | 2510 | 37 | 288 | 52% | 2492 | 22% |
+| 0.6.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 2637 | 42 | 200 | 47% | 2687 | 29% |
+|  |  | E1 | 2508 | 36 | 292 | 51% | 2493 | 22% |
 |  |  | T1 | 2481 | 27 | 468 | 47% | 2511 | 29% |
-|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 2376 | 43 | 176 | 49% | 2398 | 30% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 2414 | 43 | 180 | 50% | 2429 | 29% |
 |  |  | E1 | 2333 | 35 | 302 | 55% | 2271 | 21% |
 |  |  | T1 | 2369 | 24 | 586 | 49% | 2377 | 27% |
-|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2002 | 35 | 282 | 46% | 2041 | 27% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2006 | 34 | 298 | 46% | 2037 | 29% |
 |  |  | T1 | 2060 | 22 | 774 | 49% | 2063 | 22% |
-|  |  | P1 | 2074 | 43 | 192 | 49% | 2105 | 19% |
+|  |  | P1 | 2102 | 43 | 196 | 49% | 2134 | 19% |
