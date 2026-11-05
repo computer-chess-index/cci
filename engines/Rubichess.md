@@ -8,14 +8,14 @@ Home: https://github.com/Matthies/RubiChess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 20240817 | 2024-08-17 | 3398 | 3625 | 3672 |  |
+| 20240817 | 2024-08-17 | 3398 | 3627 | 3673 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 20240817 | 2024-08-17 | 3546 | 3730 | 3765 |  |
+| 20240817 | 2024-08-17 | 3579 | 3764 | 3799 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-04 05:42:27
+Generated: 2026-11-05 05:42:05
 
 
 
@@ -49,12 +49,12 @@ Generated: 2026-11-04 05:42:27
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 20240817 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3534 | 11 | 1994 | 50% | 3530 | 86% |
-|  |  | P1 | 3765 | 38 | 156 | 49% | 3771 | 87% |
-|  |  | E1 | 3672 | 37 | 172 | 49% | 3680 | 85% |
+|  |  | P1 | 3799 | 38 | 156 | 49% | 3804 | 87% |
+|  |  | E1 | 3673 | 36 | 176 | 49% | 3681 | 85% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3502 | 11 | 2008 | 51% | 3495 | 82% |
-|  |  | P1 | 3730 | 41 | 136 | 51% | 3723 | 85% |
-|  |  | E1 | 3625 | 34 | 204 | 50% | 3623 | 82% |
+|  |  | P1 | 3764 | 41 | 136 | 51% | 3757 | 85% |
+|  |  | E1 | 3627 | 33 | 216 | 50% | 3626 | 80% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 3356 | 11 | 2300 | 51% | 3335 | 71% |
-|  |  | P1 | 3546 | 33 | 244 | 49% | 3556 | 62% |
-|  |  | E1 | 3398 | 27 | 366 | 46% | 3422 | 67% |
+|  |  | P1 | 3579 | 33 | 244 | 49% | 3588 | 62% |
+|  |  | E1 | 3398 | 26 | 374 | 46% | 3424 | 66% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
