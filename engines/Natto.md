@@ -8,14 +8,14 @@ Home: https://github.com/rglenister/natto
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.1.9 | 2025-09-06 | 1638 | 1783 | 1905 |  |
+| 0.1.9 | 2025-09-06 | 1643 | 1790 | 1912 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.1.9 | 2025-09-06 | 1724 | 1898 | 1929 |  |
+| 0.1.9 | 2025-09-06 | 1713 | 1889 | 1918 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-05 05:40:19
+Generated: 2026-11-06 05:40:06
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-05 05:40:19
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 0.1.9 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 1929 | 40 | 216 | 46% | 2013 | 27% |
-|  |  | E1 | 1905 | 30 | 408 | 42% | 2025 | 28% |
-|  |  | T1 | 1937 | 23 | 644 | 48% | 1971 | 27% |
-|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 1898 | 39 | 260 | 53% | 1870 | 25% |
-|  |  | E1 | 1783 | 35 | 290 | 48% | 1840 | 24% |
-|  |  | T1 | 1847 | 24 | 618 | 50% | 1863 | 28% |
-|  | STC <sub>(8.0+0.08s)</sub> | E1 | 1638 | 36 | 280 | 48% | 1678 | 25% |
-|  |  | T1 | 1601 | 23 | 652 | 46% | 1648 | 27% |
-|  |  | P1 | 1724 | 38 | 250 | 53% | 1704 | 24% |
+| 0.1.9 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 1937 | 23 | 644 | 48% | 1971 | 27% |
+|  |  | P1 | 1918 | 40 | 216 | 46% | 2003 | 27% |
+|  |  | E1 | 1912 | 30 | 408 | 42% | 2033 | 28% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 1847 | 24 | 618 | 50% | 1863 | 28% |
+|  |  | P1 | 1889 | 39 | 260 | 53% | 1860 | 25% |
+|  |  | E1 | 1790 | 35 | 290 | 48% | 1847 | 24% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 1601 | 23 | 652 | 46% | 1648 | 27% |
+|  |  | P1 | 1713 | 38 | 250 | 53% | 1694 | 24% |
+|  |  | E1 | 1643 | 36 | 280 | 48% | 1685 | 25% |
