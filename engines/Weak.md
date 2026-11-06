@@ -8,14 +8,14 @@ Home: https://github.com/Dragjon/weak-chess-engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | 2025-08-11 | 2530 | 2901 | 3050 |  |
+| 1.0.0 | 2025-08-11 | 2537 | 2912 | 3060 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | 2025-08-11 | 2669 | 3013 | 3159 |  |
+| 1.0.0 | 2025-08-11 | 2661 | 3006 | 3155 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-05 05:44:00
+Generated: 2026-11-06 05:43:56
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-05 05:44:00
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 3050 | 30 | 356 | 48% | 3073 | 39% |
+| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3155 | 32 | 308 | 47% | 3181 | 42% |
+|  |  | E1 | 3060 | 30 | 356 | 48% | 3083 | 39% |
 |  |  | T1 | 2931 | 25 | 478 | 51% | 2920 | 44% |
-|  |  | P1 | 3159 | 32 | 304 | 46% | 3187 | 42% |
-|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 2901 | 29 | 386 | 50% | 2892 | 34% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 3006 | 38 | 220 | 53% | 2967 | 40% |
+|  |  | E1 | 2912 | 29 | 386 | 50% | 2903 | 34% |
 |  |  | T1 | 2884 | 23 | 614 | 51% | 2858 | 37% |
-|  |  | P1 | 3013 | 38 | 220 | 53% | 2974 | 40% |
-|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2530 | 32 | 314 | 46% | 2572 | 34% |
+|  | STC <sub>(8.0+0.08s)</sub> | P1 | 2661 | 40 | 218 | 52% | 2616 | 25% |
+|  |  | E1 | 2537 | 32 | 318 | 45% | 2580 | 34% |
 |  |  | T1 | 2542 | 21 | 728 | 50% | 2518 | 33% |
-|  |  | P1 | 2669 | 40 | 218 | 52% | 2624 | 25% |
