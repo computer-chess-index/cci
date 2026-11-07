@@ -8,7 +8,7 @@ Home: https://github.com/changcheng967/Luminex
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.5.1 | 2026-11-06 | 2619<sub>(+472) | 3054<sub>(+519) | 3173<sub>(+573) |  |
+| 6.5.1 | 2026-11-07 | 2619<sub>(+472) | 3054<sub>(+519) | 3173<sub>(+573) |  |
 | 6.5.0 | 2026-11-06 | 2147<sub>(+172) | 2535<sub>(+282) | 2600<sub>(+250) |  |
 | 6.3.0 | 2026-10-27 | 1975<sub>(+123) | 2253<sub>(+34) | 2350<sub>(-64) |  |
 | 6.1.0 | 2026-09-24 | 1852 | 2219 | 2414 |  |
@@ -18,7 +18,7 @@ Home: https://github.com/changcheng967/Luminex
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.5.1 | 2026-11-06 | 2789<sub>(+633) | 3155<sub>(+622) | 3147<sub>(+460) |  |
+| 6.5.1 | 2026-11-07 | 2789<sub>(+633) | 3155<sub>(+622) | 3147<sub>(+460) |  |
 | 6.5.0 | 2026-11-06 | 2156<sub>(+127) | 2533<sub>(+181) | 2687<sub>(+235) |  |
 | 6.3.0 | 2026-10-27 | 2029<sub>(+98) | 2352<sub>(+39) | 2452<sub>(-2) |  |
 | 6.1.0 | 2026-09-24 | 1931 | 2313 | 2454 |  |
@@ -46,21 +46,21 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-07 05:39:33
+Generated: 2026-11-07 06:43:44
 
 ## Ratings Verlauf E1 / P1
 
 ```mermaid
 %%{init: {"theme":"base","themeVariables":{"seriesColors:['#a3a3a3','#222221','#faa371']}}}%%
 xychart-beta
-  x-axis ["6.1.0", "6.3.0", "6.5.1", "6.5.0"]
+  x-axis ["6.1.0", "6.3.0", "6.5.0", "6.5.1"]
   y-axis "Elo Rating" 1800 --> 3200
-  line "E1: STC (8.0+0.08s)" [1852, 1975, 2619, 2147]
-  line "E1: LTC (60.0+0.60s)" [2219, 2253, 3054, 2535]
-  line "E1: VLTC (2m24s+1.12s)" [2414, 2350, 3173, 2600]
-  line "P1: STC (8.0+0.08s)" [1931, 2029, 2789, 2156]
-  line "P1: LTC (60.0+0.60s)" [2313, 2352, 3155, 2533]
-  line "P1: VLTC (2m24s+1.12s)" [2454, 2452, 3147, 2687]
+  line "E1: STC (8.0+0.08s)" [1852, 1975, 2147, 2619]
+  line "E1: LTC (60.0+0.60s)" [2219, 2253, 2535, 3054]
+  line "E1: VLTC (2m24s+1.12s)" [2414, 2350, 2600, 3173]
+  line "P1: STC (8.0+0.08s)" [1931, 2029, 2156, 2789]
+  line "P1: LTC (60.0+0.60s)" [2313, 2352, 2533, 3155]
+  line "P1: VLTC (2m24s+1.12s)" [2454, 2452, 2687, 3147]
 ```
 
 
