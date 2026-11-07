@@ -8,14 +8,14 @@ Home: https://github.com/tsoj/Annie
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.2 | 2026-01-17 | 1357 | 1488 | 1578 |  |
+| 1.2 | 2026-01-17 | 1366 | 1503 | 1584 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.2 | 2026-01-17 | 1364 | 1492 | 1490 |  |
+| 1.2 | 2026-01-17 | 1359 | 1489 | 1488 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-06 05:35:35
+Generated: 2026-11-07 05:35:36
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-06 05:35:35
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 1.2 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 1542 | 26 | 570 | 49% | 1578 | 16% |
-|  |  | P1 | 1490 | 45 | 188 | 54% | 1457 | 18% |
-|  |  | E1 | 1578 | 35 | 304 | 45% | 1665 | 17% |
-|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 1524 | 25 | 652 | 44% | 1596 | 17% |
-|  |  | P1 | 1492 | 52 | 148 | 47% | 1580 | 15% |
-|  |  | E1 | 1488 | 39 | 272 | 48% | 1555 | 11% |
-|  | STC <sub>(8.0+0.08s)</sub> | P1 | 1364 | 41 | 200 | 53% | 1337 | 25% |
-|  |  | E1 | 1357 | 32 | 344 | 49% | 1377 | 28% |
+| 1.2 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 1488 | 45 | 188 | 54% | 1454 | 18% |
+|  |  | E1 | 1584 | 35 | 306 | 45% | 1674 | 17% |
+|  |  | T1 | 1542 | 26 | 570 | 49% | 1578 | 16% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 1503 | 38 | 280 | 49% | 1562 | 11% |
+|  |  | T1 | 1524 | 25 | 652 | 44% | 1596 | 17% |
+|  |  | P1 | 1489 | 52 | 148 | 47% | 1575 | 15% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 1366 | 32 | 348 | 49% | 1384 | 28% |
 |  |  | T1 | 1330 | 27 | 600 | 55% | 1251 | 16% |
+|  |  | P1 | 1359 | 41 | 200 | 53% | 1334 | 25% |
