@@ -8,7 +8,7 @@ Home: https://github.com/saisree27/Maelstrom
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.3.0 | 2025-08-27 | 2782 | 3178 | 3247 |  |
+| 3.3.0 | 2025-08-27 | 2792 | 3187 | 3256 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-06 05:39:41
+Generated: 2026-11-07 05:39:40
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-06 05:39:41
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 3.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3177 | 23 | 496 | 49% | 3185 | 63% |
-|  |  | P1 | 3410 | 34 | 232 | 50% | 3403 | 61% |
-|  |  | E1 | 3247 | 29 | 352 | 56% | 3131 | 50% |
-|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3073 | 23 | 538 | 51% | 3058 | 54% |
+| 3.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3410 | 34 | 232 | 50% | 3403 | 61% |
+|  |  | E1 | 3256 | 29 | 360 | 56% | 3143 | 50% |
+|  |  | T1 | 3177 | 23 | 496 | 49% | 3185 | 63% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 3187 | 28 | 376 | 50% | 3163 | 52% |
+|  |  | T1 | 3073 | 23 | 538 | 51% | 3058 | 54% |
 |  |  | P1 | 3267 | 35 | 244 | 55% | 3187 | 48% |
-|  |  | E1 | 3178 | 28 | 372 | 50% | 3154 | 53% |
-|  | STC <sub>(8.0+0.08s)</sub> | P1 | 2917 | 35 | 252 | 51% | 2905 | 36% |
-|  |  | E1 | 2782 | 31 | 332 | 48% | 2809 | 33% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2792 | 31 | 332 | 48% | 2819 | 33% |
 |  |  | T1 | 2742 | 22 | 658 | 50% | 2732 | 36% |
+|  |  | P1 | 2917 | 35 | 252 | 51% | 2905 | 36% |
