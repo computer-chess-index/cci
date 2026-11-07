@@ -8,14 +8,14 @@ Home: https://github.com/cjbolt/EubosChess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.5 | 2026-06-09 | 2466 | 2695 | 2809 |  |
+| 4.5 | 2026-06-09 | 2473 | 2699 | 2817 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.5 | 2026-06-09 | 2705 | 2745 | 2892 |  |
+| 4.5 | 2026-06-09 | 2699 | 2738 | 2892 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -43,7 +43,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-06 05:38:04
+Generated: 2026-11-07 05:38:04
 
 ## Ratings Verlauf T1
 
@@ -67,13 +67,13 @@ xychart-beta
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 4.5 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2718 | 29 | 378 | 50% | 2719 | 35% |
 |  |  | P1 | 2892 | 35 | 284 | 57% | 2776 | 33% |
-|  |  | E1 | 2809 | 31 | 364 | 49% | 2823 | 27% |
+|  |  | E1 | 2817 | 31 | 368 | 48% | 2835 | 27% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2650 | 29 | 408 | 50% | 2654 | 27% |
-|  |  | P1 | 2745 | 38 | 234 | 49% | 2751 | 26% |
-|  |  | E1 | 2695 | 34 | 298 | 47% | 2726 | 25% |
+|  |  | P1 | 2738 | 37 | 244 | 49% | 2750 | 26% |
+|  |  | E1 | 2699 | 33 | 308 | 46% | 2732 | 26% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2329 | 29 | 428 | 48% | 2360 | 23% |
-|  |  | P1 | 2705 | 67 | 78 | 49% | 2719 | 18% |
-|  |  | E1 | 2466 | 43 | 208 | 58% | 2260 | 20% |
+|  |  | P1 | 2699 | 66 | 80 | 48% | 2718 | 19% |
+|  |  | E1 | 2473 | 43 | 208 | 58% | 2267 | 20% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 4.4 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2608 | 32 | 320 | 48% | 2627 | 30% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2512 | 32 | 334 | 49% | 2515 | 27% |
