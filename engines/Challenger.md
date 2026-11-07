@@ -8,14 +8,14 @@ Home: https://github.com/SimjanovskiNikola/FRI_Challenger
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.6.0 | 2025-10-02 | 2013 | 2345 | 2515 |  |
+| 0.6.0 | 2025-10-02 | 2021 | 2356 | 2518 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.6.0 | 2025-10-02 | 2094 | 2404 | 2630 |  |
+| 0.6.0 | 2025-10-02 | 2095 | 2404 | 2628 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-06 05:36:51
+Generated: 2026-11-07 05:36:50
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-06 05:36:51
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 0.6.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2481 | 27 | 468 | 47% | 2511 | 29% |
-|  |  | P1 | 2630 | 41 | 204 | 47% | 2678 | 29% |
-|  |  | E1 | 2515 | 36 | 292 | 51% | 2502 | 22% |
-|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2369 | 24 | 586 | 49% | 2377 | 27% |
-|  |  | P1 | 2404 | 43 | 180 | 50% | 2421 | 29% |
-|  |  | E1 | 2345 | 35 | 310 | 55% | 2280 | 22% |
-|  | STC <sub>(8.0+0.08s)</sub> | T1 | 2060 | 22 | 774 | 49% | 2063 | 22% |
-|  |  | P1 | 2094 | 43 | 196 | 49% | 2126 | 19% |
-|  |  | E1 | 2013 | 34 | 298 | 46% | 2044 | 29% |
+| 0.6.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 2628 | 41 | 208 | 47% | 2677 | 28% |
+|  |  | E1 | 2518 | 36 | 296 | 51% | 2510 | 22% |
+|  |  | T1 | 2481 | 27 | 468 | 47% | 2511 | 29% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 2356 | 34 | 318 | 55% | 2290 | 22% |
+|  |  | T1 | 2369 | 24 | 586 | 49% | 2377 | 27% |
+|  |  | P1 | 2404 | 43 | 180 | 50% | 2419 | 29% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2021 | 34 | 298 | 46% | 2052 | 29% |
+|  |  | T1 | 2060 | 22 | 774 | 49% | 2063 | 22% |
+|  |  | P1 | 2095 | 43 | 196 | 49% | 2128 | 19% |
