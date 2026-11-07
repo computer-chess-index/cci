@@ -8,14 +8,14 @@ Home: https://github.com/Koma1867/Soomi-V1-Chess-engine-in-golang
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.2.0B | 2026-04-24 | 1997 | 2261 | 2379 |  |
+| 1.2.0B | 2026-04-24 | 2005 | 2273 | 2387 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.2.0B | 2026-04-24 | 2051 | 2403 | 2387 |  |
+| 1.2.0B | 2026-04-24 | 2051 | 2402 | 2391 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -44,7 +44,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-06 05:42:40
+Generated: 2026-11-07 05:42:33
 
 ## Ratings Verlauf T1
 
@@ -67,14 +67,14 @@ xychart-beta
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 1.2.0B | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2388 | 28 | 448 | 51% | 2379 | 26% |
-|  |  | P1 | 2387 | 42 | 216 | 57% | 2286 | 21% |
-|  |  | E1 | 2379 | 34 | 312 | 52% | 2349 | 25% |
-|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2245 | 28 | 468 | 49% | 2249 | 22% |
-|  |  | P1 | 2403 | 41 | 204 | 51% | 2402 | 28% |
-|  |  | E1 | 2261 | 36 | 296 | 50% | 2267 | 19% |
-|  | STC <sub>(8.0+0.08s)</sub> | T1 | 2033 | 26 | 524 | 50% | 2021 | 24% |
-|  |  | P1 | 2051 | 41 | 204 | 47% | 2094 | 24% |
-|  |  | E1 | 1997 | 34 | 290 | 48% | 2021 | 26% |
+|  |  | P1 | 2391 | 41 | 220 | 57% | 2286 | 21% |
+|  |  | E1 | 2387 | 33 | 320 | 52% | 2361 | 25% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 2402 | 41 | 204 | 51% | 2402 | 28% |
+|  |  | E1 | 2273 | 36 | 300 | 51% | 2275 | 19% |
+|  |  | T1 | 2245 | 28 | 468 | 49% | 2249 | 22% |
+|  | STC <sub>(8.0+0.08s)</sub> | P1 | 2051 | 41 | 208 | 47% | 2093 | 24% |
+|  |  | E1 | 2005 | 34 | 298 | 48% | 2026 | 26% |
+|  |  | T1 | 2033 | 26 | 524 | 50% | 2021 | 24% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 1.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2434 | 26 | 516 | 54% | 2400 | 23% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2322 | 27 | 460 | 50% | 2325 | 26% |
