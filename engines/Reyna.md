@@ -8,14 +8,14 @@ Home: https://github.com/renztarga/Reyna
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2025-10-20 | 2255 | 2591 | 2669 |  |
+| 1.0 | 2025-10-20 | 2240 | 2583 | 2650 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2025-10-20 | 2338 | 2618 | 2719 |  |
+| 1.0 | 2025-10-20 | 2287 | 2569 | 2670 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-07 05:41:42
+Generated: 2026-11-08 05:41:36
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-07 05:41:42
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 2719 | 37 | 286 | 60% | 2465 | 28% |
-|  |  | E1 | 2669 | 32 | 347 | 49% | 2666 | 32% |
+| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 2650 | 32 | 347 | 49% | 2647 | 32% |
 |  |  | T1 | 2600 | 23 | 644 | 49% | 2611 | 31% |
-|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 2591 | 33 | 332 | 52% | 2556 | 31% |
+|  |  | P1 | 2670 | 37 | 286 | 60% | 2419 | 28% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 2583 | 32 | 344 | 53% | 2539 | 31% |
 |  |  | T1 | 2498 | 25 | 528 | 50% | 2489 | 28% |
-|  |  | P1 | 2618 | 47 | 182 | 50% | 2610 | 18% |
-|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2255 | 32 | 340 | 47% | 2307 | 31% |
+|  |  | P1 | 2569 | 47 | 182 | 50% | 2561 | 18% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2240 | 31 | 344 | 47% | 2290 | 31% |
 |  |  | T1 | 2282 | 22 | 740 | 48% | 2307 | 24% |
-|  |  | P1 | 2338 | 39 | 228 | 50% | 2336 | 20% |
+|  |  | P1 | 2287 | 39 | 232 | 50% | 2286 | 20% |
