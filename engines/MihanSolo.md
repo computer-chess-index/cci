@@ -8,14 +8,14 @@ Home: https://github.com/montypylons/mihansolo_bot
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.0.0 | 2025-10-01 | 1305 | 1469 | 1508 |  |
+| 9.0.0 | 2025-10-01 | 1296 | 1454 | 1488 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.0.0 | 2025-10-01 | 1212 | 1420 | 1470 |  |
+| 9.0.0 | 2025-10-01 | 1173 | 1372 | 1419 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-07 05:39:50
+Generated: 2026-11-08 05:39:48
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-07 05:39:50
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 9.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 1470 | 42 | 190 | 42% | 1551 | 29% |
-|  |  | E1 | 1508 | 35 | 268 | 48% | 1575 | 40% |
+| 9.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 1488 | 34 | 276 | 48% | 1555 | 40% |
 |  |  | T1 | 1484 | 26 | 536 | 51% | 1499 | 29% |
-|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 1469 | 37 | 252 | 49% | 1531 | 34% |
+|  |  | P1 | 1419 | 42 | 190 | 42% | 1501 | 29% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 1454 | 36 | 256 | 49% | 1512 | 35% |
 |  |  | T1 | 1395 | 26 | 542 | 55% | 1349 | 29% |
-|  |  | P1 | 1420 | 42 | 180 | 53% | 1391 | 37% |
-|  | STC <sub>(8.0+0.08s)</sub> | E1 | 1305 | 33 | 320 | 50% | 1322 | 33% |
+|  |  | P1 | 1372 | 42 | 184 | 52% | 1349 | 38% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 1296 | 32 | 324 | 50% | 1308 | 33% |
 |  |  | T1 | 1224 | 24 | 682 | 54% | 1169 | 29% |
-|  |  | P1 | 1212 | 44 | 176 | 50% | 1254 | 29% |
+|  |  | P1 | 1173 | 44 | 176 | 50% | 1214 | 29% |
