@@ -8,14 +8,14 @@ Home: https://github.com/jnlt3/blackmarlin
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.0 | 2024-02-28 | 3239 | 3497 | 3537 |  |
+| 9.0 | 2024-02-28 | 3217 | 3475 | 3515 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.0 | 2024-02-28 | 3371 | 3600 | 3676 |  |
+| 9.0 | 2024-02-28 | 3321 | 3552 | 3627 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-07 05:36:19
+Generated: 2026-11-08 05:36:16
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-11-07 05:36:19
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 9.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3428 | 11 | 2021 | 50% | 3428 | 74% |
-|  |  | P1 | 3676 | 40 | 156 | 50% | 3677 | 74% |
-|  |  | E1 | 3537 | 31 | 270 | 51% | 3525 | 67% |
-|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3391 | 11 | 2056 | 50% | 3395 | 71% |
-|  |  | P1 | 3600 | 34 | 220 | 53% | 3582 | 71% |
-|  |  | E1 | 3497 | 28 | 336 | 50% | 3495 | 64% |
-|  | STC <sub>(8.0+0.08s)</sub> | P1 | 3371 | 33 | 252 | 48% | 3386 | 52% |
-|  |  | E1 | 3239 | 26 | 444 | 46% | 3274 | 50% |
+|  |  | P1 | 3627 | 40 | 156 | 50% | 3629 | 74% |
+|  |  | E1 | 3515 | 31 | 270 | 51% | 3503 | 67% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 3552 | 34 | 220 | 53% | 3533 | 71% |
+|  |  | E1 | 3475 | 28 | 340 | 50% | 3475 | 64% |
+|  |  | T1 | 3391 | 11 | 2056 | 50% | 3395 | 71% |
+|  | STC <sub>(8.0+0.08s)</sub> | P1 | 3321 | 33 | 252 | 48% | 3336 | 52% |
+|  |  | E1 | 3217 | 25 | 452 | 46% | 3252 | 50% |
 |  |  | T1 | 3194 | 11 | 2216 | 51% | 3167 | 56% |
