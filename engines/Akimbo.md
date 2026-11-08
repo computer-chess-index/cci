@@ -8,14 +8,14 @@ Home: https://github.com/jw1912/akimbo
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | 2024-05-26 | 3201 | 3448 | 3529 |  |
+| 1.0.0 | 2024-05-26 | 3178 | 3426 | 3507 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | 2024-05-26 | 3416 | 3567 | 3637 |  |
+| 1.0.0 | 2024-05-26 | 3367 | 3518 | 3587 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-07 05:35:22
+Generated: 2026-11-08 05:35:21
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-11-07 05:35:22
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3406 | 11 | 2044 | 52% | 3391 | 71% |
-|  |  | P1 | 3637 | 33 | 226 | 51% | 3629 | 69% |
-|  |  | E1 | 3529 | 27 | 360 | 50% | 3528 | 69% |
-|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 3567 | 33 | 242 | 53% | 3538 | 65% |
-|  |  | E1 | 3448 | 30 | 298 | 49% | 3452 | 64% |
+|  |  | P1 | 3587 | 33 | 226 | 51% | 3580 | 69% |
+|  |  | E1 | 3507 | 26 | 364 | 50% | 3506 | 70% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 3518 | 33 | 242 | 53% | 3488 | 65% |
+|  |  | E1 | 3426 | 29 | 306 | 50% | 3430 | 64% |
 |  |  | T1 | 3362 | 11 | 2000 | 50% | 3363 | 72% |
-|  | STC <sub>(8.0+0.08s)</sub> | P1 | 3416 | 31 | 286 | 50% | 3414 | 56% |
-|  |  | E1 | 3201 | 27 | 382 | 46% | 3232 | 51% |
+|  | STC <sub>(8.0+0.08s)</sub> | P1 | 3367 | 31 | 286 | 50% | 3366 | 56% |
+|  |  | E1 | 3178 | 27 | 390 | 46% | 3210 | 52% |
 |  |  | T1 | 3171 | 11 | 2082 | 50% | 3175 | 58% |
