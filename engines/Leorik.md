@@ -8,14 +8,14 @@ Home: https://github.com/lithander/Leorik
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.2 | 2026-01-06 | 404 | 420 | 435 |  |
+| 3.2 | 2026-01-06 | 402 | 423 | 433 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.2 | 2026-01-06 | 344 | 342 | 333 |  |
+| 3.2 | 2026-01-06 | 343 | 340 | 333 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-07 05:39:19
+Generated: 2026-11-08 05:39:18
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-07 05:39:19
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 3.2 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 333 | 62 | 68 | 44% | 574 | 74% |
-|  |  | E1 | 435 | 43 | 214 | 32% | 879 | 42% |
+| 3.2 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 433 | 43 | 222 | 31% | 899 | 40% |
 |  |  | T1 | 431 | 34 | 422 | 21% | 911 | 34% |
-|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 420 | 45 | 188 | 31% | 865 | 47% |
+|  |  | P1 | 333 | 62 | 68 | 44% | 568 | 74% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 423 | 45 | 192 | 30% | 873 | 46% |
 |  |  | T1 | 396 | 36 | 388 | 21% | 878 | 35% |
-|  |  | P1 | 342 | 62 | 64 | 48% | 365 | 73% |
-|  | STC <sub>(8.0+0.08s)</sub> | E1 | 404 | 44 | 180 | 38% | 668 | 48% |
+|  |  | P1 | 340 | 62 | 64 | 48% | 365 | 73% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 402 | 44 | 180 | 38% | 666 | 48% |
 |  |  | T1 | 398 | 32 | 460 | 22% | 838 | 36% |
-|  |  | P1 | 344 | 49 | 132 | 39% | 716 | 58% |
+|  |  | P1 | 343 | 49 | 132 | 39% | 709 | 58% |
