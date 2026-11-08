@@ -8,14 +8,14 @@ Home: https://github.com/Lacovipo/Anubis-chess-engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.6 | 2025-10-02 | 2439 | 2967 | 3092 |  |
+| 3.0.6 | 2025-10-02 | 2422 | 2946 | 3069 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.6 | 2025-10-02 | 2473 | 3024 | 3194 |  |
+| 3.0.6 | 2025-10-02 | 2425 | 2977 | 3137 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-07 05:35:41
+Generated: 2026-11-08 05:35:39
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-07 05:35:41
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 3.0.6 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3194 | 37 | 224 | 54% | 3150 | 42% |
-|  |  | E1 | 3092 | 32 | 304 | 52% | 3058 | 41% |
+| 3.0.6 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 3069 | 32 | 308 | 52% | 3036 | 41% |
 |  |  | T1 | 3043 | 23 | 544 | 48% | 3056 | 46% |
-|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 2967 | 29 | 388 | 45% | 3008 | 35% |
+|  |  | P1 | 3137 | 36 | 238 | 53% | 3102 | 42% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 2946 | 29 | 388 | 45% | 2986 | 35% |
 |  |  | T1 | 2917 | 23 | 596 | 47% | 2938 | 41% |
-|  |  | P1 | 3024 | 39 | 208 | 51% | 3013 | 41% |
-|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2439 | 34 | 316 | 46% | 2484 | 20% |
+|  |  | P1 | 2977 | 39 | 208 | 51% | 2966 | 41% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2422 | 34 | 316 | 46% | 2466 | 20% |
 |  |  | T1 | 2498 | 22 | 722 | 54% | 2461 | 26% |
-|  |  | P1 | 2473 | 41 | 208 | 47% | 2499 | 24% |
+|  |  | P1 | 2425 | 41 | 208 | 47% | 2450 | 24% |
