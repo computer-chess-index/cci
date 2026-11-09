@@ -8,14 +8,14 @@ Home: https://github.com/enfmarinho/Minke
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7.0.0 | 2026-08-27 | 3418 | 3633 | 3699 |  |
+| 7.0.0 | 2026-08-27 | 3414 | 3627 | 3695 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7.0.0 | 2026-08-27 | 3519 | 3695 | 3744 |  |
+| 7.0.0 | 2026-08-27 | 3522 | 3696 | 3744 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -44,7 +44,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-08 05:39:53
+Generated: 2026-11-09 05:40:13
 
 ## Ratings Verlauf T1
 
@@ -67,14 +67,14 @@ xychart-beta
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 7.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3538 | 29 | 280 | 50% | 3541 | 87% |
-|  |  | P1 | 3744 | 40 | 140 | 50% | 3745 | 92% |
-|  |  | E1 | 3699 | 32 | 220 | 51% | 3691 | 87% |
+|  |  | P1 | 3744 | 40 | 140 | 50% | 3746 | 92% |
+|  |  | E1 | 3695 | 32 | 220 | 51% | 3688 | 87% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3533 | 30 | 260 | 51% | 3526 | 80% |
-|  |  | P1 | 3695 | 36 | 172 | 48% | 3708 | 89% |
-|  |  | E1 | 3633 | 30 | 258 | 49% | 3641 | 85% |
+|  |  | P1 | 3696 | 36 | 172 | 48% | 3710 | 89% |
+|  |  | E1 | 3627 | 30 | 262 | 49% | 3638 | 85% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 3374 | 27 | 350 | 48% | 3387 | 63% |
-|  |  | P1 | 3519 | 36 | 188 | 48% | 3534 | 78% |
-|  |  | E1 | 3418 | 27 | 360 | 49% | 3428 | 67% |
+|  |  | P1 | 3522 | 36 | 188 | 48% | 3537 | 78% |
+|  |  | E1 | 3414 | 27 | 360 | 49% | 3424 | 67% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 6.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3436 | 23 | 450 | 49% | 3441 | 76% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3380 | 24 | 432 | 50% | 3380 | 71% |
