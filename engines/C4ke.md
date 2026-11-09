@@ -8,14 +8,14 @@ Home: https://github.com/citrus610/c4ke
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0 | 2026-01-05 | 2757 | 3137 | 3210 |  |
+| 3.0 | 2026-01-05 | 2751 | 3132 | 3208 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0 | 2026-01-05 | 2826 | 3218 | 3270 |  |
+| 3.0 | 2026-01-05 | 2826 | 3220 | 3271 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-08 05:36:26
+Generated: 2026-11-09 05:36:35
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-11-08 05:36:26
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3150 | 24 | 520 | 49% | 3156 | 48% |
-|  |  | P1 | 3270 | 37 | 236 | 57% | 3163 | 39% |
-|  |  | E1 | 3210 | 30 | 348 | 50% | 3168 | 47% |
+|  |  | P1 | 3271 | 37 | 236 | 57% | 3164 | 39% |
+|  |  | E1 | 3208 | 30 | 348 | 50% | 3164 | 47% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3101 | 24 | 548 | 51% | 3089 | 42% |
-|  |  | P1 | 3218 | 36 | 236 | 52% | 3177 | 44% |
-|  |  | E1 | 3137 | 30 | 354 | 50% | 3109 | 43% |
+|  |  | P1 | 3220 | 36 | 236 | 52% | 3178 | 44% |
+|  |  | E1 | 3132 | 29 | 362 | 50% | 3106 | 43% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2750 | 22 | 660 | 49% | 2762 | 36% |
 |  |  | P1 | 2826 | 35 | 262 | 51% | 2815 | 34% |
-|  |  | E1 | 2757 | 29 | 380 | 47% | 2790 | 32% |
+|  |  | E1 | 2751 | 29 | 388 | 47% | 2786 | 32% |
