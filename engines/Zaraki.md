@@ -8,14 +8,14 @@ Home: https://github.com/timojokinen/zaraki-zig
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.0.1 | 2026-07-02 | 1993 | 2230 | 2392 |  |
+| 0.0.1 | 2026-07-02 | 1999 | 2241 | 2399 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.0.1 | 2026-07-02 | 1986 | 2248 | 2344 |  |
+| 0.0.1 | 2026-07-02 | 1985 | 2249 | 2344 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-09 05:44:35
+Generated: 2026-11-10 05:44:21
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-09 05:44:35
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 0.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 2344 | 39 | 212 | 48% | 2349 | 41% |
-|  |  | E1 | 2392 | 29 | 384 | 56% | 2337 | 37% |
+| 0.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 2344 | 38 | 216 | 48% | 2349 | 41% |
+|  |  | E1 | 2399 | 29 | 384 | 56% | 2344 | 37% |
 |  |  | T1 | 2354 | 33 | 292 | 44% | 2426 | 41% |
-|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 2248 | 39 | 222 | 48% | 2291 | 33% |
-|  |  | E1 | 2230 | 32 | 330 | 51% | 2255 | 35% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 2249 | 39 | 222 | 48% | 2291 | 33% |
+|  |  | E1 | 2241 | 32 | 334 | 51% | 2263 | 35% |
 |  |  | T1 | 2272 | 36 | 256 | 45% | 2344 | 37% |
-|  | STC <sub>(8.0+0.08s)</sub> | E1 | 1993 | 32 | 316 | 47% | 2024 | 39% |
+|  | STC <sub>(8.0+0.08s)</sub> | P1 | 1985 | 37 | 240 | 47% | 2025 | 37% |
+|  |  | E1 | 1999 | 32 | 316 | 47% | 2030 | 39% |
 |  |  | T1 | 2055 | 29 | 400 | 43% | 2128 | 35% |
-|  |  | P1 | 1986 | 37 | 240 | 47% | 2026 | 37% |
