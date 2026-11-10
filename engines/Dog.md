@@ -8,14 +8,14 @@ Home: https://github.com/folkertvanheusden/Dog
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.10.2 | 2025-12-05 | 2781 | 3093 | 3190 |  |
+| 4.10.2 | 2025-12-05 | 2789 | 3098 | 3195 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.10.2 | 2025-12-05 | 2903 | 3148 | 3220 |  |
+| 4.10.2 | 2025-12-05 | 2903 | 3147 | 3220 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-09 05:37:45
+Generated: 2026-11-10 05:37:44
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-11-09 05:37:45
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 4.10.2 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3220 | 35 | 248 | 56% | 3136 | 51% |
-|  |  | E1 | 3190 | 29 | 358 | 54% | 3150 | 46% |
+|  |  | E1 | 3195 | 29 | 366 | 54% | 3156 | 47% |
 |  |  | T1 | 3104 | 22 | 606 | 53% | 3074 | 55% |
-|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 3093 | 29 | 360 | 50% | 3066 | 45% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 3147 | 35 | 236 | 52% | 3086 | 50% |
+|  |  | E1 | 3098 | 30 | 360 | 50% | 3071 | 45% |
 |  |  | T1 | 3044 | 24 | 498 | 52% | 3029 | 54% |
-|  |  | P1 | 3148 | 35 | 236 | 52% | 3087 | 50% |
-|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2781 | 28 | 408 | 45% | 2824 | 34% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2789 | 28 | 412 | 46% | 2830 | 34% |
 |  |  | T1 | 2812 | 20 | 780 | 49% | 2820 | 40% |
 |  |  | P1 | 2903 | 38 | 228 | 46% | 2942 | 35% |
