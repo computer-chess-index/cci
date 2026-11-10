@@ -8,14 +8,14 @@ Home: https://github.com/mkyl/cicada
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.1 | 2017-03-22 | 1334 | 1459 | 1563 |  |
+| 0.1 | 2017-03-22 | 1334 | 1463 | 1571 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.1 | 2017-03-22 | 1316 | 1501 | 1581 |  |
+| 0.1 | 2017-03-22 | 1318 | 1499 | 1574 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-09 05:37:19
+Generated: 2026-11-10 05:37:15
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-11-09 05:37:19
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 0.1 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 1543 | 31 | 380 | 46% | 1590 | 19% |
-|  |  | P1 | 1581 | 39 | 232 | 52% | 1566 | 19% |
-|  |  | E1 | 1563 | 33 | 320 | 47% | 1609 | 24% |
-|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 1501 | 44 | 178 | 51% | 1488 | 24% |
-|  |  | E1 | 1459 | 32 | 332 | 47% | 1494 | 23% |
-|  |  | T1 | 1516 | 32 | 344 | 49% | 1521 | 24% |
-|  | STC <sub>(8.0+0.08s)</sub> | P1 | 1316 | 43 | 188 | 51% | 1337 | 22% |
-|  |  | E1 | 1334 | 33 | 332 | 49% | 1365 | 22% |
+|  |  | P1 | 1574 | 38 | 240 | 51% | 1566 | 20% |
+|  |  | E1 | 1571 | 32 | 336 | 47% | 1612 | 24% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 1516 | 32 | 344 | 49% | 1521 | 24% |
+|  |  | P1 | 1499 | 44 | 178 | 51% | 1486 | 24% |
+|  |  | E1 | 1463 | 32 | 336 | 47% | 1497 | 23% |
+|  | STC <sub>(8.0+0.08s)</sub> | P1 | 1318 | 43 | 192 | 51% | 1338 | 23% |
+|  |  | E1 | 1334 | 33 | 340 | 49% | 1368 | 22% |
 |  |  | T1 | 1303 | 32 | 358 | 49% | 1310 | 20% |
