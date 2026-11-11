@@ -8,14 +8,14 @@ Home: https://github.com/Carbecq/Zangdar
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7 | 2026-07-13 | 3352 | 3576 | 3637 |  |
+| 7 | 2026-07-13 | 3368 | 3592 | 3653 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7 | 2026-07-13 | 3463 | 3669 | 3708 |  |
+| 7 | 2026-07-13 | 3464 | 3669 | 3710 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -44,7 +44,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-10 05:44:18
+Generated: 2026-11-11 05:44:20
 
 ## Ratings Verlauf T1
 
@@ -67,14 +67,14 @@ xychart-beta
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 7 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3510 | 35 | 196 | 49% | 3513 | 81% |
-|  |  | P1 | 3708 | 35 | 204 | 55% | 3650 | 75% |
-|  |  | E1 | 3637 | 30 | 292 | 57% | 3528 | 74% |
+|  |  | P1 | 3710 | 35 | 204 | 55% | 3650 | 75% |
+|  |  | E1 | 3653 | 30 | 296 | 57% | 3545 | 74% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3474 | 36 | 186 | 51% | 3468 | 78% |
 |  |  | P1 | 3669 | 36 | 212 | 57% | 3556 | 66% |
-|  |  | E1 | 3576 | 30 | 312 | 59% | 3426 | 64% |
-|  | STC <sub>(8.0+0.08s)</sub> | T1 | 3313 | 27 | 352 | 50% | 3310 | 68% |
-|  |  | P1 | 3463 | 28 | 332 | 49% | 3470 | 64% |
-|  |  | E1 | 3352 | 25 | 408 | 47% | 3378 | 63% |
+|  |  | E1 | 3592 | 30 | 312 | 59% | 3443 | 64% |
+|  | STC <sub>(8.0+0.08s)</sub> | P1 | 3464 | 28 | 336 | 49% | 3471 | 64% |
+|  |  | E1 | 3368 | 25 | 408 | 47% | 3393 | 63% |
+|  |  | T1 | 3313 | 27 | 352 | 50% | 3310 | 68% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 6.1.1 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3414 | 25 | 394 | 50% | 3411 | 75% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3389 | 26 | 364 | 51% | 3384 | 70% |
