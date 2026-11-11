@@ -8,7 +8,7 @@ Home: https://github.com/neluj/Akerbeltz
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1.0 | 2026-04-14 | 1947 | 2184 | 2327 |  |
+| 1.1.0 | 2026-04-14 | 1962 | 2199 | 2342 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-10 05:35:21
+Generated: 2026-11-11 05:35:19
 
 ## Ratings Verlauf T1
 
@@ -64,12 +64,12 @@ xychart-beta
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 1.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 2354 | 41 | 216 | 52% | 2338 | 24% |
-|  |  | E1 | 2327 | 34 | 312 | 47% | 2371 | 21% |
+|  |  | E1 | 2342 | 34 | 312 | 47% | 2385 | 21% |
 |  |  | T1 | 2310 | 26 | 520 | 51% | 2309 | 21% |
-|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 2249 | 44 | 200 | 49% | 2284 | 19% |
-|  |  | E1 | 2184 | 34 | 340 | 49% | 2209 | 16% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 2199 | 34 | 340 | 49% | 2225 | 16% |
 |  |  | T1 | 2202 | 27 | 496 | 48% | 2218 | 23% |
-|  | STC <sub>(8.0+0.08s)</sub> | E1 | 1947 | 34 | 302 | 49% | 1983 | 24% |
+|  |  | P1 | 2249 | 44 | 200 | 49% | 2286 | 19% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 1962 | 34 | 302 | 49% | 1998 | 24% |
 |  |  | T1 | 1941 | 25 | 588 | 48% | 1967 | 21% |
 |  |  | P1 | 1941 | 43 | 198 | 49% | 1968 | 18% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
