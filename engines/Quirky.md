@@ -8,14 +8,14 @@ Home: https://github.com/Wind-Eagle/Quirky
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0 | 2026-05-16 | 3073 | 3293 | 3306 |  |
+| 3.0 | 2026-05-16 | 3089 | 3310 | 3326 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0 | 2026-05-16 | 3186 | 3414 | 3476 |  |
+| 3.0 | 2026-05-16 | 3186 | 3417 | 3478 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-10 05:41:22
+Generated: 2026-11-11 05:41:24
 
 ## Ratings Verlauf T1
 
@@ -63,13 +63,13 @@ xychart-beta
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3476 | 32 | 292 | 57% | 3289 | 53% |
-|  |  | E1 | 3306 | 25 | 490 | 52% | 3276 | 44% |
+| 3.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3478 | 30 | 330 | 56% | 3312 | 53% |
+|  |  | E1 | 3326 | 25 | 506 | 52% | 3294 | 44% |
 |  |  | T1 | 1223 | 21 | 1660 | 25% | 1688 | 3% |
-|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 3414 | 31 | 300 | 56% | 3348 | 53% |
-|  |  | E1 | 3293 | 24 | 528 | 57% | 3182 | 48% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 3310 | 24 | 536 | 57% | 3200 | 48% |
 |  |  | T1 | 2109 | 23 | 928 | 44% | 2203 | 2% |
-|  | STC <sub>(8.0+0.08s)</sub> | E1 | 3073 | 27 | 552 | 67% | 2512 | 36% |
+|  |  | P1 | 3417 | 31 | 304 | 56% | 3351 | 53% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 3089 | 27 | 556 | 67% | 2531 | 36% |
 |  |  | T1 | 911 | 34 | 472 | 55% | 941 | 15% |
 |  |  | P1 | 3186 | 27 | 516 | 67% | 2685 | 40% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
