@@ -8,14 +8,14 @@ Home: https://github.com/jasper-sinclair/kobra
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1 | 2026-03-03 | 2742 | 3069 | 3162 |  |
+| 2.1 | 2026-03-03 | 2758 | 3085 | 3178 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1 | 2026-03-03 | 2773 | 3160 | 3252 |  |
+| 2.1 | 2026-03-03 | 2774 | 3160 | 3252 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-10 05:39:10
+Generated: 2026-11-11 05:39:09
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-11-10 05:39:10
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3112 | 22 | 560 | 51% | 3105 | 59% |
-|  |  | P1 | 3252 | 36 | 216 | 53% | 3229 | 56% |
-|  |  | E1 | 3162 | 27 | 372 | 53% | 3132 | 60% |
-|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3029 | 23 | 526 | 54% | 2997 | 50% |
-|  |  | P1 | 3160 | 35 | 232 | 50% | 3160 | 54% |
-|  |  | E1 | 3069 | 29 | 356 | 52% | 3033 | 50% |
-|  | STC <sub>(8.0+0.08s)</sub> | P1 | 2773 | 33 | 302 | 50% | 2774 | 34% |
-|  |  | E1 | 2742 | 29 | 380 | 48% | 2761 | 39% |
+|  |  | P1 | 3252 | 36 | 220 | 53% | 3229 | 55% |
+|  |  | E1 | 3178 | 27 | 376 | 53% | 3150 | 61% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 3160 | 35 | 232 | 50% | 3160 | 54% |
+|  |  | E1 | 3085 | 28 | 364 | 52% | 3051 | 50% |
+|  |  | T1 | 3029 | 23 | 526 | 54% | 2997 | 50% |
+|  | STC <sub>(8.0+0.08s)</sub> | P1 | 2774 | 32 | 306 | 50% | 2774 | 34% |
+|  |  | E1 | 2758 | 29 | 380 | 48% | 2776 | 39% |
 |  |  | T1 | 2718 | 22 | 626 | 54% | 2681 | 38% |
