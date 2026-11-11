@@ -8,14 +8,14 @@ Home: https://github.com/princesslana/princhess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.22.0 | 2026-08-16 | 2979 | 3216 | 3276 |  |
+| 0.22.0 | 2026-08-16 | 2996 | 3232 | 3291 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.22.0 | 2026-08-16 | 2996 | 3293 | 3368 |  |
+| 0.22.0 | 2026-08-16 | 2996 | 3294 | 3367 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-10 05:41:02
+Generated: 2026-11-11 05:41:03
 
 ## Ratings Verlauf T1
 
@@ -63,13 +63,13 @@ xychart-beta
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 0.22.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3368 | 29 | 320 | 51% | 3364 | 57% |
-|  |  | E1 | 3276 | 27 | 398 | 51% | 3272 | 52% |
+| 0.22.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3367 | 29 | 330 | 50% | 3366 | 57% |
+|  |  | E1 | 3291 | 26 | 402 | 50% | 3289 | 52% |
 |  |  | T1 | 3177 | 33 | 256 | 50% | 3174 | 56% |
-|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 3293 | 33 | 264 | 49% | 3309 | 51% |
-|  |  | E1 | 3216 | 27 | 394 | 51% | 3206 | 50% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 3232 | 27 | 398 | 51% | 3222 | 51% |
 |  |  | T1 | 3105 | 30 | 308 | 50% | 3106 | 54% |
-|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2979 | 28 | 378 | 50% | 2978 | 43% |
+|  |  | P1 | 3294 | 33 | 268 | 49% | 3309 | 51% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2996 | 28 | 382 | 50% | 2994 | 42% |
 |  |  | T1 | 2873 | 32 | 296 | 49% | 2885 | 41% |
 |  |  | P1 | 2996 | 33 | 274 | 50% | 2992 | 45% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
