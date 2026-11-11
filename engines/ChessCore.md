@@ -8,7 +8,7 @@ Home: https://github.com/3583Bytes/ChessCore
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.2.0 | 2026-06-24 | 1430 | 1781 | 1897 |  |
+| 1.2.0 | 2026-06-24 | 1445 | 1793 | 1913 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
@@ -44,7 +44,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-10 05:37:05
+Generated: 2026-11-11 05:37:05
 
 ## Ratings Verlauf T1
 
@@ -67,12 +67,12 @@ xychart-beta
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 1.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 1933 | 39 | 208 | 47% | 1995 | 38% |
-|  |  | E1 | 1897 | 32 | 340 | 46% | 1993 | 35% |
+|  |  | E1 | 1913 | 31 | 348 | 47% | 2002 | 34% |
 |  |  | T1 | 1883 | 33 | 290 | 55% | 1823 | 40% |
-|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 1781 | 42 | 196 | 44% | 1856 | 33% |
-|  |  | E1 | 1781 | 32 | 300 | 48% | 1827 | 40% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 1793 | 32 | 300 | 48% | 1839 | 40% |
 |  |  | T1 | 1817 | 31 | 338 | 54% | 1766 | 36% |
-|  | STC <sub>(8.0+0.08s)</sub> | E1 | 1430 | 31 | 344 | 49% | 1474 | 34% |
+|  |  | P1 | 1781 | 42 | 196 | 44% | 1858 | 33% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 1445 | 30 | 356 | 49% | 1482 | 35% |
 |  |  | T1 | 1430 | 31 | 360 | 54% | 1382 | 30% |
 |  |  | P1 | 1382 | 41 | 200 | 46% | 1462 | 32% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
