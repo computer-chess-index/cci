@@ -8,14 +8,14 @@ Home: https://github.com/silentshark-uk/rexigon
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2025-11-30 | 2009 | 2313 | 2444 |  |
+| 1.0 | 2025-11-30 | 2025 | 2329 | 2460 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2025-11-30 | 2034 | 2294 | 2415 |  |
+| 1.0 | 2025-11-30 | 2034 | 2295 | 2415 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-10 05:41:51
+Generated: 2026-11-11 05:41:52
 
 
 
@@ -50,10 +50,10 @@ Generated: 2026-11-10 05:41:51
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2444 | 26 | 562 | 50% | 2445 | 18% |
 |  |  | P1 | 2415 | 44 | 196 | 52% | 2400 | 18% |
-|  |  | E1 | 2444 | 36 | 296 | 49% | 2462 | 17% |
-|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2321 | 25 | 572 | 50% | 2321 | 17% |
-|  |  | P1 | 2294 | 41 | 224 | 49% | 2310 | 16% |
-|  |  | E1 | 2313 | 33 | 336 | 53% | 2290 | 20% |
+|  |  | E1 | 2460 | 36 | 296 | 49% | 2479 | 17% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 2295 | 41 | 224 | 49% | 2310 | 16% |
+|  |  | E1 | 2329 | 33 | 336 | 53% | 2304 | 20% |
+|  |  | T1 | 2321 | 25 | 572 | 50% | 2321 | 17% |
 |  | STC <sub>(8.0+0.08s)</sub> | P1 | 2034 | 38 | 254 | 51% | 2028 | 16% |
-|  |  | E1 | 2009 | 35 | 304 | 48% | 2029 | 16% |
+|  |  | E1 | 2025 | 35 | 304 | 48% | 2044 | 16% |
 |  |  | T1 | 2059 | 23 | 752 | 51% | 2041 | 12% |
