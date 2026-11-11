@@ -8,14 +8,14 @@ Home: https://github.com/saisree27/Maelstrom
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.3.0 | 2025-08-27 | 2778 | 3168 | 3243 |  |
+| 3.3.0 | 2025-08-27 | 2795 | 3185 | 3259 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.3.0 | 2025-08-27 | 2867 | 3220 | 3362 |  |
+| 3.3.0 | 2025-08-27 | 2869 | 3220 | 3356 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-10 05:39:50
+Generated: 2026-11-11 05:39:52
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-11-10 05:39:50
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 3.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3177 | 23 | 496 | 49% | 3185 | 63% |
-|  |  | P1 | 3362 | 32 | 260 | 50% | 3356 | 62% |
-|  |  | E1 | 3243 | 27 | 404 | 56% | 3139 | 51% |
-|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3073 | 23 | 538 | 51% | 3058 | 54% |
-|  |  | P1 | 3220 | 35 | 248 | 55% | 3140 | 48% |
-|  |  | E1 | 3168 | 27 | 402 | 50% | 3144 | 51% |
-|  | STC <sub>(8.0+0.08s)</sub> | P1 | 2867 | 35 | 256 | 51% | 2858 | 36% |
-|  |  | E1 | 2778 | 30 | 352 | 48% | 2800 | 34% |
+|  |  | P1 | 3356 | 31 | 272 | 49% | 3357 | 61% |
+|  |  | E1 | 3259 | 27 | 404 | 56% | 3154 | 51% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 3220 | 35 | 248 | 55% | 3140 | 48% |
+|  |  | E1 | 3185 | 27 | 414 | 50% | 3162 | 52% |
+|  |  | T1 | 3073 | 23 | 538 | 51% | 3058 | 54% |
+|  | STC <sub>(8.0+0.08s)</sub> | P1 | 2869 | 35 | 256 | 51% | 2859 | 36% |
+|  |  | E1 | 2795 | 30 | 352 | 48% | 2816 | 34% |
 |  |  | T1 | 2742 | 22 | 658 | 50% | 2732 | 36% |
