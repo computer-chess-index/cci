@@ -8,7 +8,7 @@ Home: https://github.com/tomitank/tomitankChess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 7.0 | 2026-07-06 | 2557 | 2934 | 2981 |  |
+| 7.0 | 2026-07-06 | 2573 | 2948 | 2997 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
@@ -42,7 +42,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-10 05:43:33
+Generated: 2026-11-11 05:43:34
 
 ## Ratings Verlauf T1
 
@@ -64,15 +64,15 @@ xychart-beta
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 7.0 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 2981 | 28 | 384 | 49% | 2989 | 45% |
+| 7.0 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 2997 | 28 | 384 | 49% | 3005 | 45% |
 |  |  | T1 | 2916 | 27 | 412 | 51% | 2904 | 45% |
 |  |  | P1 | 3020 | 32 | 292 | 49% | 3038 | 45% |
-|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 2934 | 29 | 376 | 52% | 2923 | 39% |
-|  |  | T1 | 2853 | 27 | 406 | 51% | 2847 | 44% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2853 | 27 | 406 | 51% | 2847 | 44% |
 |  |  | P1 | 2973 | 35 | 254 | 50% | 2970 | 38% |
+|  |  | E1 | 2948 | 29 | 376 | 52% | 2939 | 39% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2537 | 29 | 388 | 48% | 2554 | 27% |
-|  |  | P1 | 2595 | 39 | 224 | 47% | 2638 | 30% |
-|  |  | E1 | 2557 | 30 | 376 | 47% | 2591 | 31% |
+|  |  | P1 | 2595 | 39 | 224 | 47% | 2639 | 30% |
+|  |  | E1 | 2573 | 30 | 376 | 47% | 2607 | 31% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 6.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2889 | 27 | 406 | 50% | 2890 | 43% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2822 | 29 | 362 | 50% | 2819 | 38% |
