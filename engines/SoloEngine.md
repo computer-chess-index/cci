@@ -8,14 +8,14 @@ Home: https://github.com/yunusemreyldz07/SoloEngine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.2.0 | 2026-06-06 | 2912 | 3208 | 3305 |  |
+| 2.2.0 | 2026-06-06 | 2928 | 3224 | 3322 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.2.0 | 2026-06-06 | 2973 | 3318 | 3379 |  |
+| 2.2.0 | 2026-06-06 | 2973 | 3321 | 3379 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -46,7 +46,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-10 05:42:44
+Generated: 2026-11-11 05:42:45
 
 ## Ratings Verlauf T1
 
@@ -68,13 +68,13 @@ xychart-beta
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 2.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3379 | 31 | 302 | 54% | 3279 | 50% |
-|  |  | E1 | 3305 | 26 | 416 | 54% | 3254 | 54% |
+| 2.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3379 | 31 | 306 | 54% | 3282 | 50% |
+|  |  | E1 | 3322 | 26 | 424 | 55% | 3270 | 54% |
 |  |  | T1 | 3244 | 26 | 380 | 50% | 3243 | 63% |
-|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 3318 | 33 | 254 | 53% | 3285 | 58% |
-|  |  | E1 | 3208 | 29 | 374 | 55% | 3113 | 48% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 3224 | 28 | 382 | 54% | 3133 | 48% |
 |  |  | T1 | 3148 | 28 | 368 | 53% | 3116 | 55% |
-|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2912 | 29 | 368 | 48% | 2930 | 38% |
+|  |  | P1 | 3321 | 32 | 264 | 53% | 3286 | 58% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2928 | 29 | 368 | 48% | 2946 | 38% |
 |  |  | T1 | 2874 | 25 | 484 | 52% | 2855 | 43% |
 |  |  | P1 | 2973 | 34 | 272 | 50% | 2940 | 41% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
