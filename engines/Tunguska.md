@@ -8,14 +8,14 @@ Home: https://github.com/fernandotenorio/Tunguska
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.2 | 2026-09-07 | 2909 | 3232 | 3337 |  |
+| 2.2 | 2026-09-07 | 2924 | 3249 | 3353 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.2 | 2026-09-07 | 3021 | 3372 | 3432 |  |
+| 2.2 | 2026-09-07 | 3021 | 3374 | 3433 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -42,7 +42,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-10 05:43:42
+Generated: 2026-11-11 05:43:44
 
 ## Ratings Verlauf T1
 
@@ -64,15 +64,15 @@ xychart-beta
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 2.2 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 3337 | 25 | 428 | 48% | 3353 | 57% |
+| 2.2 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 3353 | 25 | 432 | 48% | 3368 | 58% |
 |  |  | T1 | 3289 | 30 | 284 | 50% | 3286 | 68% |
-|  |  | P1 | 3432 | 29 | 308 | 47% | 3451 | 61% |
-|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 3232 | 24 | 466 | 46% | 3262 | 58% |
-|  |  | T1 | 3183 | 33 | 244 | 49% | 3186 | 61% |
-|  |  | P1 | 3372 | 30 | 308 | 49% | 3379 | 57% |
+|  |  | P1 | 3433 | 29 | 308 | 47% | 3452 | 61% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3183 | 33 | 244 | 49% | 3186 | 61% |
+|  |  | P1 | 3374 | 29 | 316 | 49% | 3380 | 58% |
+|  |  | E1 | 3249 | 24 | 474 | 46% | 3276 | 58% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2919 | 34 | 252 | 50% | 2919 | 51% |
-|  |  | P1 | 3021 | 33 | 284 | 46% | 3055 | 45% |
-|  |  | E1 | 2909 | 27 | 408 | 46% | 2920 | 47% |
+|  |  | P1 | 3021 | 32 | 288 | 47% | 3054 | 44% |
+|  |  | E1 | 2924 | 27 | 412 | 46% | 2935 | 47% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3221 | 24 | 488 | 50% | 3217 | 59% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3152 | 24 | 458 | 52% | 3135 | 59% |
