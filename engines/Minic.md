@@ -8,14 +8,14 @@ Home: https://github.com/tryingsomestuff/Minic
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.41 | 2024-01-18 | 3023 | 3356 | 3443 |  |
+| 3.41 | 2024-01-18 | 3038 | 3371 | 3460 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.41 | 2024-01-18 | 3104 | 3457 | 3506 |  |
+| 3.41 | 2024-01-18 | 3104 | 3459 | 3509 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-10 05:40:03
+Generated: 2026-11-11 05:40:05
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-11-10 05:40:03
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 3.41 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3341 | 11 | 1956 | 51% | 3333 | 71% |
-|  |  | P1 | 3506 | 31 | 272 | 54% | 3471 | 62% |
-|  |  | E1 | 3443 | 27 | 350 | 49% | 3445 | 69% |
+|  |  | P1 | 3509 | 31 | 276 | 54% | 3472 | 62% |
+|  |  | E1 | 3460 | 27 | 366 | 49% | 3461 | 68% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3272 | 12 | 1890 | 50% | 3268 | 63% |
-|  |  | P1 | 3457 | 34 | 228 | 51% | 3438 | 69% |
-|  |  | E1 | 3356 | 28 | 340 | 53% | 3326 | 68% |
+|  |  | P1 | 3459 | 33 | 232 | 51% | 3440 | 69% |
+|  |  | E1 | 3371 | 27 | 348 | 53% | 3343 | 69% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2973 | 12 | 2074 | 51% | 2959 | 50% |
 |  |  | P1 | 3104 | 35 | 236 | 50% | 3101 | 51% |
-|  |  | E1 | 3023 | 27 | 394 | 49% | 3029 | 51% |
+|  |  | E1 | 3038 | 27 | 394 | 49% | 3046 | 51% |
