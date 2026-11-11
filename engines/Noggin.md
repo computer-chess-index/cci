@@ -8,14 +8,14 @@ Home: https://github.com/jeremyylimmm/noggin
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1 | 2026-07-04 | 2607 | 2951 | 3032 |  |
+| 2.1 | 2026-07-04 | 2622 | 2967 | 3047 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1 | 2026-07-04 | 2661 | 2988 | 3105 |  |
+| 2.1 | 2026-07-04 | 2661 | 2989 | 3105 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-10 05:40:22
+Generated: 2026-11-11 05:40:24
 
 ## Ratings Verlauf T1
 
@@ -63,13 +63,13 @@ xychart-beta
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3105 | 49 | 128 | 48% | 3123 | 41% |
-|  |  | E1 | 3032 | 36 | 264 | 57% | 2878 | 36% |
+| 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 3047 | 35 | 272 | 57% | 2900 | 37% |
 |  |  | T1 | 2948 | 34 | 260 | 52% | 2935 | 45% |
-|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 2951 | 35 | 284 | 58% | 2782 | 36% |
+|  |  | P1 | 3105 | 49 | 128 | 48% | 3124 | 41% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 2967 | 35 | 284 | 58% | 2799 | 36% |
 |  |  | T1 | 2893 | 37 | 224 | 52% | 2878 | 43% |
-|  |  | P1 | 2988 | 48 | 134 | 49% | 3005 | 45% |
-|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2607 | 43 | 192 | 49% | 2592 | 28% |
+|  |  | P1 | 2989 | 48 | 134 | 49% | 3006 | 45% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2622 | 43 | 192 | 49% | 2608 | 28% |
 |  |  | T1 | 2642 | 39 | 220 | 48% | 2658 | 30% |
 |  |  | P1 | 2661 | 55 | 116 | 47% | 2699 | 22% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
