@@ -8,14 +8,14 @@ Home: https://github.com/ZlomenyMesic/Kreveta
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.3.1 | 2026-05-12 | 1843 | 2183 | 2334 |  |
+| 2.3.1 | 2026-05-12 | 1860 | 2199 | 2349 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.3.1 | 2026-05-12 | 1877 | 2244 | 2349 |  |
+| 2.3.1 | 2026-05-12 | 1878 | 2245 | 2349 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -50,7 +50,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-10 05:39:17
+Generated: 2026-11-11 05:39:17
 
 ## Ratings Verlauf T1
 
@@ -74,12 +74,12 @@ xychart-beta
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 2.3.1 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2319 | 29 | 404 | 51% | 2300 | 28% |
 |  |  | P1 | 2349 | 42 | 200 | 48% | 2384 | 25% |
-|  |  | E1 | 2334 | 34 | 318 | 49% | 2358 | 20% |
-|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2237 | 29 | 416 | 49% | 2249 | 26% |
-|  |  | P1 | 2244 | 46 | 160 | 50% | 2223 | 31% |
-|  |  | E1 | 2183 | 34 | 326 | 50% | 2195 | 22% |
-|  | STC <sub>(8.0+0.08s)</sub> | P1 | 1877 | 38 | 248 | 47% | 1905 | 19% |
-|  |  | E1 | 1843 | 30 | 408 | 44% | 1920 | 23% |
+|  |  | E1 | 2349 | 34 | 318 | 49% | 2373 | 20% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 2245 | 46 | 160 | 50% | 2223 | 31% |
+|  |  | E1 | 2199 | 34 | 326 | 50% | 2211 | 22% |
+|  |  | T1 | 2237 | 29 | 416 | 49% | 2249 | 26% |
+|  | STC <sub>(8.0+0.08s)</sub> | P1 | 1878 | 38 | 248 | 47% | 1905 | 19% |
+|  |  | E1 | 1860 | 30 | 416 | 44% | 1935 | 23% |
 |  |  | T1 | 1967 | 27 | 494 | 49% | 1974 | 23% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 2.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2248 | 35 | 272 | 51% | 2236 | 28% |
