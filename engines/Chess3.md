@@ -8,14 +8,14 @@ Home: https://github.com/paulsonkoly/chess-3
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.0 | 2026-04-02 | 2568 | 2880 | 2963 |  |
+| 4.0 | 2026-04-02 | 2583 | 2898 | 2979 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.0 | 2026-04-02 | 2627 | 2901 | 2977 |  |
+| 4.0 | 2026-04-02 | 2627 | 2905 | 2977 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -41,7 +41,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-10 05:37:00
+Generated: 2026-11-11 05:37:00
 
 ## Ratings Verlauf T1
 
@@ -64,12 +64,12 @@ xychart-beta
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 4.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 2977 | 33 | 300 | 49% | 2990 | 36% |
-|  |  | E1 | 2963 | 27 | 428 | 48% | 2979 | 40% |
+|  |  | E1 | 2979 | 27 | 428 | 48% | 2994 | 40% |
 |  |  | T1 | 2894 | 23 | 568 | 51% | 2882 | 40% |
-|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 2901 | 38 | 250 | 58% | 2672 | 30% |
-|  |  | E1 | 2880 | 29 | 392 | 51% | 2844 | 34% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 2898 | 29 | 404 | 51% | 2861 | 34% |
 |  |  | T1 | 2807 | 23 | 586 | 49% | 2812 | 38% |
-|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2568 | 31 | 338 | 47% | 2596 | 35% |
+|  |  | P1 | 2905 | 38 | 258 | 58% | 2681 | 29% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2583 | 31 | 338 | 47% | 2612 | 35% |
 |  |  | T1 | 2511 | 24 | 604 | 49% | 2520 | 29% |
 |  |  | P1 | 2627 | 38 | 240 | 50% | 2622 | 34% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
