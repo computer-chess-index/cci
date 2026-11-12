@@ -8,14 +8,14 @@ Home: https://github.com/dede1751/carp
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.1 | 2023-09-25 | 3073 | 3378 | 3443 |  |
+| 3.0.1 | 2023-09-25 | 3040 | 3344 | 3410 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.1 | 2023-09-25 | 3171 | 3451 | 3537 |  |
+| 3.0.1 | 2023-09-25 | 3182 | 3461 | 3548 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-11 05:36:37
+Generated: 2026-11-12 05:36:36
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-11 05:36:37
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 3.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 3443 | 25 | 404 | 54% | 3416 | 65% |
-|  |  | P1 | 3537 | 31 | 274 | 54% | 3498 | 68% |
+| 3.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 3410 | 25 | 416 | 54% | 3383 | 66% |
+|  |  | P1 | 3548 | 31 | 274 | 54% | 3509 | 68% |
 |  |  | T1 | 3349 | 11 | 2114 | 49% | 3352 | 70% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3283 | 12 | 1966 | 50% | 3285 | 63% |
-|  |  | E1 | 3378 | 29 | 327 | 49% | 3378 | 59% |
-|  |  | P1 | 3451 | 31 | 284 | 51% | 3443 | 58% |
+|  |  | E1 | 3344 | 29 | 327 | 49% | 3344 | 59% |
+|  |  | P1 | 3461 | 31 | 284 | 51% | 3453 | 58% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 3024 | 12 | 2040 | 51% | 3011 | 47% |
-|  |  | E1 | 3073 | 26 | 438 | 47% | 3102 | 46% |
-|  |  | P1 | 3171 | 32 | 272 | 51% | 3162 | 51% |
+|  |  | E1 | 3040 | 26 | 442 | 47% | 3069 | 46% |
+|  |  | P1 | 3182 | 32 | 272 | 51% | 3171 | 51% |
