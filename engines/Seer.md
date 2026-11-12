@@ -8,14 +8,14 @@ Home: https://github.com/connormcmonigle/seer-nnue
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.8 | 2023-12-31 | 3316 | 3542 | 3621 |  |
+| 2.8 | 2023-12-31 | 3282 | 3507 | 3587 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.8 | 2023-12-31 | 3441 | 3621 | 3687 |  |
+| 2.8 | 2023-12-31 | 3452 | 3632 | 3698 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-11 05:42:31
+Generated: 2026-11-12 05:42:26
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-11 05:42:31
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 2.8 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3482 | 11 | 2071 | 51% | 3472 | 80% |
-|  |  | E1 | 3621 | 28 | 308 | 53% | 3591 | 76% |
-|  |  | P1 | 3687 | 36 | 184 | 49% | 3690 | 80% |
+| 2.8 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3698 | 36 | 184 | 49% | 3700 | 80% |
+|  |  | T1 | 3482 | 11 | 2071 | 51% | 3472 | 80% |
+|  |  | E1 | 3587 | 28 | 308 | 53% | 3559 | 76% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3451 | 11 | 1960 | 50% | 3449 | 76% |
-|  |  | E1 | 3542 | 30 | 272 | 52% | 3528 | 70% |
-|  |  | P1 | 3621 | 35 | 202 | 49% | 3629 | 75% |
+|  |  | P1 | 3632 | 35 | 202 | 49% | 3640 | 75% |
+|  |  | E1 | 3507 | 30 | 276 | 52% | 3495 | 70% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 3278 | 11 | 2216 | 51% | 3255 | 65% |
-|  |  | E1 | 3316 | 27 | 388 | 46% | 3343 | 57% |
-|  |  | P1 | 3441 | 31 | 266 | 50% | 3443 | 67% |
+|  |  | E1 | 3282 | 27 | 388 | 46% | 3309 | 57% |
+|  |  | P1 | 3452 | 31 | 266 | 50% | 3453 | 67% |
