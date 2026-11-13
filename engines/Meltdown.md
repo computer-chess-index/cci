@@ -8,14 +8,14 @@ Home: https://github.com/hansbinderup/meltdown-chess-engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.11 | 2025-11-15 | 2704 | 2957 | 2990 |  |
+| 1.11 | 2025-11-15 | 2646 | 2889 | 2920 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.11 | 2025-11-15 | 2741 | 2992 | 3059 |  |
+| 1.11 | 2025-11-15 | 2581 | 2824 | 2892 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-12 05:39:55
+Generated: 2026-11-13 05:40:17
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-12 05:39:55
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 1.11 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3059 | 36 | 256 | 50% | 3063 | 33% |
-|  |  | E1 | 2990 | 29 | 366 | 52% | 2971 | 37% |
+| 1.11 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 2920 | 29 | 372 | 51% | 2911 | 37% |
 |  |  | T1 | 2925 | 23 | 562 | 49% | 2931 | 40% |
-|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 2992 | 33 | 290 | 47% | 3016 | 37% |
-|  |  | E1 | 2957 | 31 | 352 | 58% | 2811 | 35% |
+|  |  | P1 | 2892 | 36 | 260 | 49% | 2907 | 32% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 2889 | 31 | 360 | 56% | 2763 | 34% |
 |  |  | T1 | 2884 | 23 | 610 | 52% | 2865 | 38% |
-|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2704 | 29 | 372 | 48% | 2727 | 35% |
+|  |  | P1 | 2824 | 33 | 294 | 47% | 2849 | 36% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2646 | 29 | 376 | 48% | 2669 | 35% |
 |  |  | T1 | 2680 | 20 | 840 | 50% | 2668 | 35% |
-|  |  | P1 | 2741 | 35 | 260 | 47% | 2766 | 36% |
+|  |  | P1 | 2581 | 34 | 264 | 47% | 2608 | 36% |
