@@ -8,14 +8,14 @@ Home: https://github.com/SimjanovskiNikola/FRI_Challenger
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.6.0 | 2025-10-02 | 1997 | 2327 | 2485 |  |
+| 0.6.0 | 2025-10-02 | 1976 | 2294 | 2441 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.6.0 | 2025-10-02 | 2044 | 2363 | 2600 |  |
+| 0.6.0 | 2025-10-02 | 1948 | 2234 | 2445 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-12 05:36:52
+Generated: 2026-11-13 05:37:00
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-12 05:36:52
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 0.6.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 2600 | 40 | 220 | 48% | 2631 | 30% |
-|  |  | E1 | 2485 | 35 | 312 | 51% | 2479 | 22% |
+| 0.6.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 2445 | 39 | 232 | 48% | 2481 | 28% |
+|  |  | E1 | 2441 | 35 | 316 | 51% | 2435 | 22% |
 |  |  | T1 | 2481 | 27 | 468 | 47% | 2511 | 29% |
-|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 2363 | 42 | 188 | 49% | 2383 | 29% |
-|  |  | E1 | 2327 | 32 | 346 | 54% | 2277 | 23% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 2294 | 32 | 346 | 54% | 2244 | 23% |
 |  |  | T1 | 2369 | 24 | 586 | 49% | 2377 | 27% |
-|  | STC <sub>(8.0+0.08s)</sub> | P1 | 2044 | 40 | 220 | 48% | 2082 | 20% |
-|  |  | E1 | 1997 | 32 | 326 | 47% | 2013 | 29% |
+|  |  | P1 | 2234 | 42 | 192 | 48% | 2265 | 29% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 1976 | 32 | 338 | 48% | 1985 | 29% |
 |  |  | T1 | 2060 | 22 | 774 | 49% | 2063 | 22% |
+|  |  | P1 | 1948 | 40 | 220 | 48% | 1985 | 20% |
