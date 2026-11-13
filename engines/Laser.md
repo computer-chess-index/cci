@@ -8,14 +8,14 @@ Home: https://github.com/jeffreyan11/laser-chess-engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.7 | 2019-02-07 | 2799 | 3137 | 3170 |  |
+| 1.7 | 2019-02-07 | 2734 | 3066 | 3098 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.7 | 2019-02-07 | 2889 | 3205 | 3276 |  |
+| 1.7 | 2019-02-07 | 2723 | 3039 | 3110 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-12 05:39:19
+Generated: 2026-11-13 05:39:38
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-12 05:39:19
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 1.7 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3276 | 39 | 198 | 51% | 3251 | 47% |
-|  |  | E1 | 3170 | 29 | 380 | 54% | 3123 | 43% |
+| 1.7 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 3098 | 28 | 388 | 53% | 3059 | 42% |
 |  |  | T1 | 3132 | 12 | 1930 | 50% | 3131 | 48% |
-|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 3205 | 36 | 240 | 55% | 3139 | 42% |
-|  |  | E1 | 3137 | 29 | 368 | 53% | 3112 | 43% |
+|  |  | P1 | 3110 | 39 | 198 | 51% | 3085 | 47% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 3066 | 29 | 372 | 52% | 3043 | 42% |
 |  |  | T1 | 3070 | 12 | 1966 | 51% | 3059 | 44% |
-|  | STC <sub>(8.0+0.08s)</sub> | P1 | 2889 | 39 | 204 | 49% | 2903 | 40% |
-|  |  | E1 | 2799 | 28 | 436 | 47% | 2824 | 30% |
+|  |  | P1 | 3039 | 36 | 240 | 55% | 2975 | 42% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2734 | 27 | 444 | 47% | 2766 | 30% |
 |  |  | T1 | 2795 | 12 | 2070 | 50% | 2800 | 35% |
+|  |  | P1 | 2723 | 38 | 212 | 48% | 2749 | 40% |
