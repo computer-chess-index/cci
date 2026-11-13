@@ -8,14 +8,14 @@ Home: https://github.com/Lacovipo/Anubis-chess-engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.6 | 2025-10-02 | 2411 | 2931 | 3052 |  |
+| 3.0.6 | 2025-10-02 | 2372 | 2861 | 2982 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.6 | 2025-10-02 | 2437 | 2992 | 3155 |  |
+| 3.0.6 | 2025-10-02 | 2299 | 2824 | 2988 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-12 05:35:41
+Generated: 2026-11-13 05:35:42
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-12 05:35:41
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 3.0.6 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3155 | 35 | 244 | 53% | 3116 | 41% |
-|  |  | E1 | 3052 | 30 | 342 | 52% | 3025 | 42% |
+| 3.0.6 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 2988 | 35 | 248 | 53% | 2952 | 42% |
+|  |  | E1 | 2982 | 30 | 350 | 51% | 2962 | 42% |
 |  |  | T1 | 3043 | 23 | 544 | 48% | 3056 | 46% |
-|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 2992 | 38 | 214 | 51% | 2977 | 42% |
-|  |  | E1 | 2931 | 28 | 420 | 46% | 2966 | 35% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 2861 | 28 | 424 | 46% | 2900 | 35% |
 |  |  | T1 | 2917 | 23 | 596 | 47% | 2938 | 41% |
-|  | STC <sub>(8.0+0.08s)</sub> | P1 | 2437 | 41 | 208 | 47% | 2462 | 24% |
-|  |  | E1 | 2411 | 33 | 328 | 46% | 2452 | 21% |
+|  |  | P1 | 2824 | 38 | 214 | 51% | 2811 | 42% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2372 | 33 | 340 | 46% | 2425 | 20% |
 |  |  | T1 | 2498 | 22 | 722 | 54% | 2461 | 26% |
+|  |  | P1 | 2299 | 40 | 216 | 47% | 2322 | 24% |
