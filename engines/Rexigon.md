@@ -8,14 +8,14 @@ Home: https://github.com/silentshark-uk/rexigon
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2025-11-30 | 1978 | 2279 | 2395 |  |
+| 1.0 | 2025-11-30 | 1983 | 2282 | 2414 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2025-11-30 | 1948 | 2184 | 2290 |  |
+| 1.0 | 2025-11-30 | 1941 | 2175 | 2279 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-13 05:42:13
+Generated: 2026-11-14 05:41:46
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-13 05:42:13
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 2290 | 43 | 208 | 50% | 2299 | 17% |
-|  |  | E1 | 2395 | 35 | 316 | 49% | 2418 | 16% |
-|  |  | T1 | 2444 | 26 | 562 | 50% | 2445 | 18% |
-|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 2279 | 32 | 364 | 55% | 2230 | 20% |
+| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2444 | 26 | 562 | 50% | 2445 | 18% |
+|  |  | P1 | 2279 | 43 | 216 | 50% | 2292 | 17% |
+|  |  | E1 | 2414 | 35 | 320 | 50% | 2434 | 16% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 2175 | 41 | 228 | 50% | 2184 | 15% |
+|  |  | E1 | 2282 | 32 | 372 | 54% | 2236 | 20% |
 |  |  | T1 | 2321 | 25 | 572 | 50% | 2321 | 17% |
-|  |  | P1 | 2184 | 41 | 228 | 50% | 2195 | 15% |
-|  | STC <sub>(8.0+0.08s)</sub> | E1 | 1978 | 34 | 320 | 48% | 2001 | 15% |
+|  | STC <sub>(8.0+0.08s)</sub> | P1 | 1941 | 38 | 262 | 50% | 1945 | 16% |
+|  |  | E1 | 1983 | 34 | 328 | 48% | 1999 | 15% |
 |  |  | T1 | 2059 | 23 | 752 | 51% | 2041 | 12% |
-|  |  | P1 | 1948 | 38 | 258 | 50% | 1953 | 16% |
