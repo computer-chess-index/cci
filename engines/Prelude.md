@@ -8,14 +8,14 @@ Home: https://github.com/Quinniboi10/Prelude
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1 | 2025-12-10 | 2946 | 3251 | 3348 |  |
+| 2.1 | 2025-12-10 | 2963 | 3263 | 3356 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1 | 2025-12-10 | 3019 | 3274 | 3347 |  |
+| 2.1 | 2025-12-10 | 2982 | 3236 | 3309 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-13 05:41:21
+Generated: 2026-11-14 05:40:56
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-13 05:41:21
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3347 | 31 | 282 | 55% | 3267 | 62% |
-|  |  | E1 | 3348 | 28 | 358 | 53% | 3285 | 59% |
-|  |  | T1 | 3314 | 23 | 496 | 51% | 3302 | 63% |
-|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 3251 | 27 | 382 | 55% | 3177 | 63% |
+| 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3314 | 23 | 496 | 51% | 3302 | 63% |
+|  |  | P1 | 3309 | 31 | 282 | 55% | 3231 | 62% |
+|  |  | E1 | 3356 | 28 | 362 | 53% | 3297 | 59% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 3236 | 32 | 268 | 52% | 3205 | 59% |
+|  |  | E1 | 3263 | 27 | 386 | 55% | 3189 | 63% |
 |  |  | T1 | 3275 | 23 | 514 | 53% | 3243 | 63% |
-|  |  | P1 | 3274 | 32 | 268 | 52% | 3241 | 59% |
-|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2946 | 25 | 456 | 46% | 2975 | 48% |
+|  | STC <sub>(8.0+0.08s)</sub> | P1 | 2982 | 32 | 282 | 48% | 2998 | 52% |
+|  |  | E1 | 2963 | 25 | 468 | 46% | 2994 | 49% |
 |  |  | T1 | 3048 | 20 | 700 | 50% | 3036 | 48% |
-|  |  | P1 | 3019 | 32 | 278 | 48% | 3035 | 53% |
