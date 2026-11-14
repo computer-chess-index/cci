@@ -8,14 +8,14 @@ Home: https://github.com/bctboi23/CeeChess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.2 | 2025-11-05 | 2130 | 2406 | 2492 |  |
+| 2.2 | 2025-11-05 | 2133 | 2414 | 2504 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.2 | 2025-11-05 | 2057 | 2358 | 2460 |  |
+| 2.2 | 2025-11-05 | 2049 | 2348 | 2448 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-13 05:36:49
+Generated: 2026-11-14 05:36:46
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-13 05:36:49
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 2.2 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 2460 | 33 | 324 | 53% | 2403 | 33% |
-|  |  | E1 | 2492 | 32 | 348 | 51% | 2480 | 24% |
-|  |  | T1 | 2488 | 26 | 478 | 48% | 2506 | 31% |
-|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 2406 | 34 | 316 | 55% | 2356 | 24% |
+| 2.2 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2488 | 26 | 478 | 48% | 2506 | 31% |
+|  |  | P1 | 2448 | 32 | 324 | 53% | 2391 | 33% |
+|  |  | E1 | 2504 | 32 | 352 | 51% | 2493 | 24% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 2348 | 40 | 240 | 48% | 2356 | 23% |
+|  |  | E1 | 2414 | 34 | 320 | 54% | 2368 | 24% |
 |  |  | T1 | 2407 | 24 | 552 | 49% | 2417 | 30% |
-|  |  | P1 | 2358 | 40 | 228 | 49% | 2364 | 25% |
-|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2130 | 33 | 320 | 49% | 2142 | 25% |
+|  | STC <sub>(8.0+0.08s)</sub> | P1 | 2049 | 36 | 256 | 51% | 2043 | 26% |
+|  |  | E1 | 2133 | 33 | 328 | 49% | 2145 | 26% |
 |  |  | T1 | 2156 | 23 | 674 | 50% | 2151 | 22% |
-|  |  | P1 | 2057 | 38 | 244 | 51% | 2049 | 25% |
