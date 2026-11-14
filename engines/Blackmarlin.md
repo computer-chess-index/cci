@@ -8,14 +8,14 @@ Home: https://github.com/jnlt3/blackmarlin
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.0 | 2024-02-28 | 3133 | 3390 | 3436 |  |
+| 9.0 | 2024-02-28 | 3151 | 3401 | 3444 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.0 | 2024-02-28 | 3174 | 3395 | 3465 |  |
+| 9.0 | 2024-02-28 | 3135 | 3357 | 3428 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-13 05:36:28
+Generated: 2026-11-14 05:36:25
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-11-13 05:36:28
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 9.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3428 | 11 | 2021 | 50% | 3428 | 74% |
-|  |  | P1 | 3465 | 38 | 172 | 49% | 3471 | 74% |
-|  |  | E1 | 3436 | 30 | 290 | 52% | 3418 | 67% |
+|  |  | P1 | 3428 | 38 | 172 | 49% | 3434 | 74% |
+|  |  | E1 | 3444 | 29 | 298 | 51% | 3432 | 66% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3391 | 11 | 2056 | 50% | 3395 | 71% |
-|  |  | P1 | 3395 | 33 | 232 | 52% | 3379 | 72% |
-|  |  | E1 | 3390 | 27 | 356 | 50% | 3389 | 63% |
-|  | STC <sub>(8.0+0.08s)</sub> | P1 | 3174 | 32 | 268 | 49% | 3182 | 52% |
-|  |  | E1 | 3133 | 25 | 480 | 46% | 3170 | 50% |
-|  |  | T1 | 3194 | 11 | 2216 | 51% | 3167 | 56% |
+|  |  | P1 | 3357 | 33 | 232 | 52% | 3341 | 72% |
+|  |  | E1 | 3401 | 27 | 360 | 50% | 3399 | 64% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 3194 | 11 | 2216 | 51% | 3167 | 56% |
+|  |  | P1 | 3135 | 32 | 272 | 49% | 3144 | 52% |
+|  |  | E1 | 3151 | 24 | 492 | 46% | 3185 | 50% |
