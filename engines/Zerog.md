@@ -8,14 +8,14 @@ Home: https://github.com/KristianEkman/ZeroG
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.2 | 2026-07-14 | 2126 | 2469 | 2595 |  |
+| 1.0.2 | 2026-07-14 | 2128 | 2480 | 2611 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.2 | 2026-07-14 | 2113 | 2402 | 2516 |  |
+| 1.0.2 | 2026-07-14 | 2099 | 2391 | 2504 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-13 05:44:50
+Generated: 2026-11-14 05:44:19
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-13 05:44:50
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 1.0.2 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 2595 | 42 | 204 | 57% | 2489 | 27% |
+| 1.0.2 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 2504 | 55 | 112 | 57% | 2414 | 28% |
+|  |  | E1 | 2611 | 42 | 204 | 57% | 2506 | 27% |
 |  |  | T1 | 2592 | 39 | 222 | 52% | 2566 | 32% |
-|  |  | P1 | 2516 | 55 | 112 | 57% | 2426 | 28% |
-|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 2469 | 39 | 226 | 47% | 2491 | 30% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 2391 | 55 | 104 | 50% | 2371 | 38% |
+|  |  | E1 | 2480 | 38 | 230 | 47% | 2503 | 30% |
 |  |  | T1 | 2496 | 39 | 230 | 54% | 2421 | 31% |
-|  |  | P1 | 2402 | 55 | 104 | 50% | 2381 | 38% |
-|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2126 | 43 | 208 | 47% | 2159 | 19% |
+|  | STC <sub>(8.0+0.08s)</sub> | P1 | 2099 | 51 | 158 | 59% | 1867 | 20% |
+|  |  | E1 | 2128 | 43 | 212 | 47% | 2161 | 19% |
 |  |  | T1 | 2195 | 44 | 184 | 56% | 2110 | 26% |
-|  |  | P1 | 2113 | 53 | 150 | 61% | 1859 | 19% |
