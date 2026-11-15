@@ -8,14 +8,14 @@ Home: https://github.com/matthiaslang/jackychess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 25.12 | 2025-12-03 |  | 2634 | 2778 |  |
+| 25.12 | 2025-12-03 |  | 2628 | 2777 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 25.12 | 2025-12-03 |  | 2599 | 2658 |  |
+| 25.12 | 2025-12-03 |  | 2596 | 2654 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-14 05:39:00
+Generated: 2026-11-15 05:39:12
 
 
 
@@ -48,10 +48,10 @@ Generated: 2026-11-14 05:39:00
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 25.12 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2772 | 25 | 518 | 50% | 2776 | 33% |
-|  |  | P1 | 2658 | 33 | 298 | 56% | 2585 | 36% |
-|  |  | E1 | 2778 | 28 | 440 | 53% | 2741 | 29% |
-|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2655 | 23 | 602 | 52% | 2641 | 35% |
-|  |  | P1 | 2599 | 33 | 324 | 55% | 2511 | 29% |
-|  |  | E1 | 2634 | 33 | 318 | 49% | 2653 | 29% |
+| 25.12 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 2654 | 33 | 302 | 55% | 2583 | 36% |
+|  |  | E1 | 2777 | 28 | 444 | 53% | 2738 | 29% |
+|  |  | T1 | 2772 | 25 | 518 | 50% | 2776 | 33% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 2628 | 32 | 322 | 48% | 2649 | 28% |
+|  |  | T1 | 2655 | 23 | 602 | 52% | 2641 | 35% |
+|  |  | P1 | 2596 | 33 | 328 | 54% | 2511 | 30% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2252 | 44 | 180 | 54% | 2218 | 25% |
