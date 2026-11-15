@@ -8,14 +8,14 @@ Home: https://github.com/renztarga/Reyna
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2025-10-20 | 2201 | 2518 | 2589 |  |
+| 1.0 | 2025-10-20 | 2188 | 2514 | 2587 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2025-10-20 | 2168 | 2430 | 2518 |  |
+| 1.0 | 2025-10-20 | 2174 | 2429 | 2519 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-14 05:41:48
+Generated: 2026-11-15 05:42:09
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-14 05:41:48
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2600 | 23 | 644 | 49% | 2611 | 31% |
-|  |  | P1 | 2518 | 36 | 296 | 60% | 2288 | 27% |
-|  |  | E1 | 2589 | 29 | 413 | 49% | 2595 | 32% |
-|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 2430 | 44 | 198 | 50% | 2421 | 20% |
-|  |  | E1 | 2518 | 31 | 380 | 52% | 2480 | 31% |
+| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 2587 | 29 | 413 | 49% | 2592 | 32% |
+|  |  | T1 | 2600 | 23 | 644 | 49% | 2611 | 31% |
+|  |  | P1 | 2519 | 36 | 300 | 60% | 2292 | 27% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 2514 | 31 | 380 | 52% | 2476 | 31% |
 |  |  | T1 | 2498 | 25 | 528 | 50% | 2489 | 28% |
-|  | STC <sub>(8.0+0.08s)</sub> | P1 | 2168 | 38 | 248 | 50% | 2172 | 20% |
-|  |  | E1 | 2201 | 31 | 364 | 47% | 2252 | 30% |
+|  |  | P1 | 2429 | 44 | 202 | 50% | 2427 | 20% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2188 | 30 | 376 | 47% | 2238 | 30% |
 |  |  | T1 | 2282 | 22 | 740 | 48% | 2307 | 24% |
+|  |  | P1 | 2174 | 38 | 252 | 50% | 2178 | 20% |
