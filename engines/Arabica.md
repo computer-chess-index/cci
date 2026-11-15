@@ -8,25 +8,26 @@ Home: https://github.com/geniomdev/arabica-chess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.4.7 | 2026-11-11 | 2762<sub>(-57) | 3186<sub>(+34) | 3283<sub>(+17) |  |
-| 0.4.1 | 2026-11-01 | 2819 | 3152 | 3266 |  |
+| 0.4.7 | 2026-11-11 | 2835<sub>(+16) | 3094<sub>(-61) | 3251<sub>(-17) |  |
+| 0.4.1 | 2026-11-01 | 2819 | 3155 | 3268 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.4.1 | 2026-11-01 | 2772 | 3173 | 3225 |  |
+| 0.4.7 | 2026-11-11 | 2773<sub>(+1) | 3205<sub>(+42) | 3224<sub>(+8) |  |
+| 0.4.1 | 2026-11-01 | 2772 | 3163 | 3216 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.4.1 | 2026-11-01 | 2772 | 3173 | 3225 |  |
+| 0.4.1 | 2026-11-01 | 2772 | 3163 | 3216 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Arabica+<version>&body=###%20Engine%20name%0AArabica%0A%0A###%20Version%0A0.4.1" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Arabica+<version>&body=###%20Engine%20name%0AArabica%0A%0A###%20Version%0A0.4.7" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -41,7 +42,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-14 05:35:46
+Generated: 2026-11-15 05:35:50
 
 ## Ratings Verlauf E1 / P1
 
@@ -50,12 +51,12 @@ Generated: 2026-11-14 05:35:46
 xychart-beta
   x-axis ["0.4.1", "0.4.7"]
   y-axis "Elo Rating" 2700 --> 3300
-  line "E1: STC (8.0+0.08s)" [2819, 2762]
-  line "E1: LTC (60.0+0.60s)" [3152, 3186]
-  line "E1: VLTC (2m24s+1.12s)" [3266, 3283]
-  line "P1: STC (8.0+0.08s)" [2772]
-  line "P1: LTC (60.0+0.60s)" [3173]
-  line "P1: VLTC (2m24s+1.12s)" [3225]
+  line "E1: STC (8.0+0.08s)" [2819, 2835]
+  line "E1: LTC (60.0+0.60s)" [3155, 3094]
+  line "E1: VLTC (2m24s+1.12s)" [3268, 3251]
+  line "P1: STC (8.0+0.08s)" [2772, 2773]
+  line "P1: LTC (60.0+0.60s)" [3163, 3205]
+  line "P1: VLTC (2m24s+1.12s)" [3216, 3224]
 ```
 
 
@@ -66,15 +67,16 @@ xychart-beta
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 0.4.7 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 3283 | 150 | 12 | 46% | 3317 | 42% |
-|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 3186 | 139 | 12 | 50% | 3185 | 67% |
-|  |  | P1 | 3214 | 169 | 8 | 56% | 3173 | 63% |
-|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2762 | 157 | 12 | 33% | 2892 | 33% |
-|  |  | P1 | 2820 | 205 | 4 | 50% | 2820 | 100% |
+| 0.4.7 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3224 | 263 | 4 | 13% | 3482 | 25% |
+|  |  | E1 | 3251 | 105 | 24 | 44% | 3299 | 54% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 3205 | 169 | 8 | 56% | 3162 | 63% |
+|  |  | E1 | 3094 | 97 | 28 | 39% | 3174 | 57% |
+|  | STC <sub>(8.0+0.08s)</sub> | P1 | 2773 | 121 | 16 | 47% | 2789 | 69% |
+|  |  | E1 | 2835 | 104 | 28 | 48% | 2850 | 32% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 0.4.1 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3225 | 35 | 232 | 52% | 3195 | 56% |
-|  |  | E1 | 3266 | 32 | 266 | 51% | 3247 | 57% |
-|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 3173 | 36 | 228 | 54% | 3104 | 54% |
-|  |  | E1 | 3152 | 29 | 346 | 57% | 3077 | 53% |
-|  | STC <sub>(8.0+0.08s)</sub> | P1 | 2772 | 40 | 208 | 53% | 2715 | 37% |
-|  |  | E1 | 2819 | 30 | 372 | 57% | 2719 | 33% |
+| 0.4.1 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3216 | 35 | 232 | 52% | 3186 | 56% |
+|  |  | E1 | 3268 | 32 | 266 | 51% | 3249 | 57% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 3163 | 36 | 228 | 54% | 3096 | 54% |
+|  |  | E1 | 3155 | 29 | 350 | 56% | 3079 | 54% |
+|  | STC <sub>(8.0+0.08s)</sub> | P1 | 2772 | 39 | 216 | 53% | 2716 | 37% |
+|  |  | E1 | 2819 | 30 | 380 | 57% | 2718 | 33% |
