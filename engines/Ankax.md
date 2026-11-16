@@ -8,23 +8,23 @@ Home: https://github.com/amrouanka/ankax-chess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.6 | 2026-11-12 | 2201<sub>(+87) | 2333<sub>(-17) | 2515<sub>(+55) |  |
-| 1.0.4 | 2026-11-10 | 2114 | 2350 | 2460 |  |
+| 1.0.6 | 2026-11-12 | 2136<sub>(+15) | 2373<sub>(+20) | 2514<sub>(+48) |  |
+| 1.0.4 | 2026-11-10 | 2121 | 2353 | 2466 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.6 | 2026-11-12 | 2126<sub>(+113) | 2589<sub>(+240) | 2596<sub>(+305) |  |
-| 1.0.4 | 2026-11-10 | 2013 | 2349 | 2291 |  |
+| 1.0.6 | 2026-11-12 | 2122<sub>(+108) | 2480<sub>(+126) | 2580<sub>(+286) |  |
+| 1.0.4 | 2026-11-10 | 2014 | 2354 | 2294 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.4 | 2026-11-10 | 2013 | 2349 | 2291 |  |
+| 1.0.4 | 2026-11-10 | 2014 | 2354 | 2294 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Ankax+<version>&body=###%20Engine%20name%0AAnkax%0A%0A###%20Version%0A1.0.6" target="_blank">Submit new version</a>
@@ -42,7 +42,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-15 05:35:40
+Generated: 2026-11-16 05:35:38
 
 ## Ratings Verlauf E1 / P1
 
@@ -51,12 +51,12 @@ Generated: 2026-11-15 05:35:40
 xychart-beta
   x-axis ["1.0.4", "1.0.6"]
   y-axis "Elo Rating" 2000 --> 2600
-  line "E1: STC (8.0+0.08s)" [2114, 2201]
-  line "E1: LTC (60.0+0.60s)" [2350, 2333]
-  line "E1: VLTC (2m24s+1.12s)" [2460, 2515]
-  line "P1: STC (8.0+0.08s)" [2013, 2126]
-  line "P1: LTC (60.0+0.60s)" [2349, 2589]
-  line "P1: VLTC (2m24s+1.12s)" [2291, 2596]
+  line "E1: STC (8.0+0.08s)" [2121, 2136]
+  line "E1: LTC (60.0+0.60s)" [2353, 2373]
+  line "E1: VLTC (2m24s+1.12s)" [2466, 2514]
+  line "P1: STC (8.0+0.08s)" [2014, 2122]
+  line "P1: LTC (60.0+0.60s)" [2354, 2480]
+  line "P1: VLTC (2m24s+1.12s)" [2294, 2580]
 ```
 
 
@@ -67,16 +67,16 @@ xychart-beta
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 1.0.6 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 2596 | 156 | 12 | 67% | 2466 | 33% |
-|  |  | E1 | 2515 | 98 | 32 | 58% | 2445 | 34% |
-|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 2589 | 178 | 8 | 63% | 2485 | 50% |
-|  |  | E1 | 2333 | 122 | 24 | 29% | 2520 | 25% |
-|  | STC <sub>(8.0+0.08s)</sub> | P1 | 2126 | 169 | 12 | 46% | 2176 | 8% |
-|  |  | E1 | 2201 | 104 | 36 | 29% | 2403 | 19% |
+| 1.0.6 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 2580 | 120 | 20 | 55% | 2539 | 40% |
+|  |  | E1 | 2514 | 82 | 48 | 54% | 2475 | 29% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 2373 | 96 | 36 | 42% | 2453 | 28% |
+|  |  | P1 | 2480 | 132 | 16 | 41% | 2545 | 44% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2136 | 90 | 52 | 31% | 2334 | 15% |
+|  |  | P1 | 2122 | 130 | 20 | 48% | 2156 | 15% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 1.0.4 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 2291 | 46 | 166 | 48% | 2310 | 23% |
-|  |  | E1 | 2460 | 42 | 196 | 53% | 2438 | 30% |
-|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 2349 | 50 | 142 | 58% | 2273 | 28% |
-|  |  | E1 | 2350 | 41 | 200 | 51% | 2330 | 29% |
-|  | STC <sub>(8.0+0.08s)</sub> | P1 | 2013 | 49 | 160 | 51% | 1974 | 18% |
-|  |  | E1 | 2114 | 43 | 204 | 55% | 2041 | 21% |
+| 1.0.4 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 2294 | 45 | 174 | 48% | 2313 | 23% |
+|  |  | E1 | 2466 | 42 | 196 | 53% | 2444 | 30% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 2354 | 50 | 142 | 58% | 2280 | 28% |
+|  |  | E1 | 2353 | 41 | 200 | 51% | 2333 | 29% |
+|  | STC <sub>(8.0+0.08s)</sub> | P1 | 2014 | 48 | 164 | 51% | 1976 | 18% |
+|  |  | E1 | 2121 | 42 | 208 | 56% | 2044 | 22% |
