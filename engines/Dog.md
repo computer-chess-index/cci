@@ -8,14 +8,14 @@ Home: https://github.com/folkertvanheusden/Dog
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.10.2 | 2025-12-05 | 2730 | 3032 | 3127 |  |
+| 4.10.2 | 2025-12-05 | 2738 | 3039 | 3136 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.10.2 | 2025-12-05 | 2708 | 2952 | 3023 |  |
+| 4.10.2 | 2025-12-05 | 2719 | 2967 | 3028 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-15 05:37:49
+Generated: 2026-11-16 05:37:50
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-11-15 05:37:49
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 4.10.2 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3104 | 22 | 606 | 53% | 3074 | 55% |
-|  |  | P1 | 3023 | 35 | 248 | 56% | 2944 | 51% |
-|  |  | E1 | 3127 | 28 | 378 | 54% | 3083 | 46% |
+|  |  | P1 | 3028 | 35 | 248 | 56% | 2950 | 51% |
+|  |  | E1 | 3136 | 28 | 390 | 54% | 3094 | 45% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3044 | 24 | 498 | 52% | 3029 | 54% |
-|  |  | P1 | 2952 | 33 | 268 | 51% | 2908 | 50% |
-|  |  | E1 | 3032 | 28 | 388 | 50% | 3009 | 45% |
+|  |  | P1 | 2967 | 32 | 284 | 52% | 2917 | 50% |
+|  |  | E1 | 3039 | 28 | 392 | 50% | 3016 | 45% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2812 | 20 | 780 | 49% | 2820 | 40% |
-|  |  | P1 | 2708 | 35 | 268 | 43% | 2776 | 33% |
-|  |  | E1 | 2730 | 28 | 420 | 46% | 2770 | 34% |
+|  |  | P1 | 2719 | 35 | 268 | 43% | 2786 | 33% |
+|  |  | E1 | 2738 | 28 | 420 | 46% | 2778 | 34% |
