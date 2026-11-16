@@ -8,27 +8,28 @@ Home: https://github.com/Spunc595/Klak
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.2.0 | 2026-11-14 | 1508<sub>(+80) | 1573<sub>(0) | 1719<sub>(+64) |  |
-| 1.1.0 | 2026-11-08 | 1428<sub>(+16) | 1573<sub>(+74) | 1655<sub>(+32) |  |
-| 1.0.0 | 2026-11-06 | 1412 | 1499 | 1623 |  |
+| 1.2.0 | 2026-11-14 | 1544<sub>(+120) | 1553<sub>(-16) | 1783<sub>(+131) |  |
+| 1.1.0 | 2026-11-08 | 1424<sub>(+12) | 1569<sub>(+72) | 1652<sub>(+32) |  |
+| 1.0.0 | 2026-11-06 | 1412 | 1497 | 1620 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1.0 | 2026-11-08 | 1392<sub>(+139) | 1565<sub>(+87) | 1607<sub>(+45) |  |
-| 1.0.0 | 2026-11-06 | 1253 | 1478 | 1562 |  |
+| 1.2.0 | 2026-11-14 | 1404<sub>(+12) | 1501<sub>(-64) | 1407<sub>(-201) |  |
+| 1.1.0 | 2026-11-08 | 1392<sub>(+139) | 1565<sub>(+85) | 1608<sub>(+45) |  |
+| 1.0.0 | 2026-11-06 | 1253 | 1480 | 1563 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | 2026-11-06 | 1253 | 1478 | 1562 |  |
+| 1.0.0 | 2026-11-06 | 1253 | 1480 | 1563 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
-<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Klak+<version>&body=###%20Engine%20name%0AKlak%0A%0A###%20Version%0A1.1.0" target="_blank">Submit new version</a>
+<a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Klak+<version>&body=###%20Engine%20name%0AKlak%0A%0A###%20Version%0A1.2.0" target="_blank">Submit new version</a>
 
  Test Conditions:
 
@@ -43,7 +44,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-15 05:39:17
+Generated: 2026-11-16 05:39:17
 
 ## Ratings Verlauf E1 / P1
 
@@ -52,12 +53,12 @@ Generated: 2026-11-15 05:39:17
 xychart-beta
   x-axis ["1.0.0", "1.1.0", "1.2.0"]
   y-axis "Elo Rating" 1200 --> 1800
-  line "E1: STC (8.0+0.08s)" [1412, 1428, 1508]
-  line "E1: LTC (60.0+0.60s)" [1499, 1573, 1573]
-  line "E1: VLTC (2m24s+1.12s)" [1623, 1655, 1719]
-  line "P1: STC (8.0+0.08s)" [1253, 1392]
-  line "P1: LTC (60.0+0.60s)" [1478, 1565]
-  line "P1: VLTC (2m24s+1.12s)" [1562, 1607]
+  line "E1: STC (8.0+0.08s)" [1412, 1424, 1544]
+  line "E1: LTC (60.0+0.60s)" [1497, 1569, 1553]
+  line "E1: VLTC (2m24s+1.12s)" [1620, 1652, 1783]
+  line "P1: STC (8.0+0.08s)" [1253, 1392, 1404]
+  line "P1: LTC (60.0+0.60s)" [1480, 1565, 1501]
+  line "P1: VLTC (2m24s+1.12s)" [1563, 1608, 1407]
 ```
 
 
@@ -68,22 +69,23 @@ xychart-beta
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 1.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 1719 | 223 | 6 | 58% | 1655 | 17% |
-|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 1504 | 216 | 6 | 42% | 1573 | 17% |
-|  |  | E1 | 1573 | 207 | 8 | 50% | 1573 | 0% |
-|  | STC <sub>(8.0+0.08s)</sub> | P1 | 1484 | 250 | 4 | 63% | 1392 | 25% |
-|  |  | E1 | 1508 | 249 | 4 | 63% | 1428 | 25% |
+| 1.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 1407 | 278 | 4 | 25% | 1607 | 0% |
+|  |  | E1 | 1783 | 125 | 22 | 55% | 1747 | 18% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 1501 | 158 | 14 | 46% | 1535 | 7% |
+|  |  | E1 | 1553 | 124 | 24 | 50% | 1553 | 8% |
+|  | STC <sub>(8.0+0.08s)</sub> | P1 | 1404 | 168 | 12 | 46% | 1445 | 8% |
+|  |  | E1 | 1544 | 116 | 24 | 58% | 1472 | 25% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 1.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 1607 | 46 | 166 | 53% | 1570 | 19% |
-|  |  | E1 | 1655 | 37 | 268 | 49% | 1669 | 19% |
-|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 1565 | 44 | 180 | 53% | 1535 | 24% |
-|  |  | E1 | 1573 | 35 | 280 | 49% | 1577 | 23% |
-|  | STC <sub>(8.0+0.08s)</sub> | P1 | 1392 | 38 | 246 | 58% | 1318 | 20% |
-|  |  | E1 | 1428 | 38 | 252 | 47% | 1454 | 22% |
+| 1.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 1608 | 46 | 166 | 53% | 1570 | 19% |
+|  |  | E1 | 1652 | 37 | 268 | 49% | 1666 | 19% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 1565 | 43 | 184 | 53% | 1538 | 24% |
+|  |  | E1 | 1569 | 35 | 284 | 49% | 1574 | 23% |
+|  | STC <sub>(8.0+0.08s)</sub> | P1 | 1392 | 38 | 246 | 58% | 1316 | 20% |
+|  |  | E1 | 1424 | 38 | 252 | 47% | 1450 | 22% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 1623 | 34 | 312 | 57% | 1485 | 34% |
-|  |  | P1 | 1562 | 45 | 176 | 65% | 1357 | 36% |
-|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 1499 | 35 | 280 | 60% | 1351 | 41% |
-|  |  | P1 | 1478 | 41 | 212 | 60% | 1337 | 31% |
+| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 1563 | 45 | 176 | 65% | 1357 | 36% |
+|  |  | E1 | 1620 | 34 | 312 | 57% | 1482 | 34% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 1480 | 41 | 212 | 60% | 1338 | 31% |
+|  |  | E1 | 1497 | 35 | 280 | 60% | 1350 | 41% |
 |  | STC <sub>(8.0+0.08s)</sub> | E1 | 1412 | 34 | 304 | 60% | 1269 | 38% |
-|  |  | P1 | 1253 | 42 | 196 | 65% | 1060 | 38% |
+|  |  | P1 | 1253 | 42 | 196 | 65% | 1061 | 38% |
