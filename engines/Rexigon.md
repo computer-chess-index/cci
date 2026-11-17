@@ -8,14 +8,14 @@ Home: https://github.com/silentshark-uk/rexigon
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2025-11-30 | 1968 | 2273 | 2412 |  |
+| 1.0 | 2025-11-30 | 1972 | 2273 | 2411 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2025-11-30 | 1937 | 2195 | 2286 |  |
+| 1.0 | 2025-11-30 | 1945 | 2201 | 2288 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-16 05:42:04
+Generated: 2026-11-17 05:42:19
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-16 05:42:04
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 2286 | 42 | 220 | 50% | 2298 | 17% |
-|  |  | E1 | 2412 | 34 | 324 | 50% | 2431 | 16% |
-|  |  | T1 | 2444 | 26 | 562 | 50% | 2445 | 18% |
-|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 2195 | 40 | 240 | 51% | 2192 | 15% |
-|  |  | E1 | 2273 | 32 | 380 | 54% | 2230 | 19% |
-|  |  | T1 | 2321 | 25 | 572 | 50% | 2321 | 17% |
-|  | STC <sub>(8.0+0.08s)</sub> | E1 | 1968 | 33 | 332 | 48% | 1989 | 15% |
-|  |  | T1 | 2059 | 23 | 752 | 51% | 2041 | 12% |
-|  |  | P1 | 1937 | 37 | 270 | 50% | 1947 | 16% |
+| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2444 | 26 | 562 | 50% | 2445 | 18% |
+|  |  | P1 | 2288 | 42 | 224 | 50% | 2299 | 17% |
+|  |  | E1 | 2411 | 34 | 324 | 50% | 2431 | 16% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2321 | 25 | 572 | 50% | 2321 | 17% |
+|  |  | P1 | 2201 | 40 | 240 | 51% | 2198 | 15% |
+|  |  | E1 | 2273 | 31 | 382 | 54% | 2232 | 20% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 2059 | 23 | 752 | 51% | 2041 | 12% |
+|  |  | P1 | 1945 | 37 | 278 | 50% | 1951 | 17% |
+|  |  | E1 | 1972 | 33 | 336 | 49% | 1989 | 15% |
