@@ -8,14 +8,14 @@ Home: https://github.com/timojokinen/zaraki-zig
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.0.1 | 2026-07-02 | 1952 | 2205 | 2353 |  |
+| 0.0.1 | 2026-07-02 | 1955 | 2205 | 2356 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.0.1 | 2026-07-02 | 1883 | 2144 | 2226 |  |
+| 0.0.1 | 2026-07-02 | 1894 | 2147 | 2237 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-16 05:44:37
+Generated: 2026-11-17 05:44:53
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-16 05:44:37
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 0.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 2353 | 28 | 420 | 55% | 2307 | 36% |
-|  |  | T1 | 2354 | 33 | 292 | 44% | 2426 | 41% |
-|  |  | P1 | 2226 | 37 | 236 | 48% | 2228 | 39% |
-|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 2205 | 30 | 382 | 52% | 2215 | 34% |
-|  |  | T1 | 2272 | 36 | 256 | 45% | 2344 | 37% |
-|  |  | P1 | 2144 | 37 | 242 | 49% | 2172 | 33% |
-|  | STC <sub>(8.0+0.08s)</sub> | E1 | 1952 | 30 | 356 | 49% | 1959 | 37% |
-|  |  | T1 | 2055 | 29 | 400 | 43% | 2128 | 35% |
-|  |  | P1 | 1883 | 35 | 260 | 48% | 1912 | 37% |
+| 0.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2354 | 33 | 292 | 44% | 2426 | 41% |
+|  |  | P1 | 2237 | 37 | 240 | 49% | 2230 | 39% |
+|  |  | E1 | 2356 | 28 | 428 | 55% | 2309 | 36% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2272 | 36 | 256 | 45% | 2344 | 37% |
+|  |  | P1 | 2147 | 37 | 246 | 49% | 2179 | 33% |
+|  |  | E1 | 2205 | 29 | 390 | 52% | 2217 | 34% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 2055 | 29 | 400 | 43% | 2128 | 35% |
+|  |  | P1 | 1894 | 35 | 264 | 48% | 1914 | 36% |
+|  |  | E1 | 1955 | 30 | 356 | 49% | 1960 | 37% |
