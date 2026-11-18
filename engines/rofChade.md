@@ -8,14 +8,14 @@ Home: https://rofchade.nl/
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.1 | 2023-10-01 | 3214 | 3448 | 3540 |  |
+| 3.1 | 2023-10-01 | 3208 | 3441 | 3534 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.1 | 2023-10-01 | 3155 | 3378 | 3440 |  |
+| 3.1 | 2023-10-01 | 3160 | 3386 | 3448 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-17 05:42:30
+Generated: 2026-11-18 05:42:49
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-11-17 05:42:30
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 3.1 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3474 | 11 | 1997 | 51% | 3467 | 80% |
-|  |  | E1 | 3540 | 30 | 264 | 49% | 3548 | 76% |
-|  |  | P1 | 3440 | 37 | 180 | 50% | 3437 | 75% |
-|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 3378 | 33 | 224 | 51% | 3370 | 74% |
-|  |  | E1 | 3448 | 28 | 316 | 52% | 3433 | 69% |
+|  |  | E1 | 3534 | 30 | 268 | 49% | 3542 | 76% |
+|  |  | P1 | 3448 | 37 | 180 | 50% | 3445 | 75% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 3386 | 33 | 224 | 51% | 3378 | 74% |
+|  |  | E1 | 3441 | 28 | 324 | 52% | 3428 | 69% |
 |  |  | T1 | 3432 | 11 | 1960 | 50% | 3429 | 77% |
-|  | STC <sub>(8.0+0.08s)</sub> | P1 | 3155 | 29 | 328 | 49% | 3163 | 55% |
-|  |  | E1 | 3214 | 25 | 440 | 48% | 3227 | 60% |
-|  |  | T1 | 3229 | 11 | 2124 | 50% | 3225 | 64% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 3229 | 11 | 2124 | 50% | 3225 | 64% |
+|  |  | P1 | 3160 | 29 | 332 | 49% | 3170 | 55% |
+|  |  | E1 | 3208 | 25 | 440 | 48% | 3220 | 60% |
