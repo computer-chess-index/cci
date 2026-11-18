@@ -8,14 +8,14 @@ Home: https://github.com/hansbinderup/meltdown-chess-engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.11 | 2025-11-15 | 2666 | 2916 | 2955 |  |
+| 1.11 | 2025-11-15 | 2660 | 2909 | 2950 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.11 | 2025-11-15 | 2579 | 2811 | 2878 |  |
+| 1.11 | 2025-11-15 | 2584 | 2822 | 2884 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-17 05:40:20
+Generated: 2026-11-18 05:40:41
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-11-17 05:40:20
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 1.11 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2925 | 23 | 562 | 49% | 2931 | 40% |
-|  |  | P1 | 2878 | 35 | 276 | 48% | 2897 | 33% |
-|  |  | E1 | 2955 | 29 | 384 | 51% | 2942 | 36% |
+|  |  | P1 | 2884 | 34 | 280 | 48% | 2909 | 33% |
+|  |  | E1 | 2950 | 29 | 384 | 51% | 2936 | 36% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2884 | 23 | 610 | 52% | 2865 | 38% |
-|  |  | P1 | 2811 | 33 | 306 | 47% | 2838 | 36% |
-|  |  | E1 | 2916 | 31 | 362 | 56% | 2789 | 34% |
+|  |  | P1 | 2822 | 32 | 322 | 48% | 2842 | 36% |
+|  |  | E1 | 2909 | 31 | 366 | 56% | 2785 | 34% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2680 | 20 | 840 | 50% | 2668 | 35% |
-|  |  | P1 | 2579 | 33 | 280 | 47% | 2608 | 38% |
-|  |  | E1 | 2666 | 28 | 416 | 48% | 2692 | 36% |
+|  |  | P1 | 2584 | 33 | 280 | 47% | 2612 | 38% |
+|  |  | E1 | 2660 | 27 | 428 | 47% | 2687 | 36% |
