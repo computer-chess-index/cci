@@ -8,7 +8,7 @@ Home: https://github.com/lithander/Leorik
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.2 | 2026-01-06 | 392 | 423 | 443 |  |
+| 3.2 | 2026-01-06 | 381 | 410 | 431 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-17 05:39:49
+Generated: 2026-11-18 05:40:07
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-11-17 05:39:49
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 3.2 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 431 | 34 | 422 | 21% | 911 | 34% |
-|  |  | P1 | 329 | 62 | 68 | 44% | 549 | 74% |
-|  |  | E1 | 443 | 42 | 242 | 31% | 898 | 40% |
+|  |  | P1 | 329 | 62 | 68 | 44% | 551 | 74% |
+|  |  | E1 | 431 | 42 | 242 | 31% | 887 | 40% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 396 | 36 | 388 | 21% | 878 | 35% |
 |  |  | P1 | 336 | 62 | 64 | 48% | 360 | 73% |
-|  |  | E1 | 423 | 42 | 220 | 32% | 838 | 46% |
+|  |  | E1 | 410 | 42 | 220 | 32% | 829 | 46% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 398 | 32 | 460 | 22% | 838 | 36% |
-|  |  | P1 | 340 | 49 | 132 | 39% | 686 | 58% |
-|  |  | E1 | 392 | 44 | 184 | 37% | 657 | 47% |
+|  |  | P1 | 340 | 49 | 132 | 39% | 689 | 58% |
+|  |  | E1 | 381 | 44 | 184 | 37% | 647 | 47% |
