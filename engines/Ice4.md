@@ -8,14 +8,14 @@ Home: https://github.com/MinusKelvin/ice4
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.1 | 2025-10-27 | 2464 | 2892 | 2984 |  |
+| 6.1 | 2025-10-27 | 2465 | 2890 | 2982 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.1 | 2025-10-27 | 2500 | 2866 | 2921 |  |
+| 6.1 | 2025-10-27 | 2503 | 2866 | 2917 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-18 05:39:24
+Generated: 2026-11-19 05:39:07
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-11-18 05:39:24
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 6.1 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3023 | 23 | 588 | 49% | 3029 | 44% |
-|  |  | P1 | 2921 | 35 | 264 | 57% | 2823 | 41% |
-|  |  | E1 | 2984 | 28 | 404 | 51% | 2954 | 44% |
+|  |  | P1 | 2917 | 34 | 272 | 56% | 2826 | 42% |
+|  |  | E1 | 2982 | 28 | 404 | 51% | 2952 | 44% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2928 | 23 | 584 | 51% | 2921 | 42% |
-|  |  | P1 | 2866 | 37 | 230 | 48% | 2859 | 40% |
-|  |  | E1 | 2892 | 29 | 376 | 55% | 2812 | 40% |
+|  |  | P1 | 2866 | 37 | 234 | 48% | 2861 | 40% |
+|  |  | E1 | 2890 | 29 | 376 | 55% | 2811 | 40% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2558 | 20 | 828 | 50% | 2547 | 33% |
-|  |  | P1 | 2500 | 36 | 250 | 49% | 2518 | 34% |
-|  |  | E1 | 2464 | 29 | 388 | 47% | 2493 | 30% |
+|  |  | P1 | 2503 | 35 | 258 | 50% | 2518 | 34% |
+|  |  | E1 | 2465 | 29 | 400 | 47% | 2493 | 30% |
