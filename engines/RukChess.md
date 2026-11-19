@@ -8,14 +8,14 @@ Home: https://github.com/Ilya-Ruk/RukChess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.2.0 | 2026-01-11 | 2774 | 3102 | 3216 |  |
+| 4.2.0 | 2026-01-11 | 2774 | 3101 | 3214 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.2.0 | 2026-01-11 | 2793 | 3114 | 3193 |  |
+| 4.2.0 | 2026-01-11 | 2795 | 3113 | 3190 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-18 05:42:57
+Generated: 2026-11-19 05:42:49
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-11-18 05:42:57
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 4.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3206 | 23 | 540 | 50% | 3197 | 51% |
-|  |  | P1 | 3193 | 30 | 304 | 51% | 3164 | 56% |
-|  |  | E1 | 3216 | 27 | 406 | 54% | 3140 | 46% |
+|  |  | P1 | 3190 | 30 | 304 | 51% | 3162 | 56% |
+|  |  | E1 | 3214 | 27 | 410 | 54% | 3140 | 46% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3139 | 23 | 536 | 51% | 3131 | 51% |
-|  |  | P1 | 3114 | 31 | 312 | 50% | 3087 | 45% |
-|  |  | E1 | 3102 | 27 | 430 | 54% | 3040 | 42% |
+|  |  | P1 | 3113 | 31 | 312 | 50% | 3086 | 45% |
+|  |  | E1 | 3101 | 27 | 430 | 54% | 3039 | 42% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2826 | 21 | 714 | 51% | 2815 | 34% |
-|  |  | P1 | 2793 | 28 | 386 | 47% | 2832 | 41% |
+|  |  | P1 | 2795 | 28 | 394 | 47% | 2832 | 41% |
 |  |  | E1 | 2774 | 27 | 448 | 47% | 2804 | 37% |
