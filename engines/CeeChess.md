@@ -8,14 +8,14 @@ Home: https://github.com/bctboi23/CeeChess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.2 | 2025-11-05 | 2117 | 2403 | 2507 |  |
+| 2.2 | 2025-11-05 | 2114 | 2404 | 2507 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.2 | 2025-11-05 | 2051 | 2361 | 2456 |  |
+| 2.2 | 2025-11-05 | 2043 | 2369 | 2457 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-18 05:36:59
+Generated: 2026-11-19 05:36:52
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-11-18 05:36:59
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 2.2 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2488 | 26 | 478 | 48% | 2506 | 31% |
-|  |  | P1 | 2456 | 32 | 344 | 52% | 2414 | 32% |
+|  |  | P1 | 2457 | 31 | 348 | 52% | 2415 | 32% |
 |  |  | E1 | 2507 | 31 | 380 | 51% | 2489 | 25% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2407 | 24 | 552 | 49% | 2417 | 30% |
-|  |  | P1 | 2361 | 39 | 248 | 49% | 2368 | 23% |
-|  |  | E1 | 2403 | 34 | 328 | 54% | 2358 | 24% |
+|  |  | P1 | 2369 | 39 | 252 | 49% | 2369 | 23% |
+|  |  | E1 | 2404 | 34 | 328 | 54% | 2360 | 24% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2156 | 23 | 674 | 50% | 2151 | 22% |
-|  |  | P1 | 2051 | 36 | 268 | 50% | 2051 | 26% |
-|  |  | E1 | 2117 | 32 | 340 | 49% | 2129 | 26% |
+|  |  | P1 | 2043 | 35 | 284 | 48% | 2086 | 25% |
+|  |  | E1 | 2114 | 32 | 348 | 48% | 2132 | 26% |
