@@ -8,14 +8,14 @@ Home: https://github.com/lynx-chess/Lynx
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.11.0 | 2025-10-01 | 2730 | 3132 | 3213 |  |
+| 1.11.0 | 2025-10-01 | 2730 | 3129 | 3212 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.11.0 | 2025-10-01 | 2769 | 3124 | 3179 |  |
+| 1.11.0 | 2025-10-01 | 2763 | 3121 | 3175 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-18 05:40:28
+Generated: 2026-11-19 05:40:13
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-11-18 05:40:28
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 1.11.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3214 | 22 | 564 | 50% | 3204 | 53% |
-|  |  | P1 | 3179 | 29 | 340 | 47% | 3197 | 51% |
-|  |  | E1 | 3213 | 27 | 414 | 54% | 3127 | 52% |
+|  |  | P1 | 3175 | 29 | 340 | 47% | 3194 | 51% |
+|  |  | E1 | 3212 | 27 | 414 | 54% | 3125 | 52% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3150 | 22 | 574 | 52% | 3114 | 55% |
-|  |  | P1 | 3124 | 33 | 292 | 50% | 3112 | 42% |
-|  |  | E1 | 3132 | 27 | 416 | 51% | 3081 | 48% |
+|  |  | P1 | 3121 | 33 | 292 | 50% | 3109 | 42% |
+|  |  | E1 | 3129 | 27 | 420 | 51% | 3079 | 48% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2836 | 19 | 828 | 50% | 2832 | 40% |
-|  |  | P1 | 2769 | 36 | 246 | 47% | 2797 | 37% |
+|  |  | P1 | 2763 | 35 | 254 | 47% | 2795 | 39% |
 |  |  | E1 | 2730 | 27 | 428 | 47% | 2761 | 34% |
