@@ -8,23 +8,23 @@ Home: https://github.com/Timmoth/Sapling
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1.0 | 2026-10-31 | 3067<sub>(+29) | 3313<sub>(-1) | 3403<sub>(+14) |  |
-| 2.0.0 | 2026-10-21 | 3038 | 3314 | 3389 |  |
+| 2.1.0 | 2026-10-31 | 3066<sub>(+30) | 3312<sub>(0) | 3402<sub>(+15) |  |
+| 2.0.0 | 2026-10-21 | 3036 | 3312 | 3387 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1.0 | 2026-10-31 | 3055<sub>(+59) | 3254<sub>(-32) | 3347<sub>(+15) |  |
-| 2.0.0 | 2026-10-21 | 2996 | 3286 | 3332 |  |
+| 2.1.0 | 2026-10-31 | 3052<sub>(+58) | 3249<sub>(-34) | 3343<sub>(+15) |  |
+| 2.0.0 | 2026-10-21 | 2994 | 3283 | 3328 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0.0 | 2026-10-21 | 2996 | 3286 | 3332 |  |
+| 2.0.0 | 2026-10-21 | 2994 | 3283 | 3328 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+Sapling+<version>&body=###%20Engine%20name%0ASapling%0A%0A###%20Version%0A2.1.0" target="_blank">Submit new version</a>
@@ -42,7 +42,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-18 05:43:11
+Generated: 2026-11-19 05:43:03
 
 ## Ratings Verlauf E1 / P1
 
@@ -51,12 +51,12 @@ Generated: 2026-11-18 05:43:11
 xychart-beta
   x-axis ["2.0.0", "2.1.0"]
   y-axis "Elo Rating" 2900 --> 3500
-  line "E1: STC (8.0+0.08s)" [3038, 3067]
-  line "E1: LTC (60.0+0.60s)" [3314, 3313]
-  line "E1: VLTC (2m24s+1.12s)" [3389, 3403]
-  line "P1: STC (8.0+0.08s)" [2996, 3055]
-  line "P1: LTC (60.0+0.60s)" [3286, 3254]
-  line "P1: VLTC (2m24s+1.12s)" [3332, 3347]
+  line "E1: STC (8.0+0.08s)" [3036, 3066]
+  line "E1: LTC (60.0+0.60s)" [3312, 3312]
+  line "E1: VLTC (2m24s+1.12s)" [3387, 3402]
+  line "P1: STC (8.0+0.08s)" [2994, 3052]
+  line "P1: LTC (60.0+0.60s)" [3283, 3249]
+  line "P1: VLTC (2m24s+1.12s)" [3328, 3343]
 ```
 
 
@@ -67,16 +67,16 @@ xychart-beta
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 2.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3347 | 39 | 160 | 49% | 3356 | 74% |
-|  |  | E1 | 3403 | 28 | 304 | 50% | 3407 | 73% |
-|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 3254 | 34 | 232 | 51% | 3248 | 60% |
-|  |  | E1 | 3313 | 27 | 342 | 48% | 3326 | 68% |
-|  | STC <sub>(8.0+0.08s)</sub> | P1 | 3055 | 40 | 170 | 53% | 3036 | 58% |
-|  |  | E1 | 3067 | 32 | 276 | 51% | 3056 | 50% |
+| 2.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 3402 | 28 | 304 | 50% | 3406 | 73% |
+|  |  | P1 | 3343 | 39 | 160 | 49% | 3352 | 74% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 3312 | 27 | 342 | 48% | 3325 | 68% |
+|  |  | P1 | 3249 | 33 | 236 | 51% | 3245 | 61% |
+|  | STC <sub>(8.0+0.08s)</sub> | P1 | 3052 | 40 | 170 | 53% | 3033 | 58% |
+|  |  | E1 | 3066 | 32 | 280 | 51% | 3055 | 50% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 2.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3332 | 38 | 254 | 67% | 2701 | 47% |
-|  |  | E1 | 3389 | 31 | 340 | 62% | 2997 | 53% |
-|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 3286 | 40 | 230 | 69% | 2630 | 46% |
-|  |  | E1 | 3314 | 27 | 412 | 61% | 3002 | 53% |
-|  | STC <sub>(8.0+0.08s)</sub> | P1 | 2996 | 41 | 232 | 67% | 2448 | 39% |
-|  |  | E1 | 3038 | 34 | 294 | 57% | 2754 | 43% |
+| 2.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3328 | 38 | 254 | 67% | 2699 | 47% |
+|  |  | E1 | 3387 | 31 | 340 | 62% | 2996 | 53% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 3283 | 40 | 230 | 69% | 2628 | 46% |
+|  |  | E1 | 3312 | 27 | 412 | 61% | 3001 | 53% |
+|  | STC <sub>(8.0+0.08s)</sub> | P1 | 2994 | 41 | 232 | 67% | 2448 | 39% |
+|  |  | E1 | 3036 | 34 | 294 | 57% | 2753 | 43% |
