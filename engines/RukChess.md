@@ -8,14 +8,14 @@ Home: https://github.com/Ilya-Ruk/RukChess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.2.0 | 2026-01-11 | 2774 | 3101 | 3214 |  |
+| 4.2.0 | 2026-01-11 | 2780 | 3105 | 3218 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.2.0 | 2026-01-11 | 2795 | 3113 | 3190 |  |
+| 4.2.0 | 2026-01-11 | 2800 | 3117 | 3194 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-19 05:42:49
+Generated: 2026-11-20 05:42:25
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-19 05:42:49
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 4.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3206 | 23 | 540 | 50% | 3197 | 51% |
-|  |  | P1 | 3190 | 30 | 304 | 51% | 3162 | 56% |
-|  |  | E1 | 3214 | 27 | 410 | 54% | 3140 | 46% |
-|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3139 | 23 | 536 | 51% | 3131 | 51% |
-|  |  | P1 | 3113 | 31 | 312 | 50% | 3086 | 45% |
-|  |  | E1 | 3101 | 27 | 430 | 54% | 3039 | 42% |
+| 4.2.0 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 3218 | 27 | 410 | 54% | 3144 | 46% |
+|  |  | T1 | 3206 | 23 | 540 | 50% | 3197 | 51% |
+|  |  | P1 | 3194 | 30 | 308 | 51% | 3167 | 56% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 3105 | 27 | 430 | 54% | 3043 | 42% |
+|  |  | T1 | 3139 | 23 | 536 | 51% | 3131 | 51% |
+|  |  | P1 | 3117 | 31 | 312 | 50% | 3090 | 45% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2826 | 21 | 714 | 51% | 2815 | 34% |
-|  |  | P1 | 2795 | 28 | 394 | 47% | 2832 | 41% |
-|  |  | E1 | 2774 | 27 | 448 | 47% | 2804 | 37% |
+|  |  | P1 | 2800 | 28 | 394 | 47% | 2836 | 41% |
+|  |  | E1 | 2780 | 27 | 448 | 47% | 2808 | 37% |
