@@ -15,7 +15,7 @@ Home: https://github.com/AlexGisi/prometheus-chess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.2.1 | 2025-08-18 | 1351 | 1470 | 1580 |  |
+| 0.2.1 | 2025-08-18 | 1346 | 1472 | 1581 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-19 05:41:37
+Generated: 2026-11-20 05:41:20
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-19 05:41:37
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 0.2.1 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 1551 | 25 | 608 | 43% | 1655 | 19% |
-|  |  | P1 | 1580 | 44 | 202 | 44% | 1683 | 17% |
-|  |  | E1 | 1542 | 32 | 378 | 46% | 1639 | 21% |
-|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 1532 | 26 | 566 | 48% | 1575 | 18% |
-|  |  | P1 | 1470 | 41 | 206 | 46% | 1516 | 21% |
-|  |  | E1 | 1496 | 32 | 378 | 45% | 1575 | 13% |
+| 0.2.1 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 1542 | 32 | 378 | 46% | 1640 | 21% |
+|  |  | T1 | 1551 | 25 | 608 | 43% | 1655 | 19% |
+|  |  | P1 | 1581 | 44 | 204 | 45% | 1681 | 17% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 1496 | 32 | 378 | 45% | 1575 | 13% |
+|  |  | T1 | 1532 | 26 | 566 | 48% | 1575 | 18% |
+|  |  | P1 | 1472 | 41 | 210 | 46% | 1513 | 21% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 1393 | 27 | 572 | 51% | 1382 | 18% |
-|  |  | P1 | 1351 | 40 | 246 | 51% | 1331 | 15% |
+|  |  | P1 | 1346 | 40 | 246 | 51% | 1327 | 15% |
 |  |  | E1 | 1411 | 33 | 330 | 50% | 1408 | 23% |
