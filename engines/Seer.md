@@ -8,14 +8,14 @@ Home: https://github.com/connormcmonigle/seer-nnue
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.8 | 2023-12-31 | 3229 | 3453 | 3530 |  |
+| 2.8 | 2023-12-31 | 3225 | 3451 | 3526 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.8 | 2023-12-31 | 3241 | 3422 | 3486 |  |
+| 2.8 | 2023-12-31 | 3247 | 3425 | 3487 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-20 05:42:45
+Generated: 2026-11-21 05:42:40
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-20 05:42:45
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 2.8 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3486 | 36 | 188 | 48% | 3495 | 79% |
+| 2.8 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3487 | 36 | 188 | 48% | 3497 | 79% |
 |  |  | T1 | 3482 | 11 | 2071 | 51% | 3472 | 80% |
-|  |  | E1 | 3530 | 27 | 332 | 52% | 3511 | 75% |
+|  |  | E1 | 3526 | 27 | 332 | 52% | 3507 | 75% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3451 | 11 | 1960 | 50% | 3449 | 76% |
-|  |  | E1 | 3453 | 29 | 308 | 51% | 3449 | 69% |
-|  |  | P1 | 3422 | 35 | 206 | 49% | 3432 | 75% |
-|  | STC <sub>(8.0+0.08s)</sub> | T1 | 3278 | 11 | 2216 | 51% | 3255 | 65% |
-|  |  | E1 | 3229 | 25 | 428 | 46% | 3259 | 57% |
-|  |  | P1 | 3241 | 30 | 282 | 49% | 3244 | 66% |
+|  |  | E1 | 3451 | 28 | 312 | 51% | 3447 | 69% |
+|  |  | P1 | 3425 | 35 | 206 | 49% | 3433 | 75% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 3225 | 25 | 428 | 46% | 3256 | 57% |
+|  |  | P1 | 3247 | 30 | 286 | 49% | 3249 | 66% |
+|  |  | T1 | 3278 | 11 | 2216 | 51% | 3255 | 65% |
