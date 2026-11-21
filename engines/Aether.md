@@ -8,14 +8,14 @@ Home: https://github.com/ma787/aether
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2026-07-05 | 1650 | 1931 | 1976 |  |
+| 1.0 | 2026-07-05 | 1646 | 1928 | 1970 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2026-07-05 | 1681 | 1871 | 1949 |  |
+| 1.0 | 2026-07-05 | 1683 | 1879 | 1952 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-20 05:35:21
+Generated: 2026-11-21 05:35:21
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-20 05:35:21
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 1976 | 33 | 322 | 48% | 2020 | 23% |
+| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 1970 | 33 | 330 | 47% | 2016 | 23% |
 |  |  | T1 | 2053 | 32 | 368 | 47% | 2094 | 20% |
-|  |  | P1 | 1949 | 39 | 236 | 49% | 1968 | 23% |
-|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 1931 | 33 | 330 | 51% | 1920 | 25% |
-|  |  | T1 | 1986 | 34 | 326 | 48% | 2007 | 17% |
-|  |  | P1 | 1871 | 39 | 246 | 48% | 1891 | 22% |
+|  |  | P1 | 1952 | 39 | 236 | 49% | 1971 | 23% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 1986 | 34 | 326 | 48% | 2007 | 17% |
+|  |  | P1 | 1879 | 38 | 250 | 49% | 1894 | 22% |
+|  |  | E1 | 1928 | 33 | 330 | 51% | 1916 | 25% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 1742 | 32 | 372 | 49% | 1756 | 18% |
-|  |  | P1 | 1681 | 43 | 200 | 49% | 1715 | 17% |
-|  |  | E1 | 1650 | 30 | 420 | 49% | 1669 | 19% |
+|  |  | P1 | 1683 | 43 | 200 | 49% | 1717 | 17% |
+|  |  | E1 | 1646 | 30 | 424 | 49% | 1665 | 18% |
