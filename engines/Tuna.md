@@ -8,14 +8,14 @@ Home: https://github.com/billchow98/chess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | 2025-09-28 | 2063 | 2419 | 2515 |  |
+| 1.0.0 | 2025-09-28 | 2061 | 2425 | 2519 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | 2025-09-28 | 2014 | 2340 | 2462 |  |
+| 1.0.0 | 2025-09-28 | 2016 | 2338 | 2462 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-21 05:43:49
+Generated: 2026-11-22 05:43:57
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-21 05:43:49
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 2515 | 31 | 380 | 46% | 2573 | 26% |
-|  |  | T1 | 2512 | 27 | 462 | 46% | 2552 | 27% |
+| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2512 | 27 | 462 | 46% | 2552 | 27% |
 |  |  | P1 | 2462 | 39 | 238 | 53% | 2439 | 29% |
+|  |  | E1 | 2519 | 31 | 380 | 46% | 2577 | 26% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2437 | 26 | 500 | 51% | 2433 | 30% |
-|  |  | P1 | 2340 | 38 | 240 | 50% | 2345 | 26% |
-|  |  | E1 | 2419 | 32 | 344 | 49% | 2414 | 28% |
+|  |  | P1 | 2338 | 38 | 240 | 50% | 2344 | 26% |
+|  |  | E1 | 2425 | 32 | 352 | 49% | 2418 | 28% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2141 | 23 | 652 | 52% | 2118 | 27% |
-|  |  | P1 | 2014 | 36 | 268 | 49% | 2013 | 28% |
-|  |  | E1 | 2063 | 31 | 366 | 48% | 2090 | 27% |
+|  |  | P1 | 2016 | 36 | 272 | 49% | 2013 | 28% |
+|  |  | E1 | 2061 | 31 | 374 | 48% | 2091 | 27% |
