@@ -8,14 +8,14 @@ Home: https://github.com/tryingsomestuff/Minic
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.41 | 2024-01-18 | 2969 | 3289 | 3368 |  |
+| 3.41 | 2024-01-18 | 2973 | 3293 | 3371 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.41 | 2024-01-18 | 2954 | 3264 | 3310 |  |
+| 3.41 | 2024-01-18 | 2952 | 3264 | 3310 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-21 05:40:16
+Generated: 2026-11-22 05:40:22
 
 
 
@@ -50,10 +50,10 @@ Generated: 2026-11-21 05:40:16
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 3.41 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3341 | 11 | 1956 | 51% | 3333 | 71% |
 |  |  | P1 | 3310 | 30 | 288 | 53% | 3281 | 62% |
-|  |  | E1 | 3368 | 25 | 406 | 48% | 3375 | 67% |
-|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 3289 | 26 | 368 | 53% | 3260 | 69% |
-|  |  | T1 | 3272 | 12 | 1890 | 50% | 3268 | 63% |
-|  |  | P1 | 3264 | 32 | 256 | 51% | 3249 | 70% |
+|  |  | E1 | 3371 | 25 | 406 | 48% | 3379 | 67% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3272 | 12 | 1890 | 50% | 3268 | 63% |
+|  |  | P1 | 3264 | 31 | 268 | 51% | 3251 | 69% |
+|  |  | E1 | 3293 | 26 | 372 | 53% | 3264 | 68% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2973 | 12 | 2074 | 51% | 2959 | 50% |
-|  |  | P1 | 2954 | 34 | 252 | 51% | 2943 | 52% |
-|  |  | E1 | 2969 | 26 | 442 | 49% | 2974 | 50% |
+|  |  | P1 | 2952 | 33 | 260 | 51% | 2944 | 53% |
+|  |  | E1 | 2973 | 25 | 446 | 50% | 2977 | 50% |
