@@ -8,14 +8,14 @@ Home: https://github.com/SimjanovskiNikola/FRI_Challenger
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.6.0 | 2025-10-02 | 1948 | 2290 | 2438 |  |
+| 0.6.0 | 2025-10-02 | 1944 | 2292 | 2441 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.6.0 | 2025-10-02 | 1951 | 2284 | 2466 |  |
+| 0.6.0 | 2025-10-02 | 1962 | 2283 | 2466 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-21 05:37:04
+Generated: 2026-11-22 05:36:57
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-21 05:37:04
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 0.6.0 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 2438 | 34 | 340 | 50% | 2442 | 21% |
-|  |  | T1 | 2481 | 27 | 468 | 47% | 2511 | 29% |
-|  |  | P1 | 2466 | 38 | 244 | 48% | 2504 | 27% |
+| 0.6.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2481 | 27 | 468 | 47% | 2511 | 29% |
+|  |  | P1 | 2466 | 38 | 244 | 48% | 2503 | 27% |
+|  |  | E1 | 2441 | 34 | 340 | 50% | 2445 | 21% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2369 | 24 | 586 | 49% | 2377 | 27% |
-|  |  | P1 | 2284 | 37 | 246 | 52% | 2286 | 26% |
-|  |  | E1 | 2290 | 32 | 362 | 54% | 2240 | 23% |
+|  |  | P1 | 2283 | 37 | 258 | 52% | 2284 | 27% |
+|  |  | E1 | 2292 | 32 | 362 | 54% | 2242 | 23% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2060 | 22 | 774 | 49% | 2063 | 22% |
-|  |  | P1 | 1951 | 39 | 236 | 48% | 1989 | 20% |
-|  |  | E1 | 1948 | 30 | 374 | 47% | 1963 | 28% |
+|  |  | P1 | 1962 | 38 | 244 | 49% | 1987 | 20% |
+|  |  | E1 | 1944 | 30 | 378 | 47% | 1964 | 28% |
