@@ -8,14 +8,14 @@ Home: https://github.com/ma787/aether
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2026-07-05 | 1648 | 1925 | 1970 |  |
+| 1.0 | 2026-07-05 | 1648 | 1925 | 1968 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2026-07-05 | 1682 | 1878 | 1952 |  |
+| 1.0 | 2026-07-05 | 1685 | 1881 | 1955 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-22 05:35:20
+Generated: 2026-11-23 05:35:20
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-11-22 05:35:20
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2053 | 32 | 368 | 47% | 2094 | 20% |
-|  |  | P1 | 1952 | 39 | 236 | 49% | 1971 | 23% |
-|  |  | E1 | 1970 | 33 | 330 | 47% | 2016 | 23% |
+|  |  | P1 | 1955 | 39 | 236 | 49% | 1974 | 23% |
+|  |  | E1 | 1968 | 33 | 336 | 47% | 2014 | 23% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 1986 | 34 | 326 | 48% | 2007 | 17% |
-|  |  | P1 | 1878 | 38 | 250 | 49% | 1893 | 22% |
+|  |  | P1 | 1881 | 38 | 250 | 49% | 1895 | 22% |
 |  |  | E1 | 1925 | 32 | 338 | 51% | 1917 | 25% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 1742 | 32 | 372 | 49% | 1756 | 18% |
-|  |  | P1 | 1682 | 43 | 200 | 49% | 1716 | 17% |
+|  |  | P1 | 1685 | 43 | 200 | 49% | 1719 | 17% |
 |  |  | E1 | 1648 | 30 | 424 | 49% | 1666 | 18% |
