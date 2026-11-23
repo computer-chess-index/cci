@@ -8,14 +8,14 @@ Home: https://github.com/AlexGisi/prometheus-chess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.2.1 | 2025-08-18 | 1404 | 1490 | 1539 |  |
+| 0.2.1 | 2025-08-18 | 1403 | 1490 | 1535 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.2.1 | 2025-08-18 | 1354 | 1470 | 1581 |  |
+| 0.2.1 | 2025-08-18 | 1354 | 1473 | 1584 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-22 05:41:23
+Generated: 2026-11-23 05:41:28
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-11-22 05:41:23
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 0.2.1 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 1551 | 25 | 608 | 43% | 1655 | 19% |
-|  |  | P1 | 1581 | 44 | 204 | 45% | 1681 | 17% |
-|  |  | E1 | 1539 | 32 | 378 | 46% | 1636 | 21% |
+|  |  | P1 | 1584 | 44 | 204 | 45% | 1682 | 17% |
+|  |  | E1 | 1535 | 32 | 382 | 45% | 1635 | 21% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 1532 | 26 | 566 | 48% | 1575 | 18% |
-|  |  | P1 | 1470 | 40 | 218 | 46% | 1509 | 21% |
-|  |  | E1 | 1490 | 32 | 382 | 45% | 1571 | 13% |
+|  |  | P1 | 1473 | 40 | 218 | 46% | 1512 | 21% |
+|  |  | E1 | 1490 | 32 | 386 | 45% | 1571 | 13% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 1393 | 27 | 572 | 51% | 1382 | 18% |
-|  |  | P1 | 1354 | 39 | 254 | 52% | 1322 | 16% |
-|  |  | E1 | 1404 | 32 | 334 | 50% | 1405 | 23% |
+|  |  | P1 | 1354 | 39 | 254 | 52% | 1323 | 16% |
+|  |  | E1 | 1403 | 32 | 334 | 50% | 1404 | 23% |
