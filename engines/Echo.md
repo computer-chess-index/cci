@@ -8,14 +8,14 @@ Home: https://github.com/AM-ML/Echo
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.1 | 2026-07-04 | 1904 | 2161 | 2230 |  |
+| 1.0.1 | 2026-07-04 | 1905 | 2160 | 2229 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.1 | 2026-07-04 | 1909 | 2141 | 2194 |  |
+| 1.0.1 | 2026-07-04 | 1912 | 2147 | 2199 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-22 05:37:56
+Generated: 2026-11-23 05:38:01
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-11-22 05:37:56
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 1.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2288 | 33 | 320 | 50% | 2283 | 28% |
-|  |  | P1 | 2194 | 37 | 236 | 50% | 2203 | 32% |
-|  |  | E1 | 2230 | 31 | 354 | 51% | 2213 | 27% |
+|  |  | P1 | 2199 | 37 | 236 | 50% | 2209 | 32% |
+|  |  | E1 | 2229 | 31 | 354 | 51% | 2211 | 27% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2241 | 33 | 324 | 49% | 2226 | 27% |
-|  |  | P1 | 2141 | 38 | 250 | 46% | 2190 | 23% |
-|  |  | E1 | 2161 | 31 | 358 | 50% | 2161 | 23% |
-|  | STC <sub>(8.0+0.08s)</sub> | P1 | 1909 | 36 | 282 | 49% | 1917 | 20% |
-|  |  | E1 | 1904 | 33 | 332 | 48% | 1918 | 22% |
-|  |  | T1 | 1995 | 33 | 330 | 52% | 1970 | 20% |
+|  |  | P1 | 2147 | 38 | 250 | 46% | 2195 | 23% |
+|  |  | E1 | 2160 | 31 | 358 | 50% | 2160 | 23% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 1995 | 33 | 330 | 52% | 1970 | 20% |
+|  |  | P1 | 1912 | 36 | 282 | 49% | 1920 | 20% |
+|  |  | E1 | 1905 | 32 | 336 | 49% | 1917 | 22% |
