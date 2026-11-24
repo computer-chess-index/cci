@@ -8,14 +8,14 @@ Home: https://github.com/bctboi23/CeeChess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.2 | 2025-11-05 | 2110 | 2400 | 2508 |  |
+| 2.2 | 2025-11-05 | 2107 | 2403 | 2510 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.2 | 2025-11-05 | 2055 | 2367 | 2468 |  |
+| 2.2 | 2025-11-05 | 2057 | 2369 | 2475 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-23 05:36:49
+Generated: 2026-11-24 05:36:53
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-11-23 05:36:49
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 2.2 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2488 | 26 | 478 | 48% | 2506 | 31% |
-|  |  | P1 | 2468 | 31 | 352 | 52% | 2427 | 33% |
-|  |  | E1 | 2508 | 30 | 392 | 51% | 2493 | 24% |
+|  |  | P1 | 2475 | 31 | 356 | 52% | 2430 | 33% |
+|  |  | E1 | 2510 | 30 | 392 | 51% | 2493 | 24% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2407 | 24 | 552 | 49% | 2417 | 30% |
-|  |  | P1 | 2367 | 37 | 268 | 48% | 2380 | 24% |
-|  |  | E1 | 2400 | 33 | 336 | 54% | 2360 | 24% |
+|  |  | P1 | 2369 | 37 | 268 | 48% | 2383 | 24% |
+|  |  | E1 | 2403 | 33 | 340 | 54% | 2363 | 24% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2156 | 23 | 674 | 50% | 2151 | 22% |
-|  |  | P1 | 2055 | 34 | 304 | 48% | 2095 | 24% |
-|  |  | E1 | 2110 | 31 | 364 | 48% | 2128 | 26% |
+|  |  | P1 | 2057 | 34 | 304 | 48% | 2098 | 24% |
+|  |  | E1 | 2107 | 31 | 372 | 48% | 2129 | 26% |
