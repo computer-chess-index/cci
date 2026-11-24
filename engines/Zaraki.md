@@ -8,14 +8,14 @@ Home: https://github.com/timojokinen/zaraki-zig
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.0.1 | 2026-07-02 | 1940 | 2199 | 2350 |  |
+| 0.0.1 | 2026-07-02 | 1943 | 2201 | 2353 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.0.1 | 2026-07-02 | 1912 | 2167 | 2256 |  |
+| 0.0.1 | 2026-07-02 | 1914 | 2169 | 2257 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-23 05:44:45
+Generated: 2026-11-24 05:44:56
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-11-23 05:44:45
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 0.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2354 | 33 | 292 | 44% | 2426 | 41% |
-|  |  | P1 | 2256 | 37 | 244 | 49% | 2246 | 38% |
-|  |  | E1 | 2350 | 27 | 440 | 55% | 2304 | 36% |
+|  |  | P1 | 2257 | 37 | 244 | 49% | 2248 | 38% |
+|  |  | E1 | 2353 | 27 | 444 | 55% | 2306 | 36% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2272 | 36 | 256 | 45% | 2344 | 37% |
-|  |  | P1 | 2167 | 35 | 278 | 49% | 2191 | 32% |
-|  |  | E1 | 2199 | 29 | 398 | 52% | 2210 | 34% |
+|  |  | P1 | 2169 | 35 | 278 | 49% | 2194 | 32% |
+|  |  | E1 | 2201 | 29 | 402 | 52% | 2213 | 34% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2055 | 29 | 400 | 43% | 2128 | 35% |
-|  |  | P1 | 1912 | 34 | 284 | 49% | 1924 | 36% |
-|  |  | E1 | 1940 | 30 | 364 | 48% | 1952 | 36% |
+|  |  | P1 | 1914 | 34 | 284 | 49% | 1926 | 36% |
+|  |  | E1 | 1943 | 30 | 364 | 48% | 1953 | 36% |
