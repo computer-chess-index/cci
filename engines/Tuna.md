@@ -8,14 +8,14 @@ Home: https://github.com/billchow98/chess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | 2025-09-28 | 2057 | 2422 | 2516 |  |
+| 1.0.0 | 2025-09-28 | 2059 | 2425 | 2518 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | 2025-09-28 | 2017 | 2344 | 2466 |  |
+| 1.0.0 | 2025-09-28 | 2018 | 2346 | 2468 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-23 05:44:03
+Generated: 2026-11-24 05:44:12
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-11-23 05:44:03
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2512 | 27 | 462 | 46% | 2552 | 27% |
-|  |  | P1 | 2466 | 39 | 238 | 53% | 2442 | 29% |
-|  |  | E1 | 2516 | 31 | 380 | 46% | 2574 | 26% |
+|  |  | P1 | 2468 | 39 | 238 | 53% | 2445 | 29% |
+|  |  | E1 | 2518 | 31 | 380 | 46% | 2577 | 26% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2437 | 26 | 500 | 51% | 2433 | 30% |
-|  |  | P1 | 2344 | 38 | 244 | 51% | 2348 | 26% |
-|  |  | E1 | 2422 | 31 | 360 | 49% | 2417 | 28% |
+|  |  | P1 | 2346 | 38 | 244 | 51% | 2349 | 26% |
+|  |  | E1 | 2425 | 31 | 364 | 49% | 2418 | 28% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2141 | 23 | 652 | 52% | 2118 | 27% |
-|  |  | P1 | 2017 | 36 | 272 | 49% | 2016 | 28% |
-|  |  | E1 | 2057 | 30 | 378 | 47% | 2091 | 26% |
+|  |  | P1 | 2018 | 36 | 276 | 49% | 2018 | 28% |
+|  |  | E1 | 2059 | 30 | 378 | 47% | 2093 | 26% |
