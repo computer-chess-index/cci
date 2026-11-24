@@ -8,14 +8,14 @@ Home: https://github.com/Quinniboi10/Prelude
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1 | 2025-12-10 | 2966 | 3268 | 3364 |  |
+| 2.1 | 2025-12-10 | 2970 | 3270 | 3364 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.1 | 2025-12-10 | 3011 | 3245 | 3316 |  |
+| 2.1 | 2025-12-10 | 3013 | 3249 | 3318 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-23 05:41:23
+Generated: 2026-11-24 05:41:27
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-11-23 05:41:23
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 2.1 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3314 | 23 | 496 | 51% | 3302 | 63% |
-|  |  | P1 | 3316 | 31 | 282 | 55% | 3239 | 62% |
+|  |  | P1 | 3318 | 31 | 282 | 55% | 3241 | 62% |
 |  |  | E1 | 3364 | 27 | 382 | 52% | 3310 | 60% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3275 | 23 | 514 | 53% | 3243 | 63% |
-|  |  | P1 | 3245 | 30 | 296 | 51% | 3222 | 59% |
-|  |  | E1 | 3268 | 26 | 410 | 54% | 3200 | 63% |
+|  |  | P1 | 3249 | 30 | 300 | 51% | 3227 | 59% |
+|  |  | E1 | 3270 | 26 | 418 | 54% | 3202 | 63% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 3048 | 20 | 700 | 50% | 3036 | 48% |
-|  |  | P1 | 3011 | 31 | 286 | 48% | 3028 | 52% |
-|  |  | E1 | 2966 | 24 | 492 | 46% | 2997 | 48% |
+|  |  | P1 | 3013 | 31 | 286 | 48% | 3032 | 52% |
+|  |  | E1 | 2970 | 24 | 504 | 46% | 2997 | 48% |
