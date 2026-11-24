@@ -8,14 +8,14 @@ Home: https://github.com/saisree27/Maelstrom
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.3.0 | 2025-08-27 | 2723 | 3094 | 3178 |  |
+| 3.3.0 | 2025-08-27 | 2726 | 3096 | 3178 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.3.0 | 2025-08-27 | 2732 | 3056 | 3170 |  |
+| 3.3.0 | 2025-08-27 | 2732 | 3059 | 3173 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-23 05:40:11
+Generated: 2026-11-24 05:40:14
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-11-23 05:40:11
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 3.3.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3177 | 23 | 496 | 49% | 3185 | 63% |
-|  |  | P1 | 3170 | 30 | 292 | 49% | 3177 | 62% |
+|  |  | P1 | 3173 | 30 | 292 | 49% | 3179 | 62% |
 |  |  | E1 | 3178 | 26 | 448 | 55% | 3086 | 51% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3073 | 23 | 538 | 51% | 3058 | 54% |
-|  |  | P1 | 3056 | 33 | 268 | 55% | 2985 | 49% |
-|  |  | E1 | 3094 | 25 | 454 | 49% | 3079 | 52% |
+|  |  | P1 | 3059 | 33 | 272 | 55% | 2989 | 49% |
+|  |  | E1 | 3096 | 25 | 462 | 49% | 3081 | 51% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2742 | 22 | 658 | 50% | 2732 | 36% |
-|  |  | P1 | 2732 | 33 | 284 | 49% | 2741 | 36% |
-|  |  | E1 | 2723 | 29 | 396 | 48% | 2749 | 35% |
+|  |  | P1 | 2732 | 33 | 292 | 49% | 2743 | 36% |
+|  |  | E1 | 2726 | 29 | 396 | 48% | 2751 | 35% |
