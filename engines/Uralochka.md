@@ -8,14 +8,14 @@ Home:
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.41a | 2024-05-04 |  | 3476 | 3552 |  |
+| 3.41a | 2024-05-04 |  | 3476 | 3553 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.41a | 2024-05-04 |  | 3441 | 3506 |  |
+| 3.41a | 2024-05-04 |  | 3448 | 3514 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-24 05:44:18
+Generated: 2026-11-25 05:44:19
 
 
 
@@ -48,10 +48,10 @@ Generated: 2026-11-24 05:44:18
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 3.41a | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3506 | 35 | 194 | 50% | 3507 | 83% |
-|  |  | E1 | 3552 | 29 | 282 | 49% | 3560 | 78% |
+| 3.41a | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3514 | 35 | 194 | 50% | 3514 | 83% |
+|  |  | E1 | 3553 | 29 | 282 | 49% | 3561 | 78% |
 |  |  | T1 | 3497 | 11 | 2076 | 49% | 3501 | 83% |
-|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 3476 | 28 | 322 | 51% | 3468 | 74% |
-|  |  | P1 | 3441 | 32 | 224 | 50% | 3438 | 82% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 3476 | 28 | 322 | 51% | 3470 | 74% |
+|  |  | P1 | 3448 | 32 | 224 | 50% | 3447 | 82% |
 |  |  | T1 | 3453 | 11 | 2008 | 50% | 3453 | 81% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 3224 | 32 | 312 | 57% | 3083 | 50% |
