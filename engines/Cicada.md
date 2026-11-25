@@ -8,14 +8,14 @@ Home: https://github.com/mkyl/cicada
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.1 | 2017-03-22 | 1288 | 1426 | 1544 |  |
+| 0.1 | 2017-03-22 | 1289 | 1428 | 1546 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.1 | 2017-03-22 | 1316 | 1470 | 1535 |  |
+| 0.1 | 2017-03-22 | 1323 | 1474 | 1538 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-24 05:37:29
+Generated: 2026-11-25 05:37:30
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-11-24 05:37:29
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 0.1 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 1543 | 31 | 380 | 46% | 1590 | 19% |
-|  |  | P1 | 1535 | 38 | 244 | 51% | 1526 | 21% |
-|  |  | E1 | 1544 | 30 | 378 | 49% | 1562 | 23% |
+|  |  | P1 | 1538 | 38 | 244 | 51% | 1528 | 21% |
+|  |  | E1 | 1546 | 30 | 378 | 49% | 1565 | 23% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 1516 | 32 | 344 | 49% | 1521 | 24% |
-|  |  | P1 | 1470 | 40 | 214 | 52% | 1451 | 24% |
-|  |  | E1 | 1426 | 31 | 368 | 48% | 1445 | 24% |
+|  |  | P1 | 1474 | 40 | 218 | 52% | 1457 | 23% |
+|  |  | E1 | 1428 | 31 | 368 | 48% | 1447 | 24% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 1303 | 32 | 358 | 49% | 1310 | 20% |
-|  |  | P1 | 1316 | 40 | 222 | 50% | 1368 | 22% |
-|  |  | E1 | 1288 | 30 | 400 | 49% | 1323 | 22% |
+|  |  | P1 | 1323 | 40 | 230 | 51% | 1366 | 21% |
+|  |  | E1 | 1289 | 30 | 400 | 49% | 1326 | 22% |
