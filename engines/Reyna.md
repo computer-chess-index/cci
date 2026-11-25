@@ -8,14 +8,14 @@ Home: https://github.com/renztarga/Reyna
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2025-10-20 | 2192 | 2511 | 2595 |  |
+| 1.0 | 2025-10-20 | 2198 | 2514 | 2597 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2025-10-20 | 2205 | 2464 | 2552 |  |
+| 1.0 | 2025-10-20 | 2211 | 2475 | 2560 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-24 05:42:24
+Generated: 2026-11-25 05:42:29
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-11-24 05:42:24
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 2600 | 23 | 644 | 49% | 2611 | 31% |
-|  |  | P1 | 2552 | 34 | 336 | 58% | 2354 | 27% |
-|  |  | E1 | 2595 | 28 | 429 | 49% | 2595 | 32% |
+|  |  | P1 | 2560 | 34 | 336 | 58% | 2363 | 27% |
+|  |  | E1 | 2597 | 28 | 429 | 49% | 2597 | 32% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2498 | 25 | 528 | 50% | 2489 | 28% |
-|  |  | P1 | 2464 | 38 | 260 | 50% | 2456 | 21% |
-|  |  | E1 | 2511 | 29 | 428 | 51% | 2481 | 30% |
+|  |  | P1 | 2475 | 38 | 264 | 50% | 2465 | 21% |
+|  |  | E1 | 2514 | 29 | 432 | 51% | 2484 | 30% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2282 | 22 | 740 | 48% | 2307 | 24% |
-|  |  | P1 | 2205 | 37 | 272 | 50% | 2203 | 20% |
-|  |  | E1 | 2192 | 30 | 392 | 47% | 2237 | 29% |
+|  |  | P1 | 2211 | 37 | 272 | 50% | 2211 | 20% |
+|  |  | E1 | 2198 | 29 | 404 | 48% | 2238 | 29% |
