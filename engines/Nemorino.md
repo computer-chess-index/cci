@@ -8,14 +8,14 @@ Home:
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.00 | 2020-09-28 | 2946 | 3239 | 3306 |  |
+| 6.00 | 2020-09-28 | 2950 | 3239 | 3309 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.00 | 2020-09-28 | 2952 | 3225 | 3297 |  |
+| 6.00 | 2020-09-28 | 2963 | 3239 | 3305 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-24 05:40:46
+Generated: 2026-11-25 05:40:51
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-11-24 05:40:46
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 6.00 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3313 | 12 | 1904 | 49% | 3317 | 64% |
-|  |  | E1 | 3306 | 28 | 354 | 51% | 3294 | 56% |
-|  |  | P1 | 3297 | 29 | 316 | 48% | 3305 | 59% |
+|  |  | E1 | 3309 | 28 | 354 | 51% | 3297 | 56% |
+|  |  | P1 | 3305 | 29 | 316 | 48% | 3314 | 59% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3244 | 12 | 1888 | 50% | 3243 | 60% |
-|  |  | P1 | 3225 | 31 | 300 | 54% | 3183 | 55% |
-|  |  | E1 | 3239 | 26 | 412 | 50% | 3236 | 56% |
+|  |  | P1 | 3239 | 30 | 308 | 54% | 3194 | 56% |
+|  |  | E1 | 3239 | 26 | 424 | 49% | 3239 | 56% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2994 | 12 | 2016 | 50% | 2989 | 46% |
-|  |  | P1 | 2952 | 30 | 330 | 48% | 2970 | 42% |
-|  |  | E1 | 2946 | 25 | 486 | 47% | 2977 | 43% |
+|  |  | P1 | 2963 | 30 | 334 | 48% | 2979 | 42% |
+|  |  | E1 | 2950 | 25 | 498 | 47% | 2979 | 43% |
