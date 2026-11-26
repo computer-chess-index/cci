@@ -8,14 +8,14 @@ Home: https://github.com/silentshark-uk/rexigon
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2025-11-30 | 1960 | 2279 | 2408 |  |
+| 1.0 | 2025-11-30 | 1962 | 2282 | 2404 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2025-11-30 | 1951 | 2226 | 2325 |  |
+| 1.0 | 2025-11-30 | 1952 | 2232 | 2326 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-25 05:42:27
+Generated: 2026-11-26 05:42:37
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-25 05:42:27
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 2325 | 41 | 232 | 51% | 2327 | 17% |
-|  |  | E1 | 2408 | 33 | 344 | 50% | 2429 | 17% |
+| 1.0 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 2404 | 33 | 352 | 49% | 2429 | 16% |
 |  |  | T1 | 2444 | 26 | 562 | 50% | 2445 | 18% |
-|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 2226 | 38 | 268 | 51% | 2222 | 15% |
-|  |  | E1 | 2279 | 31 | 394 | 54% | 2230 | 20% |
+|  |  | P1 | 2326 | 41 | 232 | 51% | 2327 | 17% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 2282 | 31 | 394 | 54% | 2232 | 20% |
 |  |  | T1 | 2321 | 25 | 572 | 50% | 2321 | 17% |
-|  | STC <sub>(8.0+0.08s)</sub> | E1 | 1960 | 32 | 356 | 48% | 1983 | 14% |
+|  |  | P1 | 2232 | 37 | 272 | 51% | 2223 | 15% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 1962 | 32 | 356 | 48% | 1985 | 14% |
 |  |  | T1 | 2059 | 23 | 752 | 51% | 2041 | 12% |
-|  |  | P1 | 1951 | 36 | 292 | 49% | 1966 | 16% |
+|  |  | P1 | 1952 | 36 | 296 | 49% | 1966 | 16% |
