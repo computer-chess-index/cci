@@ -8,14 +8,14 @@ Home:
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.5.0 | 2023-02-28 | 3023 | 3287 | 3374 |  |
+| 6.5.0 | 2023-02-28 | 3015 | 3281 | 3368 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 6.5.0 | 2023-02-28 | 3019 | 3289 | 3308 |  |
+| 6.5.0 | 2023-02-28 | 3019 | 3287 | 3306 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-25 05:44:37
+Generated: 2026-11-26 05:44:51
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-11-25 05:44:37
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 6.5.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3336 | 12 | 1932 | 50% | 3336 | 66% |
-|  |  | E1 | 3374 | 26 | 396 | 49% | 3376 | 65% |
-|  |  | P1 | 3308 | 31 | 280 | 51% | 3301 | 63% |
+|  |  | E1 | 3368 | 26 | 396 | 49% | 3372 | 65% |
+|  |  | P1 | 3306 | 31 | 280 | 51% | 3299 | 63% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3278 | 12 | 1914 | 50% | 3282 | 64% |
-|  |  | P1 | 3289 | 27 | 364 | 55% | 3247 | 62% |
-|  |  | E1 | 3287 | 26 | 398 | 50% | 3287 | 61% |
+|  |  | P1 | 3287 | 27 | 364 | 55% | 3245 | 62% |
+|  |  | E1 | 3281 | 26 | 402 | 50% | 3282 | 61% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 3065 | 12 | 2060 | 50% | 3067 | 53% |
-|  |  | P1 | 3019 | 31 | 296 | 48% | 3042 | 49% |
-|  |  | E1 | 3023 | 24 | 486 | 47% | 3050 | 49% |
+|  |  | P1 | 3019 | 31 | 296 | 48% | 3040 | 49% |
+|  |  | E1 | 3015 | 24 | 502 | 47% | 3043 | 49% |
