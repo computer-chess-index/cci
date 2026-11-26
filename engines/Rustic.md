@@ -8,14 +8,14 @@ Home: https://github.com/mvanthoor/rustic
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.6 | 2025-09-24 | 1586 | 1790 | 1877 |  |
+| 3.0.6 | 2025-09-24 | 1588 | 1791 | 1878 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.6 | 2025-09-24 | 1600 | 1800 | 1824 |  |
+| 3.0.6 | 2025-09-24 | 1601 | 1800 | 1824 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-25 05:42:50
+Generated: 2026-11-26 05:43:01
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-25 05:42:50
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 3.0.6 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 1824 | 39 | 240 | 51% | 1825 | 21% |
-|  |  | E1 | 1877 | 33 | 348 | 52% | 1866 | 20% |
+| 3.0.6 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 1878 | 33 | 348 | 52% | 1867 | 20% |
 |  |  | T1 | 1906 | 23 | 676 | 46% | 1955 | 20% |
-|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 1800 | 36 | 300 | 53% | 1786 | 20% |
-|  |  | E1 | 1790 | 30 | 444 | 46% | 1852 | 18% |
+|  |  | P1 | 1824 | 39 | 240 | 51% | 1825 | 21% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 1791 | 30 | 444 | 46% | 1854 | 18% |
 |  |  | T1 | 1845 | 24 | 644 | 54% | 1805 | 19% |
-|  | STC <sub>(8.0+0.08s)</sub> | E1 | 1586 | 30 | 404 | 49% | 1594 | 22% |
+|  |  | P1 | 1800 | 36 | 300 | 53% | 1786 | 20% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 1588 | 30 | 404 | 49% | 1596 | 22% |
 |  |  | T1 | 1627 | 23 | 674 | 46% | 1681 | 22% |
-|  |  | P1 | 1600 | 37 | 260 | 51% | 1590 | 18% |
+|  |  | P1 | 1601 | 37 | 260 | 51% | 1592 | 18% |
