@@ -8,14 +8,14 @@ Home: https://github.com/connormcmonigle/seer-nnue
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.8 | 2023-12-31 | 3228 | 3457 | 3530 |  |
+| 2.8 | 2023-12-31 | 3222 | 3452 | 3526 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.8 | 2023-12-31 | 3268 | 3441 | 3505 |  |
+| 2.8 | 2023-12-31 | 3267 | 3441 | 3505 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-25 05:43:06
+Generated: 2026-11-26 05:43:17
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-11-25 05:43:06
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 2.8 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3482 | 11 | 2071 | 51% | 3472 | 80% |
-|  |  | E1 | 3530 | 27 | 332 | 52% | 3510 | 75% |
+|  |  | E1 | 3526 | 27 | 332 | 52% | 3506 | 75% |
 |  |  | P1 | 3505 | 36 | 188 | 48% | 3513 | 79% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3451 | 11 | 1960 | 50% | 3449 | 76% |
 |  |  | P1 | 3441 | 35 | 206 | 49% | 3449 | 75% |
-|  |  | E1 | 3457 | 27 | 340 | 51% | 3449 | 69% |
+|  |  | E1 | 3452 | 27 | 344 | 51% | 3445 | 69% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 3278 | 11 | 2216 | 51% | 3255 | 65% |
-|  |  | P1 | 3268 | 30 | 290 | 49% | 3271 | 66% |
-|  |  | E1 | 3228 | 25 | 452 | 46% | 3258 | 57% |
+|  |  | P1 | 3267 | 30 | 290 | 49% | 3270 | 66% |
+|  |  | E1 | 3222 | 25 | 452 | 46% | 3252 | 57% |
