@@ -8,14 +8,14 @@ Home: https://github.com/billchow98/chess
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | 2025-09-28 | 2061 | 2423 | 2520 |  |
+| 1.0.0 | 2025-09-28 | 2066 | 2418 | 2519 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | 2025-09-28 | 2025 | 2361 | 2476 |  |
+| 1.0.0 | 2025-09-28 | 2025 | 2372 | 2476 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-25 05:44:14
+Generated: 2026-11-26 05:44:26
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-25 05:44:14
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 2476 | 39 | 238 | 53% | 2453 | 29% |
-|  |  | E1 | 2520 | 31 | 380 | 46% | 2579 | 26% |
+| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 2519 | 31 | 380 | 46% | 2577 | 26% |
 |  |  | T1 | 2512 | 27 | 462 | 46% | 2552 | 27% |
-|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 2361 | 37 | 248 | 51% | 2360 | 26% |
-|  |  | E1 | 2423 | 31 | 372 | 49% | 2421 | 27% |
+|  |  | P1 | 2476 | 39 | 238 | 53% | 2453 | 29% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 2418 | 31 | 376 | 48% | 2421 | 27% |
 |  |  | T1 | 2437 | 26 | 500 | 51% | 2433 | 30% |
-|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2061 | 30 | 378 | 47% | 2094 | 26% |
+|  |  | P1 | 2372 | 36 | 268 | 52% | 2360 | 26% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2066 | 30 | 386 | 48% | 2095 | 26% |
 |  |  | T1 | 2141 | 23 | 652 | 52% | 2118 | 27% |
 |  |  | P1 | 2025 | 35 | 284 | 49% | 2022 | 29% |
