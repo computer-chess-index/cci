@@ -8,14 +8,14 @@ Home: https://github.com/KristianEkman/ZeroG
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.2 | 2026-07-14 | 2132 | 2472 | 2615 |  |
+| 1.0.2 | 2026-07-14 | 2132 | 2471 | 2615 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.2 | 2026-07-14 | 2156 | 2441 | 2556 |  |
+| 1.0.2 | 2026-07-14 | 2156 | 2444 | 2556 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-26 05:45:18
+Generated: 2026-11-27 05:45:20
 
 
 
@@ -50,10 +50,10 @@ Generated: 2026-11-26 05:45:18
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 1.0.2 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 2615 | 38 | 236 | 56% | 2520 | 29% |
 |  |  | T1 | 2592 | 39 | 222 | 52% | 2566 | 32% |
-|  |  | P1 | 2556 | 46 | 160 | 55% | 2488 | 29% |
-|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 2472 | 34 | 298 | 47% | 2492 | 28% |
-|  |  | T1 | 2496 | 39 | 230 | 54% | 2421 | 31% |
-|  |  | P1 | 2441 | 47 | 152 | 51% | 2408 | 32% |
+|  |  | P1 | 2556 | 46 | 160 | 55% | 2489 | 29% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2496 | 39 | 230 | 54% | 2421 | 31% |
+|  |  | P1 | 2444 | 46 | 156 | 52% | 2410 | 31% |
+|  |  | E1 | 2471 | 34 | 298 | 47% | 2492 | 28% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2195 | 44 | 184 | 56% | 2110 | 26% |
 |  |  | P1 | 2156 | 46 | 194 | 59% | 1948 | 21% |
 |  |  | E1 | 2132 | 38 | 268 | 47% | 2163 | 19% |
