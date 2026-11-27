@@ -8,14 +8,14 @@ Home: https://github.com/AM-ML/Echo
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.1 | 2026-07-04 | 1910 | 2168 | 2234 |  |
+| 1.0.1 | 2026-07-04 | 1910 | 2168 | 2236 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.1 | 2026-07-04 | 1921 | 2159 | 2210 |  |
+| 1.0.1 | 2026-07-04 | 1922 | 2159 | 2210 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-26 05:38:12
+Generated: 2026-11-27 05:38:06
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-26 05:38:12
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 1.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 2234 | 31 | 354 | 51% | 2217 | 27% |
+| 1.0.1 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 2236 | 31 | 362 | 51% | 2217 | 27% |
 |  |  | T1 | 2288 | 33 | 320 | 50% | 2283 | 28% |
 |  |  | P1 | 2210 | 37 | 236 | 50% | 2219 | 32% |
-|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 2168 | 31 | 374 | 50% | 2167 | 23% |
-|  |  | T1 | 2241 | 33 | 324 | 49% | 2226 | 27% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 2241 | 33 | 324 | 49% | 2226 | 27% |
 |  |  | P1 | 2159 | 36 | 270 | 46% | 2203 | 22% |
+|  |  | E1 | 2168 | 31 | 374 | 50% | 2167 | 23% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 1995 | 33 | 330 | 52% | 1970 | 20% |
-|  |  | P1 | 1921 | 36 | 290 | 50% | 1926 | 20% |
+|  |  | P1 | 1922 | 36 | 290 | 50% | 1928 | 20% |
 |  |  | E1 | 1910 | 32 | 336 | 49% | 1924 | 22% |
