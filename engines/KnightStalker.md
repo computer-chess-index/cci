@@ -8,7 +8,7 @@ Home: https://github.com/tedsummers/KnightStalker
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.5.0 | 2026-11-24 | 1800<sub>(+337) | 2056<sub>(+310) | 2074<sub>(+276) |  |
+| 2.5.0 | 2026-11-24 | 1804<sub>(+341) | 2044<sub>(+298) | 2079<sub>(+281) |  |
 | 1.1.0 | 2026-11-15 | 1463 | 1746 | 1798 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
@@ -16,15 +16,15 @@ Home: https://github.com/tedsummers/KnightStalker
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.5.0 | 2026-11-24 | 1801<sub>(+323) | 1958<sub>(+277) | 2101<sub>(+370) |  |
-| 1.1.0 | 2026-11-15 | 1478 | 1681 | 1731 |  |
+| 2.5.0 | 2026-11-24 | 1775<sub>(+298) | 1955<sub>(+274) | 2102<sub>(+371) |  |
+| 1.1.0 | 2026-11-15 | 1477 | 1681 | 1731 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.1.0 | 2026-11-15 | 1478 | 1681 | 1731 |  |
+| 1.1.0 | 2026-11-15 | 1477 | 1681 | 1731 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 <a href="https://github.com/computer-chess-index/cci/issues/new?template=submit-version.yml&title=[VERSION]+KnightStalker+<version>&body=###%20Engine%20name%0AKnightStalker%0A%0A###%20Version%0A2.5.0" target="_blank">Submit new version</a>
@@ -42,7 +42,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-26 05:39:38
+Generated: 2026-11-27 05:39:31
 
 ## Ratings Verlauf E1 / P1
 
@@ -51,12 +51,12 @@ Generated: 2026-11-26 05:39:38
 xychart-beta
   x-axis ["1.1.0", "2.5.0"]
   y-axis "Elo Rating" 1400 --> 2200
-  line "E1: STC (8.0+0.08s)" [1463, 1800]
-  line "E1: LTC (60.0+0.60s)" [1746, 2056]
-  line "E1: VLTC (2m24s+1.12s)" [1798, 2074]
-  line "P1: STC (8.0+0.08s)" [1478, 1801]
-  line "P1: LTC (60.0+0.60s)" [1681, 1958]
-  line "P1: VLTC (2m24s+1.12s)" [1731, 2101]
+  line "E1: STC (8.0+0.08s)" [1463, 1804]
+  line "E1: LTC (60.0+0.60s)" [1746, 2044]
+  line "E1: VLTC (2m24s+1.12s)" [1798, 2079]
+  line "P1: STC (8.0+0.08s)" [1477, 1775]
+  line "P1: LTC (60.0+0.60s)" [1681, 1955]
+  line "P1: VLTC (2m24s+1.12s)" [1731, 2102]
 ```
 
 
@@ -67,16 +67,16 @@ xychart-beta
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 2.5.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 2101 | 57 | 104 | 55% | 2056 | 29% |
-|  |  | E1 | 2074 | 48 | 146 | 53% | 2041 | 30% |
-|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 1958 | 59 | 104 | 51% | 1944 | 20% |
-|  |  | E1 | 2056 | 50 | 134 | 57% | 1991 | 32% |
-|  | STC <sub>(8.0+0.08s)</sub> | P1 | 1801 | 113 | 32 | 64% | 1648 | 9% |
-|  |  | E1 | 1800 | 46 | 172 | 48% | 1818 | 21% |
+| 2.5.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 2102 | 57 | 104 | 55% | 2057 | 29% |
+|  |  | E1 | 2079 | 40 | 210 | 52% | 2056 | 30% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 1955 | 58 | 108 | 51% | 1945 | 20% |
+|  |  | E1 | 2044 | 44 | 178 | 54% | 2003 | 28% |
+|  | STC <sub>(8.0+0.08s)</sub> | P1 | 1775 | 62 | 98 | 53% | 1742 | 14% |
+|  |  | E1 | 1804 | 43 | 192 | 48% | 1816 | 23% |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 1.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 1798 | 43 | 192 | 51% | 1808 | 20% |
+| 1.1.0 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 1798 | 43 | 192 | 51% | 1809 | 20% |
 |  |  | P1 | 1731 | 55 | 118 | 45% | 1794 | 24% |
-|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 1746 | 46 | 180 | 48% | 1794 | 19% |
-|  |  | P1 | 1681 | 48 | 148 | 51% | 1674 | 26% |
-|  | STC <sub>(8.0+0.08s)</sub> | P1 | 1478 | 50 | 148 | 43% | 1608 | 24% |
-|  |  | E1 | 1463 | 44 | 196 | 46% | 1534 | 20% |
+|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 1681 | 48 | 148 | 51% | 1674 | 26% |
+|  |  | E1 | 1746 | 46 | 180 | 48% | 1794 | 19% |
+|  | STC <sub>(8.0+0.08s)</sub> | P1 | 1477 | 50 | 148 | 43% | 1608 | 24% |
+|  |  | E1 | 1463 | 44 | 196 | 46% | 1532 | 20% |
