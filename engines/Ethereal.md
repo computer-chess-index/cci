@@ -8,14 +8,14 @@ Home: https://github.com/AndyGrant/Ethereal
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 13.07 | 2021-07-11 | 2917 | 3208 | 3291 |  |
+| 13.07 | 2021-07-11 | 2916 | 3209 | 3291 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 13.07 | 2021-07-11 | 2936 | 3190 | 3289 |  |
+| 13.07 | 2021-07-11 | 2939 | 3191 | 3289 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-26 05:38:28
+Generated: 2026-11-27 05:38:22
 
 
 
@@ -50,10 +50,10 @@ Generated: 2026-11-26 05:38:28
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 13.07 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 3291 | 28 | 344 | 52% | 3274 | 56% |
 |  |  | T1 | 3289 | 12 | 2008 | 51% | 3283 | 61% |
-|  |  | P1 | 3289 | 32 | 274 | 52% | 3275 | 55% |
+|  |  | P1 | 3289 | 32 | 274 | 52% | 3276 | 55% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3217 | 12 | 1940 | 50% | 3218 | 54% |
-|  |  | P1 | 3190 | 27 | 404 | 53% | 3158 | 53% |
-|  |  | E1 | 3208 | 25 | 452 | 52% | 3191 | 53% |
+|  |  | P1 | 3191 | 26 | 412 | 53% | 3160 | 52% |
+|  |  | E1 | 3209 | 25 | 452 | 52% | 3191 | 53% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2957 | 12 | 2080 | 51% | 2947 | 43% |
-|  |  | P1 | 2936 | 32 | 286 | 49% | 2944 | 45% |
-|  |  | E1 | 2917 | 25 | 492 | 48% | 2946 | 40% |
+|  |  | P1 | 2939 | 32 | 294 | 50% | 2946 | 46% |
+|  |  | E1 | 2916 | 25 | 504 | 48% | 2946 | 41% |
