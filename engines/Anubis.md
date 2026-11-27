@@ -8,14 +8,14 @@ Home: https://github.com/Lacovipo/Anubis-chess-engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.6 | 2025-10-02 | 2373 | 2881 | 3002 |  |
+| 3.0.6 | 2025-10-02 | 2373 | 2877 | 3002 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 3.0.6 | 2025-10-02 | 2337 | 2855 | 2998 |  |
+| 3.0.6 | 2025-10-02 | 2337 | 2855 | 3000 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-26 05:35:51
+Generated: 2026-11-27 05:35:49
 
 
 
@@ -50,10 +50,10 @@ Generated: 2026-11-26 05:35:51
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 3.0.6 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 3002 | 28 | 384 | 50% | 2989 | 42% |
 |  |  | T1 | 3043 | 23 | 544 | 48% | 3056 | 46% |
-|  |  | P1 | 2998 | 34 | 262 | 53% | 2946 | 42% |
-|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 2881 | 27 | 454 | 46% | 2917 | 35% |
+|  |  | P1 | 3000 | 34 | 262 | 53% | 2947 | 42% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 2877 | 27 | 460 | 46% | 2917 | 35% |
 |  |  | T1 | 2917 | 23 | 596 | 47% | 2938 | 41% |
-|  |  | P1 | 2855 | 35 | 252 | 51% | 2842 | 42% |
-|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2373 | 30 | 404 | 46% | 2427 | 20% |
-|  |  | T1 | 2498 | 22 | 722 | 54% | 2461 | 26% |
+|  |  | P1 | 2855 | 35 | 252 | 51% | 2843 | 42% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 2498 | 22 | 722 | 54% | 2461 | 26% |
 |  |  | P1 | 2337 | 37 | 256 | 48% | 2352 | 22% |
+|  |  | E1 | 2373 | 30 | 404 | 46% | 2427 | 20% |
