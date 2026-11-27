@@ -15,7 +15,7 @@ Home: https://github.com/renztarga/Reyna
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2025-10-20 | 2210 | 2475 | 2560 |  |
+| 1.0 | 2025-10-20 | 2211 | 2476 | 2560 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-26 05:42:40
+Generated: 2026-11-27 05:42:40
 
 
 
@@ -53,7 +53,7 @@ Generated: 2026-11-26 05:42:40
 |  |  | P1 | 2560 | 34 | 340 | 58% | 2365 | 27% |
 |  | LTC <sub>(60.0+0.60s)</sub> | E1 | 2512 | 29 | 436 | 51% | 2483 | 30% |
 |  |  | T1 | 2498 | 25 | 528 | 50% | 2489 | 28% |
-|  |  | P1 | 2475 | 38 | 264 | 50% | 2465 | 21% |
-|  | STC <sub>(8.0+0.08s)</sub> | E1 | 2201 | 29 | 404 | 48% | 2240 | 29% |
-|  |  | T1 | 2282 | 22 | 740 | 48% | 2307 | 24% |
-|  |  | P1 | 2210 | 36 | 280 | 50% | 2211 | 20% |
+|  |  | P1 | 2476 | 38 | 264 | 50% | 2465 | 21% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 2282 | 22 | 740 | 48% | 2307 | 24% |
+|  |  | P1 | 2211 | 36 | 280 | 50% | 2211 | 20% |
+|  |  | E1 | 2201 | 29 | 404 | 48% | 2240 | 29% |
