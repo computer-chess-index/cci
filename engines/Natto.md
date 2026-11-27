@@ -8,14 +8,14 @@ Home: https://github.com/rglenister/natto
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.1.9 | 2025-09-06 | 1588 | 1758 | 1867 |  |
+| 0.1.9 | 2025-09-06 | 1592 | 1758 | 1867 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 0.1.9 | 2025-09-06 | 1604 | 1781 | 1827 |  |
+| 0.1.9 | 2025-09-06 | 1605 | 1782 | 1827 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-26 05:40:57
+Generated: 2026-11-27 05:40:54
 
 
 
@@ -50,10 +50,10 @@ Generated: 2026-11-26 05:40:57
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 0.1.9 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 1867 | 27 | 486 | 45% | 1955 | 29% |
 |  |  | T1 | 1937 | 23 | 644 | 48% | 1971 | 27% |
-|  |  | P1 | 1827 | 37 | 248 | 48% | 1877 | 27% |
+|  |  | P1 | 1827 | 37 | 248 | 48% | 1878 | 27% |
 |  | LTC <sub>(60.0+0.60s)</sub> | E1 | 1758 | 32 | 354 | 50% | 1785 | 24% |
 |  |  | T1 | 1847 | 24 | 618 | 50% | 1863 | 28% |
-|  |  | P1 | 1781 | 36 | 296 | 54% | 1751 | 27% |
-|  | STC <sub>(8.0+0.08s)</sub> | E1 | 1588 | 31 | 382 | 47% | 1636 | 25% |
-|  |  | T1 | 1601 | 23 | 652 | 46% | 1648 | 27% |
-|  |  | P1 | 1604 | 36 | 282 | 52% | 1588 | 24% |
+|  |  | P1 | 1782 | 36 | 300 | 54% | 1751 | 27% |
+|  | STC <sub>(8.0+0.08s)</sub> | T1 | 1601 | 23 | 652 | 46% | 1648 | 27% |
+|  |  | P1 | 1605 | 36 | 286 | 52% | 1588 | 24% |
+|  |  | E1 | 1592 | 30 | 386 | 48% | 1635 | 25% |
