@@ -8,14 +8,14 @@ Home: https://github.com/jeffreyan11/laser-chess-engine
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.7 | 2019-02-07 | 2757 | 3087 | 3117 |  |
+| 1.7 | 2019-02-07 | 2754 | 3086 | 3117 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.7 | 2019-02-07 | 2749 | 3039 | 3100 |  |
+| 1.7 | 2019-02-07 | 2749 | 3040 | 3098 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-27 05:39:48
+Generated: 2026-11-28 05:39:50
 
 
 
@@ -49,11 +49,11 @@ Generated: 2026-11-27 05:39:48
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 1.7 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3132 | 12 | 1930 | 50% | 3131 | 48% |
-|  |  | P1 | 3100 | 37 | 222 | 50% | 3090 | 45% |
-|  |  | E1 | 3117 | 27 | 424 | 52% | 3087 | 41% |
+|  |  | P1 | 3098 | 36 | 226 | 50% | 3092 | 45% |
+|  |  | E1 | 3117 | 27 | 424 | 52% | 3086 | 41% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3070 | 12 | 1966 | 51% | 3059 | 44% |
-|  |  | P1 | 3039 | 33 | 280 | 54% | 2992 | 41% |
-|  |  | E1 | 3087 | 26 | 436 | 52% | 3066 | 42% |
+|  |  | P1 | 3040 | 33 | 280 | 54% | 2994 | 41% |
+|  |  | E1 | 3086 | 26 | 436 | 52% | 3065 | 42% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 2795 | 12 | 2070 | 50% | 2800 | 35% |
 |  |  | P1 | 2749 | 36 | 248 | 47% | 2785 | 39% |
-|  |  | E1 | 2757 | 26 | 500 | 47% | 2784 | 31% |
+|  |  | E1 | 2754 | 26 | 500 | 47% | 2782 | 31% |
