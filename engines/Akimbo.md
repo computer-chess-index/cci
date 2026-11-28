@@ -8,14 +8,14 @@ Home: https://github.com/jw1912/akimbo
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | 2024-05-26 | 3106 | 3351 | 3433 |  |
+| 1.0.0 | 2024-05-26 | 3105 | 3349 | 3430 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | 2024-05-26 | 3187 | 3339 | 3405 |  |
+| 1.0.0 | 2024-05-26 | 3189 | 3339 | 3405 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-27 05:35:27
+Generated: 2026-11-28 05:35:30
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-27 05:35:27
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3406 | 11 | 2044 | 52% | 3391 | 71% |
+| 1.0.0 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 3430 | 25 | 408 | 49% | 3434 | 70% |
+|  |  | T1 | 3406 | 11 | 2044 | 52% | 3391 | 71% |
 |  |  | P1 | 3405 | 32 | 250 | 49% | 3409 | 69% |
-|  |  | E1 | 3433 | 25 | 408 | 49% | 3436 | 70% |
-|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 3339 | 30 | 286 | 52% | 3321 | 66% |
-|  |  | E1 | 3351 | 26 | 374 | 48% | 3364 | 63% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 3349 | 26 | 386 | 48% | 3363 | 63% |
 |  |  | T1 | 3362 | 11 | 2000 | 50% | 3363 | 72% |
-|  | STC <sub>(8.0+0.08s)</sub> | P1 | 3187 | 28 | 356 | 49% | 3197 | 58% |
-|  |  | E1 | 3106 | 25 | 462 | 46% | 3139 | 52% |
+|  |  | P1 | 3339 | 30 | 294 | 52% | 3322 | 67% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 3105 | 25 | 462 | 46% | 3139 | 52% |
 |  |  | T1 | 3171 | 11 | 2082 | 50% | 3175 | 58% |
+|  |  | P1 | 3189 | 28 | 356 | 49% | 3198 | 58% |
