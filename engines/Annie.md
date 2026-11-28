@@ -8,14 +8,14 @@ Home: https://github.com/tsoj/Annie
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.2 | 2026-01-17 | 1311 | 1440 | 1519 |  |
+| 1.2 | 2026-01-17 | 1311 | 1442 | 1519 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 1.2 | 2026-01-17 | 1314 | 1391 | 1420 |  |
+| 1.2 | 2026-01-17 | 1314 | 1392 | 1422 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-27 05:35:44
+Generated: 2026-11-28 05:35:47
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-27 05:35:44
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 1.2 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 1519 | 32 | 374 | 45% | 1612 | 17% |
-|  |  | T1 | 1542 | 26 | 570 | 49% | 1578 | 16% |
-|  |  | P1 | 1420 | 38 | 268 | 54% | 1381 | 17% |
-|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 1440 | 32 | 378 | 49% | 1490 | 15% |
-|  |  | T1 | 1524 | 25 | 652 | 44% | 1596 | 17% |
-|  |  | P1 | 1391 | 46 | 188 | 48% | 1457 | 16% |
+| 1.2 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 1542 | 26 | 570 | 49% | 1578 | 16% |
+|  |  | P1 | 1422 | 38 | 268 | 54% | 1381 | 17% |
+|  |  | E1 | 1519 | 32 | 374 | 45% | 1612 | 17% |
+|  | LTC <sub>(60.0+0.60s)</sub> | T1 | 1524 | 25 | 652 | 44% | 1596 | 17% |
+|  |  | P1 | 1392 | 46 | 188 | 48% | 1457 | 16% |
+|  |  | E1 | 1442 | 32 | 378 | 49% | 1490 | 15% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 1330 | 27 | 600 | 55% | 1251 | 16% |
 |  |  | P1 | 1314 | 38 | 238 | 52% | 1291 | 23% |
 |  |  | E1 | 1311 | 30 | 400 | 49% | 1332 | 26% |
