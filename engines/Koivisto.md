@@ -8,14 +8,14 @@ Home: https://github.com/Luecx/Koivisto
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.0 | 2023-01-15 | 3262 | 3456 | 3517 |  |
+| 9.0 | 2023-01-15 | 3260 | 3455 | 3515 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 9.0 | 2023-01-15 | 3303 | 3474 | 3479 |  |
+| 9.0 | 2023-01-15 | 3305 | 3475 | 3479 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-27 05:39:37
+Generated: 2026-11-28 05:39:39
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-27 05:39:37
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 9.0 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 3517 | 30 | 280 | 49% | 3525 | 75% |
+| 9.0 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3479 | 35 | 196 | 51% | 3468 | 78% |
+|  |  | E1 | 3515 | 30 | 280 | 49% | 3524 | 75% |
 |  |  | T1 | 3472 | 11 | 2092 | 51% | 3470 | 78% |
-|  |  | P1 | 3479 | 35 | 196 | 51% | 3468 | 78% |
-|  | LTC <sub>(60.0+0.60s)</sub> | P1 | 3474 | 31 | 264 | 54% | 3445 | 73% |
-|  |  | E1 | 3456 | 26 | 392 | 49% | 3461 | 67% |
+|  | LTC <sub>(60.0+0.60s)</sub> | E1 | 3455 | 26 | 396 | 49% | 3460 | 67% |
 |  |  | T1 | 3433 | 11 | 1960 | 50% | 3433 | 76% |
-|  | STC <sub>(8.0+0.08s)</sub> | P1 | 3303 | 28 | 332 | 49% | 3310 | 67% |
-|  |  | E1 | 3262 | 24 | 472 | 48% | 3275 | 61% |
+|  |  | P1 | 3475 | 31 | 264 | 54% | 3445 | 73% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 3260 | 23 | 484 | 48% | 3274 | 61% |
 |  |  | T1 | 3285 | 11 | 2232 | 50% | 3283 | 63% |
+|  |  | P1 | 3305 | 27 | 340 | 49% | 3310 | 68% |
