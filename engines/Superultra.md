@@ -8,14 +8,14 @@ Home: https://github.com/A1exL1ang/Superultra
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0 | 2024-02-02 |  | 3310 | 3380 |  |
+| 2.0 | 2024-02-02 |  | 3308 | 3379 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 2.0 | 2024-02-02 |  | 3295 | 3360 |  |
+| 2.0 | 2024-02-02 |  | 3297 | 3360 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings T1 <sub>(i5-7500T 2.70GHz)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-27 05:44:03
+Generated: 2026-11-28 05:43:46
 
 
 
@@ -49,9 +49,9 @@ Generated: 2026-11-27 05:44:03
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
 | 2.0 | VLTC <sub>(2m24s+1.12s)</sub> | T1 | 3379 | 11 | 2084 | 50% | 3375 | 70% |
-|  |  | P1 | 3360 | 28 | 332 | 52% | 3345 | 68% |
-|  |  | E1 | 3380 | 25 | 428 | 49% | 3384 | 66% |
+|  |  | P1 | 3360 | 28 | 336 | 52% | 3347 | 68% |
+|  |  | E1 | 3379 | 25 | 428 | 49% | 3383 | 66% |
 |  | LTC <sub>(60.0+0.60s)</sub> | T1 | 3314 | 11 | 1962 | 50% | 3313 | 67% |
-|  |  | P1 | 3295 | 29 | 298 | 51% | 3281 | 69% |
-|  |  | E1 | 3310 | 26 | 384 | 51% | 3303 | 61% |
+|  |  | P1 | 3297 | 29 | 298 | 51% | 3282 | 69% |
+|  |  | E1 | 3308 | 26 | 388 | 51% | 3302 | 61% |
 |  | STC <sub>(8.0+0.08s)</sub> | T1 | 3055 | 38 | 208 | 44% | 3105 | 50% |
