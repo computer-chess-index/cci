@@ -8,7 +8,7 @@ Home: https://www.revengechess.com/
 
 | Version | Published | STC <sub>8.0+0.08s  | LTC <sub>60.0+0.60s | VLTC <sub>2m24s+1.12s | Comment |
 | --- | --- | --- | --- | --- | --- |
-| 4.0.7 | 2025-01-01 | 3272 | 3482 | 3557 |  |
+| 4.0.7 | 2025-01-01 | 3271 | 3480 | 3556 |  |
  | | | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | cElo <sub>(∆ prev) | 
 
 ## Elo Ratings P1 <sub>(Ultra 7 265T (1.50 GHz) - P-Core)</sub>
@@ -40,7 +40,7 @@ Opening book: 8_moves_v3<br>
  Lists:
 Ratings: <a href=https://github.com/computer-chess-index/cci/blob/main/lists/CCIRatings.csv target="_blank">Complete list</a>
 
-Generated: 2026-11-27 05:42:32
+Generated: 2026-11-28 05:42:21
 
 
 
@@ -48,12 +48,12 @@ Generated: 2026-11-27 05:42:32
 
 | Version | Time Control | Variant | Elo  | Range +/- | Matches | Score | Average Opponent Elo | Draws |
 | --- | --- |--- | --- | --- | --- | --- | --- | --- |
-| 4.0.7 | VLTC <sub>(2m24s+1.12s)</sub> | E1 | 3557 | 30 | 260 | 51% | 3551 | 78% |
+| 4.0.7 | VLTC <sub>(2m24s+1.12s)</sub> | P1 | 3497 | 36 | 184 | 51% | 3494 | 79% |
+|  |  | E1 | 3556 | 30 | 260 | 51% | 3549 | 78% |
 |  |  | T1 | 3495 | 15 | 1002 | 50% | 3494 | 81% |
-|  |  | P1 | 3497 | 36 | 184 | 51% | 3492 | 79% |
 |  | LTC <sub>(60.0+0.60s)</sub> | P1 | 3483 | 37 | 172 | 49% | 3488 | 84% |
-|  |  | E1 | 3482 | 28 | 314 | 49% | 3487 | 74% |
+|  |  | E1 | 3480 | 28 | 314 | 49% | 3486 | 74% |
 |  |  | T1 | 3467 | 16 | 974 | 50% | 3465 | 78% |
-|  | STC <sub>(8.0+0.08s)</sub> | P1 | 3305 | 28 | 318 | 50% | 3306 | 67% |
-|  |  | E1 | 3272 | 24 | 440 | 47% | 3294 | 64% |
+|  | STC <sub>(8.0+0.08s)</sub> | E1 | 3271 | 24 | 452 | 47% | 3293 | 64% |
 |  |  | T1 | 3289 | 15 | 1084 | 50% | 3291 | 67% |
+|  |  | P1 | 3305 | 28 | 318 | 50% | 3308 | 67% |
